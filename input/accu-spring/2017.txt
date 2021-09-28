@@ -1,0 +1,626 @@
+#locked
+
+$add meeting accu
+$add edition 2017
+$add language english
+$add tags conference live
+
+Tuesday 2017-04-25
+Bristol 3	Empire	SS Great Britain	Wallace
+10:00
+
+#accu-2017-0001
+Moving to C++17: The New Language and Library Features
+Nicolai Josuttis
+
+#accu-2017-0002
+The Art of Writing Reasonable Concurrent Code#accu-2017-0056
+Felix Petriconi
+
+slides
+
+#accu-2017-0003
+Testable architecture
+Seb Rose @ Jon Jagger
+
+#accu-2017-0004
+A Programmer’s Introduction to Chapel
+Brad Chamberlain
+
+Wednesday 2017-04-26
+Bristol 1	Bristol 2	Bristol 3	Empire	SS Great Britain
+09:30
+
+#accu-2017-0005
+To hell and back: One guitarist’s journey through modern software development
+Russ Miles
+
+slides
+video
+
+10:30
+
+Break
+
+11:00
+
+#accu-2017-0006
+Parallel Algorithms
+Dietmar Kühl
+
+slides
+
+#accu-2017-0007
+Lock-free programming with modern C++
+Timur Doumler
+
+slides
+video
+
+#accu-2017-0008
+The nightmare of Move Semantics for Simple Classes
+Nicolai Josuttis
+
+slides
+
+#accu-2017-0009
+A Test of Strength
+Chris Oldwood
+
+slides
+video
+
+#accu-2017-0010
+The link from object to executable - the role of linker in a development toolchain
+Peter Smith
+
+slides
+
+12:30
+
+Lunch
+
+14:00
+
+#accu-2017-0011
+The Detection Idiom - a simpler way to SFINAE
+Marshall Clow
+
+slides
+video
+
+#accu-2017-0012
+Atomic’s memory orders, what for?
+Frank Birbacher
+
+video
+
+#accu-2017-0013
+Bluff your way in x64 assembler
+Roger Orr
+
+slides
+video
+
+#accu-2017-0014
+Thinking Outside the Synchronisation Quadrant
+Kevlin Henney
+
+slides
+video
+
+#accu-2017-0015
+The MirAL Story
+Alan Griffiths
+
+slides
+
+15:30
+
+Break
+
+16:00
+
+#accu-2017-0016
+A look at C++ through the glasses of a language tool
+Anastasia Kazakova
+
+slides
+video
+
+#accu-2017-0017
+Metaprogramming in C++14
+Louis Dionne
+
+slides
+video
+
+#accu-2017-0018
+Time gentlemen please
+Neil Horlock
+
+#accu-2017-0019
+How to write a programming language
+Andy Balaam
+
+slides
+video
+
+#accu-2017-0020
+C++ Countdown Pub Quiz
+Robert Chatley @ Jon Jagger
+
+17:30
+
+Break
+
+18:00
+
+Lightning Talks (1 hour)
+
+19:00
+
+Welcome Reception
+
+Thursday 2017-04-27
+Bristol 1	Bristol 2	Bristol 3	Empire	SS Great Britain
+09:30
+
+#accu-2017-0021
+The Audacity of Chapel: Scalable Parallel Programming Done Right
+Brad Chamberlain
+
+video
+
+10:30
+
+Break
+
+11:00
+
+#accu-2017-0022
+Writing games in very modern C++
+Guy Davidson
+
+video
+
+#accu-2017-0023
+Local (arena) Memory Allocators
+John Lakos
+
+slides
+video
+
+#accu-2017-0024
+Documentation for software developers
+Peter Hilton
+
+slides
+
+#accu-2017-0025
+Functional Programming for the Web with Elm
+Austin Bingham
+
+slides
+video
+
+#accu-2017-0026
+The Programmer CEO, and how to do a software startup
+Greg Law
+
+slides
+
+12:30
+
+Lunch
+
+14:00
+
+#accu-2017-0027
+C++ Core Guidelines - Modernize your C++ Code Base
+Peter Sommerlad
+
+slides
+video
+
+#accu-2017-0028
+An Overview of Program Optimization Techniques
+Mathias Gaunard
+
+slides
+video
+
+#accu-2017-0029
+Standardised Coroutine Concurrency in Python 3
+Robert Smallshire
+
+video
+
+#accu-2017-0030
+An introduction to Kotlin by example
+Dmitry Kandalov
+
+slides
+video
+
+#accu-2017-0031
+Deterministic Components for Interactive Distributed Systems: Benefits and Implementation
+Sergey Ignatchenko
+
+15:30
+
+Break
+
+16:00
+
+#accu-2017-0032
+Learning (and teaching) modern C++ - Challenges and Resources
+Arne Mertz
+
+video
+
+#accu-2017-0033
+The C++ Type System Is Your Friend
+Hubert Matthews
+
+slides
+video
+
+#accu-2017-0034
+Why limiting your work in progress will speed up your project
+Michel Grootjans
+
+slides
+
+#accu-2017-0035
+DNS at 30
+Jim Hague
+
+slides
+video
+
+#accu-2017-0036
+Embracing Modern CMake
+Stephen Kelly
+
+17:30
+
+Break
+
+18:00
+
+Lightning Talks (1 hour)
+
+19:00
+
+Bloomberg ACCUChess17 (at Zerodegrees via coaches)
+
+Friday 2017-04-28
+Bristol 1	Bristol 2	Bristol 3	Empire	SS Great Britain
+09:30
+
+#accu-2017-0037
+AI: Actual Intelligence
+Fran Buontempo
+
+video
+
+10:30
+
+Break
+
+11:00
+
+#accu-2017-0038
+The missing piece of the continuous integration puzzle - what to do with all those test failures?
+Greg Law
+
+slides
+video
+
+
+#accu-2017-0039
+Requirement: Creativity
+Dirk Haun
+
+slides
+video
+
+
+#accu-2017-0040
+Passwords. Are. Not. Hard!
+Dom Davis
+
+video
+
+
+#accu-2017-0041
+Efficient data aggregation with Fenwick trees
+Ahto Truu
+
+slides
+video
+
+
+#accu-2017-0042
+Machine Learning with Python Case Study
+Christopher Simons @ Pedro Ferreira
+
+video
+
+
+#accu-2017-0043
+Named parameters
+Odin Holmes
+
+slides
+
+#accu-2017-0044
+Missing Optimizations on Node-based Containers
+Elliot Goodrich
+
+slides
+video
+
+
+#accu-2017-0045
+Introduction to Intel SGX
+Samathy Barratt
+
+
+#accu-2017-0046
+Intro to TDD and BDD
+Seb Rose
+
+slides
+video
+
+
+#accu-2017-0047
+LLVM C/C++ compiler frontend in Java
+Petr Kudriavtsev @ Vladimir Voskresensky
+
+slides
+video
+
+#accu-2017-0048
+Easy High Constancy
+Sergey Nepomnyachiy
+
+slides
+video
+
+#accu-2017-0049
+Design and Evolution of cyber-dojo
+Jon Jagger
+
+slides
+video
+
+
+#accu-2017-0050
+Contracts programming after C++17
+J Daniel Garcia
+
+slides
+video
+
+#accu-2017-0051
+ACCU - The View From The Conference
+Nigel Lester
+
+12:30
+
+Lunch
+
+14:00
+
+#accu-2017-0052
+Automatic C++ source code generation with clang
+Sergei Sadovnikov
+
+slides
+video
+
+#accu-2017-0053
+Using Trompeloeil, a mocking framework for modern C++
+Björn Fahller
+
+slides video
+
+#accu-2017-0054
+Mastering Git’s index
+Charles Bailey
+
+slides
+video
+
+#accu-2017-0055
+History of Time: Asynchronous C++
+Steven Simpson
+
+slides
+video
+
+#accu-2017-0056
+Introduction to Blockchain technology, and how to build something useful with it
+Paul Cunnell
+
+15:30
+
+Break
+
+16:00
+
+#accu-2017-0057
+5 years creating FOSS dev tools for C and C++: the untold
+Diego Rodriguez-Losada
+
+#accu-2017-0058
+Coroutines and C++ DSLs for Human Scale Concurrency
+Dominic Robinson
+
+video
+
+#accu-2017-0059
+The Ethics of Software - some practical considerations
+Burkhard Kloss
+
+slides
+video
+
+#accu-2017-0060
+Improving Sense of Smell for Low-Level Debugging
+Matthew Dodkins
+
+slides
+video
+
+#accu-2017-0061
+POSIX violates core guidelines: A new take on the operating system interface
+Ingve Vormestrand
+
+17:30
+
+Break
+
+17:35
+
+Lightning Talks (40 mins)
+
+19:30
+
+Conference Supper (19:30 for drinks, 20:00 service)
+
+Saturday 2017-04-29
+Bristol 1	Bristol 2	Bristol 3	Empire	SS Great Britain
+09:30
+
+#accu-2017-0062
+Dealing with strings in C++
+Arjan van Leeuwen
+
+slides
+
+#accu-2017-0063
+Implementing variant visitation using lambdas
+Vittorio Romeo
+
+slides
+video
+
+#accu-2017-0064
+Writing good BDD scenarios
+Seb Rose
+
+slides
+
+#accu-2017-0065
+Mongrel Monads, Dirty, Dirty, Dirty
+Niall Douglas
+
+slides
+video
+
+#accu-2017-0066
+ah64: A memory analyzer for un-instrumented cores
+Tim Boddy
+
+slides
+
+11:00
+
+Break
+
+11:30
+
+#accu-2017-0067
+Grill the C++ committee
+Roger Orr
+
+video
+
+#accu-2017-0068
+Concurrency, Parallelism and Coroutines
+Anthony Williams
+
+slides
+video
+
+#accu-2017-0069
+How to present effectively in a meeting
+Dirk Haun
+
+slides
+
+#accu-2017-0070
+Functional C++ For Fun And Profit
+Phil Nash
+
+video
+
+#accu-2017-0071
+Knuth, Amdahl: I spurn thee!
+Jason McGuiness
+
+slides
+
+13:00
+
+Lunch
+
+13:30
+
+ACCU AGM
+
+14:30
+
+#accu-2017-0072
+Modern C++ Design reloaded
+Odin Holmes
+
+slides
+video
+
+#accu-2017-0073
+Introduction to Qt 3D
+James Turner @ Giuseppe D’Angelo
+
+slides
+video
+
+#accu-2017-0074
+Practical Code Review using tools
+Sven Rosvall
+
+slides
+
+#accu-2017-0075
+A Browse Through ES2016
+Jez Higgins
+
+slides
+video
+
+#accu-2017-0076
+Got To Test Them All
+Steve Love
+
+slides
+
+16:00
+
+Break
+
+16:30
+
+#accu-2017-0077
+Thoughts on Metaclasses
+Herb Sutter
+
+slides
+video
+
+17:30
+
+Close

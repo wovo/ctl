@@ -1,0 +1,251 @@
+//$locked
+
+$add meeting meeting-c++
+$add edition 2014
+$add language english
+$add tags conference life c++
+
+===============================================================================
+
+$set tags keynote
+
+1:52:25
+#marker-0001
+WORDT NU AFGESPEELD
+Scott Meyers: The evolving search for effective C++
+Meeting Cpp
+
+1:27:36
+#marker-0002
+WORDT NU AFGESPEELD
+Plain Threads are the GOTO of todays computing - Hartmut Kaiser []
+Meeting Cpp
+
+
+===============================================================================
+
+$set tags interview
+
+
+19:08
+#marker-0003
+WORDT NU AFGESPEELD
+Jens Weller, Hartmut Kaiser, Scott Meyers: An interview with Hartmut Kaiser and Scott Meyers 
+Meeting Cpp
+
+2:34
+#marker-0004
+WORDT NU AFGESPEELD
+Jens Weller: Meeting C++ 2014 - Survey Session
+Meeting Cpp
+
+
+18:49
+#marker-0005
+WORDT NU AFGESPEELD
+Jens Weller: Meeting C++ 2014 Update & Survey Session
+Meeting Cpp
+
+2
+
+===============================================================================
+
+$set tags talk
+
+
+3
+
+
+4
+
+
+5
+
+
+6
+
+1:06:12
+#marker-0006
+WORDT NU AFGESPEELD
+Automatic Task-based Code Generation for High Performance DSEL - Joel Falcou []
+Meeting Cpp
+
+7
+
+1:12:29
+#marker-0007
+WORDT NU AFGESPEELD
+Writing robust code - David Stone - []
+Meeting Cpp
+
+8
+
+1:12:29
+
+
+9
+
+57:45
+#marker-0009
+WORDT NU AFGESPEELD
+Monads in Chains - Ivan Cukic []
+Meeting Cpp
+
+10
+
+1:01:18
+#marker-0010
+WORDT NU AFGESPEELD
+Multiplatform C++ - Edouard Alligand []
+Meeting Cpp
+
+11
+
+57:58
+#marker-0011
+WORDT NU AFGESPEELD
+Dennis Demidov : Generating OpenCL/CUDA source code from C++ expressions in VexCL
+Meeting Cpp
+
+12
+
+49:40
+#marker-0012
+WORDT NU AFGESPEELD
+Pruning Error Messages From C++ Template Code - Roland Bock - []
+Meeting Cpp
+
+13
+
+1:04:28
+#marker-0013
+WORDT NU AFGESPEELD
+The C++ Memory Model - Valentin Ziegler - []
+Meeting Cpp
+
+14
+
+46:57
+#marker-0014
+WORDT NU AFGESPEELD
+C++11 library components to make a scientist happy - Peter Gottschling - []
+Meeting Cpp
+
+15
+
+1:07:23
+#marker-0015
+WORDT NU AFGESPEELD
+Testdriven C++ with Catch - Phil Nash - []
+Meeting Cpp
+
+16
+
+1:06:56
+#marker-0016
+WORDT NU AFGESPEELD
+Generic Parallel Programming - Guntram Berti - []
+Meeting Cpp
+
+17
+
+1:06:11
+#marker-0017
+WORDT NU AFGESPEELD
+C++ SIMD parallelism with Intel Cilk Plus and OpenMP 4.0 - Georg Zitzlsberger - []
+Meeting Cpp
+
+18
+
+58:54
+#marker-0018
+WORDT NU AFGESPEELD
+Expression Templates Revisited - Klaus Iglberger - []
+Meeting Cpp
+
+19
+
+54:14
+#marker-0019
+WORDT NU AFGESPEELD
+Interactive Metaprogramming Shell based on Clang - Ábel Sinkovics & András Kucsma - []
+Meeting Cpp
+
+20
+
+1:02:55
+#marker-0020
+WORDT NU AFGESPEELD
+Objects? No Thanks! - Wouter van Ooijen - []
+Meeting Cpp
+
+21
+
+1:07:16
+#marker-0021
+WORDT NU AFGESPEELD
+Sqlpp11, An EDSL For Type-Safe SQL In C++11 - Roland Bock - []
+Meeting Cpp
+
+22
+
+1:00:13
+#marker-0022
+WORDT NU AFGESPEELD
+Designing value classes for modern C++ - Mark Mutz - []
+Meeting Cpp
+
+23
+
+1:05:46
+#marker-0023
+WORDT NU AFGESPEELD
+the asynchronous library - Christophe Henry - []
+Meeting Cpp
+
+24
+
+58:15
+#marker-0024
+WORDT NU AFGESPEELD
+C++11 Multithreading done right? - Rainer Grimm - []
+Meeting Cpp
+
+25
+
+39:42
+#marker-0025
+WORDT NU AFGESPEELD
+Ranges and Iterators for numerical problems - Karsten Ahnert - []
+Meeting Cpp
+
+26
+
+1:03:25
+#marker-0026
+WORDT NU AFGESPEELD
+When dependency hell freezes over - Daniel Pfeifer - []
+Meeting Cpp
+
+27
+
+56:25
+#marker-0027
+WORDT NU AFGESPEELD
+Executors in C++ - Detlef Vollmann - []
+Meeting Cpp
+
+
+
+
+===============================================================================
+
+$set tags panel
+
+
+
+===============================================================================
+
+$set tags lightning
+
+

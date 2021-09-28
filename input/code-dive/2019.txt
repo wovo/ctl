@@ -1,0 +1,190 @@
+//#locked
+
+$add meeting code-dive
+$add edition 2019
+$add language english
+$add tags conference live
+
+#marker-0001
+A Short Life span For a Regular Mess
+Victor Ciura
+
+#marker-0002
+Agile the hard(ware) way
+Karol Przybylski
+
+#marker-0003
+AI in Healthcare
+Pablo Ribalta
+
+#marker-0004
+An Agile (hi)story
+Zbigniew Piecuch
+
+#marker-0005
+AsyncIO and Music
+Łukasz Langa
+
+#marker-0006
+Better Algorithm Intuition
+Conor Hoekstra
+
+#marker-0007
+Black-box performance analysis
+Dmitriy Trukhanov
+
+#marker-0008
+Build for everyday programmers and why should they care
+Mathieu Ropert
+
+#marker-0009
+Building conversational voice bots – lessons learned
+Jakub Janczyk
+
+#marker-0010
+C++ as Assembly 2.0 - Hello Nim
+Viktor Kirilov
+
+#marker-0011
+C++ Code Smells
+Jason Turner
+
+#marker-0012
+C++20 Coroutines: Asynchronity reimagined
+Miłosz Warzecha
+
+#marker-0013
+C++20 Coroutines: Generators, and Brain Unrolling Sweetness
+Adi Shavit
+
+#marker-0014
+C++20 Coroutines: Introduction
+Marcin Grzebieluch
+
+#marker-0015
+C++20 Coroutines: What's next?
+Dawid Pilarski
+
+#marker-0016
+C++: lambda Demystified
+Andreas Fertig
+
+#marker-0017
+Cache consistency and the C++ memory model: writing code to real hardware
+Yossi Moalem
+
+#marker-0018
+Cloud Native C++: Modern architecture for modernized language
+Piotr Gaczkowski
+
+#marker-0019
+Dependency management in C++
+Xavier Bonaventura
+
+#marker-0020
+Diagnose your Golang App anytime anywhere!
+Mateusz Dymiński
+
+#marker-0021
+Faster than memcpy
+Mateusz Brzeszcz
+
+#marker-0022
+Hate yourself? Keep using Python 2
+Oleksii Pilkevych
+
+#marker-0023
+How bananas could save your project. Understanding UX
+Arletta Jasonek
+
+#marker-0024
+Introduction to gRPC
+Michał Pawlik
+
+#marker-0025
+Making Fast Incremental Compiler for Huge Codebase
+Michał Bartkowiak
+
+#marker-0026
+Modern techniques for keeping your code DRY
+Björn Fahller
+
+#marker-0027
+No more coffee breaks - reducing C/C++ project compilation time
+Piotr Osiewicz
+
+#marker-0028
+Practical Aspects of Microservice Architecture
+Remigiusz Michułka
+
+#marker-0029
+Preconditions, postconditions, invariants – how they help write robust programs
+Andrzej Krzemieński
+
+#marker-0030
+Project managing in Data Science teams
+Tereza Iofciu
+
+#marker-0031
+Resilience patterns in practice
+Tomasz Skowroński
+
+#marker-0032
+Rethinking Usage of C++ Templates
+Mateusz Pusz
+
+#marker-0033
+Should I care about CPU cache?
+Kamil Witecki
+
+#marker-0034
+Software is feeding the World
+Christian Barra
+
+#marker-0035
+Status quo: clang-tidy & AddressSanitizer on Windows
+Victor Ciura
+
+#marker-0036
+Story of autonomous drone racing
+Piotr Padlewski
+
+#marker-0037
+The Life of a CPU Instruction
+Borislav Stanimirov
+
+#marker-0038
+Thinking outside of the framework
+Mateusz Nowak
+
+#marker-0039
+Trusting your Raspberry Pi - An introduction to the TPM and IoT
+Ian Oliver
+
+#marker-0040
+Undefined Behavior is Not an Error
+Barbara Geller @ Ansel Sermersheim
+
+#marker-0041
+What do you mean by "cache friendly"?
+Björn Fahller
+
+#marker-0042
+What does it mean to trust your boot process?
+Gabriela Limonta
+
+#marker-0043
+When Python Practices Go Wrong
+Brandon Rhodes
+
+#marker-0044
+When warnings become errors. A case-study of latent bugs discovered by modernizing toolchain
+Łukasz Kucharski
+
+#marker-0045
+Why you should start to think about compiling your code into web assembly
+Sambath Logakrishnan
+
+#marker-0046
+You can run but you can’t hide from it: Edge cloud is here, now!
+Adrian Peret

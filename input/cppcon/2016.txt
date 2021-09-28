@@ -1,0 +1,698 @@
+#locked
+
+$add meeting cppcon
+$add edition 2016
+$add language english
+$add tags conference live c++
+
+Saturday, September 17
+ 
+9:00am PDT
+#cppcon-2016-0001
+Concurrent Thinking in C++: Part I
+FREY (ROOM 406)
+Anthony Williams
+#cppcon-2016-0002
+Crafting Embedded Software in C++: Part I
+HAGGARD (ROOM 408)
+Dan Saks
+#cppcon-2016-0003
+Modernizing Your C++: Part I
+GRIMMIE (ROOM 407)
+Michael Caisse
+#cppcon-2016-0004
+Programming with Qt/Widgets: Part I
+ROBINSON (ROOM 409)
+Giuseppe D'Angelo
+#cppcon-2016-0005
+Using C++ for Low-Latency Systems: Part I
+KANTNER (ROOM 403)
+Patrice Roy
+
+ 
+Sunday, September 18
+ 
+9:00am PDT
+#cppcon-2016-0006
+Concurrent Thinking in C++: Part II
+FREY (ROOM 406)
+Anthony Williams
+#cppcon-2016-0007
+Crafting Embedded Software in C++: Part II
+HAGGARD (ROOM 408)
+Dan Saks
+#cppcon-2016-0008
+Modernizing Your C++: Part II
+GRIMMIE (ROOM 407)
+Michael Caisse
+#cppcon-2016-0009
+Programming with Qt/Widgets: Part II
+ROBINSON (ROOM 409)
+Giuseppe D'Angelo
+#cppcon-2016-0010
+Using C++ for Low-Latency Systems: Part II
+KANTNER (ROOM 403)
+Patrice Roy
+
+8:00pm PDT
+Registration / Reception
+VANITY (ROOM 404)
+
+ 
+Monday, September 19
+ 
+8:00am PDT
+Registration
+BOWIE HALL (1ST FLOOR HALL)
+
+9:00am PDT
+#cppcon-2016-0011
+Keynote: The Evolution of C++: Past, Present, and Future
+BOWIE HALL (1ST FLOOR HALL)
+Bjarne Stroustrup
+
+11:00am PDT
+#cppcon-2016-0012
+Embracing Standard C++ for the Windows Runtime
+KANTNER (ROOM 403)
+Kenny Kerr • James McNellis
+
+#cppcon-2016-0013
+Instruction Re-ordering Everywhere: The C++ 'As-If' Rule and the Role of Sequence
+PRINCE THEATER (2ND FLOOR)
+Charley Bay
+
+#cppcon-2016-0014
+Regular Expressions in C++, Present and Future
+WHITE (ROOM 407)
+Tim Shen
+
+#cppcon-2016-0015
+WG21-SG14 – Making C++ better for games, embedded and financial developers
+VANITY (ROOM 404)
+Guy Davidson @ Nicolas Guillemot @ Sean Middleditch @ Michael Wong
+
+#cppcon-2016-0016
+Using Types Effectively
+Guy Davidson • Nicolas Guillemot • Sean Middleditch • Michael Wong
+BOWIE HALL (1ST FLOOR HALL)
+Ben Deane
+
+2:00pm PDT
+#cppcon-2016-0017
+Cache Optimised Hash library
+WHITE (ROOM 407)
+Christiaan Pretorius
+#cppcon-2016-0018
+C++17 in Breadth (part 1 of 2)
+BOWIE HALL (1ST FLOOR HALL)
+Alisdair Meredith
+#cppcon-2016-0019
+Standards Proposals for SG6 - Integers
+ROBINSON (ROOM 409)
+John McFarlane • Robert Ramey
+#cppcon-2016-0020
+What is the basic interface? (part 1 of 2)
+KANTNER (ROOM 403)
+Lisa Lippincott
+#cppcon-2016-0021
+Computer Architecture, C++, and High Performance
+PRINCE THEATER (2ND FLOOR)
+Matt P. Dziubinski
+#cppcon-2016-0022
+A ＜chrono＞ Tutorial
+FREY (ROOM 406)
+Howard Hinnant
+#cppcon-2016-0023
+Template Normal Programming (part 1 of 2)
+VANITY (ROOM 404)
+Arthur O'Dwyer
+
+3:15pm PDT
+#cppcon-2016-0024
+Designing C++ portable SIMD support
+ROBINSON (ROOM 409)
+Joel Falcou
+#cppcon-2016-0025
+C++17 in Breadth (part 2 of 2)
+BOWIE HALL (1ST FLOOR HALL)
+Alisdair Meredith
+#cppcon-2016-0026
+Colonies, performance and why you should care
+WHITE (ROOM 407)
+Matthew Bentley
+#cppcon-2016-0027
+Latest and Greatest from the Visual Studio Family for C++ Developers
+FREY (ROOM 406)
+Steve Carroll • Daniel Moth
+#cppcon-2016-0028
+Parallelism in Modern C++
+PRINCE THEATER (2ND FLOOR)
+Hartmut Kaiser
+#cppcon-2016-0029
+What is the basic interface? (part 2 of 2)
+KANTNER (ROOM 403)
+Lisa Lippincott
+#cppcon-2016-0030
+Template Normal Programming (part 2 of 2)
+VANITY (ROOM 404)
+Arthur O'Dwyer
+
+4:45pm PDT
+#cppcon-2016-0031
+#Include : from bootloader to REST API with the new C++0032
+KANTNER (ROOM 403)
+Alfred Bratterud
+#cppcon-2016-0033
+Beyond the Issaquah Challenge: High-Performance Scalable Complex Updates
+FREY (ROOM 406)
+Paul E. McKenney
+#cppcon-2016-0034
+High Performance C++ Concurrent Transactional Data Structures: Concept, Design, and Implementation
+BOWIE HALL (1ST FLOOR HALL)
+Damian Dechev • Deli Zhang
+#cppcon-2016-0035
+My Little Optimizer: Undefined Behavior is Magic
+WHITE (ROOM 407)
+Michael Spencer
+#cppcon-2016-0036
+variant: Past, Present and Future
+VANITY (ROOM 404)
+David Sankel
+#cppcon-2016-0037
+The C++17 Parallel Algorithms Library and Beyond
+PRINCE THEATER (2ND FLOOR)
+Bryce Adelstein Lelbach
+
+8:30pm PDT
+#cppcon-2016-0038
+Grill the Committee
+PRINCE THEATER (2ND FLOOR)
+Jon Kalb • Hans Boehm • Chandler Carruth • Casey Carter • Marshall Clow • Gabriel Dos Reis • Bjarne Stroustrup • Herb Sutter • Michael Wong
+
+ 
+Tuesday, September 20
+ 
+8:15am PDT
+//#cppcon-2016-0039
+SG14 meeting Wednesday:Towards better support in C++ for Games and Finance
+FREY (ROOM 406)
+Nicolas Guillemot • Sean Middleditch • Michael Wong
+
+9:00am PDT
+#cppcon-2016-0040
+An Introduction to C++ Coroutines
+PRINCE THEATER (2ND FLOOR)
+James McNellis
+#cppcon-2016-0041
+High Performance Code 201: Hybrid Data Structures
+BOWIE HALL (1ST FLOOR HALL)
+Chandler Carruth
+#cppcon-2016-0042
+SPMD Programming Using C++ and ISPC
+FREY (ROOM 406)
+Nicolas Guillemot
+#cppcon-2016-0043
+std::accumulate: Exploring an Algorithmic Empire
+WHITE (ROOM 407)
+Ben Deane
+#cppcon-2016-0044
+The Exception Situation
+KANTNER (ROOM 403)
+Patrice Roy
+#cppcon-2016-0045
+Two practical applications of the Brigand TMP library
+ROBINSON (ROOM 409)
+Edouard Alligand • Joel Falcou
+#cppcon-2016-0046
+GDB - a lot more than you realized
+VANITY (ROOM 404)
+Greg Law
+
+10:30am PDT
+#cppcon-2016-0047
+Keynote: extern "C": Talking to C Programmers About C++
+BOWIE HALL (1ST FLOOR HALL)
+Dan Saks
+
+12:30pm PDT
+#cppcon-2016-0048
+Debugging In the Large
+KANTNER (ROOM 403)
+Abel Matthew
+// not on youtube
+//#cppcon-2016-0049
+C++ in Colleges Panel
+PRINCE THEATER (2ND FLOOR)
+Michał Dominiak • Joel Falcou • Hartmut Kaiser • Jackie Kay • Bryce Adelstein Lelbach • Patrick Niedzielski • Vittorio Romeo • Patrice Roy • Brett Searles
+
+2:00pm PDT
+#cppcon-2016-0050
+Implementing a Modern C++ MQTT Client for Embedded Devices
+FREY (ROOM 406)
+Michael Caisse
+#cppcon-2016-0051
+Advanced Levelization Techniques (part 1 of 3)
+WHITE (ROOM 407)
+John Lakos
+#cppcon-2016-0052
+C++ Coroutines: Under the covers
+PRINCE THEATER (2ND FLOOR)
+Gor Nishanov
+#cppcon-2016-0053
+The Continuing Future of Concurrency in C++
+BOWIE HALL (1ST FLOOR HALL)
+Anthony Williams
+#cppcon-2016-0054
+Towards Heterogeneous Programming in C++
+KANTNER (ROOM 403)
+Gordon Brown • Michael Wong
+#cppcon-2016-0055
+Want fast C++? Know your hardware!
+VANITY (ROOM 404)
+Timur Doumler
+
+3:15pm PDT
+#cppcon-2016-0056
+Conan, a C and C++ package manager for developers
+VANITY (ROOM 404)
+Diego Rodriguez-Losada Gonzalez
+#cppcon-2016-0057
+What happened to...: Deprecated and Removed Features of C++
+KANTNER (ROOM 403)
+Billy Baker
+#cppcon-2016-0058
+What We've Learned From the C++ Community
+PRINCE THEATER (2ND FLOOR)
+Robert Irving • Jason Turner
+#cppcon-2016-0059
+Advanced Levelization Techniques (part 2 of 3)
+WHITE (ROOM 407)
+John Lakos
+#cppcon-2016-0060
+Bringing Clang and C++ to GPUs: An Open-Source, CUDA-Compatible GPU C++ Compiler
+BOWIE HALL (1ST FLOOR HALL)
+Justin Lebar
+#cppcon-2016-0061
+Putting Coroutines to Work with the Windows Runtime
+FREY (ROOM 406)
+Kenny Kerr • James McNellis
+
+3:45pm PDT
+#cppcon-2016-0062
+Out of Memory? Business as usual: Examining applications that do not terminate on std::bad_alloc
+KANTNER (ROOM 403)
+Sergey Zubkov
+
+// this is the title in the schedule, but not on youtube:
+#cppcon-2016-0063
+Introduction to C++ python extensions and embedding Python in C++ Apps
+Python & C++: the Beauty and the Beast, dancing together. Introduction to C++ python extensions and embedding Python in C++ Apps.
+Diego Rodriguez-Losada
+
+VANITY (ROOM 404)
+Diego Rodriguez-Losada Gonzalez
+#cppcon-2016-0064
+The strange details of std::string at Facebook
+PRINCE THEATER (2ND FLOOR)
+Nicholas Ormrod
+
+4:45pm PDT
+#cppcon-2016-0065
+Writing applications in modern C++ and Qt
+FREY (ROOM 406)
+Jens Weller
+#cppcon-2016-0066
+Advanced Levelization Techniques (part 3 of 3)
+WHITE (ROOM 407)
+John Lakos
+#cppcon-2016-0067
+Game engine using STD C++ 11
+KANTNER (ROOM 403)
+Jason Jurecka
+#cppcon-2016-0068
+Make Friends with the Clang Static Analysis Tools
+VANITY (ROOM 404)
+Gábor Horváth
+#cppcon-2016-0069
+The speed of concurrency (is lock-free faster?)
+BOWIE HALL (1ST FLOOR HALL)
+Fedor Pikus
+#cppcon-2016-0070
+tuple: What's New and How it Works
+PRINCE THEATER (2ND FLOOR)
+Stephan T. Lavavej
+#cppcon-2016-0071
+Welcome To The Time Zone
+ROBINSON (ROOM 409)
+Howard Hinnant
+
+6:15pm PDT
+//#cppcon-2016-0072
+//Come learn about the cutting-edge C++ technology Tower uses!
+//TAVERN HALL
+
+8:30pm PDT
+//#cppcon-2016-0073
+//Lightning Talks
+//PRINCE THEATER (2ND FLOOR)
+//Michael Caisse
+
+ 
+Wednesday, September 21
+ 
+8:30am PDT
+ISO SG14 Working Meeting
+ROBINSON (ROOM 409)
+LIMITED
+Herb Sutter • Michael Wong
+
+9:00am PDT
+#cppcon-2016-0076
+Building Software Capital: How to write the highest quality code and why
+BOWIE HALL (1ST FLOOR HALL)
+David Sankel
+#cppcon-2016-0077
+From Zero to Iterators: Building and Extending the Iterator Hierarchy in a Modern, Multicore World
+PRINCE THEATER (2ND FLOOR)
+Patrick Niedzielski
+#cppcon-2016-0078
+Optimally Shooting Furry Balls out of Vulkanoes
+KANTNER (ROOM 403)
+Alexandru Voicu
+#cppcon-2016-0079
+Asynchronous IO with Boost.Asio
+VANITY (ROOM 404)
+Michael Caisse
+#cppcon-2016-0080
+The Blaze High Performance Math Library
+WHITE (ROOM 407)
+Klaus Iglberger
+
+10:30am PDT
+#cppcon-2016-0081
+Rich Code For Tiny Machines: A Simple Commodore 64 Game In C++17
+BOWIE HALL (1ST FLOOR HALL)
+Jason Turner
+
+12:30pm PDT
+#cppcon-2016-0082
+clang-format Birds of a Feather
+WHITE (ROOM 407)
+Mark Zeren
+// not on youtube
+// #cppcon-2016-0083
+C++ Community Building Birds of a Feather
+KANTNER (ROOM 403)
+Jon Kalb • Jens Weller
+#cppcon-2016-0084
+Working at Globalscape: Building successful enterprise solutions with C++ on Windows!
+FREY (ROOM 406)
+Gregory Hoffer
+#cppcon-2016-0085
+Reflection, Status and Use Cases
+VANITY (ROOM 404)
+Roland Bock • David Sankel
+
+2:00pm PDT
+#cppcon-2016-0086
+A C++ MQTT Message Broker for the Enterprise
+WHITE (ROOM 407)
+John Dubchak
+#cppcon-2016-0087
+C++, Abstract Algebra and Practical Applications
+KANTNER (ROOM 403)
+Robert Ramey
+#cppcon-2016-0088
+Developing C++ @ Facebook Scale
+VANITY (ROOM 404)
+Mark Isaacson
+#cppcon-2016-0089
+Garbage In, Garbage Out: Arguing about Undefined Behavior with Nasal Demons
+PRINCE THEATER (2ND FLOOR)
+Chandler Carruth
+#cppcon-2016-0090
+Message Handling in Modern C++ Applications
+FREY (ROOM 406)
+Brett Searles
+#cppcon-2016-0091
+STL Algorithms - why you should use them, and how to write your own
+BOWIE HALL (1ST FLOOR HALL)
+Marshall Clow
+
+3:15pm PDT
+#cppcon-2016-0092
+Achieving ultimate performance in financial data processing through compile time introspection: CME MDP3 example
+WHITE (ROOM 407)
+Eduardo Madrid
+#cppcon-2016-0093
+Experiences with Facebook's C++ library
+PRINCE THEATER (2ND FLOOR)
+David Watson
+#cppcon-2016-0094
+Introduction to Vector Parallelism
+KANTNER (ROOM 403)
+Pablo Halpern
+#cppcon-2016-0095
+Rainbow Six Siege: Quest for Performance
+VANITY (ROOM 404)
+Nicolas Fleury
+#cppcon-2016-0096
+Using weakly ordered C++ atomics correctly
+BOWIE HALL (1ST FLOOR HALL)
+Hans Boehm
+
+4:45pm PDT
+#cppcon-2016-0097
+C++ Costless Abstractions: the compiler view
+PRINCE THEATER (2ND FLOOR)
+Serge Guelton
+#cppcon-2016-0098
+C++14 Reflections Without Macros, Markup nor External Tooling: metaprogramming tricks for POD types
+BOWIE HALL (1ST FLOOR HALL)
+Antony Polukhin
+#cppcon-2016-0099
+Elegant Asynchronous Code
+VANITY (ROOM 404)
+Nat Goodspeed
+#cppcon-2016-0100
+From Numerical Cosmology to Efficient Bit Abstractions for the Standard Library
+FREY (ROOM 406)
+Vincent Reverdy
+#cppcon-2016-0101
+The Guideline Support Library: One Year Later
+KANTNER (ROOM 403)
+Neil MacIntosh
+#cppcon-2016-0102
+C++ on the Web: Let's have some serious fun.
+WHITE (ROOM 407)
+Dan Gohman
+
+8:30pm PDT
+#cppcon-2016-0103
+Start teaching the Concepts TS and the ranges library now!
+KANTNER (ROOM 403)
+Christopher Di Bella
+//#cppcon-2016-0104
+//Lightning Talks
+//PRINCE THEATER (2ND FLOOR)
+//Michael Caisse
+// not on youtube 
+//#cppcon-2016-0105
+Biggest Security Fails
+VANITY (ROOM 404)
+Crystal Bong • Preston Hogue • Jeff Costlow • David Holmes • Colin Walker • Jeff Warren
+
+ 
+Thursday, September 22
+ 
+9:00am PDT
+#cppcon-2016-0106
+C++ at the South Pole : Turning Particle-Astro-Physicist-Hackers into Software Engineers
+FREY (ROOM 406)
+Alex Olivas
+#cppcon-2016-0107
+The MAME (Multi-Arcade Machine Emulator) story: From C to Modern C++
+WHITE (ROOM 407)
+Miodrag Milanović
+#cppcon-2016-0108
+A modern database interface for C++
+PRINCE THEATER (2ND FLOOR)
+Erik Smith
+#cppcon-2016-0109
+Deploying C++ modules to 100s of millions of lines of code
+BOWIE HALL (1ST FLOOR HALL)
+Manuel Klimek
+#cppcon-2016-0110
+Improving Performance Through Compiler Switches- Examples from Scientific Computing
+VANITY (ROOM 404)
+Tim Haines
+#cppcon-2016-0111
+Implementing `static` control flow in C++14
+KANTNER (ROOM 403)
+Vittorio Romeo
+
+10:30am PDT
+#cppcon-2016-0112
+Keynote: Developing Blockchain Software
+BOWIE HALL (1ST FLOOR HALL)
+David Schwartz
+
+12:30pm PDT
+// not on youtube
+//#cppcon-2016-0113
+Robotics Birds of a Feather Session
+KANTNER (ROOM 403)
+Rita Ciaravino • Jackie Kay
+#cppcon-2016-0114
+Texture Compression
+PRINCE THEATER (2ND FLOOR)
+Rich Geldreich • Stephanie Hurlburt
+
+2:00pm PDT
+#cppcon-2016-0115
+AAAARGH!? Adopting Almost Always Auto Reinforces Good Habits!?
+BOWIE HALL (1ST FLOOR HALL)
+Andy Bond
+#cppcon-2016-0116
+Constant Fun
+KANTNER (ROOM 403)
+Dietmar Kühl
+#cppcon-2016-0117
+Channels - An alternative to callbacks and futures
+VANITY (ROOM 404)
+John Bandela
+#cppcon-2016-0118
+No Sane Compiler Would Optimize Atomics
+PRINCE THEATER (2ND FLOOR)
+JF Bastien
+#cppcon-2016-0119
+What C++ Programmers Need to Know about Header
+WHITE (ROOM 407)
+Walter E. Brown
+#cppcon-2016-0120
+Better mutual exclusion on the filesystem using Boost.AFIO (asynchronous file and filesystem)
+FREY (ROOM 406)
+Niall Douglas
+
+3:15pm PDT
+#cppcon-2016-0121
+Algorithm Design For Values Distributed In Time
+WHITE (ROOM 407)
+Kirk Shoop
+#cppcon-2016-0122
+How to test static_assert?
+FREY (ROOM 406)
+Roland Bock
+#cppcon-2016-0123
+I Just Wanted a Random Integer!
+KANTNER (ROOM 403)
+Cheinan Marks
+#cppcon-2016-0124
+Making C++ and the STL Work in the Linux / Windows Kernels
+VANITY (ROOM 404)
+Rian Quinn
+#cppcon-2016-0125
+There and Back Again: An Incremental C++ Modules Design
+PRINCE THEATER (2ND FLOOR)
+Richard Smith
+#cppcon-2016-0126
+Practical Performance Practices
+BOWIE HALL (1ST FLOOR HALL)
+Jason Turner
+
+4:45pm PDT
+#cppcon-2016-0127
+Control Freak++: Writing an Embedded RTPS Library in C++14
+WHITE (ROOM 407)
+Jackie Kay
+#cppcon-2016-0128
+Mobile App Development for Multiple Platforms with Visual C++, 2016
+KANTNER (ROOM 403)
+Marc Gregoire
+#cppcon-2016-0129
+The Power of Reflection with Facebook's Thrift
+PRINCE THEATER (2ND FLOOR)
+Marcelo Juchem
+#cppcon-2016-0130
+Using build2, C++ Build Toolchain
+VANITY (ROOM 404)
+Boris Kolpackov
+#cppcon-2016-0131
+Variadic expansion in examples
+BOWIE HALL (1ST FLOOR HALL)
+Michał Dominiak
+#cppcon-2016-0132
+BDE Libraries, An Orientation
+FREY (ROOM 406)
+Steven Breitstein
+
+8:30pm PDT
+#cppcon-2016-0133
+CppCon 2017 Kick-off Meeting
+FREY (ROOM 406)
+Jon Kalb
+//#cppcon-2016-0134
+//Lightning Talks
+//KANTNER (ROOM 403)
+//Michael Caisse
+
+#cppcon-2016-0135
+Compression Panel
+PRINCE THEATER (2ND FLOOR)
+Nicolas Guillemot • Guy Davidson • Rich Geldreich • Fabian Giesen • Stephanie Hurlburt
+
+9:15pm PDT
+#cppcon-2016-0136
+Making a tiny memory footprint IRC server in C++
+VANITY (ROOM 404)
+Alf-Andre Walla
+
+ 
+Friday, September 23
+ 
+8:00am PDT
+#cppcon-2016-0137
+Using Enum Structs as Bitfields
+FREY (ROOM 406)
+Jon Kalb
+
+9:00am PDT
+#cppcon-2016-0138
+A lock-free concurrency toolkit for deferred reclamation and optimistic speculation
+VANITY (ROOM 404)
+Paul E. McKenney • Maged Michael • Michael Wong
+#cppcon-2016-0139
+C++ Modules: The State of The Union
+BOWIE HALL (1ST FLOOR HALL)
+Gabriel Dos Reis
+#cppcon-2016-0140
+How bad is Meta-Programming still today?
+KANTNER (ROOM 403)
+Peter Gottschling
+#cppcon-2016-0141
+Implementing Lightweight Object Persistence with Modern C++
+PRINCE THEATER (2ND FLOOR)
+Bob Steagall
+#cppcon-2016-0142
+Iterator Haiku
+WHITE (ROOM 407)
+Casey Carter
+
+10:30am PDT
+#cppcon-2016-0143
+Lifetime Safety... By Default: Making Code Leak-Free by Construction
+BOWIE HALL (1ST FLOOR HALL)
+Herb Sutter
+
+12:30pm PDT
+//#cppcon-2016-0144
+CppCon 2017 Planning Committee Work Session
+ROOM 303
+Jon Kalb
+
+2:00pm PDT
+//#cppcon-2016-0145
+Implementing The C++ Standard Library
+BOWIE HALL (1ST FLOOR HALL)
+Bryce Adelstein Lelbach • Walter E. Brown • Marshall Clow • Eric Fiselier • Howard Hinnant • Stephan T. Lavavej • Alisdair Meredith • Anthony Williams • Michael Wong

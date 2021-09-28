@@ -1,0 +1,895 @@
+{ "list": [{
+   "duration": 6009,
+   "edition": "2019",
+   "identifier": "#meeting-c++-2019-0001",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 1,
+   "speakers": [
+      "Howard Hinnant"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/adSAN282YIw/0.jpg",
+   "title": "Design Rationale for <chrono>",
+   "video": "https://youtube.com/watch?v=adSAN282YIw"
+},{
+   "duration": 3558,
+   "edition": "2019",
+   "identifier": "#meeting-c++-2019-0002",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 2,
+   "speakers": [
+      "Nicolai Josuttis"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/6HoxXeEBtW0/0.jpg",
+   "title": "Combining C++17 Features in Practice",
+   "video": "https://youtube.com/watch?v=6HoxXeEBtW0"
+},{
+   "duration": 3579,
+   "edition": "2019",
+   "identifier": "#meeting-c++-2019-0003",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 3,
+   "speakers": [
+      "Rainer Grimm"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/z4durPbuOqs/0.jpg",
+   "title": "Concepts in C++20: A Evolution or a Revolution",
+   "video": "https://youtube.com/watch?v=z4durPbuOqs"
+},{
+   "duration": 3729,
+   "edition": "2019",
+   "identifier": "#meeting-c++-2019-0004",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 4,
+   "speakers": [
+      "Peter Muldoon"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/K5c7uvWe_hw/0.jpg",
+   "title": "Retiring the Singleton Pattern, a Concrete Suggestion for What to Use Instead",
+   "video": "https://youtube.com/watch?v=K5c7uvWe_hw"
+},{
+   "duration": 3486,
+   "edition": "2019",
+   "identifier": "#meeting-c++-2019-0005",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 5,
+   "speakers": [
+      "Jonathan Boccara"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/YsMUlNGF1no/0.jpg",
+   "title": "10 Techniques to Understand Existing Code",
+   "video": "https://youtube.com/watch?v=YsMUlNGF1no"
+},{
+   "duration": 3663,
+   "edition": "2019",
+   "identifier": "#meeting-c++-2019-0006",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 6,
+   "speakers": [
+      "Daniela Engert"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/Kqo-jIq4V3I/0.jpg",
+   "title": "Modules - The Beginner's Guide",
+   "video": "https://youtube.com/watch?v=Kqo-jIq4V3I"
+},{
+   "duration": 3953,
+   "edition": "2019",
+   "identifier": "#meeting-c++-2019-0007",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 7,
+   "speakers": [
+      "Dawid Zalewski"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/Onv9w6FGwIQ/0.jpg",
+   "title": "Lambdas - the old, the new and the tricky",
+   "video": "https://youtube.com/watch?v=Onv9w6FGwIQ"
+},{
+   "duration": 3387,
+   "edition": "2019",
+   "identifier": "#meeting-c++-2019-0008",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 8,
+   "speakers": [
+      "Martin Smarda"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/u6CmfFQxNtU/0.jpg",
+   "title": "The art of keeping your project from falling apart",
+   "video": "https://youtube.com/watch?v=u6CmfFQxNtU"
+},{
+   "duration": 3731,
+   "edition": "2019",
+   "identifier": "#meeting-c++-2019-0009",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 9,
+   "speakers": [
+      "Victor Ciura"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/J02S50z5zEo/0.jpg",
+   "title": "A Short Life span<> For a Regular Mess",
+   "video": "https://youtube.com/watch?v=J02S50z5zEo"
+},{
+   "duration": 3841,
+   "edition": "2019",
+   "identifier": "#meeting-c++-2019-0010",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 10,
+   "speakers": [
+      "Bryce Adelstein Lelbach"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/zoMZAV6FEbc/0.jpg",
+   "title": "The C++20 Synchronization Library",
+   "video": "https://youtube.com/watch?v=zoMZAV6FEbc"
+},{
+   "duration": 5582,
+   "edition": "2019",
+   "identifier": "#meeting-c++-2019-0011",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 11,
+   "speakers": [
+      "Hana Dusikova"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/IO3MO450WX4/0.jpg",
+   "title": "Compile Time Regular Expressions with Deterministic Finite Automaton",
+   "video": "https://youtube.com/watch?v=IO3MO450WX4"
+},{
+   "duration": 2658,
+   "edition": "2019",
+   "identifier": "#meeting-c++-2019-0012",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 12,
+   "speakers": [
+      "Mateusz Nowak"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/_zERNDyNfkM/0.jpg",
+   "title": "Debugging data corruptions in C++",
+   "video": "https://youtube.com/watch?v=_zERNDyNfkM"
+},{
+   "duration": 3364,
+   "edition": "2019",
+   "identifier": "#meeting-c++-2019-0013",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 13,
+   "speakers": [
+      "Fred Tingaud"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/JPnN2c2odNY/0.jpg",
+   "title": "Clang based refactoring, or how to refactor millions of line of code without alienating your colleagues",
+   "video": "https://youtube.com/watch?v=JPnN2c2odNY"
+},{
+   "duration": 3536,
+   "edition": "2019",
+   "identifier": "#meeting-c++-2019-0014",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 14,
+   "speakers": [
+      "Timur Doumler"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/E_GoY-WGgmA/0.jpg",
+   "title": "C++20: The small things",
+   "video": "https://youtube.com/watch?v=E_GoY-WGgmA"
+},{
+   "duration": 3846,
+   "edition": "2019",
+   "identifier": "#meeting-c++-2019-0015",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 15,
+   "speakers": [
+      "Jakub Beranek"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/ICKIMHCw--Y/0.jpg",
+   "title": "CPU design effects that can degrade performance of your programs",
+   "video": "https://youtube.com/watch?v=ICKIMHCw--Y"
+},{
+   "duration": 3815,
+   "edition": "2019",
+   "identifier": "#meeting-c++-2019-0016",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 16,
+   "speakers": [
+      "Boguslaw Cyganek"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/7aZbYJ5UTC8/0.jpg",
+   "title": "How accurate we are? A refresher on the floating-point arithmetic and the standard library",
+   "video": "https://youtube.com/watch?v=7aZbYJ5UTC8"
+},{
+   "duration": 3574,
+   "edition": "2019",
+   "identifier": "#meeting-c++-2019-0017",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 17,
+   "speakers": [
+      "Ivan Cukic"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/p9iyaU-jP-8/0.jpg",
+   "title": "Compile-time type transformation",
+   "video": "https://youtube.com/watch?v=p9iyaU-jP-8"
+},{
+   "duration": 5496,
+   "edition": "2019",
+   "identifier": "#meeting-c++-2019-0018",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 18,
+   "speakers": [
+      "Frances Buontempo"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/46fGQVk06Xk/0.jpg",
+   "title": "Can AI replace programmers?",
+   "video": "https://youtube.com/watch?v=46fGQVk06Xk"
+},{
+   "duration": 2993,
+   "edition": "2019",
+   "identifier": "#meeting-c++-2019-0019",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 19,
+   "speakers": [
+      "Milosz Warzecha"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/FeUOKwLLQe0/0.jpg",
+   "title": "C++20 Coroutines",
+   "video": "https://youtube.com/watch?v=FeUOKwLLQe0"
+},{
+   "duration": 3971,
+   "edition": "2019",
+   "identifier": "#meeting-c++-2019-0020",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 20,
+   "speakers": [
+      "John Lakos"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/g6fGJ59OM1E/0.jpg",
+   "title": "Value Propositon: Allocator-Aware Software",
+   "video": "https://youtube.com/watch?v=g6fGJ59OM1E"
+},{
+   "duration": 2908,
+   "edition": "2019",
+   "identifier": "#meeting-c++-2019-0021",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 21,
+   "speakers": [
+      "Denis Yaroshevskiy"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/10MQW-aJU3g/0.jpg",
+   "title": "Optimising generic algorithms",
+   "video": "https://youtube.com/watch?v=10MQW-aJU3g"
+},{
+   "duration": 3627,
+   "edition": "2019",
+   "identifier": "#meeting-c++-2019-0022",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 22,
+   "speakers": [
+      "Arne Mertz"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/4Z3K8Xnw6WQ/0.jpg",
+   "title": "Phantastic Code Smells And How To Find Them",
+   "video": "https://youtube.com/watch?v=4Z3K8Xnw6WQ"
+},{
+   "duration": 3898,
+   "edition": "2019",
+   "identifier": "#meeting-c++-2019-0023",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 23,
+   "speakers": [
+      "Bryce Adelstein Lelbach"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/yee9i2rUF3s/0.jpg",
+   "title": "Modules are Coming",
+   "video": "https://youtube.com/watch?v=yee9i2rUF3s"
+},{
+   "duration": 3481,
+   "edition": "2019",
+   "identifier": "#meeting-c++-2019-0024",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 24,
+   "speakers": [
+      "Jonathan Muller"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/8jNXy3K2Wpk/0.jpg",
+   "title": "Using C++20's Three-way Comparison <=>",
+   "video": "https://youtube.com/watch?v=8jNXy3K2Wpk"
+},{
+   "duration": 3411,
+   "edition": "2019",
+   "identifier": "#meeting-c++-2019-0025",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 25,
+   "speakers": [
+      "Pavel Novikov"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/r58DfZYEsVM/0.jpg",
+   "title": "Asynchronous C++ programming",
+   "video": "https://youtube.com/watch?v=r58DfZYEsVM"
+},{
+   "duration": 3425,
+   "edition": "2019",
+   "identifier": "#meeting-c++-2019-0026",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 26,
+   "speakers": [
+      "Clare Macrae"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/J27HoZM_PTI/0.jpg",
+   "title": "Quickly Testing Qt Desktop Applications",
+   "video": "https://youtube.com/watch?v=J27HoZM_PTI"
+},{
+   "duration": 3514,
+   "edition": "2019",
+   "identifier": "#meeting-c++-2019-0027",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 27,
+   "speakers": [
+      "Conor Hoekstra"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/TSZzvo4htTQ/0.jpg",
+   "title": "Better Algorithm Intuition",
+   "video": "https://youtube.com/watch?v=TSZzvo4htTQ"
+},{
+   "duration": 3161,
+   "edition": "2019",
+   "identifier": "#meeting-c++-2019-0028",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 28,
+   "speakers": [
+      "Phil Nash"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/2Jhfubg9yvA/0.jpg",
+   "title": "The Dawn of a New Error",
+   "video": "https://youtube.com/watch?v=2Jhfubg9yvA"
+},{
+   "duration": 3054,
+   "edition": "2019",
+   "identifier": "#meeting-c++-2019-0029",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 29,
+   "speakers": [
+      "Marius Feilhauer"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/oYv53FmIEKo/0.jpg",
+   "title": "Consistent architecture diagrams for C++ projects",
+   "video": "https://youtube.com/watch?v=oYv53FmIEKo"
+},{
+   "duration": 3752,
+   "edition": "2019",
+   "identifier": "#meeting-c++-2019-0030",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 30,
+   "speakers": [
+      "Marshall Clow"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/sBtAGxBh-XI/0.jpg",
+   "title": "std::midpoint - how hard could it be?",
+   "video": "https://youtube.com/watch?v=sBtAGxBh-XI"
+},{
+   "duration": 3566,
+   "edition": "2019",
+   "identifier": "#meeting-c++-2019-0032",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 31,
+   "speakers": [
+      "David Gross"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/Czr5dBfs72U/0.jpg",
+   "title": "Counting nanoseconds: benchmarking C++ code",
+   "video": "https://youtube.com/watch?v=Czr5dBfs72U"
+},{
+   "duration": 3548,
+   "edition": "2019",
+   "identifier": "#meeting-c++-2019-0033",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 32,
+   "speakers": [
+      "Arvid Gerstmann"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/9TVvpgHJElU/0.jpg",
+   "title": "Multithreading 101: Concurrency Primitives From Scratch",
+   "video": "https://youtube.com/watch?v=9TVvpgHJElU"
+},{
+   "duration": 2175,
+   "edition": "2019",
+   "identifier": "#meeting-c++-2019-0034",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 33,
+   "speakers": [
+      "Bart Verhagen"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/__Wz2DG1t24/0.jpg",
+   "title": "Things I learned from the static code analyzer",
+   "video": "https://youtube.com/watch?v=__Wz2DG1t24"
+},{
+   "duration": 3533,
+   "edition": "2019",
+   "identifier": "#meeting-c++-2019-0035",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 34,
+   "speakers": [
+      "Guy Davidson"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/LLCgPUYLkSE/0.jpg",
+   "title": "Teaching Analytic Geometry to C++",
+   "video": "https://youtube.com/watch?v=LLCgPUYLkSE"
+},{
+   "duration": 3231,
+   "edition": "2019",
+   "identifier": "#meeting-c++-2019-0036",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 35,
+   "speakers": [
+      "Jon Kalb"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/MLV4IVc4SwI/0.jpg",
+   "title": "Modern Template Techniques",
+   "video": "https://youtube.com/watch?v=MLV4IVc4SwI"
+},{
+   "duration": 3719,
+   "edition": "2019",
+   "identifier": "#meeting-c++-2019-0037",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 36,
+   "speakers": [
+      "Ansel Sermersheim",
+      "Barbara Geller"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/p6350LmMDkE/0.jpg",
+   "title": "High performance graphics and text rendering on the GPU for C++",
+   "video": "https://youtube.com/watch?v=p6350LmMDkE"
+},{
+   "duration": 2351,
+   "edition": "2019",
+   "identifier": "#meeting-c++-2019-0038",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 37,
+   "speakers": [
+      "Krzysztof Paprocki"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/h_e9ofirML8/0.jpg",
+   "title": "Bringing the power of C++ to the web",
+   "video": "https://youtube.com/watch?v=h_e9ofirML8"
+},{
+   "duration": 3518,
+   "edition": "2019",
+   "identifier": "#meeting-c++-2019-0039",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 38,
+   "speakers": [
+      "JeanHeyd Meneide"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/FQHofyOgQtM/0.jpg",
+   "title": "Catching??: Unicode for C++ in Greater Detail - 2 of 5",
+   "video": "https://youtube.com/watch?v=FQHofyOgQtM"
+},{
+   "duration": 3646,
+   "edition": "2019",
+   "identifier": "#meeting-c++-2019-0040",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 39,
+   "speakers": [
+      "Deniz Bahadir"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/y9kSr5enrSk/0.jpg",
+   "title": "Oh No! More Modern CMake",
+   "video": "https://youtube.com/watch?v=y9kSr5enrSk"
+},{
+   "duration": 2867,
+   "edition": "2019",
+   "identifier": "#meeting-c++-2019-0041",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 40,
+   "speakers": [
+      "Fabio Fracassi"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/A_k43Eq5srs/0.jpg",
+   "title": "The C++20 firehose talk",
+   "video": "https://youtube.com/watch?v=A_k43Eq5srs"
+},{
+   "duration": 2656,
+   "edition": "2019",
+   "identifier": "#meeting-c++-2019-0042",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 41,
+   "speakers": [
+      "Timo van der Kuil"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/sawtgibAlvg/0.jpg",
+   "title": "This is why we can('t) have nice things",
+   "video": "https://youtube.com/watch?v=sawtgibAlvg"
+},{
+   "duration": 3637,
+   "edition": "2019",
+   "identifier": "#meeting-c++-2019-0043",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 42,
+   "speakers": [
+      "Boris Schaling"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/VRtX1qjaa2M/0.jpg",
+   "title": "Metaprogramming with Boost",
+   "video": "https://youtube.com/watch?v=VRtX1qjaa2M"
+},{
+   "duration": 2876,
+   "edition": "2019",
+   "identifier": "#meeting-c++-2019-0044",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 43,
+   "speakers": [
+      "Fabian Renn-Giles, Dave Rowland"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/ndeN983j_GQ/0.jpg",
+   "title": "Real-time programming in modern C++",
+   "video": "https://youtube.com/watch?v=ndeN983j_GQ"
+},{
+   "duration": 2175,
+   "edition": "2019",
+   "identifier": "#meeting-c++-2019-0045",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 44,
+   "speakers": [
+      "Bart Verhagen"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/__Wz2DG1t24/0.jpg",
+   "title": "Designing costless abstractions",
+   "video": "https://youtube.com/watch?v=__Wz2DG1t24"
+},{
+   "duration": 3583,
+   "edition": "2019",
+   "identifier": "#meeting-c++-2019-0046",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 45,
+   "speakers": [
+      "Tina Ulbrich, Niel Waldren"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/JnoNTc-BmB8/0.jpg",
+   "title": "Testing Legacy Code - Fuzzing for Better Input Data",
+   "video": "https://youtube.com/watch?v=JnoNTc-BmB8"
+},{
+   "duration": 3638,
+   "edition": "2019",
+   "identifier": "#meeting-c++-2019-0047",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 46,
+   "speakers": [
+      "Juan Pedro Bolivar Puente"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/e2-FRFEx8CA/0.jpg",
+   "title": "Squaring the circle: value-oriented design in an object-oriented system",
+   "video": "https://youtube.com/watch?v=e2-FRFEx8CA"
+},{
+   "duration": 6173,
+   "edition": "2019",
+   "identifier": "#meeting-c++-2019-0048",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 47,
+   "speakers": [
+      "Walter E. Brown"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/OAmWHmwlMwI/0.jpg",
+   "title": "Crazy Code and Crazy Coders",
+   "video": "https://youtube.com/watch?v=OAmWHmwlMwI"
+}]}

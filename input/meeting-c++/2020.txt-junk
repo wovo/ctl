@@ -1,0 +1,287 @@
+#locked
+
+$add meeting meeting-c++
+$add edition 2020
+$add language english
+$add tags conference online c++
+
+Meeting C++ 2021 live schedule
+Welcome to the live schedule of Meeting C++ 2021
+
+Talks are 1 hour, AMAs 40 minutes, breaks are not listed
+
+You will be able to join the online conference a few minutes before the welcome message.
+Times are in CET, Sessions are 1 hour
+
+Conference | Live Schedule | Talks | Get your ticket | Sponsors | Set your timezone
+
+Day 1 (Timetable) | Day 2 (Timetable) | Day 3 (Timetable)
+
+Thanks to the sponsors of Meeting C++ 2021
+Platin Sponsors
+
+Gold Sponsors
+
+Day 1 - 10th November
+
+
+Welcome Message
+Jens Weller
+Scheduled for 9:20
+
+AMA with Hana Dusíková
+Hana Dusíková
+Scheduled for 10:00
+
+#marker-0002
+C++ - The hidden pearls
+Rainer Grimm
+Scheduled for 11:00
+
+#marker-0003
+Physical Units for Matrices: How Hard Can It Be?
+Daniel Withopf
+Scheduled for 11:00
+
+#marker-0004
+How to approach learning and teaching C++?
+Slobodan Dmitrovic
+Scheduled for 11:00
+
+#marker-0005
+The foundation of C++20 atomics: The knowledge you need to correctly use C++20 atomics.
+Filipe Mulonde
+Scheduled for 14:00
+
+#marker-0006
+Reimplementing Signals, Slots, Properties and Bindings from Qt in pure C++17
+Leon Matthes
+Scheduled for 14:00
+
+#marker-0007
+C++20 - My Favourite Code Examples
+Nicolai Josuttis
+Scheduled for 14:00
+
+// #marker-0008
+A (short) Tour of C++ Modules
+Daniela Engert
+Scheduled for 15:10
+
+#marker-0009
+To pass and return — the story of functions, values and compilers
+Dawid Zalewski
+Scheduled for 15:10
+
+#marker-0010
+C++20 Templates: The next level
+Andreas Fertig
+Scheduled for 15:10
+
+
+AMA with Sean Parent
+Sean Parent
+Scheduled for 18:00
+
+#marker-0012
+Breaking Dependencies: Type Erasure - A Design Analysis
+Klaus Iglberger
+Scheduled for 20:00
+Timetable (CET) [Set your timezone]
+10th November 9:20:00 - Jens Weller: Welcome Message
+
+10th November 10:00:00 - Hana Dusíková: AMA with Hana Dusíková
+
+10th November 11:00:00 - Rainer Grimm: C++ - The hidden pearls
+
+10th November 11:00:00 - Daniel Withopf: Physical Units for Matrices: How Hard Can It Be?
+
+10th November 11:00:00 - Slobodan Dmitrovic: How to approach learning and teaching C++?
+
+10th November 14:00:00 - Filipe Mulonde: The foundation of C++20 atomics: The knowledge you need to correctly use C++20 atomics.
+
+10th November 14:00:00 - Leon Matthes: Reimplementing Signals, Slots, Properties and Bindings from Qt in pure C++17
+
+10th November 14:00:00 - Nicolai Josuttis: C++20 - My Favourite Code Examples
+
+10th November 15:10:00 - Daniela Engert: A (short) Tour of C++ Modules
+
+10th November 15:10:00 - Dawid Zalewski: To pass and return — the story of functions, values and compilers
+
+10th November 15:10:00 - Andreas Fertig: C++20 Templates: The next level
+
+10th November 18:00:00 - Sean Parent: AMA with Sean Parent
+
+10th November 20:00:00 - Klaus Iglberger: Breaking Dependencies: Type Erasure - A Design Analysis
+
+Day 2 - 11th November
+
+
+AMA with Daniela Engert
+Daniela Engert
+Scheduled for 10:00
+
+
+How to rangify your code
+Tina Ulbrich
+Scheduled for 11:00
+
+#marker-0015
+Argument Passing, Core Guidelines, and Aliasing
+Roi Barkan
+Scheduled for 11:00
+
+#marker-0016
+Writing sustainable software. The how and the what!
+Christian Eltzschig
+Scheduled for 11:00
+
+#marker-0017
+C++20 Coroutines As An API Principle
+Marc Mutz
+Scheduled for 14:00
+
+#marker-0018
+What class types we design and how
+Peter Sommerlad
+Scheduled for 14:00
+
+
+Deconstructing Inheritance
+Lucian Teodorescu
+Scheduled for 14:00
+
+#marker-0020
+Program with GUTs
+Kevlin Henney
+Scheduled for 15:10
+
+#marker-0021
+Zen and the art of Code Lifecycle maintenance
+Phil Nash
+Scheduled for 15:10
+
+#marker-0022
+Two advanced PMR memory allocation techniques in C++17/20
+Marek Krajewski
+Scheduled for 15:10
+
+
+AMA with Bjarne Stroustrup
+Bjarne Stroustrup
+Scheduled for 18:00
+
+++namedtuple - Python style named tuples in C++20
+Kris Jusiak
+Scheduled for 20:00
+Timetable (CET) [Set your timezone]
+11th November 10:00:00 - Daniela Engert: AMA with Daniela Engert
+
+11th November 11:00:00 - Tina Ulbrich: How to rangify your code
+
+11th November 11:00:00 - Roi Barkan: Argument Passing, Core Guidelines, and Aliasing
+
+11th November 11:00:00 - Christian Eltzschig: Writing sustainable software. The how and the what!
+
+11th November 14:00:00 - Marc Mutz: C++20 Coroutines As An API Principle
+
+11th November 14:00:00 - Peter Sommerlad: What class types we design and how
+
+11th November 14:00:00 - Lucian Teodorescu: Deconstructing Inheritance
+
+11th November 15:10:00 - Kevlin Henney: Program with GUTs
+
+11th November 15:10:00 - Phil Nash: Zen and the art of Code Lifecycle maintenance
+
+11th November 15:10:00 - Marek Krajewski: Two advanced PMR memory allocation techniques in C++17/20
+
+11th November 18:00:00 - Bjarne Stroustrup: AMA with Bjarne Stroustrup
+
+11th November 20:00:00 - Kris Jusiak: ++namedtuple - Python style named tuples in C++20
+
+Day 3 - 12th November
+
+AMA with Kevlin Henney
+Kevlin Henney
+Scheduled for 10:00
+
+#marker-0026
+Exceptional C++
+Victor Ciura
+Scheduled for 11:00
+
+Building and Packaging Modern C++
+Adrian Ostrowski @ Piotr Gaczkowski
+Scheduled for 11:00
+
+#marker-0028
+Lock-free programming for real-time systems - how compare-exchange will become your new best friend
+Matthias Killat
+Scheduled for 11:00
+
+#marker-0029
+CMake and the future of C++
+Julien Jomier
+Scheduled for 14:00
+
+#marker-0030
+Introduction to Memory Exploitation
+Patricia Aas
+Scheduled for 14:00
+
+#marker-0031
+EVE: A new, powerful open source C++20 SIMD library
+Denis Yaroshevskiy
+Joel Falcou
+Scheduled for 14:00
+
+#marker-0032
+My program was running fast six months ago. What happened?
+Ivica Bogosavljevic
+Scheduled for 15:10
+
+#marker-0033
+The concepts of concepts
+Sandor Dargo
+Scheduled for 15:10
+
+#marker-0034
+C++ Coroutines and Qt
+Daniel Vrátil
+Scheduled for 15:10
+
+#marker-0035
+Meeting C++ Update
+Jens Weller
+Scheduled for 18:00
+
+AMA with Gaby Dos Reis
+Gabriel Dos Reis
+
+Scheduled for 20:00
+Timetable (CET) [Set your timezone]
+12th November 10:00:00 - Kevlin Henney: AMA with Kevlin Henney
+
+12th November 11:00:00 - Victor Ciura: Exceptional C++
+
+12th November 11:00:00 - Adrian Ostrowski: Building and Packaging Modern C++
+
+12th November 11:00:00 - Matthias Killat: Lock-free programming for real-time systems - how compare-exchange will become your new best friend
+
+12th November 14:00:00 - Julien Jomier: CMake and the future of C++
+
+12th November 14:00:00 - Patricia Aas: Introduction to Memory Exploitation
+
+12th November 14:00:00 - Denis Yaroshevskiy: EVE: A new, powerful open source C++20 SIMD library
+
+12th November 15:10:00 - Ivica Bogosavljevic: My program was running fast six months ago. What happened?
+
+12th November 15:10:00 - Sandor Dargo: The concepts of concepts
+
+12th November 15:10:00 - Daniel Vrátil: C++ Coroutines and Qt
+
+12th November 18:00:00 - Jens Weller: Meeting C++ Update
+
+12th November 20:00:00 - Gabriel Dos Reis: AMA with Gaby Dos Reis
+
+Copyright Meetingcpp GmbH I

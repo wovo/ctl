@@ -1,0 +1,898 @@
+#locked
+
+$add meeting cppcon
+$add edition 2019
+$add language english
+$add tags conference live c++
+
+Saturday, September 14
+ 
+09:00 MDT
+#cppcon-2019-0001
+Advanced and Modern C++ Programming: The Tricky Parts
+Nicolai Josuttis
+#cppcon-2019-0002
+C++11/14 for C++03 Developers
+Vittorio Romeo
+#cppcon-2019-0003
+Concurrency with Modern C++
+Rainer Grimm
+#cppcon-2019-0004
+Debugging and Profiling C++ Code on Linux
+Milian Wolff
+#cppcon-2019-0005
+Modern C++ API Design
+Bob Steagall
+#cppcon-2019-0006
+Modern C++ Design Patterns
+Klaus Iglberger
+#cppcon-2019-0007
+Modern C++ Template Common Knowledge
+Stephen Dewhurst
+#cppcon-2019-0008
+More Concurrent Thinking in C++: Beyond the Basics
+Anthony Williams
+#cppcon-2019-0009
+System Architecture And Design Using Modern C++
+Charley Bay
+#cppcon-2019-0010
+The Standard Library from Scratch
+Arthur O’Dwyer
+#cppcon-2019-0011
+Thinking Small
+Patrice Roy
+
+17:30 MDT
+Volunteers Dinner
+
+ 
+Sunday, September 15
+ 
+09:00 MDT
+//#cppcon-2019-0012
+//Advanced and Modern C++ Programming: The Tricky Parts
+//Nicolai Josuttis
+//#cppcon-2019-0013
+//C++11/14 for C++03 Developers
+//Vittorio Romeo
+//#cppcon-2019-0014
+//Concurrency with/ Modern C++
+//Rainer Grimm
+//#cppcon-2019-0015
+//Debugging and Profiling C++ Code on Linux
+//Milian Wolff
+#cppcon-2019-0016
+Engage, Entertain, Educate: Technical Speaking that Works
+John Lakos • Andrei Alexandrescu • Kate Gregory
+#cppcon-2019-0017
+Introduction to Conan C++ Package Manager
+Diego Rodriguez-Losada
+/#cppcon-2019-0018
+//Modern C++ API Design
+//Bob Steagall
+//#cppcon-2019-0019
+//Modern C++ Design Patterns
+//Klaus Iglberger
+//#cppcon-2019-0020
+//Modern C++ Template Common Knowledge
+//Stephen Dewhurst
+//#cppcon-2019-0021
+//More Concurrent Thinking in C++: Beyond the Basics
+//Anthony Williams
+//#cppcon-2019-0022
+//System Architecture And Design Using Modern C++
+//Charley Bay
+//#cppcon-2019-0023
+//The Standard Library from Scratch
+//Arthur O’Dwyer
+//#cppcon-2019-0024
+//Thinking Small
+//Patrice Roy
+#cppcon-2019-0025
+Board Games
+Peter Bindels
+
+11:15 MDT
+Field Trip Meetup
+Jason Turner
+
+17:00 MDT
+Speaker Ready Room
+Robin Kuzmin
+
+17:30 MDT
+Tee Shirt Night Dinner
+
+20:00 MDT
+Registration Reception
+
+ 
+Monday, September 16
+ 
+08:00 MDT
+Registration
+
+08:45 MDT
+#cppcon-2019-0026
+C++20: C++ at 40
+Bjarne Stroustrup
+
+11:00 MDT
+#cppcon-2019-0027
+The Best Parts of C++
+Jason Turner
+#cppcon-2019-0028
+An Overview of Standard Ranges
+Tristan Brindle
+#cppcon-2019-0029
+Compiler Explorer: Behind The Scenes
+Matt Godbolt
+#cppcon-2019-0030
+The C++20 Synchronization Library
+Bryce Adelstein Lelbach
+#cppcon-2019-0031
+The C++20 Standard Library: Beyond Ranges
+Jeff Garland
+#cppcon-2019-0032
+Concepts: A Day in the Life
+Saar Raz
+#cppcon-2019-0033
+A C++ Approach to Physical Units
+Mateusz Pusz
+
+12:05 MDT
+Book Signing: Bjarne Stroustrup
+Bjarne Stroustrup
+
+12:30 MDT
+
+Trainers Panel I
+Jon Kalb • Ben Saks • Dan Saks • Klaus Iglberger • Stephen Dewhurst
+
+13:35 MDT
+Book Signing: Marc Gregoire
+Marc Gregoire
+Book Signing: Rian Quinn
+Rian Quinn
+
+14:00 MDT
+#cppcon-2019-0035
+Back to Basics: Move Semantics (part 1 of 2)
+Klaus Iglberger
+#cppcon-2019-0036
+Hello World From Scratch
+Peter Bindels • Simon Brand
+#cppcon-2019-0037
+Algorithm Intuition (part 1 of 2)
+Conor Hoekstra
+#cppcon-2019-0038
+What Every Programmer Should Know About Memory Allocation
+Samy Al Bahra • Hannes Sowa • Paul Khuong
+#cppcon-2019-0039
+Freestanding C++ - Past, Present, and Future
+Ben Saks
+#cppcon-2019-0040
+If You Can't Open It, You Don't Own It
+Matthew Butler
+#cppcon-2019-0041
+Writing Safety Critical Automotive C++ Software for High Performance AI Hardware:
+Michael Wong • Gordon Brown
+
+15:15 MDT
+#cppcon-2019-0042
+Back to Basics: Move Semantics (part 2 of 2)
+Klaus Iglberger
+#cppcon-2019-0043
+Algorithm Intuition (part 2 of 2)
+Conor Hoekstra
+#cppcon-2019-0044
+C++ ...Easy, Elegant, Powerful!
+Charley Bay
+#cppcon-2019-0045
+Using Freestanding C++ to add C++17 to your Shellcode, UEFI, Embedded Systems and Unikernels.
+Rian Quinn
+#cppcon-2019-0046
+High performance graphics and text rendering on the GPU for any C++ application
+Barbara Geller • Ansel Sermersheim
+#cppcon-2019-0047
+Programming with C++ Modules: Guide for the Working
+Gabriel Dos Reis
+#cppcon-2019-0048
+When C++ Style Guides Contradict
+Nicolai Josuttis
+
+16:45 MDT
+#cppcon-2019-0049
+Back to Basics: Const as a Promise
+Dan Saks
+#cppcon-2019-0050
+Latest & Greatest in Visual Studio 2019 for C++ developers
+Marian Luparu • Simon Brand
+#cppcon-2019-0051
+From Algorithm to Generic, Parallel Code
+Dietmar Kuhl
+#cppcon-2019-0052
+Value Proposition: Allocator-Aware (AA) Software
+John Lakos
+#cppcon-2019-0053
+Concepts in C++20: Revolution or Evolution
+Rainer Grimm
+#cppcon-2019-0054
+Reflections: Compile-time Introspection of Source Code
+Andrew Sutton
+#cppcon-2019-0055
+Preventing Spectre One Branch at a Time: The Design and Implementation of Fine Grained Spectre v1 Mitigation APIs
+Zola Bridges • Devin Jeanpierre
+#cppcon-2019-0056
+Quickly Testing Legacy C++ Code with Approval Tests
+Clare Macrae
+
+17:00 MDT
+Speaker Portraits
+
+18:00 MDT
+#cppcon-2019-0057
+Beverages with Backtrace
+Karla Bueno • Karla Bueno
+#cppcon-2019-0058
+Students' Dinner
+Michał Dominiak
+
+20:30 MDT
+#cppcon-2019-0059
+Committee Fireside Chat
+Jon Kalb • Bryce Adelstein Lelbach • Lisa Lippincott • Herb Sutter • Titus Winters • Vittorio Romeo • Marshall Clow • Bjarne Stroustrup • JF Bastien • Hana Dusíková • David Stone
+
+ 
+Tuesday, September 17
+ 
+08:00 MDT
+#cppcon-2019-0060
+Threading Design Decisions in AutoCAD for Web & Mobile
+Max Raskin
+
+09:00 MDT
+#cppcon-2019-0061
+Back to Basics: RAII and the Rule of Zero
+Arthur O'Dwyer
+#cppcon-2019-0062
+A Short Life span＜＞ For a Regular Mess
+Victor Ciura
+#cppcon-2019-0063
+C++ as a First Language... Really?
+Patrice Roy
+#cppcon-2019-0064
+Rethinking the Way We Do Templates in C++
+Mateusz Pusz
+#cppcon-2019-0065
+Deep CMake for Library Authors
+Craig Scott
+#cppcon-2019-0066
+Practical C++ Modules
+Boris Kolpackov
+#cppcon-2019-0067
+Will Your Code Survive the Attack of the Zombie Pointers?
+Michael Wong • Paul E. McKenney • Maged Michael
+#cppcon-2019-0068
+Error Handling is Cancelling Operations
+Andrzej Krzemieński
+
+10:30 MDT
+#cppcon-2019-0069
+"Allegro" Means Both Fast and Happy. Coincidence?
+Andrei Alexandrescu
+
+12:05 MDT
+Book Signing: Herb Sutter
+Herb Sutter
+
+12:30 MDT
+//#cppcon-2019-0070
+CppCon Program Committee
+Bryce Adelstein Lelbach • Jon Kalb
+#cppcon-2019-0071
+SG20 Panel: Let's Talk About Education
+Michał Dominiak • Christopher Di Bella
+
+13:35 MDT
+Book Signing: Anthony Williams
+Anthony Williams
+
+14:00 MDT
+#cppcon-2019-0072
+Back to Basics: Atomics, Locks, and Tasks (part 1 of 2)
+Rainer Grimm
+Speaker Portraits
+#cppcon-2019-0002#cppcon-2019-0073
+
+Better Code with C++ Attributes
+Ben Saks
+#cppcon-2019-0074
+The Business Value of a Good API
+Bob Steagall
+#cppcon-2019-0075
+EDSL Infinity Wars: Mainstreaming Symbolic Computation
+Joel Falcou • Vincent Reverdy
+#cppcon-2019-0076
+Behind Enemy Lines - Reverse Engineering C++ in Modern Ages
+Gal Zaban
+#cppcon-2019-0077
+10 Techniques to Understand Existing Code
+Jonathan Boccara
+#cppcon-2019-0078
+From Functions to Concepts: Maintainability and Refactoring Impact of Higher-Level Design Features
+Titus Winters
+
+15:15 MDT
+#cppcon-2019-0079
+What's New in Visual Studio Code for C++ Development - Remote Development, IntelliSense, Build/Debug, vcpkg, and More!
+Tara Raj
+#cppcon-2019-0080
+Compiled C++ Coding Standards
+Valentin Galea
+#cppcon-2019-0081
+When C++ Zero-Cost Abstraction fails: how-to Fix Your Compiler
+Adrien Guinet
+#cppcon-2019-0082
+TMI on UDLs: Mechanics, Uses, and Abuses of User-Defined Literals
+Stephen Dewhurst
+#cppcon-2019-0083
+Back to Basics: Atomics, Locks, and Tasks (part 2 of 2)
+Rainer Grimm
+#cppcon-2019-0084
+Efficient GPU Programming with Modern C++
+Michael Wong • Gordon Brown
+#cppcon-2019-0085
+Converting to C++20 Modules
+Nathan Sidwell
+
+15:50 MDT
+#cppcon-2019-0086
+(Ab)using Compiler Tools
+Reka Kovacs
+#cppcon-2019-0087
+C++ Standard Library "Little Things"
+Billy O'Neal
+#cppcon-2019-0088
+Small is beautiful: Techniques to minimise memory footprint
+Steven Pigeon
+#cppcon-2019-0089
+Upgrade from "permissive C++" to "modern C++" with Visual Studio 2019
+Nick Uhlenhuth
+
+16:45 MDT
+#cppcon-2019-0090
+Back to Basics: Object-Oriented Programming
+Jon Kalb
+#cppcon-2019-0091
+Clang-based Refactoring, or How to Refactor Millions of Line of Code Without Alienating your Colleagues
+Fred Tingaud
+#cppcon-2019-0092
+Concurrency in C++20 and Beyond
+Anthony Williams
+#cppcon-2019-0093
+How to Choose the Right Standard Library Container, and Why You Should Want Some More
+Alan Talbot
+#cppcon-2019-0094
+C++ Code Smells
+Jason Turner
+#cppcon-2019-0095
+C++ Design Patterns: From C++03 to C++17
+Fedor Pikus
+#cppcon-2019-0096
+There Are No Zero-cost Abstractions
+Chandler Carruth
+#cppcon-2019-0097
+Unicode: Going Down the Rabbit Hole
+Peter Bindels
+
+18:00 MDT
+Boost Community Dinner
+Audio Developers Meetup
+Tom Poole
+
+20:30 MDT
+//#cppcon-2019-0098
+//Lightning Talks
+//Phil Nash
+
+Tool Time
+Peter Bindels
+
+ 
+Wednesday, September 18
+ 
+08:00 MDT
+#cppcon-2019-0100
+Site Reliability Engineering: Balancing Risk and Velocity
+Derek Remund
+
+08:30 MDT
+ISO SG14 Working Meeting
+Herb Sutter • Michael Wong
+
+09:00 MDT
+#cppcon-2019-0101
+TCMalloc: A High-Performance Memory Allocator
+Chris Kennelly
+#cppcon-2019-0102
+How to Herd 1,000 Libraries
+Robert Schumacher
+#cppcon-2019-0103
+A Series of Unfortunate Bugs
+Satabdi Das
+#cppcon-2019-0104
+Back to Basics: Test-driven Development
+Fedor Pikus
+#cppcon-2019-0105
+"Mostly Invalid": flat_map, Exception Guarantees, and the STL
+Arthur O'Dwyer
+#cppcon-2019-0106
+C++20: What's in it for you?
+Marc Gregoire
+#cppcon-2019-0107
+A State of Compile Time Regular Expressions
+Hana Dusíková
+
+09:35 MDT
+#cppcon-2019-0108
+Expression Templates for Efficient, Generic Finance Code
+Bowie Owens
+#cppcon-2019-0109
+Minimal Structured Logging for Autonomous Vehicles
+Robert Keelan
+#cppcon-2019-0110
+How to Hold a T
+CJ Johnson
+
+10:30 MDT
+#cppcon-2019-0111
+Applied WebAssembly: Compiling and Running C++ in Your Web Browser
+Ben Smith
+
+12:05 MDT
+Book Signing: Nicolai Josuttis
+Nicolai Josuttis
+
+12:30 MDT
+#cppcon-2019-0112
+Starting and Running C++ User Groups
+Jens Weller
+
+13:00 MDT
+ISO SG14 Working Meeting
+Herb Sutter • Michael Wong
+
+13:35 MDT
+Book Signing: Andrei Alexandrescu
+Andrei Alexandrescu
+Book Signing: Jonathan Boccara
+Jonathan Boccara
+
+14:00 MDT
+Speaker Portraits
+#cppcon-2019-0113
+C++ Sanitizers and Fuzzing for the Windows Platform Using New Compilers, Visual Studio, and Azure
+Jim Radigan
+#cppcon-2019-0114
+Lifetime analysis for everyone
+Gábor Horváth • Matthias Gehre
+#cppcon-2019-0115
+A Unifying Abstraction for Async in C++
+Eric Niebler • David Hollman
+#cppcon-2019-0116
+Abusing Your Memory Model for Fun and Profit
+Samy Al Bahra • Paul Khuong
+#cppcon-2019-0117
+Memory Resources in a Heterogeneous World
+Michał Dominiak
+#cppcon-2019-0118
+ADL: a thorough introduction in name taxonomy, customisation points and use cases in the context of templates
+Kostas Kyrimis
+#cppcon-2019-0119
+Dependency Management at the End of the Rainbow
+Corentin Jabot
+
+15:15 MDT
+ISO SG14 Working Meeting
+Herb Sutter • Michael Wong
+#cppcon-2019-0120
+Leveraging Modern C++ in Quantitative Finance
+Daniel Hanson
+#cppcon-2019-0121
+How to Implement Your First Compiler Feature: The Story of Concepts in Clang
+Saar Raz
+#cppcon-2019-0122
+Getting Allocators out of Our Way
+Alisdair Meredith • Pablo Halpern
+#cppcon-2019-0123
+Non-conforming C++: the Secrets the Committee Is Hiding From You
+Miro Knejp
+#cppcon-2019-0124
+Meta++: Language Support for Advanced Generative Programming
+Andrew Sutton
+#cppcon-2019-0125
+Making Testing C++ Binaries Practical @ Facebook Scale: A CI Story
+Mark Isaacson
+#cppcon-2019-0126
+Inference in C++: The big picture
+Michael Spertus
+
+16:45 MDT
+#cppcon-2019-0127
+Abseil's Open Source Hashtables: 2 Years In
+Matt Kulukundis
+#cppcon-2019-0128
+How to Write a Heap Memory Profiler
+Milian Wolff
+#cppcon-2019-0129
+Pattern Matching: A Sneak Peek
+Michael Park
+#cppcon-2019-0130
+The One-Decade Task: Putting std::atomic in CUDA.
+Olivier Giroux
+#cppcon-2019-0131
+Contract use: Past, Present, and Future
+Joshua Berne
+#cppcon-2019-0132
+Data in the Type System: Complex Non-Type Template Parameters in C++20
+Jeff Snyder
+#cppcon-2019-0133
+Killing Uninitialized Memory: Protecting the OS Without Destroying Performance
+Joe Bialek • Shayne Hiet-Block
+#cppcon-2019-0134
+Type punning in modern C++
+Timur Doumler
+
+ISO SG14 Working Meeting
+Herb Sutter • Michael Wong
+
+18:00 MDT
+//#include Dinner 0136
+Kate Gregory • Guy Davidson • JeanHeyd Meneide • Simon Brand • Clare Macrae • Michael Daum
+
+20:30 MDT
+//#cppcon-2019-0137
+//Lightning Talks
+//Phil Nash
+//Open Content Sessions: TBA
+
+22:00 MDT
+Student Reception
+Jon Kalb
+
+ 
+Thursday, September 19
+ 
+08:00 MDT
+Open Content Sessions: TBA
+Cpp.Chat - Live Episode!
+Jon Kalb • Phil Nash
+
+09:00 MDT
+#cppcon-2019-0138
+Back to Basics: Understanding Value Categories
+Ben Saks
+#cppcon-2019-0139
+Time Travel: Applying Gradual Typing to Time Types with Clang's LibTooling
+Hyrum Wright
+#cppcon-2019-0140
+Asynchronous Programming in Modern C++
+Hartmut Kaiser
+#cppcon-2019-0141
+Are We Macro-free Yet?
+Zhihao Yuan
+#cppcon-2019-0142
+This Videogame Programmer Used the STL and You Will Never Guess What Happened Next
+Mathieu Ropert
+#cppcon-2019-0143
+Avoid Misuse of Contracts!
+Rostislav Khlebnikov
+Remov#cppcon-2019-0002
+ing Metaprogramming From C++, Part 1 of N: constexpr Function Parameters
+David Stone
+#cppcon-2019-0144
+Destructor Case Studies: Best Practices for Safe and Efficient Teardown
+Pete Isensee
+
+10:30 MDT
+#cppcon-2019-0145
+Better Code: Relationships
+Sean Parent
+
+12:05 MDT
+Book Signing: Arthur O'Dwyer
+Arthur O'Dwyer
+Book Signing: Nicolai Josuttis
+Nicolai Josuttis
+
+12:30 MDT
+//#cppcon-2019-0146
+//Lightning Talks
+//Kate Gregory
+#cppcon-2019-0147
+Desktop Applications Development Roundtable
+Artem Yerofieiev
+#cppcon-2019-0148
+Mobile C++ Development Roundtable
+Sheldon Neuberger • Li Feng • Brian Holmes
+#cppcon-2019-0149
+C++ Community Building Birds of a Feather
+Jon Kalb • Bryce Adelstein Lelbach • Jens Weller • Stephan T. Lavavej • Phil Nash
+#cppcon-2019-0150
+On Writing a C++ Book: The Story of "C++ Crash Course"
+Josh Lospinoso
+
+13:35 MDT
+Book Signing: Josh Lospinoso
+
+14:00 MDT
+#cppcon-2019-0151
+Back to Basics: Function and Class Templates
+Dan Saks
+#cppcon-2019-0152
+Range Algorithms, Views and Actions: A Comprehensive Guide
+Dvir Yitzchaki
+#cppcon-2019-0153
+Structured Concurrency: Writing Safer Concurrent Code with Coroutines and Algorithms
+Lewis Baker
+#cppcon-2019-0154
+The Truth of a Procedure
+Lisa Lippincott
+#cppcon-2019-0155
+Reading Binary Data with Style: A Serialization Framework for C++17
+Tony Wasserka
+#cppcon-2019-0156
+Next generation unit testing using static reflection
+Manu Sánchez
+#cppcon-2019-0157
+The C++ ABI for Dummies
+Louis Dionne
+#cppcon-2019-0158
+The Dawn of a New Error
+Phil Nash
+
+15:15 MDT
+#cppcon-2019-0159
+Don't Package Your Libraries, Write Packagable Libraries! (Part 2)
+Robert Schumacher
+#cppcon-2019-0160
+Safe Software for Autonomous Mobility With Modern C++
+Andreas Pasternak
+#cppcon-2019-0161
+Infiltrating a Code Base: Moving Toward a Better C
+Brian Ruth
+#cppcon-2019-0162
+The Art of Breaking Things: a new tool for fighting against Hyrum’s law in the new world of concept-driven design
+David Hollman
+#cppcon-2019-0163
+Back to Basics: Smart Pointers
+Arthur O'Dwyer
+#cppcon-2019-0164
+From STL to Ranges: Using Ranges Effectively
+Jeff Garland
+#cppcon-2019-0165
+How C++ Beats All Other Languages at Card Games: Using Integers as Arrays of Bitfields a.k.a. SWAR Techniques
+Eduardo Madrid
+
+15:50 MDT
+#cppcon-2019-0166
+Generators, Coroutines and Other Brain Unrolling Sweetness
+Adi Shavit
+#cppcon-2019-0167
+Mesh: Automatically Compacting Your C++ Application's Memory
+Emery Berger
+#cppcon-2019-0168
+The Design of the C++ Runtime for AWS Lambda
+Marco Magdy
+#cppcon-2019-0169
+Behind the Scenes of a C++ Build System
+Jussi Pakkanen
+
+16:00 MDT
+Speaker Portraits
+
+16:45 MDT
+#cppcon-2019-0170
+Back to Basics: Virtual Dispatch and its Alternatives
+Inbal Levi
+#cppcon-2019-0171
+Solve Hard Problems Quickly Using SAT Solvers
+Martin Hořeňovský
+#cppcon-2019-0172
+Path Tracing Three Ways: A Study of C++ Style
+Matt Godbolt
+#cppcon-2019-0173
+Reducing Template Compilation Overhead, Using Features from C++11, 14, 17, and 20.
+Jorg Brown
+#cppcon-2019-0174
+Floating-Point charconv: Making Your Code 10x Faster With C++17's Final Boss
+Stephan T. Lavavej
+#cppcon-2019-0175
+test_resource: The pmr Detective
+Attila Feher
+#cppcon-2019-0176
+C++ Class Natures in Their Canonical Form and How to Find Them
+Peter Sommerlad
+#cppcon-2019-0177
+In-place Construction: the Routine Complexities of Efficiency
+Ben Deane
+
+18:30 MDT
+Meet the Speakers Dinner
+
+20:30 MDT
+#cppcon-2019-0178
+CppCon 2020 Kick-off Meeting
+Bob Steagall
+//#cppcon-2019-0179
+//Lightning Talks
+//Phil Nash
+
+ 
+Friday, September 20
+ 
+08:00 MDT
+Cpp.Chat - Live Episode!
+Jon Kalb • Phil Nash
+
+09:00 MDT
+#cppcon-2019-0180
+Back to Basics: Exception Handling and Exception Safety
+Ben Saks
+#cppcon-2019-0181
+Higher-order functions in Modern C++: existing techniques and `function_ref`
+Vittorio Romeo
+#cppcon-2019-0182
+What a View! Building Your Own (Lazy) Range Adaptors (part 1 of 2)
+Christopher Di Bella
+#cppcon-2019-0183
+Faster Compile Times and Better Performance: Bringing Just-in-Time Compilation to C++
+Hal Finkel
+#cppcon-2019-0184
+Releasing C++ Toolchains Weekly in a 'Live at Head' World
+Jorge Gorbe Moya • Jordan Rupprecht
+#cppcon-2019-0185
+Naming is Hard: Let's Do Better
+Kate Gregory
+Some Programming Myths Revisited
+Patrice Roy
+
+10:30 MDT
+#cppcon-2019-0186
+Back to Basics: Lambdas from Scratch
+Arthur O'Dwyer
+#cppcon-2019-0187
+std::midpoint? How Hard Could it Be?
+Marshall Clow
+#cppcon-2019-0188
+What a View! Building Your Own (Lazy) Range Adaptors (part 2 of 2)
+Christopher Di Bella
+#cppcon-2019-0189
+Deprecating volatile
+JF Bastien
+#cppcon-2019-0190
+A Critical Look at the Coding Standards Landscape
+Michael Price
+#cppcon-2019-0191
+Polymorphism != Virtual: Easy, Flexible Runtime Polymorphism Without Inheritance
+John Bandela
+#cppcon-2019-0192
+The Smart Pointers I Wish I Had
+Matthew Fleming
+
+12:00 MDT
+//#cppcon-2019-0193
+CppCon 2020 Planning Committee Work Session
+Bob Steagall
+//#cppcon-2019-0194
+//Lightning Talks
+//Phil Nash
+//Open Content Sessions: TBA
+#cppcon-2019-0195
+6 Algorithmic Journeys with Concepts
+Taras Shevchenko
+#cppcon-2019-0196
+Diversity and Inclusion in C++
+Guy Davidson • Simon Brand • Christopher Di Bella • Satabdi Das • Allison Vacanti • Duygu Cakmak
+
+13:30 MDT
+#cppcon-2019-0197
+Back to Basics: Type Erasure
+Arthur O'Dwyer
+#cppcon-2019-0198
+From Functions to Lambdas: How Do C++ Callables _Really_ Work?
+Walter E. Brown
+#cppcon-2019-0199
+Modern Linux C++ debugging tools - under the covers
+Greg Law
+#cppcon-2019-0200
+Faster Code Through Parallelism on CPUs and GPUs
+David Olsen
+#cppcon-2019-0201
+Catch <unicode up arrow>: Unicode for C++23
+JeanHeyd Meneide
+#cppcon-2019-0202
+Objects vs Values: Value Oriented Programming in an Object Oriented World
+Tony Van Eerd
+#cppcon-2019-0203
+Using C++20's Three-way Comparison ＜=＞
+Jonathan Müller
+
+14:45 MDT
+#cppcon-2019-0204
+What is C++
+Chandler Carruth • Titus Winters
+#cppcon-2019-0205
+`unique_pseudofunction`: N overloads for the price of 1
+Filipp Gelman
+#cppcon-2019-0206
+The Networking TS in Practice: Patterns for Real World Problems
+Robert Leahy
+#cppcon-2019-0207
+Great C++ is_trivial
+Jason Turner
+#cppcon-2019-0208
+Embrace Modern Technology: Using HTML 5 for GUI in C++
+Borislav Stanimirov
+#cppcon-2019-0209
+C++20: The small things
+Timur Doumler
+#cppcon-2019-0210
+Building Modules
+Michael Spencer
+
+16:15 MDT
+#cppcon-2019-0211
+De-fragmenting C++: Making Exceptions and RTTI More Affordable and Usable (“Simplifying C++” #6 of N)
+Herb Sutter
+
+20:30 MDT
+#cppcon-2019-0212
+Using HTML 5 for GUI in C++ Addendum
+Borislav Stanimirov
+
+ 
+Saturday, September 21
+ 
+09:00 MDT
+#cppcon-2019-0213
+Accelerated TDD: For More Productive C++
+Phil Nash
+#cppcon-2019-0214
+Applied `constexpr`: Doing More Work At Compile Time
+Jason Turner
+#cppcon-2019-0215
+Building C++ Code with Cmake
+David Faure
+#cppcon-2019-0216
+Exploiting Modern C++: Building Highly-Dependable Software
+Matthew Butler
+#cppcon-2019-0217
+Generic Programming 2.0 with Concepts and Ranges
+Christopher Di Bella
+#cppcon-2019-0218
+Parallelism in Modern C++: From CPU to GPU
+Michael Wong • Gordon Brown
+
+ 
+Sunday, September 22
+ 
+09:00 MDT
+//#cppcon-2019-0219
+//Accelerated TDD: For More Productive C++
+//Phil Nash
+//#cppcon-2019-0220
+//Building C++ Code with Cmake
+//David Faure
+//#cppcon-2019-0221
+//Exploiting Modern C++: Building Highly-Dependable Software
+//Matthew Butler
+//#cppcon-2019-0222
+//Generic Programming 2.0 with Concepts and Ranges
+//Christopher Di Bella
+//#cppcon-2019-0223
+//Parallelism in Modern C++: From CPU to GPU
+//Michael Wong • Gordon Brown
+
+ 

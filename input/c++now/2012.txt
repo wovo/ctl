@@ -1,0 +1,472 @@
+$locked
+
+$add meeting c++now
+$add edition 2012
+$add language english
+$add tags conference live c++
+
+===============================================================================
+
+$set tags keynote
+
+1:30:46
+#marker-0005
+WORDT NU AFGESPEELD
+Sean Parent: Now What? A vignette in three parts
+
+
+===============================================================================
+
+$set tags talk
+
+1:11:36
+#marker-0001
+WORDT NU AFGESPEELD
+Gordon Woodhull : Compile-time 'reparsing' 
+
+CppNow
+•
+387 weergaven
+9 jaar geleden
+https://cppnow.org --- Gordon's talk from C++Now! 2012 The C++ compiler already parses our code; what if we want to parse parts of it again? Over the past few years a number of metaprogramming...
+
+1:27:46
+#marker-0002
+WORDT NU AFGESPEELD
+Beman Dawes, Jeff Garland, Alisdair Meredith: Other C++11 Gems
+
+CppNow
+•
+1,2K weergaven
+9 jaar geleden
+Alisdair, Jeff and Beman's talk from C++Now! 2012 Some topics are too important to miss, but not long enough for a session of their own including Garland on <chrono> and <ratio>...
+
+1:33:33
+#marker-0003
+WORDT NU AFGESPEELD
+Alisdair Meredith: Fresh Paint
+
+CppNow
+•
+900 weergaven
+9 jaar geleden
+Alisdair's talk from the 2011 C++Now! conference C++11 added many interesting new facilities extending the reach of the language in many ways. This session ignores them completely! Instead....
+
+1:58:21
+#marker-0004
+WORDT NU AFGESPEELD
+Lucanus Simonson, Andrii Sydorchuk: Robust and efficient multi precision algorithms design
+
+CppNow
+•
+747 weergaven
+9 jaar geleden
+Andrii's talk from C++Now 2012! Design and implementation of a complex numeric algorithm is a consensus between the following four areas: usability, extensibility, efficiency and robustness....
+
+
+CppNow
+•
+4,7K weergaven
+9 jaar geleden
+Sean's keynote from the C++Now conference May 2012 Part 1: Beauty C++ has seen a resurgence in usage as efficiency has come to dominate costs. Yet many still hold their nose as they move...
+
+1:37:46
+#marker-0006
+WORDT NU AFGESPEELD
+Bryce Adelstein-Lelbach, Matthew Anderson, Hartmut Kaiser: HPX: A C++11 parallel runtime system
+
+CppNow
+•
+1,6K weergaven
+9 jaar geleden
+Bryce, Matthew and Hartmut's talk from C++Now! 2012 Applications in computational science are frequently inhibited by choices inherited from the underlying execution model. In parallel computing...
+
+44:03
+#marker-0007
+WORDT NU AFGESPEELD
+Chandler Carruth: Refactoring C++ with Clang
+
+CppNow
+•
+18K weergaven
+9 jaar geleden
+Chandler's talk from C++Now 2012 For over a decade, C++ developers have envied the tooling support that languages like Java have. With Clang we finally have a tooling framework that allows...
+
+1:08:43
+#marker-0008
+WORDT NU AFGESPEELD
+Daveed Vandevoorde: Modules in C++
+
+CppNow
+•
+4,8K weergaven
+9 jaar geleden
+Daveed's keynote from the 2012 C++Now! conference. May 2012, Aspen, CO. Since the dawn of C++, the preprocessor has been the vehicle for communicating C++ library interfaces. Over the years,...
+
+43:01
+#marker-0009
+WORDT NU AFGESPEELD
+Jeroen Habraken: Type to string conversions, and vice-versa
+
+CppNow
+•
+1K weergaven
+9 jaar geleden
+Jeroen's talk from C++Now! 2012 This presentation will explore the different options one has when converting types to strings and vice-versa. From the old atoi and strtol, to the brand new...
+
+38:39
+#marker-0010
+WORDT NU AFGESPEELD
+Patrick Mihelich: Linear programming made easy with Boost Proto
+
+CppNow
+•
+1,3K weergaven
+9 jaar geleden
+Patricks' talk from C++Now! 2012 Problems in fields as diverse as operations research, finance, and chip design can be modeled as linear programs. As a highly general method for decision problems,...
+
+1:43:10
+#marker-0011
+WORDT NU AFGESPEELD
+Sean Parent: Value Semantics and Concepts-based Polymorphism
+
+CppNow
+•
+22K weergaven
+9 jaar geleden
+Sean's talk from C++Now! 2012
+
+1:47:36
+#marker-0012
+WORDT NU AFGESPEELD
+Tony Van Eerd: How I Code and Why
+
+CppNow
+•
+1,9K weergaven
+9 jaar geleden
+Tony's talk from C++Now! 2012 Why do I code the way that I do? Let me attempt to give some insight via real-world examples and stories.
+
+1:18:43
+#marker-0013
+WORDT NU AFGESPEELD
+Jean-Marc Gratien: Implementing a Domain Specific Embedded Language with Boost Proto
+
+CppNow
+•
+925 weergaven
+9 jaar geleden
+Jean-Marc's talk from C++Now 2012 In this paper we propose an original implementation for a large family of lowest-order methods to solve diffusive problems with a FreeFEM-like domain specific...
+
+37:57
+#marker-0014
+WORDT NU AFGESPEELD
+Karsten Ahnert, Mario Mulansk: Metaprogramming Applied to Numerical Problems
+
+CppNow
+•
+1,2K weergaven
+9 jaar geleden
+Mario's talk from C++Now! 2012 We use modern Template Metaprogramming to create a highly generic and fast implementation of the so called Runge-Kutta schemes. Runge-Kutta schemes are numerical...
+
+54:28
+#marker-0015
+WORDT NU AFGESPEELD
+John Wiegley: C++11: High-Level Threading
+
+CppNow
+•
+4,6K weergaven
+9 jaar geleden
+John's talk from C++Now! 2012 C++11 has acquired comprehensive new facilities for concurrency. As one might expect of a carefully-designed systems programming language, these capabilities...
+
+53:40
+#marker-0016
+WORDT NU AFGESPEELD
+Stephan T. Lavavej: Regex in C++11 and Boost
+
+CppNow
+•
+3,5K weergaven
+9 jaar geleden
+Stephan's talk from C++Now! 2012 Regular expressions are incredibly powerful but notoriously complicated. C++11/Boost's regex interface is even more powerful than other languages/libraries...
+
+1:38:22
+#marker-0017
+WORDT NU AFGESPEELD
+Ale Contenti: C++ Component Extensions for WinRT
+
+CppNow
+•
+611 weergaven
+9 jaar geleden
+Ale's talk from C++Now! 2012 C++ is leveraged in platforms that also apply other programming languages and technologies (i.e. Objective C in iOS, Java in Android, .NET in Windows). One of...
+
+1:28:01
+#marker-0018
+WORDT NU AFGESPEELD
+Tony Van Eerd: Don't Try This at Work -- Low Level Threading with C++11
+
+CppNow
+•
+1,4K weergaven
+9 jaar geleden
+Tony's talk from C++Now! 2012 C++ now has a "memory model". What does that mean, why does it have one, and why didn't it have or need one before? What can we do with it? And these new atomic...
+
+1:44:21
+#marker-0019
+WORDT NU AFGESPEELD
+Michael Caisse: Lambda Functions
+
+CppNow
+•
+2,4K weergaven
+9 jaar geleden
+Michael's talk from C++Now! 2012 Anonymous functions have proven to be a useful tool in many languages. Their locality and sometimes terse nature can produce more expressive and less buggy...
+
+1:14:40
+#marker-0020
+WORDT NU AFGESPEELD
+Zoltan Porkolab, Abel Sinkovics: Metaparse -- Compile-time parsing with template metaprogramming
+
+CppNow
+•
+2,8K weergaven
+9 jaar geleden
+Abel & Zoltan's talk from C++Now 2012 Metaparse is a C++ template metaprogramming library for generating parsers, which are template metaprograms themselves parsing strings at C++ compile-time....
+
+1:25:14
+#marker-0021
+WORDT NU AFGESPEELD 1
+Michael Caisse: Ladon -- A Distributed State-Machine Framework
+
+CppNow
+•
+1,9K weergaven
+9 jaar geleden
+Michael's talk from C++Now! 2012 Hierarchal state machines provide an elegant solution in many domains. Their stringent requirements enforce a level of discipline that often results in a highly...
+
+1:33:10
+#marker-0022
+WORDT NU AFGESPEELD 2
+Michael Caisse: Introduction to Modern C++ Techniques (Part II)
+
+CppNow
+•
+6K weergaven
+9 jaar geleden
+The second half of Michael's talk from C++Now! 2012 Policies, SFINAE, and tags ... oh my! Ready to get your Modern C++ grove on but need a kick start? From the Ciere C++ Ninja Series, this...
+
+1:23:16
+#marker-0023
+WORDT NU AFGESPEELD 3
+Michael Caisse: Introduction to Modern C++ Techniques (Part I)
+
+CppNow
+•
+18K weergaven
+9 jaar geleden
+The first half of Michael's talk from C++Now! 2012 Policies, SFINAE, and tags ... oh my! Ready to get your Modern C++ grove on but need a kick start? From the Ciere C++ Ninja Series, this...
+
+1:38:24
+#marker-0024
+WORDT NU AFGESPEELD 4
+Leor Zolman: A Whirlwind Overview of C++11
+
+CppNow
+•
+3,8K weergaven
+9 jaar geleden
+Leor's talk from the 2012 C++Now! conference In this abbreviated introduction to C++11, Leor Zolman quickly surveys many of the key additions to the language itself, including support for...
+
+53:06
+#marker-0025
+WORDT NU AFGESPEELD
+Travis Gockel: How we switched to C++11 at SolidFire and how it worked out
+
+CppNow
+•
+1K weergaven
+9 jaar geleden
+Travis' talk from C++Now 2012 This presentation will go through the process we used at SolidFire to move our code base from C++03 to C++11, starting with getting the engineering team excited...
+
+1:36:06
+#marker-0026
+WORDT NU AFGESPEELD
+Alisdair Meredith: Lessons Learned Developing the C++11 Standard Library
+
+CppNow
+•
+880 weergaven
+9 jaar geleden
+Alisdair's talk from C++Now! 2012 The C++11 standardization effort took roughly 8 years, and doubled the size of the standard library, at least by page-count! This was our first real chance...
+
+1:57:57
+#marker-0027
+WORDT NU AFGESPEELD
+Scott Schurr: C++11: New Tools for Class and Library Authors
+
+CppNow
+•
+1,1K weergaven
+9 jaar geleden
+Scott's talk from C++Now! 2012 The new standard has lots of toys for class and library authors including variadic templates, static assert, constexper, explicit conversion functions, and decltype.
+
+1:37:59
+#marker-0028
+WORDT NU AFGESPEELD
+Beman Dawes: Boosting Libraries for TR2
+
+CppNow
+•
+695 weergaven
+9 jaar geleden
+Bema's talk from C++Now! 2012 The C++ standards committee's Library Working Group (LWG) is looking for libraries for a new library technical report, TR2. You can propose a Boost library for...
+
+1:33:50
+#marker-0029
+WORDT NU AFGESPEELD
+Andrew Lumsdaine, Larisse Voufo: ConceptClang: An Implementation Model for C++ Concepts
+
+CppNow
+•
+724 weergaven
+9 jaar geleden
+Larisse's talk from C++Now! 2012 Concepts are a proposed C++ extension for constraint-based polymorphism, anticipated as a means to add safety to templates. We present ConceptClang, our experience...
+
+1:28:08
+#marker-0030
+WORDT NU AFGESPEELD
+Karsten Ahnert, Mario Mulansky: odeint -- Solving ordinary differential equations in C++
+
+CppNow
+•
+3,9K weergaven
+9 jaar geleden
+Ordinary differential equations (ODEs) play a major role in many scientific and engineering disciplines. Examples range from classical Newtonian mechanics, chemical reaction equations, rate...
+
+1:41:50
+#marker-0031
+WORDT NU AFGESPEELD
+Alan Talbot: Ustring -- A Modern Alternative to std::string
+
+CppNow
+•
+2,3K weergaven
+9 jaar geleden
+Alan's talk from C++Now! 2012 The recommended way to represent strings in a C++ program is with std::string, but in practice it is quite common to find it necessary to use at least three different...
+
+1:48:59
+#marker-0032
+WORDT NU AFGESPEELD
+Beman Dawes: Moving Boost to Git
+
+CppNow
+•
+1K weergaven
+9 jaar geleden
+Bema's talk from C++Now! 2012 The Git version control system offers Boost developers and users several advantages over Subversion. This session will introduce Git from the Boost perspective,...
+
+1:36:36
+#marker-0033
+WORDT NU AFGESPEELD
+Scott Schurr: Optimizing Embedded Hard Real-Time Code in C++
+
+CppNow
+•
+5,3K weergaven
+9 jaar geleden
+Scott's talk from C++Now 2012 C++ is a multi-paradigm language that performs admirably in a variety of situations. This talk describes extending and optimizing a specific C++ based hard real-time...
+
+1:32:09
+#marker-0034
+WORDT NU AFGESPEELD
+Jon Kalb: Exception-Safe Coding in C++ (Part II)
+
+CppNow
+•
+7,6K weergaven
+9 jaar geleden
+Jon's talk from C++Now! 2012 Are you 100% confident that your code is exception-safe? Safe usage of exceptions is a non-trivial problem that the industry has struggled with for the better...
+
+40:25
+#marker-0035
+WORDT NU AFGESPEELD
+Michael Wong: Future C++1x proposals
+
+CppNow
+•
+693 weergaven
+9 jaar geleden
+Michael's talk from C++Now 2012 What are some of the next upcoming features of C++1x now that we have published C++11? This talk will showcase some of the major proposals based on the February...
+
+1:09:18
+#marker-0036
+WORDT NU AFGESPEELD
+Marshall Clow: Generic Programming in C++: A Real-World Example
+
+CppNow
+•
+3,9K weergaven
+9 jaar geleden
+Marshall's talk from C++Now! 2012 In this 90 minute session, I will take a request from the boost mailing list: | Why doesn't boost have hex/unhex functions, I think they would be useful....
+
+1:30:07
+#marker-0037
+WORDT NU AFGESPEELD
+Jon Kalb: Exception-Safe Coding in C++ (Part I)
+
+CppNow
+•
+17K weergaven
+9 jaar geleden
+Jon's talk from C++Now! 2012 Are you 100% confident that your code is exception-safe? Safe usage of exceptions is a non-trivial problem that the industry has struggled with for the better...
+
+1:39:50
+#marker-0038
+WORDT NU AFGESPEELD
+Bartosz Milewski, Eric Niebler : Compile-Time/Run-Time Functional Programming in C++
+
+CppNow
+•
+4,4K weergaven
+9 jaar geleden
+Bartosz & Eric's talk from C++Now! 2012 Computing at the compile-time/run-time boundary is the basis for many modern, generative C++ programming techniques. Due to the nature of templates,...
+
+40:08
+#marker-0039
+WORDT NU AFGESPEELD
+Nat Goodspeed: Using Boost.Coroutine to untangle a state machine
+
+CppNow
+•
+2,1K weergaven
+9 jaar geleden
+NAt's talk from C++Now! 2012 This is a case study of startup in an event-driven program. The program makes a sequence of requests to external servers, waiting for each result before making...
+
+54:23
+#marker-0040
+WORDT NU AFGESPEELD
+Michael Wong: OpenMP for better high-level parallelism, not just for High Performance Computing
+
+CppNow
+•
+895 weergaven
+9 jaar geleden
+Micheal's OpenMP talk from C++Now 2012 OpenMP is a shared memory parallel specification for C, C++, FORTRAN that supports incremental parallelism using a high level language. Although some...
+
+1:45:54
+#marker-0041
+WORDT NU AFGESPEELD
+Sumit Kumar: What's new in Visual Studio IDE for C++ Developers
+
+CppNow
+•
+1,7K weergaven
+9 jaar geleden
+Sumit's talk from C++Now! 2012 The upcoming release of Visual Studio '11′ packs a number of new features and innovations that make C++ developers more productive with the day to day coding...
+
+===============================================================================
+
+$set tags lightning
+

@@ -1,0 +1,716 @@
+$locked
+
+$add meeting c++now
+$add edition 2018
+$add language english
+$add tags conference live c++
+
+===============================================================================
+
+$set tags keynote
+
+
+1:15:08
+#marker-0002
+WORDT NU AFGESPEELD
+Lisa Lippincott : The Shape of a Program
+CppNow
+
+2
+
+1:25:27
+#marker-0003
+WORDT NU AFGESPEELD
+John Regehr: Closing Keynote: Undefined Behavior and Compiler Optimizations
+CppNow
+
+
+===============================================================================
+
+$set tags talk
+
+NL
+Zoeken
+
+
+
+
+
+9+
+
+Avatar-afbeelding
+Home
+Ontdekken
+Abonnementen
+Bibliotheek
+
+ALLES AFSPELEN
+C++Now 2018
+52 video's19.629 weergavenLaatst geüpdatet op 12 jun. 2018
+
+
+
+
+
+CppNow
+1
+
+3
+
+1:30:26
+#marker-0004
+WORDT NU AFGESPEELD
+Charley Bay: A Quantum Data Structure For Classical Computers
+CppNow
+
+4
+
+1:30:23
+#marker-0005
+WORDT NU AFGESPEELD
+Odin Holmes: C++ Mixins: Customization Through Compile Time Composition
+CppNow
+
+5
+
+1:30:51
+WORDT NU AFGESPEELD
+#marker-0006
+Bob Steagall: Fast Conversion From UTF-8 with C++, DFAs, and SSE Intrinsics
+CppNow
+
+6
+
+1:28:42
+WORDT NU AFGESPEELD
+#marker-0007
+Arthur O'Dwyer: An Allocator is a Handle to a Heap
+CppNow
+
+7
+
+1:32:35
+#marker-0008
+WORDT NU AFGESPEELD
+Z. Laine: Boost.Text: Fixing std::string, and Adding Unicode to Standard C++ (part 1)
+CppNow
+
+8
+
+1:17:48
+#marker-0009
+WORDT NU AFGESPEELD
+Z. Laine: Boost.Text: Fixing std::string, and Adding Unicode to Standard C++ (part 2)
+CppNow
+
+9
+
+1:27:35
+#marker-0010
+WORDT NU AFGESPEELD
+Jason Rice: Generalized Full Duplex Messaging
+CppNow
+
+10
+
+1:29:27
+#marker-0011
+WORDT NU AFGESPEELD
+Mateusz Pusz: Beyond C++17
+CppNow
+
+11
+
+1:33:01
+#marker-0012
+WORDT NU AFGESPEELD
+David Sankel: C++17's std::pmr Comes With a Cost
+CppNow
+
+12
+
+1:24:15
+#marker-0013
+WORDT NU AFGESPEELD
+Allan Deutsch: Game Engine API Design
+CppNow
+
+13
+
+1:10:43
+#marker-0014
+WORDT NU AFGESPEELD
+Bob Steagall: If I Had My 'Druthers: A Proposal for Improving the Containers in C++2x
+CppNow
+
+14
+
+1:23:54
+#marker-0015
+WORDT NU AFGESPEELD
+Jonathan Müller: Rethinking Pointers
+CppNow
+
+15
+
+1:32:06
+#marker-0016
+WORDT NU AFGESPEELD
+Ben Deane: Easy to Use, Hard to Misuse: Declarative Style in C++
+CppNow
+
+16
+
+1:14:17
+#marker-0017
+WORDT NU AFGESPEELD
+Jens Weller: The Problem with "Cutting Edge C++"
+CppNow
+
+17
+
+1:29:48
+#marker-0018
+WORDT NU AFGESPEELD
+Arthur O'Dwyer: The Best Type Traits that C++ Doesn't Have
+CppNow
+
+18
+
+1:30:21
+#marker-0019
+WORDT NU AFGESPEELD
+Bob Steagall: Fancy Pointers for Fun and Profit
+CppNow
+
+19
+
+1:25:01
+#marker-0020
+WORDT NU AFGESPEELD
+Tony Van Eerd: The Continuing Saga of the Lock-free Queue: Part 3 of N
+CppNow
+
+20
+
+1:21:10
+#marker-0021
+WORDT NU AFGESPEELD
+Odin Holmes: Boost.TMP: Your DSL for Metaprogramming
+CppNow
+
+21
+
+1:25:05
+#marker-0022
+WORDT NU AFGESPEELD
+Keno Fischer, Bart Janssens: The Julia Language and C++: The Perfect Marriage?
+CppNow
+
+22
+
+42:15
+#marker-0023
+WORDT NU AFGESPEELD
+Peter Bindels: A View to a View
+CppNow
+
+23
+
+1:21:22
+#marker-0024
+WORDT NU AFGESPEELD
+Michał Dominiak: From Parsing to sema: Making Sense of Syntax Trees
+CppNow
+
+24
+
+44:13
+#marker-0025
+WORDT NU AFGESPEELD
+Mark Zeren: -Os Matters
+CppNow
+
+25
+
+48:40
+#marker-0026
+WORDT NU AFGESPEELD
+Marshall Clow: Making Your Library More Reliable with Fuzzing
+CppNow
+
+26
+
+1:35:43
+#marker-0027
+WORDT NU AFGESPEELD
+Gašper Ažman: My Little *this Deduction: Friendship is ... Uniform?
+CppNow
+
+27
+
+1:30:40
+#marker-0028
+WORDT NU AFGESPEELD
+Michael Caisse: Modern C++ in Embedded Systems
+CppNow
+
+28
+
+1:37:34
+#marker-0029
+WORDT NU AFGESPEELD
+JeanHeyd Meneide: Compile Fast, Run Faster, Scale Forever: A Look into the sol2 Lua Library
+CppNow
+
+29
+
+1:31:47
+#marker-0030
+WORDT NU AFGESPEELD
+Jean-Louis Leroy: yomm2: Fast, Orthogonal, Open Methods in a Library
+CppNow
+
+30
+
+1:31:29
+#marker-0031
+WORDT NU AFGESPEELD
+Michael Spencer: How Compilers Reason About Exceptions
+CppNow
+
+31
+
+
+32
+
+1:31:38
+#marker-0032
+WORDT NU AFGESPEELD
+Jason Turner: Initializer Lists Are Broken, Let's Fix Them
+CppNow
+
+33
+
+1:39:13
+#marker-0033
+WORDT NU AFGESPEELD
+Matt Calabrese: Argot: Simplifying Variants, Tuples, and Futures
+CppNow
+
+34
+
+1:25:39
+#marker-0034
+WORDT NU AFGESPEELD
+John Lakos: C++ Modules & Large-Scale Development
+CppNow
+
+35
+
+1:41:31
+#marker-0035
+WORDT NU AFGESPEELD
+Louis Dionne: Runtime Polymorphism: Back to the Basics
+CppNow
+
+36
+
+40:16
+#marker-0036
+WORDT NU AFGESPEELD
+Anastasia Kazakova: Debug C++ Without Running
+CppNow
+
+37
+
+1:27:25
+#marker-0037
+WORDT NU AFGESPEELD
+Matthew Butler: Secure Coding Best Practices
+CppNow
+
+38
+
+1:33:27
+#marker-0038
+WORDT NU AFGESPEELD
+Rong Lu: C++ Development with Visual Studio Code
+CppNow
+
+39
+
+1:30:26
+#marker-0039
+WORDT NU AFGESPEELD
+Roman Siromakha: Design And Implementation Of DBMS Asynchronous Client Library
+CppNow
+
+40
+
+1:32:12
+#marker-0040
+WORDT NU AFGESPEELD
+Phil Nash: Option(al) Is Not a Failure
+CppNow
+
+41
+
+1:31:55
+#marker-0041
+WORDT NU AFGESPEELD
+Titus Winters: Modern C++ API Design: From Rvalue-References to Type Design
+CppNow
+
+42
+
+43:20
+#marker-0042
+WORDT NU AFGESPEELD
+Eberhard Gräther: The Untapped Potential of Software Visualization
+CppNow
+
+43
+
+48:38
+#marker-0043
+WORDT NU AFGESPEELD
+Mateusz Pusz: Git, CMake, Conan: How to Ship and Reuse our C++ Projects
+CppNow
+
+44
+
+45:59
+#marker-0044
+WORDT NU AFGESPEELD
+Tobias Loew: Fortransformers: A Field Study
+CppNow
+
+45
+
+45:38
+#marker-0045
+WORDT NU AFGESPEELD
+Jason Rice: Docker Based C++ Dependency and Build Management
+CppNow
+
+46
+
+57:33
+#marker-0046
+WORDT NU AFGESPEELD
+Jonathan Boccara: Smart Output Iterators
+CppNow
+
+47
+
+1:38:30
+#marker-0047
+WORDT NU AFGESPEELD
+Vittorio Romeo: Futures Without Type Erasure
+CppNow
+
+48
+
+1:30:03
+#marker-0048
+WORDT NU AFGESPEELD
+Matt Godbolt: What Else Has My Compiler Done For Me Lately?
+CppNow
+
+49
+
+1:28:57
+#marker-0049
+WORDT NU AFGESPEELD
+Alan Talbot: Moving Faster: Everyday Efficiency in Modern C++
+CppNow
+
+50
+
+1:18:56
+#marker-0050
+WORDT NU AFGESPEELD
+Tony Wasserka: Generative Programming in Action: Emulating the 3DS
+CppNow
+
+51
+
+1:30:53
+#marker-0051
+WORDT NU AFGESPEELD
+Malte Skarupke: You Can Do Better than std::unordered_map: New Improvements to Hash Table Performance
+CppNow
+
+52
+
+1:17:53
+#marker-0052
+WORDT NU AFGESPEELD
+Tony Van Eerd: Words of Wisdom
+CppNow
+
+===============================================================================
+
+$set tags panel
+
+1:01:00
+#marker-0053
+WORDT NU AFGESPEELD
+Closing Panel: What Belongs in the C++ Standard Library
+CppNow
+
+
+
+===============================================================================
+
+$set tags lightning
+
+NL
+Zoeken
+
+
+
+
+
+9+
+
+Avatar-afbeelding
+Home
+Ontdekken
+Abonnementen
+Bibliotheek
+
+ALLES AFSPELEN
+C++Now 2018 Lightning Talks
+28 video's5.966 weergavenLaatst geüpdatet op 27 feb. 2020
+
+
+
+
+
+CppNow
+1
+
+5:30
+#marker-0054
+WORDT NU AFGESPEELD
+Serj Biolkhatniuk: nothing
+CppNow
+
+2
+
+5:02
+#marker-0055
+WORDT NU AFGESPEELD
+Louis Dionne: The Object Upside Down"
+CppNow
+
+3
+
+5:21
+#marker-0056
+WORDT NU AFGESPEELD
+Griffin Downs: C++ Reflection via Clang LibTooling
+CppNow
+
+4
+
+2:39
+#marker-0057
+WORDT NU AFGESPEELD
+JeanHeyd Meneide: Poetry - 
+CppNow
+
+5
+
+4:09
+#marker-0058
+WORDT NU AFGESPEELD
+Anastasia Kazakova: Talk to me! The art of reporting a bug
+CppNow
+
+6
+
+4:00
+#marker-0059
+WORDT NU AFGESPEELD
+Bryce Adelstein Lelbach: C++ Execution Model In Five Minutes
+CppNow
+
+7
+
+4:40
+#marker-0060
+WORDT NU AFGESPEELD
+Tobias Loew: ForTransformers vs deCeePeePeeticons
+CppNow
+
+8
+
+4:22
+#marker-0061
+WORDT NU AFGESPEELD
+Jonathan Müller: A Fool's Consistency
+CppNow
+
+9
+
+4:38
+#marker-0062
+WORDT NU AFGESPEELD
+Phil Nash: We have always been at war with West Constia
+CppNow
+
+10
+
+4:28
+#marker-0063
+WORDT NU AFGESPEELD
+Arthur O'Dwyer: An allocator is a handle to a heap
+CppNow
+
+11
+
+2:43
+#marker-0064
+WORDT NU AFGESPEELD
+Richard Powell: C++ Potpourri 2
+CppNow
+
+12
+
+4:33
+#marker-0065
+WORDT NU AFGESPEELD
+Philip Salvaggio: Workflow Modeling with Boost Graph Library
+CppNow
+
+13
+
+4:55
+#marker-0066
+WORDT NU AFGESPEELD
+Alan Talbot: Loop Exit Blocks: A proposal for C++20
+CppNow
+
+14
+
+4:19
+#marker-0067
+WORDT NU AFGESPEELD
+Leor Zolman: Puzzler
+CppNow
+
+15
+
+5:29
+#marker-0068
+WORDT NU AFGESPEELD
+Jon Kalb: This is Why We Can't Have Nice Things"
+CppNow
+
+16
+
+5:05
+#marker-0069
+WORDT NU AFGESPEELD
+Agustín Bergé: SFINAE: Substitution Failure Is Not An Error
+CppNow
+
+17
+
+5:13
+#marker-0070
+WORDT NU AFGESPEELD
+Ben Deane: Easing into Modern C++
+CppNow
+
+18
+
+3:55
+#marker-0071
+WORDT NU AFGESPEELD
+Daniel Dilts: Avoiding Virtual Call in CRTP
+CppNow
+
+19
+
+5:45
+#marker-0072
+WORDT NU AFGESPEELD
+Odin Holmes: Lightning Talk
+CppNow
+
+20
+
+4:53
+#marker-0073
+WORDT NU AFGESPEELD
+Jon Kalb: Copy Elision
+CppNow
+
+21
+
+5:44
+#marker-0074
+WORDT NU AFGESPEELD
+Jean-Louis Leroy: Code Generation: The Lisp Way
+CppNow
+
+22
+
+5:59
+#marker-0075
+WORDT NU AFGESPEELD
+JeanHeyd Meneide: Where Should I Be?
+CppNow
+
+23
+
+6:20
+#marker-0076
+WORDT NU AFGESPEELD
+Leor Zolman: C++ Puzzler
+CppNow
+
+24
+
+5:16
+#marker-0077
+WORDT NU AFGESPEELD
+Bradley Kuhn: 11 Years of Boost at Conservancy
+CppNow
+
+25
+
+5:01
+#marker-0078
+WORDT NU AFGESPEELD
+Jonathan Müller: Placement New
+CppNow
+
+26
+
+4:15
+#marker-0079
+WORDT NU AFGESPEELD
+Wissam Mehio: Enums four ways
+CppNow
+
+27
+
+5:40
+#marker-0080
+WORDT NU AFGESPEELD
+Jeff Trull: Improving Debuggability with GDB's Python API
+CppNow
+
+28
+
+5:20
+#marker-0081
+WORDT NU AFGESPEELD
+Marcel Ebmer: for_each_adjacent＜N＞
+CppNow
+

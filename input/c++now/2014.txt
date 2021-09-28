@@ -1,0 +1,375 @@
+$locked
+
+$add meeting c++now
+$add edition 2014
+$add language english
+$add tags conference live c++
+
+
+NL
+Zoeken
+
+
+===============================================================================
+
+$set tags keynote
+
+
+1:24:42
+#marker-0001
+WORDT NU AFGESPEELD
+Nicolai Josuttis: Beware of C++
+CppNow
+
+
+1:31:27
+#marker-0002
+WORDT NU AFGESPEELD
+Gabriel Dos Reis: Axiomatic Programming: From Euclidean Deductions to C++ Templates and Beyond
+CppNow
+
+
+
+===============================================================================
+
+$set tags talk
+
+
+9+
+
+Avatar-afbeelding
+Home
+Ontdekken
+Abonnementen
+Bibliotheek
+
+ALLES AFSPELEN
+C++Now 2014
+41 video's6.947 weergavenLaatst geüpdatet op 25 sep. 2014
+
+
+
+
+
+CppNow
+1
+
+2
+
+
+3
+
+1:15:05
+#marker-0003
+WORDT NU AFGESPEELD
+Michael Wong: C++14: Through the Looking Glass
+CppNow
+
+4
+
+1:20:44
+#marker-0004
+WORDT NU AFGESPEELD
+Nat Goodspeed: Coroutines, Fibers and Threads, Oh My
+CppNow
+
+5
+
+1:10:08
+#marker-0005
+WORDT NU AFGESPEELD
+Larisse Vuofo: ConceptClang: Theoretical Advances with Full C++ Concepts
+CppNow
+
+6
+
+57:31
+#marker-0006
+WORDT NU AFGESPEELD
+David Stone: Removing Undefined behavior from integer operations: The bounded::integer library
+CppNow
+
+7
+
+1:27:41
+#marker-0007
+WORDT NU AFGESPEELD
+Pable Colapinto: Generic programming of Generic Spaces: Compile-Time Geometric Algebra with C++11
+CppNow
+
+8
+
+1:35:33
+#marker-0008
+WORDT NU AFGESPEELD
+Chandler Carruth: Value Semantics and Range Algorithms - Composability and Efficiency
+CppNow
+
+9
+
+33:00
+#marker-0009
+WORDT NU AFGESPEELD
+Paul Kirth: Preparing the C++11 Library AFIO for Boost Peer Review
+CppNow
+
+10
+
+1:29:00
+#marker-0010
+WORDT NU AFGESPEELD
+Marshall Clow: Undefined Behavior in C++: What is it, and why do you care?
+CppNow
+
+11
+
+1:05:21
+#marker-0011
+WORDT NU AFGESPEELD
+Nikita Chumakov, Sergei Khandrikov: The Optimization of a Boost.Asio-based Networking Server
+CppNow
+
+12
+
+1:34:09
+#marker-0012
+WORDT NU AFGESPEELD
+Leor Zolman: A Tutorial Introduction to C++11 & 14 Part 1
+CppNow
+
+13
+
+1:35:38
+#marker-0013
+WORDT NU AFGESPEELD
+Yury Solodkyy: Mach7: The Design and Evolution of a Pattern Matching Library for C++
+CppNow
+
+14
+
+1:31:28
+#marker-0014
+WORDT NU AFGESPEELD
+Luis Dionne: MPL11: A New Metaprogramming Library for C++11
+CppNow
+
+15
+
+1:24:10
+#marker-0015
+WORDT NU AFGESPEELD
+Cheinan Marks: Practical Type Erasure: A boost::any Based Configuration Framework
+CppNow
+
+16
+
+1:33:18
+#marker-0016
+WORDT NU AFGESPEELD
+Eric Niebler: C++11 Library Design
+CppNow
+
+17
+
+1:40:53
+#marker-0017
+WORDT NU AFGESPEELD
+Leor Zolman: A Tutorial Introduction to C++11/14 - Part II
+CppNow
+
+18
+
+1:32:48
+#marker-0018
+WORDT NU AFGESPEELD
+Sean Parent: Goals for Better Code - Implement Complete Types
+CppNow
+
+19
+
+1:19:55
+#marker-0019
+WORDT NU AFGESPEELD
+Edouard Alligand: Multiplatform C++
+CppNow
+
+20
+
+1:29:56
+#marker-0020
+WORDT NU AFGESPEELD
+Bryce Adelstein-Lelbach: Octopus: A Policy-Driven Framework for CFD Simulations
+CppNow
+
+21
+
+1:12:45
+#marker-0021
+WORDT NU AFGESPEELD
+Ilja Honkonen: C++ in Space Plasma Model Development
+CppNow
+
+22
+
+1:29:41
+#marker-0022
+WORDT NU AFGESPEELD
+James McNellis: Unicode in C++
+CppNow
+
+23
+
+1:24:43
+#marker-0023
+WORDT NU AFGESPEELD
+John Bandela: CppComponents- A Modern Portable C++11 Component System
+CppNow
+
+24
+
+1:35:24
+#marker-0024
+WORDT NU AFGESPEELD
+Scott Schurr: Understanding &&
+CppNow
+
+25
+
+1:44:32
+#marker-0025
+WORDT NU AFGESPEELD
+Boris Kolpackov: Designing XML API for Modern C++
+CppNow
+
+26
+
+1:06:45
+#marker-0026
+WORDT NU AFGESPEELD
+Abel Sinkovics: Interactive Metaprogramming Shell based on Clang
+CppNow
+
+27
+
+1:21:45
+#marker-0027
+WORDT NU AFGESPEELD
+Diego Perini: Modern C++ as Concurrent Assembly
+CppNow
+
+28
+
+1:21:41
+#marker-0028
+WORDT NU AFGESPEELD
+Piotr Wygocki: How to Design C++ Implementations of Complex Combinatorial Algorithms
+CppNow
+
+29
+
+1:24:31
+#marker-0029
+WORDT NU AFGESPEELD
+Barosz Milewski: Functional Data Structures in C++
+CppNow
+
+30
+
+1:40:29
+#marker-0030
+WORDT NU AFGESPEELD
+Christophe Henry: Asynchronous Programming Using the Boost.MetaStateMachine and the Upcoming Asynchrnonous Library
+CppNow
+
+31
+
+1:40:54
+#marker-0031
+WORDT NU AFGESPEELD
+Vicente Botet Escriba: Expected- An exception-friendly Error Monad
+CppNow
+
+32
+
+1:24:58
+#marker-0032
+WORDT NU AFGESPEELD
+Daniel Dilts: Lifetime and Usage of Global, Thread-local, and Static Data
+CppNow
+
+33
+
+1:18:11
+#marker-0033
+WORDT NU AFGESPEELD
+Jens Weller: 0xBADC0DE
+CppNow
+
+34
+
+1:15:54
+#marker-0034
+WORDT NU AFGESPEELD
+David Sankel: Intro to Functional Programming in C++
+CppNow
+
+35
+
+1:31:35
+#marker-0035
+WORDT NU AFGESPEELD
+Richard Thompson: Create your own Refactoring Tool in Clang
+CppNow
+
+36
+
+1:37:07
+#marker-0036
+WORDT NU AFGESPEELD
+John Lakos: Value Semantics: It aint about the syntax!
+CppNow
+
+37
+
+1:35:35
+#marker-0037
+WORDT NU AFGESPEELD
+Sebastian Redl: Iterators May Stay
+CppNow
+
+38
+
+58:38
+#marker-0038
+WORDT NU AFGESPEELD
+Niall Douglas: My Thoughts on Large Code Base Change Ripple Management in C++
+CppNow
+
+39
+
+1:20:42
+#marker-0039
+WORDT NU AFGESPEELD
+David Sankel: Functional Reactive Programming - Cleanly Abstracted Interactivity
+CppNow
+
+40
+
+1:26:45
+#marker-0040
+WORDT NU AFGESPEELD
+Zhihoa Yuan: Disambiguation: The Black Technology
+CppNow
+
+41
+
+46:14
+#marker-0041
+WORDT NU AFGESPEELD
+Sebastian Schaetz: The Future of Accelerator Programming in C++
+CppNow
+
+===============================================================================
+
+$set tags lightning
+

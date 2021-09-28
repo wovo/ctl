@@ -1,0 +1,782 @@
+{ "list": [{
+   "duration": 3375,
+   "edition": "2017",
+   "identifier": "#meeting-c++-2017-0002",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 1,
+   "speakers": [
+      "Jason Turner"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/YePHP4aIc1g/0.jpg",
+   "title": "Practical C++17",
+   "video": "https://youtube.com/watch?v=YePHP4aIc1g"
+},{
+   "duration": 3532,
+   "edition": "2017",
+   "identifier": "#meeting-c++-2017-0003",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 2,
+   "speakers": [
+      "Rainer Grimm"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/fkqVRzy4JhA/0.jpg",
+   "title": "Threads and Locks must Go",
+   "video": "https://youtube.com/watch?v=fkqVRzy4JhA"
+},{
+   "duration": 3301,
+   "edition": "2017",
+   "identifier": "#meeting-c++-2017-0004",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 3,
+   "speakers": [
+      "Peter Goldsborough"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/9-1lcss0NMg/0.jpg",
+   "title": "Deep Learning with C++",
+   "video": "https://youtube.com/watch?v=9-1lcss0NMg"
+},{
+   "duration": 3568,
+   "edition": "2017",
+   "identifier": "#meeting-c++-2017-0005",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 4,
+   "speakers": [
+      "Guy Davidson"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/NCcUIbbQmlM/0.jpg",
+   "title": "Dragging C++ into the modern era: a proposal for a 2D Graphics API",
+   "video": "https://youtube.com/watch?v=NCcUIbbQmlM"
+},{
+   "duration": 3532,
+   "edition": "2017",
+   "identifier": "#meeting-c++-2017-0006",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 5,
+   "speakers": [
+      "Ivan Cukic"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/iYipZw4tS-A/0.jpg",
+   "title": "Functional Data Structures",
+   "video": "https://youtube.com/watch?v=iYipZw4tS-A"
+},{
+   "duration": 3094,
+   "edition": "2017",
+   "identifier": "#meeting-c++-2017-0007",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 6,
+   "speakers": [
+      "Jonathan Boccara"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/WVleZqzTw2k/0.jpg",
+   "title": "Strong types for strong interfaces",
+   "video": "https://youtube.com/watch?v=WVleZqzTw2k"
+},{
+   "duration": 2934,
+   "edition": "2017",
+   "identifier": "#meeting-c++-2017-0008",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 7,
+   "speakers": [
+      "Andreas Reischuck"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/4DvSxmIadb0/0.jpg",
+   "title": "Improve your C++ with inspirations from other languages",
+   "video": "https://youtube.com/watch?v=4DvSxmIadb0"
+},{
+   "duration": 3411,
+   "edition": "2017",
+   "identifier": "#meeting-c++-2017-0009",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 8,
+   "speakers": [
+      "Dori Exterman"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/hCgPHKfqvRQ/0.jpg",
+   "title": "How to Use Free Visualization Tools to Optimize Applications and Parallel Computing",
+   "video": "https://youtube.com/watch?v=hCgPHKfqvRQ"
+},{
+   "duration": 2713,
+   "edition": "2017",
+   "identifier": "#meeting-c++-2017-0010",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 9,
+   "speakers": [
+      "Simon Brand"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/Q3Rm95Mk03c/0.jpg",
+   "title": "How C++ Debuggers Work",
+   "video": "https://youtube.com/watch?v=Q3Rm95Mk03c"
+},{
+   "duration": 2718,
+   "edition": "2017",
+   "identifier": "#meeting-c++-2017-0011",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 10,
+   "speakers": [
+      "Phil Nash"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/3tIE6X5FjDE/0.jpg",
+   "title": "Modern C++ Testing with Catch2",
+   "video": "https://youtube.com/watch?v=3tIE6X5FjDE"
+},{
+   "duration": 2374,
+   "edition": "2017",
+   "identifier": "#meeting-c++-2017-0012",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 11,
+   "speakers": [
+      "Anton Bikineev"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/NWIsRFDaHhs/0.jpg",
+   "title": "Reflection in C++Next",
+   "video": "https://youtube.com/watch?v=NWIsRFDaHhs"
+},{
+   "duration": 3605,
+   "edition": "2017",
+   "identifier": "#meeting-c++-2017-0013",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 12,
+   "speakers": [
+      "John Lakos"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/nZNd5FjSquk/0.jpg",
+   "title": "Local ('Arena') Memory Allocators",
+   "video": "https://youtube.com/watch?v=nZNd5FjSquk"
+},{
+   "duration": 3587,
+   "edition": "2017",
+   "identifier": "#meeting-c++-2017-0014",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 13,
+   "speakers": [
+      "Gabor Horvath"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/Ua0PitC4EKQ/0.jpg",
+   "title": "Beyond the Compiler: Advanced Tools for Better Productivity",
+   "video": "https://youtube.com/watch?v=Ua0PitC4EKQ"
+},{
+   "duration": 4201,
+   "edition": "2017",
+   "identifier": "#meeting-c++-2017-0015",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 14,
+   "speakers": [
+      "Joel Falcou"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/WU5v4FT7CMM/0.jpg",
+   "title": "The Three Little Dots and the Big Bad Lambdas",
+   "video": "https://youtube.com/watch?v=WU5v4FT7CMM"
+},{
+   "duration": 3365,
+   "edition": "2017",
+   "identifier": "#meeting-c++-2017-0016",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 15,
+   "speakers": [
+      "Mathieu Ropert"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/k9PLRAnnEmE/0.jpg",
+   "title": "C++ API & ABI versioning",
+   "video": "https://youtube.com/watch?v=k9PLRAnnEmE"
+},{
+   "duration": 3605,
+   "edition": "2017",
+   "identifier": "#meeting-c++-2017-0017",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 16,
+   "speakers": [
+      "John Lakos"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/nZNd5FjSquk/0.jpg",
+   "title": "Local ('Arena') Memory Allocators II",
+   "video": "https://youtube.com/watch?v=nZNd5FjSquk"
+},{
+   "duration": 7320,
+   "edition": "2017",
+   "identifier": "#meeting-c++-2017-0018",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 17,
+   "speakers": [
+      "Its complicated!"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/tTexD26jIN4/0.jpg",
+   "title": "Keynote - Kate Gregory",
+   "video": "https://youtube.com/watch?v=tTexD26jIN4"
+},{
+   "duration": 3731,
+   "edition": "2017",
+   "identifier": "#meeting-c++-2017-0019",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 18,
+   "speakers": [
+      "Jason Turner"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/xtf9qkDTrZE/0.jpg",
+   "title": "Practical constexpr",
+   "video": "https://youtube.com/watch?v=xtf9qkDTrZE"
+},{
+   "duration": 3717,
+   "edition": "2017",
+   "identifier": "#meeting-c++-2017-0020",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 19,
+   "speakers": [
+      "Felix Petriconi"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/vDmQlIeY4z0/0.jpg",
+   "title": "There Is A New Future",
+   "video": "https://youtube.com/watch?v=vDmQlIeY4z0"
+},{
+   "duration": 1968,
+   "edition": "2017",
+   "identifier": "#meeting-c++-2017-0021",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 20,
+   "speakers": [
+      "Antonio Mallia",
+      "Jaime Alonso Lorenzo"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/tTNWvr_Qs-8/0.jpg",
+   "title": "C++: unexpected behaviour",
+   "video": "https://youtube.com/watch?v=tTNWvr_Qs-8"
+},{
+   "duration": 3510,
+   "edition": "2017",
+   "identifier": "#meeting-c++-2017-0023",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 21,
+   "speakers": [
+      "Kris Jusiak"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/TorW5ekkL_w/0.jpg",
+   "title": "Concepts driven design",
+   "video": "https://youtube.com/watch?v=TorW5ekkL_w"
+},{
+   "duration": 3310,
+   "edition": "2017",
+   "identifier": "#meeting-c++-2017-0024",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 22,
+   "speakers": [
+      "Peter Steinbach"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/DxP--1yEgKQ/0.jpg",
+   "title": "The Performance Addict's toolbox",
+   "video": "https://youtube.com/watch?v=DxP--1yEgKQ"
+},{
+   "duration": 3922,
+   "edition": "2017",
+   "identifier": "#meeting-c++-2017-0025",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 23,
+   "speakers": [
+      "Lukas Bergdoll"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/JRkoWiDA3KA/0.jpg",
+   "title": "Is std::function really the best we can do?",
+   "video": "https://youtube.com/watch?v=JRkoWiDA3KA"
+},{
+   "duration": 5196,
+   "edition": "2017",
+   "identifier": "#meeting-c++-2017-0027",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 24,
+   "speakers": [
+      "Kevlin Henney"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/1s-BGBA8Nqo/0.jpg",
+   "title": "Declarative Thinking, Declarative Practice",
+   "video": "https://youtube.com/watch?v=1s-BGBA8Nqo"
+},{
+   "duration": 5804,
+   "edition": "2017",
+   "identifier": "#meeting-c++-2017-0028",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 25,
+   "speakers": [
+      "Niall Douglas"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/JfMBLx7qE0I/0.jpg",
+   "title": "Introduction to proposed std::expected<T, E>",
+   "video": "https://youtube.com/watch?v=JfMBLx7qE0I"
+},{
+   "duration": 4775,
+   "edition": "2017",
+   "identifier": "#meeting-c++-2017-0029",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 26,
+   "speakers": [
+      "Kiki de Rooij",
+      "Peter Bindels"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/yAvWRp3bm9k/0.jpg",
+   "title": "Dealing with software dependencies",
+   "video": "https://youtube.com/watch?v=yAvWRp3bm9k"
+},{
+   "duration": 1660,
+   "edition": "2017",
+   "identifier": "#meeting-c++-2017-0030",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 27,
+   "speakers": [
+      "Diego Rodriguez-Losada"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/9vq1cpd9Ez0/0.jpg",
+   "title": "C++ is late to the party: package management is only the beginning",
+   "video": "https://youtube.com/watch?v=9vq1cpd9Ez0"
+},{
+   "duration": 3532,
+   "edition": "2017",
+   "identifier": "#meeting-c++-2017-0031",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 28,
+   "speakers": [
+      "Juan Pedro Bolivar Puente"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/_oBx_NbLghY/0.jpg",
+   "title": "The most valuable values",
+   "video": "https://youtube.com/watch?v=_oBx_NbLghY"
+},{
+   "duration": 3293,
+   "edition": "2017",
+   "identifier": "#meeting-c++-2017-0032",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 29,
+   "speakers": [
+      "Mathieu Ropert"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/ztrnb-bVVPo/0.jpg",
+   "title": "Modern CMake for modular design",
+   "video": "https://youtube.com/watch?v=ztrnb-bVVPo"
+},{
+   "duration": 2818,
+   "edition": "2017",
+   "identifier": "#meeting-c++-2017-0033",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 30,
+   "speakers": [
+      "Nicholas Ormrod"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/YA-nB2wjVcI/0.jpg",
+   "title": "Fantastic Algorithms and Where To Find Them",
+   "video": "https://youtube.com/watch?v=YA-nB2wjVcI"
+},{
+   "duration": 3642,
+   "edition": "2017",
+   "identifier": "#meeting-c++-2017-0034",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 31,
+   "speakers": [
+      "Anastasia Kazakova"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/Hlmp-zTyrxM/0.jpg",
+   "title": "Tools from the C++ eco-system to save a leg",
+   "video": "https://youtube.com/watch?v=Hlmp-zTyrxM"
+},{
+   "duration": 3282,
+   "edition": "2017",
+   "identifier": "#meeting-c++-2017-0035",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 32,
+   "speakers": [
+      "Jonathan Muller"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/Pt6oeIpzue4/0.jpg",
+   "title": "Fun with (user-defined) attributes",
+   "video": "https://youtube.com/watch?v=Pt6oeIpzue4"
+},{
+   "duration": 3545,
+   "edition": "2017",
+   "identifier": "#meeting-c++-2017-0036",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 33,
+   "speakers": [
+      "Arne Mertz"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/t6L8b4tUmeE/0.jpg",
+   "title": "Code Reviews - Why, What, and How",
+   "video": "https://youtube.com/watch?v=t6L8b4tUmeE"
+},{
+   "duration": 3732,
+   "edition": "2017",
+   "identifier": "#meeting-c++-2017-0037",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 34,
+   "speakers": [
+      "Andre Bergner"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/QYNRoeWJuAw/0.jpg",
+   "title": "Reactive Equations",
+   "video": "https://youtube.com/watch?v=QYNRoeWJuAw"
+},{
+   "duration": 3702,
+   "edition": "2017",
+   "identifier": "#meeting-c++-2017-0038",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 35,
+   "speakers": [
+      "Klaus Iglberger"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/WLDT1lDOsb4/0.jpg",
+   "title": "Free your functions",
+   "video": "https://youtube.com/watch?v=WLDT1lDOsb4"
+},{
+   "duration": 3634,
+   "edition": "2017",
+   "identifier": "#meeting-c++-2017-0039",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 36,
+   "speakers": [
+      "Victor Ciura"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/Wl-9ozmxXbo/0.jpg",
+   "title": "Bringing Clang-tidy Magic to Visual Studio C++ Developers",
+   "video": "https://youtube.com/watch?v=Wl-9ozmxXbo"
+},{
+   "duration": 3940,
+   "edition": "2017",
+   "identifier": "#meeting-c++-2017-0040",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 37,
+   "speakers": [
+      "Alfred Bratterud"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/9IXivbSA_5A/0.jpg",
+   "title": "True parallelism with no concept of threads",
+   "video": "https://youtube.com/watch?v=9IXivbSA_5A"
+},{
+   "duration": 3180,
+   "edition": "2017",
+   "identifier": "#meeting-c++-2017-0041",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 38,
+   "speakers": [
+      "Boris Schaling"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/Vo9F35G-Rfk/0.jpg",
+   "title": "The hidden rules of world-class C++ code",
+   "video": "https://youtube.com/watch?v=Vo9F35G-Rfk"
+},{
+   "duration": 3287,
+   "edition": "2017",
+   "identifier": "#meeting-c++-2017-0042",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 39,
+   "speakers": [
+      "Marc Mutz"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/0QFPKgvLhao/0.jpg",
+   "title": "Stringviews, stringviews everywhere",
+   "video": "https://youtube.com/watch?v=0QFPKgvLhao"
+},{
+   "duration": 2520,
+   "edition": "2017",
+   "identifier": "#meeting-c++-2017-0043",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 40,
+   "speakers": [
+      "Jeffrey Mendelsohn"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/KJS3ikoiLso/0.jpg",
+   "title": "Reader-Write Lock versus Mutex - Understanding a Lost Bet",
+   "video": "https://youtube.com/watch?v=KJS3ikoiLso"
+},{
+   "duration": 5877,
+   "edition": "2017",
+   "identifier": "#meeting-c++-2017-0044",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting-c++",
+   "number": 41,
+   "speakers": [
+      "Wouter van Ooijen"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/mNPfsUZb3vs/0.jpg",
+   "title": "What can C++ offer embedded, what can embedded offer C++?",
+   "video": "https://youtube.com/watch?v=mNPfsUZb3vs"
+}]}

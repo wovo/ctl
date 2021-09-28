@@ -1,0 +1,54 @@
+#locked
+
+$add meeting code-dive
+$add edition 2014
+$add language english
+$add tags conference live
+
+#marker-0001
+Core Principles And Practices For Creating Lightweight Design
+Venkat Subramaniam
+
+#marker-0002
+C++ Concepts
+Robert Matusewicz
+
+#marker-0003
+CPU Caches And Why You Care
+Scott Meyers
+
+#marker-0004
+Functional Programming? Technical Reasons To Adapt
+Venkat Subramaniam
+
+#marker-0005
+How To Build Architecture Of Your System
+Jarosław Pałka
+
+#marker-0006
+Iron Man Vs Pony. How To Make Your Java Developers Working Efficiently With Designers
+Maciej Mazur
+
+#marker-0007
+Model – View – Whatever
+Damian Czernous
+
+#marker-0008
+Seeing The Bigger Picture -- Part 1
+Andrzej Krzemieński
+
+#marker-0009
+Seeing The Bigger Picture -- Part 2
+Andrzej Krzemieński
+
+#marker-0010
+Support For Embedded Programming In C++11 And C++14
+Scott Meyers
+
+#marker-0011
+Threading: Dos And Don'ts
+Bartosz Szurgot
+
+#marker-0012
+What Is A Good Code
+Bartek Kuczyński

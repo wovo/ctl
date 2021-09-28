@@ -1,0 +1,830 @@
+{ "list": [{
+   "duration": 4128,
+   "edition": "2019",
+   "identifier": "#code-dive-2019-0001",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 1,
+   "speakers": [
+      "Victor Ciura"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/JLnnaO8hEbc/0.jpg",
+   "title": "A Short Life span For a Regular Mess",
+   "video": "https://youtube.com/watch?v=JLnnaO8hEbc"
+},{
+   "duration": 2670,
+   "edition": "2019",
+   "identifier": "#code-dive-2019-0002",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 2,
+   "speakers": [
+      "Karol Przybylski"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/F01QsCSXg4k/0.jpg",
+   "title": "Agile the hard(ware) way",
+   "video": "https://youtube.com/watch?v=F01QsCSXg4k"
+},{
+   "duration": 3946,
+   "edition": "2019",
+   "identifier": "#code-dive-2019-0003",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 3,
+   "speakers": [
+      "Pablo Ribalta"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/f9vNYgoG_zY/0.jpg",
+   "title": "AI in Healthcare",
+   "video": "https://youtube.com/watch?v=f9vNYgoG_zY"
+},{
+   "duration": 2201,
+   "edition": "2019",
+   "identifier": "#code-dive-2019-0004",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 4,
+   "speakers": [
+      "Zbigniew Piecuch"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/04SQCXJKdu0/0.jpg",
+   "title": "An Agile (hi)story",
+   "video": "https://youtube.com/watch?v=04SQCXJKdu0"
+},{
+   "duration": 3605,
+   "edition": "2019",
+   "identifier": "#code-dive-2019-0005",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 5,
+   "speakers": [
+      "Lukasz Langa"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/4DkMQRc4Iuc/0.jpg",
+   "title": "AsyncIO and Music",
+   "video": "https://youtube.com/watch?v=4DkMQRc4Iuc"
+},{
+   "duration": 3423,
+   "edition": "2019",
+   "identifier": "#code-dive-2019-0006",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 6,
+   "speakers": [
+      "Conor Hoekstra"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/0z-cv3gartw/0.jpg",
+   "title": "Better Algorithm Intuition",
+   "video": "https://youtube.com/watch?v=0z-cv3gartw"
+},{
+   "duration": 2824,
+   "edition": "2019",
+   "identifier": "#code-dive-2019-0007",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 7,
+   "speakers": [
+      "Dmitriy Trukhanov"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/IaY4jboujw8/0.jpg",
+   "title": "Black-box performance analysis",
+   "video": "https://youtube.com/watch?v=IaY4jboujw8"
+},{
+   "duration": 3296,
+   "edition": "2019",
+   "identifier": "#code-dive-2019-0008",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 8,
+   "speakers": [
+      "Mathieu Ropert"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/Car3fQXm6Rs/0.jpg",
+   "title": "Build for everyday programmers and why should they care",
+   "video": "https://youtube.com/watch?v=Car3fQXm6Rs"
+},{
+   "duration": 4019,
+   "edition": "2019",
+   "identifier": "#code-dive-2019-0009",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 9,
+   "speakers": [
+      "Jakub Janczyk"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/OYbO8nAQnTs/0.jpg",
+   "title": "Building conversational voice bots - lessons learned",
+   "video": "https://youtube.com/watch?v=OYbO8nAQnTs"
+},{
+   "duration": 3711,
+   "edition": "2019",
+   "identifier": "#code-dive-2019-0010",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 10,
+   "speakers": [
+      "Viktor Kirilov"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/8SoJR3sCaR4/0.jpg",
+   "title": "C++ as Assembly 2.0 - Hello Nim",
+   "video": "https://youtube.com/watch?v=8SoJR3sCaR4"
+},{
+   "duration": 3735,
+   "edition": "2019",
+   "identifier": "#code-dive-2019-0011",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 11,
+   "speakers": [
+      "Jason Turner"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/RgTFO1D3bSU/0.jpg",
+   "title": "C++ Code Smells",
+   "video": "https://youtube.com/watch?v=RgTFO1D3bSU"
+},{
+   "duration": 2993,
+   "edition": "2019",
+   "identifier": "#code-dive-2019-0012",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 12,
+   "speakers": [
+      "Milosz Warzecha"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/FeUOKwLLQe0/0.jpg",
+   "title": "C++20 Coroutines: Asynchronity reimagined",
+   "video": "https://youtube.com/watch?v=FeUOKwLLQe0"
+},{
+   "duration": 3164,
+   "edition": "2019",
+   "identifier": "#code-dive-2019-0013",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 13,
+   "speakers": [
+      "Adi Shavit"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/ahorllPz5rE/0.jpg",
+   "title": "C++20 Coroutines: Generators, and Brain Unrolling Sweetness",
+   "video": "https://youtube.com/watch?v=ahorllPz5rE"
+},{
+   "duration": 3472,
+   "edition": "2019",
+   "identifier": "#code-dive-2019-0014",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 14,
+   "speakers": [
+      "Marcin Grzebieluch"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/vDA925C55F0/0.jpg",
+   "title": "C++20 Coroutines: Introduction",
+   "video": "https://youtube.com/watch?v=vDA925C55F0"
+},{
+   "duration": 3031,
+   "edition": "2019",
+   "identifier": "#code-dive-2019-0015",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 15,
+   "speakers": [
+      "Dawid Pilarski"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/vNL9UFnyQJU/0.jpg",
+   "title": "C++20 Coroutines: What's next?",
+   "video": "https://youtube.com/watch?v=vNL9UFnyQJU"
+},{
+   "duration": 3895,
+   "edition": "2019",
+   "identifier": "#code-dive-2019-0016",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 16,
+   "speakers": [
+      "Andreas Fertig"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/DZVIRmttzW0/0.jpg",
+   "title": "C++: lambda Demystified",
+   "video": "https://youtube.com/watch?v=DZVIRmttzW0"
+},{
+   "duration": 3261,
+   "edition": "2019",
+   "identifier": "#code-dive-2019-0017",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 17,
+   "speakers": [
+      "Yossi Moalem"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/Sa08x_NMZIg/0.jpg",
+   "title": "Cache consistency and the C++ memory model: writing code to real hardware",
+   "video": "https://youtube.com/watch?v=Sa08x_NMZIg"
+},{
+   "duration": 2951,
+   "edition": "2019",
+   "identifier": "#code-dive-2019-0018",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 18,
+   "speakers": [
+      "Piotr Gaczkowski"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/g-yEbAlThxk/0.jpg",
+   "title": "Cloud Native C++: Modern architecture for modernized language",
+   "video": "https://youtube.com/watch?v=g-yEbAlThxk"
+},{
+   "duration": 3735,
+   "edition": "2019",
+   "identifier": "#code-dive-2019-0019",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 19,
+   "speakers": [
+      "Xavier Bonaventura"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/dJpAppmRWVI/0.jpg",
+   "title": "Dependency management in C++",
+   "video": "https://youtube.com/watch?v=dJpAppmRWVI"
+},{
+   "duration": 3568,
+   "edition": "2019",
+   "identifier": "#code-dive-2019-0020",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 20,
+   "speakers": [
+      "Mateusz Dyminski"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/oyGT4synIWI/0.jpg",
+   "title": "Diagnose your Golang App anytime anywhere!",
+   "video": "https://youtube.com/watch?v=oyGT4synIWI"
+},{
+   "duration": 1056,
+   "edition": "2019",
+   "identifier": "#code-dive-2019-0021",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 21,
+   "speakers": [
+      "Mateusz Brzeszcz"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/b7fUzKW54z8/0.jpg",
+   "title": "Faster than memcpy",
+   "video": "https://youtube.com/watch?v=b7fUzKW54z8"
+},{
+   "duration": 3900,
+   "edition": "2019",
+   "identifier": "#code-dive-2019-0022",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 22,
+   "speakers": [
+      "Oleksii Pilkevych"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/g_ae9EmM4j0/0.jpg",
+   "title": "Hate yourself? Keep using Python 2",
+   "video": "https://youtube.com/watch?v=g_ae9EmM4j0"
+},{
+   "duration": 1001,
+   "edition": "2019",
+   "identifier": "#code-dive-2019-0023",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 23,
+   "speakers": [
+      "Arletta Jasonek"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/Ns1RxCgru8I/0.jpg",
+   "title": "How bananas could save your project. Understanding UX",
+   "video": "https://youtube.com/watch?v=Ns1RxCgru8I"
+},{
+   "duration": 1866,
+   "edition": "2019",
+   "identifier": "#code-dive-2019-0024",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 24,
+   "speakers": [
+      "Michal Pawlik"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/9GKKFXX9vUk/0.jpg",
+   "title": "Introduction to gRPC",
+   "video": "https://youtube.com/watch?v=9GKKFXX9vUk"
+},{
+   "duration": 3173,
+   "edition": "2019",
+   "identifier": "#code-dive-2019-0025",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 25,
+   "speakers": [
+      "Michal Bartkowiak"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/S2dK5lLFD_0/0.jpg",
+   "title": "Making Fast Incremental Compiler for Huge Codebase",
+   "video": "https://youtube.com/watch?v=S2dK5lLFD_0"
+},{
+   "duration": 3394,
+   "edition": "2019",
+   "identifier": "#code-dive-2019-0026",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 26,
+   "speakers": [
+      "Bjorn Fahller"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/Zqpr6aOAmlI/0.jpg",
+   "title": "Modern techniques for keeping your code DRY",
+   "video": "https://youtube.com/watch?v=Zqpr6aOAmlI"
+},{
+   "duration": 3140,
+   "edition": "2019",
+   "identifier": "#code-dive-2019-0027",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 27,
+   "speakers": [
+      "Piotr Osiewicz"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/eXXFwwfFj5E/0.jpg",
+   "title": "No more coffee breaks - reducing C/C++ project compilation time",
+   "video": "https://youtube.com/watch?v=eXXFwwfFj5E"
+},{
+   "duration": 3618,
+   "edition": "2019",
+   "identifier": "#code-dive-2019-0028",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 28,
+   "speakers": [
+      "Remigiusz Michulka"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/JNQAlCjNH0o/0.jpg",
+   "title": "Practical Aspects of Microservice Architecture",
+   "video": "https://youtube.com/watch?v=JNQAlCjNH0o"
+},{
+   "duration": 3642,
+   "edition": "2019",
+   "identifier": "#code-dive-2019-0029",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 29,
+   "speakers": [
+      "Andrzej Krzemienski"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/DIZkD_-9_J8/0.jpg",
+   "title": "Preconditions, postconditions, invariants - how they help write robust programs",
+   "video": "https://youtube.com/watch?v=DIZkD_-9_J8"
+},{
+   "duration": 2198,
+   "edition": "2019",
+   "identifier": "#code-dive-2019-0030",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 30,
+   "speakers": [
+      "Tereza Iofciu"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/OGRyQzy8RRU/0.jpg",
+   "title": "Project managing in Data Science teams",
+   "video": "https://youtube.com/watch?v=OGRyQzy8RRU"
+},{
+   "duration": 2591,
+   "edition": "2019",
+   "identifier": "#code-dive-2019-0031",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 31,
+   "speakers": [
+      "Tomasz Skowronski"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/afsSzgc11OU/0.jpg",
+   "title": "Resilience patterns in practice",
+   "video": "https://youtube.com/watch?v=afsSzgc11OU"
+},{
+   "duration": 3862,
+   "edition": "2019",
+   "identifier": "#code-dive-2019-0032",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 32,
+   "speakers": [
+      "Mateusz Pusz"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/0_aLcHmQcgU/0.jpg",
+   "title": "Rethinking Usage of C++ Templates",
+   "video": "https://youtube.com/watch?v=0_aLcHmQcgU"
+},{
+   "duration": 3090,
+   "edition": "2019",
+   "identifier": "#code-dive-2019-0033",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 33,
+   "speakers": [
+      "Kamil Witecki"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/gl2WjsbeGsI/0.jpg",
+   "title": "Should I care about CPU cache?",
+   "video": "https://youtube.com/watch?v=gl2WjsbeGsI"
+},{
+   "duration": 2656,
+   "edition": "2019",
+   "identifier": "#code-dive-2019-0034",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 34,
+   "speakers": [
+      "Christian Barra"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/Rv3SBonL4U8/0.jpg",
+   "title": "Software is feeding the World",
+   "video": "https://youtube.com/watch?v=Rv3SBonL4U8"
+},{
+   "duration": 3634,
+   "edition": "2019",
+   "identifier": "#code-dive-2019-0035",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 35,
+   "speakers": [
+      "Victor Ciura"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/Iz4C29yul2U/0.jpg",
+   "title": "Status quo: clang-tidy & AddressSanitizer on Windows",
+   "video": "https://youtube.com/watch?v=Iz4C29yul2U"
+},{
+   "duration": 2639,
+   "edition": "2019",
+   "identifier": "#code-dive-2019-0036",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 36,
+   "speakers": [
+      "Piotr Padlewski"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/QQF0-jfwK0c/0.jpg",
+   "title": "Story of autonomous drone racing",
+   "video": "https://youtube.com/watch?v=QQF0-jfwK0c"
+},{
+   "duration": 2648,
+   "edition": "2019",
+   "identifier": "#code-dive-2019-0037",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 37,
+   "speakers": [
+      "Borislav Stanimirov"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/Cj86huSL6A4/0.jpg",
+   "title": "The Life of a CPU Instruction",
+   "video": "https://youtube.com/watch?v=Cj86huSL6A4"
+},{
+   "duration": 2757,
+   "edition": "2019",
+   "identifier": "#code-dive-2019-0038",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 38,
+   "speakers": [
+      "Mateusz Nowak"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/u42uTOOe7Dk/0.jpg",
+   "title": "Thinking outside of the framework",
+   "video": "https://youtube.com/watch?v=u42uTOOe7Dk"
+},{
+   "duration": 3272,
+   "edition": "2019",
+   "identifier": "#code-dive-2019-0039",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 39,
+   "speakers": [
+      "Ian Oliver"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/S6HWK8PF5MU/0.jpg",
+   "title": "Trusting your Raspberry Pi - An introduction to the TPM and IoT",
+   "video": "https://youtube.com/watch?v=S6HWK8PF5MU"
+},{
+   "duration": 4022,
+   "edition": "2019",
+   "identifier": "#code-dive-2019-0040",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 40,
+   "speakers": [
+      "Ansel Sermersheim",
+      "Barbara Geller"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/x-ZDZ1CcP3k/0.jpg",
+   "title": "Undefined Behavior is Not an Error",
+   "video": "https://youtube.com/watch?v=x-ZDZ1CcP3k"
+},{
+   "duration": 3757,
+   "edition": "2019",
+   "identifier": "#code-dive-2019-0041",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 41,
+   "speakers": [
+      "Bjorn Fahller"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/Fzbotzi1gYs/0.jpg",
+   "title": "What do you mean by 'cache friendly'?",
+   "video": "https://youtube.com/watch?v=Fzbotzi1gYs"
+},{
+   "duration": 3043,
+   "edition": "2019",
+   "identifier": "#code-dive-2019-0042",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 42,
+   "speakers": [
+      "Gabriela Limonta"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/D4Ja62qOc4E/0.jpg",
+   "title": "What does it mean to trust your boot process?",
+   "video": "https://youtube.com/watch?v=D4Ja62qOc4E"
+},{
+   "duration": 3651,
+   "edition": "2019",
+   "identifier": "#code-dive-2019-0043",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 43,
+   "speakers": [
+      "Brandon Rhodes"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/S0No2zSJmks/0.jpg",
+   "title": "When Python Practices Go Wrong",
+   "video": "https://youtube.com/watch?v=S0No2zSJmks"
+},{
+   "duration": 1128,
+   "edition": "2019",
+   "identifier": "#code-dive-2019-0044",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 44,
+   "speakers": [
+      "Lukasz Kucharski"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/n6dqOFeFwtc/0.jpg",
+   "title": "When warnings become errors. A case-study of latent bugs discovered by modernizing toolchain",
+   "video": "https://youtube.com/watch?v=n6dqOFeFwtc"
+},{
+   "duration": 2993,
+   "edition": "2019",
+   "identifier": "#code-dive-2019-0045",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 45,
+   "speakers": [
+      "Sambath Logakrishnan"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/rMzHUwYo32g/0.jpg",
+   "title": "Why you should start to think about compiling your code into web assembly",
+   "video": "https://youtube.com/watch?v=rMzHUwYo32g"
+},{
+   "duration": 3396,
+   "edition": "2019",
+   "identifier": "#code-dive-2019-0046",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 46,
+   "speakers": [
+      "Adrian Peret"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/zpBYU2kc7og/0.jpg",
+   "title": "You can run but you can't hide from it: Edge cloud is here, now!",
+   "video": "https://youtube.com/watch?v=zpBYU2kc7og"
+}]}

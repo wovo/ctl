@@ -1,0 +1,722 @@
+{ "list": [{
+   "duration": 2673,
+   "edition": "2017",
+   "identifier": "#code-dive-2017-0001",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 1,
+   "speakers": [
+      "Michal Sajdak"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/kDMP7Eawo-g/0.jpg",
+   "title": "A story of 3 CCTV cameras - a story of 3 admins",
+   "video": "https://youtube.com/watch?v=kDMP7Eawo-g"
+},{
+   "duration": 3352,
+   "edition": "2017",
+   "identifier": "#code-dive-2017-0002",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 2,
+   "speakers": [
+      "Rafal Legiedz"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/1-USxs3QEhM/0.jpg",
+   "title": "A thorough look into spatial mapping with HoloLens",
+   "video": "https://youtube.com/watch?v=1-USxs3QEhM"
+},{
+   "duration": 2744,
+   "edition": "2017",
+   "identifier": "#code-dive-2017-0003",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 3,
+   "speakers": [
+      "Milosz Warzecha"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/ZkDGsvh53-U/0.jpg",
+   "title": "An inspiring introduction to template metaprogramming",
+   "video": "https://youtube.com/watch?v=ZkDGsvh53-U"
+},{
+   "duration": 2307,
+   "edition": "2017",
+   "identifier": "#code-dive-2017-0004",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 4,
+   "speakers": [
+      "Kamil Witecki"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/B0QXS1GdILg/0.jpg",
+   "title": "Architecture is (not) everything",
+   "video": "https://youtube.com/watch?v=B0QXS1GdILg"
+},{
+   "duration": 4670,
+   "edition": "2017",
+   "identifier": "#code-dive-2017-0005",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 5,
+   "speakers": [
+      "Pawel Labuz",
+      "Piotr Marek"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/PPq5uAZms10/0.jpg",
+   "title": "Augmented reality dev journey",
+   "video": "https://youtube.com/watch?v=PPq5uAZms10"
+},{
+   "duration": 4268,
+   "edition": "2017",
+   "identifier": "#code-dive-2017-0006",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 6,
+   "speakers": [
+      "Pierre-Henri Symoneaux"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/ddXi_10JmPU/0.jpg",
+   "title": "Building microservices with Rust",
+   "video": "https://youtube.com/watch?v=ddXi_10JmPU"
+},{
+   "duration": 3684,
+   "edition": "2017",
+   "identifier": "#code-dive-2017-0007",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 7,
+   "speakers": [
+      "Michal Kowalczyk"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/oJcNHdg_9Yg/0.jpg",
+   "title": "C++ based mobile application",
+   "video": "https://youtube.com/watch?v=oJcNHdg_9Yg"
+},{
+   "duration": 4216,
+   "edition": "2017",
+   "identifier": "#code-dive-2017-0008",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 8,
+   "speakers": [
+      "Alex Crichton"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/SiUBdUE7xnA/0.jpg",
+   "title": "Concurrency in Rust",
+   "video": "https://youtube.com/watch?v=SiUBdUE7xnA"
+},{
+   "duration": 5398,
+   "edition": "2017",
+   "identifier": "#code-dive-2017-0009",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 9,
+   "speakers": [
+      "Michal Dominiak"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/cR5IGUcyqRA/0.jpg",
+   "title": "Customization points that suck less",
+   "video": "https://youtube.com/watch?v=cR5IGUcyqRA"
+},{
+   "duration": 3137,
+   "edition": "2017",
+   "identifier": "#code-dive-2017-0010",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 10,
+   "speakers": [
+      "Mark Isaacson"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/BDmCg76oALY/0.jpg",
+   "title": "Developing C++ @ Facebook scale",
+   "video": "https://youtube.com/watch?v=BDmCg76oALY"
+},{
+   "duration": 3694,
+   "edition": "2017",
+   "identifier": "#code-dive-2017-0011",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 11,
+   "speakers": [
+      "Benoit Le Calvez"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/qsZFmrBFG08/0.jpg",
+   "title": "DevOps is not only for IT players!",
+   "video": "https://youtube.com/watch?v=qsZFmrBFG08"
+},{
+   "duration": 3808,
+   "edition": "2017",
+   "identifier": "#code-dive-2017-0012",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 12,
+   "speakers": [
+      "Gabor Megyaszai"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/UWm4xxTd49k/0.jpg",
+   "title": "DevOps transformation - It's not just an R&D thing",
+   "video": "https://youtube.com/watch?v=UWm4xxTd49k"
+},{
+   "duration": 3432,
+   "edition": "2017",
+   "identifier": "#code-dive-2017-0013",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 13,
+   "speakers": [
+      "Slawomir Zborowski"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/U4e3PzgBBcM/0.jpg",
+   "title": "Distributed applications are easy. Just read the fine print",
+   "video": "https://youtube.com/watch?v=U4e3PzgBBcM"
+},{
+   "duration": 3031,
+   "edition": "2017",
+   "identifier": "#code-dive-2017-0014",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 14,
+   "speakers": [
+      "Mark Isaacson"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/4bcfGjimzec/0.jpg",
+   "title": "Exploring C++17 and Beyond",
+   "video": "https://youtube.com/watch?v=4bcfGjimzec"
+},{
+   "duration": 5076,
+   "edition": "2017",
+   "identifier": "#code-dive-2017-0015",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 15,
+   "speakers": [
+      "Andrzej Krzemienski"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/hI8ZVUECb3g/0.jpg",
+   "title": "Faces of undefined behavior",
+   "video": "https://youtube.com/watch?v=hI8ZVUECb3g"
+},{
+   "duration": 3968,
+   "edition": "2017",
+   "identifier": "#code-dive-2017-0016",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 16,
+   "speakers": [
+      "Miodrag Milanovic"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/IhntSPN1iOY/0.jpg",
+   "title": "FPGA for software developers",
+   "video": "https://youtube.com/watch?v=IhntSPN1iOY"
+},{
+   "duration": 3006,
+   "edition": "2017",
+   "identifier": "#code-dive-2017-0017",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 17,
+   "speakers": [
+      "William Kennedy"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/OrctYMf4btA/0.jpg",
+   "title": "Go: Concurrency Design",
+   "video": "https://youtube.com/watch?v=OrctYMf4btA"
+},{
+   "duration": 2405,
+   "edition": "2017",
+   "identifier": "#code-dive-2017-0018",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 18,
+   "speakers": [
+      "William Kennedy"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/OTLjN8NQDyo/0.jpg",
+   "title": "Go: Optimizing For Correctness",
+   "video": "https://youtube.com/watch?v=OTLjN8NQDyo"
+},{
+   "duration": 3589,
+   "edition": "2017",
+   "identifier": "#code-dive-2017-0019",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 19,
+   "speakers": [
+      "Lukasz Langa"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/5GIAF-GP7tg/0.jpg",
+   "title": "Gradual typing of production applications",
+   "video": "https://youtube.com/watch?v=5GIAF-GP7tg"
+},{
+   "duration": 1952,
+   "edition": "2017",
+   "identifier": "#code-dive-2017-0020",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 20,
+   "speakers": [
+      "Andreas Weis"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/pfwHCiP1HFM/0.jpg",
+   "title": "Howling at the Moon: Lua for C++ Programmers",
+   "video": "https://youtube.com/watch?v=pfwHCiP1HFM"
+},{
+   "duration": 3310,
+   "edition": "2017",
+   "identifier": "#code-dive-2017-0021",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 21,
+   "speakers": [
+      "Silke Holtmanns"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/GczSCWRWyCk/0.jpg",
+   "title": "Interconnection security - SS7 and diameter",
+   "video": "https://youtube.com/watch?v=GczSCWRWyCk"
+},{
+   "duration": 3632,
+   "edition": "2017",
+   "identifier": "#code-dive-2017-0022",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 22,
+   "speakers": [
+      "Alex Crichton"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/S53cBvNkPeQ/0.jpg",
+   "title": "Intro to Rust",
+   "video": "https://youtube.com/watch?v=S53cBvNkPeQ"
+},{
+   "duration": 3646,
+   "edition": "2017",
+   "identifier": "#code-dive-2017-0023",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 23,
+   "speakers": [
+      "Eric Niebler"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/LNXkPh3Z418/0.jpg",
+   "title": "Introducing the Ranges TS",
+   "video": "https://youtube.com/watch?v=LNXkPh3Z418"
+},{
+   "duration": 2692,
+   "edition": "2017",
+   "identifier": "#code-dive-2017-0024",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 24,
+   "speakers": [
+      "Michal Sajdak"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/gMwciWchH3Q/0.jpg",
+   "title": "Live hacking of web applications",
+   "video": "https://youtube.com/watch?v=gMwciWchH3Q"
+},{
+   "duration": 5734,
+   "edition": "2017",
+   "identifier": "#code-dive-2017-0025",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 25,
+   "speakers": [
+      "John Lakos"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/xUtndRUJHX8/0.jpg",
+   "title": "Local (arena) memory allocator",
+   "video": "https://youtube.com/watch?v=xUtndRUJHX8"
+},{
+   "duration": 3028,
+   "edition": "2017",
+   "identifier": "#code-dive-2017-0026",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 26,
+   "speakers": [
+      "Viktor Kirilov"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/MYLu80dZqJ8/0.jpg",
+   "title": "Mix tests and production code with doctest - implementing and using the fastest modern C++ testing framework",
+   "video": "https://youtube.com/watch?v=MYLu80dZqJ8"
+},{
+   "duration": 3132,
+   "edition": "2017",
+   "identifier": "#code-dive-2017-0027",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 27,
+   "speakers": [
+      "Douglas Crockford"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/oYFU0gkAYdc/0.jpg",
+   "title": "Numbers",
+   "video": "https://youtube.com/watch?v=oYFU0gkAYdc"
+},{
+   "duration": 2835,
+   "edition": "2017",
+   "identifier": "#code-dive-2017-0028",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 28,
+   "speakers": [
+      "Mateusz Pusz"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/qrifyjQW9gA/0.jpg",
+   "title": "Pointless Pointers - How to make our interfaces efficient?",
+   "video": "https://youtube.com/watch?v=qrifyjQW9gA"
+},{
+   "duration": 2223,
+   "edition": "2017",
+   "identifier": "#code-dive-2017-0029",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 29,
+   "speakers": [
+      "Piotr Wasilewski"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/Goppq498V_Y/0.jpg",
+   "title": "Programming utilities for Unix-like systems in Python",
+   "video": "https://youtube.com/watch?v=Goppq498V_Y"
+},{
+   "duration": 3344,
+   "edition": "2017",
+   "identifier": "#code-dive-2017-0030",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 30,
+   "speakers": [
+      "Borys Lacki"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/ysPO8r18EiE/0.jpg",
+   "title": "Red teaming in Poland - test cases",
+   "video": "https://youtube.com/watch?v=ysPO8r18EiE"
+},{
+   "duration": 5634,
+   "edition": "2017",
+   "identifier": "#code-dive-2017-0031",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 31,
+   "speakers": [
+      "Mateusz Pusz"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/vzDl0Q91MrM/0.jpg",
+   "title": "Striving for ultimate low latency",
+   "video": "https://youtube.com/watch?v=vzDl0Q91MrM"
+},{
+   "duration": 3586,
+   "edition": "2017",
+   "identifier": "#code-dive-2017-0032",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 32,
+   "speakers": [
+      "Bartosz Szurgot"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/Fl0bQP-Rua0/0.jpg",
+   "title": "Structured logging",
+   "video": "https://youtube.com/watch?v=Fl0bQP-Rua0"
+},{
+   "duration": 3706,
+   "edition": "2017",
+   "identifier": "#code-dive-2017-0033",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 33,
+   "speakers": [
+      "Mateusz Dyminski"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/wK45tOIUOM4/0.jpg",
+   "title": "Take your microservices to the next level with gRPC",
+   "video": "https://youtube.com/watch?v=wK45tOIUOM4"
+},{
+   "duration": 3291,
+   "edition": "2017",
+   "identifier": "#code-dive-2017-0034",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 34,
+   "speakers": [
+      "Adam Badura"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/jCdNJVgs3_8/0.jpg",
+   "title": "Techniques for mocking in C++",
+   "video": "https://youtube.com/watch?v=jCdNJVgs3_8"
+},{
+   "duration": 4574,
+   "edition": "2017",
+   "identifier": "#code-dive-2017-0035",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 35,
+   "speakers": [
+      "Douglas Crockford"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/DxnYQRuLX7Q/0.jpg",
+   "title": "The better parts",
+   "video": "https://youtube.com/watch?v=DxnYQRuLX7Q"
+},{
+   "duration": 5202,
+   "edition": "2017",
+   "identifier": "#code-dive-2017-0036",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 36,
+   "speakers": [
+      "Odin Holmes"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/ZpVPexZHYrQ/0.jpg",
+   "title": "The fastest template metaprogramming in the West",
+   "video": "https://youtube.com/watch?v=ZpVPexZHYrQ"
+},{
+   "duration": 2493,
+   "edition": "2017",
+   "identifier": "#code-dive-2017-0037",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 37,
+   "speakers": [
+      "Marcin Grzebieluch"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/yiC8L3paQRs/0.jpg",
+   "title": "The worst feature of modern C++: default behavior",
+   "video": "https://youtube.com/watch?v=yiC8L3paQRs"
+},{
+   "duration": 3485,
+   "edition": "2017",
+   "identifier": "#code-dive-2017-0038",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 38,
+   "speakers": [
+      "Lukasz Langa"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/cvwrkOnn9xo/0.jpg",
+   "title": "Thinking in coroutines",
+   "video": "https://youtube.com/watch?v=cvwrkOnn9xo"
+},{
+   "duration": 5744,
+   "edition": "2017",
+   "identifier": "#code-dive-2017-0039",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 39,
+   "speakers": [
+      "John Lakos"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/AL9DBWdj-Pg/0.jpg",
+   "title": "Value semantics: It ain't about the syntax!",
+   "video": "https://youtube.com/watch?v=AL9DBWdj-Pg"
+},{
+   "duration": 4847,
+   "edition": "2017",
+   "identifier": "#code-dive-2017-0040",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 40,
+   "speakers": [
+      "Michal Los"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/HVvijOXvVy0/0.jpg",
+   "title": "When C++ wants to meet Java",
+   "video": "https://youtube.com/watch?v=HVvijOXvVy0"
+}]}

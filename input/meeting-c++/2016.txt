@@ -1,0 +1,682 @@
+#locked
+
+$add meeting meeting-c++
+$add edition 2016
+$add language english
+$add tags conference live c++
+
+
+Event information
+Start date: 2016-11-18
+End date: 2016-11-19
+Location: Berlin, Germany
+Code of Conduct
+
+Diversity Tickets
+
+Languages: English
+
+Topics: c++
+
+Social
+Tweet this event
+
+Videos
+
+#marker-0001
+A lock-free concurrent toolkit for hazard pointers
+Michael Wong
+
+ - Meeting C++ 2016
+A lock-free concurrent toolkit for hazard pointers - Michael Wong - Meeting C++ 2016
+2016-11-18
+Length: 01:08:03
+Views: 611 Likes: 2
+From meetingcpp-2016
+By:
+
+#marker-0002
+An implementer's view of Boost.SIMD
+Joel Falcou
+
+ - Meeting C++ 2016
+An implementer's view of Boost.SIMD - Joel Falcou - Meeting C++ 2016
+2016-11-18
+Length: 01:07:54
+Views: 759 Likes: 5
+From meetingcpp-2016
+By:
+
+//#marker-0003
+Asynchronous IO Using Boost.Asio
+Michael Caisse
+
+ - Meeting C++ 2016
+Asynchronous IO Using Boost.Asio - Michael Caisse - Meeting C++ 2016
+2016-11-18
+Length: 54:16
+Views: 1102 Likes: 13
+From meetingcpp-2016
+By:
+
+
+#marker-0004
+Good Concepts (Secret Lightning Talk)
+Bjarne Stroustrup
+
+ -  - Meeting C++ 201
+Bjarne Stroustrup - Good Concepts - Secret Lightning Talks - Meeting C++ 2016
+2016-11-18
+Length: 12:10
+Views: 4482 Likes: 68
+From meetingcpp-2016
+By:
+
+#marker-0005
+GSL ad hoc overview
+Bjarne Stroustrup
+
+ - Meeting C++ 2016
+Bjarne Stroustrup - GSL ad hoc overview - Meeting C++ 2016
+2016-11-18
+Length: 56:52
+Views: 2292 Likes: 27
+From meetingcpp-2016
+By:
+
+#marker-0006
+Keynote Meeting C++ 2016: What C++ is and what it will become
+Bjarne Stroustrup
+
+Bjarne Stroustrup - Keynote Meeting C++ 2016: What C++ is and what it will become
+2016-11-18
+Length: 01:48:59
+Views: 9479 Likes: 149
+From meetingcpp-2016
+By:
+
+#marker-0007
+C++ Today: The beast is back
+Jon Kalb
+
+ - Meeting C++ 2016
+
+C++ Today: The beast is back - Jon Kalb - Meeting C++ 2016
+2016-11-18
+Length: 01:15:46
+Views: 3655 Likes: 61
+From meetingcpp-2016
+By:
+
+#marker-0008
+Clang Static Analysis
+Gabor Horvath
+
+ - Meeting C++ 2016
+Clang Static Analysis - Gabor Horvath - Meeting C++ 2016
+2016-11-18
+Length: 53:53
+Views: 1298 Likes: 17
+From meetingcpp-2016
+By:
+
+#marker-0009
+Computer Architecture, C++, and High Performance
+Matt P. Dziubinski
+
+ - Meeting C++ 2016
+Computer Architecture, C++, and High Performance - Matt P. Dziubinski - Meeting C++ 2016
+2016-11-18
+Length: 01:08:32
+Views: 1892 Likes: 27
+From meetingcpp-2016
+By:
+
+#marker-0010
+Designing and Implementing a new Allocator model
+Jonathan Müller
+
+ - Meeting C++ 2016
+Designing and Implementing a new Allocator model - Jonathan Müller - Meeting C++ 2016
+2016-11-18
+Length: 49:59
+Views: 1503 Likes: 25
+From meetingcpp-2016
+By:
+
+#marker-0011
+Exploring C++17 and beyond
+Mark Isaacson
+
+ - Meeting C++ 2016
+Exploring C++17 and beyond - Mark Isaacson - Meeting C++ 2016
+2016-11-18
+Length: 51:45
+Views: 1779 Likes: 32
+From meetingcpp-2016
+By:
+
+
+#marker-0012
+Functional C++ for Fun and Profit
+Phil Nash
+
+ - Meeting C++ 2016
+Functional C++ for Fun and Profit - Phil Nash - Meeting C++ 2016
+2016-11-18
+Length: 01:03:48
+Views: 944 Likes: 11
+From meetingcpp-2016
+By:
+
+#marker-0013
+Functional reactive programming in C++
+Ivan Cukic
+
+Functional reactive programming in C++ - Ivan Cukic - Meeting C++ 2016
+2016-11-18
+Length: 49:32
+Views: 2352 Likes: 32
+From meetingcpp-2016
+By:
+
+#marker-0014
+How bad is meta-programming still today?
+Peter Gottschling
+
+ - Meeting C++ 2016
+How bad is meta-programming still today? - Peter Gottschling - Meeting C++ 2016
+2016-11-18
+Length: 55:06
+Views: 1652 Likes: 9
+From meetingcpp-2016
+By:
+
+#marker-0015
+How to test static_assert?
+Roland Bock
+
+ - Meeting C++ 2016
+How to test static_assert? - Roland Bock - Meeting C++ 2016
+2016-11-18
+Length: 41:55
+Views: 779 Likes: 5
+From meetingcpp-2016
+By:
+
+#marker-0016
+How to understand million-line C++ projects
+Peter Bindels
+
+
+ - Meeting C++ 2016
+How to understand million-line C++ projects - Peter Bindels - Meeting C++ 2016
+2016-11-18
+Length: 45:51
+Views: 3643 Likes: 42
+From meetingcpp-2016
+By:
+
+
+#marker-0017
+Implementation of a multithreaded compile-time ECS in C++14
+Vittorio Romeo
+
+ - Meeting C++ 2016
+Implementation of a multithreaded compile-time ECS in C++14 - Vittorio Romeo - Meeting C++ 2016
+2016-11-18
+Length: 01:07:57
+Views: 887 Likes: 13
+From meetingcpp-2016
+By:
+
+#marker-0018
+Implementing a web game in C++14
+Kris Jusiak
+
+
+ - Meeting C++ 2016
+Implementing a web game in C++14 - Kris Jusiak - Meeting C++ 2016
+2016-11-18
+Length: 01:01:26
+Views: 3115 Likes: 30
+From meetingcpp-2016
+By:
+
+#marker-0019
+Implementing 'static' control flow in C++14
+Vittorio Romeo
+
+ - Meeting C++ 2016
+Implementing static control flow in C++14 - Vittorio Romeo - Meeting C++ 2016
+2016-11-18
+Length: 01:02:10
+Views: 829 Likes: 22
+From meetingcpp-2016
+By:
+
+#marker-0020
+my favorite C++ feature (Secret Lightning Talks)
+James McNellis
+
+
+James McNellis - my favorite C++ feature - Secret Lightning Talks - Meeting C++
+2016-11-18
+Length: 05:38
+Views: 5758 Likes: 141
+From meetingcpp-2016
+By:
+
+
+#marker-0021
+the 6th event (Secret Lightning Talks)
+Jens Weller
+
+ - Meeting C++ 2016
+Jens Weller - the 6th event - Secret Lightning Talks - Meeting C++ 2016
+2016-11-18
+Length: 08:50
+Views: 412 Likes: 7
+From meetingcpp-2016
+By:
+
+
+#marker-0022
+Learn Robotics with C++ in 1 Hour
+Jackie Kay
+
+ - Meeting C++ 2016
+Learn Robotics with C++ in 1 Hour - Jackie Kay - Meeting C++ 2016
+2016-11-18
+Length: 59:35
+Views: 2503 Likes: 27
+From meetingcpp-2016
+By:
+
+#marker-0023
+Learning and teaching modern C++
+Arne Mertz
+
+ - Meeting C++ 2016
+Learning and teaching modern C++ - Arne Mertz - Meeting C++ 2016
+2016-11-18
+Length: 01:03:02
+Views: 2447 Likes: 25
+From meetingcpp-2016
+By:
+#marker-0024
+Always generate all your serialization code (Lightning Talks)
+Andreas Reischnuck
+
+Lightning Talks Meeting C++ 2016 - Andreas Reischnuck - Always generate all your serialization code
+2016-11-18
+Length: 06:26
+Views: 604 Likes: 3
+From meetingcpp-2016
+By:
+
+#marker-0025
+Hunting the mammoth in the modern age (Lightning Talks)
+Aurelien Regat-Barrel - 
+
+
+Lightning Talks Meeting C++ 2016 - Aurelien Regat-Barrel - Hunting the mammoth in the modern age
+2016-11-18
+Length: 06:33
+Views: 602 Likes: 10
+From meetingcpp-2016
+By:
+
+#marker-0026
+Safe bool idiom (Lightning Talks)
+Giuseppe D'Angelo
+
+Lightning Talks Meeting C++ 2016 - Giuseppe D'Angelo - Safe bool idiom
+2016-11-18
+Length: 06:20
+Views: 944 Likes: 21
+From meetingcpp-2016
+By:
+
+#marker-0027
+Standardese (Lightning Talk)
+Jonathan Müller
+
+Lightning Talks Meeting C++ 2016 - Jonathan Müller - Standardese
+2016-11-18
+Length: 06:45
+Views: 683 Likes: 8
+From meetingcpp-2016
+By:
+
+#marker-0028
+The Tragedy of the value based architecture (Lightning Talk)
+Juanpe Bolivar
+
+ Meeting C++ 2016 -  - 
+Lightning Talks Meeting C++ 2016 - Juanpe Bolivar - The Tragedy of the value based architecture
+2016-11-18
+Length: 06:59
+Views: 1459 Likes: 27
+From meetingcpp-2016
+By:
+
+#marker-0029
+TDD/BDD and DI (Lightning Talk)
+Kris Jusiak
+
+s Meeting C++ 2016 - Kris Jusiak - TDD/BDD and DI
+2016-11-18
+Length: 07:03
+Views: 720 Likes: 4
+From meetingcpp-2016
+By:
+
+#marker-0030
+Rpath and binary reuse (Lightning Talk)
+Luis Martinez de Bartolome
+
+s Meeting C++ 2016 -  - 
+Lightning Talks Meeting C++ 2016 - Luis Martinez de Bartolome - Rpath and binary reuse
+2016-11-18
+Length: 06:18
+Views: 423 Likes: 1
+From meetingcpp-2016
+By:
+
+#marker-0031
+a small tool to browse your backtraces (Lightning Talk)
+Markus Goetz
+
+s Meeting C++ 2016 - - 
+Lightning Talks Meeting C++ 2016 - Markus Goetz - a small tool to browse your backtraces
+2016-11-18
+Length: 04:23
+Views: 421 Likes: 0
+From meetingcpp-2016
+By:
+
+#marker-0032
+FPGA and open hardware (Lightning Talk)
+Matt P. Dziubinski
+
+Lightning Talks Meeting C++ 2016 - Matt P. Dziubinski - FPGA and open hardware
+2016-11-18
+Length: 07:18
+Views: 665 Likes: 6
+From meetingcpp-2016
+By:
+
+
+#marker-0033
+Meta Monads (Lightning Talk)
+Odin Holmes
+
+Lightning Talks Meeting C++ 2016 - Odin Holmes - Meta Monads
+2016-11-18
+Length: 06:04
+Views: 819 Likes: 8
+From meetingcpp-2016
+By:
+
+#marker-0034
+Pimpl idiom, multiple Inheritance and facet pattern (Lightning Talk)
+Oli Quinet
+
+s Meeting C++ 2016 -  - 
+Lightning Talks Meeting C++ 2016 - Oli Quinet - Pimpl idiom, multiple Inheritance and facet pattern
+2016-11-18
+Length: 07:04
+Views: 696 Likes: 3
+From meetingcpp-2016
+By:
+
+#marker-0035
+Mocking C++ (Lightning Talk)
+Peter Bindels
+
+Lightning Talks Meeting C++ 2016 - Peter Bindels - Mocking C++
+2016-11-18
+Length: 06:24
+Views: 759 Likes: 8
+From meetingcpp-2016
+By:
+
+
+#marker-0036
+QtCreator (Lightning Talk)
+Tobias Hunger
+
+Lightning Talks Meeting C++ 2016 - Tobias Hunger - QtCreator
+2016-11-18
+Length: 07:06
+Views: 622 Likes: 7
+From meetingcpp-2016
+By:
+
+#marker-0037
+C++ Metaprogramming: evolution and future direction
+Louis Dionne
+
+
+ - Keynote Meeting C++ 2016 - 
+Louis Dionne - Keynote Meeting C++ 2016 - C++ Metaprogramming: evolution and future direction
+2016-11-18
+Length: 01:39:09
+Views: 2090 Likes: 31
+From meetingcpp-2016
+By:
+
+#marker-0038
+Standard Slam (Secret Lightning Talk)
+Michael Caisse
+
+
+Michael Caisse - Standard Slam - Secret Lightning Talks - Meeting C++ 2016
+2016-11-18
+Length: 03:45
+Views: 2286 Likes: 58
+From meetingcpp-2016
+By:
+
+#marker-0039
+Where C++17 is going (Secret Lightning Talk)
+Michael Wong
+
+Michael Wong - Where C++17 is going - Secret Lightning Talks - Meeting C++ 2016
+2016-11-18
+Length: 06:52
+Views: 2052 Likes: 32
+From meetingcpp-2016
+By:
+
+#marker-0040
+Next Generation Debugging
+Julian Smith
+
+ - Meeting C++ 2016
+Next Generation Debugging - Julian Smith - Meeting C++ 2016
+2016-11-18
+Length: 01:01:45
+Views: 3175 Likes: 20
+From meetingcpp-2016
+By:
+
+#marker-0041
+On "simple" Optimizations (Secret Lightning Talk)
+Chandler Carruth
+
+ - s - Meeting C++ 2016
+On "simple" Optimizations - Chandler Carruth - Secret Lightning Talks - Meeting C++ 2016
+2016-11-18
+Length: 08:27
+Views: 3125 Likes: 48
+From meetingcpp-2016
+By:
+
+#marker-0042
+Product Types for C++2x
+Vicente J. Botet Escribá
+
+ - Meeting C++ 2016
+Product Types for C++2x - Vicente J. Botet Escribá - Meeting C++ 2016
+2016-11-18
+Length: 52:59
+Views: 1017 Likes: 2
+From meetingcpp-2016
+By:
+
+#marker-0043
+Qt's moc and QMetaObject reflection
+Olivier Goffart
+
+ - Meeting C++ 2016
+Qt's moc and QMetaObject reflection - Olivier Goffart - Meeting C++ 2016
+2016-11-18
+Length: 51:41
+Views: 669 Likes: 5
+From meetingcpp-2016
+By:
+
+#marker-0044
+Ranges v3 and microcontrollers, a revolution
+Odin Holmes
+
+ - Meeting C++ 2016
+Ranges v3 and microcontrollers, a revolution - Odin Holmes - Meeting C++ 2016
+2016-11-18
+Length: 01:00:36
+Views: 2505 Likes: 23
+From meetingcpp-2016
+By:
+
+#marker-0045
+Reduce: From functional programming to C++17 Fold expressions
+Nikos Athanasiou
+
+
+ - Meeting C++ 2016
+Reduce: From functional programming to C++17 Fold expressions - Nikos Athanasiou - Meeting C++ 2016
+2016-11-18
+Length: 53:02
+Views: 1765 Likes: 19
+From meetingcpp-2016
+By:
+
+#marker-0046
+SG14 (the GameDev & low latency ISO C++ working group)
+Guy Davidson
+
+ - Meeting C++ 2016
+SG14 (the GameDev & low latency ISO C++ working group) - Guy Davidson - Meeting C++ 2016
+2016-11-18
+Length: 55:13
+Views: 2421 Likes: 26
+From meetingcpp-2016
+By:
+
+#marker-0047
+SYCL building blocks for C++ libraries
+Gordon Brown
+
+ - Meeting C++ 2016
+SYCL building blocks for C++ libraries - Gordon Brown - Meeting C++ 2016
+2016-11-18
+Length: 40:34
+Views: 900 Likes: 10
+From meetingcpp-2016
+By:
+
+#marker-0048
+The evolving search for modern APIs in Boost
+Boris Schäling
+
+ - Meeting C++ 2016
+The evolving search for modern APIs in Boost - Boris Schäling - Meeting C++ 2016
+2016-11-18
+Length: 49:54
+Views: 1223 Likes: 11
+From meetingcpp-2016
+By:
+
+#marker-0049
+The memory model in C++
+Rainer Grimm
+
+ - Meeting C++ 2016
+The memory model in C++ - Rainer Grimm - Meeting C++ 2016
+2016-11-18
+Length: 54:44
+Views: 2218 Likes: 25
+From meetingcpp-2016
+By:
+
+#marker-0050
+The Speed Game: Automated Trading Systems in C++
+Carl Cook
+
+ - Meeting C++ 2016
+The Speed Game: Automated Trading Systems in C++ - Carl Cook - Meeting C++ 2016
+2016-11-18
+Length: 01:04:38
+Views: 8570 Likes: 143
+From meetingcpp-2016
+By:
+Timelapse of Meeting C++ 2016 beginning
+Timelapse of Meeting C++ 2016 beginning
+2016-11-18
+Length: 01:06
+Views: 1119 Likes: 5
+From meetingcpp-2016
+By:
+
+#marker-0051
+Unicode in C++
+James McNellis
+
+ - Meeting C++ 2016
+Unicode in C++ - James McNellis - Meeting C++ 2016
+2016-11-18
+Length: 01:04:08
+Views: 2412 Likes: 47
+From meetingcpp-2016
+By:
+
+#marker-0052
+Want fast C++? Know your hardware!
+Timur Doumler
+
+ - Meeting C++ 2016
+Want fast C++? Know your hardware! - Timur Doumler - Meeting C++ 2016
+2016-11-18
+Length: 01:01:06
+Views: 3257 Likes: 58
+From meetingcpp-2016
+By:
+
+#marker-0053
+Why iterators got it all wrong
+Arno Schödl
+
+ - Meeting C++ 2016
+Why iterators got it all wrong - Arno Schödl - Meeting C++ 2016
+2016-11-18
+Length: 01:01:52
+Views: 2986 Likes: 18
+From meetingcpp-2016
+By:
+
+#marker-0054
+Writing a reflection engine from scratch
+Manuel Sanchez
+
+ - Meeting C++ 2016
+Writing a reflection engine from scratch - Manuel Sanchez - Meeting C++ 2016
+2016-11-18
+Length: 57:30
+Views: 1523 Likes: 13
+From meetingcpp-2016
+By:
+Videos
+Related events:
+Meeting C++ 2017

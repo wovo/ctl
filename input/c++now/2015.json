@@ -1,0 +1,784 @@
+{ "list": [{
+   "duration": 5862,
+   "edition": "2015",
+   "identifier": "#c++now-2015-0001",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 1,
+   "speakers": [
+      "Andrew Sutton"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/_rBhX-FJCdg/0.jpg",
+   "title": " generic-programming-with-concepts",
+   "video": "https://youtube.com/watch?v=_rBhX-FJCdg"
+},{
+   "duration": 5481,
+   "edition": "2015",
+   "identifier": "#c++now-2015-0002",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 2,
+   "speakers": [
+      "Tiago Quintino"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/hLHxe9qpOf4/0.jpg",
+   "title": " Numerical Weather Prediction: Facing the Future with C++",
+   "video": "https://youtube.com/watch?v=hLHxe9qpOf4"
+},{
+   "duration": 5723,
+   "edition": "2015",
+   "identifier": "#c++now-2015-0003",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 3,
+   "speakers": [
+      "Charles Bay"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/gLJrOTFw6J0/0.jpg",
+   "title": " Your CPU is binary",
+   "video": "https://youtube.com/watch?v=gLJrOTFw6J0"
+},{
+   "duration": 5107,
+   "edition": "2015",
+   "identifier": "#c++now-2015-0004",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 4,
+   "speakers": [
+      "Pablo Colapinto"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/RY_YSYz7b8I/0.jpg",
+   "title": " Functional Geometry: Producing Pure Spaces",
+   "video": "https://youtube.com/watch?v=RY_YSYz7b8I"
+},{
+   "duration": 3776,
+   "edition": "2015",
+   "identifier": "#c++now-2015-0005",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 5,
+   "speakers": [
+      "Ben Deane"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/OPoZWnYIcP4/0.jpg",
+   "title": " Testing Battle.net (before deploying to millions of players)",
+   "video": "https://youtube.com/watch?v=OPoZWnYIcP4"
+},{
+   "duration": 5433,
+   "edition": "2015",
+   "identifier": "#c++now-2015-0006",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 6,
+   "speakers": [
+      "Jean-Louis Leroy"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/schApFY8YiA/0.jpg",
+   "title": " Yomm11: Open Multi-Methods for C++11",
+   "video": "https://youtube.com/watch?v=schApFY8YiA"
+},{
+   "duration": 5258,
+   "edition": "2015",
+   "identifier": "#c++now-2015-0007",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 7,
+   "speakers": [
+      "Diego Rodriguez-Losada"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/bX7gI6eA_AM/0.jpg",
+   "title": " Biicode, a C/C++ dependency manager with a hosting service",
+   "video": "https://youtube.com/watch?v=bX7gI6eA_AM"
+},{
+   "duration": 3846,
+   "edition": "2015",
+   "identifier": "#c++now-2015-0008",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 8,
+   "speakers": [
+      "Scott Schurr"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/fZjYCQ8dzTc/0.jpg",
+   "title": " constexpr: C++ At Compile Time",
+   "video": "https://youtube.com/watch?v=fZjYCQ8dzTc"
+},{
+   "duration": 5501,
+   "edition": "2015",
+   "identifier": "#c++now-2015-0009",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 9,
+   "speakers": [
+      "David Stone"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/_utkragEjRA/0.jpg",
+   "title": " Type Deduction in C++14",
+   "video": "https://youtube.com/watch?v=_utkragEjRA"
+},{
+   "duration": 5691,
+   "edition": "2015",
+   "identifier": "#c++now-2015-0010",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 10,
+   "speakers": [
+      "Agustin Berge",
+      "Hartmut Kaiser",
+      "Thomas Heller"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/3RQPc4SRfGo/0.jpg",
+   "title": " Back to the future",
+   "video": "https://youtube.com/watch?v=3RQPc4SRfGo"
+},{
+   "duration": 6576,
+   "edition": "2015",
+   "identifier": "#c++now-2015-0011",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 11,
+   "speakers": [
+      "Boris Kolpackov"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/HxYFSlDdl0c/0.jpg",
+   "title": " New Build System for New C++",
+   "video": "https://youtube.com/watch?v=HxYFSlDdl0c"
+},{
+   "duration": 5343,
+   "edition": "2015",
+   "identifier": "#c++now-2015-0012",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 12,
+   "speakers": [
+      "John Lakos"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/_LEomvWXOiI/0.jpg",
+   "title": " Large-Scale C++: Advanced Levelization Techniques, Part I",
+   "video": "https://youtube.com/watch?v=_LEomvWXOiI"
+},{
+   "duration": 5001,
+   "edition": "2015",
+   "identifier": "#c++now-2015-0013",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 13,
+   "speakers": [
+      "John Lakos"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/MZUJsCh1wOY/0.jpg",
+   "title": " Large-Scale C++: Advanced Levelization Techniques, Part II",
+   "video": "https://youtube.com/watch?v=MZUJsCh1wOY"
+},{
+   "duration": 2457,
+   "edition": "2015",
+   "identifier": "#c++now-2015-0014",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 14,
+   "speakers": [
+      "Jason Turner"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/cb3WIL96N-o/0.jpg",
+   "title": " Thinking Portable: How and why to make your C++ cross platform",
+   "video": "https://youtube.com/watch?v=cb3WIL96N-o"
+},{
+   "duration": 5753,
+   "edition": "2015",
+   "identifier": "#c++now-2015-0015",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 15,
+   "speakers": [
+      "Sebastian Redl"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/3JkXmWyUKsI/0.jpg",
+   "title": " switchAny: A Practical Exercise in Template Metaprogramming",
+   "video": "https://youtube.com/watch?v=3JkXmWyUKsI"
+},{
+   "duration": 2637,
+   "edition": "2015",
+   "identifier": "#c++now-2015-0016",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 16,
+   "speakers": [
+      "Diego Rodriguez-Losada"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/67Am8Z6irjA/0.jpg",
+   "title": " Why in heaven is there no dependency management for C++?",
+   "video": "https://youtube.com/watch?v=67Am8Z6irjA"
+},{
+   "duration": 2445,
+   "edition": "2015",
+   "identifier": "#c++now-2015-0017",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 17,
+   "speakers": [
+      "Kyle Lutz"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/q7oCblCtTT8/0.jpg",
+   "title": " Boost.Compute: A library for GPU/parallel computing",
+   "video": "https://youtube.com/watch?v=q7oCblCtTT8"
+},{
+   "duration": 3011,
+   "edition": "2015",
+   "identifier": "#c++now-2015-0018",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 18,
+   "speakers": [
+      "Sylwester Arabas"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/bnbZQexvh00/0.jpg",
+   "title": " Two new C++ libraries for atmospheric research -",
+   "video": "https://youtube.com/watch?v=bnbZQexvh00"
+},{
+   "duration": 2301,
+   "edition": "2015",
+   "identifier": "#c++now-2015-0019",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 19,
+   "speakers": [
+      "Felipe Almeida"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/eLzpnSBJi30/0.jpg",
+   "title": " Developing EDSL's for Boost.Spirit",
+   "video": "https://youtube.com/watch?v=eLzpnSBJi30"
+},{
+   "duration": 5647,
+   "edition": "2015",
+   "identifier": "#c++now-2015-0020",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 20,
+   "speakers": [
+      "Eric Niebler"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/mFUXNMfaciE/0.jpg",
+   "title": " Ranges for the Standard Library",
+   "video": "https://youtube.com/watch?v=mFUXNMfaciE"
+},{
+   "duration": 3150,
+   "edition": "2015",
+   "identifier": "#c++now-2015-0021",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 21,
+   "speakers": [
+      "Paul Fultz II"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/8OlQ0GVwBtw/0.jpg",
+   "title": " Modern generic programming using the Tick and Fit libraries",
+   "video": "https://youtube.com/watch?v=8OlQ0GVwBtw"
+},{
+   "duration": 3770,
+   "edition": "2015",
+   "identifier": "#c++now-2015-0022",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 22,
+   "speakers": [
+      "Michael Caisse"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/8zVqbLeG-vw/0.jpg",
+   "title": " Boostache Exposed - the internals of Boost's template engine",
+   "video": "https://youtube.com/watch?v=8zVqbLeG-vw"
+},{
+   "duration": 5194,
+   "edition": "2015",
+   "identifier": "#c++now-2015-0023",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 23,
+   "speakers": [
+      "Michal Dominiak"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/skedXlGnLNE/0.jpg",
+   "title": " Type-safe configuration library",
+   "video": "https://youtube.com/watch?v=skedXlGnLNE"
+},{
+   "duration": 4636,
+   "edition": "2015",
+   "identifier": "#c++now-2015-0024",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 24,
+   "speakers": [
+      "Niall Douglas"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/OwIxqWuHVeA/0.jpg",
+   "title": " A review of C++ 11/14 only Boost libraries - Fiber, AFIO, DI and APIBind",
+   "video": "https://youtube.com/watch?v=OwIxqWuHVeA"
+},{
+   "duration": 5495,
+   "edition": "2015",
+   "identifier": "#c++now-2015-0025",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 25,
+   "speakers": [
+      "Lisa Lippincott"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/7mJmTl-boaY/0.jpg",
+   "title": " How we reason about procedural programs",
+   "video": "https://youtube.com/watch?v=7mJmTl-boaY"
+},{
+   "duration": 5325,
+   "edition": "2015",
+   "identifier": "#c++now-2015-0026",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 26,
+   "speakers": [
+      "David Sankel"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/3eH4hMKl7XE/0.jpg",
+   "title": " Big Projects, and CMake, and Git, Oh My!",
+   "video": "https://youtube.com/watch?v=3eH4hMKl7XE"
+},{
+   "duration": 5460,
+   "edition": "2015",
+   "identifier": "#c++now-2015-0027",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 27,
+   "speakers": [
+      "David Stone"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/_lVlC0xzXDc/0.jpg",
+   "title": " Functions Want To Be Free",
+   "video": "https://youtube.com/watch?v=_lVlC0xzXDc"
+},{
+   "duration": 5872,
+   "edition": "2015",
+   "identifier": "#c++now-2015-0028",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 28,
+   "speakers": [
+      "Tony Van Eerd"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/kH59-vLMNys/0.jpg",
+   "title": " Lock-free by Example: Towards an Interesting Lock-free MPMC Queue",
+   "video": "https://youtube.com/watch?v=kH59-vLMNys"
+},{
+   "duration": 5739,
+   "edition": "2015",
+   "identifier": "#c++now-2015-0029",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 29,
+   "speakers": [
+      "Tony Van Eerd"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/SF1arU6uQ9c/0.jpg",
+   "title": " Lessons Learned",
+   "video": "https://youtube.com/watch?v=SF1arU6uQ9c"
+},{
+   "duration": 1304,
+   "edition": "2015",
+   "identifier": "#c++now-2015-0030",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 30,
+   "speakers": [
+      "Jason Turner"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/9i2ZirXdrVA/0.jpg",
+   "title": " IIFE in C++ for Performance and Safety",
+   "video": "https://youtube.com/watch?v=9i2ZirXdrVA"
+},{
+   "duration": 3386,
+   "edition": "2015",
+   "identifier": "#c++now-2015-0031",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 31,
+   "speakers": [
+      "Grant Mercer"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/k6djT0a1q3E/0.jpg",
+   "title": " Parallelizing the Standard Template Library",
+   "video": "https://youtube.com/watch?v=k6djT0a1q3E"
+},{
+   "duration": 4091,
+   "edition": "2015",
+   "identifier": "#c++now-2015-0032",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 32,
+   "speakers": [
+      "Louis Dionne"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/cg1wOINjV9U/0.jpg",
+   "title": " C++ metaprogramming: a paradigm shift",
+   "video": "https://youtube.com/watch?v=cg1wOINjV9U"
+},{
+   "duration": 4167,
+   "edition": "2015",
+   "identifier": "#c++now-2015-0033",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 33,
+   "speakers": [
+      "Zhihao Yuan"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/MQmhuC2dcgA/0.jpg",
+   "title": " Fun with C11 generic selection expression",
+   "video": "https://youtube.com/watch?v=MQmhuC2dcgA"
+},{
+   "duration": 5588,
+   "edition": "2015",
+   "identifier": "#c++now-2015-0034",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 34,
+   "speakers": [
+      "Alisdair Meredith"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/ymmKZRG4iv0/0.jpg",
+   "title": "Details Matter",
+   "video": "https://youtube.com/watch?v=ymmKZRG4iv0"
+},{
+   "duration": 5553,
+   "edition": "2015",
+   "identifier": "#c++now-2015-0035",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 35,
+   "speakers": [
+      "Arthur O'Dwyer"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/IzQk6IM74JE/0.jpg",
+   "title": " The Rule of Seven (Plus or Minus Two): Modern C++ Boilerplate",
+   "video": "https://youtube.com/watch?v=IzQk6IM74JE"
+},{
+   "duration": 4056,
+   "edition": "2015",
+   "identifier": "#c++now-2015-0036",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 36,
+   "speakers": [
+      "Sean Parent"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/zULU6Hhp42w/0.jpg",
+   "title": " Better Code: Concurrency",
+   "video": "https://youtube.com/watch?v=zULU6Hhp42w"
+},{
+   "duration": 5514,
+   "edition": "2015",
+   "identifier": "#c++now-2015-0037",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 37,
+   "speakers": [
+      "Joel de Guzman",
+      "Michael Caisse"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/ZeeR7pQ6Le4/0.jpg",
+   "title": " Using Spirit X3, Part I",
+   "video": "https://youtube.com/watch?v=ZeeR7pQ6Le4"
+},{
+   "duration": 1040,
+   "edition": "2015",
+   "identifier": "#c++now-2015-0038",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 38,
+   "speakers": [
+      "Joel de Guzman",
+      "Michael Caisse"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/XcrGf0bTzRc/0.jpg",
+   "title": " Using Spirit X3, Part II",
+   "video": "https://youtube.com/watch?v=XcrGf0bTzRc"
+},{
+   "duration": 2675,
+   "edition": "2015",
+   "identifier": "#c++now-2015-0039",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 39,
+   "speakers": [
+      "Jens Weller"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/OBpX6R_lEnY/0.jpg",
+   "title": " An Overview on Encryption in C++",
+   "video": "https://youtube.com/watch?v=OBpX6R_lEnY"
+},{
+   "duration": 6046,
+   "edition": "2015",
+   "identifier": "#c++now-2015-0040",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 40,
+   "speakers": [
+      "Gor Nishanov"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/proxLbvHGEQ/0.jpg",
+   "title": " C++17 coroutines for app and library developers",
+   "video": "https://youtube.com/watch?v=proxLbvHGEQ"
+},{
+   "duration": 4869,
+   "edition": "2015",
+   "identifier": "#c++now-2015-0041",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 41,
+   "speakers": [
+      "Julian Smith"
+   ],
+   "tags": [
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/NWWMogzgLS4/0.jpg",
+   "title": " Debugging using an exact recording of a program's execution",
+   "video": "https://youtube.com/watch?v=NWWMogzgLS4"
+}]}

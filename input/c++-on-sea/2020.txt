@@ -1,0 +1,217 @@
+#locked
+
+$add meeting c++-on-sea
+$add edition 2020
+$add language english
+$add tags conference online c++
+
+main()
+const west
+east const
+11:30
+std::cout << "Welcome and orientation\n";
+
+12:00
+#c++-on-sea-2020-0001
+Keynote: A Retrospective from My Perspective
+Walter E Brown
+
+
+13:00
+75-90 minute break
+
+14:30
+#c++-on-sea-2020-0002
+Quickly and Effectively Testing Legacy C++ Code with Approval Tests
+Clare Macrae
+
+#c++-on-sea-2020-0003
+Hypercritical C++ Code Review
+Yuri Minaev
+
+#c++-on-sea-2020-0004
+C++20: All the small things
+Fergus Cooper
+
+15:30
+15-30 minute break
+
+16:00
+#c++-on-sea-2020-0005
+From Iterators To Ranges - The Upcoming Evolution Of the Standard Library
+Arno Schoedl
+
+#c++-on-sea-2020-0006
+Specialising Linear Algebra for Geometry
+Guy Davidson
+
+#c++-on-sea-2020-0007
+How accurate we are? A refresher on the floating-point computations and the standard library.
+Boguslaw Cyganek
+
+17:00
+15-30 minute break
+
+17:30
+#c++-on-sea-2020-0008
+Correct by Construction: APIs That Are Easy to Use and Hard to Misuse
+Matt Godbolt
+
+#c++-on-sea-2020-0009
+C++ ecosystem: the renaissance edition
+Anastasia Kazakova
+
+#c++-on-sea-2020-0010
+Reducing Memory Allocations in a Large C++ Application
+Arnaud Desitter
+
+WednesdayFridayThursday
+16th July 2020
+main()
+const west
+east const
+10:15
+std::cout << "Welcome back\n";
+
+10:30
+#c++-on-sea-2020-0011
+Keynote: Concurrent Details Matter - Why and How we fixed std::thread by std::jthread
+Nicolai Josuttis
+
+
+11:30
+15-30 minute break
+
+12:00
+#c++-on-sea-2020-0012
+Live Compiler Development with Cross-Platform Tooling
+Sy Brand
+
+#c++-on-sea-2020-0013
+Structured bindings uncovered
+Dawid Zalewski
+
+#c++-on-sea-2020-0014
+An Introduction to C++20’s Concepts
+Hendrik Niemeyer
+
+13:00
+75-90 minute break
+
+14:30
+#c++-on-sea-2020-0015
+Naming is Hard: Let's Do Better
+Kate Gregory
+
+#c++-on-sea-2020-0016
+C++ STL best and worst performance features and how to learn from them
+Danila Kutenin
+
+#c++-on-sea-2020-0017
+Undefined behaviour in the STL
+Sandor Dargo
+
+15:30
+15-30 minute break
+
+16:00
+#c++-on-sea-2020-0018
+Deep C Diving - Fast and Scalable Text Interfaces at the Bottom
+JeanHeyd Meneide
+
+#c++-on-sea-2020-0019
+Improving Readability With Class Template Argument Deduction
+A.J. Orians
+
+#c++-on-sea-2020-0020
+Data-Oriented Design for Object-Oriented Programmers
+Shachar Langbeheim
+
+17:00
+15-30 minute break
+
+17:30
+Lightning talks
+
+ThursdayWednesdayFriday
+17th July 2020
+main()
+const west
+east const
+10:15
+std::cout << "Welcome back, again\n";
+
+10:30
+#c++-on-sea-2020-0021
+Clang-based Refactoring, or How to Refactor Millions of Line of Code Without Alienating your Colleagues
+Fred Tingaud
+
+#c++-on-sea-2020-0022
+Combining Modern C++ and Lua
+James Pascoe
+
+#c++-on-sea-2020-0023
+Serialization in C++ has never been easier! But wait, there's more...
+Pavel Novikov
+
+11:30
+15-30 minute break
+
+12:00
+#c++-on-sea-2020-0024
+Lambda? You Keep Using that Letter
+Kevlin Henney
+
+#c++-on-sea-2020-0025
+A deep dive into the Gilded Rose
+Barney Dellar
+
+#c++-on-sea-2020-0026
+Algorithmic and microarchitecture optimizations of C++ applications
+Alexander Maslennikov
+
+13:00
+75-90 minute break
+
+14:30
+#c++-on-sea-2020-0027
+Object-Oriented Program: Best Practices
+Jon Kalb
+
+#c++-on-sea-2020-0028
+Squaring the circle: value-oriented design in an object-oriented system
+Juan Pedro Bolivar Puente
+
+#c++-on-sea-2020-0029
+Rethinking the Way We Do Templates in C++ even more
+Mateusz Pusz
+
+16:00
+PVS-Studio Features Overview
+
+15-30 minute break
+
+15-30 minute break
+
+16:30
+live music
+
+17:00
+#c++-on-sea-2020-0030
+Keynote: Bridge to NewThingia: How to answer 'why will yours succeed, when X, Y, and Z have failed?'
+Herb Sutter
+
+
+18:00
+exit(0); // Wrap up and goodbyes
+
+Canon Medical Research Europe
+Ableton
+Amazon
+Microsoft
+JetBrains
+C++ Dublin Users Group
+Oslo C++ Users Group
+Core C++ User Group, Tel Aviv
+C++ User Group Hannover
+Pacific++

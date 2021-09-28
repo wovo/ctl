@@ -1,0 +1,379 @@
+{ "list": [{
+   "duration": 5265,
+   "edition": "2015",
+   "identifier": "#code-dive-2015-0001",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 1,
+   "speakers": [
+      "Matthias Hesse"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/PhbWcfTcVic/0.jpg",
+   "title": "5G For People And Things - The Key To The Programmable World",
+   "video": "https://youtube.com/watch?v=PhbWcfTcVic"
+},{
+   "duration": 4529,
+   "edition": "2015",
+   "identifier": "#code-dive-2015-0002",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 2,
+   "speakers": [
+      "Norbert Kraft"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/2BPslU6d_tQ/0.jpg",
+   "title": "Big Data Analytics In Telecommunication",
+   "video": "https://youtube.com/watch?v=2BPslU6d_tQ"
+},{
+   "duration": 3506,
+   "edition": "2015",
+   "identifier": "#code-dive-2015-0003",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 3,
+   "speakers": [
+      "Bartosz Szurgot"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/PDSvjwJ2M80/0.jpg",
+   "title": "C++ vs. C: The Embedded Perspective",
+   "video": "https://youtube.com/watch?v=PDSvjwJ2M80"
+},{
+   "duration": 3509,
+   "edition": "2015",
+   "identifier": "#code-dive-2015-0004",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 4,
+   "speakers": [
+      "Slawomir Zborowski"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/YKHa3EJGhJM/0.jpg",
+   "title": "C++17: The Upcoming Revolution",
+   "video": "https://youtube.com/watch?v=YKHa3EJGhJM"
+},{
+   "duration": 3824,
+   "edition": "2015",
+   "identifier": "#code-dive-2015-0005",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 5,
+   "speakers": [
+      "Adam Badura"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/izclS7-6Ph4/0.jpg",
+   "title": "Code Review Process",
+   "video": "https://youtube.com/watch?v=izclS7-6Ph4"
+},{
+   "duration": 2749,
+   "edition": "2015",
+   "identifier": "#code-dive-2015-0006",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 6,
+   "speakers": [
+      "Jakub Derda"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/rczdegiJHCI/0.jpg",
+   "title": "Concurrency In Cloud Applications Design Crashcourse",
+   "video": "https://youtube.com/watch?v=rczdegiJHCI"
+},{
+   "duration": 4008,
+   "edition": "2015",
+   "identifier": "#code-dive-2015-0007",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 7,
+   "speakers": [
+      "Andrzej Krzemienski"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/xYBffw1rvck/0.jpg",
+   "title": "Constrain Yourself",
+   "video": "https://youtube.com/watch?v=xYBffw1rvck"
+},{
+   "duration": 4588,
+   "edition": "2015",
+   "identifier": "#code-dive-2015-0008",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 8,
+   "speakers": [
+      "Tomasz Kaczmarczyk"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/w2WjI3fIPMQ/0.jpg",
+   "title": "HTTP/2 - The Future Of WWW",
+   "video": "https://youtube.com/watch?v=w2WjI3fIPMQ"
+},{
+   "duration": 3995,
+   "edition": "2015",
+   "identifier": "#code-dive-2015-0009",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 9,
+   "speakers": [
+      "Ulrich Drepper"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/LXfSXzxDY_M/0.jpg",
+   "title": "Intelligent Application Configuration Data Management",
+   "video": "https://youtube.com/watch?v=LXfSXzxDY_M"
+},{
+   "duration": 3545,
+   "edition": "2015",
+   "identifier": "#code-dive-2015-0010",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 10,
+   "speakers": [
+      "Lukasz Ziobron"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/0ga4aFuistg/0.jpg",
+   "title": "Machine Learning And Image Processing (Not Only) In Autonomous Vehicles",
+   "video": "https://youtube.com/watch?v=0ga4aFuistg"
+},{
+   "duration": 4330,
+   "edition": "2015",
+   "identifier": "#code-dive-2015-0011",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 11,
+   "speakers": [
+      "Filip Wojcik"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/IC2CGQ20Ds8/0.jpg",
+   "title": "Machine Learning - When Big Data Is Not Enough",
+   "video": "https://youtube.com/watch?v=IC2CGQ20Ds8"
+},{
+   "duration": 1240,
+   "edition": "2015",
+   "identifier": "#code-dive-2015-0012",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 12,
+   "speakers": [
+      "Dan Saks"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/hTvHea56t4s/0.jpg",
+   "title": "Motivated Reasoning",
+   "video": "https://youtube.com/watch?v=hTvHea56t4s"
+},{
+   "duration": 2859,
+   "edition": "2015",
+   "identifier": "#code-dive-2015-0013",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 13,
+   "speakers": [
+      "Dan Saks"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/Loac5nfK3XY/0.jpg",
+   "title": "Representing Memory-mapped Devices As Objects",
+   "video": "https://youtube.com/watch?v=Loac5nfK3XY"
+},{
+   "duration": 4865,
+   "edition": "2015",
+   "identifier": "#code-dive-2015-0014",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 14,
+   "speakers": [
+      "Dan Saks"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/VEHh6jEavnc/0.jpg",
+   "title": "Sooner Rather Than Later",
+   "video": "https://youtube.com/watch?v=VEHh6jEavnc"
+},{
+   "duration": 3995,
+   "edition": "2015",
+   "identifier": "#code-dive-2015-0015",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 15,
+   "speakers": [
+      "Ulrich Drepper"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/LXfSXzxDY_M/0.jpg",
+   "title": "The Cost Of 64-bit Pointers",
+   "video": "https://youtube.com/watch?v=LXfSXzxDY_M"
+},{
+   "duration": 4790,
+   "edition": "2015",
+   "identifier": "#code-dive-2015-0016",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 16,
+   "speakers": [
+      "Vladimir Vukadinovic"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/0BQ8p7AkjsU/0.jpg",
+   "title": "The Internet Of Things: Opportunities And Challenges On The Road Towards The Programmable World",
+   "video": "https://youtube.com/watch?v=0BQ8p7AkjsU"
+},{
+   "duration": 5341,
+   "edition": "2015",
+   "identifier": "#code-dive-2015-0017",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 17,
+   "speakers": [
+      "Andrei Alexandrescu"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/3NihZVcZqto/0.jpg",
+   "title": "Three Cool Things About D",
+   "video": "https://youtube.com/watch?v=3NihZVcZqto"
+},{
+   "duration": 2369,
+   "edition": "2015",
+   "identifier": "#code-dive-2015-0018",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 18,
+   "speakers": [
+      "Przemyslaw Szufarski"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/Oh4OuHrL5fA/0.jpg",
+   "title": "What Is Telco Cloud?",
+   "video": "https://youtube.com/watch?v=Oh4OuHrL5fA"
+},{
+   "duration": 2910,
+   "edition": "2015",
+   "identifier": "#code-dive-2015-0019",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 19,
+   "speakers": [
+      "Rafal Lojek"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/kVndwPh0JlU/0.jpg",
+   "title": "What You See Is What You Get. How Testing Tools And Level Can Change The Way You See The System",
+   "video": "https://youtube.com/watch?v=kVndwPh0JlU"
+},{
+   "duration": 5365,
+   "edition": "2015",
+   "identifier": "#code-dive-2015-0020",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 20,
+   "speakers": [
+      "Andrei Alexandrescu"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/vrfYLlR8X8k/0.jpg",
+   "title": "Writing Fast Code Part 1",
+   "video": "https://youtube.com/watch?v=vrfYLlR8X8k"
+},{
+   "duration": 3647,
+   "edition": "2015",
+   "identifier": "#code-dive-2015-0021",
+   "language": "english",
+   "level": 0,
+   "meeting": "code dive",
+   "number": 21,
+   "speakers": [
+      "Andrei Alexandrescu"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/9tvbz8CSI8M/0.jpg",
+   "title": "Writing Fast Code Part 2",
+   "video": "https://youtube.com/watch?v=9tvbz8CSI8M"
+}]}

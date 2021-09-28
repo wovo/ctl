@@ -1,0 +1,54 @@
+#locked
+
+$add meeting code-dive
+$add edition 2020
+$add language english
+$add tags conference online
+
+#marker-0001
+Concurrent Code – Test It! – How?
+Felix Petriconi
+
+#marker-0002
+Getting customized runtime hardware details at compile-time for thread mapping on any machine
+Iulia Ştirb
+
+#marker-0003
+Async… oh, wait
+Oleksii Pilkevych
+
+#marker-0004
+Raising the abstraction level
+Daniel Aronsson
+
+#marker-0005
+Experience from Feature Toggling Platform implementation
+Filip Olszewski @ Piotr Pietroń
+
+#marker-0006
+Introduction to Bazel to build C++ and Python
+Xavier Bonaventura
+
+#marker-0007
+Embedded Systems 101
+Maciej Norberciak
+
+#marker-0008
+Effective Code Review
+Karol Przybylski
+
+#marker-0009
+SW compatibility, plan it or face eventual consequences
+Kamil Witecki
+
+#marker-0010
+Cloud Business Solution Increasing Supply Chain Profitability
+Agata Migalska
+
+#marker-0011
+Analyzing Configuration of Cellular Networks at Nokia with Apache Hadoop, Apache SPARK and Presto SQL
+Rafał Pasek
+
+#marker-0012
+Using Deep Learning to hunt Optical Counterparts to Gravitational Wave events
+Adam Zadrożny

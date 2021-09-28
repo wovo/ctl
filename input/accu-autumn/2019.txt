@@ -1,0 +1,214 @@
+#locked
+
+$add meeting accu-autumn
+$add edition 2019
+$add language english
+$add tags conference live
+
+Sunday 2019-11-10
+Hilton Hotel, Belfast
+19:00
+
+19:30
+
+#accu-2019-autumn-0001
+Welcome to ACCU Autumn 2019!
+Walter Brown
+
+21:30
+
+Cathedral Quarter Pub Crawl (and why not??)
+
+Monday 2019-11-11
+Lagan 1	Lagan 2	Lisburn
+08:30
+
+Conference Registration Opens
+
+08:30
+
+Wake-up Time!
+
+09:15
+
+09:30
+
+Conference Introduction & Orientation
+
+OPENING KEYNOTE
+#accu-2019-autumn-0002
+Quantifying Accidental Complexity: An Empirical Look at Teaching and Using C++
+Herb Sutter
+
+10:30
+
+Break
+
+11:00
+
+#accu-2019-autumn-0003
+C++ Modules and Large-Scale Development
+John Lakos
+(video)
+(slides)
+
+#accu-2019-autumn-0004
+The C++20 Synchronization Library
+Bryce Adelstein Lelbach
+
+#accu-2019-autumn-0005
+Introduction to Cache Oblivious Algorithms
+Mike Shah
+
+12:30
+
+Lunch
+
+13:30
+
+#accu-2019-autumn-0006
+Formatting floating-point numbers
+Victor Zverovich
+(video)
+(slides)
+
+#accu-2019-autumn-0007
+Faster Code Through Parallelism on CPUs and GPUs
+David Olsen
+
+#accu-2019-autumn-0008
+Interop Between Kotlin Native and C++ / Swift - the Good, the Bad and the Ugly
+Garth Gilmour @ Eamonn Boyle
+
+14:30
+
+Break
+
+15:00
+
+#accu-2019-autumn-0009
+C++ Insights: How stuff works, Lambdas and more!
+Andreas Fertig
+(video)
+
+#accu-2019-autumn-0010
+The Secret Life of Numbers
+John McFarlane
+(slides)
+
+#accu-2019-autumn-0011
+Serverless Containers with KEDA
+Mark Allan
+
+16:00
+
+Break
+
+16:30
+
+#accu-2019-autumn-0012
+From functions to Concepts: Impact on maintainability and refactoring for higher-level design features
+Titus Winters
+(video)
+
+#accu-2019-autumn-0013
+Better Algorithm Intuition
+Conor Hoekstra
+
+#accu-2019-autumn-0014
+The Truth of a Procedure
+Lisa Lippincott
+
+18:00
+
+Lightning Talk Warm-up
+
+18:15
+
+LIGHTNING TALKS
+
+19:15
+
+Pre Dinner Chill
+
+ 
+19:30
+20:00
+21:30 to late
+
+CONFERENCE DINNER
+Dinner Reception
+Eating, Talking, Making Friends
+After Dinner Party
+
+Tuesday 2019-11-12
+Lagan 1	Lagan 2	Lisburn
+09:30
+
+#accu-2019-autumn-0015
+The Dawn of a New Error
+Phil Nash
+(video)
+
+#accu-2019-autumn-0016
+Transpose(*this) - Linear Algebra for Standard C++
+Bob Steagall
+
+#accu-2019-autumn-0017
+Better CTAD for C++20
+Timur Doumler
+
+11:00
+
+Breakfast Break
+
+11:30
+
+#accu-2019-autumn-0018
+Enforce Inform Ignore Assume - Gradual Adoption of Contracts In Production Code
+Alisdair Meredith
+(video)
+
+#accu-2019-autumn-0019
+The Many Variants of std::variant
+Nevin Liber
+(slides)
+
+#accu-2019-autumn-0020
+No more secrets? Why your secrets aren’t safe and what you can do about it
+Neil Horlock
+
+13:00
+
+Lunch and Recharge!
+
+14:30
+
+#accu-2019-autumn-0021
+Coarse grained application composition using Pipelines and Buses
+Chris Kohlhoff
+
+#accu-2019-autumn-0022
+Make your programs more reliable with Fuzzing
+Marshall Clow
+(video)
+
+#accu-2019-autumn-0023
+From Algorithm to Generic, Parallel Code
+Dietmar Kühl
+(slides)
+
+16:00
+
+Break
+
+16:30
+
+CLOSING KEYNOTE
+#accu-2019-autumn-0024
+The future direction of C++ and Heterogeneous Computing
+Michael Wong
+
+18:00
+
+CLOSE

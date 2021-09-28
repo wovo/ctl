@@ -1,0 +1,523 @@
+{ "list": [{
+   "duration": 6745,
+   "edition": "2021",
+   "identifier": "#c++now-2021-0001",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 1,
+   "speakers": [
+      "Scott Meyers"
+   ],
+   "tags": [
+      "keynote",
+      "conference",
+      "online",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/smqT9Io_bKo/0.jpg",
+   "title": " The evolving search for effective C++",
+   "video": "https://youtube.com/watch?v=smqT9Io_bKo"
+},{
+   "duration": 5256,
+   "edition": "2021",
+   "identifier": "#c++now-2021-0002",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 2,
+   "speakers": [
+      "Hartmut Kaiser"
+   ],
+   "tags": [
+      "keynote",
+      "conference",
+      "online",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/4OCUEgSNIAY/0.jpg",
+   "title": "Plain Threads are the GOTO of todays computing ",
+   "video": "https://youtube.com/watch?v=4OCUEgSNIAY"
+},{
+   "duration": 1147,
+   "edition": "2021",
+   "identifier": "#c++now-2021-0003",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 3,
+   "speakers": [
+      "Hartmut Kaiser",
+      "Jens Weller",
+      "Scott Meyers"
+   ],
+   "tags": [
+      "interview",
+      "conference",
+      "online",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/_a0usu0dMew/0.jpg",
+   "title": " An interview with Hartmut Kaiser and Scott Meyers",
+   "video": "https://youtube.com/watch?v=_a0usu0dMew"
+},{
+   "duration": 2575,
+   "edition": "2021",
+   "identifier": "#c++now-2021-0004",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 4,
+   "speakers": [
+      "Jens Weller"
+   ],
+   "tags": [
+      "interview",
+      "conference",
+      "online",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/nbaGUxAZ3AM/0.jpg",
+   "title": " Meeting C++ 2014 - Survey Session",
+   "video": "https://youtube.com/watch?v=nbaGUxAZ3AM"
+},{
+   "duration": 2575,
+   "edition": "2021",
+   "identifier": "#c++now-2021-0005",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 5,
+   "speakers": [
+      "Jens Weller"
+   ],
+   "tags": [
+      "interview",
+      "conference",
+      "online",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/nbaGUxAZ3AM/0.jpg",
+   "title": " Meeting C++ 2014 Update & Survey Session",
+   "video": "https://youtube.com/watch?v=nbaGUxAZ3AM"
+},{
+   "duration": 3972,
+   "edition": "2021",
+   "identifier": "#c++now-2021-0006",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 6,
+   "speakers": [
+      "Joel Falcou"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "online",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/DQV4nRZI_uA/0.jpg",
+   "title": "Automatic Task-based Code Generation for High Performance DSEL ",
+   "video": "https://youtube.com/watch?v=DQV4nRZI_uA"
+},{
+   "duration": 4349,
+   "edition": "2021",
+   "identifier": "#c++now-2021-0007",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 7,
+   "speakers": [
+      "David Stone"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "online",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/I4gcImc_Cj8/0.jpg",
+   "title": "Writing robust code ",
+   "video": "https://youtube.com/watch?v=I4gcImc_Cj8"
+},{
+   "duration": 3464,
+   "edition": "2021",
+   "identifier": "#c++now-2021-0009",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 8,
+   "speakers": [
+      "Ivan Cukic"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "online",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/xKRndVoo2ms/0.jpg",
+   "title": "Monads in Chains ",
+   "video": "https://youtube.com/watch?v=xKRndVoo2ms"
+},{
+   "duration": 2892,
+   "edition": "2021",
+   "identifier": "#c++now-2021-0010",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 9,
+   "speakers": [
+      "Edouard Alligand"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "online",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/K4c8QJvueas/0.jpg",
+   "title": "Multiplatform C++ ",
+   "video": "https://youtube.com/watch?v=K4c8QJvueas"
+},{
+   "duration": 3477,
+   "edition": "2021",
+   "identifier": "#c++now-2021-0011",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 10,
+   "speakers": [
+      "Dennis Demidov"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "online",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/W8onyk2Rraw/0.jpg",
+   "title": " Generating OpenCL/CUDA source code from C++ expressions in VexCL",
+   "video": "https://youtube.com/watch?v=W8onyk2Rraw"
+},{
+   "duration": 2980,
+   "edition": "2021",
+   "identifier": "#c++now-2021-0012",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 11,
+   "speakers": [
+      "Roland Bock"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "online",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/afGv7A9gvmc/0.jpg",
+   "title": "Pruning Error Messages From C++ Template Code ",
+   "video": "https://youtube.com/watch?v=afGv7A9gvmc"
+},{
+   "duration": 395,
+   "edition": "2021",
+   "identifier": "#c++now-2021-0013",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 12,
+   "speakers": [
+      "Valentin Ziegler"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "online",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/Z1OQWZCmCiY/0.jpg",
+   "title": "The C++ Memory Model ",
+   "video": "https://youtube.com/watch?v=Z1OQWZCmCiY"
+},{
+   "duration": 2816,
+   "edition": "2021",
+   "identifier": "#c++now-2021-0014",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 13,
+   "speakers": [
+      "Peter Gottschling"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "online",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/GF5ijWKWTLA/0.jpg",
+   "title": "C++11 library components to make a scientist happy ",
+   "video": "https://youtube.com/watch?v=GF5ijWKWTLA"
+},{
+   "duration": 3708,
+   "edition": "2021",
+   "identifier": "#c++now-2021-0015",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 14,
+   "speakers": [
+      "Phil Nash"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "online",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/N2gTxeIHMP0/0.jpg",
+   "title": "Testdriven C++ with Catch ",
+   "video": "https://youtube.com/watch?v=N2gTxeIHMP0"
+},{
+   "duration": 218,
+   "edition": "2021",
+   "identifier": "#c++now-2021-0016",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 15,
+   "speakers": [
+      "Guntram Berti"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "online",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/q7sgzDH1cR8/0.jpg",
+   "title": "Generic Parallel Programming ",
+   "video": "https://youtube.com/watch?v=q7sgzDH1cR8"
+},{
+   "duration": 3970,
+   "edition": "2021",
+   "identifier": "#c++now-2021-0017",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 16,
+   "speakers": [
+      "Georg Zitzlsberger"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "online",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/6oKRL7jz2LY/0.jpg",
+   "title": "C++ SIMD parallelism with Intel Cilk Plus and OpenMP 4.0 ",
+   "video": "https://youtube.com/watch?v=6oKRL7jz2LY"
+},{
+   "duration": 3534,
+   "edition": "2021",
+   "identifier": "#c++now-2021-0018",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 17,
+   "speakers": [
+      "Klaus Iglberger"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "online",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/hfn0BVOegac/0.jpg",
+   "title": "Expression Templates Revisited ",
+   "video": "https://youtube.com/watch?v=hfn0BVOegac"
+},{
+   "duration": 3066,
+   "edition": "2021",
+   "identifier": "#c++now-2021-0019",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 18,
+   "speakers": [
+      "Abel Sinkovics & Andras Kucsma"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "online",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/nUXjVVO4YlA/0.jpg",
+   "title": "Interactive Metaprogramming Shell based on Clang ",
+   "video": "https://youtube.com/watch?v=nUXjVVO4YlA"
+},{
+   "duration": 3774,
+   "edition": "2021",
+   "identifier": "#c++now-2021-0020",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 19,
+   "speakers": [
+      "Wouter van Ooijen"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "online",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/k8sRQMx2qUw/0.jpg",
+   "title": "Objects? No Thanks! ",
+   "video": "https://youtube.com/watch?v=k8sRQMx2qUw"
+},{
+   "duration": 4036,
+   "edition": "2021",
+   "identifier": "#c++now-2021-0021",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 20,
+   "speakers": [
+      "Roland Bock"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "online",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/9Hjfg9IfzhU/0.jpg",
+   "title": "Sqlpp11, An EDSL For Type-Safe SQL In C++11 ",
+   "video": "https://youtube.com/watch?v=9Hjfg9IfzhU"
+},{
+   "duration": 3958,
+   "edition": "2021",
+   "identifier": "#c++now-2021-0022",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 21,
+   "speakers": [
+      "Mark Mutz"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "online",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/QpAhX-gsHMs/0.jpg",
+   "title": "Designing value classes for modern C++ ",
+   "video": "https://youtube.com/watch?v=QpAhX-gsHMs"
+},{
+   "duration": 3946,
+   "edition": "2021",
+   "identifier": "#c++now-2021-0023",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 22,
+   "speakers": [
+      "Christophe Henry"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "online",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/KluFx_WILwY/0.jpg",
+   "title": "the asynchronous library ",
+   "video": "https://youtube.com/watch?v=KluFx_WILwY"
+},{
+   "duration": 3495,
+   "edition": "2021",
+   "identifier": "#c++now-2021-0024",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 23,
+   "speakers": [
+      "Rainer Grimm"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "online",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/GoErrUWqUFg/0.jpg",
+   "title": "C++11 Multithreading done right? ",
+   "video": "https://youtube.com/watch?v=GoErrUWqUFg"
+},{
+   "duration": 2381,
+   "edition": "2021",
+   "identifier": "#c++now-2021-0025",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 24,
+   "speakers": [
+      "Karsten Ahnert"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "online",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/qXdPFj-FTcA/0.jpg",
+   "title": "Ranges and Iterators for numerical problems ",
+   "video": "https://youtube.com/watch?v=qXdPFj-FTcA"
+},{
+   "duration": 3804,
+   "edition": "2021",
+   "identifier": "#c++now-2021-0026",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 25,
+   "speakers": [
+      "Daniel Pfeifer"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "online",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/UnHeOywnj1k/0.jpg",
+   "title": "When dependency hell freezes over ",
+   "video": "https://youtube.com/watch?v=UnHeOywnj1k"
+},{
+   "duration": 5596,
+   "edition": "2021",
+   "identifier": "#c++now-2021-0027",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 26,
+   "speakers": [
+      "Detlef Vollmann"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "online",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/iYMfYdO0_OU/0.jpg",
+   "title": "Executors in C++ ",
+   "video": "https://youtube.com/watch?v=iYMfYdO0_OU"
+}]}

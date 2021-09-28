@@ -1,0 +1,246 @@
+#locked
+
+$add meeting code-dive
+$add edition 2018
+$add language english
+$add tags conference live
+
+#marker-0001
+3 things they didn't tell you about Agile
+Piotr Kozłowski
+
+#marker-0002
+7 reasons to move your C++ code to Visual Studio 2017
+Bat-Ulzii Luvsanbat
+
+#marker-0003
+A trusted trip in the cloud – working with trusted hardware in practice
+Gabriela Limonta
+
+#marker-0004
+Are you Open enough to Innovate? ;)
+Łukasz Skomra
+
+#marker-0005
+Augmented Reality - The State of Play
+Rafał Legiędź
+
+#marker-0006
+Basic Web Applications Security
+Grzegorz Goławski
+
+#marker-0007
+boost.tmp: Your DSL for Metaprogramming - Part 1 of 2
+Odin Holmes
+
+#marker-0008
+boost.tmp: Your DSL for Metaprogramming - Part 2 of 2
+Odin Holmes
+
+#marker-0009
+Boosting knowledge sharing
+Zbigniew Piecuch
+
+#marker-0010
+Bringing Business Logic Back to C++
+Borislav Stanimirov
+
+#marker-0011
+C++ and Memory: Between Correctness and Performance
+Ulrich Drepper
+
+#marker-0012
+C++ Cryptozoology - A Compendium of Cryptic Characters
+Adi Shavit
+
+#marker-0013
+C/C++ vs Security!
+Gynvael Coldwind
+
+#marker-0014
+Character Encodings Hate Us All
+Daniel Kozar
+
+#marker-0015
+Choosing the Right Integer Types in C and C++
+Dan Saks
+
+#marker-0016
+Clean code in Go
+Mateusz Dymiński
+
+#marker-0017
+CPU-Friendly Code
+Borislav Stanimirov
+
+#marker-0018
+Data-oriented design in practice
+Stoyan Nikolov
+
+#marker-0019
+Dealing with function failures in C++
+Andrzej Krzemieński
+
+#marker-0020
+Diving into a large, legacy code::base as a youngster
+Kristóf Kerekes
+
+#marker-0021
+Easier said than done. Self-organized teams
+Izabela Krupa @ Paweł Słowikowski
+
+#marker-0022
+East const but constexpr West
+Dan Saks
+
+#marker-0023
+Effective Practices for Engineering Teams
+Serhiy Kostyshyn
+
+#marker-0024
+Generic Programming
+Sean Parent
+
+#marker-0025
+Getting type name at compile time
+Adam Badura
+
+#marker-0026
+Go for DevOps, Go for microservices, and what Go is actually good for
+Björn Rabenstein
+
+#marker-0027
+GoLand Tips & Tricks
+Florin Pățan
+
+#marker-0028
+How I Learned to Stop Worrying About Generics and Love Go
+Krzysztof Dryś
+
+#marker-0029
+How to do practical Data Science? From real-world examples to recommendations
+Artur Suchwałko
+
+#marker-0030
+Is your Agile agile?
+Łukasz Olczyk
+
+#marker-0031
+JavaScript can get faster, WebAssembly can get even faster
+Sambath Logakrishnan
+
+#marker-0032
+Multitype Pool: fixed type allocation
+Chiel Douwes
+
+#marker-0033
+Neural networks interactively - right in your browser!
+Piotr Migdał
+
+#marker-0034
+Python as C++’s limiting case
+Brandon Rhodes
+
+#marker-0035
+Reducing OS noise using offload driver
+Łukasz Daniluk
+
+#marker-0036
+Redux Architecture
+Piotr Staniów
+
+#marker-0037
+Refactor your codebase with Clang tooling
+Stephen Kelly
+
+#marker-0038
+Reuse bill
+Grzegorz Latuszek
+
+#marker-0039
+Simplifying control flow
+Zbigniew Skowron
+
+#marker-0040
+Site Reliability Engineering
+Michał Pawlik
+
+#marker-0041
+Sitting Considered Deadly
+Marek Stój
+
+#marker-0042
+Software Engineer in the Machine Learning world
+Tomasz Melcer
+
+#marker-0043
+Sphinx won't bite you! Documenting Python code
+Damian Skrzypczak
+
+#marker-0044
+Taming dynamic memory - An introduction to custom allocators in C++
+Andreas Weis
+
+#marker-0045
+Tarifa... Tarifa, Wrocław here, Roger! How to work effectively being remote
+Ewelina Wyspiańska @ Maciej Trojniarz
+
+#marker-0046
+The Bad Big Wolf Meets Riding Hood Little Red
+Borislav Stanimirov
+
+#marker-0047
+The Hitchhiker's Guide to Faster Builds - Part 1 of 2
+Viktor Kirilov
+
+#marker-0048
+The Hitchhiker's Guide to Faster Builds - Part 2 of 2
+Viktor Kirilov
+
+#marker-0049
+The Lifecycle of an A/B Test
+Serhiy Kostyshyn
+
+#marker-0050
+There is a Better Future
+Felix Petriconi
+
+#marker-0051
+Things not to do in Python
+Oleksii Pilkevych
+
+#marker-0052
+Time brings all things to pass
+Kamil Witecki
+
+#marker-0053
+Virtual assembly for web application
+Sambath Logakrishnan
+
+#marker-0054
+Virtual assistants - our journey from extensive documentation and various of tools to smart chatbots
+Michał Pomykała
+
+#marker-0055
+What are FPGAs and How Do They Work
+Ulrich Drepper
+
+#marker-0056
+What I Talk About When I Talk About Cross Platform Development
+Adi Shavit
+
+#marker-0057
+What I Wish They Told Me - Part 1 of 2
+Odin Holmes
+
+#marker-0058
+What I Wish They Told Me - Part 2 of 2
+Odin Holmes
+
+#marker-0059
+When you hit "Error: memory is not aligned."
+Mateusz Nowak
+
+#marker-0060
+Why algebraic data types are important
+Bartosz Milewski

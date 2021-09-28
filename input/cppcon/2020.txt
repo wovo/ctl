@@ -1,0 +1,630 @@
+#locked
+
+$add meeting cppcon
+$add edition 2020
+$add language english
+$add tags conference online c++
+
+ 
+09:00 MDT
+#cppcon-2020-0001
+More Concurrent Thinking in C++: Beyond the Basics
+Anthony Williams
+#cppcon-2020-0002
+Accelerated TDD: For More Productive C++
+Phil Nash
+#cppcon-2020-0003
+Advanced and Modern C++ Programming: The Tricky Parts
+Nicolai Josuttis
+#cppcon-2020-0004
+Managing Memory
+Patrice Roy
+#cppcon-2020-0005
+Modern C++ Design Patterns
+Klaus Iglberger
+#cppcon-2020-0006
+Modern C++: When Efficiency Matters
+Andreas Fertig
+#cppcon-2020-0007
+System Architecture and Design Using Modern C++
+Charley Bay
+
+ 
+Thursday, September 10
+ 
+09:00 MDT
+More Concurrent Thinking in C++: Beyond the Basics
+Anthony Williams
+Accelerated TDD: For More Productive C++
+Phil Nash
+Advanced and Modern C++ Programming: The Tricky Parts
+Nicolai Josuttis
+Managing Memory
+Patrice Roy
+Modern C++ Design Patterns
+Klaus Iglberger
+Modern C++: When Efficiency Matters
+Andreas Fertig
+System Architecture and Design Using Modern C++
+Charley Bay
+
+ 
+Friday, September 11
+ 
+09:00 MDT
+More Concurrent Thinking in C++: Beyond the Basics
+Anthony Williams
+Accelerated TDD: For More Productive C++
+Phil Nash
+Advanced and Modern C++ Programming: The Tricky Parts
+Nicolai Josuttis
+Managing Memory
+Patrice Roy
+Modern C++ Design Patterns
+Klaus Iglberger
+Modern C++: When Efficiency Matters
+Andreas Fertig
+System Architecture and Design Using Modern C++
+Charley Bay
+
+ 
+Sunday, September 13
+ 
+09:00 MDT
+Open House
+
+12:00 MDT
+Welcome Reception
+
+ 
+Monday, September 14
+ 
+08:45 MDT
+#cppcon-2020-0008
+The Beauty and Power of "Primitive" C++
+Bjarne Stroustrup
+[Overflow] The Beauty and Power of "Primitive" C++
+Bjarne Stroustrup
+
+10:30 MDT
+#cppcon-2020-0009
+Back to Basics: The Abstract Machine
+Bob Steagall
+#cppcon-2020-0010
+A New Decade of Visual Studio: C++20, Open STL, and More
+Marian Luparu • Sy Brand
+#cppcon-2020-0011
+Breaking Dependencies: The SOLID Principles
+Klaus Iglberger
+#cppcon-2020-0012
+Memory-Mapped Devices as Objects
+Dan Saks
+#cppcon-2020-0013
+Template Metaprogramming: Type Traits (part 1 of 2)
+Jody Hagins
+
+12:00 MDT
+#cppcon-2020-0014
+Back to Basics: The Structure of a Program
+Bob Steagall
+#cppcon-2020-0015
+Collaborative C++ Development with Visual Studio Code
+Julia Reid
+#cppcon-2020-0016
+The Future of C++ Parallel and Concurrency Safety Guidelines
+Michael Wong • Ilya Burylov
+#cppcon-2020-0017
+Calling Functions: A Tutorial
+Klaus Iglberger
+#cppcon-2020-0018
+Template Metaprogramming: Type Traits (part 2 of 2)
+Jody Hagins
+
+13:30 MDT
+#cppcon-2020-0019
+The Hidden Secrets of Move Semantics
+Nicolai Josuttis
+#cppcon-2020-0020
+Making Iterators, Views and Containers Easier to Write with Boost.STLInterfaces
+Zach Laine
+#cppcon-2020-0021
+Back to Basics: Class Layout
+Stephen Dewhurst
+#cppcon-2020-0022
+Just-in-Time Compilation
+JF Bastien
+#cppcon-2020-0023
+Test Driven C++
+Phil Nash
+
+14:30 MDT
+
+AMA: Zach Laine
+Zach Laine
+
+15:00 MDT
+
+AMA: Herb Sutter
+Herb Sutter
+
+ 
+Tuesday, September 15
+ 
+07:30 MDT
+#cppcon-2020-0026
+Committee Fireside Chat
+Herb Sutter • Bryce Adelstein Lelbach • Michael Wong • Bjarne Stroustrup • Inbal Levi • JF Bastien • Hana Dusíková • JC Van Winkel • Tony Van Eerd
+
+09:00 MDT
+#cppcon-2020-0027
+Back to Basics: Pointers and Memory
+Ben Saks
+#cppcon-2020-0028
+Building an Intuition for Composition
+Sy Brand
+#cppcon-2020-0029
+Modern Software Needs Embedded Modern C++ Programming
+Michael Wong
+#cppcon-2020-0030
+A Physical Units Library For the Next C++
+Mateusz Pusz
+#cppcon-2020-0031
+2020: The Year of Sanitizers?
+Victor Ciura
+
+10:00 MDT
+
+AMA: Mateusz Pusz
+Mateusz Pusz
+
+10:05 MDT
+
+BoF: C++ Video Captioning and Translation BoF
+Sen Li
+
+10:30 MDT
+#cppcon-2020-0034
+C++20: An (Almost) Complete Overview
+Marc Gregoire
+
+[Overflow] C++20: An (Almost) Complete Overview
+Marc Gregoire
+
+11:35 MDT
+
+BoF: Pair Programming
+Honey Sukesan
+
+12:00 MDT
+#cppcon-2020-0037
+Back to Basics: Templates (part 1 of 2)
+Andreas Fertig
+#cppcon-2020-0038
+Embedded: Customizing Dynamic Memory Management in C++
+Ben Saks
+#cppcon-2020-0039
+Building a Coroutine based Job System without Standard Library
+Tanki Zhang
+#cppcon-2020-0040
+Closing the Gap between Rust and C++ Using Principles of Static Analysis
+Sunny Chatterjee
+
+13:00 MDT
+
+AMA: Tanki Zhang
+Tanki Zhang
+
+13:05 MDT
+
+BoF: Meson Build System
+Jussi Pakkanen
+
+13:30 MDT
+#cppcon-2020-0043
+Back to Basics: Templates (part 2 of 2)
+Andreas Fertig
+#cppcon-2020-0044
+40 Years Of Evolution from Functions to Coroutines
+Rainer Grimm
+#cppcon-2020-0045
+Dealing with Embedded Limitations
+Ben Saks • Brett Searles • Michael Caisse • Michael Wong • Inbal Levi • Daniel Papke
+#cppcon-2020-0046
+C++20 STL Features: One Year of Development on GitHub
+Stephan T. Lavavej
+
+15:00 MDT
+//#cppcon-2020-0047
+//Lightning Talks
+//Michael Caisse
+
+ 
+Wednesday, September 16
+ 
+07:30 MDT
+
+AMA: Bjarne Stroustrup
+Herb Sutter • Bjarne Stroustrup
+//#cppcon-2020-0049
+//Lightning Talks
+//Michael Caisse
+
+09:00 MDT
+#cppcon-2020-0050
+Back To Basics: Lambda Expressions
+Barbara Geller • Ansel Sermersheim
+#cppcon-2020-0051
+No Touchy! A Case Study of Software Architecture with Immutable Objects
+Borislav Stanimirov
+#cppcon-2020-0052
+Practical Memory Pool Based Allocators For Modern C++
+Misha Shalem
+#cppcon-2020-0053
+Heterogeneous Programming in C++ with SYCL 2020
+Michael Wong • Gordon Brown
+#cppcon-2020-0054
+Dynamic Polymorphism with Metaclasses and Code Injection
+Sy Brand
+#cppcon-2020-0055
+Quickly Testing Qt Desktop Applications with Approval Tests
+Clare Macrae
+
+10:00 MDT
+
+AMA: Gordon Brown and Michael Wong
+Michael Wong • Gordon Brown
+
+AMA: Sy Brand
+Sy Brand
+
+10:30 MDT
+#cppcon-2020-0058
+Performance Matters
+Emery Berger
+[Overflow] Performance Matters
+Emery Berger
+
+12:00 MDT
+#cppcon-2020-0059
+A Relaxed Guide to memory_order_relaxed
+Paul E. McKenney • Hans Boehm
+#cppcon-2020-0060
+Just-in-Time Compilation: The Next Big Thing?
+Ben Deane • Kris Jusiak
+#cppcon-2020-0061
+Exploration of C++20 Meta Programming
+Inbal Levi
+#cppcon-2020-0062
+Cross-Platform Pitfalls and How to Avoid Them
+Erika Sweet
+#cppcon-2020-0063
+Back to Basics: Unit Tests
+Ben Saks
+
+13:05 MDT
+
+BoF: Build Systems
+Robert Boehne
+
+13:30 MDT
+#cppcon-2020-0065
+Effective Remote C++ Development with Codespaces
+Nick Uhlenhuth
+#cppcon-2020-0066
+C++20 String Formatting Library: An Overview and Use with Custom Types
+Marc Gregoire
+#cppcon-2020-0067
+Back to Basics: Algebraic Data Types
+Arthur O'Dwyer
+#cppcon-2020-0068
+Constructing Generic Algorithms: Principles and Practice
+Ben Deane
+#cppcon-2020-0069
+Get Off My Thread: Techniques for Moving Work to Background Threads
+Anthony Williams
+
+14:10 MDT
+#cppcon-2020-0070
+The Many Shades of reference_wrapper
+Zhihao Yuan
+#cppcon-2020-0071
+Design Patterns for Handling and Reporting Errors in C++ Programs Using Parallel Algorithms and Executors
+Mark Hoemmen
+
+14:40 MDT
+
+AMA: Mark Hoemmen
+Mark Hoemmen
+
+AMA: Zhihao Yuan
+Zhihao Yuan
+
+15:00 MDT
+
+BoF: Game Development
+Nathan Ward
+//#cppcon-2020-0075
+//Lightning Talks
+//Michael Caisse
+
+15:45 MDT
+#cppcon-2020-0076
+ArcGIS Runtime for Qt
+James Ballard
+
+16:30 MDT
+C++ Pub Quiz
+Arthur O'Dwyer
+
+ 
+Thursday, September 17
+ 
+07:30 MDT
+#cppcon-2020-0077
+Community Organizers Panel
+Jon Kalb • Jens Weller • Inbal Levi
+//#cppcon-2020-0078
+//Lightning Talks
+//Michael Caisse
+
+C++ Committee's Library Evolution Working Group
+Ben Craig • Billy Baker • Tom Honermann • Corentin Jabot
+
+08:40 MDT
+#cppcon-2020-0080
+Supercharge your productivity with CLion and just a few easy tricks
+Phil Nash
+
+09:00 MDT
+#cppcon-2020-0081
+Back to Basics: Smart Pointers
+Rainer Grimm
+#cppcon-2020-0082
+Pipes: How Plumbing Can Make Your C++ Code More Expressive
+Jonathan Boccara
+#cppcon-2020-0083
+A Multi-threaded, Transaction-Based Locking Strategy for Containers
+Bob Steagall
+//#cppcon-2020-0084
+What’s in a Name? What’s a Name In?
+Walter E. Brown
+#cppcon-2020-0085
+Modern C++ Safety and Security At 20
+Matthew Butler
+#cppcon-2020-0086
+The Shapes of Multi-Dimensional Arrays
+Vincent Reverdy
+
+10:05 MDT
+
+BoF: Bazel Builds
+Mark Zeren
+
+10:30 MDT
+#cppcon-2020-0088
+Neighborhoods Banding Together: Reasoning Globally about Programs
+Lisa Lippincott
+
+[Overflow] Neighborhoods Banding Together: Reasoning Globally about Programs
+Lisa Lippincott
+
+12:00 MDT
+#cppcon-2020-0090
+C++20 Ranges in Practice
+Tristan Brindle
+#cppcon-2020-0091
+Managarm: A Fully Asynchronous OS Based on Modern C++
+Alexander van der Grinten
+#cppcon-2020-0092
+The Surprising Costs of void() (and Other Not-Quite-Innocuous Evils)
+Patrice Roy
+#cppcon-2020-0093
+Back to Basics: Design Patterns
+Mike Shah
+#cppcon-2020-0094
+Fuzzing Class Interfaces for Generating and Running Tests with libFuzzer
+Barnabas Bagyi
+
+13:30 MDT
+#cppcon-2020-0095
+Back to Basics: Move Semantics
+David Olsen
+#cppcon-2020-0096
+Monoids, Monads, and Applicative Functors: Repeated Software Patterns
+David Sankel
+#cppcon-2020-0097
+Making Games Start Fast: A Story About Concurrency
+Mathieu Ropert
+#cppcon-2020-0098
+OO Considered Harmful
+Phil Nash
+#cppcon-2020-0099
+The Science of Unit Tests
+Dave Steffen
+
+14:45 MDT
+//#cppcon-2020-0100
+//Supercharge your productivity with CLion and just a few easy tricks
+//Phil Nash
+
+15:00 MDT
+//#cppcon-2020-0101
+//Lightning Talks
+//Michael Caisse
+#cppcon-2020-0102
+C++ Committee's Library Evolution Working Group
+Bryce Adelstein Lelbach • Inbal Levi • Nevin Liber • Fabio Fracassi
+
+15:45 MDT
+//#cppcon-2020-0103
+//ArcGIS Runtime for Qt
+//James Ballard
+
+16:00 MDT
+C++ Pub Quiz
+Arthur O'Dwyer
+
+16:15 MDT
+Student Reception
+
+ 
+Friday, September 18
+ 
+07:45 MDT
+//#cppcon-2020-0104
+//ArcGIS Runtime for Qt
+//James Ballard
+
+08:00 MDT
+
+BoF: Functional Programming
+Nathan Ward
+
+BoF: Game Development
+Colleen Finnegan
+
+09:00 MDT
+#cppcon-2020-0107
+Structure and Interpretation of Computer Programs: SICP
+Conor Hoekstra
+#cppcon-2020-0108
+Adventures in SIMD-Thinking (part 1 of 2)
+Bob Steagall
+#cppcon-2020-0109
+Taskflow: A General-purpose Parallel and Heterogeneous Task Programming System Using Modern C++
+Tsung-Wei Huang
+#cppcon-2020-0110
+Retiring the Singleton Pattern: Concrete Suggestions for What to use Instead
+Peter Muldoon
+#cppcon-2020-0111
+Halide: A Language for Fast, Portable Computation on Images and Tensors
+Alex Reinking
+#cppcon-2020-0112
+Back to Basics: Exceptions
+Klaus Iglberger
+
+10:00 MDT
+
+AMA: Klaus Iglberger
+Klaus Iglberger
+
+AMA: Peter Muldoon
+Peter Muldoon
+
+10:30 MDT
+#cppcon-2020-0115
+Adventures in SIMD-Thinking (part 2 of 2)
+Bob Steagall
+#cppcon-2020-0116
+Back to Basics: Concurrency
+Arthur O'Dwyer
+#cppcon-2020-0117
+Not Leaving Performance On The Jump Table
+Eduardo Madrid
+#cppcon-2020-0118
+Lakos’20: The “Dam” Book is Done!
+John Lakos
+#cppcon-2020-0119
+Exceptions Under the Spotlight
+Inbal Levi
+
+12:00 MDT
+#cppcon-2020-0120
+The Networking TS from Scratch: I/O Objects
+Robert Leahy
+#cppcon-2020-0121
+Some Things C++ Does Right
+Patrice Roy
+#cppcon-2020-0122
+How C++20 Changes the Way We Write Code
+Timur Doumler
+#cppcon-2020-0123
+Functional Error and Optional-value Handling with STX
+Basit Ayantunde
+#cppcon-2020-0124
+Introducing Microsoft’s New Open Source Fuzzing Platform
+Michael Walker • Justin Campbell
+
+13:00 MDT
+
+AMA: Patrice Roy
+Patrice Roy
+
+AMA: Timur Doumler
+Timur Doumler
+
+13:30 MDT
+#cppcon-2020-0127
+Empirically Measuring, and Reducing, C++’s Accidental Complexity (“Simplifying C++” #7 of N)
+Herb Sutter
+
+[Overflow] Empirically Measuring, and Reducing, C++’s Accidental Complexity (“Simplifying C++” #7 of N)
+Herb Sutter
+
+15:00 MDT
+
+CppCon 2021 Kick-off Meeting / Feedback Session
+Bob Steagall
+
+ 
+Saturday, September 19
+ 
+08:00 MDT
+CppCon 2021 Kick-off Meeting / Feedback Session
+Bob Steagall
+
+ 
+Monday, September 21
+ 
+09:00 MDT
+#cppcon-2020-0130
+C++ Concepts: Constraining C++ Templates in C++20 and Before
+Mateusz Pusz
+
+//#cppcon-2020-0131
+Portable Parallelism using Modern C++ and Thread Building Blocks
+
+C++17: All You Need to Know
+
+#cppcon-2020-0132
+Classic STL: Algorithms, Containers, Iterators
+Arthur O'Dwyer
+#cppcon-2020-0133
+GPU Programming in Modern C++
+Michael Wong • Gordon Brown
+#cppcon-2020-0134
+Modern C++ Template Common Knowledge
+Stephen Dewhurst
+
+ 
+Tuesday, September 22
+ 
+09:00 MDT
+C++ Concepts: Constraining C++ Templates in C++20 and Before
+Mateusz Pusz
+Portable Parallelism using Modern C++ and Thread Building Blocks
+C++17: All You Need to Know
+Classic STL: Algorithms, Containers, Iterators
+Arthur O'Dwyer
+GPU Programming in Modern C++
+Michael Wong • Gordon Brown
+Modern C++ Template Common Knowledge
+Stephen Dewhurst
+
+ 
+Wednesday, September 23
+ 
+09:00 MDT
+// note: no speaker?
+//#cppcon-2020-0135
+C++17: All You Need to Know
+
+//#cppcon-2020-0136
+//Classic STL: Algorithms, Containers, Iterators
+//Arthur O'Dwyer
+//#cppcon-2020-0137
+//GPU Programming in Modern C++
+//Michael Wong • Gordon Brown
+//#cppcon-2020-0138
+//Modern C++ Template Common Knowledge
+//Stephen Dewhurst

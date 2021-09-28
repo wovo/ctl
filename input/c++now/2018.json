@@ -1,0 +1,1602 @@
+{ "list": [{
+   "duration": 4508,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0002",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 1,
+   "speakers": [
+      "Lisa Lippincott"
+   ],
+   "tags": [
+      "keynote",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/QFIOE1jKv30/0.jpg",
+   "title": " The Shape of a Program",
+   "video": "https://youtube.com/watch?v=QFIOE1jKv30"
+},{
+   "duration": 5126,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0003",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 2,
+   "speakers": [
+      "John Regehr"
+   ],
+   "tags": [
+      "keynote",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/AeEwxtEOgH0/0.jpg",
+   "title": " Closing Keynote: Undefined Behavior and Compiler Optimizations",
+   "video": "https://youtube.com/watch?v=AeEwxtEOgH0"
+},{
+   "duration": 5425,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0004",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 3,
+   "speakers": [
+      "Charley Bay"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/Y2K82EVGxaI/0.jpg",
+   "title": " A Quantum Data Structure For Classical Computers",
+   "video": "https://youtube.com/watch?v=Y2K82EVGxaI"
+},{
+   "duration": 5422,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0005",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 4,
+   "speakers": [
+      "Odin Holmes"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/wWZi_wPyVvs/0.jpg",
+   "title": " C++ Mixins: Customization Through Compile Time Composition",
+   "video": "https://youtube.com/watch?v=wWZi_wPyVvs"
+},{
+   "duration": 5451,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0006",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 5,
+   "speakers": [
+      "CppNow"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/h5oczBeib_M/0.jpg",
+   "title": "Bob Steagall: Fast Conversion From UTF-8 with C++, DFAs, and SSE Intrinsics",
+   "video": "https://youtube.com/watch?v=h5oczBeib_M"
+},{
+   "duration": 5322,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0007",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 6,
+   "speakers": [
+      "CppNow"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/0MdSJsCTRkY/0.jpg",
+   "title": "Arthur O'Dwyer: An Allocator is a Handle to a Heap",
+   "video": "https://youtube.com/watch?v=0MdSJsCTRkY"
+},{
+   "duration": 5555,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0008",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 7,
+   "speakers": [
+      "Z. Laine"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/944GjKxwMBo/0.jpg",
+   "title": " Boost.Text: Fixing std::string, and Adding Unicode to Standard C++ (part 1)",
+   "video": "https://youtube.com/watch?v=944GjKxwMBo"
+},{
+   "duration": 4667,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0009",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 8,
+   "speakers": [
+      "Z. Laine"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/GJ2xMAqCZL8/0.jpg",
+   "title": " Boost.Text: Fixing std::string, and Adding Unicode to Standard C++ (part 2)",
+   "video": "https://youtube.com/watch?v=GJ2xMAqCZL8"
+},{
+   "duration": 5254,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0010",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 9,
+   "speakers": [
+      "Jason Rice"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/UalTAQmP3iE/0.jpg",
+   "title": " Generalized Full Duplex Messaging",
+   "video": "https://youtube.com/watch?v=UalTAQmP3iE"
+},{
+   "duration": 5366,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0011",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 10,
+   "speakers": [
+      "Mateusz Pusz"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/y7PBciQp0B8/0.jpg",
+   "title": " Beyond C++17",
+   "video": "https://youtube.com/watch?v=y7PBciQp0B8"
+},{
+   "duration": 5580,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0012",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 11,
+   "speakers": [
+      "David Sankel"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/FLbXjNrAjbc/0.jpg",
+   "title": " C++17's std::pmr Comes With a Cost",
+   "video": "https://youtube.com/watch?v=FLbXjNrAjbc"
+},{
+   "duration": 5054,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0013",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 12,
+   "speakers": [
+      "Allan Deutsch"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/W3ViIBnTTKA/0.jpg",
+   "title": " Game Engine API Design",
+   "video": "https://youtube.com/watch?v=W3ViIBnTTKA"
+},{
+   "duration": 4243,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0014",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 13,
+   "speakers": [
+      "Bob Steagall"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/bAE0qteS4Rk/0.jpg",
+   "title": " If I Had My 'Druthers: A Proposal for Improving the Containers in C++2x",
+   "video": "https://youtube.com/watch?v=bAE0qteS4Rk"
+},{
+   "duration": 5034,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0015",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 14,
+   "speakers": [
+      "Jonathan Muller"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/kYiEvVEh6Tw/0.jpg",
+   "title": " Rethinking Pointers",
+   "video": "https://youtube.com/watch?v=kYiEvVEh6Tw"
+},{
+   "duration": 5526,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0016",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 15,
+   "speakers": [
+      "Ben Deane"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/2ouxETt75R4/0.jpg",
+   "title": " Easy to Use, Hard to Misuse: Declarative Style in C++",
+   "video": "https://youtube.com/watch?v=2ouxETt75R4"
+},{
+   "duration": 4457,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0017",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 16,
+   "speakers": [
+      "Jens Weller"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/T7RhxjB5sSg/0.jpg",
+   "title": " The Problem with 'Cutting Edge C++'",
+   "video": "https://youtube.com/watch?v=T7RhxjB5sSg"
+},{
+   "duration": 5387,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0018",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 17,
+   "speakers": [
+      "Arthur O'Dwyer"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/MWBfmmg8-Yo/0.jpg",
+   "title": " The Best Type Traits that C++ Doesn't Have",
+   "video": "https://youtube.com/watch?v=MWBfmmg8-Yo"
+},{
+   "duration": 5420,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0019",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 18,
+   "speakers": [
+      "Bob Steagall"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/Uwe2gXNMeG4/0.jpg",
+   "title": " Fancy Pointers for Fun and Profit",
+   "video": "https://youtube.com/watch?v=Uwe2gXNMeG4"
+},{
+   "duration": 5100,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0020",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 19,
+   "speakers": [
+      "Tony Van Eerd"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/mu6XB-WRNxs/0.jpg",
+   "title": " The Continuing Saga of the Lock-free Queue: Part 3 of N",
+   "video": "https://youtube.com/watch?v=mu6XB-WRNxs"
+},{
+   "duration": 4870,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0021",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 20,
+   "speakers": [
+      "Odin Holmes"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/WRTjLPJTcgA/0.jpg",
+   "title": " Boost.TMP: Your DSL for Metaprogramming",
+   "video": "https://youtube.com/watch?v=WRTjLPJTcgA"
+},{
+   "duration": 5104,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0022",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 21,
+   "speakers": [
+      "Bart Janssens",
+      "Keno Fischer"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/hvnxY3NjHQ4/0.jpg",
+   "title": " The Julia Language and C++: The Perfect Marriage?",
+   "video": "https://youtube.com/watch?v=hvnxY3NjHQ4"
+},{
+   "duration": 2535,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0023",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 22,
+   "speakers": [
+      "Peter Bindels"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/T1WjKvLJGxg/0.jpg",
+   "title": " A View to a View",
+   "video": "https://youtube.com/watch?v=T1WjKvLJGxg"
+},{
+   "duration": 4881,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0024",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 23,
+   "speakers": [
+      "Michal Dominiak"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/YiGbMdIMAr4/0.jpg",
+   "title": " From Parsing to sema: Making Sense of Syntax Trees",
+   "video": "https://youtube.com/watch?v=YiGbMdIMAr4"
+},{
+   "duration": 5727,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0025",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 24,
+   "speakers": [
+      "Mark Zeren"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/HMB9oXFobJc/0.jpg",
+   "title": " -Os Matters",
+   "video": "https://youtube.com/watch?v=HMB9oXFobJc"
+},{
+   "duration": 2919,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0026",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 25,
+   "speakers": [
+      "Marshall Clow"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/LlLJRHToyUk/0.jpg",
+   "title": " Making Your Library More Reliable with Fuzzing",
+   "video": "https://youtube.com/watch?v=LlLJRHToyUk"
+},{
+   "duration": 5742,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0027",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 26,
+   "speakers": [
+      "Gasper Azman"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/yB4E-SzQPdI/0.jpg",
+   "title": " My Little *this Deduction: Friendship is ... Uniform?",
+   "video": "https://youtube.com/watch?v=yB4E-SzQPdI"
+},{
+   "duration": 5440,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0028",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 27,
+   "speakers": [
+      "Michael Caisse"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/c9Xt6Me3mJ4/0.jpg",
+   "title": " Modern C++ in Embedded Systems",
+   "video": "https://youtube.com/watch?v=c9Xt6Me3mJ4"
+},{
+   "duration": 5854,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0029",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 28,
+   "speakers": [
+      "JeanHeyd Meneide"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/0Lwy4_sKeJM/0.jpg",
+   "title": " Compile Fast, Run Faster, Scale Forever: A Look into the sol2 Lua Library",
+   "video": "https://youtube.com/watch?v=0Lwy4_sKeJM"
+},{
+   "duration": 5507,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0030",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 29,
+   "speakers": [
+      "Jean-Louis Leroy"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/rm82LBpyXjM/0.jpg",
+   "title": " yomm2: Fast, Orthogonal, Open Methods in a Library",
+   "video": "https://youtube.com/watch?v=rm82LBpyXjM"
+},{
+   "duration": 5488,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0031",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 30,
+   "speakers": [
+      "Michael Spencer"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/C4gpj-MDstY/0.jpg",
+   "title": " How Compilers Reason About Exceptions",
+   "video": "https://youtube.com/watch?v=C4gpj-MDstY"
+},{
+   "duration": 5497,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0032",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 31,
+   "speakers": [
+      "Jason Turner"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/sSlmmZMFsXQ/0.jpg",
+   "title": " Initializer Lists Are Broken, Let's Fix Them",
+   "video": "https://youtube.com/watch?v=sSlmmZMFsXQ"
+},{
+   "duration": 5952,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0033",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 32,
+   "speakers": [
+      "Matt Calabrese"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/pKVCB_Bzalk/0.jpg",
+   "title": " Argot: Simplifying Variants, Tuples, and Futures",
+   "video": "https://youtube.com/watch?v=pKVCB_Bzalk"
+},{
+   "duration": 5138,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0034",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 33,
+   "speakers": [
+      "John Lakos"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/EglLjioQ9x0/0.jpg",
+   "title": " C++ Modules & Large-Scale Development",
+   "video": "https://youtube.com/watch?v=EglLjioQ9x0"
+},{
+   "duration": 6091,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0035",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 34,
+   "speakers": [
+      "Louis Dionne"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/OtU51Ytfe04/0.jpg",
+   "title": " Runtime Polymorphism: Back to the Basics",
+   "video": "https://youtube.com/watch?v=OtU51Ytfe04"
+},{
+   "duration": 2415,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0036",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 35,
+   "speakers": [
+      "Anastasia Kazakova"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/8-tmVEong2k/0.jpg",
+   "title": " Debug C++ Without Running",
+   "video": "https://youtube.com/watch?v=8-tmVEong2k"
+},{
+   "duration": 5245,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0037",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 36,
+   "speakers": [
+      "Matthew Butler"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/oW3rRfjWwUE/0.jpg",
+   "title": " Secure Coding Best Practices",
+   "video": "https://youtube.com/watch?v=oW3rRfjWwUE"
+},{
+   "duration": 5606,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0038",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 37,
+   "speakers": [
+      "Rong Lu"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/-erXR6k9TeE/0.jpg",
+   "title": " C++ Development with Visual Studio Code",
+   "video": "https://youtube.com/watch?v=-erXR6k9TeE"
+},{
+   "duration": 5425,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0039",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 38,
+   "speakers": [
+      "Roman Siromakha"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/-1zbaxuUsMA/0.jpg",
+   "title": " Design And Implementation Of DBMS Asynchronous Client Library",
+   "video": "https://youtube.com/watch?v=-1zbaxuUsMA"
+},{
+   "duration": 5532,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0040",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 39,
+   "speakers": [
+      "Phil Nash"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/OsRty0KNDZ0/0.jpg",
+   "title": " Option(al) Is Not a Failure",
+   "video": "https://youtube.com/watch?v=OsRty0KNDZ0"
+},{
+   "duration": 5514,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0041",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 40,
+   "speakers": [
+      "Titus Winters"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/2UmDvg5xv1U/0.jpg",
+   "title": " Modern C++ API Design: From Rvalue-References to Type Design",
+   "video": "https://youtube.com/watch?v=2UmDvg5xv1U"
+},{
+   "duration": 2599,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0042",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 41,
+   "speakers": [
+      "Eberhard Grather"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/fnIFVYFspfc/0.jpg",
+   "title": " The Untapped Potential of Software Visualization",
+   "video": "https://youtube.com/watch?v=fnIFVYFspfc"
+},{
+   "duration": 2917,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0043",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 42,
+   "speakers": [
+      "Mateusz Pusz"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/6sWec7b0JIc/0.jpg",
+   "title": " Git, CMake, Conan: How to Ship and Reuse our C++ Projects",
+   "video": "https://youtube.com/watch?v=6sWec7b0JIc"
+},{
+   "duration": 2759,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0044",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 43,
+   "speakers": [
+      "Tobias Loew"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/9jGPe1S17R0/0.jpg",
+   "title": " Fortransformers: A Field Study",
+   "video": "https://youtube.com/watch?v=9jGPe1S17R0"
+},{
+   "duration": 2738,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0045",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 44,
+   "speakers": [
+      "Jason Rice"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/lmIc0MgWBEI/0.jpg",
+   "title": " Docker Based C++ Dependency and Build Management",
+   "video": "https://youtube.com/watch?v=lmIc0MgWBEI"
+},{
+   "duration": 3452,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0046",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 45,
+   "speakers": [
+      "Jonathan Boccara"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/ZJA3-h7Ct_Y/0.jpg",
+   "title": " Smart Output Iterators",
+   "video": "https://youtube.com/watch?v=ZJA3-h7Ct_Y"
+},{
+   "duration": 5909,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0047",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 46,
+   "speakers": [
+      "Vittorio Romeo"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/Avvhs3PLP7o/0.jpg",
+   "title": " Futures Without Type Erasure",
+   "video": "https://youtube.com/watch?v=Avvhs3PLP7o"
+},{
+   "duration": 5403,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0048",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 47,
+   "speakers": [
+      "Matt Godbolt"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/nAbCKa0FzjQ/0.jpg",
+   "title": " What Else Has My Compiler Done For Me Lately?",
+   "video": "https://youtube.com/watch?v=nAbCKa0FzjQ"
+},{
+   "duration": 5336,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0049",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 48,
+   "speakers": [
+      "Alan Talbot"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/J9yVA341zrw/0.jpg",
+   "title": " Moving Faster: Everyday Efficiency in Modern C++",
+   "video": "https://youtube.com/watch?v=J9yVA341zrw"
+},{
+   "duration": 4736,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0050",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 49,
+   "speakers": [
+      "Tony Wasserka"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/1qGksJWsfow/0.jpg",
+   "title": " Generative Programming in Action: Emulating the 3DS",
+   "video": "https://youtube.com/watch?v=1qGksJWsfow"
+},{
+   "duration": 5453,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0051",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 50,
+   "speakers": [
+      "Malte Skarupke"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/M2fKMP47slQ/0.jpg",
+   "title": " You Can Do Better than std::unordered_map: New Improvements to Hash Table Performance",
+   "video": "https://youtube.com/watch?v=M2fKMP47slQ"
+},{
+   "duration": 4672,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0052",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 51,
+   "speakers": [
+      "Tony Van Eerd"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/GgnKycitKyc/0.jpg",
+   "title": " Words of Wisdom",
+   "video": "https://youtube.com/watch?v=GgnKycitKyc"
+},{
+   "duration": 3660,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0053",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 52,
+   "speakers": [
+      "Closing Panel"
+   ],
+   "tags": [
+      "panel",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/McpMfeEJf2w/0.jpg",
+   "title": " What Belongs in the C++ Standard Library",
+   "video": "https://youtube.com/watch?v=McpMfeEJf2w"
+},{
+   "duration": 330,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0054",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 53,
+   "speakers": [
+      "Serj Biolkhatniuk"
+   ],
+   "tags": [
+      "lightning",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/6uon_MtpcwE/0.jpg",
+   "title": " nothing",
+   "video": "https://youtube.com/watch?v=6uon_MtpcwE"
+},{
+   "duration": 302,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0055",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 54,
+   "speakers": [
+      "Louis Dionne"
+   ],
+   "tags": [
+      "lightning",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/yTb6xz_FSkY/0.jpg",
+   "title": " The Object Upside Down'",
+   "video": "https://youtube.com/watch?v=yTb6xz_FSkY"
+},{
+   "duration": 321,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0056",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 55,
+   "speakers": [
+      "Griffin Downs"
+   ],
+   "tags": [
+      "lightning",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/cj3dL_ngCBk/0.jpg",
+   "title": " C++ Reflection via Clang LibTooling",
+   "video": "https://youtube.com/watch?v=cj3dL_ngCBk"
+},{
+   "duration": 158,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0057",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 56,
+   "speakers": [
+      "JeanHeyd Meneide"
+   ],
+   "tags": [
+      "lightning",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/EG5v7CSmO3s/0.jpg",
+   "title": " Poetry -",
+   "video": "https://youtube.com/watch?v=EG5v7CSmO3s"
+},{
+   "duration": 249,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0058",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 57,
+   "speakers": [
+      "Anastasia Kazakova"
+   ],
+   "tags": [
+      "lightning",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/0R-WJ3-2W2M/0.jpg",
+   "title": " Talk to me! The art of reporting a bug",
+   "video": "https://youtube.com/watch?v=0R-WJ3-2W2M"
+},{
+   "duration": 240,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0059",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 58,
+   "speakers": [
+      "Bryce Adelstein Lelbach"
+   ],
+   "tags": [
+      "lightning",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/lrG0C1Ugdz4/0.jpg",
+   "title": " C++ Execution Model In Five Minutes",
+   "video": "https://youtube.com/watch?v=lrG0C1Ugdz4"
+},{
+   "duration": 280,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0060",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 59,
+   "speakers": [
+      "Tobias Loew"
+   ],
+   "tags": [
+      "lightning",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/YBqYHtf9Sw0/0.jpg",
+   "title": " ForTransformers vs deCeePeePeeticons",
+   "video": "https://youtube.com/watch?v=YBqYHtf9Sw0"
+},{
+   "duration": 262,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0061",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 60,
+   "speakers": [
+      "Jonathan Muller"
+   ],
+   "tags": [
+      "lightning",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/_27NHB1OlNI/0.jpg",
+   "title": " A Fool's Consistency",
+   "video": "https://youtube.com/watch?v=_27NHB1OlNI"
+},{
+   "duration": 278,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0062",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 61,
+   "speakers": [
+      "Phil Nash"
+   ],
+   "tags": [
+      "lightning",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/Ci4xOvOvAWo/0.jpg",
+   "title": " We have always been at war with West Constia",
+   "video": "https://youtube.com/watch?v=Ci4xOvOvAWo"
+},{
+   "duration": 3790,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0063",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 62,
+   "speakers": [
+      "Arthur O'Dwyer"
+   ],
+   "tags": [
+      "lightning",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/IejdKidUwIg/0.jpg",
+   "title": " An allocator is a handle to a heap",
+   "video": "https://youtube.com/watch?v=IejdKidUwIg"
+},{
+   "duration": 163,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0064",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 63,
+   "speakers": [
+      "Richard Powell"
+   ],
+   "tags": [
+      "lightning",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/J--cJlhYEAI/0.jpg",
+   "title": " C++ Potpourri 2",
+   "video": "https://youtube.com/watch?v=J--cJlhYEAI"
+},{
+   "duration": 273,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0065",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 64,
+   "speakers": [
+      "Philip Salvaggio"
+   ],
+   "tags": [
+      "lightning",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/OLP6HWpBkXM/0.jpg",
+   "title": " Workflow Modeling with Boost Graph Library",
+   "video": "https://youtube.com/watch?v=OLP6HWpBkXM"
+},{
+   "duration": 294,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0066",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 65,
+   "speakers": [
+      "Alan Talbot"
+   ],
+   "tags": [
+      "lightning",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/4s3E8yVtSXE/0.jpg",
+   "title": " Loop Exit Blocks: A proposal for C++20",
+   "video": "https://youtube.com/watch?v=4s3E8yVtSXE"
+},{
+   "duration": 258,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0067",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 66,
+   "speakers": [
+      "Leor Zolman"
+   ],
+   "tags": [
+      "lightning",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/_1kXvS_A3hc/0.jpg",
+   "title": " Puzzler",
+   "video": "https://youtube.com/watch?v=_1kXvS_A3hc"
+},{
+   "duration": 329,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0068",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 67,
+   "speakers": [
+      "Jon Kalb"
+   ],
+   "tags": [
+      "lightning",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/fovPSk8ixK4/0.jpg",
+   "title": " This is Why We Can't Have Nice Things'",
+   "video": "https://youtube.com/watch?v=fovPSk8ixK4"
+},{
+   "duration": 304,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0069",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 68,
+   "speakers": [
+      "Agustin Berge"
+   ],
+   "tags": [
+      "lightning",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/40HTly0lt4s/0.jpg",
+   "title": " SFINAE: Substitution Failure Is Not An Error",
+   "video": "https://youtube.com/watch?v=40HTly0lt4s"
+},{
+   "duration": 312,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0070",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 69,
+   "speakers": [
+      "Ben Deane"
+   ],
+   "tags": [
+      "lightning",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/lheIZOdAYD4/0.jpg",
+   "title": " Easing into Modern C++",
+   "video": "https://youtube.com/watch?v=lheIZOdAYD4"
+},{
+   "duration": 234,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0071",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 70,
+   "speakers": [
+      "Daniel Dilts"
+   ],
+   "tags": [
+      "lightning",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/0hy3DhE5pIo/0.jpg",
+   "title": " Avoiding Virtual Call in CRTP",
+   "video": "https://youtube.com/watch?v=0hy3DhE5pIo"
+},{
+   "duration": 345,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0072",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 71,
+   "speakers": [
+      "Odin Holmes"
+   ],
+   "tags": [
+      "lightning",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/RMvazscApWw/0.jpg",
+   "title": " Lightning Talk",
+   "video": "https://youtube.com/watch?v=RMvazscApWw"
+},{
+   "duration": 292,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0073",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 72,
+   "speakers": [
+      "Jon Kalb"
+   ],
+   "tags": [
+      "lightning",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/fSB57PiXpRw/0.jpg",
+   "title": " Copy Elision",
+   "video": "https://youtube.com/watch?v=fSB57PiXpRw"
+},{
+   "duration": 344,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0074",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 73,
+   "speakers": [
+      "Jean-Louis Leroy"
+   ],
+   "tags": [
+      "lightning",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/bT11fx2BpEc/0.jpg",
+   "title": " Code Generation: The Lisp Way",
+   "video": "https://youtube.com/watch?v=bT11fx2BpEc"
+},{
+   "duration": 358,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0075",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 74,
+   "speakers": [
+      "JeanHeyd Meneide"
+   ],
+   "tags": [
+      "lightning",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/Vl8OK1hDYUg/0.jpg",
+   "title": " Where Should I Be?",
+   "video": "https://youtube.com/watch?v=Vl8OK1hDYUg"
+},{
+   "duration": 258,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0076",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 75,
+   "speakers": [
+      "Leor Zolman"
+   ],
+   "tags": [
+      "lightning",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/_1kXvS_A3hc/0.jpg",
+   "title": " C++ Puzzler",
+   "video": "https://youtube.com/watch?v=_1kXvS_A3hc"
+},{
+   "duration": 315,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0077",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 76,
+   "speakers": [
+      "Bradley Kuhn"
+   ],
+   "tags": [
+      "lightning",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/CBl4UsbUjNU/0.jpg",
+   "title": " 11 Years of Boost at Conservancy",
+   "video": "https://youtube.com/watch?v=CBl4UsbUjNU"
+},{
+   "duration": 300,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0078",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 77,
+   "speakers": [
+      "Jonathan Muller"
+   ],
+   "tags": [
+      "lightning",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/kyK1lTwADYg/0.jpg",
+   "title": " Placement New",
+   "video": "https://youtube.com/watch?v=kyK1lTwADYg"
+},{
+   "duration": 254,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0079",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 78,
+   "speakers": [
+      "Wissam Mehio"
+   ],
+   "tags": [
+      "lightning",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/pknpnYA9pI0/0.jpg",
+   "title": " Enums four ways",
+   "video": "https://youtube.com/watch?v=pknpnYA9pI0"
+},{
+   "duration": 339,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0080",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 79,
+   "speakers": [
+      "Jeff Trull"
+   ],
+   "tags": [
+      "lightning",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/mLPp1x_1h3g/0.jpg",
+   "title": " Improving Debuggability with GDB's Python API",
+   "video": "https://youtube.com/watch?v=mLPp1x_1h3g"
+},{
+   "duration": 320,
+   "edition": "2018",
+   "identifier": "#c++now-2018-0081",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 80,
+   "speakers": [
+      "Marcel Ebmer"
+   ],
+   "tags": [
+      "lightning",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/aghnpqkvdCg/0.jpg",
+   "title": " for_each_adjacent<N>",
+   "video": "https://youtube.com/watch?v=aghnpqkvdCg"
+}]}

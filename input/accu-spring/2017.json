@@ -1,0 +1,1392 @@
+{ "list": [{
+   "duration": 1226,
+   "edition": "2017",
+   "identifier": "#accu-2017-0001",
+   "language": "english",
+   "level": 0,
+   "meeting": "accu",
+   "number": 1,
+   "speakers": [
+      "Nicolai Josuttis"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/e2ZQyYr0Oi0/0.jpg",
+   "title": "Moving to C++17: The New Language and Library Features",
+   "video": "https://youtube.com/watch?v=e2ZQyYr0Oi0"
+},{
+   "duration": 5292,
+   "edition": "2017",
+   "identifier": "#accu-2017-0002",
+   "language": "english",
+   "level": 0,
+   "meeting": "accu",
+   "number": 2,
+   "speakers": [
+      "Felix Petriconi"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/L63XGqiNuhI/0.jpg",
+   "title": "The Art of Writing Reasonable Concurrent Code#accu-2017-0056",
+   "video": "https://youtube.com/watch?v=L63XGqiNuhI"
+},{
+   "duration": 882,
+   "edition": "2017",
+   "identifier": "#accu-2017-0003",
+   "language": "english",
+   "level": 0,
+   "meeting": "accu",
+   "number": 3,
+   "speakers": [
+      "Jon Jagger",
+      "Seb Rose"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/l95DsKm5fbY/0.jpg",
+   "title": "Testable architecture",
+   "video": "https://youtube.com/watch?v=l95DsKm5fbY"
+},{
+   "duration": 3234,
+   "edition": "2017",
+   "identifier": "#accu-2017-0004",
+   "language": "english",
+   "level": 0,
+   "meeting": "accu",
+   "number": 4,
+   "speakers": [
+      "Brad Chamberlain"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/4HfeuJAJKmM/0.jpg",
+   "title": "A Programmer's Introduction to Chapel",
+   "video": "https://youtube.com/watch?v=4HfeuJAJKmM"
+},{
+   "duration": 2203,
+   "edition": "2017",
+   "identifier": "#accu-2017-0005",
+   "language": "english",
+   "level": 0,
+   "meeting": "accu",
+   "number": 5,
+   "speakers": [
+      "Russ Miles"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/mFO7vALe9bg/0.jpg",
+   "title": "To hell and back: One guitarist's journey through modern software development",
+   "video": "https://youtube.com/watch?v=mFO7vALe9bg"
+},{
+   "duration": 3427,
+   "edition": "2017",
+   "identifier": "#accu-2017-0006",
+   "language": "english",
+   "level": 0,
+   "meeting": "accu",
+   "number": 6,
+   "speakers": [
+      "Dietmar Kuhl"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/Ve8cHE9LNfk/0.jpg",
+   "title": "Parallel Algorithms",
+   "video": "https://youtube.com/watch?v=Ve8cHE9LNfk"
+},{
+   "duration": 5494,
+   "edition": "2017",
+   "identifier": "#accu-2017-0007",
+   "language": "english",
+   "level": 0,
+   "meeting": "accu",
+   "number": 7,
+   "speakers": [
+      "Timur Doumler"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/qdrp6k4rcP4/0.jpg",
+   "title": "Lock-free programming with modern C++",
+   "video": "https://youtube.com/watch?v=qdrp6k4rcP4"
+},{
+   "duration": 3436,
+   "edition": "2017",
+   "identifier": "#accu-2017-0008",
+   "language": "english",
+   "level": 0,
+   "meeting": "accu",
+   "number": 8,
+   "speakers": [
+      "Nicolai Josuttis"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/PNRju6_yn3o/0.jpg",
+   "title": "The nightmare of Move Semantics for Simple Classes",
+   "video": "https://youtube.com/watch?v=PNRju6_yn3o"
+},{
+   "duration": 4223,
+   "edition": "2017",
+   "identifier": "#accu-2017-0009",
+   "language": "english",
+   "level": 0,
+   "meeting": "accu",
+   "number": 9,
+   "speakers": [
+      "Chris Oldwood"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/C4Se7DeIY48/0.jpg",
+   "title": "A Test of Strength",
+   "video": "https://youtube.com/watch?v=C4Se7DeIY48"
+},{
+   "duration": 2870,
+   "edition": "2017",
+   "identifier": "#accu-2017-0010",
+   "language": "english",
+   "level": 0,
+   "meeting": "accu",
+   "number": 10,
+   "speakers": [
+      "Peter Smith"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/a5L66zguFe4/0.jpg",
+   "title": "The link from object to executable - the role of linker in a development toolchain",
+   "video": "https://youtube.com/watch?v=a5L66zguFe4"
+},{
+   "duration": 3156,
+   "edition": "2017",
+   "identifier": "#accu-2017-0011",
+   "language": "english",
+   "level": 0,
+   "meeting": "accu",
+   "number": 11,
+   "speakers": [
+      "Marshall Clow"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/o1ekBpEFcPc/0.jpg",
+   "title": "The Detection Idiom - a simpler way to SFINAE",
+   "video": "https://youtube.com/watch?v=o1ekBpEFcPc"
+},{
+   "duration": 5260,
+   "edition": "2017",
+   "identifier": "#accu-2017-0012",
+   "language": "english",
+   "level": 0,
+   "meeting": "accu",
+   "number": 12,
+   "speakers": [
+      "Frank Birbacher"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/A_vAG6LIHwQ/0.jpg",
+   "title": "Atomic's memory orders, what for?",
+   "video": "https://youtube.com/watch?v=A_vAG6LIHwQ"
+},{
+   "duration": 5109,
+   "edition": "2017",
+   "identifier": "#accu-2017-0013",
+   "language": "english",
+   "level": 0,
+   "meeting": "accu",
+   "number": 13,
+   "speakers": [
+      "Roger Orr"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/RI7VL-g6J7g/0.jpg",
+   "title": "Bluff your way in x64 assembler",
+   "video": "https://youtube.com/watch?v=RI7VL-g6J7g"
+},{
+   "duration": 5679,
+   "edition": "2017",
+   "identifier": "#accu-2017-0014",
+   "language": "english",
+   "level": 0,
+   "meeting": "accu",
+   "number": 14,
+   "speakers": [
+      "Kevlin Henney"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/UJrmee7o68A/0.jpg",
+   "title": "Thinking Outside the Synchronisation Quadrant",
+   "video": "https://youtube.com/watch?v=UJrmee7o68A"
+},{
+   "duration": 809,
+   "edition": "2017",
+   "identifier": "#accu-2017-0015",
+   "language": "english",
+   "level": 0,
+   "meeting": "accu",
+   "number": 15,
+   "speakers": [
+      "Alan Griffiths"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/9AThycGCakk/0.jpg",
+   "title": "The MirAL Story",
+   "video": "https://youtube.com/watch?v=9AThycGCakk"
+},{
+   "duration": 3255,
+   "edition": "2017",
+   "identifier": "#accu-2017-0016",
+   "language": "english",
+   "level": 0,
+   "meeting": "accu",
+   "number": 16,
+   "speakers": [
+      "Anastasia Kazakova"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/4giOynD7Emg/0.jpg",
+   "title": "A look at C++ through the glasses of a language tool",
+   "video": "https://youtube.com/watch?v=4giOynD7Emg"
+},{
+   "duration": 5637,
+   "edition": "2017",
+   "identifier": "#accu-2017-0017",
+   "language": "english",
+   "level": 0,
+   "meeting": "accu",
+   "number": 17,
+   "speakers": [
+      "Louis Dionne"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/Oc4enqNH-Mc/0.jpg",
+   "title": "Metaprogramming in C++14",
+   "video": "https://youtube.com/watch?v=Oc4enqNH-Mc"
+},{
+   "duration": 296,
+   "edition": "2017",
+   "identifier": "#accu-2017-0018",
+   "language": "english",
+   "level": 0,
+   "meeting": "accu",
+   "number": 18,
+   "speakers": [
+      "Neil Horlock"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/O6EUO9PO540/0.jpg",
+   "title": "Time gentlemen please",
+   "video": "https://youtube.com/watch?v=O6EUO9PO540"
+},{
+   "duration": 4384,
+   "edition": "2017",
+   "identifier": "#accu-2017-0019",
+   "language": "english",
+   "level": 0,
+   "meeting": "accu",
+   "number": 19,
+   "speakers": [
+      "Andy Balaam"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/82-XjMzKaC8/0.jpg",
+   "title": "How to write a programming language",
+   "video": "https://youtube.com/watch?v=82-XjMzKaC8"
+},{
+   "duration": 6746,
+   "edition": "2017",
+   "identifier": "#accu-2017-0020",
+   "language": "english",
+   "level": 0,
+   "meeting": "accu",
+   "number": 20,
+   "speakers": [
+      "Jon Jagger",
+      "Robert Chatley"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/QXf0zQeqc3k/0.jpg",
+   "title": "C++ Countdown Pub Quiz",
+   "video": "https://youtube.com/watch?v=QXf0zQeqc3k"
+},{
+   "duration": 3234,
+   "edition": "2017",
+   "identifier": "#accu-2017-0021",
+   "language": "english",
+   "level": 0,
+   "meeting": "accu",
+   "number": 21,
+   "speakers": [
+      "Brad Chamberlain"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/4HfeuJAJKmM/0.jpg",
+   "title": "The Audacity of Chapel: Scalable Parallel Programming Done Right",
+   "video": "https://youtube.com/watch?v=4HfeuJAJKmM"
+},{
+   "duration": 5116,
+   "edition": "2017",
+   "identifier": "#accu-2017-0022",
+   "language": "english",
+   "level": 0,
+   "meeting": "accu",
+   "number": 22,
+   "speakers": [
+      "Guy Davidson"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/2RsLObr_Q2c/0.jpg",
+   "title": "Writing games in very modern C++",
+   "video": "https://youtube.com/watch?v=2RsLObr_Q2c"
+},{
+   "duration": 6083,
+   "edition": "2017",
+   "identifier": "#accu-2017-0023",
+   "language": "english",
+   "level": 0,
+   "meeting": "accu",
+   "number": 23,
+   "speakers": [
+      "John Lakos"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/d1DpVR0tw0U/0.jpg",
+   "title": "Local (arena) Memory Allocators",
+   "video": "https://youtube.com/watch?v=d1DpVR0tw0U"
+},{
+   "duration": 3383,
+   "edition": "2017",
+   "identifier": "#accu-2017-0024",
+   "language": "english",
+   "level": 0,
+   "meeting": "accu",
+   "number": 24,
+   "speakers": [
+      "Peter Hilton"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/o25QpI0NDIg/0.jpg",
+   "title": "Documentation for software developers",
+   "video": "https://youtube.com/watch?v=o25QpI0NDIg"
+},{
+   "duration": 5307,
+   "edition": "2017",
+   "identifier": "#accu-2017-0025",
+   "language": "english",
+   "level": 0,
+   "meeting": "accu",
+   "number": 25,
+   "speakers": [
+      "Austin Bingham"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/u3lUh1x72ao/0.jpg",
+   "title": "Functional Programming for the Web with Elm",
+   "video": "https://youtube.com/watch?v=u3lUh1x72ao"
+},{
+   "duration": 5239,
+   "edition": "2017",
+   "identifier": "#accu-2017-0026",
+   "language": "english",
+   "level": 0,
+   "meeting": "accu",
+   "number": 26,
+   "speakers": [
+      "Greg Law"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/713ay4bZUrw/0.jpg",
+   "title": "The Programmer CEO, and how to do a software startup",
+   "video": "https://youtube.com/watch?v=713ay4bZUrw"
+},{
+   "duration": 5327,
+   "edition": "2017",
+   "identifier": "#accu-2017-0027",
+   "language": "english",
+   "level": 0,
+   "meeting": "accu",
+   "number": 27,
+   "speakers": [
+      "Peter Sommerlad"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/fQ926v4ZzAM/0.jpg",
+   "title": "C++ Core Guidelines - Modernize your C++ Code Base",
+   "video": "https://youtube.com/watch?v=fQ926v4ZzAM"
+},{
+   "duration": 5837,
+   "edition": "2017",
+   "identifier": "#accu-2017-0028",
+   "language": "english",
+   "level": 0,
+   "meeting": "accu",
+   "number": 28,
+   "speakers": [
+      "Mathias Gaunard"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/pEvm5NNc6ko/0.jpg",
+   "title": "An Overview of Program Optimization Techniques",
+   "video": "https://youtube.com/watch?v=pEvm5NNc6ko"
+},{
+   "duration": 5321,
+   "edition": "2017",
+   "identifier": "#accu-2017-0029",
+   "language": "english",
+   "level": 0,
+   "meeting": "accu",
+   "number": 29,
+   "speakers": [
+      "Robert Smallshire"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/tS08IP5ibTs/0.jpg",
+   "title": "Standardised Coroutine Concurrency in Python 3",
+   "video": "https://youtube.com/watch?v=tS08IP5ibTs"
+},{
+   "duration": 5223,
+   "edition": "2017",
+   "identifier": "#accu-2017-0030",
+   "language": "english",
+   "level": 0,
+   "meeting": "accu",
+   "number": 30,
+   "speakers": [
+      "Dmitry Kandalov"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/uZqo21geUa0/0.jpg",
+   "title": "An introduction to Kotlin by example",
+   "video": "https://youtube.com/watch?v=uZqo21geUa0"
+},{
+   "duration": 256,
+   "edition": "2017",
+   "identifier": "#accu-2017-0031",
+   "language": "english",
+   "level": 0,
+   "meeting": "accu",
+   "number": 31,
+   "speakers": [
+      "Sergey Ignatchenko"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/lYkF9eMy71s/0.jpg",
+   "title": "Deterministic Components for Interactive Distributed Systems: Benefits and Implementation",
+   "video": "https://youtube.com/watch?v=lYkF9eMy71s"
+},{
+   "duration": 3666,
+   "edition": "2017",
+   "identifier": "#accu-2017-0032",
+   "language": "english",
+   "level": 0,
+   "meeting": "accu",
+   "number": 32,
+   "speakers": [
+      "Arne Mertz"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/dlh-UnmCARk/0.jpg",
+   "title": "Learning (and teaching) modern C++ - Challenges and Resources",
+   "video": "https://youtube.com/watch?v=dlh-UnmCARk"
+},{
+   "duration": 4204,
+   "edition": "2017",
+   "identifier": "#accu-2017-0033",
+   "language": "english",
+   "level": 0,
+   "meeting": "accu",
+   "number": 33,
+   "speakers": [
+      "Hubert Matthews"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/MCiVdu7gScs/0.jpg",
+   "title": "The C++ Type System Is Your Friend",
+   "video": "https://youtube.com/watch?v=MCiVdu7gScs"
+},{
+   "duration": 84,
+   "edition": "2017",
+   "identifier": "#accu-2017-0034",
+   "language": "english",
+   "level": 0,
+   "meeting": "accu",
+   "number": 34,
+   "speakers": [
+      "Michel Grootjans"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/Q-h--bFYUAU/0.jpg",
+   "title": "Why limiting your work in progress will speed up your project",
+   "video": "https://youtube.com/watch?v=Q-h--bFYUAU"
+},{
+   "duration": 5243,
+   "edition": "2017",
+   "identifier": "#accu-2017-0035",
+   "language": "english",
+   "level": 0,
+   "meeting": "accu",
+   "number": 35,
+   "speakers": [
+      "Jim Hague"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/TwXJ9-dQDsY/0.jpg",
+   "title": "DNS at 30",
+   "video": "https://youtube.com/watch?v=TwXJ9-dQDsY"
+},{
+   "duration": 3780,
+   "edition": "2017",
+   "identifier": "#accu-2017-0036",
+   "language": "english",
+   "level": 0,
+   "meeting": "accu",
+   "number": 36,
+   "speakers": [
+      "Stephen Kelly"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/mn1ZnO3MtVk/0.jpg",
+   "title": "Embracing Modern CMake",
+   "video": "https://youtube.com/watch?v=mn1ZnO3MtVk"
+},{
+   "duration": 3220,
+   "edition": "2017",
+   "identifier": "#accu-2017-0037",
+   "language": "english",
+   "level": 0,
+   "meeting": "accu",
+   "number": 37,
+   "speakers": [
+      "Fran Buontempo"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/t5YuuLMyKpc/0.jpg",
+   "title": "AI: Actual Intelligence",
+   "video": "https://youtube.com/watch?v=t5YuuLMyKpc"
+},{
+   "duration": 1072,
+   "edition": "2017",
+   "identifier": "#accu-2017-0038",
+   "language": "english",
+   "level": 0,
+   "meeting": "accu",
+   "number": 38,
+   "speakers": [
+      "Greg Law"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/jNGjAas532I/0.jpg",
+   "title": "The missing piece of the continuous integration puzzle - what to do with all those test failures?",
+   "video": "https://youtube.com/watch?v=jNGjAas532I"
+},{
+   "duration": 672,
+   "edition": "2017",
+   "identifier": "#accu-2017-0039",
+   "language": "english",
+   "level": 0,
+   "meeting": "accu",
+   "number": 39,
+   "speakers": [
+      "Dirk Haun"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/zYEQEtdkf6M/0.jpg",
+   "title": "Requirement: Creativity",
+   "video": "https://youtube.com/watch?v=zYEQEtdkf6M"
+},{
+   "duration": 854,
+   "edition": "2017",
+   "identifier": "#accu-2017-0040",
+   "language": "english",
+   "level": 0,
+   "meeting": "accu",
+   "number": 40,
+   "speakers": [
+      "Dom Davis"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/Sea1LMCZYt8/0.jpg",
+   "title": "Passwords. Are. Not. Hard!",
+   "video": "https://youtube.com/watch?v=Sea1LMCZYt8"
+},{
+   "duration": 776,
+   "edition": "2017",
+   "identifier": "#accu-2017-0041",
+   "language": "english",
+   "level": 0,
+   "meeting": "accu",
+   "number": 41,
+   "speakers": [
+      "Ahto Truu"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/-tkl8UYVFT4/0.jpg",
+   "title": "Efficient data aggregation with Fenwick trees",
+   "video": "https://youtube.com/watch?v=-tkl8UYVFT4"
+},{
+   "duration": 884,
+   "edition": "2017",
+   "identifier": "#accu-2017-0042",
+   "language": "english",
+   "level": 0,
+   "meeting": "accu",
+   "number": 42,
+   "speakers": [
+      "Christopher Simons",
+      "Pedro Ferreira"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/yAUBhohV9yc/0.jpg",
+   "title": "Machine Learning with Python Case Study",
+   "video": "https://youtube.com/watch?v=yAUBhohV9yc"
+},{
+   "duration": 5253,
+   "edition": "2017",
+   "identifier": "#accu-2017-0043",
+   "language": "english",
+   "level": 0,
+   "meeting": "accu",
+   "number": 43,
+   "speakers": [
+      "Odin Holmes"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/jkjXIh3E9v0/0.jpg",
+   "title": "Named parameters",
+   "video": "https://youtube.com/watch?v=jkjXIh3E9v0"
+},{
+   "duration": 807,
+   "edition": "2017",
+   "identifier": "#accu-2017-0044",
+   "language": "english",
+   "level": 0,
+   "meeting": "accu",
+   "number": 44,
+   "speakers": [
+      "Elliot Goodrich"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/iRILTuGbyEg/0.jpg",
+   "title": "Missing Optimizations on Node-based Containers",
+   "video": "https://youtube.com/watch?v=iRILTuGbyEg"
+},{
+   "duration": 270,
+   "edition": "2017",
+   "identifier": "#accu-2017-0045",
+   "language": "english",
+   "level": 0,
+   "meeting": "accu",
+   "number": 45,
+   "speakers": [
+      "Samathy Barratt"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/IvQEplGe03k/0.jpg",
+   "title": "Introduction to Intel SGX",
+   "video": "https://youtube.com/watch?v=IvQEplGe03k"
+},{
+   "duration": 882,
+   "edition": "2017",
+   "identifier": "#accu-2017-0046",
+   "language": "english",
+   "level": 0,
+   "meeting": "accu",
+   "number": 46,
+   "speakers": [
+      "Seb Rose"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/l95DsKm5fbY/0.jpg",
+   "title": "Intro to TDD and BDD",
+   "video": "https://youtube.com/watch?v=l95DsKm5fbY"
+},{
+   "duration": 890,
+   "edition": "2017",
+   "identifier": "#accu-2017-0047",
+   "language": "english",
+   "level": 0,
+   "meeting": "accu",
+   "number": 47,
+   "speakers": [
+      "Petr Kudriavtsev",
+      "Vladimir Voskresensky"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/HVn5sghEjAA/0.jpg",
+   "title": "LLVM C/C++ compiler frontend in Java",
+   "video": "https://youtube.com/watch?v=HVn5sghEjAA"
+},{
+   "duration": 740,
+   "edition": "2017",
+   "identifier": "#accu-2017-0048",
+   "language": "english",
+   "level": 0,
+   "meeting": "accu",
+   "number": 48,
+   "speakers": [
+      "Sergey Nepomnyachiy"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/0KuKuW-HzzE/0.jpg",
+   "title": "Easy High Constancy",
+   "video": "https://youtube.com/watch?v=0KuKuW-HzzE"
+},{
+   "duration": 1091,
+   "edition": "2017",
+   "identifier": "#accu-2017-0049",
+   "language": "english",
+   "level": 0,
+   "meeting": "accu",
+   "number": 49,
+   "speakers": [
+      "Jon Jagger"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/eR_RENdIIzw/0.jpg",
+   "title": "Design and Evolution of cyber-dojo",
+   "video": "https://youtube.com/watch?v=eR_RENdIIzw"
+},{
+   "duration": 5616,
+   "edition": "2017",
+   "identifier": "#accu-2017-0050",
+   "language": "english",
+   "level": 0,
+   "meeting": "accu",
+   "number": 50,
+   "speakers": [
+      "J Daniel Garcia"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/IBas3S2HtdU/0.jpg",
+   "title": "Contracts programming after C++17",
+   "video": "https://youtube.com/watch?v=IBas3S2HtdU"
+},{
+   "duration": 1218,
+   "edition": "2017",
+   "identifier": "#accu-2017-0051",
+   "language": "english",
+   "level": 0,
+   "meeting": "accu",
+   "number": 51,
+   "speakers": [
+      "Nigel Lester"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/xVk60oZEz7E/0.jpg",
+   "title": "ACCU - The View From The Conference",
+   "video": "https://youtube.com/watch?v=xVk60oZEz7E"
+},{
+   "duration": 2834,
+   "edition": "2017",
+   "identifier": "#accu-2017-0052",
+   "language": "english",
+   "level": 0,
+   "meeting": "accu",
+   "number": 52,
+   "speakers": [
+      "Sergei Sadovnikov"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/aPTyatTI42k/0.jpg",
+   "title": "Automatic C++ source code generation with clang",
+   "video": "https://youtube.com/watch?v=aPTyatTI42k"
+},{
+   "duration": 5107,
+   "edition": "2017",
+   "identifier": "#accu-2017-0053",
+   "language": "english",
+   "level": 0,
+   "meeting": "accu",
+   "number": 53,
+   "speakers": [
+      "Bjorn Fahller"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/HCh6cs9nXt0/0.jpg",
+   "title": "Using Trompeloeil, a mocking framework for modern C++",
+   "video": "https://youtube.com/watch?v=HCh6cs9nXt0"
+},{
+   "duration": 3640,
+   "edition": "2017",
+   "identifier": "#accu-2017-0054",
+   "language": "english",
+   "level": 0,
+   "meeting": "accu",
+   "number": 54,
+   "speakers": [
+      "Charles Bailey"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/lFBW2qBAcaU/0.jpg",
+   "title": "Mastering Git's index",
+   "video": "https://youtube.com/watch?v=lFBW2qBAcaU"
+},{
+   "duration": 5452,
+   "edition": "2017",
+   "identifier": "#accu-2017-0055",
+   "language": "english",
+   "level": 0,
+   "meeting": "accu",
+   "number": 55,
+   "speakers": [
+      "Steven Simpson"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/Z8tbjyZFAVQ/0.jpg",
+   "title": "History of Time: Asynchronous C++",
+   "video": "https://youtube.com/watch?v=Z8tbjyZFAVQ"
+},{
+   "duration": 6893,
+   "edition": "2017",
+   "identifier": "#accu-2017-0056",
+   "language": "english",
+   "level": 0,
+   "meeting": "accu",
+   "number": 56,
+   "speakers": [
+      "Paul Cunnell"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/qOVAbKKSH10/0.jpg",
+   "title": "Introduction to Blockchain technology, and how to build something useful with it",
+   "video": "https://youtube.com/watch?v=qOVAbKKSH10"
+},{
+   "duration": 6632,
+   "edition": "2017",
+   "identifier": "#accu-2017-0057",
+   "language": "english",
+   "level": 0,
+   "meeting": "accu",
+   "number": 57,
+   "speakers": [
+      "Diego Rodriguez-Losada"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/j00-uFBrJu4/0.jpg",
+   "title": "5 years creating FOSS dev tools for C and C++: the untold",
+   "video": "https://youtube.com/watch?v=j00-uFBrJu4"
+},{
+   "duration": 5509,
+   "edition": "2017",
+   "identifier": "#accu-2017-0058",
+   "language": "english",
+   "level": 0,
+   "meeting": "accu",
+   "number": 58,
+   "speakers": [
+      "Dominic Robinson"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/d76cJ_RBGbY/0.jpg",
+   "title": "Coroutines and C++ DSLs for Human Scale Concurrency",
+   "video": "https://youtube.com/watch?v=d76cJ_RBGbY"
+},{
+   "duration": 2803,
+   "edition": "2017",
+   "identifier": "#accu-2017-0059",
+   "language": "english",
+   "level": 0,
+   "meeting": "accu",
+   "number": 59,
+   "speakers": [
+      "Burkhard Kloss"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/jR2AMNdK7Do/0.jpg",
+   "title": "The Ethics of Software - some practical considerations",
+   "video": "https://youtube.com/watch?v=jR2AMNdK7Do"
+},{
+   "duration": 4775,
+   "edition": "2017",
+   "identifier": "#accu-2017-0060",
+   "language": "english",
+   "level": 0,
+   "meeting": "accu",
+   "number": 60,
+   "speakers": [
+      "Matthew Dodkins"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/BuyQowqngTk/0.jpg",
+   "title": "Improving Sense of Smell for Low-Level Debugging",
+   "video": "https://youtube.com/watch?v=BuyQowqngTk"
+},{
+   "duration": 832,
+   "edition": "2017",
+   "identifier": "#accu-2017-0061",
+   "language": "english",
+   "level": 0,
+   "meeting": "accu",
+   "number": 61,
+   "speakers": [
+      "Ingve Vormestrand"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/sB_5fqiysi4/0.jpg",
+   "title": "POSIX violates core guidelines: A new take on the operating system interface",
+   "video": "https://youtube.com/watch?v=sB_5fqiysi4"
+},{
+   "duration": 446,
+   "edition": "2017",
+   "identifier": "#accu-2017-0062",
+   "language": "english",
+   "level": 0,
+   "meeting": "accu",
+   "number": 62,
+   "speakers": [
+      "Arjan van Leeuwen"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/HqADRbshBF4/0.jpg",
+   "title": "Dealing with strings in C++",
+   "video": "https://youtube.com/watch?v=HqADRbshBF4"
+},{
+   "duration": 5456,
+   "edition": "2017",
+   "identifier": "#accu-2017-0063",
+   "language": "english",
+   "level": 0,
+   "meeting": "accu",
+   "number": 63,
+   "speakers": [
+      "Vittorio Romeo"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/mqei4JJRQ7s/0.jpg",
+   "title": "Implementing variant visitation using lambdas",
+   "video": "https://youtube.com/watch?v=mqei4JJRQ7s"
+},{
+   "duration": 882,
+   "edition": "2017",
+   "identifier": "#accu-2017-0064",
+   "language": "english",
+   "level": 0,
+   "meeting": "accu",
+   "number": 64,
+   "speakers": [
+      "Seb Rose"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/l95DsKm5fbY/0.jpg",
+   "title": "Writing good BDD scenarios",
+   "video": "https://youtube.com/watch?v=l95DsKm5fbY"
+},{
+   "duration": 5674,
+   "edition": "2017",
+   "identifier": "#accu-2017-0065",
+   "language": "english",
+   "level": 0,
+   "meeting": "accu",
+   "number": 65,
+   "speakers": [
+      "Niall Douglas"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/XVofgKH-uu4/0.jpg",
+   "title": "Mongrel Monads, Dirty, Dirty, Dirty",
+   "video": "https://youtube.com/watch?v=XVofgKH-uu4"
+},{
+   "duration": 5906,
+   "edition": "2017",
+   "identifier": "#accu-2017-0066",
+   "language": "english",
+   "level": 0,
+   "meeting": "accu",
+   "number": 66,
+   "speakers": [
+      "Tim Boddy"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/EZ2n3kGtVDk/0.jpg",
+   "title": "ah64: A memory analyzer for un-instrumented cores",
+   "video": "https://youtube.com/watch?v=EZ2n3kGtVDk"
+},{
+   "duration": 5125,
+   "edition": "2017",
+   "identifier": "#accu-2017-0067",
+   "language": "english",
+   "level": 0,
+   "meeting": "accu",
+   "number": 67,
+   "speakers": [
+      "Roger Orr"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/TZs8b3FGo5A/0.jpg",
+   "title": "Grill the C++ committee",
+   "video": "https://youtube.com/watch?v=TZs8b3FGo5A"
+},{
+   "duration": 5540,
+   "edition": "2017",
+   "identifier": "#accu-2017-0068",
+   "language": "english",
+   "level": 0,
+   "meeting": "accu",
+   "number": 68,
+   "speakers": [
+      "Anthony Williams"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/UhrIKqDADX8/0.jpg",
+   "title": "Concurrency, Parallelism and Coroutines",
+   "video": "https://youtube.com/watch?v=UhrIKqDADX8"
+},{
+   "duration": 672,
+   "edition": "2017",
+   "identifier": "#accu-2017-0069",
+   "language": "english",
+   "level": 0,
+   "meeting": "accu",
+   "number": 69,
+   "speakers": [
+      "Dirk Haun"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/zYEQEtdkf6M/0.jpg",
+   "title": "How to present effectively in a meeting",
+   "video": "https://youtube.com/watch?v=zYEQEtdkf6M"
+},{
+   "duration": 3846,
+   "edition": "2017",
+   "identifier": "#accu-2017-0070",
+   "language": "english",
+   "level": 0,
+   "meeting": "accu",
+   "number": 70,
+   "speakers": [
+      "Phil Nash"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/8hW-LT8qFT0/0.jpg",
+   "title": "Functional C++ For Fun And Profit",
+   "video": "https://youtube.com/watch?v=8hW-LT8qFT0"
+},{
+   "duration": 1141,
+   "edition": "2017",
+   "identifier": "#accu-2017-0071",
+   "language": "english",
+   "level": 0,
+   "meeting": "accu",
+   "number": 71,
+   "speakers": [
+      "Jason McGuiness"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/HuHQRcIgFwI/0.jpg",
+   "title": "Knuth, Amdahl: I spurn thee!",
+   "video": "https://youtube.com/watch?v=HuHQRcIgFwI"
+},{
+   "duration": 5253,
+   "edition": "2017",
+   "identifier": "#accu-2017-0072",
+   "language": "english",
+   "level": 0,
+   "meeting": "accu",
+   "number": 72,
+   "speakers": [
+      "Odin Holmes"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/jkjXIh3E9v0/0.jpg",
+   "title": "Modern C++ Design reloaded",
+   "video": "https://youtube.com/watch?v=jkjXIh3E9v0"
+},{
+   "duration": 5709,
+   "edition": "2017",
+   "identifier": "#accu-2017-0073",
+   "language": "english",
+   "level": 0,
+   "meeting": "accu",
+   "number": 73,
+   "speakers": [
+      "Giuseppe D'Angelo",
+      "James Turner"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/1S_AVHaVsLA/0.jpg",
+   "title": "Introduction to Qt 3D",
+   "video": "https://youtube.com/watch?v=1S_AVHaVsLA"
+},{
+   "duration": 715,
+   "edition": "2017",
+   "identifier": "#accu-2017-0074",
+   "language": "english",
+   "level": 0,
+   "meeting": "accu",
+   "number": 74,
+   "speakers": [
+      "Sven Rosvall"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/CnLE0C-5ElY/0.jpg",
+   "title": "Practical Code Review using tools",
+   "video": "https://youtube.com/watch?v=CnLE0C-5ElY"
+},{
+   "duration": 4901,
+   "edition": "2017",
+   "identifier": "#accu-2017-0075",
+   "language": "english",
+   "level": 0,
+   "meeting": "accu",
+   "number": 75,
+   "speakers": [
+      "Jez Higgins"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/Px4_gglU-e4/0.jpg",
+   "title": "A Browse Through ES2016",
+   "video": "https://youtube.com/watch?v=Px4_gglU-e4"
+},{
+   "duration": 882,
+   "edition": "2017",
+   "identifier": "#accu-2017-0076",
+   "language": "english",
+   "level": 0,
+   "meeting": "accu",
+   "number": 76,
+   "speakers": [
+      "Steve Love"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/l95DsKm5fbY/0.jpg",
+   "title": "Got To Test Them All",
+   "video": "https://youtube.com/watch?v=l95DsKm5fbY"
+},{
+   "duration": 4234,
+   "edition": "2017",
+   "identifier": "#accu-2017-0077",
+   "language": "english",
+   "level": 0,
+   "meeting": "accu",
+   "number": 77,
+   "speakers": [
+      "Herb Sutter"
+   ],
+   "tags": [
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/6nsyX37nsRs/0.jpg",
+   "title": "Thoughts on Metaclasses",
+   "video": "https://youtube.com/watch?v=6nsyX37nsRs"
+}]}

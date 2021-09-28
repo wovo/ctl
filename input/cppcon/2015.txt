@@ -1,0 +1,545 @@
+#locked
+
+$add meeting cppcon
+$add edition 2015
+$add language english
+$add tags conference live c++
+
+Saturday, September 19
+ 
+9:00am PDT
+#cppcon-2015-0001
+Modernizing Your C++: Part I
+Michael Caisse
+
+ 
+Sunday, September 20
+ 
+9:00am PDT
+#cppcon-2015-0002
+Modernizing Your C++: Part II
+Michael Caisse
+
+4:00pm PDT
+Registration
+
+8:00pm PDT
+Reception
+
+ 
+Monday, September 21
+ 
+8:00am PDT
+Registration
+
+9:00am PDT
+#cppcon-2015-0003
+Keynote: Writing Good C++14
+Bjarne Stroustrup
+
+11:00am PDT
+#cppcon-2015-0004
+Beyond Sanitizers
+Kostya Serebryany
+#cppcon-2015-0005
+Executors for C++ - A Long Story
+Detlef Vollmann
+#cppcon-2015-0006
+Qt: modern user interfaces for C++
+Milian Wolff
+#cppcon-2015-0007
+Reactive Stream Processing in Industrial IoT using DDS and Rx.cpp
+Sumant Tambe
+#cppcon-2015-0008
+Variadic Templates - Guidelines, Examples and Compile-time computation
+Peter Sommerlad
+#cppcon-2015-0009
+Implementation of a component-based entity system in modern C++14
+Vittorio Romeo
+
+12:30pm PDT
+#cppcon-2015-0010
+C++ Today: The Beast is Back
+Jon Kalb
+
+2:00pm PDT
+#cppcon-2015-0011
+Advanced Unit Testing in C++
+Matt Hargett
+#cppcon-2015-0012
+CLANG + C2 - Engineering/Futures/Measurements
+Jim Radigan
+#cppcon-2015-0013
+The current memory and C++ debugging tools used at Electronic Arts
+Scott Wardle
+#cppcon-2015-0014
+Generic Lambdas from Scratch
+Arthur O'Dwyer
+#cppcon-2015-0015
+Expression Templates - What, Why, When, Where, Part I
+Joel Falcou
+
+3:15pm PDT
+#cppcon-2015-0016
+C++ in the Audio Industry
+Timur Doumler
+#cppcon-2015-0017
+Haskell's Design Patterns for genericity and asynchronous behavior
+Sheryl Shulman
+#cppcon-2015-0018
+Live lock-free or deadlock (practical Lock-free programming), Part I
+Fedor Pikus
+#cppcon-2015-0019
+constexpr: Introduction
+Scott Schurr
+#cppcon-2015-0020
+Expression Templates - What, Why, When, Where, Part II
+Joel Falcou
+
+4:45pm PDT
+#cppcon-2015-0021
+C++ for cross-platform VR development
+Nicolas Lazareff
+#cppcon-2015-0022
+Doxygen to DoxyPress : A Journey from C++98 to C++11
+Barbara Geller • Ansel Sermersheim
+#cppcon-2015-0023
+Functional Design Explained
+David Sankel
+#cppcon-2015-0024
+Live lock-free or deadlock (practical Lock-free programming), Part II
+Fedor Pikus
+#cppcon-2015-0025
+Using Spirit X3 to Write Parsers
+Michael Caisse
+#cppcon-2015-0026
+Expression Templates - What, Why, When, Where, Part III
+Joel Falcou
+
+8:30pm PDT
+Grill the Committee
+Jon Kalb • Chandler Carruth • Marshall Clow • Lawrence Crowl • Gabriel Dos Reis • Richard Smith • Bjarne Stroustrup • Herb Sutter • Ville Voutilainen • Michael Wong
+
+ 
+Tuesday, September 22
+ 
+8:00am PDT
+// not found on youtube
+//#cppcon-2015-0027
+C++ Community Building Birds of a Feather
+Jon Kalb
+
+8:15am PDT
+//#cppcon-2015-0028
+//SG14 meeting Wednesday:Towards better support in C++ for Games and Finance
+//Nicolas Guillemot • Sean Middleditch • Michael Wong
+
+9:00am PDT
+#cppcon-2015-0029
+Visualizing Template Instantiations - Templator Demo
+Peter Sommerlad
+#cppcon-2015-0030
+Organizational Leadership with Modern C++
+Kevin Kostrzewa • John Wyman
+#cppcon-2015-0031
+<functional>: What's New, And Proper Usage
+Stephan T. Lavavej
+#cppcon-2015-0032
+Single Threaded Functional to Massively Parellel Stochastic with AMP
+Kevin Carpenter
+#cppcon-2015-0033
+Time Programming Fundamentals
+Greg Miller • Bradley White
+#cppcon-2015-0034
+Test Driven C++ With Catch
+Phil Nash
+
+9:30am PDT
+#cppcon-2015-0035
+High-performance, async-only and monadic future
+Travis Gockel
+#cppcon-2015-0036
+3D Face Tracking and Reconstruction using Modern C++
+Patrik Huber
+
+10:30am PDT
+#cppcon-2015-0037
+Writing Good C++14 By Default
+Herb Sutter
+
+12:30pm PDT
+//#cppcon-2015-0038
+//Writing my own Content Management System in C++
+//Jens Weller
+//#cppcon-2015-0039
+//Lightning Talks
+//Kate Gregory
+//#cppcon-2015-0040
+Kiss-Templates
+Roland Bock
+#cppcon-2015-0041
+Effective C++ Implementation of Class Properties
+Viktor Korsun
+
+2:00pm PDT
+#cppcon-2015-0042
+C++11/14/17 Atomics the Deep dive: the gory details, before the story consumes you!
+Michael Wong
+#cppcon-2015-0043
+Large Scale C++ With Modules: What You Should Know
+Gabriel Dos Reis
+#cppcon-2015-0044
+Parallelizing the C++ Standard Library
+Daniel Bourgeois • Grant Mercer
+#cppcon-2015-0045
+Simple, Extensible Pattern Matching with C++14
+John Bandela
+#cppcon-2015-0046
+Integrating generators EDSL's for Boost.Spirit X3
+Felipe Magno de Almeida
+
+3:15pm PDT
+#cppcon-2015-0047
+C++ Atomics: The Sad Story of memory_order_consume: A Happy Ending at Last?
+Paul E. McKenney
+#cppcon-2015-0048
+Cross-Platform Mobile App Development with Visual C++ 2015
+Ankit Asthana • Marc Gregoire
+#cppcon-2015-0049
+How I stopped worrying and love metaprogramming
+Edouard Alligand
+#cppcon-2015-0050
+Writing Great Libraries in 89 Easy Steps
+Zach Laine
+#cppcon-2015-0051
+constexpr: Applications
+Scott Schurr
+
+3:45pm PDT
+#cppcon-2015-0052
+Concurrency TS: The Editor's Report
+Artur Laksberg
+
+4:45pm PDT
+#cppcon-2015-0053
+C++ on the Web: ponies for developers without pwn’ing users
+JF Bastien
+#cppcon-2015-0054
+Parallel Program Execution using Work Stealing
+Pablo Halpern
+#cppcon-2015-0055
+Reflection techniques in C++
+Paul Fultz II
+#cppcon-2015-0056
+STL Algorithms in Action
+Michael VanLoon
+#cppcon-2015-0057
+Your Tests Are Terrible: Tales from the Trenches
+Titus Winters • Hyrum Wright
+#cppcon-2015-0058
+Boost Units Library for Correct Code
+Robert Ramey
+
+8:30pm PDT
+//#cppcon-2015-0059
+//Lightning Talks
+//Kate Gregory
+
+ 
+Wednesday, September 23
+ 
+8:00am PDT
+//#cppcon-2015-0060
+//Lightning Talks
+//Kate Gregory
+
+8:30am PDT
+#cppcon-2015-0061
+ISO SG14 Working Meeting
+Herb Sutter • Michael Wong
+
+9:00am PDT
+#cppcon-2015-0062
+The Current State of (free) Static Analysis
+Jason Turner
+#cppcon-2015-0063
+C++ in Open Source Robotics
+Jackie Kay • Louise Poubel
+#cppcon-2015-0064
+On C++, Javascript and WebSockets
+Alex Fabijanic
+#cppcon-2015-0065
+C++ Coroutines - a negative overhead abstraction
+Gor Nishanov
+#cppcon-2015-0066
+The unexceptional exceptions
+Fedor Pikus
+#cppcon-2015-0067
+Variable Templates - C++14 compile-time computation
+Peter Sommerlad
+
+9:30am PDT
+// not on youtube
+// #cppcon-2015-0068
+Mantid, A C++ framework for the reduction and analysis of neutron scattering data
+Steven Hahn
+
+10:30am PDT
+#cppcon-2015-0069
+Keynote: Better Code: Data Structures
+Sean Parent
+
+12:30pm PDT
+// not on youtube
+// #cppcon-2015-0070
+Easy compilation from TouchDevelop to ARM Cortex-M0 using C++11
+Jonathan Protzenko
+#cppcon-2015-0071
+Become a GDB Power User
+Greg Law
+// not on youtube
+// #cppcon-2015-0072
+Welcome to Boost
+Rachel Cheng • Marshall Clow • Beman Dawes • Niall Douglas • Jon Kalb • Bryce Adelstein Lelbach • Alex Olivas • Robert Ramey
+
+2:00pm PDT
+#cppcon-2015-0073
+boo{stache} exposed : the inner-workings of a generic template engine
+Michael Caisse
+#cppcon-2015-0074
+How to make your data structures wait-free for reads
+Pedro Ramalhete
+#cppcon-2015-0075
+More than lint: modern static analysis for C++
+Neil MacIntosh
+#cppcon-2015-0076
+Transducers: generalized, composable and functional transformations of sequential inputs, from Clojure to C++
+Juan Pedro Bolívar Puente
+#cppcon-2015-0077
+An Overview on Encryption in C++
+Jens Weller
+
+3:15pm PDT
+#cppcon-2015-0078
+A few good types: Evolving array_view and string_view for safe C++ code
+Neil MacIntosh
+#cppcon-2015-0079
+Benchmarking C++ Code
+Bryce Adelstein Lelbach
+#cppcon-2015-0080
+Bridging Languages Cross-Platform: Djinni Implementation Techniques
+Jacob Potter • Andrew Twyman
+#cppcon-2015-0081
+Enhancing STL containers
+Viktor Korsun
+#cppcon-2015-0082
+Transactional Memory in Practice
+Brett Hall
+#cppcon-2015-0083
+Type Traits - what are they and why should I use them?
+Marshall Clow
+
+4:45pm PDT
+#cppcon-2015-0084
+Applying functional programming in code design
+Michał Dominiak
+#cppcon-2015-0085
+Contracts for Dependable C++
+Gabriel Dos Reis
+#cppcon-2015-0086
+Declarative Control Flow
+Andrei Alexandrescu
+#cppcon-2015-0087
+Intro to the C++ Object Model
+Richard Powell
+#cppcon-2015-0088
+What is Open Source, and Why Should You Care?
+Kevin P. Fleming
+
+6:00pm PDT
+#cppcon-2015-0089
+NW C++ User Dinner
+Brett Searles
+
+7:00pm PDT
+#cppcon-2015-0090
+Ask the Expert : SG14 and Security
+Brett Searles • Michael Wong
+// not on youtube
+//#cppcon-2015-0091
+Informal C++ Audio Meetup
+Jean-Baptiste Thiebaut • Julian Storer
+
+8:30pm PDT
+#cppcon-2015-0092
+Boost Working Session
+Robert Ramey
+#cppcon-2015-0093
+Functional programming: functors and monads
+Michał Dominiak
+//#cppcon-2015-0094
+//Lightning Talks
+//Kate Gregory
+#cppcon-2015-0095
+A Crash Course in Open Source Licensing
+Kevin P. Fleming
+
+ 
+Thursday, September 24
+ 
+8:00am PDT
+#cppcon-2015-0096
+A Project-Based Learning Approach to Teaching C++
+Chuck Allison
+//#cppcon-2015-0097
+//Lightning Talks
+//Kate Gregory
+#cppcon-2015-0098
+Crazy Easy C++ Scripting With ChaiScript
+Jason Turner
+
+9:00am PDT
+#cppcon-2015-0099
+Faster Complex Numbers
+André Bergner
+#cppcon-2015-0100
+C++ metaprogramming: a paradigm shift
+Louis Dionne
+#cppcon-2015-0101
+Lessons in Sustainability: How to Maintain a C++ Codebase for Decades
+Titus Winters
+#cppcon-2015-0102
+Rcpp: Seamless R and C++ Integration
+Matt P. Dziubinski
+#cppcon-2015-0103
+What's New in Visual C++ 2015 and Future Directions
+Steve Carroll • Ayman Shoukry
+
+9:30am PDT
+#cppcon-2015-0104
+C++ Multi-dimensional Arrays for Computational Physics and Applied Mathematics
+Pramod Gupta
+
+10:30am PDT
+#cppcon-2015-0105
+Tuning C++: Benchmarks, and Compilers, and CPUs! Oh My!
+Chandler Carruth
+
+12:30pm PDT
+//#cppcon-2015-0106
+//Lightning Talks
+//Kate Gregory
+//#cppcon-2015-0107
+//cppreference.com: the community wiki
+//Sergey Zubkov
+
+2:00pm PDT
+#cppcon-2015-0108
+`for_each_argument` explained and expanded
+Vittorio Romeo
+#cppcon-2015-0109
+std::allocator Is to Allocation what std::vector Is to Vexation
+Andrei Alexandrescu
+#cppcon-2015-0110
+Shared_Future from Scratch
+Arthur O'Dwyer
+#cppcon-2015-0111
+The Importance of Being const
+Richard Powell
+#cppcon-2015-0112
+Racing the file system
+Niall Douglas
+
+2:30pm PDT
+#cppcon-2015-0113
+Null pointers shouldn't compile: how Dropbox uses the type system to enforce contracts
+Jacob Potter
+
+3:15pm PDT
+#cppcon-2015-0114
+Compile-time tools supporting generic programming in C++
+Ábel Sinkovics
+#cppcon-2015-0115
+Demystifying Floating Point Numbers
+John Farrier
+#cppcon-2015-0116
+Programming with less effort in C++
+Ferreira Da Costa • Sylvain JUBERTIE
+#cppcon-2015-0117
+Value Semantics: It ain't about the syntax!, Part I
+John Lakos
+// note: next seems to have no speaker
+#cppcon-2015-0118
+Secure C++ Programming
+Gwendolyn Hunt
+
+4:45pm PDT
+#cppcon-2015-0119
+Comparison is not simple, but it can be simpler
+Lawrence Crowl
+#cppcon-2015-0120
+Pruning Error Messages From Your C++ Template Code
+Roland Bock
+#cppcon-2015-0121
+string_view - when to use it, and when not.
+Marshall Clow
+#cppcon-2015-0122
+Testing Battle.net (before deploying to millions of players)
+Ben Deane
+#cppcon-2015-0123
+Value Semantics: It ain't about the syntax!, Part II
+John Lakos
+
+8:30pm PDT
+#cppcon-2015-0124
+CppCon 2016 Kick-off Meeting
+Jon Kalb
+#cppcon-2015-0125
+Emacs Birds of a Feather
+Dan Girshovich
+
+ 
+Friday, September 25
+ 
+8:00am PDT
+//#cppcon-2015-0126
+//Lightning Talks
+//Kate Gregory
+
+9:00am PDT
+#cppcon-2015-0127
+Case study: Evolving legacy code
+Rachel Cheng • Michael VanLoon
+#cppcon-2015-0128
+A C++14 approach to dates and times
+Howard Hinnant
+#cppcon-2015-0129
+C++ Metaprogramming: Journey from simple to insanity and back
+Fedor Pikus
+#cppcon-2015-0130
+Stop Teaching C
+Kate Gregory
+#cppcon-2015-0131
+The Birth of SG14: better C++ support for Games Developers with Low latency needs
+Nicolas Guillemot • Sean Middleditch • Michael Wong
+
+10:30am PDT
+#cppcon-2015-0132
+Ranges and the Future of the STL
+Eric Niebler
+
+12:30pm PDT
+#cppcon-2015-0133
+CppCon 2016 Planning Committee Work Session
+Jon Kalb
+#cppcon-2015-0134
+CopperSpice: A Pure C++ GUI Library
+Barbara Geller • Ansel Sermersheim
+#cppcon-2015-0135
+Networking & Number Crunching with C++: from Incremental Statistical Computation to Online Machine Learning
+Matt P. Dziubinski
+
+2:00pm PDT
+#cppcon-2015-0136
+Technical Specifications and C++17
+Chandler Carruth • Michael Caisse • Marshall Clow • Beman Dawes • Eric Niebler • Gor Nishanov • Gabriel Dos Reis • Michael Wong
