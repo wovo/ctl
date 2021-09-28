@@ -1,138 +1,145 @@
 { "list": [{
-   "duration": 3909,
-   "edition": "2016",
-   "identifier": "#cppcon-2016-0001",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "number": 1,
-   "speakers": [
-      "Anthony Williams"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/FaHJOkOrfNo/0.jpg",
-   "title": "Concurrent Thinking in C++: Part I",
-   "video": "https://youtube.com/watch?v=FaHJOkOrfNo"
-},{
-   "duration": 5786,
-   "edition": "2016",
-   "identifier": "#cppcon-2016-0002",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "number": 2,
-   "speakers": [
-      "Dan Saks"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/D7Sd8A6_fYU/0.jpg",
-   "title": "Crafting Embedded Software in C++: Part I",
-   "video": "https://youtube.com/watch?v=D7Sd8A6_fYU"
-},{
-   "duration": 3672,
-   "edition": "2016",
-   "identifier": "#cppcon-2016-0003",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "number": 3,
-   "speakers": [
-      "Michael Caisse"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/rwOv_tw2eA4/0.jpg",
-   "title": "Modernizing Your C++: Part I",
-   "video": "https://youtube.com/watch?v=rwOv_tw2eA4"
-},{
-   "duration": 3384,
-   "edition": "2016",
-   "identifier": "#cppcon-2016-0004",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "number": 4,
-   "speakers": [
-      "Giuseppe D'Angelo"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/_Unp6vhJIYA/0.jpg",
-   "title": "Programming with Qt/Widgets: Part I",
-   "video": "https://youtube.com/watch?v=_Unp6vhJIYA"
-},{
-   "duration": 3521,
-   "edition": "2016",
-   "identifier": "#cppcon-2016-0005",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "number": 5,
-   "speakers": [
-      "Patrice Roy"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/Fno6suiXLPs/0.jpg",
-   "title": "Using C++ for Low-Latency Systems: Part I",
-   "video": "https://youtube.com/watch?v=Fno6suiXLPs"
-},{
-   "duration": 3909,
-   "edition": "2016",
-   "identifier": "#cppcon-2016-0006",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "number": 6,
-   "speakers": [
-      "Anthony Williams"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/FaHJOkOrfNo/0.jpg",
-   "title": "Concurrent Thinking in C++: Part II",
-   "video": "https://youtube.com/watch?v=FaHJOkOrfNo"
-},{
-   "duration": 5786,
+   "duration": 4167,
    "edition": "2016",
    "identifier": "#cppcon-2016-0007",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 7,
+   "number": 1,
+   "speakers": [
+      "xyz"
+   ],
+   "tags": [
+      "panel",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/j84pZM840eI/0.jpg",
+   "title": " C++ Standard Library Panel",
+   "video": "https://youtube.com/watch?v=j84pZM840eI"
+},{
+   "duration": 5167,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0001",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 2,
+   "speakers": [
+      "John Kalb"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/CPgxw1EzC54/0.jpg",
+   "title": " Grill The Committee Panel",
+   "video": "https://youtube.com/watch?v=CPgxw1EzC54"
+},{
+   "duration": 6231,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0002",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 3,
+   "speakers": [
+      "Bjarne Stroustrup"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/_wzc7a3McOs/0.jpg",
+   "title": " The Evolution of C++ Past, Present and Future",
+   "video": "https://youtube.com/watch?v=_wzc7a3McOs"
+},{
+   "duration": 5786,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0003",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 4,
    "speakers": [
       "Dan Saks"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
    "thumbnail": "http://img.youtube.com/vi/D7Sd8A6_fYU/0.jpg",
-   "title": "Crafting Embedded Software in C++: Part II",
+   "title": " extern c: Talking to C Programmers about C++",
    "video": "https://youtube.com/watch?v=D7Sd8A6_fYU"
 },{
-   "duration": 3672,
+   "duration": 4792,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0004",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 5,
+   "speakers": [
+      "Jason Turner"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/zBkNBP00wJE/0.jpg",
+   "title": " Rich Code for Tiny Computers: A Simple Commodore 64 Game in C++17",
+   "video": "https://youtube.com/watch?v=zBkNBP00wJE"
+},{
+   "duration": 4552,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0005",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 6,
+   "speakers": [
+      "David Schwartz"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/w4jq4frE5v4/0.jpg",
+   "title": " Developing Blockchain Software",
+   "video": "https://youtube.com/watch?v=w4jq4frE5v4"
+},{
+   "duration": 5965,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0006",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 7,
+   "speakers": [
+      "Herb Sutter"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/JfmTagWcqoE/0.jpg",
+   "title": " Leak-Freedom in C++... By Default.",
+   "video": "https://youtube.com/watch?v=JfmTagWcqoE"
+},{
+   "duration": 3982,
    "edition": "2016",
    "identifier": "#cppcon-2016-0008",
    "language": "english",
@@ -140,18 +147,19 @@
    "meeting": "cppcon",
    "number": 8,
    "speakers": [
-      "Michael Caisse"
+      "Tim Haines"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/rwOv_tw2eA4/0.jpg",
-   "title": "Modernizing Your C++: Part II",
-   "video": "https://youtube.com/watch?v=rwOv_tw2eA4"
+   "thumbnail": "http://img.youtube.com/vi/w5Z4JlMJ1VQ/0.jpg",
+   "title": " Improving Performance Through Compiler Switches...",
+   "video": "https://youtube.com/watch?v=w5Z4JlMJ1VQ"
 },{
-   "duration": 3384,
+   "duration": 3540,
    "edition": "2016",
    "identifier": "#cppcon-2016-0009",
    "language": "english",
@@ -159,187 +167,10 @@
    "meeting": "cppcon",
    "number": 9,
    "speakers": [
-      "Giuseppe D'Angelo"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/_Unp6vhJIYA/0.jpg",
-   "title": "Programming with Qt/Widgets: Part II",
-   "video": "https://youtube.com/watch?v=_Unp6vhJIYA"
-},{
-   "duration": 3521,
-   "edition": "2016",
-   "identifier": "#cppcon-2016-0010",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "number": 10,
-   "speakers": [
-      "Patrice Roy"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/Fno6suiXLPs/0.jpg",
-   "title": "Using C++ for Low-Latency Systems: Part II",
-   "video": "https://youtube.com/watch?v=Fno6suiXLPs"
-},{
-   "duration": 6231,
-   "edition": "2016",
-   "identifier": "#cppcon-2016-0011",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "number": 11,
-   "speakers": [
-      "Bjarne Stroustrup"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/_wzc7a3McOs/0.jpg",
-   "title": "Keynote: The Evolution of C++: Past, Present, and Future",
-   "video": "https://youtube.com/watch?v=_wzc7a3McOs"
-},{
-   "duration": 3457,
-   "edition": "2016",
-   "identifier": "#cppcon-2016-0012",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "number": 12,
-   "speakers": [
-      "James McNellis",
-      "Kenny Kerr"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/lm4IwfiJ3EU/0.jpg",
-   "title": "Embracing Standard C++ for the Windows Runtime",
-   "video": "https://youtube.com/watch?v=lm4IwfiJ3EU"
-},{
-   "duration": 3436,
-   "edition": "2016",
-   "identifier": "#cppcon-2016-0013",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "number": 13,
-   "speakers": [
-      "Charley Bay"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/8yUSMJWlEsk/0.jpg",
-   "title": "Instruction Re-ordering Everywhere: The C++ 'As-If' Rule and the Role of Sequence",
-   "video": "https://youtube.com/watch?v=8yUSMJWlEsk"
-},{
-   "duration": 3081,
-   "edition": "2016",
-   "identifier": "#cppcon-2016-0014",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "number": 14,
-   "speakers": [
-      "Tim Shen"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/N_rkHzhXueo/0.jpg",
-   "title": "Regular Expressions in C++, Present and Future",
-   "video": "https://youtube.com/watch?v=N_rkHzhXueo"
-},{
-   "duration": 3508,
-   "edition": "2016",
-   "identifier": "#cppcon-2016-0015",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "number": 15,
-   "speakers": [
-      "Guy Davidson",
-      "Michael Wong",
-      "Nicolas Guillemot",
-      "Sean Middleditch"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/dMupATOJKWc/0.jpg",
-   "title": "WG21-SG14 - Making C++ better for games, embedded and financial developers",
-   "video": "https://youtube.com/watch?v=dMupATOJKWc"
-},{
-   "duration": 3290,
-   "edition": "2016",
-   "identifier": "#cppcon-2016-0016",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "number": 16,
-   "speakers": [
-      "Guy Davidson",
-      "Michael Wong",
-      "Nicolas Guillemot",
-      "Sean Middleditch"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/0tFxdreVx6s/0.jpg",
-   "title": "Using Types Effectively",
-   "video": "https://youtube.com/watch?v=0tFxdreVx6s"
-},{
-   "duration": 3076,
-   "edition": "2016",
-   "identifier": "#cppcon-2016-0017",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "number": 17,
-   "speakers": [
-      "Christiaan Pretorius"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/aXj_DsIx1xs/0.jpg",
-   "title": "Cache Optimised Hash library",
-   "video": "https://youtube.com/watch?v=aXj_DsIx1xs"
-},{
-   "duration": 3540,
-   "edition": "2016",
-   "identifier": "#cppcon-2016-0018",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "number": 18,
-   "speakers": [
       "Alisdair Meredith"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
@@ -348,132 +179,118 @@
    "title": "C++17 in Breadth (part 1 of 2)",
    "video": "https://youtube.com/watch?v=22jIHfvelZk"
 },{
-   "duration": 1279,
+   "duration": 3572,
    "edition": "2016",
-   "identifier": "#cppcon-2016-0019",
+   "identifier": "#cppcon-2016-0010",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 19,
+   "number": 10,
    "speakers": [
-      "John McFarlane",
-      "Robert Ramey"
+      "Manuel Klimek"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/cw_8QkFXZjI/0.jpg",
-   "title": "Standards Proposals for SG6 - Integers",
-   "video": "https://youtube.com/watch?v=cw_8QkFXZjI"
-},{
-   "duration": 3480,
-   "edition": "2016",
-   "identifier": "#cppcon-2016-0020",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "number": 20,
-   "speakers": [
-      "Lisa Lippincott"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/s70b2P3A3lg/0.jpg",
-   "title": "What is the basic interface? (part 1 of 2)",
-   "video": "https://youtube.com/watch?v=s70b2P3A3lg"
-},{
-   "duration": 3329,
-   "edition": "2016",
-   "identifier": "#cppcon-2016-0021",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "number": 21,
-   "speakers": [
-      "Matt P. Dziubinski"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/fMvO0Mcq894/0.jpg",
-   "title": "Computer Architecture, C++, and High Performance",
-   "video": "https://youtube.com/watch?v=fMvO0Mcq894"
-},{
-   "duration": 3632,
-   "edition": "2016",
-   "identifier": "#cppcon-2016-0022",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "number": 22,
-   "speakers": [
-      "Howard Hinnant"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/P32hvk8b13M/0.jpg",
-   "title": "A <chrono> Tutorial",
-   "video": "https://youtube.com/watch?v=P32hvk8b13M"
+   "thumbnail": "http://img.youtube.com/vi/dHFNpBfemDI/0.jpg",
+   "title": " Deploying C++ modules to 100s of millions of lines of code",
+   "video": "https://youtube.com/watch?v=dHFNpBfemDI"
 },{
    "duration": 3465,
    "edition": "2016",
-   "identifier": "#cppcon-2016-0023",
+   "identifier": "#cppcon-2016-0011",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 23,
+   "number": 11,
    "speakers": [
       "Arthur O'Dwyer"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
    "thumbnail": "http://img.youtube.com/vi/vwrXHznaYLA/0.jpg",
-   "title": "Template Normal Programming (part 1 of 2)",
+   "title": " Template Normal Programming (part 1 of 2)",
    "video": "https://youtube.com/watch?v=vwrXHznaYLA"
 },{
-   "duration": 3760,
+   "duration": 3076,
    "edition": "2016",
-   "identifier": "#cppcon-2016-0024",
+   "identifier": "#cppcon-2016-0012",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 24,
+   "number": 12,
    "speakers": [
-      "Joel Falcou"
+      "Christiaan Pretorius"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/2HsLsTRxfbA/0.jpg",
-   "title": "Designing C++ portable SIMD support",
-   "video": "https://youtube.com/watch?v=2HsLsTRxfbA"
+   "thumbnail": "http://img.youtube.com/vi/aXj_DsIx1xs/0.jpg",
+   "title": " Cache Optimized Hash Tables",
+   "video": "https://youtube.com/watch?v=aXj_DsIx1xs"
 },{
-   "duration": 3574,
+   "duration": 3804,
    "edition": "2016",
-   "identifier": "#cppcon-2016-0025",
+   "identifier": "#cppcon-2016-0013",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 25,
+   "number": 13,
+   "speakers": [
+      "Miodrag Milanovic"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/wAUnUWYaA5s/0.jpg",
+   "title": " The MAME story: From C to Modern C++",
+   "video": "https://youtube.com/watch?v=wAUnUWYaA5s"
+},{
+   "duration": 3063,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0014",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 14,
+   "speakers": [
+      "Matthew Bentley"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/wBER1R8YyGY/0.jpg",
+   "title": " Colonies, performance and why you should care",
+   "video": "https://youtube.com/watch?v=wBER1R8YyGY"
+},{
+   "duration": 3574,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0015",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 15,
    "speakers": [
       "Alisdair Meredith"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
@@ -482,7 +299,209 @@
    "title": "C++17 in Breadth (part 2 of 2)",
    "video": "https://youtube.com/watch?v=-rIixnNJM4k"
 },{
-   "duration": 3063,
+   "duration": 3650,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0016",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 16,
+   "speakers": [
+      "Arthur O'Dwyer"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/VIz6xBvwYd8/0.jpg",
+   "title": " Template Normal Programming (part 2 of 2)",
+   "video": "https://youtube.com/watch?v=VIz6xBvwYd8"
+},{
+   "duration": 3783,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0017",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 17,
+   "speakers": [
+      "Vittorio Romeo"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/aXSsUqVSe2k/0.jpg",
+   "title": " Implementing 'static' control flow in C++14",
+   "video": "https://youtube.com/watch?v=aXSsUqVSe2k"
+},{
+   "duration": 3466,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0018",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 18,
+   "speakers": [
+      "JF Bastien"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/IB57wIf9W1k/0.jpg",
+   "title": " No Sane Compiler Would Optimize Atomics",
+   "video": "https://youtube.com/watch?v=IB57wIf9W1k"
+},{
+   "duration": 3300,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0019",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 19,
+   "speakers": [
+      "D. Dechev",
+      "D. Zhang"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/uDNb8JL0vv8/0.jpg",
+   "title": " High Performance C++ Concurrent Transactional Data Structures",
+   "video": "https://youtube.com/watch?v=uDNb8JL0vv8"
+},{
+   "duration": 3400,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0020",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 20,
+   "speakers": [
+      "Bryce Adelstein Lelbach"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/Vck6kzWjY88/0.jpg",
+   "title": " The C++17 Parallel Algorithms Library and Beyond",
+   "video": "https://youtube.com/watch?v=Vck6kzWjY88"
+},{
+   "duration": 2863,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0021",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 21,
+   "speakers": [
+      "Andy Bond"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/ZCGyvPDM0YY/0.jpg",
+   "title": " AAAARGH!? Adopting Almost Always Auto Reinforces Good Habits!?",
+   "video": "https://youtube.com/watch?v=ZCGyvPDM0YY"
+},{
+   "duration": 4098,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0022",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 22,
+   "speakers": [
+      "Walter E. Brown"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/6DPkyvkMkk8/0.jpg",
+   "title": " What C++ Programmers Need to Know about Header <random>",
+   "video": "https://youtube.com/watch?v=6DPkyvkMkk8"
+},{
+   "duration": 3812,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0023",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 23,
+   "speakers": [
+      "Niall Douglas"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/9l28ax3Zq0w/0.jpg",
+   "title": "Better mutual exclusion on the filesystem using Boost.AFIO",
+   "video": "https://youtube.com/watch?v=9l28ax3Zq0w"
+},{
+   "duration": 3524,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0024",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 24,
+   "speakers": [
+      "Alfred Bratterud"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/t4etEwG2_LY/0.jpg",
+   "title": " #include <os>: from bootloader to REST API with the new C++",
+   "video": "https://youtube.com/watch?v=t4etEwG2_LY"
+},{
+   "duration": 3348,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0025",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 25,
+   "speakers": [
+      "Gordon Brown",
+      "Michael Wong"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/0Thv72yhxxw/0.jpg",
+   "title": " Towards Heterogeneous Programming in C++",
+   "video": "https://youtube.com/watch?v=0Thv72yhxxw"
+},{
+   "duration": 3816,
    "edition": "2016",
    "identifier": "#cppcon-2016-0026",
    "language": "english",
@@ -490,18 +509,19 @@
    "meeting": "cppcon",
    "number": 26,
    "speakers": [
-      "Matthew Bentley"
+      "Dietmar Kuhl"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/wBER1R8YyGY/0.jpg",
-   "title": "Colonies, performance and why you should care",
-   "video": "https://youtube.com/watch?v=wBER1R8YyGY"
+   "thumbnail": "http://img.youtube.com/vi/xWmdcvTedbc/0.jpg",
+   "title": " Constant Fun",
+   "video": "https://youtube.com/watch?v=xWmdcvTedbc"
 },{
-   "duration": 3624,
+   "duration": 3223,
    "edition": "2016",
    "identifier": "#cppcon-2016-0027",
    "language": "english",
@@ -509,19 +529,19 @@
    "meeting": "cppcon",
    "number": 27,
    "speakers": [
-      "Daniel Moth",
-      "Steve Carroll"
+      "Marcelo Juchem"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/MBmp1gxCu9k/0.jpg",
-   "title": "Latest and Greatest from the Visual Studio Family for C++ Developers",
-   "video": "https://youtube.com/watch?v=MBmp1gxCu9k"
+   "thumbnail": "http://img.youtube.com/vi/tq0YfWFlVZA/0.jpg",
+   "title": " The Power of Reflection with Facebook's Thrift",
+   "video": "https://youtube.com/watch?v=tq0YfWFlVZA"
 },{
-   "duration": 3691,
+   "duration": 3794,
    "edition": "2016",
    "identifier": "#cppcon-2016-0028",
    "language": "english",
@@ -529,18 +549,19 @@
    "meeting": "cppcon",
    "number": 28,
    "speakers": [
-      "Hartmut Kaiser"
+      "Jackie Kay"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/6Z3_qaFYF84/0.jpg",
-   "title": "Parallelism in Modern C++",
-   "video": "https://youtube.com/watch?v=6Z3_qaFYF84"
+   "thumbnail": "http://img.youtube.com/vi/mresWGsVHj0/0.jpg",
+   "title": " Lessons Learned From An Embedded RTPS in Modern C++",
+   "video": "https://youtube.com/watch?v=mresWGsVHj0"
 },{
-   "duration": 3528,
+   "duration": 3691,
    "edition": "2016",
    "identifier": "#cppcon-2016-0029",
    "language": "english",
@@ -548,18 +569,19 @@
    "meeting": "cppcon",
    "number": 29,
    "speakers": [
-      "Lisa Lippincott"
+      "Bob Steagall"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/Uzu5CuGfmGA/0.jpg",
-   "title": "What is the basic interface? (part 2 of 2)",
-   "video": "https://youtube.com/watch?v=Uzu5CuGfmGA"
+   "thumbnail": "http://img.youtube.com/vi/FPUBjPYBsGI/0.jpg",
+   "title": " Lightweight Object Persistence With Relocatable Heaps in Modern C++",
+   "video": "https://youtube.com/watch?v=FPUBjPYBsGI"
 },{
-   "duration": 3650,
+   "duration": 3624,
    "edition": "2016",
    "identifier": "#cppcon-2016-0030",
    "language": "english",
@@ -567,18 +589,20 @@
    "meeting": "cppcon",
    "number": 30,
    "speakers": [
-      "Arthur O'Dwyer"
+      "Carroll",
+      "Moth"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/VIz6xBvwYd8/0.jpg",
-   "title": "Template Normal Programming (part 2 of 2)",
-   "video": "https://youtube.com/watch?v=VIz6xBvwYd8"
+   "thumbnail": "http://img.youtube.com/vi/MBmp1gxCu9k/0.jpg",
+   "title": " Latest and Greatest from the Visual Studio Family for C++ Developers",
+   "video": "https://youtube.com/watch?v=MBmp1gxCu9k"
 },{
-   "duration": 3524,
+   "duration": 3691,
    "edition": "2016",
    "identifier": "#cppcon-2016-0031",
    "language": "english",
@@ -586,59 +610,61 @@
    "meeting": "cppcon",
    "number": 31,
    "speakers": [
-      "Alfred Bratterud"
+      "Hartmut Kaiser"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/t4etEwG2_LY/0.jpg",
-   "title": "#Include : from bootloader to REST API with the new C++0032",
-   "video": "https://youtube.com/watch?v=t4etEwG2_LY"
+   "thumbnail": "http://img.youtube.com/vi/6Z3_qaFYF84/0.jpg",
+   "title": " Parallelism in Modern C++",
+   "video": "https://youtube.com/watch?v=6Z3_qaFYF84"
 },{
    "duration": 3710,
    "edition": "2016",
-   "identifier": "#cppcon-2016-0033",
+   "identifier": "#cppcon-2016-0032",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
    "number": 32,
    "speakers": [
-      "Paul E. McKenney"
+      "McKenney"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
    "thumbnail": "http://img.youtube.com/vi/qcD2Zj9GgI4/0.jpg",
-   "title": "Beyond the Issaquah Challenge: High-Performance Scalable Complex Updates",
+   "title": " Beyond the Issaquah Challenge: High-Performance Scalable Complex Updates",
    "video": "https://youtube.com/watch?v=qcD2Zj9GgI4"
 },{
-   "duration": 3300,
+   "duration": 3281,
    "edition": "2016",
-   "identifier": "#cppcon-2016-0034",
+   "identifier": "#cppcon-2016-0033",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
    "number": 33,
    "speakers": [
-      "Damian Dechev",
-      "Deli Zhang"
+      "David Sankel"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/uDNb8JL0vv8/0.jpg",
-   "title": "High Performance C++ Concurrent Transactional Data Structures: Concept, Design, and Implementation",
-   "video": "https://youtube.com/watch?v=uDNb8JL0vv8"
+   "thumbnail": "http://img.youtube.com/vi/k3O4EKX4z1c/0.jpg",
+   "title": " Variants: Past, Present, and Future",
+   "video": "https://youtube.com/watch?v=k3O4EKX4z1c"
 },{
    "duration": 2787,
    "edition": "2016",
-   "identifier": "#cppcon-2016-0035",
+   "identifier": "#cppcon-2016-0034",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -647,158 +673,161 @@
       "Michael Spencer"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
    "thumbnail": "http://img.youtube.com/vi/g7entxbQOCc/0.jpg",
-   "title": "My Little Optimizer: Undefined Behavior is Magic",
+   "title": " My Little Optimizer: Undefined Behavior is Magic",
    "video": "https://youtube.com/watch?v=g7entxbQOCc"
 },{
-   "duration": 3281,
+   "duration": 3349,
    "edition": "2016",
-   "identifier": "#cppcon-2016-0036",
+   "identifier": "#cppcon-2016-0035",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
    "number": 35,
    "speakers": [
-      "David Sankel"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/k3O4EKX4z1c/0.jpg",
-   "title": "variant: Past, Present and Future",
-   "video": "https://youtube.com/watch?v=k3O4EKX4z1c"
-},{
-   "duration": 3400,
-   "edition": "2016",
-   "identifier": "#cppcon-2016-0037",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "number": 36,
-   "speakers": [
-      "Bryce Adelstein Lelbach"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/Vck6kzWjY88/0.jpg",
-   "title": "The C++17 Parallel Algorithms Library and Beyond",
-   "video": "https://youtube.com/watch?v=Vck6kzWjY88"
-},{
-   "duration": 5167,
-   "edition": "2016",
-   "identifier": "#cppcon-2016-0038",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "number": 37,
-   "speakers": [
-      "Bjarne Stroustrup",
-      "Casey Carter",
-      "Chandler Carruth",
-      "Gabriel Dos Reis",
-      "Hans Boehm",
-      "Herb Sutter",
-      "Jon Kalb",
-      "Marshall Clow",
-      "Michael Wong"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/CPgxw1EzC54/0.jpg",
-   "title": "Grill the Committee",
-   "video": "https://youtube.com/watch?v=CPgxw1EzC54"
-},{
-   "duration": 3482,
-   "edition": "2016",
-   "identifier": "#cppcon-2016-0040",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "number": 38,
-   "speakers": [
-      "James McNellis"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/ZTqHjjm86Bw/0.jpg",
-   "title": "An Introduction to C++ Coroutines",
-   "video": "https://youtube.com/watch?v=ZTqHjjm86Bw"
-},{
-   "duration": 3349,
-   "edition": "2016",
-   "identifier": "#cppcon-2016-0041",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "number": 39,
-   "speakers": [
       "Chandler Carruth"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
    "thumbnail": "http://img.youtube.com/vi/vElZc6zSIXM/0.jpg",
-   "title": "High Performance Code 201: Hybrid Data Structures",
+   "title": " High Performance Code 201: Hybrid Data Structures",
    "video": "https://youtube.com/watch?v=vElZc6zSIXM"
 },{
-   "duration": 3491,
+   "duration": 3112,
    "edition": "2016",
-   "identifier": "#cppcon-2016-0042",
+   "identifier": "#cppcon-2016-0036",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 40,
+   "number": 36,
    "speakers": [
-      "Nicolas Guillemot"
+      "Edouard Alligand",
+      "Joel Falcou"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/UgaQCg-0ZoU/0.jpg",
-   "title": "SPMD Programming Using C++ and ISPC",
-   "video": "https://youtube.com/watch?v=UgaQCg-0ZoU"
+   "thumbnail": "http://img.youtube.com/vi/ky0JdPh_LgE/0.jpg",
+   "title": " Two practical applications of the Brigand TMP library",
+   "video": "https://youtube.com/watch?v=ky0JdPh_LgE"
 },{
    "duration": 3254,
    "edition": "2016",
-   "identifier": "#cppcon-2016-0043",
+   "identifier": "#cppcon-2016-0037",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 41,
+   "number": 37,
    "speakers": [
-      "Ben Deane"
+      "Ben Deane std"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
    "thumbnail": "http://img.youtube.com/vi/B6twozNPUoA/0.jpg",
-   "title": "std::accumulate: Exploring an Algorithmic Empire",
+   "title": ":accumulate: Exploring an Algorithmic Empire",
    "video": "https://youtube.com/watch?v=B6twozNPUoA"
+},{
+   "duration": 3289,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0038",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 38,
+   "speakers": [
+      "Maged Michael",
+      "Michael Wong",
+      "Paul E. MecKenny"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/uhgrD_B1RhQ/0.jpg",
+   "title": " A lock-free concurrency toolkit for deferred reclamation and optimistic speculation",
+   "video": "https://youtube.com/watch?v=uhgrD_B1RhQ"
+},{
+   "duration": 3491,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0039",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 39,
+   "speakers": [
+      "Nicolas Guillemot"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/UgaQCg-0ZoU/0.jpg",
+   "title": " SPMD Programming Using C++ and ISPC",
+   "video": "https://youtube.com/watch?v=UgaQCg-0ZoU"
+},{
+   "duration": 3548,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0040",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 40,
+   "speakers": [
+      "Greg Law"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/-n9Fkq1e6sg/0.jpg",
+   "title": " GDB - A Lot More Than You Knew",
+   "video": "https://youtube.com/watch?v=-n9Fkq1e6sg"
+},{
+   "duration": 3482,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0041",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 41,
+   "speakers": [
+      "James McNellis"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/ZTqHjjm86Bw/0.jpg",
+   "title": " Introduction to C++ Coroutines",
+   "video": "https://youtube.com/watch?v=ZTqHjjm86Bw"
 },{
    "duration": 3521,
    "edition": "2016",
-   "identifier": "#cppcon-2016-0044",
+   "identifier": "#cppcon-2016-0042",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -807,151 +836,158 @@
       "Patrice Roy"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
    "thumbnail": "http://img.youtube.com/vi/Fno6suiXLPs/0.jpg",
-   "title": "The Exception Situation",
+   "title": " The Exception Situation",
    "video": "https://youtube.com/watch?v=Fno6suiXLPs"
 },{
-   "duration": 3112,
+   "duration": 3959,
    "edition": "2016",
-   "identifier": "#cppcon-2016-0045",
+   "identifier": "#cppcon-2016-0043",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
    "number": 43,
    "speakers": [
-      "Edouard Alligand",
-      "Joel Falcou"
+      "Alex Olivas"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/ky0JdPh_LgE/0.jpg",
-   "title": "Two practical applications of the Brigand TMP library",
-   "video": "https://youtube.com/watch?v=ky0JdPh_LgE"
+   "thumbnail": "http://img.youtube.com/vi/5KoHFnALuDE/0.jpg",
+   "title": "Turning Particle-Astro-Physicist-Hackers into Software Engineers",
+   "video": "https://youtube.com/watch?v=5KoHFnALuDE"
 },{
-   "duration": 3548,
+   "duration": 3923,
    "edition": "2016",
-   "identifier": "#cppcon-2016-0046",
+   "identifier": "#cppcon-2016-0044",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
    "number": 44,
    "speakers": [
-      "Greg Law"
+      "Erik Smith"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/-n9Fkq1e6sg/0.jpg",
-   "title": "GDB - a lot more than you realized",
-   "video": "https://youtube.com/watch?v=-n9Fkq1e6sg"
+   "thumbnail": "http://img.youtube.com/vi/75aUjcYr6vE/0.jpg",
+   "title": " A modern database interface for C++",
+   "video": "https://youtube.com/watch?v=75aUjcYr6vE"
 },{
-   "duration": 5786,
+   "duration": 3629,
    "edition": "2016",
-   "identifier": "#cppcon-2016-0047",
+   "identifier": "#cppcon-2016-0045",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
    "number": 45,
    "speakers": [
-      "Dan Saks"
+      "Jason Turner"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/D7Sd8A6_fYU/0.jpg",
-   "title": "Keynote: extern 'C': Talking to C Programmers About C++",
-   "video": "https://youtube.com/watch?v=D7Sd8A6_fYU"
+   "thumbnail": "http://img.youtube.com/vi/uzF4u9KgUWI/0.jpg",
+   "title": " Practical Performance Practices",
+   "video": "https://youtube.com/watch?v=uzF4u9KgUWI"
 },{
-   "duration": 189,
+   "duration": 3751,
    "edition": "2016",
-   "identifier": "#cppcon-2016-0048",
+   "identifier": "#cppcon-2016-0046",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
    "number": 46,
    "speakers": [
-      "Abel Matthew"
+      "Steven Breitstein"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/EjwN7Gf8JIs/0.jpg",
-   "title": "Debugging In the Large",
-   "video": "https://youtube.com/watch?v=EjwN7Gf8JIs"
+   "thumbnail": "http://img.youtube.com/vi/Iess36CZnPI/0.jpg",
+   "title": "BDE Libraries, An Orientation",
+   "video": "https://youtube.com/watch?v=Iess36CZnPI"
 },{
-   "duration": 3458,
+   "duration": 2587,
    "edition": "2016",
-   "identifier": "#cppcon-2016-0050",
+   "identifier": "#cppcon-2016-0047",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
    "number": 47,
    "speakers": [
-      "Michael Caisse"
+      "Michal Dominiak"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/t3O7pio2B20/0.jpg",
-   "title": "Implementing a Modern C++ MQTT Client for Embedded Devices",
-   "video": "https://youtube.com/watch?v=t3O7pio2B20"
+   "thumbnail": "http://img.youtube.com/vi/Os5YLB5D2BU/0.jpg",
+   "title": " Variadic expansion in examples",
+   "video": "https://youtube.com/watch?v=Os5YLB5D2BU"
 },{
-   "duration": 3610,
+   "duration": 3825,
    "edition": "2016",
-   "identifier": "#cppcon-2016-0051",
+   "identifier": "#cppcon-2016-0048",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
    "number": 48,
    "speakers": [
-      "John Lakos"
+      "Marc Gregoire"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/QjFpKJ8Xx78/0.jpg",
-   "title": "Advanced Levelization Techniques (part 1 of 3)",
-   "video": "https://youtube.com/watch?v=QjFpKJ8Xx78"
+   "thumbnail": "http://img.youtube.com/vi/AuWCrdxNCgM/0.jpg",
+   "title": " Mobile App Development for Multiple Platforms with Visual C++, 2016",
+   "video": "https://youtube.com/watch?v=AuWCrdxNCgM"
 },{
-   "duration": 3407,
+   "duration": 3584,
    "edition": "2016",
-   "identifier": "#cppcon-2016-0052",
+   "identifier": "#cppcon-2016-0049",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
    "number": 49,
    "speakers": [
-      "Gor Nishanov"
+      "Timur Doumler"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/8C8NnE1Dg4A/0.jpg",
-   "title": "C++ Coroutines: Under the covers",
-   "video": "https://youtube.com/watch?v=8C8NnE1Dg4A"
+   "thumbnail": "http://img.youtube.com/vi/BP6NxVxDQIs/0.jpg",
+   "title": " Want fast C++? Know your hardware!",
+   "video": "https://youtube.com/watch?v=BP6NxVxDQIs"
 },{
    "duration": 3909,
    "edition": "2016",
-   "identifier": "#cppcon-2016-0053",
+   "identifier": "#cppcon-2016-0050",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -960,83 +996,312 @@
       "Anthony Williams"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
    "thumbnail": "http://img.youtube.com/vi/FaHJOkOrfNo/0.jpg",
-   "title": "The Continuing Future of Concurrency in C++",
+   "title": " The Continuing Future of C++ Concurrency",
    "video": "https://youtube.com/watch?v=FaHJOkOrfNo"
 },{
-   "duration": 3348,
+   "duration": 4464,
    "edition": "2016",
-   "identifier": "#cppcon-2016-0054",
+   "identifier": "#cppcon-2016-0051",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
    "number": 51,
    "speakers": [
-      "Gordon Brown",
-      "Michael Wong"
+      "Boris Kolpackov"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/0Thv72yhxxw/0.jpg",
-   "title": "Towards Heterogeneous Programming in C++",
-   "video": "https://youtube.com/watch?v=0Thv72yhxxw"
+   "thumbnail": "http://img.youtube.com/vi/hHRaZy1LZPA/0.jpg",
+   "title": " Using build2, C++ Build Toolchain",
+   "video": "https://youtube.com/watch?v=hHRaZy1LZPA"
 },{
-   "duration": 3584,
+   "duration": 4176,
    "edition": "2016",
-   "identifier": "#cppcon-2016-0055",
+   "identifier": "#cppcon-2016-0052",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
    "number": 52,
    "speakers": [
-      "Timur Doumler"
+      "Gabriel Dos Reis"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/BP6NxVxDQIs/0.jpg",
-   "title": "Want fast C++? Know your hardware!",
-   "video": "https://youtube.com/watch?v=BP6NxVxDQIs"
+   "thumbnail": "http://img.youtube.com/vi/IA14LXnBcJg/0.jpg",
+   "title": " C++ Modules: The State of The Union",
+   "video": "https://youtube.com/watch?v=IA14LXnBcJg"
 },{
-   "duration": 1663,
+   "duration": 3656,
    "edition": "2016",
-   "identifier": "#cppcon-2016-0056",
+   "identifier": "#cppcon-2016-0053",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
    "number": 53,
    "speakers": [
-      "Diego Rodriguez-Losada Gonzalez"
+      "Peter Gottschling"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/xvqH_ck-5Q8/0.jpg",
-   "title": "Conan, a C and C++ package manager for developers",
-   "video": "https://youtube.com/watch?v=xvqH_ck-5Q8"
+   "thumbnail": "http://img.youtube.com/vi/EkdfiHs78DY/0.jpg",
+   "title": " How bad is Meta-Programming still today?",
+   "video": "https://youtube.com/watch?v=EkdfiHs78DY"
 },{
-   "duration": 1294,
+   "duration": 3520,
    "edition": "2016",
-   "identifier": "#cppcon-2016-0057",
+   "identifier": "#cppcon-2016-0054",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
    "number": 54,
    "speakers": [
+      "Richard Smith"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/h1E-XyxqJRE/0.jpg",
+   "title": " There and Back Again: An Incremental C++ Modules Design",
+   "video": "https://youtube.com/watch?v=h1E-XyxqJRE"
+},{
+   "duration": 3528,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0055",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 55,
+   "speakers": [
+      "Lisa Lippincott"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/Uzu5CuGfmGA/0.jpg",
+   "title": "What is the basic interface? (part 2 of 2)",
+   "video": "https://youtube.com/watch?v=Uzu5CuGfmGA"
+},{
+   "duration": 3480,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0056",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 56,
+   "speakers": [
+      "Lisa Lippincott"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/s70b2P3A3lg/0.jpg",
+   "title": "What is the basic interface? (part 1 of 2)",
+   "video": "https://youtube.com/watch?v=s70b2P3A3lg"
+},{
+   "duration": 3436,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0057",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 57,
+   "speakers": [
+      "Charles Bay"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/8yUSMJWlEsk/0.jpg",
+   "title": " Instruction Re-ordering Everywhere: The C++ 'As-If' Rule and the Role of Sequence",
+   "video": "https://youtube.com/watch?v=8yUSMJWlEsk"
+},{
+   "duration": 3508,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0058",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 58,
+   "speakers": [
+      "Guy Davidson",
+      "Michael Wong",
+      "Nicolas Guillemot",
+      "Sean Middletich"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/dMupATOJKWc/0.jpg",
+   "title": " WG21-SG14 - Making C++ better for games, embedded and financial developers",
+   "video": "https://youtube.com/watch?v=dMupATOJKWc"
+},{
+   "duration": 3320,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0059",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 59,
+   "speakers": [
+      "Ben Deane"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/ojZbFIQSdl8/0.jpg",
+   "title": " Using Types Effectively",
+   "video": "https://youtube.com/watch?v=ojZbFIQSdl8"
+},{
+   "duration": 3457,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0060",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 60,
+   "speakers": [
+      "James McNellis",
+      "Kenny Kerr"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/lm4IwfiJ3EU/0.jpg",
+   "title": " Embracing Standard C++ for the Windows Runtime",
+   "video": "https://youtube.com/watch?v=lm4IwfiJ3EU"
+},{
+   "duration": 3280,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0061",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 61,
+   "speakers": [
+      "James McNellis",
+      "Kenny Kerr"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/v0SjumbIips/0.jpg",
+   "title": " Putting Coroutines to Work with the Windows Runtime",
+   "video": "https://youtube.com/watch?v=v0SjumbIips"
+},{
+   "duration": 3081,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0062",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 62,
+   "speakers": [
+      "Tim Shen"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/N_rkHzhXueo/0.jpg",
+   "title": " Regular Expressions in C++, Present and Future",
+   "video": "https://youtube.com/watch?v=N_rkHzhXueo"
+},{
+   "duration": 3329,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0063",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 63,
+   "speakers": [
+      "Matt P. Dziubinski"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/fMvO0Mcq894/0.jpg",
+   "title": " Computer Architecture, C++, and High Performance",
+   "video": "https://youtube.com/watch?v=fMvO0Mcq894"
+},{
+   "duration": 3632,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0064",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 64,
+   "speakers": [
+      "Howard Hinnant"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/P32hvk8b13M/0.jpg",
+   "title": " A <chrono> Tutorial",
+   "video": "https://youtube.com/watch?v=P32hvk8b13M"
+},{
+   "duration": 1294,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0065",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 65,
+   "speakers": [
       "Billy Baker"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
@@ -1047,321 +1312,357 @@
 },{
    "duration": 1408,
    "edition": "2016",
-   "identifier": "#cppcon-2016-0058",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "number": 55,
-   "speakers": [
-      "Jason Turner",
-      "Robert Irving"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/2zBfcyHaDEY/0.jpg",
-   "title": "What We've Learned From the C++ Community",
-   "video": "https://youtube.com/watch?v=2zBfcyHaDEY"
-},{
-   "duration": 3712,
-   "edition": "2016",
-   "identifier": "#cppcon-2016-0059",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "number": 56,
-   "speakers": [
-      "John Lakos"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/fzFOLsFASjU/0.jpg",
-   "title": "Advanced Levelization Techniques (part 2 of 3)",
-   "video": "https://youtube.com/watch?v=fzFOLsFASjU"
-},{
-   "duration": 3574,
-   "edition": "2016",
-   "identifier": "#cppcon-2016-0060",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "number": 57,
-   "speakers": [
-      "Justin Lebar"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/KHa-OSrZPGo/0.jpg",
-   "title": "Bringing Clang and C++ to GPUs: An Open-Source, CUDA-Compatible GPU C++ Compiler",
-   "video": "https://youtube.com/watch?v=KHa-OSrZPGo"
-},{
-   "duration": 3280,
-   "edition": "2016",
-   "identifier": "#cppcon-2016-0061",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "number": 58,
-   "speakers": [
-      "James McNellis",
-      "Kenny Kerr"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/v0SjumbIips/0.jpg",
-   "title": "Putting Coroutines to Work with the Windows Runtime",
-   "video": "https://youtube.com/watch?v=v0SjumbIips"
-},{
-   "duration": 1706,
-   "edition": "2016",
-   "identifier": "#cppcon-2016-0062",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "number": 59,
-   "speakers": [
-      "Sergey Zubkov"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/QIiFsqsb9HM/0.jpg",
-   "title": "Out of Memory? Business as usual: Examining applications that do not terminate on std::bad_alloc",
-   "video": "https://youtube.com/watch?v=QIiFsqsb9HM"
-},{
-   "duration": 16012,
-   "edition": "2016",
-   "identifier": "#cppcon-2016-0063",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "number": 60,
-   "speakers": [
-      "Python & C++: the Beauty and the Beast, dancing together. Introduction to C++ python extensions and embedding Python in C++ Apps."
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/rfscVS0vtbw/0.jpg",
-   "title": "Introduction to C++ python extensions and embedding Python in C++ Apps",
-   "video": "https://youtube.com/watch?v=rfscVS0vtbw"
-},{
-   "duration": 1878,
-   "edition": "2016",
-   "identifier": "#cppcon-2016-0064",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "number": 61,
-   "speakers": [
-      "Nicholas Ormrod"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/kPR8h4-qZdk/0.jpg",
-   "title": "The strange details of std::string at Facebook",
-   "video": "https://youtube.com/watch?v=kPR8h4-qZdk"
-},{
-   "duration": 3384,
-   "edition": "2016",
-   "identifier": "#cppcon-2016-0065",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "number": 62,
-   "speakers": [
-      "Jens Weller"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/_Unp6vhJIYA/0.jpg",
-   "title": "Writing applications in modern C++ and Qt",
-   "video": "https://youtube.com/watch?v=_Unp6vhJIYA"
-},{
-   "duration": 3588,
-   "edition": "2016",
    "identifier": "#cppcon-2016-0066",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "number": 63,
-   "speakers": [
-      "John Lakos"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/NrARQ7rHV-c/0.jpg",
-   "title": "Advanced Levelization Techniques (part 3 of 3)",
-   "video": "https://youtube.com/watch?v=NrARQ7rHV-c"
-},{
-   "duration": 3661,
-   "edition": "2016",
-   "identifier": "#cppcon-2016-0067",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "number": 64,
-   "speakers": [
-      "Jason Jurecka"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/8AjRD6mU96s/0.jpg",
-   "title": "Game engine using STD C++ 11",
-   "video": "https://youtube.com/watch?v=8AjRD6mU96s"
-},{
-   "duration": 3636,
-   "edition": "2016",
-   "identifier": "#cppcon-2016-0068",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "number": 65,
-   "speakers": [
-      "Gabor Horvath"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/AQF6hjLKsnM/0.jpg",
-   "title": "Make Friends with the Clang Static Analysis Tools",
-   "video": "https://youtube.com/watch?v=AQF6hjLKsnM"
-},{
-   "duration": 4323,
-   "edition": "2016",
-   "identifier": "#cppcon-2016-0069",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
    "number": 66,
    "speakers": [
-      "Fedor Pikus"
+      "Jason Turner",
+      "Robert Irving"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/9hJkWwHDDxs/0.jpg",
-   "title": "The speed of concurrency (is lock-free faster?)",
-   "video": "https://youtube.com/watch?v=9hJkWwHDDxs"
+   "thumbnail": "http://img.youtube.com/vi/2zBfcyHaDEY/0.jpg",
+   "title": " What We've Learned From the C++ Community",
+   "video": "https://youtube.com/watch?v=2zBfcyHaDEY"
 },{
-   "duration": 3641,
+   "duration": 3574,
    "edition": "2016",
-   "identifier": "#cppcon-2016-0070",
+   "identifier": "#cppcon-2016-0067",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
    "number": 67,
    "speakers": [
-      "Stephan T. Lavavej"
+      "Justin Lebar"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/JhgWFYfdIho/0.jpg",
-   "title": "tuple: What's New and How it Works",
-   "video": "https://youtube.com/watch?v=JhgWFYfdIho"
+   "thumbnail": "http://img.youtube.com/vi/KHa-OSrZPGo/0.jpg",
+   "title": " Bringing Clang and C++ to GPUs: An Open-Source, CUDA-Compatible GPU C++ Compiler",
+   "video": "https://youtube.com/watch?v=KHa-OSrZPGo"
 },{
-   "duration": 3870,
+   "duration": 1663,
    "edition": "2016",
-   "identifier": "#cppcon-2016-0071",
+   "identifier": "#cppcon-2016-0068",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
    "number": 68,
    "speakers": [
-      "Howard Hinnant"
+      "Diego Rodriguez-Losada"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/Vwd3pduVGKY/0.jpg",
-   "title": "Welcome To The Time Zone",
-   "video": "https://youtube.com/watch?v=Vwd3pduVGKY"
+   "thumbnail": "http://img.youtube.com/vi/xvqH_ck-5Q8/0.jpg",
+   "title": " Conan, a C and C++ package manager for developers",
+   "video": "https://youtube.com/watch?v=xvqH_ck-5Q8"
 },{
-   "duration": 3578,
+   "duration": 1878,
    "edition": "2016",
-   "identifier": "#cppcon-2016-0076",
+   "identifier": "#cppcon-2016-0069",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
    "number": 69,
    "speakers": [
-      "David Sankel"
+      "Nicholas Ormrod"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/ta3S8CRN2TM/0.jpg",
-   "title": "Building Software Capital: How to write the highest quality code and why",
-   "video": "https://youtube.com/watch?v=ta3S8CRN2TM"
+   "thumbnail": "http://img.youtube.com/vi/kPR8h4-qZdk/0.jpg",
+   "title": " The strange details of std::string at Facebook",
+   "video": "https://youtube.com/watch?v=kPR8h4-qZdk"
 },{
-   "duration": 3579,
+   "duration": 2142,
    "edition": "2016",
-   "identifier": "#cppcon-2016-0077",
+   "identifier": "#cppcon-2016-0070",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
    "number": 70,
    "speakers": [
-      "Patrick Niedzielski"
+      "lkj"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/N80hpts1SSk/0.jpg",
-   "title": "From Zero to Iterators: Building and Extending the Iterator Hierarchy in a Modern, Multicore World",
-   "video": "https://youtube.com/watch?v=N80hpts1SSk"
+   "thumbnail": "http://img.youtube.com/vi/bJq1n4gQFfw/0.jpg",
+   "title": " Introduction to C++ python extensions and embedding Python in C++ Apps",
+   "video": "https://youtube.com/watch?v=bJq1n4gQFfw"
 },{
-   "duration": 3686,
+   "duration": 1706,
    "edition": "2016",
-   "identifier": "#cppcon-2016-0078",
+   "identifier": "#cppcon-2016-0071",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
    "number": 71,
    "speakers": [
+      "Sergey Zubkov"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/QIiFsqsb9HM/0.jpg",
+   "title": " Examining applications that do not terminate on std::bad_alloc",
+   "video": "https://youtube.com/watch?v=QIiFsqsb9HM"
+},{
+   "duration": 3870,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0072",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 72,
+   "speakers": [
+      "Howard Hinnant"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/Vwd3pduVGKY/0.jpg",
+   "title": " Welcome To The Time Zone",
+   "video": "https://youtube.com/watch?v=Vwd3pduVGKY"
+},{
+   "duration": 3636,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0073",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 73,
+   "speakers": [
+      "Gabor Horvath"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/AQF6hjLKsnM/0.jpg",
+   "title": " Make Friends with the Clang Static Analysis Tools",
+   "video": "https://youtube.com/watch?v=AQF6hjLKsnM"
+},{
+   "duration": 3661,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0074",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 74,
+   "speakers": [
+      "Jason Jurecka"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/8AjRD6mU96s/0.jpg",
+   "title": " Game engine using STD C++ 11",
+   "video": "https://youtube.com/watch?v=8AjRD6mU96s"
+},{
+   "duration": 3472,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0075",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 75,
+   "speakers": [
+      "Roland Bock"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/wTmAJAk7WV4/0.jpg",
+   "title": " How to test static_assert?",
+   "video": "https://youtube.com/watch?v=wTmAJAk7WV4"
+},{
+   "duration": 3641,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0076",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 76,
+   "speakers": [
+      "Stephan T. Lavavej"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/JhgWFYfdIho/0.jpg",
+   "title": " tuple<>: What's New and How it Works",
+   "video": "https://youtube.com/watch?v=JhgWFYfdIho"
+},{
+   "duration": 4323,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0077",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 77,
+   "speakers": [
+      "Fedor Pikus"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/9hJkWwHDDxs/0.jpg",
+   "title": " The speed of concurrency (is lock-free faster?)",
+   "video": "https://youtube.com/watch?v=9hJkWwHDDxs"
+},{
+   "duration": 3672,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0078",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 78,
+   "speakers": [
+      "Michael Caisse"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/rwOv_tw2eA4/0.jpg",
+   "title": " Asynchronous IO with Boost.Asio",
+   "video": "https://youtube.com/watch?v=rwOv_tw2eA4"
+},{
+   "duration": 3602,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0079",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 79,
+   "speakers": [
+      "Klaus Iglberger"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/w-Y22KrMgFE/0.jpg",
+   "title": " The Blaze High Performance Math Library",
+   "video": "https://youtube.com/watch?v=w-Y22KrMgFE"
+},{
+   "duration": 3578,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0080",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 80,
+   "speakers": [
+      "David Sankel"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/ta3S8CRN2TM/0.jpg",
+   "title": " Building Software Capital: How to write the highest quality code and why",
+   "video": "https://youtube.com/watch?v=ta3S8CRN2TM"
+},{
+   "duration": 3237,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0081",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 81,
+   "speakers": [
+      "Cheinan Marks"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/4_QO1nm7uJs/0.jpg",
+   "title": " I Just Wanted a Random Integer!",
+   "video": "https://youtube.com/watch?v=4_QO1nm7uJs"
+},{
+   "duration": 3579,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0082",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 82,
+   "speakers": [
+      "Patrick Niedzielski"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/N80hpts1SSk/0.jpg",
+   "title": "  Building and Extending the Iterator Hierarchy in a Modern, Multicore World",
+   "video": "https://youtube.com/watch?v=N80hpts1SSk"
+},{
+   "duration": 3686,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0083",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 83,
+   "speakers": [
       "Alexandru Voicu"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
@@ -1370,291 +1671,225 @@
    "title": "Optimally Shooting Furry Balls out of Vulkanoes",
    "video": "https://youtube.com/watch?v=6QSPkScdjg0"
 },{
-   "duration": 3672,
-   "edition": "2016",
-   "identifier": "#cppcon-2016-0079",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "number": 72,
-   "speakers": [
-      "Michael Caisse"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/rwOv_tw2eA4/0.jpg",
-   "title": "Asynchronous IO with Boost.Asio",
-   "video": "https://youtube.com/watch?v=rwOv_tw2eA4"
-},{
-   "duration": 3602,
-   "edition": "2016",
-   "identifier": "#cppcon-2016-0080",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "number": 73,
-   "speakers": [
-      "Klaus Iglberger"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/w-Y22KrMgFE/0.jpg",
-   "title": "The Blaze High Performance Math Library",
-   "video": "https://youtube.com/watch?v=w-Y22KrMgFE"
-},{
-   "duration": 4792,
-   "edition": "2016",
-   "identifier": "#cppcon-2016-0081",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "number": 74,
-   "speakers": [
-      "Jason Turner"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/zBkNBP00wJE/0.jpg",
-   "title": "Rich Code For Tiny Machines: A Simple Commodore 64 Game In C++17",
-   "video": "https://youtube.com/watch?v=zBkNBP00wJE"
-},{
-   "duration": 3678,
-   "edition": "2016",
-   "identifier": "#cppcon-2016-0082",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "number": 75,
-   "speakers": [
-      "Mark Zeren"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/XuHlDtWYeD8/0.jpg",
-   "title": "clang-format Birds of a Feather",
-   "video": "https://youtube.com/watch?v=XuHlDtWYeD8"
-},{
-   "duration": 3505,
+   "duration": 3459,
    "edition": "2016",
    "identifier": "#cppcon-2016-0084",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 76,
-   "speakers": [
-      "Gregory Hoffer"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/V1t6faOKjuQ/0.jpg",
-   "title": "Working at Globalscape: Building successful enterprise solutions with C++ on Windows!",
-   "video": "https://youtube.com/watch?v=V1t6faOKjuQ"
-},{
-   "duration": 5167,
-   "edition": "2016",
-   "identifier": "#cppcon-2016-0085",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "number": 77,
-   "speakers": [
-      "David Sankel",
-      "Roland Bock"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/CPgxw1EzC54/0.jpg",
-   "title": "Reflection, Status and Use Cases",
-   "video": "https://youtube.com/watch?v=CPgxw1EzC54"
-},{
-   "duration": 3092,
-   "edition": "2016",
-   "identifier": "#cppcon-2016-0086",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "number": 78,
-   "speakers": [
-      "John Dubchak"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/tEFTAQSjoqo/0.jpg",
-   "title": "A C++ MQTT Message Broker for the Enterprise",
-   "video": "https://youtube.com/watch?v=tEFTAQSjoqo"
-},{
-   "duration": 3476,
-   "edition": "2016",
-   "identifier": "#cppcon-2016-0087",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "number": 79,
-   "speakers": [
-      "Robert Ramey"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/632a-DMM5J0/0.jpg",
-   "title": "C++, Abstract Algebra and Practical Applications",
-   "video": "https://youtube.com/watch?v=632a-DMM5J0"
-},{
-   "duration": 3787,
-   "edition": "2016",
-   "identifier": "#cppcon-2016-0088",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "number": 80,
-   "speakers": [
-      "Mark Isaacson"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/_YzUD9FvQlg/0.jpg",
-   "title": "Developing C++ @ Facebook Scale",
-   "video": "https://youtube.com/watch?v=_YzUD9FvQlg"
-},{
-   "duration": 3459,
-   "edition": "2016",
-   "identifier": "#cppcon-2016-0089",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "number": 81,
+   "number": 84,
    "speakers": [
       "Chandler Carruth"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
    "thumbnail": "http://img.youtube.com/vi/yG1OZ69H_-o/0.jpg",
-   "title": "Garbage In, Garbage Out: Arguing about Undefined Behavior with Nasal Demons",
+   "title": " Garbage In, Garbage Out: Arguing about Undefined Behavior...",
    "video": "https://youtube.com/watch?v=yG1OZ69H_-o"
 },{
-   "duration": 3629,
+   "duration": 3813,
    "edition": "2016",
-   "identifier": "#cppcon-2016-0090",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "number": 82,
-   "speakers": [
-      "Brett Searles"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/uzF4u9KgUWI/0.jpg",
-   "title": "Message Handling in Modern C++ Applications",
-   "video": "https://youtube.com/watch?v=uzF4u9KgUWI"
-},{
-   "duration": 3573,
-   "edition": "2016",
-   "identifier": "#cppcon-2016-0091",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "number": 83,
-   "speakers": [
-      "Marshall Clow"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/h4Jl1fk3MkQ/0.jpg",
-   "title": "STL Algorithms - why you should use them, and how to write your own",
-   "video": "https://youtube.com/watch?v=h4Jl1fk3MkQ"
-},{
-   "duration": 3620,
-   "edition": "2016",
-   "identifier": "#cppcon-2016-0092",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "number": 84,
-   "speakers": [
-      "Eduardo Madrid"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/z6fo90R8q5U/0.jpg",
-   "title": "Achieving ultimate performance in financial data processing through compile time introspection: CME MDP3 example",
-   "video": "https://youtube.com/watch?v=z6fo90R8q5U"
-},{
-   "duration": 2840,
-   "edition": "2016",
-   "identifier": "#cppcon-2016-0093",
+   "identifier": "#cppcon-2016-0085",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
    "number": 85,
    "speakers": [
-      "David Watson"
+      "Rian Quinn"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/GDxb21kEthM/0.jpg",
-   "title": "Experiences with Facebook's C++ library",
-   "video": "https://youtube.com/watch?v=GDxb21kEthM"
+   "thumbnail": "http://img.youtube.com/vi/uQSQy-7lveQ/0.jpg",
+   "title": " Making C++ and the STL Work in the Linux / Windows Kernels",
+   "video": "https://youtube.com/watch?v=uQSQy-7lveQ"
 },{
-   "duration": 3649,
+   "duration": 3336,
    "edition": "2016",
-   "identifier": "#cppcon-2016-0094",
+   "identifier": "#cppcon-2016-0086",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
    "number": 86,
    "speakers": [
+      "Kirk Shoop"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/FcQURwM806o/0.jpg",
+   "title": " Algorithm Design For Values Distributed In Time",
+   "video": "https://youtube.com/watch?v=FcQURwM806o"
+},{
+   "duration": 3407,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0087",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 87,
+   "speakers": [
+      "Gor Nishanov"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/8C8NnE1Dg4A/0.jpg",
+   "title": " C++ Coroutines: Under the covers",
+   "video": "https://youtube.com/watch?v=8C8NnE1Dg4A"
+},{
+   "duration": 3573,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0088",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 88,
+   "speakers": [
+      "Marshall Clow"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/h4Jl1fk3MkQ/0.jpg",
+   "title": " STL Algorithms - why you should use them, and how to write your own",
+   "video": "https://youtube.com/watch?v=h4Jl1fk3MkQ"
+},{
+   "duration": 3476,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0089",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 89,
+   "speakers": [
+      "Robert Ramey"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/632a-DMM5J0/0.jpg",
+   "title": " C++, Abstract Algebra and Practical Applications",
+   "video": "https://youtube.com/watch?v=632a-DMM5J0"
+},{
+   "duration": 3805,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0090",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 90,
+   "speakers": [
+      "Hans Boehm"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/M15UKpNlpeM/0.jpg",
+   "title": " Using weakly ordered C++ atomics correctly",
+   "video": "https://youtube.com/watch?v=M15UKpNlpeM"
+},{
+   "duration": 3649,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0091",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 91,
+   "speakers": [
       "Pablo Halpern"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
    "thumbnail": "http://img.youtube.com/vi/h6Q-5Q2N5ck/0.jpg",
-   "title": "Introduction to Vector Parallelism",
+   "title": " Introduction to Vector Parallelism",
    "video": "https://youtube.com/watch?v=h6Q-5Q2N5ck"
+},{
+   "duration": 3458,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0092",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 92,
+   "speakers": [
+      "Michael Caisse"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/t3O7pio2B20/0.jpg",
+   "title": " Implementing a Modern C++ MQTT Client for Embedded Devices",
+   "video": "https://youtube.com/watch?v=t3O7pio2B20"
+},{
+   "duration": 3092,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0093",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 93,
+   "speakers": [
+      "John Dubchak"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/tEFTAQSjoqo/0.jpg",
+   "title": " A C++ MQTT Message Broker for the Enterprise",
+   "video": "https://youtube.com/watch?v=tEFTAQSjoqo"
+},{
+   "duration": 3787,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0094",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 94,
+   "speakers": [
+      "Mark Isaacson"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/_YzUD9FvQlg/0.jpg",
+   "title": " Developing C++ @ Facebook Scale",
+   "video": "https://youtube.com/watch?v=_YzUD9FvQlg"
 },{
    "duration": 3008,
    "edition": "2016",
@@ -1662,859 +1897,977 @@
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 87,
+   "number": 95,
    "speakers": [
       "Nicolas Fleury"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
    "thumbnail": "http://img.youtube.com/vi/tD4xRNB0M_Q/0.jpg",
-   "title": "Rainbow Six Siege: Quest for Performance",
+   "title": " Rainbow Six Siege: Quest for Performance",
    "video": "https://youtube.com/watch?v=tD4xRNB0M_Q"
 },{
-   "duration": 3805,
+   "duration": 1279,
    "edition": "2016",
    "identifier": "#cppcon-2016-0096",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 88,
+   "number": 96,
    "speakers": [
-      "Hans Boehm"
+      "Robert Ramey"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/M15UKpNlpeM/0.jpg",
-   "title": "Using weakly ordered C++ atomics correctly",
-   "video": "https://youtube.com/watch?v=M15UKpNlpeM"
+   "thumbnail": "http://img.youtube.com/vi/cw_8QkFXZjI/0.jpg",
+   "title": " Safe Numerics Library",
+   "video": "https://youtube.com/watch?v=cw_8QkFXZjI"
 },{
-   "duration": 2975,
+   "duration": 2535,
    "edition": "2016",
    "identifier": "#cppcon-2016-0097",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 89,
+   "number": 97,
    "speakers": [
-      "Serge Guelton"
+      "John McFarlane"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/q0N9Tvf7Bz0/0.jpg",
-   "title": "C++ Costless Abstractions: the compiler view",
-   "video": "https://youtube.com/watch?v=q0N9Tvf7Bz0"
+   "thumbnail": "http://img.youtube.com/vi/cdaN51rRzSE/0.jpg",
+   "title": " fixed_point",
+   "video": "https://youtube.com/watch?v=cdaN51rRzSE"
 },{
-   "duration": 3282,
+   "duration": 3760,
    "edition": "2016",
    "identifier": "#cppcon-2016-0098",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 90,
+   "number": 98,
    "speakers": [
-      "Antony Polukhin"
+      "Joel Falcou"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/abdeAew3gmQ/0.jpg",
-   "title": "C++14 Reflections Without Macros, Markup nor External Tooling: metaprogramming tricks for POD types",
-   "video": "https://youtube.com/watch?v=abdeAew3gmQ"
+   "thumbnail": "http://img.youtube.com/vi/2HsLsTRxfbA/0.jpg",
+   "title": " Designing C++ portable SIMD support",
+   "video": "https://youtube.com/watch?v=2HsLsTRxfbA"
 },{
-   "duration": 3298,
+   "duration": 3610,
    "edition": "2016",
    "identifier": "#cppcon-2016-0099",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 91,
+   "number": 99,
    "speakers": [
-      "Nat Goodspeed"
+      "John Lakos"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/e-NUmyBou8Q/0.jpg",
-   "title": "Elegant Asynchronous Code",
-   "video": "https://youtube.com/watch?v=e-NUmyBou8Q"
+   "thumbnail": "http://img.youtube.com/vi/QjFpKJ8Xx78/0.jpg",
+   "title": " Advanced Levelization Techniques (part 1 of 3)",
+   "video": "https://youtube.com/watch?v=QjFpKJ8Xx78"
 },{
-   "duration": 4106,
+   "duration": 3712,
    "edition": "2016",
    "identifier": "#cppcon-2016-0100",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 92,
+   "number": 100,
    "speakers": [
-      "Vincent Reverdy"
+      "John Lakos"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/PA7oFnarcXQ/0.jpg",
-   "title": "From Numerical Cosmology to Efficient Bit Abstractions for the Standard Library",
-   "video": "https://youtube.com/watch?v=PA7oFnarcXQ"
+   "thumbnail": "http://img.youtube.com/vi/fzFOLsFASjU/0.jpg",
+   "title": " Advanced Levelization Techniques (part 2 of 3)",
+   "video": "https://youtube.com/watch?v=fzFOLsFASjU"
 },{
-   "duration": 3620,
+   "duration": 3588,
    "edition": "2016",
    "identifier": "#cppcon-2016-0101",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 93,
+   "number": 101,
    "speakers": [
-      "Neil MacIntosh"
+      "John Lakos"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/_GhNnCuaEjo/0.jpg",
-   "title": "The Guideline Support Library: One Year Later",
-   "video": "https://youtube.com/watch?v=_GhNnCuaEjo"
+   "thumbnail": "http://img.youtube.com/vi/NrARQ7rHV-c/0.jpg",
+   "title": " Advanced Levelization Techniques (part 3 of 3)",
+   "video": "https://youtube.com/watch?v=NrARQ7rHV-c"
 },{
-   "duration": 3411,
+   "duration": 3384,
    "edition": "2016",
    "identifier": "#cppcon-2016-0102",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 94,
+   "number": 102,
    "speakers": [
-      "Dan Gohman"
+      "Jens Weller"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/jXMtQ2fTl4c/0.jpg",
-   "title": "C++ on the Web: Let's have some serious fun.",
-   "video": "https://youtube.com/watch?v=jXMtQ2fTl4c"
+   "thumbnail": "http://img.youtube.com/vi/_Unp6vhJIYA/0.jpg",
+   "title": " Writing applications in modern C++ and Qt",
+   "video": "https://youtube.com/watch?v=_Unp6vhJIYA"
 },{
-   "duration": 3001,
+   "duration": 3620,
    "edition": "2016",
    "identifier": "#cppcon-2016-0103",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 95,
-   "speakers": [
-      "Christopher Di Bella"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/0-n7fyQYsVk/0.jpg",
-   "title": "Start teaching the Concepts TS and the ranges library now!",
-   "video": "https://youtube.com/watch?v=0-n7fyQYsVk"
-},{
-   "duration": 3959,
-   "edition": "2016",
-   "identifier": "#cppcon-2016-0106",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "number": 96,
-   "speakers": [
-      "Alex Olivas"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/5KoHFnALuDE/0.jpg",
-   "title": "C++ at the South Pole : Turning Particle-Astro-Physicist-Hackers into Software Engineers",
-   "video": "https://youtube.com/watch?v=5KoHFnALuDE"
-},{
-   "duration": 3804,
-   "edition": "2016",
-   "identifier": "#cppcon-2016-0107",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "number": 97,
-   "speakers": [
-      "Miodrag Milanovic"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/wAUnUWYaA5s/0.jpg",
-   "title": "The MAME (Multi-Arcade Machine Emulator) story: From C to Modern C++",
-   "video": "https://youtube.com/watch?v=wAUnUWYaA5s"
-},{
-   "duration": 3923,
-   "edition": "2016",
-   "identifier": "#cppcon-2016-0108",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "number": 98,
-   "speakers": [
-      "Erik Smith"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/75aUjcYr6vE/0.jpg",
-   "title": "A modern database interface for C++",
-   "video": "https://youtube.com/watch?v=75aUjcYr6vE"
-},{
-   "duration": 3572,
-   "edition": "2016",
-   "identifier": "#cppcon-2016-0109",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "number": 99,
-   "speakers": [
-      "Manuel Klimek"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/dHFNpBfemDI/0.jpg",
-   "title": "Deploying C++ modules to 100s of millions of lines of code",
-   "video": "https://youtube.com/watch?v=dHFNpBfemDI"
-},{
-   "duration": 3982,
-   "edition": "2016",
-   "identifier": "#cppcon-2016-0110",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "number": 100,
-   "speakers": [
-      "Tim Haines"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/w5Z4JlMJ1VQ/0.jpg",
-   "title": "Improving Performance Through Compiler Switches- Examples from Scientific Computing",
-   "video": "https://youtube.com/watch?v=w5Z4JlMJ1VQ"
-},{
-   "duration": 3783,
-   "edition": "2016",
-   "identifier": "#cppcon-2016-0111",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "number": 101,
-   "speakers": [
-      "Vittorio Romeo"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/aXSsUqVSe2k/0.jpg",
-   "title": "Implementing 'static' control flow in C++14",
-   "video": "https://youtube.com/watch?v=aXSsUqVSe2k"
-},{
-   "duration": 4552,
-   "edition": "2016",
-   "identifier": "#cppcon-2016-0112",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "number": 102,
-   "speakers": [
-      "David Schwartz"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/w4jq4frE5v4/0.jpg",
-   "title": "Keynote: Developing Blockchain Software",
-   "video": "https://youtube.com/watch?v=w4jq4frE5v4"
-},{
-   "duration": 2304,
-   "edition": "2016",
-   "identifier": "#cppcon-2016-0114",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
    "number": 103,
    "speakers": [
-      "Rich Geldreich",
-      "Stephanie Hurlburt"
+      "Eduardo Madrid"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/Q6tC7IVUuEc/0.jpg",
-   "title": "Texture Compression",
-   "video": "https://youtube.com/watch?v=Q6tC7IVUuEc"
+   "thumbnail": "http://img.youtube.com/vi/z6fo90R8q5U/0.jpg",
+   "title": " Achieving performance in financial data processing through compile time introspection",
+   "video": "https://youtube.com/watch?v=z6fo90R8q5U"
 },{
-   "duration": 2863,
+   "duration": 2840,
    "edition": "2016",
-   "identifier": "#cppcon-2016-0115",
+   "identifier": "#cppcon-2016-0104",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
    "number": 104,
    "speakers": [
-      "Andy Bond"
+      "David Watson"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/ZCGyvPDM0YY/0.jpg",
-   "title": "AAAARGH!? Adopting Almost Always Auto Reinforces Good Habits!?",
-   "video": "https://youtube.com/watch?v=ZCGyvPDM0YY"
+   "thumbnail": "http://img.youtube.com/vi/GDxb21kEthM/0.jpg",
+   "title": " Experiences with Facebook's C++ library",
+   "video": "https://youtube.com/watch?v=GDxb21kEthM"
 },{
-   "duration": 3816,
+   "duration": 3620,
    "edition": "2016",
-   "identifier": "#cppcon-2016-0116",
+   "identifier": "#cppcon-2016-0105",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
    "number": 105,
    "speakers": [
-      "Dietmar Kuhl"
+      "Neil MacIntosh"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/xWmdcvTedbc/0.jpg",
-   "title": "Constant Fun",
-   "video": "https://youtube.com/watch?v=xWmdcvTedbc"
+   "thumbnail": "http://img.youtube.com/vi/_GhNnCuaEjo/0.jpg",
+   "title": " The Guideline Support Library: One Year Later",
+   "video": "https://youtube.com/watch?v=_GhNnCuaEjo"
 },{
-   "duration": 2791,
+   "duration": 3411,
    "edition": "2016",
-   "identifier": "#cppcon-2016-0117",
+   "identifier": "#cppcon-2016-0106",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
    "number": 106,
    "speakers": [
-      "John Bandela"
+      "Dan Gohman"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/N3CkQu39j5I/0.jpg",
-   "title": "Channels - An alternative to callbacks and futures",
-   "video": "https://youtube.com/watch?v=N3CkQu39j5I"
+   "thumbnail": "http://img.youtube.com/vi/jXMtQ2fTl4c/0.jpg",
+   "title": " C++ on the Web: Let's have some serious fun.",
+   "video": "https://youtube.com/watch?v=jXMtQ2fTl4c"
 },{
-   "duration": 3466,
+   "duration": 3298,
    "edition": "2016",
-   "identifier": "#cppcon-2016-0118",
+   "identifier": "#cppcon-2016-0107",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
    "number": 107,
    "speakers": [
-      "JF Bastien"
+      "Nat Goodspeed"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/IB57wIf9W1k/0.jpg",
-   "title": "No Sane Compiler Would Optimize Atomics",
-   "video": "https://youtube.com/watch?v=IB57wIf9W1k"
+   "thumbnail": "http://img.youtube.com/vi/e-NUmyBou8Q/0.jpg",
+   "title": " Elegant Asynchronous Code",
+   "video": "https://youtube.com/watch?v=e-NUmyBou8Q"
 },{
-   "duration": 4098,
+   "duration": 2975,
    "edition": "2016",
-   "identifier": "#cppcon-2016-0119",
+   "identifier": "#cppcon-2016-0108",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
    "number": 108,
    "speakers": [
-      "Walter E. Brown"
+      "Serge Guelton"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/6DPkyvkMkk8/0.jpg",
-   "title": "What C++ Programmers Need to Know about Header",
-   "video": "https://youtube.com/watch?v=6DPkyvkMkk8"
+   "thumbnail": "http://img.youtube.com/vi/q0N9Tvf7Bz0/0.jpg",
+   "title": " C++ Costless Abstractions: the compiler view",
+   "video": "https://youtube.com/watch?v=q0N9Tvf7Bz0"
 },{
-   "duration": 3812,
+   "duration": 3282,
    "edition": "2016",
-   "identifier": "#cppcon-2016-0120",
+   "identifier": "#cppcon-2016-0109",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
    "number": 109,
    "speakers": [
-      "Niall Douglas"
+      "Antony Polukhin"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/9l28ax3Zq0w/0.jpg",
-   "title": "Better mutual exclusion on the filesystem using Boost.AFIO (asynchronous file and filesystem)",
-   "video": "https://youtube.com/watch?v=9l28ax3Zq0w"
+   "thumbnail": "http://img.youtube.com/vi/abdeAew3gmQ/0.jpg",
+   "title": " C++14 Reflections Without Macros, Markup nor External Tooling..",
+   "video": "https://youtube.com/watch?v=abdeAew3gmQ"
 },{
-   "duration": 3336,
+   "duration": 4106,
    "edition": "2016",
-   "identifier": "#cppcon-2016-0121",
+   "identifier": "#cppcon-2016-0110",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
    "number": 110,
    "speakers": [
-      "Kirk Shoop"
+      "Vincent Reverdy"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/FcQURwM806o/0.jpg",
-   "title": "Algorithm Design For Values Distributed In Time",
-   "video": "https://youtube.com/watch?v=FcQURwM806o"
+   "thumbnail": "http://img.youtube.com/vi/PA7oFnarcXQ/0.jpg",
+   "title": " From Numerical Cosmology to Efficient Bit Abstractions for the Standard Library",
+   "video": "https://youtube.com/watch?v=PA7oFnarcXQ"
 },{
-   "duration": 3472,
+   "duration": 3501,
    "edition": "2016",
-   "identifier": "#cppcon-2016-0122",
+   "identifier": "#cppcon-2016-0111",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
    "number": 111,
    "speakers": [
-      "Roland Bock"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/wTmAJAk7WV4/0.jpg",
-   "title": "How to test static_assert?",
-   "video": "https://youtube.com/watch?v=wTmAJAk7WV4"
-},{
-   "duration": 3237,
-   "edition": "2016",
-   "identifier": "#cppcon-2016-0123",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "number": 112,
-   "speakers": [
-      "Cheinan Marks"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/4_QO1nm7uJs/0.jpg",
-   "title": "I Just Wanted a Random Integer!",
-   "video": "https://youtube.com/watch?v=4_QO1nm7uJs"
-},{
-   "duration": 3813,
-   "edition": "2016",
-   "identifier": "#cppcon-2016-0124",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "number": 113,
-   "speakers": [
-      "Rian Quinn"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/uQSQy-7lveQ/0.jpg",
-   "title": "Making C++ and the STL Work in the Linux / Windows Kernels",
-   "video": "https://youtube.com/watch?v=uQSQy-7lveQ"
-},{
-   "duration": 3520,
-   "edition": "2016",
-   "identifier": "#cppcon-2016-0125",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "number": 114,
-   "speakers": [
-      "Richard Smith"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/h1E-XyxqJRE/0.jpg",
-   "title": "There and Back Again: An Incremental C++ Modules Design",
-   "video": "https://youtube.com/watch?v=h1E-XyxqJRE"
-},{
-   "duration": 3629,
-   "edition": "2016",
-   "identifier": "#cppcon-2016-0126",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "number": 115,
-   "speakers": [
-      "Jason Turner"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/uzF4u9KgUWI/0.jpg",
-   "title": "Practical Performance Practices",
-   "video": "https://youtube.com/watch?v=uzF4u9KgUWI"
-},{
-   "duration": 3794,
-   "edition": "2016",
-   "identifier": "#cppcon-2016-0127",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "number": 116,
-   "speakers": [
-      "Jackie Kay"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/mresWGsVHj0/0.jpg",
-   "title": "Control Freak++: Writing an Embedded RTPS Library in C++14",
-   "video": "https://youtube.com/watch?v=mresWGsVHj0"
-},{
-   "duration": 3825,
-   "edition": "2016",
-   "identifier": "#cppcon-2016-0128",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "number": 117,
-   "speakers": [
-      "Marc Gregoire"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/AuWCrdxNCgM/0.jpg",
-   "title": "Mobile App Development for Multiple Platforms with Visual C++, 2016",
-   "video": "https://youtube.com/watch?v=AuWCrdxNCgM"
-},{
-   "duration": 3223,
-   "edition": "2016",
-   "identifier": "#cppcon-2016-0129",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "number": 118,
-   "speakers": [
-      "Marcelo Juchem"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/tq0YfWFlVZA/0.jpg",
-   "title": "The Power of Reflection with Facebook's Thrift",
-   "video": "https://youtube.com/watch?v=tq0YfWFlVZA"
-},{
-   "duration": 4464,
-   "edition": "2016",
-   "identifier": "#cppcon-2016-0130",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "number": 119,
-   "speakers": [
-      "Boris Kolpackov"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/hHRaZy1LZPA/0.jpg",
-   "title": "Using build2, C++ Build Toolchain",
-   "video": "https://youtube.com/watch?v=hHRaZy1LZPA"
-},{
-   "duration": 2587,
-   "edition": "2016",
-   "identifier": "#cppcon-2016-0131",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "number": 120,
-   "speakers": [
-      "Michal Dominiak"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/Os5YLB5D2BU/0.jpg",
-   "title": "Variadic expansion in examples",
-   "video": "https://youtube.com/watch?v=Os5YLB5D2BU"
-},{
-   "duration": 3751,
-   "edition": "2016",
-   "identifier": "#cppcon-2016-0132",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "number": 121,
-   "speakers": [
-      "Steven Breitstein"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/Iess36CZnPI/0.jpg",
-   "title": "BDE Libraries, An Orientation",
-   "video": "https://youtube.com/watch?v=Iess36CZnPI"
-},{
-   "duration": 3672,
-   "edition": "2016",
-   "identifier": "#cppcon-2016-0133",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "number": 122,
-   "speakers": [
-      "Jon Kalb"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/rwOv_tw2eA4/0.jpg",
-   "title": "CppCon 2017 Kick-off Meeting",
-   "video": "https://youtube.com/watch?v=rwOv_tw2eA4"
-},{
-   "duration": 2304,
-   "edition": "2016",
-   "identifier": "#cppcon-2016-0135",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "number": 123,
-   "speakers": [
-      "Fabian Giesen",
-      "Guy Davidson",
-      "Nicolas Guillemot",
-      "Rich Geldreich",
-      "Stephanie Hurlburt"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/Q6tC7IVUuEc/0.jpg",
-   "title": "Compression Panel",
-   "video": "https://youtube.com/watch?v=Q6tC7IVUuEc"
-},{
-   "duration": 3629,
-   "edition": "2016",
-   "identifier": "#cppcon-2016-0136",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "number": 124,
-   "speakers": [
-      "Alf-Andre Walla"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/uzF4u9KgUWI/0.jpg",
-   "title": "Making a tiny memory footprint IRC server in C++",
-   "video": "https://youtube.com/watch?v=uzF4u9KgUWI"
-},{
-   "duration": 4184,
-   "edition": "2016",
-   "identifier": "#cppcon-2016-0137",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "number": 125,
-   "speakers": [
-      "Jon Kalb"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/cZ3TNrRzHfM/0.jpg",
-   "title": "Using Enum Structs as Bitfields",
-   "video": "https://youtube.com/watch?v=cZ3TNrRzHfM"
-},{
-   "duration": 3289,
-   "edition": "2016",
-   "identifier": "#cppcon-2016-0138",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "number": 126,
-   "speakers": [
-      "Maged Michael",
-      "Michael Wong",
-      "Paul E. McKenney"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/uhgrD_B1RhQ/0.jpg",
-   "title": "A lock-free concurrency toolkit for deferred reclamation and optimistic speculation",
-   "video": "https://youtube.com/watch?v=uhgrD_B1RhQ"
-},{
-   "duration": 4176,
-   "edition": "2016",
-   "identifier": "#cppcon-2016-0139",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "number": 127,
-   "speakers": [
-      "Gabriel Dos Reis"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/IA14LXnBcJg/0.jpg",
-   "title": "C++ Modules: The State of The Union",
-   "video": "https://youtube.com/watch?v=IA14LXnBcJg"
-},{
-   "duration": 3656,
-   "edition": "2016",
-   "identifier": "#cppcon-2016-0140",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "number": 128,
-   "speakers": [
-      "Peter Gottschling"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/EkdfiHs78DY/0.jpg",
-   "title": "How bad is Meta-Programming still today?",
-   "video": "https://youtube.com/watch?v=EkdfiHs78DY"
-},{
-   "duration": 3691,
-   "edition": "2016",
-   "identifier": "#cppcon-2016-0141",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "number": 129,
-   "speakers": [
-      "Bob Steagall"
-   ],
-   "tags": [
-      "conference",
-      "live",
-      "c++"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/FPUBjPYBsGI/0.jpg",
-   "title": "Implementing Lightweight Object Persistence with Modern C++",
-   "video": "https://youtube.com/watch?v=FPUBjPYBsGI"
-},{
-   "duration": 3501,
-   "edition": "2016",
-   "identifier": "#cppcon-2016-0142",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "number": 130,
-   "speakers": [
       "Casey Carter"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
    "thumbnail": "http://img.youtube.com/vi/rZs9ndzGB_8/0.jpg",
-   "title": "Iterator Haiku",
+   "title": " Iterator Haiku",
    "video": "https://youtube.com/watch?v=rZs9ndzGB_8"
 },{
-   "duration": 5965,
+   "duration": 2791,
    "edition": "2016",
-   "identifier": "#cppcon-2016-0143",
+   "identifier": "#cppcon-2016-0112",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 112,
+   "speakers": [
+      "John Bandela"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/N3CkQu39j5I/0.jpg",
+   "title": " Channels - An alternative to callbacks and futures",
+   "video": "https://youtube.com/watch?v=N3CkQu39j5I"
+},{
+   "duration": 337,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0113",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 113,
+   "speakers": [
+      "Giuseppe D'Angelo"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/vGUm3bQStVM/0.jpg",
+   "title": "C++ and Qt communities: join the forces",
+   "video": "https://youtube.com/watch?v=vGUm3bQStVM"
+},{
+   "duration": 205,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0117",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 114,
+   "speakers": [
+      "Dietmar Kuhl"
+   ],
+   "tags": [
+      "lightning",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/hGu9XWsOgWQ/0.jpg",
+   "title": " range for",
+   "video": "https://youtube.com/watch?v=hGu9XWsOgWQ"
+},{
+   "duration": 341,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0118",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 115,
+   "speakers": [
+      "Miodrag Milanovic"
+   ],
+   "tags": [
+      "lightning",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/_vArtdDTrTM/0.jpg",
+   "title": "8888 : Introduction to GENie - Project generator tool",
+   "video": "https://youtube.com/watch?v=_vArtdDTrTM"
+},{
+   "duration": 351,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0119",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 116,
+   "speakers": [
+      "Isabella Muerte"
+   ],
+   "tags": [
+      "lightning",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/VctviQl-SR4/0.jpg",
+   "title": " No Concepts Beyond This Point: The Detection Idiom",
+   "video": "https://youtube.com/watch?v=VctviQl-SR4"
+},{
+   "duration": 255,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0120",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 117,
+   "speakers": [
+      "Arvid Norberg"
+   ],
+   "tags": [
+      "lightning",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/cu21_TtaYug/0.jpg",
+   "title": "Link compatibility",
+   "video": "https://youtube.com/watch?v=cu21_TtaYug"
+},{
+   "duration": 243,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0121",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 118,
+   "speakers": [
+      "Arthur O'Dwyer"
+   ],
+   "tags": [
+      "lightning",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/lIJziqkSaBk/0.jpg",
+   "title": " ADT puzzler",
+   "video": "https://youtube.com/watch?v=lIJziqkSaBk"
+},{
+   "duration": 329,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0122",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 119,
+   "speakers": [
+      "Ravi Pinjala"
+   ],
+   "tags": [
+      "lightning",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/8OjSDaaySDA/0.jpg",
+   "title": " Word's one data structure",
+   "video": "https://youtube.com/watch?v=8OjSDaaySDA"
+},{
+   "duration": 214,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0123",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 120,
+   "speakers": [
+      "David Sankel"
+   ],
+   "tags": [
+      "lightning",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/H8HplZtVGT0/0.jpg",
+   "title": "Concepts in 5",
+   "video": "https://youtube.com/watch?v=H8HplZtVGT0"
+},{
+   "duration": 234,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0124",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 121,
+   "speakers": [
+      "Dan Higgins"
+   ],
+   "tags": [
+      "lightning",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/fEnnmpdZllQ/0.jpg",
+   "title": "Combine Lambdas and weak_ptrs to make concurrency easy",
+   "video": "https://youtube.com/watch?v=fEnnmpdZllQ"
+},{
+   "duration": 433,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0125",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 122,
+   "speakers": [
+      "Tommy Bennett"
+   ],
+   "tags": [
+      "lightning",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/tSq7yDwS1vM/0.jpg",
+   "title": " Algorithm Mnemonics: Increase your Productivity with STL Algorithms",
+   "video": "https://youtube.com/watch?v=tSq7yDwS1vM"
+},{
+   "duration": 312,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0126",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 123,
+   "speakers": [
+      "Giuseppe D'Angelo"
+   ],
+   "tags": [
+      "lightning",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/gTyRskMrp0k/0.jpg",
+   "title": " Introducing Qt Creator: a fast IDE for C++ development",
+   "video": "https://youtube.com/watch?v=gTyRskMrp0k"
+},{
+   "duration": 265,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0127",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 124,
+   "speakers": [
+      "Ben Deane"
+   ],
+   "tags": [
+      "lightning",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/8jbt-5Qub9E/0.jpg",
+   "title": " A Static Alternative to Virtual Functions, Using Expression SFINAE",
+   "video": "https://youtube.com/watch?v=8jbt-5Qub9E"
+},{
+   "duration": 341,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0128",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 125,
+   "speakers": [
+      "Sandeep Gupta"
+   ],
+   "tags": [
+      "lightning",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/oJtSYKZWzx0/0.jpg",
+   "title": "Orbits",
+   "video": "https://youtube.com/watch?v=oJtSYKZWzx0"
+},{
+   "duration": 351,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0129",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 126,
+   "speakers": [
+      "CodeCompass"
+   ],
+   "tags": [
+      "lightning",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/gjQG3RNfFxM/0.jpg",
+   "title": " An open source code navigator for C++ based on LLVM/Clang - Gabor Horvath [CppCon 2016]",
+   "video": "https://youtube.com/watch?v=gjQG3RNfFxM"
+},{
+   "duration": 367,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0130",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 127,
+   "speakers": [
+      "Jon Kalb"
+   ],
+   "tags": [
+      "lightning",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/wvtFGa6XJDU/0.jpg",
+   "title": " unsigned: A Guideline for Better Code",
+   "video": "https://youtube.com/watch?v=wvtFGa6XJDU"
+},{
+   "duration": 297,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0131",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 128,
+   "speakers": [
+      "Takatoshi Kondo"
+   ],
+   "tags": [
+      "lightning",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/rXVg07rtSiI/0.jpg",
+   "title": " MessagePack(msgpack) - A Compact and Fast Serialization Library",
+   "video": "https://youtube.com/watch?v=rXVg07rtSiI"
+},{
+   "duration": 245,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0132",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 129,
+   "speakers": [
+      "Atila Neves"
+   ],
+   "tags": [
+      "lightning",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/Nk3A0SiqJ8k/0.jpg",
+   "title": " Using C++14 to mock C functions",
+   "video": "https://youtube.com/watch?v=Nk3A0SiqJ8k"
+},{
+   "duration": 272,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0133",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 130,
+   "speakers": [
+      "Ken Sykes"
+   ],
+   "tags": [
+      "lightning",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/1q79ij0uEZ0/0.jpg",
+   "title": "Improving Windows debuggers from the inside out",
+   "video": "https://youtube.com/watch?v=1q79ij0uEZ0"
+},{
+   "duration": 284,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0134",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
    "number": 131,
    "speakers": [
-      "Herb Sutter"
+      "Masako Toda"
    ],
    "tags": [
+      "lightning",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/JfmTagWcqoE/0.jpg",
-   "title": "Lifetime Safety... By Default: Making Code Leak-Free by Construction",
-   "video": "https://youtube.com/watch?v=JfmTagWcqoE"
+   "thumbnail": "http://img.youtube.com/vi/N1cWgqmWSio/0.jpg",
+   "title": " An example of applying variadic templates to C code",
+   "video": "https://youtube.com/watch?v=N1cWgqmWSio"
+},{
+   "duration": 452,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0135",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 132,
+   "speakers": [
+      "Jens Weller"
+   ],
+   "tags": [
+      "lightning",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/-o-Wjy_ISvs/0.jpg",
+   "title": " Presenting Code",
+   "video": "https://youtube.com/watch?v=-o-Wjy_ISvs"
+},{
+   "duration": 313,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0136",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 133,
+   "speakers": [
+      "Roland Bock"
+   ],
+   "tags": [
+      "lightning",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/VNrShPCgVjw/0.jpg",
+   "title": " Variants of variadic AND",
+   "video": "https://youtube.com/watch?v=VNrShPCgVjw"
+},{
+   "duration": 296,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0138",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 134,
+   "speakers": [
+      "Boris Kolpackov"
+   ],
+   "tags": [
+      "lightning",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/OzuwGGc_ty8/0.jpg",
+   "title": " Where is Build Systems Innovation?",
+   "video": "https://youtube.com/watch?v=OzuwGGc_ty8"
+},{
+   "duration": 793,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0139",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 135,
+   "speakers": [
+      "Vinnie Falco"
+   ],
+   "tags": [
+      "lightning",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/uJZgRcvPFwI/0.jpg",
+   "title": " Introducing Beast...",
+   "video": "https://youtube.com/watch?v=uJZgRcvPFwI"
+},{
+   "duration": 328,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0140",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 136,
+   "speakers": [
+      "Arno Lepisk"
+   ],
+   "tags": [
+      "lightning",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/23xDn3ReH7E/0.jpg",
+   "title": " On using singletons in C++",
+   "video": "https://youtube.com/watch?v=23xDn3ReH7E"
+},{
+   "duration": 227,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0137",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 137,
+   "speakers": [
+      "Nicolas Guillemot"
+   ],
+   "tags": [
+      "lightning",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/LSRJ1jZq90k/0.jpg",
+   "title": " Dear imgui",
+   "video": "https://youtube.com/watch?v=LSRJ1jZq90k"
+},{
+   "duration": 189,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0141",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 138,
+   "speakers": [
+      "Abel Mathew"
+   ],
+   "tags": [
+      "lightning",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/EjwN7Gf8JIs/0.jpg",
+   "title": "Debuggability",
+   "video": "https://youtube.com/watch?v=EjwN7Gf8JIs"
+},{
+   "duration": 190,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0142",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 139,
+   "speakers": [
+      "Diego Rodriguez-Losada"
+   ],
+   "tags": [
+      "lightning",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/nLdB1ErncBg/0.jpg",
+   "title": " Why not Conan?",
+   "video": "https://youtube.com/watch?v=nLdB1ErncBg"
+},{
+   "duration": 281,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0143",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 140,
+   "speakers": [
+      "Jens Weller"
+   ],
+   "tags": [
+      "lightning",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/kjO6WWJQoTU/0.jpg",
+   "title": "Programming: A short talk on the future of programming",
+   "video": "https://youtube.com/watch?v=kjO6WWJQoTU"
+},{
+   "duration": 315,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0114",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 141,
+   "speakers": [
+      "Timur Doumler"
+   ],
+   "tags": [
+      "lightning",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/zUVQhcu32rg/0.jpg",
+   "title": " Readable C++",
+   "video": "https://youtube.com/watch?v=zUVQhcu32rg"
+},{
+   "duration": 334,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0115",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 142,
+   "speakers": [
+      "Dan Higgins"
+   ],
+   "tags": [
+      "lightning",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/oBbGC-sUYVA/0.jpg",
+   "title": " Using STL containers efficiently",
+   "video": "https://youtube.com/watch?v=oBbGC-sUYVA"
+},{
+   "duration": 366,
+   "edition": "2016",
+   "identifier": "#cppcon-2016-0116",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 143,
+   "speakers": [
+      "Honggyu Kim"
+   ],
+   "tags": [
+      "lightning",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/LNav5qvyK7I/0.jpg",
+   "title": " uftrace: A function graph tracer for C/C++ userspace programs",
+   "video": "https://youtube.com/watch?v=LNav5qvyK7I"
 }]}

@@ -16,7 +16,7 @@
       "c++"
    ],
    "thumbnail": "http://img.youtube.com/vi/FnGCDLhaxKU/0.jpg",
-   "title": "Understanding Compiler Optimization ",
+   "title": "Understanding Compiler Optimization",
    "video": "https://youtube.com/watch?v=FnGCDLhaxKU"
 },{
    "duration": 5453,
@@ -36,7 +36,7 @@
       "c++"
    ],
    "thumbnail": "http://img.youtube.com/vi/iVHDQagLsrg/0.jpg",
-   "title": "Creating intuitive APIs ",
+   "title": "Creating intuitive APIs",
    "video": "https://youtube.com/watch?v=iVHDQagLsrg"
 },{
    "duration": 671,
@@ -76,7 +76,7 @@
       "c++"
    ],
    "thumbnail": "http://img.youtube.com/vi/idPThkw2p6c/0.jpg",
-   "title": "Migration of C++ Libraries to C++14 ",
+   "title": "Migration of C++ Libraries to C++14",
    "video": "https://youtube.com/watch?v=idPThkw2p6c"
 },{
    "duration": 3978,
@@ -96,7 +96,7 @@
       "c++"
    ],
    "thumbnail": "http://img.youtube.com/vi/KN8MFFvRl50/0.jpg",
-   "title": "Utilize your CPU power ",
+   "title": "Utilize your CPU power",
    "video": "https://youtube.com/watch?v=KN8MFFvRl50"
 },{
    "duration": 4008,
@@ -116,7 +116,7 @@
       "c++"
    ],
    "thumbnail": "http://img.youtube.com/vi/ltfmBUAmePE/0.jpg",
-   "title": "Variadic and Variable Templates in C++14 ",
+   "title": "Variadic and Variable Templates in C++14",
    "video": "https://youtube.com/watch?v=ltfmBUAmePE"
 },{
    "duration": 3600,
@@ -136,7 +136,7 @@
       "c++"
    ],
    "thumbnail": "http://img.youtube.com/vi/z43l_LaOqnM/0.jpg",
-   "title": "C++ on GPUs done right? ",
+   "title": "C++ on GPUs done right?",
    "video": "https://youtube.com/watch?v=z43l_LaOqnM"
 },{
    "duration": 3393,
@@ -156,7 +156,7 @@
       "c++"
    ],
    "thumbnail": "http://img.youtube.com/vi/TYqbgvHfxjM/0.jpg",
-   "title": "Deeply Embedded C++ ",
+   "title": "Deeply Embedded C++",
    "video": "https://youtube.com/watch?v=TYqbgvHfxjM"
 },{
    "duration": 3973,
@@ -176,7 +176,7 @@
       "c++"
    ],
    "thumbnail": "http://img.youtube.com/vi/iRm3u1E9apU/0.jpg",
-   "title": "Mastering the IoT with C++ and JavaScript ",
+   "title": "Mastering the IoT with C++ and JavaScript",
    "video": "https://youtube.com/watch?v=iRm3u1E9apU"
 },{
    "duration": 4017,
@@ -196,7 +196,7 @@
       "c++"
    ],
    "thumbnail": "http://img.youtube.com/vi/T3oA3zAMH9M/0.jpg",
-   "title": "Generic programming for structure-aware algorithms ",
+   "title": "Generic programming for structure-aware algorithms",
    "video": "https://youtube.com/watch?v=T3oA3zAMH9M"
 },{
    "duration": 4112,
@@ -216,7 +216,7 @@
       "c++"
    ],
    "thumbnail": "http://img.youtube.com/vi/SCC23W3CQc8/0.jpg",
-   "title": "Functional Programming in C++ ",
+   "title": "Functional Programming in C++",
    "video": "https://youtube.com/watch?v=SCC23W3CQc8"
 },{
    "duration": 3874,
@@ -236,7 +236,7 @@
       "c++"
    ],
    "thumbnail": "http://img.youtube.com/vi/Lkm74s7bTFA/0.jpg",
-   "title": "Boost.Geometry takes on the globe ",
+   "title": "Boost.Geometry takes on the globe",
    "video": "https://youtube.com/watch?v=Lkm74s7bTFA"
 },{
    "duration": 3767,
@@ -256,7 +256,7 @@
       "c++"
    ],
    "thumbnail": "http://img.youtube.com/vi/0mwHJ0950tA/0.jpg",
-   "title": "The Landscape of Parallelism ",
+   "title": "The Landscape of Parallelism",
    "video": "https://youtube.com/watch?v=0mwHJ0950tA"
 },{
    "duration": 3490,
@@ -276,7 +276,7 @@
       "c++"
    ],
    "thumbnail": "http://img.youtube.com/vi/YYtzQ355_Co/0.jpg",
-   "title": "An Introduction to C++ Coroutines ",
+   "title": "An Introduction to C++ Coroutines",
    "video": "https://youtube.com/watch?v=YYtzQ355_Co"
 },{
    "duration": 2466,
@@ -296,7 +296,7 @@
       "c++"
    ],
    "thumbnail": "http://img.youtube.com/vi/pxREfC9mhpI/0.jpg",
-   "title": "Template meta-programming: Why you must get it ",
+   "title": "Template meta-programming: Why you must get it",
    "video": "https://youtube.com/watch?v=pxREfC9mhpI"
 },{
    "duration": 2803,
@@ -307,7 +307,7 @@
    "meeting": "meeting c++",
    "number": 16,
    "speakers": [
-      "Losada"
+      "Diego Rodriguez-Losada"
    ],
    "tags": [
       "talk",
@@ -316,7 +316,7 @@
       "c++"
    ],
    "thumbnail": "http://img.youtube.com/vi/vBPg0V0J1rg/0.jpg",
-   "title": "Developing an embedded application for the IoT - Diego Rodriguez",
+   "title": "Developing an embedded application for the IoT",
    "video": "https://youtube.com/watch?v=vBPg0V0J1rg"
 },{
    "duration": 3848,
@@ -336,7 +336,7 @@
       "c++"
    ],
    "thumbnail": "http://img.youtube.com/vi/Ov7s0GgBbOQ/0.jpg",
-   "title": "Effective Qt ",
+   "title": "Effective Qt",
    "video": "https://youtube.com/watch?v=Ov7s0GgBbOQ"
 },{
    "duration": 2907,
@@ -356,7 +356,7 @@
       "c++"
    ],
    "thumbnail": "http://img.youtube.com/vi/_4Xa4EPzrq8/0.jpg",
-   "title": "Considerations for choosing the parallel computing strategy ",
+   "title": "Considerations for choosing the parallel computing strategy",
    "video": "https://youtube.com/watch?v=_4Xa4EPzrq8"
 },{
    "duration": 3237,
@@ -376,7 +376,7 @@
       "c++"
    ],
    "thumbnail": "http://img.youtube.com/vi/Ncy4Y-k-vLA/0.jpg",
-   "title": "Rapid Prototyping in C++ ",
+   "title": "Rapid Prototyping in C++",
    "video": "https://youtube.com/watch?v=Ncy4Y-k-vLA"
 },{
    "duration": 3490,
@@ -396,7 +396,7 @@
       "c++"
    ],
    "thumbnail": "http://img.youtube.com/vi/vrCtS6FDay8/0.jpg",
-   "title": "From Iterators to Ranges: The Upcoming Evolution Of the STL ",
+   "title": "From Iterators to Ranges: The Upcoming Evolution Of the STL",
    "video": "https://youtube.com/watch?v=vrCtS6FDay8"
 },{
    "duration": 3608,
@@ -416,7 +416,7 @@
       "c++"
    ],
    "thumbnail": "http://img.youtube.com/vi/tOD5jBvWp-8/0.jpg",
-   "title": "Intel Graphics Technology for general purpose computing ",
+   "title": "Intel Graphics Technology for general purpose computing",
    "video": "https://youtube.com/watch?v=tOD5jBvWp-8"
 },{
    "duration": 2511,
@@ -436,7 +436,7 @@
       "c++"
    ],
    "thumbnail": "http://img.youtube.com/vi/alMAkmErrbo/0.jpg",
-   "title": "Awaiting for the ranges: C++17 ",
+   "title": "Awaiting for the ranges: C++17",
    "video": "https://youtube.com/watch?v=alMAkmErrbo"
 },{
    "duration": 2648,
@@ -456,7 +456,7 @@
       "c++"
    ],
    "thumbnail": "http://img.youtube.com/vi/STiBJT90d2o/0.jpg",
-   "title": "Memory mapped storage ",
+   "title": "Memory mapped storage",
    "video": "https://youtube.com/watch?v=STiBJT90d2o"
 },{
    "duration": 3270,
@@ -476,7 +476,7 @@
       "c++"
    ],
    "thumbnail": "http://img.youtube.com/vi/07d5g7Ykgas/0.jpg",
-   "title": "C++ on small micro controllers ",
+   "title": "C++ on small micro controllers",
    "video": "https://youtube.com/watch?v=07d5g7Ykgas"
 },{
    "duration": 3544,
@@ -496,7 +496,7 @@
       "c++"
    ],
    "thumbnail": "http://img.youtube.com/vi/qLolAK_1fqs/0.jpg",
-   "title": "C++ on its way to exascale and beyond ",
+   "title": "C++ on its way to exascale and beyond",
    "video": "https://youtube.com/watch?v=qLolAK_1fqs"
 },{
    "duration": 2702,
@@ -516,7 +516,7 @@
       "c++"
    ],
    "thumbnail": "http://img.youtube.com/vi/SbaLI2ZcyY0/0.jpg",
-   "title": "Asynchrony and Coroutines ",
+   "title": "Asynchrony and Coroutines",
    "video": "https://youtube.com/watch?v=SbaLI2ZcyY0"
 },{
    "duration": 3912,
@@ -536,7 +536,7 @@
       "c++"
    ],
    "thumbnail": "http://img.youtube.com/vi/LrVi9LHP8Bk/0.jpg",
-   "title": "Taming the performance Beast ",
+   "title": "Taming the performance Beast",
    "video": "https://youtube.com/watch?v=LrVi9LHP8Bk"
 },{
    "duration": 575,

@@ -62,9 +62,11 @@ But it provides some info I couldn't get from the published schedules.
 
 c++now 2014 no keynotes??
 
-The conferences I included so fare are:
-- c++now 11-20 (20 was cancelled), using the playlists
-- meeting-c++ 14-15
+The conferences I included so fare are (from the youtube playlists):
+- c++now 2010-2019, 2021
+- meeting-c++ 2014-2020
+- meeting-embedded 2018, 2020
+- cppcon 2014-2017
 
 
 - accu 16-19 (20 cancelled)

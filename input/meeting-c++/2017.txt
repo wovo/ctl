@@ -1,4 +1,4 @@
-#locked
+//$locked
 
 $add meeting meeting-c++
 $add edition 2017
@@ -6,280 +6,590 @@ $add language english
 $add tags conference live c++
 
 
-Registration
-9:30	Welcome Message
-10:00	
+===============================================================================
 
-//#marker-0001
-Better Code: Human interface
-Sean Parent
+$set tags keynote
 
-Sean Parent
-12:00	Lunchbreak
- 	Track A	Track B	Track C	Track D
-13:15	
 
+2:02:01
+#marker-0001
+WORDT NU AFGESPEELD
+Kate Gregory: It's Complicated 
+Meeting Cpp
+
+9
+
+1:37:57
 #marker-0002
-Practical C++17
-Jason Turner
+WORDT NU AFGESPEELD
+Wouter van Ooijen: Embedded & C++ 
+Meeting Cpp
 
-#marker-0003
-Threads and Locks must Go
-Rainer Grimm
 
+
+===============================================================================
+
+$set tags talk
+
+
+
+9+
+
+Avatar-afbeelding
+Home
+Ontdekken
+Abonnementen
+Bibliotheek
+Geschiedenis
+Je video's
+Later bekijken
+2021-2022-VPCONC-C++
+Meer tonen
+ABONNEMENTEN
+
+Shadiversity
+Browsen door kanalen
+MEER VAN YOUTUBE
+YouTube Premium
+Films
+Games
+Live
+Sport
+Instellingen
+Meldingsgeschiedenis
+Help
+Feedback sturen
+OverPersAuteursrechtContactCreatorsAdverterenOntwikkelaars
+VoorwaardenPrivacyBeleid en veiligheidZo werkt YouTubeNieuwe functies testen
+© 2021 Google LLC YouTube, een bedrijf van Google
+
+ALLES AFSPELEN
+Meeting C++ 2017
+65 video's8.820 weergavenLaatst geüpdatet op 27 feb. 2018
+
+
+
+
+
+Meeting Cpp
+1
+
+
+
+
+8
+
+10
+
+
+9:08
 #marker-0004
-Deep Learning with C++
-Peter Goldsborough
+WORDT NU AFGESPEELD
+std::optional and the m word - Simon Brand - []
+Meeting Cpp
 
+16
+
+27
+
+1:00:42
 #marker-0005
-Dragging C++ into the modern era: a proposal for a 2D Graphics API
-Guy Davidson
+WORDT NU AFGESPEELD
+Tools from the C++ Ecosystem to save a leg - Anastasia Kazakova - []
+Meeting Cpp
 
-14:15	
-short break
+28
 
-Bernstein Lounge track - boost meeting
-
-14:30	
-
+1:36:44
 #marker-0006
-Functional Data Structures
-Ivan Cukic
+WORDT NU AFGESPEELD
+Introduction to proposed std::expected - Niall Douglas - []
+Meeting Cpp
 
+29
+
+1:10:02
 #marker-0007
-Strong types for strong interfaces
-Jonathan Boccara
+WORDT NU AFGESPEELD
+The Three Little Dots and the Big Bad Lambdas - Joel Falcou - []
+Meeting Cpp
 
+30
+
+54:53
 #marker-0008
-Improve your C++ with inspirations from other languages
-Andreas Reischuck
+WORDT NU AFGESPEELD
+Modern CMake for modular design - Mathieu Ropert - []
+Meeting Cpp
 
+31
+
+59:28
 #marker-0009
-How to Use Free Visualization Tools to Optimize Applications and Parallel Computing
-Dori Exterman
+WORDT NU AFGESPEELD
+Dragging C++ into the Modern era - Guy Davidson - []
+Meeting Cpp
 
-15:30	
-Coffeebreak
+32
 
-Bernstein Lounge track - Diversity meeting
-
-16:00	
-
+56:52
 #marker-0010
-How C++ Debuggers Work
-Simon Brand
+WORDT NU AFGESPEELD
+Parallel Computing Visualization - Dori Exterman - []
+Meeting Cpp
 
+33
+
+57:54
 #marker-0011
-Modern C++ Testing with Catch2
-Phil Nash
+WORDT NU AFGESPEELD
+Local (Arena) Memory Allocators Part 1 - John Lakos - []
+Meeting Cpp
 
+34
+
+1:08:17
 #marker-0012
-Reflection in C++Next
-Anton Bikineev
+WORDT NU AFGESPEELD
+Local (Arena) Allocators Part II - John Lakos - []
+Meeting Cpp
 
+35
+
+39:44
 #marker-0013
-Local ('Arena') Memory Allocators
-John Lakos
+WORDT NU AFGESPEELD
+An inspiring introduction into Template Meta Programming - Milosz Warzecha - []
+Meeting Cpp
 
-17:00	
-short break
+36
 
-Bernstein Lounge track - Qt meeting
-
-17:15	
-
+48:55
 #marker-0014
-Beyond the Compiler: Advanced Tools for Better Productivity
-Gábor Horváth
+WORDT NU AFGESPEELD
+Improve your C++ with inspirations from other languages - Andreas Reischuck - []
+Meeting Cpp
 
+37
+
+45:18
 #marker-0015
-The Three Little Dots and the Big Bad Lambdas
-Joel Falcou
+WORDT NU AFGESPEELD
+Modern C++ testing with Catch2 - Phil Nash - []
+Meeting Cpp
 
+38
+
+55:10
 #marker-0016
-C++ API & ABI versioning
-Mathieu Ropert
+WORDT NU AFGESPEELD
+The performance Addict's Toolbox - Peter Steinbach - []
+Meeting Cpp
 
+39
+
+51:34
 #marker-0017
-Local ('Arena') Memory Allocators II
-John Lakos
+WORDT NU AFGESPEELD
+Strong types for strong interfaces - Jonathan Boccara - []
+Meeting Cpp
 
-18:15	
-Short Break -> Food -> Party -> End of Day 1
+40
 
-Conan C++ Quiz begins at 20:30
-Thanks to JFrog for sponsoring this event!
-Day 2
-9:30	
-Good Morning C++
-
-10:00	
-
+1:01:58
 #marker-0018
-Keynote - Kate Gregory
-Its complicated!
+WORDT NU AFGESPEELD
+There is a new future - Felix Petriconi - []
+Meeting Cpp
 
+41
 
-
-12:00	Lunchbreak
- 	Track A	Track B	Track C	Track D
-13:15	
-
+1:05:23
 #marker-0019
-Practical constexpr
-Jason Turner
+WORDT NU AFGESPEELD
+Is std::function really the best we can do? - Lukas Bergdoll - []
+Meeting Cpp
 
+42
+
+59:05
 #marker-0020
-There Is A New Future
-Felix Petriconi
+WORDT NU AFGESPEELD
+Code Reviews - Why, what and how - Arne Mertz - []
+Meeting Cpp
 
+43
+
+1:02:23
 #marker-0021
-C++: unexpected behaviour
-Antonio Mallia @ Jaime Alonso Lorenzo
+WORDT NU AFGESPEELD
+Bringing clang-tidy magic to Visual Studio C++ Developers - Victor Ciura - []
+Meeting Cpp
 
-//#marker-0022
-An inspiring introduction to Template Metaprogramming
-Milosz Warzecha
+44
 
-14:15	
-short break
+54:48
+#marker-0022
+WORDT NU AFGESPEELD
+StringViews, StringViews everywhere! - Marc Mutz - []
+Meeting Cpp
 
-Bernstein Lounge track - Audio Dev Meeting
+45
 
-14:30	
-
+56:05
 #marker-0023
-Concepts driven design
-Kris Jusiak
+WORDT NU AFGESPEELD
+API & ABI versioning - Mathieu Ropert - []
+Meeting Cpp
 
+46
+
+55:48
 #marker-0024
-The Performance Addict's toolbox
-Peter Steinbach
+WORDT NU AFGESPEELD
+Reader-Writer Lock versus Mutex - Jeffrey Mendelsohn - []
+Meeting Cpp
 
+47
+
+56:12
 #marker-0025
-Is std::function really the best we can do?
-Lukas Bergdoll
+WORDT NU AFGESPEELD
+Fantastic Algorithms and Where To Find Them - Nicholas Ormrod - []
+Meeting Cpp
 
-//#marker-0026
-Beginning with C++ (Panel)
-Jens Weller
+48
 
-15:30	
-Coffeebreak
+1:02:13
+#marker-0026
+WORDT NU AFGESPEELD
+Reactive Equations - André Bergner - []
+Meeting Cpp
 
-Bernstein Lounge track - #include meeting
+49
 
-16:00	
-
+1:05:41
 #marker-0027
-Declarative Thinking, Declarative Practice
-Kevlin Henney
+WORDT NU AFGESPEELD
+True parallelism, with no concept of threads - Alfred Bratterud - []
+Meeting Cpp
 
+50
+
+1:19:36
 #marker-0028
-Introduction to proposed std::expected<T, E>
-Niall Douglas
+WORDT NU AFGESPEELD
+Dealing with software dependencies - Kiki de Rooij, Peter Bindels - []
+Meeting Cpp
 
+51
+
+32:48
 #marker-0029
-Dealing with software dependencies
-Kiki de Rooij @ Peter Bindels
+WORDT NU AFGESPEELD
+C++: Unexpected Behaviour - Antonio Mallia, Jaime Alonso - []
+Meeting Cpp
 
+52
+
+56:15
 #marker-0030
-C++ is late to the party: package management is only the beginning
-Diego Rodriguez-Losada
+WORDT NU AFGESPEELD
+Practical C++17 - Jason Turner - []
+Meeting Cpp
 
-17:30	
-short break
+53
 
-Bernstein Lounge track - User Group organizers
-
-17:45	
-
+58:53
 #marker-0031
-The most valuable values
-Juan Pedro Bolívar Puente
+WORDT NU AFGESPEELD
+Functional Programming: data - Ivan Cukic - []
+Meeting Cpp
 
+54
+
+57:03
 #marker-0032
-Modern CMake for modular design
-Mathieu Ropert
+WORDT NU AFGESPEELD
+Deep Learning with C++ - Peter Goldsborough - []
+Meeting Cpp
 
-This talk is a replacement for the talk from Susanne van den Elsen.
+55
 
+39:34
 #marker-0033
-Fantastic Algorithms and Where To Find Them
-Nicholas Ormrod
+WORDT NU AFGESPEELD
+Reflection in C++ Next - Anton Bikineev - []
+Meeting Cpp
 
+56
+
+45:14
 #marker-0034
-Tools from the C++ eco-system to save a leg
-Anastasia Kazakova
+WORDT NU AFGESPEELD
+How C++ Debuggers work - Simon Brand - []
+Meeting Cpp
 
-18:45	Food -> Party -> End of Day 2
-Day 3
- 	Track A	Track B	Track C	Track D
-9:00	
+57
 
+59:48
 #marker-0035
-Fun with (user-defined) attributes
-Jonathan Müller
+WORDT NU AFGESPEELD
+Advanced Tools for Better Productivity - Gábor Horváth - []
+Meeting Cpp
 
+58
+
+1:02:11
 #marker-0036
-Code Reviews - Why, What, and How
-Arne Mertz
+WORDT NU AFGESPEELD
+Practical constexpr - Jason Turner - []
+Meeting Cpp
 
+59
+
+58:31
 #marker-0037
-Reactive Equations
-André Bergner
+WORDT NU AFGESPEELD
+Concepts driven design - Kris Jusiak - []
+Meeting Cpp
 
- Lightning Talks
-10:00	
-short break
+60
 
-Bernstein Lounge track - Embedded meeting
-
-10:20	
-
+1:26:36
 #marker-0038
-Free your functions
-Klaus Iglberger
+WORDT NU AFGESPEELD
+Declarative thinking, declarative practice - Kevlin Henney - []
+Meeting Cpp
 
+61
+
+1:02:57
 #marker-0039
-Bringing Clang-tidy Magic to Visual Studio C++ Developers
-Victor Ciura
+WORDT NU AFGESPEELD
+The most valuable values - Juanpe Bolívar - []
+Meeting Cpp
 
-This talk is a replacement for the talk from Jackie Kay.
+62
 
+54:43
 #marker-0040
-True parallelism with no concept of threads
-Alfred Bratterud
+WORDT NU AFGESPEELD
+Fun with (user-defined) attributes - Jonathan Müller - []
+Meeting Cpp
 
-  Lightning Talks
-11:20	
-short break
+63
 
-Bernstein Lounge track - General User Group Meeting
-
-11:40	
-
+59:01
 #marker-0041
-The hidden rules of world-class C++ code
-Boris Schäling
+WORDT NU AFGESPEELD
+Free your functions! - Klaus Iglberger - []
+Meeting Cpp
 
+64
+
+1:00:08
 #marker-0042
-Stringviews, stringviews everywhere
-Marc Mutz
+WORDT NU AFGESPEELD
+The hidden rules of world-class C++ code - Boris Schäling - []
+Meeting Cpp
 
+65
+
+58:52
 #marker-0043
-Reader-Write Lock versus Mutex - Understanding a Lost Bet
-Jeffrey Mendelsohn
+WORDT NU AFGESPEELD
+Threads and Locks must Go - Rainer Grimm - []
+Meeting Cpp
 
-  Lightning Talks
-12:40	Lunchbreak
-14:00	Meeting C++ Update
-15:30	Coffeebreak
-16:00	
+===============================================================================
 
+$set tags panel
+
+
+
+===============================================================================
+
+$set tags lightning
+
+
+7:51
 #marker-0044
-What can C++ offer embedded, what can embedded offer C++?
-Wouter van Ooijen
+WORDT NU AFGESPEELD
+Sean Parent : Polymorphic Task 
+Meeting Cpp
+
+2
+
+10:29
+#marker-0045
+WORDT NU AFGESPEELD
+Kate Gregory : 5 Things I figured out while ... 
+Meeting Cpp
+
+3
+
+12:25
+#marker-0046
+WORDT NU AFGESPEELD
+John Lakos : Boundary Conditions
+Meeting Cpp
+
+4
+
+5:31
+#marker-0047
+WORDT NU AFGESPEELD
+Phil Nash : Command Line Parser Library 
+Meeting Cpp
+
+5
+
+6:52
+#marker-0048
+WORDT NU AFGESPEELD
+Rainer Grimm : Lesson to Learn 
+Meeting Cpp
+
+6
+
+14:42
+#marker-0049
+WORDT NU AFGESPEELD
+Guy Davidson : Diversity and Inclusion 
+Meeting Cpp
 
 
-17:xx	The End
+8:09
+#marker-0050
+WORDT NU AFGESPEELD
+The most important API design principle - Marc Mutz  - []
+Meeting Cpp
+
+11
+
+9:53
+#marker-0051
+WORDT NU AFGESPEELD
+Structured Bindings demystified - Marc Mutz  - []
+Meeting Cpp
+
+12
+
+9:32
+#marker-0052
+WORDT NU AFGESPEELD
+Fastbuild - Arvid Gerstmann - []
+Meeting Cpp
+
+13
+
+6:31
+#marker-0053
+WORDT NU AFGESPEELD
+std::launder - Réka Kovács  - []
+Meeting Cpp
+
+14
+
+6:16
+#marker-0054
+WORDT NU AFGESPEELD
+Is this available? - Miro Knejp  - []
+Meeting Cpp
+
+15
+
+
+7:06
+#marker-0055
+WORDT NU AFGESPEELD
+Statistical scientific programming OO patterns: accumulators - Olivia Quinet - []
+Meeting Cpp
+
+17
+
+7:07
+#marker-0056
+WORDT NU AFGESPEELD
+The case for Vendored Builds - Arvid Gerstmann  - []
+Meeting Cpp
+
+18
+
+13:52
+#marker-0057
+WORDT NU AFGESPEELD
+Is C++ really a highperformance language? - Gábor Horváth  - []
+Meeting Cpp
+
+19
+
+7:30
+#marker-0058
+WORDT NU AFGESPEELD
+The need for a package manager interface - Mathieu Ropert - []
+Meeting Cpp
+
+20
+
+8:10
+#marker-0059
+WORDT NU AFGESPEELD
+The stand up - Phil Nash  - []
+Meeting Cpp
+
+21
+
+7:02
+#marker-0060
+WORDT NU AFGESPEELD
+Type punning done right - Andreas Weis  - []
+Meeting Cpp
+
+22
+
+8:55
+#marker-0061
+WORDT NU AFGESPEELD
+function_ref - Vittorio Romeo  - []
+Meeting Cpp
+
+23
+
+9:29
+#marker-0062
+WORDT NU AFGESPEELD
+A variant of recursive decent parsing - Björn Fahller  - []
+Meeting Cpp
+
+24
+
+9:31
+#marker-0063
+WORDT NU AFGESPEELD
+A quick view into a compiler - Arvid Gerstmann  - []
+Meeting Cpp
+
+25
+
+8:51
+#marker-0064
+WORDT NU AFGESPEELD
+Algorithms and Iterators for Multidimensional Arrays - Cem Bassoy  - []
+Meeting Cpp
+
+26
+
+5:57
+#marker-0065
+WORDT NU AFGESPEELD
+A short story about... - Andreas Rein  - []
+Meeting Cpp
+
+7:02
+#marker-0003
+WORDT NU AFGESPEELD
+Jens Weller : Programming in a different domain 
+Meeting Cpp
+

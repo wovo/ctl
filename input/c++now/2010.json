@@ -1,0 +1,304 @@
+{ "list": [{
+   "duration": 5894,
+   "edition": "2010",
+   "identifier": "#c++now-2010-0001",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 1,
+   "speakers": [
+      "Gennadiy Rozental"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/WUQkn4CnzF4/0.jpg",
+   "title": " Production use of Boost.Test",
+   "video": "https://youtube.com/watch?v=WUQkn4CnzF4"
+},{
+   "duration": 5791,
+   "edition": "2010",
+   "identifier": "#c++now-2010-0002",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 2,
+   "speakers": [
+      "Michael Caisse"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/9X45eBYkBv4/0.jpg",
+   "title": " An Asio Based Flash XML Server",
+   "video": "https://youtube.com/watch?v=9X45eBYkBv4"
+},{
+   "duration": 5973,
+   "edition": "2010",
+   "identifier": "#c++now-2010-0003",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 3,
+   "speakers": [
+      "Tony Van Eerd"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/LbOB_moUa94/0.jpg",
+   "title": " The Basics of Lock-free Programming",
+   "video": "https://youtube.com/watch?v=LbOB_moUa94"
+},{
+   "duration": 5009,
+   "edition": "2010",
+   "identifier": "#c++now-2010-0004",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 4,
+   "speakers": [
+      "Stephan T. Lavavej"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/oNpu2XKIqPQ/0.jpg",
+   "title": " Data Structure Visualizers in Visual Studio 2010",
+   "video": "https://youtube.com/watch?v=oNpu2XKIqPQ"
+},{
+   "duration": 7102,
+   "edition": "2010",
+   "identifier": "#c++now-2010-0005",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 5,
+   "speakers": [
+      "Michael Caisse"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/9iU9_45DoFc/0.jpg",
+   "title": " Using Spirit V2: Qi and Karma",
+   "video": "https://youtube.com/watch?v=9iU9_45DoFc"
+},{
+   "duration": 5775,
+   "edition": "2010",
+   "identifier": "#c++now-2010-0006",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 6,
+   "speakers": [
+      "Dave Abrahams"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/oWHL8Y1WB9Y/0.jpg",
+   "title": " Ryppl -- A New Platform for Boost Development",
+   "video": "https://youtube.com/watch?v=oWHL8Y1WB9Y"
+},{
+   "duration": 6149,
+   "edition": "2010",
+   "identifier": "#c++now-2010-0007",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 7,
+   "speakers": [
+      "Falcou",
+      "Lapreste"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/27f9lGd7fy4/0.jpg",
+   "title": "The Numerical Template Toolbox for High Performance Computing",
+   "video": "https://youtube.com/watch?v=27f9lGd7fy4"
+},{
+   "duration": 4662,
+   "edition": "2010",
+   "identifier": "#c++now-2010-0008",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 8,
+   "speakers": [
+      "David Sankel"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/VMuML6vLSus/0.jpg",
+   "title": " Functional Programming in C++",
+   "video": "https://youtube.com/watch?v=VMuML6vLSus"
+},{
+   "duration": 6450,
+   "edition": "2010",
+   "identifier": "#c++now-2010-0009",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 9,
+   "speakers": [
+      "Roshan Naik"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/vS8C-sIToMg/0.jpg",
+   "title": " Logic Paradigm for C++",
+   "video": "https://youtube.com/watch?v=vS8C-sIToMg"
+},{
+   "duration": 3199,
+   "edition": "2010",
+   "identifier": "#c++now-2010-0010",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 10,
+   "speakers": [
+      "Dean Michael Berris"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/jSNcGeMObb4/0.jpg",
+   "title": " Techniques in Flexible Header-Only C++ Network Library Implementations",
+   "video": "https://youtube.com/watch?v=jSNcGeMObb4"
+},{
+   "duration": 5463,
+   "edition": "2010",
+   "identifier": "#c++now-2010-0011",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 11,
+   "speakers": [
+      "Jeremy Siek"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/quFCcuIh8Bo/0.jpg",
+   "title": " Generic Programming And the Boost Graph Library",
+   "video": "https://youtube.com/watch?v=quFCcuIh8Bo"
+},{
+   "duration": 6932,
+   "edition": "2010",
+   "identifier": "#c++now-2010-0012",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 12,
+   "speakers": [
+      "Robert Ramey"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/B69tp1S79l0/0.jpg",
+   "title": " Is Boost Broken?",
+   "video": "https://youtube.com/watch?v=B69tp1S79l0"
+},{
+   "duration": 11017,
+   "edition": "2010",
+   "identifier": "#c++now-2010-0013",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 13,
+   "speakers": [
+      "Hartmut Kaiser",
+      "Joel de Guzman"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/aca4JTcDG2E/0.jpg",
+   "title": " A Framework for RAD Spirit",
+   "video": "https://youtube.com/watch?v=aca4JTcDG2E"
+},{
+   "duration": 4020,
+   "edition": "2010",
+   "identifier": "#c++now-2010-0014",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 14,
+   "speakers": [
+      "Spirit"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/be87GqijD30/0.jpg",
+   "title": " History and Evolution - Joel de Guzman & Hartmut Kaiser [ BoostCon 2010 ]",
+   "video": "https://youtube.com/watch?v=be87GqijD30"
+},{
+   "duration": 4526,
+   "edition": "2010",
+   "identifier": "#c++now-2010-0015",
+   "language": "english",
+   "level": 0,
+   "meeting": "c++now",
+   "number": 15,
+   "speakers": [
+      "Matt Calabrese",
+      "Zachary Laine"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/x7UmrRzKAXU/0.jpg",
+   "title": " Instantiations Must Go!",
+   "video": "https://youtube.com/watch?v=x7UmrRzKAXU"
+}]}

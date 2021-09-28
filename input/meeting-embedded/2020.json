@@ -1,0 +1,41 @@
+{ "list": [{
+   "duration": 1556,
+   "edition": "2020",
+   "identifier": "#meeting-embedded-2020-0001",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting embedded",
+   "number": 1,
+   "speakers": [
+      "Paul Bendixen"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "online",
+      "embedded"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/ey4MTtirDxQ/0.jpg",
+   "title": " No raw loops with no OS",
+   "video": "https://youtube.com/watch?v=ey4MTtirDxQ"
+},{
+   "duration": 1541,
+   "edition": "2020",
+   "identifier": "#meeting-embedded-2020-0002",
+   "language": "english",
+   "level": 0,
+   "meeting": "meeting embedded",
+   "number": 2,
+   "speakers": [
+      "Frank Grimm"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "online",
+      "embedded"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/ndh_ey89c0E/0.jpg",
+   "title": " embeddr - C with Abstractions",
+   "video": "https://youtube.com/watch?v=ndh_ey89c0E"
+}]}

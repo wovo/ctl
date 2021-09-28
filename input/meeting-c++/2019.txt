@@ -1,4 +1,4 @@
-#locked
+//$locked
 
 $add meeting meeting-c++
 $add edition 2019
@@ -6,359 +6,551 @@ $add language english
 $add tags conference live c++
 
 
-Registration
-9:30
-Welcome Message
-10:00
-Opening Keynote: 
+===============================================================================
 
+$set tags keynote
+
+1:40:10
 #marker-0001
-Design Rationale for <chrono>
-Howard Hinnant
+WORDT NU AFGESPEELD
+Howard Hinnant : Design Rationale for the chrono Library
+Meeting Cpp
 
-mcpp/speaker/hohi.jpg
+2
 
-
-
-12:00
-Lunchbreak - Food options
-Time
- 
-Track A - Rubin
- 
-Track B - Saphir
- 
-Track C - Jade
- 
-Track D - Opal
- 
-Track E - Bernstein
-13:15
- 
+1:31:37
 #marker-0002
-Combining C++17 Features in Practice
-Nicolai Josuttis
+WORDT NU AFGESPEELD
+Can AI replace programmers? - Frances Buontempo - []
+Meeting Cpp
 
- 
+3
+
+1:42:53
 #marker-0003
-Concepts in C++20: A Evolution or a Revolution
-Rainer Grimm
+WORDT NU AFGESPEELD
+Crazy Code, Crazy Coders - Walter E. Brown - []
+Meeting Cpp
 
- 
+
+
+===============================================================================
+
+$set tags talk
+
+
+
+9+
+
+Avatar-afbeelding
+Home
+Ontdekken
+Abonnementen
+Bibliotheek
+Geschiedenis
+Je video's
+Later bekijken
+2021-2022-VPCONC-C++
+Meer tonen
+ABONNEMENTEN
+
+Shadiversity
+Browsen door kanalen
+MEER VAN YOUTUBE
+YouTube Premium
+Films
+Games
+Live
+Sport
+Instellingen
+Meldingsgeschiedenis
+Help
+Feedback sturen
+OverPersAuteursrechtContactCreatorsAdverterenOntwikkelaars
+VoorwaardenPrivacyBeleid en veiligheidZo werkt YouTubeNieuwe functies testen
+© 2021 Google LLC YouTube, een bedrijf van Google
+
+ALLES AFSPELEN
+Meeting C++ 2019
+32 video's3.472 weergavenLaatst geüpdatet op 8 mei 2020
+
+
+
+
+
+Meeting Cpp
+1
+
+
+4
+
+56:27
 #marker-0004
-Retiring the Singleton Pattern, a Concrete Suggestion for What to Use Instead
-Peter Muldoon
+WORDT NU AFGESPEELD
+Concepts - Evolution or Revolution - Rainer Grimm- []
+Meeting Cpp
 
- 
+5
+
+1:00:27
 #marker-0005
-10 Techniques to Understand Existing Code
-Jonathan Boccara
+WORDT NU AFGESPEELD
+Phantastic Code Smells and where to find them - Arne Mertz- []
+Meeting Cpp
 
-Social Meetup
-14:15
-short break
-14:30
- 
+6
+
+59:19
 #marker-0006
-Modules - The Beginner's Guide
-Daniela Engert
+WORDT NU AFGESPEELD
+Combining C++17 Features - Nicolai Josuttis- []
+Meeting Cpp
 
- 
+7
+
+59:08
 #marker-0007
-Lambdas - the old, the new and the tricky
-Dawid Zalewski
+WORDT NU AFGESPEELD
+Multithreading 101: Concurrency Primitives From Scratch - Arvid Gerstmann- []
+Meeting Cpp
 
- 
+8
+
+1:04:07
 #marker-0008
-The art of keeping your project from falling apart
-Martin Šmarda
+WORDT NU AFGESPEELD
+CPU design effects - Jakub Beránek- []
+Meeting Cpp
 
- 
+9
+
+58:34
 #marker-0009
-A Short Life span<> For a Regular Mess
-Victor Ciura
+WORDT NU AFGESPEELD
+Better Algorithm Intuition - Conor Hoekstra @code_report- []
+Meeting Cpp
 
-Diversity Meeting
-15:30
-coffee break - Food options
-16:00
- 
+10
+
+53:52
 #marker-0010
-The C++20 Synchronization Library
-Bryce Adelstein Lelbach
+WORDT NU AFGESPEELD
+Modern Template Techniques - Jon Kalb- []
+Meeting Cpp
 
- 
+11
+
+47:48
 #marker-0011
-Compile Time Regular Expressions with Deterministic Finite Automaton
-Hana Dusíková
+WORDT NU AFGESPEELD
+The C++20 Firehose Talk - Fabio Fracassi- []
+Meeting Cpp
 
- 
+12
+
+55:32
 #marker-0012
-Debugging data corruptions in C++
-Mateusz Nowak
+WORDT NU AFGESPEELD
+The Dawn of a new Error - Phil Nash- []
+Meeting Cpp
 
- 
+13
+
+1:00:46
 #marker-0013
-Clang based refactoring, or how to refactor millions of line of code without alienating your colleagues
-Fred Tingaud
+WORDT NU AFGESPEELD
+Oh No! More Modern CMake - Deniz Bahadir- []
+Meeting Cpp
 
-Qt Meetup
-17:00
-short break
-17:15
- 
+14
+
+1:04:01
 #marker-0014
-C++20: The small things
-Timur Doumler
+WORDT NU AFGESPEELD
+The C++20 Synchrononization Library - Bryce Adelstein Lelbach- []
+Meeting Cpp
 
- 
+15
+
+1:04:01
 #marker-0015
-CPU design effects that can degrade performance of your programs
-Jakub Beránek
+WORDT NU AFGESPEELD
+The C++20 Synchronization Library - Bryce Adelstein Lelbach- []
+Meeting Cpp
 
- 
+16
+
+58:56
 #marker-0016
-How accurate we are? A refresher on the floating-point arithmetic and the standard library
-Boguslaw Cyganek
+WORDT NU AFGESPEELD
+C++20: the small things - Timur Doumler- []
+Meeting Cpp
 
- 
+17
+
+48:29
 #marker-0017
-Compile-time type transformation
-Ivan Cukic
+WORDT NU AFGESPEELD
+Optimizing Generic Algorithms - Denis Yaroshevskiy- []
+Meeting Cpp
 
-boost meeting
-18:15
-Food -> Party -> End of Day 1
-Conan C++ Quiz begins at 19:45
-Thanks to JFrog for sponsoring this event!
-Day 2 - 15th November
+18
 
-10:00
-Good Morning Meeting C++!
-10:30
-Center Keynote: 
-
+56:52
 #marker-0018
-Can AI replace programmers?
-Frances Buontempo
+WORDT NU AFGESPEELD
+Asynchronous C++ Programming - Pavel Novikov- []
+Meeting Cpp
 
-mcpp/speaker/frbu.jpg
+19
 
-
-
-12:00
-Lunchbreak - Food options
-Time
- 
-Track A - Rubin
- 
-Track B - Saphir
- 
-Track C - Jade
- 
-Track D - Opal
- 
-Track E - Bernstein
-13:15
- 
+50:54
 #marker-0019
-C++20 Coroutines
-Milosz Warzecha
+WORDT NU AFGESPEELD
+Consistent architecture diagrams for C++ projects - Marius Feilhauer- []
+Meeting Cpp
 
- 
+20
+
+36:15
 #marker-0020
-Value Propositon: Allocator-Aware Software
-John Lakos
+WORDT NU AFGESPEELD
+Things I learned from the static analyzer - Bart Verhagen- []
+Meeting Cpp
 
- 
+21
+
+39:11
 #marker-0021
-Optimising generic algorithms
-Denis Yaroshevskiy
+WORDT NU AFGESPEELD
+Bringing the power of C++ to the web - Krzysztof Paprocki- []
+Meeting Cpp
 
- 
+22
+
+44:16
 #marker-0022
-Phantastic Code Smells And How To Find Them
-Arne Mertz
+WORDT NU AFGESPEELD
+This is why we can('t) have nice things - Timo van der Kuil- []
+Meeting Cpp
 
-Jobsearch & Hiring
-14:15
-short break
-14:30
- 
+23
+
+1:02:52
 #marker-0023
-Modules are Coming
-Bryce Adelstein Lelbach
+WORDT NU AFGESPEELD
+Retiring the Singleton Pattern - Peter Muldoon- []
+Meeting Cpp
 
- 
+24
+
+56:27
 #marker-0024
-Using C++20's Three-way Comparison <=>
-Jonathan Müller
+WORDT NU AFGESPEELD
+The art of keeping your project from falling apart - Martin Šmarda- []
+Meeting Cpp
 
- 
+25
+
+59:27
 #marker-0025
-Asynchronous C++ programming
-Pavel Novikov
+WORDT NU AFGESPEELD
+Counting Nanoseconds Microbenchmarking C++ Code - David Gross- []
+Meeting Cpp
 
- 
+26
+
+44:18
 #marker-0026
-Quickly Testing Qt Desktop Applications
-Clare Macrae
+WORDT NU AFGESPEELD
+Debugging memory corruptions in C++ - Mateusz Nowak- []
+Meeting Cpp
 
-Audio Meeting
-15:30
-coffee break - Food options
-16:00
- 
+27
+
+47:56
 #marker-0027
-Better Algorithm Intuition
-Conor Hoekstra
+WORDT NU AFGESPEELD
+Real time 101 - David Rowland & Fabian Renn Giles- []
+Meeting Cpp
 
- 
+28
+
+1:04:59
 #marker-0028
-The Dawn of a New Error
-Phil Nash
+WORDT NU AFGESPEELD
+Modules are coming - Bryce Adelstein Lelbach- []
+Meeting Cpp
 
- 
-#marker-0029
-Consistent architecture diagrams for C++ projects
-Marius Feilhauer
+29
 
- 
+1:04:59
+WORDT NU AFGESPEELD
+Modules are coming - Bryce Adelstein Lelbach- []
+Meeting Cpp
+
+30
+
+1:01:04
 #marker-0030
-std::midpoint - how hard could it be?
-Marshall Clow
+WORDT NU AFGESPEELD
+Modules the beginner's guide - Daniela Engert- []
+Meeting Cpp
 
-//#include meeting0031
-17:00
-short break
-17:15
- 
+31
+
+1:01:59
+#marker-0031
+WORDT NU AFGESPEELD
+High Performance Graphics and Text Rendering on the GPU - Barbara Geller & Ansel Sermersheim - []
+Meeting Cpp
+
+32
+
+1:01:59
+WORDT NU AFGESPEELD
+High Performance Graphics and Text Rendering on the GPU - Barbara Geller & Ansel Sermersheim
+Meeting Cpp
+
+===============================================================================
+
+$set tags panel
+
+
+
+===============================================================================
+
+$set tags lightning
+
+
+
+9+
+
+Avatar-afbeelding
+Home
+Ontdekken
+Abonnementen
+Bibliotheek
+Geschiedenis
+Je video's
+Later bekijken
+2021-2022-VPCONC-C++
+Meer tonen
+ABONNEMENTEN
+
+Shadiversity
+Browsen door kanalen
+MEER VAN YOUTUBE
+YouTube Premium
+Films
+Games
+Live
+Sport
+Instellingen
+Meldingsgeschiedenis
+Help
+Feedback sturen
+OverPersAuteursrechtContactCreatorsAdverterenOntwikkelaars
+VoorwaardenPrivacyBeleid en veiligheidZo werkt YouTubeNieuwe functies testen
+© 2021 Google LLC YouTube, een bedrijf van Google
+
+ALLES AFSPELEN
+Meeting C++ 2019 Lightning Talks
+24 video's1.422 weergavenLaatst geüpdatet op 10 dec. 2019
+
+
+
+
+
+Meeting Cpp
+1
+
+16:11
 #marker-0032
-Counting nanoseconds: benchmarking C++ code
-David Gross
+WORDT NU AFGESPEELD
+Burnout - Jens Weller - []
+Meeting Cpp
 
- 
+2
+
+6:50
 #marker-0033
-Multithreading 101: Concurrency Primitives From Scratch
-Arvid Gerstmann
+WORDT NU AFGESPEELD
+Finding hard to find bugs with Address Sanitizer - Marshall Clow - []
+Meeting Cpp
 
- 
+3
+
+8:27
 #marker-0034
-Things I learned from the static code analyzer
-Bart Verhagen
+WORDT NU AFGESPEELD
+Dr Module and Sister #include - Daniela Engert - []
+Meeting Cpp
 
- 
+4
+
+11:03
 #marker-0035
-Teaching Analytic Geometry to C++
-Guy Davidson
+WORDT NU AFGESPEELD
+C++ Class Natures - Peter Sommerlad - []
+Meeting Cpp
 
-User Group Organizers
-18:15
-Food -> Party -> End of Day 1
-Speakers & Staff dinner is in Delight Restaurant on the 1st floor, 19:00, Pizza & Pasta in Rubin ~20:30
-Lightning Talks at 20:30, Lightning talk speakers please be in Rubin around 20:10.
-End of Day 2
-Day 3 - 16th November
+5
 
-Time
- 
-Track A - Rubin
- 
-Track B - Saphir
- 
-Track C - Jade
- 
-Track D - Opal
- 
-Track E - Bernstein
-9:00
- 
+2:51
 #marker-0036
-Modern Template Techniques
-Jon Kalb
+WORDT NU AFGESPEELD
+Accu Overload - Frances Buontempo - []
+Meeting Cpp
 
- 
+6
+
+7:18
 #marker-0037
-High performance graphics and text rendering on the GPU for C++
-Barbara Geller @ Ansel Sermersheim
+WORDT NU AFGESPEELD
+How to initialize x from expression y - Howard Hinnant - []
+Meeting Cpp
 
- 
+7
+
+5:27
 #marker-0038
-Bringing the power of C++ to the web
-Krzysztof Paprocki
+WORDT NU AFGESPEELD
+Hierarchy of C++ needs - Boris Schäling - []
+Meeting Cpp
 
- 
+8
+
+4:16
 #marker-0039
-Catching??: Unicode for C++ in Greater Detail - 2 of 5
-JeanHeyd Meneide
+WORDT NU AFGESPEELD
+C++ Concepts for ill-posed Inverse-Problems - David Frank - []
+Meeting Cpp
 
-Embedded Meetup
-10:00
-short break
-10:20
- 
+9
+
+4:55
 #marker-0040
-Oh No! More Modern CMake
-Deniz Bahadir
+WORDT NU AFGESPEELD
+Typing types at type level - Matthis Kruse - []
+Meeting Cpp
 
- 
+10
+
+5:01
 #marker-0041
-The C++20 firehose talk
-Fabio Fracassi
+WORDT NU AFGESPEELD
+Fun with structured bindings - Tim van Deurzen - []
+Meeting Cpp
 
- 
+11
+
+3:54
 #marker-0042
-This is why we can('t) have nice things
-Timo van der Kuil
+WORDT NU AFGESPEELD
+I have to make a confession - Simon Renger - []
+Meeting Cpp
 
- 
+12
+
+4:39
 #marker-0043
-Metaprogramming with Boost
-Boris Schäling
+WORDT NU AFGESPEELD
+Why don't the cool kids like OOP? - Jon Kalb - []
+Meeting Cpp
 
-Teaching C++
-11:20
-short break
-11:40
- 
+13
+
+4:43
 #marker-0044
-Real-time programming in modern C++
-Fabian Renn-Giles @ Dave Rowland
+WORDT NU AFGESPEELD
+All the defaults are backwards - Phil Nash - []
+Meeting Cpp
 
- 
+14
+
+4:39
 #marker-0045
-Designing costless abstractions
-Bart Verhagen
+WORDT NU AFGESPEELD
+The life changing magic of tidying up - Tina Ulbrich - []
+Meeting Cpp
 
- 
+15
+
+5:32
 #marker-0046
-Testing Legacy Code - Fuzzing for Better Input Data
-Tina Ulbrich @ Niel Waldren
+WORDT NU AFGESPEELD
+Random numbers are hard - Andreas Weis - []
+Meeting Cpp
 
- 
+16
+
+4:55
 #marker-0047
-Squaring the circle: value-oriented design in an object-oriented system
-Juan Pedro Bolívar Puente
+WORDT NU AFGESPEELD
+Boost statechart visualisation - Antons Jelkins - []
+Meeting Cpp
 
-Meet the C++ committee
-12:40
-Lunchbreak - Food options
-Booksigning Nicolai Josuttis (in or close to Bernstein Lounge)
-14:00
-Meeting C++ Update
-15:30
-Coffeebreak - Food options
-16:00
+17
 
-Closing Keynote: 
-
+4:36
 #marker-0048
-Crazy Code and Crazy Coders
-Walter E. Brown
+WORDT NU AFGESPEELD
+Overloading - Niel Waldren - []
+Meeting Cpp
 
-mcpp/speaker/wabr.jpg
+18
 
+4:54
+#marker-0049
+WORDT NU AFGESPEELD
+Low Latency GPGPU - Matheus Vitti Santos - []
+Meeting Cpp
 
+19
 
-18:00
-The End - See you next year in Berlin!
+5:06
+#marker-0050
+WORDT NU AFGESPEELD
+Associative containers - Jean Guegant - []
+Meeting Cpp
+
+20
+
+6:05
+#marker-0051
+WORDT NU AFGESPEELD
+Enum to string using metaprogramming - Daniel Gavrila - []
+Meeting Cpp
+
+21
+
+5:38
+#marker-0052
+WORDT NU AFGESPEELD
+Go forth with C++ - Jacek Sandomierz - []
+Meeting Cpp
+
+22
+
+5:11
+#marker-0053
+WORDT NU AFGESPEELD
+Abstraction by the rule of 10 - Guy Davidson - []
+Meeting Cpp
+
+23
+
+7:33
+#marker-0054
+WORDT NU AFGESPEELD
+Consistently Inconsistent - Conor Hoekstra - []
+Meeting Cpp
+
+24
+
+6:07
+#marker-0055
+WORDT NU AFGESPEELD
+What about lambdas - Jens Weller - []
+Meeting Cpp

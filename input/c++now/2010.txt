@@ -1,0 +1,190 @@
+//$locked
+
+$add meeting c++now
+$add edition 2010
+$add language english
+$add tags conference live c++
+
+NL
+Zoeken
+
+
+
+
+
+
+===============================================================================
+
+$set tags keynote
+
+
+===============================================================================
+
+$set tags talk
+
+
+
+9+
+
+Avatar-afbeelding
+Home
+Ontdekken
+Abonnementen
+Bibliotheek
+Geschiedenis
+Je video's
+Later bekijken
+2021-2022-VPCONC-C++
+Meer tonen
+ABONNEMENTEN
+
+Shadiversity
+Browsen door kanalen
+MEER VAN YOUTUBE
+YouTube Premium
+Films
+Games
+Live
+Sport
+Instellingen
+Meldingsgeschiedenis
+Help
+Feedback sturen
+OverPersAuteursrechtContactCreatorsAdverterenOntwikkelaars
+VoorwaardenPrivacyBeleid en veiligheidZo werkt YouTubeNieuwe functies testen
+© 2021 Google LLC YouTube, een bedrijf van Google
+
+ALLES AFSPELEN
+BoostCon 2010
+15 video's556 weergavenLaatst geüpdatet op 23 jul. 2014
+ Verborgen
+
+
+
+
+
+CppNow
+1
+
+1:38:14
+#marker-0001
+WORDT NU AFGESPEELD
+Gennadiy Rozental: Production use of Boost.Test
+CppNow
+
+2
+
+1:36:32
+#marker-0002
+WORDT NU AFGESPEELD
+Michael Caisse: An Asio Based Flash XML Server
+CppNow
+
+3
+
+1:39:33
+#marker-0003
+WORDT NU AFGESPEELD
+Tony Van Eerd: The Basics of Lock-free Programming
+CppNow
+
+4
+
+1:23:30
+#marker-0004
+WORDT NU AFGESPEELD
+Stephan T. Lavavej: Data Structure Visualizers in Visual Studio 2010
+CppNow
+
+5
+
+1:58:23
+#marker-0005
+WORDT NU AFGESPEELD
+Michael Caisse: Using Spirit V2: Qi and Karma
+CppNow
+
+6
+
+1:36:16
+#marker-0006
+WORDT NU AFGESPEELD
+Dave Abrahams: Ryppl -- A New Platform for Boost Development
+CppNow
+
+7
+
+1:42:29
+#marker-0007
+WORDT NU AFGESPEELD
+The Numerical Template Toolbox for High Performance Computing - Falcou & Lapreste - []
+CppNow
+
+8
+
+1:40:45
+#marker-0008
+WORDT NU AFGESPEELD
+David Sankel: Functional Programming in C++
+CppNow
+
+9
+
+1:47:30
+#marker-0009
+WORDT NU AFGESPEELD
+Roshan Naik: Logic Paradigm for C++
+CppNow
+
+10
+
+53:19
+#marker-0010
+WORDT NU AFGESPEELD
+Dean Michael Berris: Techniques in Flexible Header-Only C++ Network Library Implementations
+CppNow
+
+11
+
+1:31:03
+#marker-0011
+WORDT NU AFGESPEELD
+Jeremy Siek: Generic Programming And the Boost Graph Library
+CppNow
+
+12
+
+1:55:32
+#marker-0012
+WORDT NU AFGESPEELD
+Robert Ramey: Is Boost Broken?
+CppNow
+
+13
+
+3:03:37
+#marker-0013
+WORDT NU AFGESPEELD
+Joel de Guzman, Hartmut Kaiser: A Framework for RAD Spirit
+CppNow
+
+14
+
+1:07:01
+#marker-0014
+WORDT NU AFGESPEELD
+Spirit: History and Evolution - Joel de Guzman & Hartmut Kaiser [ BoostCon 2010 ]
+CppNow
+
+15
+
+1:15:27
+#marker-0015
+WORDT NU AFGESPEELD
+Matt Calabrese, Zachary Laine: Instantiations Must Go!
+CppNow
+
+===============================================================================
+
+$set tags lightning
+
