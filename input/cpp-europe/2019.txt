@@ -1,0 +1,130 @@
+//$locked
+
+$add meeting cpp-europe
+$add edition 2019
+$add language english
+$add tags conference live c++ talk
+
+===============================================================================
+
+
+
+
+9+
+
+Avatar-afbeelding
+Home
+Ontdekken
+Abonnementen
+Bibliotheek
+Geschiedenis
+Je video's
+Later bekijken
+2021-2022-VPCONC-C++
+Meer tonen
+ABONNEMENTEN
+
+Shadiversity
+Browsen door kanalen
+MEER VAN YOUTUBE
+YouTube Premium
+Films
+Games
+Live
+Sport
+Instellingen
+Meldingsgeschiedenis
+Help
+Feedback sturen
+OverPersAuteursrechtContactCreatorsAdverterenOntwikkelaars
+VoorwaardenPrivacyBeleid en veiligheidZo werkt YouTubeNieuwe functies testen
+© 2021 Google LLC YouTube, een bedrijf van Google
+
+ALLES AFSPELEN
+Cpp Europe 26.02.2019 Bucharest
+10 video's371 weergavenLaatst geüpdatet op 2 mrt. 2019
+
+
+
+
+
+CppEurope
+1
+
+40:37
+#marker-0001
+WORDT NU AFGESPEELD
+Vissarion Fysikopoulos & Adam Wulkiewicz : Boost.Geometry: an introduction to geographic computation
+CppEurope
+
+2
+
+46:33
+#marker-0002
+WORDT NU AFGESPEELD
+Marius Bancila : Consistent Comparison in C++20
+CppEurope
+
+3
+
+45:51
+#marker-0003
+WORDT NU AFGESPEELD
+Thomas Sundberg : Behaviour-Driven Development, BDD, with Cucumber
+CppEurope
+
+4
+
+48:47
+#marker-0004
+WORDT NU AFGESPEELD
+Rainer Grimm : Concurrency and Parallelism in C++17 and C++20/23
+CppEurope
+
+5
+
+48:14
+#marker-0005
+WORDT NU AFGESPEELD
+Alexandru Bolboaca : Functional Programming in C++
+CppEurope
+
+6
+
+43:21
+#marker-0006
+WORDT NU AFGESPEELD
+Björn Andrist : Keep it Small
+CppEurope
+
+7
+
+59:11
+#marker-0007
+WORDT NU AFGESPEELD
+Nicolai Josuttis : C++17 - The Good and the Ugly
+CppEurope
+
+8
+
+35:08
+#marker-0008
+WORDT NU AFGESPEELD
+Fishbowl Panel : Working on Large Code Bases
+CppEurope
+
+9
+
+40:49
+#marker-0009
+WORDT NU AFGESPEELD
+Andreas Fertig : C++: Fast and Small - What are the Costs of Language Features
+CppEurope
+
+10
+
+1:05:55
+#marker-0010
+WORDT NU AFGESPEELD
+Jason McGuiness : Low-Latency Trading: Micro-Optimisations and the Impact of Compliers
+CppEurope

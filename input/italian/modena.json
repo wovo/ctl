@@ -1,0 +1,142 @@
+{ "list": [{
+   "duration": 4235,
+   "edition": "2021",
+   "identifier": "#meetup-modena-2021-0001",
+   "language": "english",
+   "level": 0,
+   "meeting": "meetup modena",
+   "number": 1,
+   "speakers": [
+      "Michele Mischitelli"
+   ],
+   "tags": [
+      "meetup",
+      "online",
+      "c++",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/MaS_CLtdAPU/0.jpg",
+   "title": "Our first game using UE4 and C++",
+   "video": "https://youtube.com/watch?v=MaS_CLtdAPU"
+},{
+   "duration": 4890,
+   "edition": "2021",
+   "identifier": "#meetup-modena-2021-0002",
+   "language": "english",
+   "level": 0,
+   "meeting": "meetup modena",
+   "number": 2,
+   "speakers": [
+      "Michele Caini"
+   ],
+   "tags": [
+      "meetup",
+      "online",
+      "c++",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/DjCsGPESGEc/0.jpg",
+   "title": "To Poly or Not To Poly",
+   "video": "https://youtube.com/watch?v=DjCsGPESGEc"
+},{
+   "duration": 4296,
+   "edition": "2021",
+   "identifier": "#meetup-modena-2021-0003",
+   "language": "english",
+   "level": 0,
+   "meeting": "meetup modena",
+   "number": 3,
+   "speakers": [
+      "Nicolai Grodzitski"
+   ],
+   "tags": [
+      "meetup",
+      "online",
+      "c++",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/cSja6JcTn1A/0.jpg",
+   "title": "SObjectizer: a C++ tool for Concurrent Programming",
+   "video": "https://youtube.com/watch?v=cSja6JcTn1A"
+},{
+   "duration": 4979,
+   "edition": "2021",
+   "identifier": "#meetup-modena-2021-0004",
+   "language": "english",
+   "level": 0,
+   "meeting": "meetup modena",
+   "number": 4,
+   "speakers": [
+      "Lorenzo Veneri"
+   ],
+   "tags": [
+      "meetup",
+      "online",
+      "c++",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/WS_qrHjpl88/0.jpg",
+   "title": "C++ and Relational database connections",
+   "video": "https://youtube.com/watch?v=WS_qrHjpl88"
+},{
+   "duration": 3934,
+   "edition": "2021",
+   "identifier": "#meetup-modena-2021-0007",
+   "language": "english",
+   "level": 0,
+   "meeting": "meetup modena",
+   "number": 5,
+   "speakers": [
+      "Eric Tondelli",
+      "Mattia Verasani"
+   ],
+   "tags": [
+      "meetup",
+      "online",
+      "c++",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/kkhmdoNe0h8/0.jpg",
+   "title": "Ai4Prod: bringing AI to production in C++",
+   "video": "https://youtube.com/watch?v=kkhmdoNe0h8"
+},{
+   "duration": 5248,
+   "edition": "2021",
+   "identifier": "#meetup-modena-2021-0005",
+   "language": "italian",
+   "level": 0,
+   "meeting": "meetup modena",
+   "number": 6,
+   "speakers": [
+      "Yuri Valentini"
+   ],
+   "tags": [
+      "meetup",
+      "online",
+      "c++",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/fOf5sxZtxJ8/0.jpg",
+   "title": "Test di approvazione in C++",
+   "video": "https://youtube.com/watch?v=fOf5sxZtxJ8"
+},{
+   "duration": 6384,
+   "edition": "2021",
+   "identifier": "#meetup-modena-2021-0006",
+   "language": "italian",
+   "level": 0,
+   "meeting": "meetup modena",
+   "number": 7,
+   "speakers": [
+      "Marco Arena"
+   ],
+   "tags": [
+      "meetup",
+      "online",
+      "c++",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/yfy9VmfvuIA/0.jpg",
+   "title": "E facile usare i range, se sai come farlo",
+   "video": "https://youtube.com/watch?v=yfy9VmfvuIA"
+}]}

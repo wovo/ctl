@@ -1,0 +1,70 @@
+//$locked
+
+$add meeting cppp
+$add edition 2019
+$add language english
+$add tags conference live c++ keynote
+
+===============================================================================
+
+
+49:51
+#marker-0001
+WORDT NU AFGESPEELD
+The Anatomy of an Exploit - Patricia Aas []
+716 weergaven
+2 jaar geleden
+
+
+1:17:16
+#marker-0002
+WORDT NU AFGESPEELD
+A State of Compile Time Regular Expressions - Hana Dusíková []
+751 weergaven
+2 jaar geleden
+
+
+1:00:50
+#marker-0003
+WORDT NU AFGESPEELD
+Adding a New clang-tidy Check by the Practice - Jérémy Demeule []
+1K weergaven
+2 jaar geleden
+
+
+1:34:03
+#marker-0004
+WORDT NU AFGESPEELD
+C++ Modules: What You Should Know - Gabriel Dos Reis []
+2,2K weergaven
+2 jaar geleden
+
+
+59:43
+#marker-0005
+WORDT NU AFGESPEELD
+Quickly Testing Legacy Code - Clare Macrae []
+588 weergaven
+2 jaar geleden
+
+
+1:06:04
+#marker-0006
+WORDT NU AFGESPEELD
+Identifying Monoids: Exploiting Compositional Structure in Code - Ben Deane []
+1,3K weergaven
+2 jaar geleden
+
+
+59:13
+#marker-0007
+WORDT NU AFGESPEELD
+Tools to Ease Cross-Platform C++ Development - Simon Brand []
+3,1K weergaven
+2 jaar geleden
+
+
+1:51:28
+#marker-0008
+WORDT NU AFGESPEELD
+Emotional Code - Kate Gregory []

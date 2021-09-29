@@ -1,0 +1,478 @@
+{ "list": [{
+   "duration": 3102,
+   "edition": "2020",
+   "identifier": "#cpp-europe-2020-0001",
+   "language": "english",
+   "level": 0,
+   "meeting": "cpp europe",
+   "number": 1,
+   "speakers": [
+      "Peter Hilton"
+   ],
+   "tags": [
+      "conference",
+      "online",
+      "c++",
+      "keynote",
+      "conference",
+      "live",
+      "c++",
+      "talk",
+      "conference",
+      "live",
+      "c++",
+      "interview"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/R1UKW34P9bo/0.jpg",
+   "title": " Technical documentation is a backup so make sure it works",
+   "video": "https://youtube.com/watch?v=R1UKW34P9bo"
+},{
+   "duration": 3810,
+   "edition": "2020",
+   "identifier": "#cpp-europe-2020-0002",
+   "language": "english",
+   "level": 0,
+   "meeting": "cpp europe",
+   "number": 2,
+   "speakers": [
+      "Klaus Iglberger"
+   ],
+   "tags": [
+      "conference",
+      "online",
+      "c++",
+      "keynote",
+      "conference",
+      "live",
+      "c++",
+      "talk",
+      "conference",
+      "live",
+      "c++",
+      "interview"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/XtRWsNRYg4g/0.jpg",
+   "title": " Embrace No-Paradigm Programming!",
+   "video": "https://youtube.com/watch?v=XtRWsNRYg4g"
+},{
+   "duration": 3212,
+   "edition": "2020",
+   "identifier": "#cpp-europe-2020-0003",
+   "language": "english",
+   "level": 0,
+   "meeting": "cpp europe",
+   "number": 3,
+   "speakers": [
+      "Jose Daniel Garcia"
+   ],
+   "tags": [
+      "conference",
+      "online",
+      "c++",
+      "keynote",
+      "conference",
+      "live",
+      "c++",
+      "talk",
+      "conference",
+      "live",
+      "c++",
+      "interview"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/V-NDAKg3vjw/0.jpg",
+   "title": " C++ programming in a parallel world",
+   "video": "https://youtube.com/watch?v=V-NDAKg3vjw"
+},{
+   "duration": 124,
+   "edition": "2020",
+   "identifier": "#cpp-europe-2020-0004",
+   "language": "english",
+   "level": 0,
+   "meeting": "cpp europe",
+   "number": 4,
+   "speakers": [
+      "?"
+   ],
+   "tags": [
+      "conference",
+      "online",
+      "c++",
+      "keynote",
+      "conference",
+      "live",
+      "c++",
+      "talk",
+      "conference",
+      "live",
+      "c++",
+      "interview"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/gA8ZFRzVs4M/0.jpg",
+   "title": " Making of CppEurope 2020",
+   "video": "https://youtube.com/watch?v=gA8ZFRzVs4M"
+},{
+   "duration": 2497,
+   "edition": "2020",
+   "identifier": "#cpp-europe-2020-0005",
+   "language": "english",
+   "level": 0,
+   "meeting": "cpp europe",
+   "number": 5,
+   "speakers": [
+      "Augustin Popa",
+      "Elizabeth Morrow"
+   ],
+   "tags": [
+      "conference",
+      "online",
+      "c++",
+      "keynote",
+      "conference",
+      "live",
+      "c++",
+      "talk",
+      "conference",
+      "live",
+      "c++",
+      "interview"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/uQFr33C36rU/0.jpg",
+   "title": " Tools to Ease Cross-Platform C++ Development",
+   "video": "https://youtube.com/watch?v=uQFr33C36rU"
+},{
+   "duration": 2472,
+   "edition": "2020",
+   "identifier": "#cpp-europe-2020-0006",
+   "language": "english",
+   "level": 0,
+   "meeting": "cpp europe",
+   "number": 6,
+   "speakers": [
+      "Marius Bancila"
+   ],
+   "tags": [
+      "conference",
+      "online",
+      "c++",
+      "keynote",
+      "conference",
+      "live",
+      "c++",
+      "talk",
+      "conference",
+      "live",
+      "c++",
+      "interview"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/fyl1ChWtN6A/0.jpg",
+   "title": " C++ libraries for daily use",
+   "video": "https://youtube.com/watch?v=fyl1ChWtN6A"
+},{
+   "duration": 2391,
+   "edition": "2020",
+   "identifier": "#cpp-europe-2020-0007",
+   "language": "english",
+   "level": 0,
+   "meeting": "cpp europe",
+   "number": 7,
+   "speakers": [
+      "Clare Macrae"
+   ],
+   "tags": [
+      "conference",
+      "online",
+      "c++",
+      "keynote",
+      "conference",
+      "live",
+      "c++",
+      "talk",
+      "conference",
+      "live",
+      "c++",
+      "interview"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/-5N-u34L7wo/0.jpg",
+   "title": " C++ Testing Techniques, Tips and Tricks",
+   "video": "https://youtube.com/watch?v=-5N-u34L7wo"
+},{
+   "duration": 2396,
+   "edition": "2020",
+   "identifier": "#cpp-europe-2020-0008",
+   "language": "english",
+   "level": 0,
+   "meeting": "cpp europe",
+   "number": 8,
+   "speakers": [
+      "Alex Bolboaca"
+   ],
+   "tags": [
+      "conference",
+      "online",
+      "c++",
+      "keynote",
+      "conference",
+      "live",
+      "c++",
+      "talk",
+      "conference",
+      "live",
+      "c++",
+      "interview"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/uI8fwjnxApw/0.jpg",
+   "title": " Refactoring C++ legacy code through pure functions",
+   "video": "https://youtube.com/watch?v=uI8fwjnxApw"
+},{
+   "duration": 3582,
+   "edition": "2020",
+   "identifier": "#cpp-europe-2020-0009",
+   "language": "english",
+   "level": 0,
+   "meeting": "cpp europe",
+   "number": 9,
+   "speakers": [
+      "Arno Schodl"
+   ],
+   "tags": [
+      "conference",
+      "online",
+      "c++",
+      "keynote",
+      "conference",
+      "live",
+      "c++",
+      "talk",
+      "conference",
+      "live",
+      "c++",
+      "interview"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/zzkpTbJiFPM/0.jpg",
+   "title": " The C++ rvalue lifetime disaster",
+   "video": "https://youtube.com/watch?v=zzkpTbJiFPM"
+},{
+   "duration": 141,
+   "edition": "2020",
+   "identifier": "#cpp-europe-2020-0010",
+   "language": "english",
+   "level": 0,
+   "meeting": "cpp europe",
+   "number": 10,
+   "speakers": [
+      "?"
+   ],
+   "tags": [
+      "conference",
+      "online",
+      "c++",
+      "keynote",
+      "conference",
+      "live",
+      "c++",
+      "talk",
+      "conference",
+      "live",
+      "c++",
+      "interview"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/jOkoNCcPbXI/0.jpg",
+   "title": " Interview with Peter Hilton",
+   "video": "https://youtube.com/watch?v=jOkoNCcPbXI"
+},{
+   "duration": 194,
+   "edition": "2020",
+   "identifier": "#cpp-europe-2020-0011",
+   "language": "english",
+   "level": 0,
+   "meeting": "cpp europe",
+   "number": 11,
+   "speakers": [
+      "?"
+   ],
+   "tags": [
+      "conference",
+      "online",
+      "c++",
+      "keynote",
+      "conference",
+      "live",
+      "c++",
+      "talk",
+      "conference",
+      "live",
+      "c++",
+      "interview"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/u-NAIwImsBM/0.jpg",
+   "title": " Interview with Clare Macrae",
+   "video": "https://youtube.com/watch?v=u-NAIwImsBM"
+},{
+   "duration": 235,
+   "edition": "2020",
+   "identifier": "#cpp-europe-2020-0012",
+   "language": "english",
+   "level": 0,
+   "meeting": "cpp europe",
+   "number": 12,
+   "speakers": [
+      "?"
+   ],
+   "tags": [
+      "conference",
+      "online",
+      "c++",
+      "keynote",
+      "conference",
+      "live",
+      "c++",
+      "talk",
+      "conference",
+      "live",
+      "c++",
+      "interview"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/SCYQNrUydoU/0.jpg",
+   "title": " Interview with Alex Bolboaca",
+   "video": "https://youtube.com/watch?v=SCYQNrUydoU"
+},{
+   "duration": 276,
+   "edition": "2020",
+   "identifier": "#cpp-europe-2020-0013",
+   "language": "english",
+   "level": 0,
+   "meeting": "cpp europe",
+   "number": 13,
+   "speakers": [
+      "?"
+   ],
+   "tags": [
+      "conference",
+      "online",
+      "c++",
+      "keynote",
+      "conference",
+      "live",
+      "c++",
+      "talk",
+      "conference",
+      "live",
+      "c++",
+      "interview"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/KY53HJ4i5LQ/0.jpg",
+   "title": " Interview with Jose Daniel Garcia",
+   "video": "https://youtube.com/watch?v=KY53HJ4i5LQ"
+},{
+   "duration": 162,
+   "edition": "2020",
+   "identifier": "#cpp-europe-2020-0014",
+   "language": "english",
+   "level": 0,
+   "meeting": "cpp europe",
+   "number": 14,
+   "speakers": [
+      "?"
+   ],
+   "tags": [
+      "conference",
+      "online",
+      "c++",
+      "keynote",
+      "conference",
+      "live",
+      "c++",
+      "talk",
+      "conference",
+      "live",
+      "c++",
+      "interview"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/ywhe3zyHj7Q/0.jpg",
+   "title": " Interview with Marius Bancila",
+   "video": "https://youtube.com/watch?v=ywhe3zyHj7Q"
+},{
+   "duration": 369,
+   "edition": "2020",
+   "identifier": "#cpp-europe-2020-0015",
+   "language": "english",
+   "level": 0,
+   "meeting": "cpp europe",
+   "number": 15,
+   "speakers": [
+      "?"
+   ],
+   "tags": [
+      "conference",
+      "online",
+      "c++",
+      "keynote",
+      "conference",
+      "live",
+      "c++",
+      "talk",
+      "conference",
+      "live",
+      "c++",
+      "interview"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/4Iz6-kspnvQ/0.jpg",
+   "title": " Interview with Augustin Popa & Elizabeth Morrow",
+   "video": "https://youtube.com/watch?v=4Iz6-kspnvQ"
+},{
+   "duration": 109,
+   "edition": "2020",
+   "identifier": "#cpp-europe-2020-0016",
+   "language": "english",
+   "level": 0,
+   "meeting": "cpp europe",
+   "number": 16,
+   "speakers": [
+      "?"
+   ],
+   "tags": [
+      "conference",
+      "online",
+      "c++",
+      "keynote",
+      "conference",
+      "live",
+      "c++",
+      "talk",
+      "conference",
+      "live",
+      "c++",
+      "interview"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/U841JXtHu-M/0.jpg",
+   "title": " Interview with Klaus Iglberger",
+   "video": "https://youtube.com/watch?v=U841JXtHu-M"
+},{
+   "duration": 128,
+   "edition": "2020",
+   "identifier": "#cpp-europe-2020-0017",
+   "language": "english",
+   "level": 0,
+   "meeting": "cpp europe",
+   "number": 17,
+   "speakers": [
+      "?"
+   ],
+   "tags": [
+      "conference",
+      "online",
+      "c++",
+      "keynote",
+      "conference",
+      "live",
+      "c++",
+      "talk",
+      "conference",
+      "live",
+      "c++",
+      "interview"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/d2a658ArMhs/0.jpg",
+   "title": " Interview with Manuel Benche",
+   "video": "https://youtube.com/watch?v=d2a658ArMhs"
+}]}

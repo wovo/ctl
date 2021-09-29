@@ -3,7 +3,7 @@
 $add meeting meeting-c++
 $add edition 2015
 $add language english
-$add tags conference life c++
+$add tags conference live c++
 
 ===============================================================================
 

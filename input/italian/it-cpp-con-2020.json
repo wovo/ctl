@@ -1,0 +1,182 @@
+{ "list": [{
+   "duration": 862,
+   "edition": "2020",
+   "identifier": "#it-cpp-con-2020-0001",
+   "language": "english",
+   "level": 0,
+   "meeting": "it cpp con",
+   "number": 1,
+   "speakers": [
+      "Marco Arena"
+   ],
+   "tags": [
+      "conference",
+      "online",
+      "c++",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/YsdEgfY9rwo/0.jpg",
+   "title": "Welcome Message",
+   "video": "https://youtube.com/watch?v=YsdEgfY9rwo"
+},{
+   "duration": 3205,
+   "edition": "2020",
+   "identifier": "#it-cpp-con-2020-0002",
+   "language": "english",
+   "level": 0,
+   "meeting": "it cpp con",
+   "number": 2,
+   "speakers": [
+      "Alberto Bignotti"
+   ],
+   "tags": [
+      "conference",
+      "online",
+      "c++",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/s2XiEXDU-wc/0.jpg",
+   "title": "Let's make a telegram bot with C++",
+   "video": "https://youtube.com/watch?v=s2XiEXDU-wc"
+},{
+   "duration": 3725,
+   "edition": "2020",
+   "identifier": "#it-cpp-con-2020-0003",
+   "language": "english",
+   "level": 0,
+   "meeting": "it cpp con",
+   "number": 3,
+   "speakers": [
+      "Michele Mischitelli"
+   ],
+   "tags": [
+      "conference",
+      "online",
+      "c++",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/ap6TJtFNJbM/0.jpg",
+   "title": "Our first game using UE4 and C++",
+   "video": "https://youtube.com/watch?v=ap6TJtFNJbM"
+},{
+   "duration": 5318,
+   "edition": "2020",
+   "identifier": "#it-cpp-con-2020-0004",
+   "language": "english",
+   "level": 0,
+   "meeting": "it cpp con",
+   "number": 4,
+   "speakers": [
+      "Kris van Rens"
+   ],
+   "tags": [
+      "conference",
+      "online",
+      "c++",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/liAnuOfc66o/0.jpg",
+   "title": "Understanding value categories in C++",
+   "video": "https://youtube.com/watch?v=liAnuOfc66o"
+},{
+   "duration": 4015,
+   "edition": "2020",
+   "identifier": "#it-cpp-con-2020-0006",
+   "language": "english",
+   "level": 0,
+   "meeting": "it cpp con",
+   "number": 5,
+   "speakers": [
+      "Lorenzo Veneri"
+   ],
+   "tags": [
+      "conference",
+      "online",
+      "c++",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/5M6kVq-p7l0/0.jpg",
+   "title": "WebAssembly: an overview",
+   "video": "https://youtube.com/watch?v=5M6kVq-p7l0"
+},{
+   "duration": 3548,
+   "edition": "2020",
+   "identifier": "#it-cpp-con-2020-0007",
+   "language": "english",
+   "level": 0,
+   "meeting": "it cpp con",
+   "number": 6,
+   "speakers": [
+      "M. Arena",
+      "M.Verasani"
+   ],
+   "tags": [
+      "conference",
+      "online",
+      "c++",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/exsgNLf-MyY/0.jpg",
+   "title": "Interoperable AI: ONNX & ONNXRuntime in C++",
+   "video": "https://youtube.com/watch?v=exsgNLf-MyY"
+},{
+   "duration": 3828,
+   "edition": "2020",
+   "identifier": "#it-cpp-con-2020-0008",
+   "language": "english",
+   "level": 0,
+   "meeting": "it cpp con",
+   "number": 7,
+   "speakers": [
+      "Gianluca Padovani"
+   ],
+   "tags": [
+      "conference",
+      "online",
+      "c++",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/WrPkCXHHUBw/0.jpg",
+   "title": "TDD is not about testing - C++ version",
+   "video": "https://youtube.com/watch?v=WrPkCXHHUBw"
+},{
+   "duration": 756,
+   "edition": "2020",
+   "identifier": "#it-cpp-con-2020-0009",
+   "language": "english",
+   "level": 0,
+   "meeting": "it cpp con",
+   "number": 8,
+   "speakers": [
+      "Marco Arena"
+   ],
+   "tags": [
+      "conference",
+      "online",
+      "c++",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/er57BEOXprk/0.jpg",
+   "title": "Closing Message",
+   "video": "https://youtube.com/watch?v=er57BEOXprk"
+},{
+   "duration": 3674,
+   "edition": "2020",
+   "identifier": "#it-cpp-con-2020-0005",
+   "language": "italian",
+   "level": 0,
+   "meeting": "it cpp con",
+   "number": 9,
+   "speakers": [
+      "Yuri Valentini"
+   ],
+   "tags": [
+      "conference",
+      "online",
+      "c++",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/4NX9NgzaYAE/0.jpg",
+   "title": "Comunicazione real-time con WebRTC in C++",
+   "video": "https://youtube.com/watch?v=4NX9NgzaYAE"
+}]}

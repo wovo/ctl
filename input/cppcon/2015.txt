@@ -1,7 +1,7 @@
 //$locked
 
 $add meeting cppcon
-$add edition 2014
+$add edition 2015
 $add language english
 $add tags conference live c++
 

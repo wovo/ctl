@@ -1,7 +1,7 @@
 //$locked
 
 $add meeting pacific-c++
-$add edition 2017
+$add edition 2018
 $add language english
 $add tags conference live
 

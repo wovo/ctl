@@ -1,7 +1,7 @@
 { "list": [{
    "duration": 4681,
-   "edition": "2016",
-   "identifier": "#meeting-c++-2016-0001",
+   "edition": "2020",
+   "identifier": "#meeting-c++-2020-0001",
    "language": "english",
    "level": 0,
    "meeting": "meeting c++",
@@ -20,8 +20,8 @@
    "video": "https://youtube.com/watch?v=mU_n_ohIHQk"
 },{
    "duration": 3188,
-   "edition": "2016",
-   "identifier": "#meeting-c++-2016-0002",
+   "edition": "2020",
+   "identifier": "#meeting-c++-2020-0002",
    "language": "english",
    "level": 0,
    "meeting": "meeting c++",
@@ -40,8 +40,8 @@
    "video": "https://youtube.com/watch?v=VAMvr1rXmg8"
 },{
    "duration": 5868,
-   "edition": "2016",
-   "identifier": "#meeting-c++-2016-0003",
+   "edition": "2020",
+   "identifier": "#meeting-c++-2020-0003",
    "language": "english",
    "level": 0,
    "meeting": "meeting c++",
@@ -60,8 +60,8 @@
    "video": "https://youtube.com/watch?v=j4du4LNsLiI"
 },{
    "duration": 2629,
-   "edition": "2016",
-   "identifier": "#meeting-c++-2016-0004",
+   "edition": "2020",
+   "identifier": "#meeting-c++-2020-0004",
    "language": "english",
    "level": 0,
    "meeting": "meeting c++",
@@ -79,9 +79,9 @@
    "title": " Partially-formed Objects for fun and profit",
    "video": "https://youtube.com/watch?v=9OQKZl7ha7g"
 },{
-   "duration": 4007,
-   "edition": "2016",
-   "identifier": "#meeting-c++-2016-0005",
+   "duration": 830,
+   "edition": "2020",
+   "identifier": "#meeting-c++-2020-0005",
    "language": "english",
    "level": 0,
    "meeting": "meeting c++",
@@ -95,13 +95,13 @@
       "online",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/jd6P9X8l2bY/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/hrZjEBb0L3Q/0.jpg",
    "title": " From Functions to Coroutines",
-   "video": "https://youtube.com/watch?v=jd6P9X8l2bY"
+   "video": "https://youtube.com/watch?v=hrZjEBb0L3Q"
 },{
    "duration": 3653,
-   "edition": "2016",
-   "identifier": "#meeting-c++-2016-0006",
+   "edition": "2020",
+   "identifier": "#meeting-c++-2020-0006",
    "language": "english",
    "level": 0,
    "meeting": "meeting c++",
@@ -120,8 +120,8 @@
    "video": "https://youtube.com/watch?v=Qh7QdG5RK9E"
 },{
    "duration": 3953,
-   "edition": "2016",
-   "identifier": "#meeting-c++-2016-0007",
+   "edition": "2020",
+   "identifier": "#meeting-c++-2020-0007",
    "language": "english",
    "level": 0,
    "meeting": "meeting c++",
@@ -140,8 +140,8 @@
    "video": "https://youtube.com/watch?v=Onv9w6FGwIQ"
 },{
    "duration": 3410,
-   "edition": "2016",
-   "identifier": "#meeting-c++-2016-0008",
+   "edition": "2020",
+   "identifier": "#meeting-c++-2020-0008",
    "language": "english",
    "level": 0,
    "meeting": "meeting c++",
@@ -159,9 +159,9 @@
    "title": " Template Shenanigans",
    "video": "https://youtube.com/watch?v=83fMx7Grxys"
 },{
-   "duration": 3640,
-   "edition": "2016",
-   "identifier": "#meeting-c++-2016-0009",
+   "duration": 3641,
+   "edition": "2020",
+   "identifier": "#meeting-c++-2020-0009",
    "language": "english",
    "level": 0,
    "meeting": "meeting c++",
@@ -175,13 +175,13 @@
       "online",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/GydNMuyQzWo/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/beC1BpjAdrk/0.jpg",
    "title": " Calling Functions",
-   "video": "https://youtube.com/watch?v=GydNMuyQzWo"
+   "video": "https://youtube.com/watch?v=beC1BpjAdrk"
 },{
-   "duration": 3438,
-   "edition": "2016",
-   "identifier": "#meeting-c++-2016-0010",
+   "duration": 3511,
+   "edition": "2020",
+   "identifier": "#meeting-c++-2020-0010",
    "language": "english",
    "level": 0,
    "meeting": "meeting c++",
@@ -195,13 +195,13 @@
       "online",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/AGRWRwi7rD0/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/RhqrwahvTB4/0.jpg",
    "title": " Building an Intuition for Composition",
-   "video": "https://youtube.com/watch?v=AGRWRwi7rD0"
+   "video": "https://youtube.com/watch?v=RhqrwahvTB4"
 },{
    "duration": 3459,
-   "edition": "2016",
-   "identifier": "#meeting-c++-2016-0011",
+   "edition": "2020",
+   "identifier": "#meeting-c++-2020-0011",
    "language": "english",
    "level": 0,
    "meeting": "meeting c++",
@@ -220,8 +220,8 @@
    "video": "https://youtube.com/watch?v=pH-q2m5sb04"
 },{
    "duration": 3433,
-   "edition": "2016",
-   "identifier": "#meeting-c++-2016-0012",
+   "edition": "2020",
+   "identifier": "#meeting-c++-2020-0012",
    "language": "english",
    "level": 0,
    "meeting": "meeting c++",
@@ -240,8 +240,8 @@
    "video": "https://youtube.com/watch?v=sACa3Ax7YB4"
 },{
    "duration": 3695,
-   "edition": "2016",
-   "identifier": "#meeting-c++-2016-0013",
+   "edition": "2020",
+   "identifier": "#meeting-c++-2020-0013",
    "language": "english",
    "level": 0,
    "meeting": "meeting c++",
@@ -260,8 +260,8 @@
    "video": "https://youtube.com/watch?v=ImLFlLjSveM"
 },{
    "duration": 3185,
-   "edition": "2016",
-   "identifier": "#meeting-c++-2016-0014",
+   "edition": "2020",
+   "identifier": "#meeting-c++-2020-0014",
    "language": "english",
    "level": 0,
    "meeting": "meeting c++",

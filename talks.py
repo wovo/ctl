@@ -44,11 +44,8 @@ replacements = {
    "ś": "s",      "ę": "e",      "ź": "z",      "î": "i",      "ą": "a",
    "ă": "a",      "ț": "t",      "ß": "ss",     "Š": "S",      "š": "s",
    "ž": "z",      "`": "'",      "—": "-",      "Ş": "S",      "…": "...",
-   "ż": "z",      "′": "'",      "Ç": "C",      "À": "A",  
-   "©": "(C)",    "≤": "=<",     "Ó": "O",
-   "⬆️": "^",
-   "x": "x",
-   "x": "x",
+   "ż": "z",      "′": "'",      "Ç": "C",      "À": "A",      "©": "(C)",
+   "≤": "=<",     "Ó": "O",      "⬆️": "^",      "È": "E",      "ì": "i",
    "x": "x",
    "x": "x",
    "x": "x",
@@ -116,7 +113,7 @@ class talk:
       - duration    : length of the video in minutes
       - tags        : tags of the talk
       - level       : level of the talk (1 novice, 10 expert, 0 unknow)
-      - thumbnail   : language of the talk (for now, only "english")
+      - thumbnail   : language of the talk (mostly "english")
    """
 
    def __init__( self, 
@@ -222,7 +219,7 @@ class talks:
       self.titles.add( talk.title )
       self.speakers.update( talk.speakers ) 
       self.tags.update( talk.tags )  
-      self.languages.update( talk.language )  
+      self.languages.add( talk.language )  
 
    def write_html( self, file_name = "index.html" ):
       """
@@ -280,11 +277,12 @@ class talks:
 
    def write_javascript( self, file ):
       t = ''
-      t += make_js_data( "meetings", self.meetings )
-      t += make_js_data( "editions", self.editions )
-      t += make_js_data( "speakers", self.speakers )
-      t += make_js_data( "titles",   self.titles )
-      t += make_js_data( "tags",     self.tags )
+      t += make_js_data( "meetings",   self.meetings )
+      t += make_js_data( "editions",   self.editions )
+      t += make_js_data( "languages",  self.languages )
+      t += make_js_data( "speakers",   self.speakers )
+      t += make_js_data( "titles",     self.titles )
+      t += make_js_data( "tags",       self.tags )
       t += "const talks = [\n%s\n]\n\n" % \
          ",\n".join( map( lambda x : x.to_js(), sorted( self.list, key=lambda x: x.title.lower() )))
       write_to_file( file, t )   
@@ -344,6 +342,7 @@ def make_talk(
       identifier,
       meeting,
       edition,
+      language,
       title,
       speakers,
       youtube,
@@ -358,7 +357,6 @@ def make_talk(
       duration = ""
       level = 0
       match = []
-      language = "english"
       meeting = meeting.replace( "-", " " ) # for c++-on-sea etc.
       
       title2 = title
@@ -407,9 +405,13 @@ def process_marker_title_author( meeting, edition, lines, youtube, progress ):
    state = 0
    found = {}
    tags = []
+   language = ""
    for nr, line in lines:
       if line.startswith( "$set tags" ):
          tags = line.split( " ")[ 2 : ] 
+         
+      if line.startswith( "$set language" ):
+         language = line.split( " " )[ 2 ] 
          
       elif line.startswith( "$locked" ):
          pass
@@ -459,6 +461,7 @@ def process_marker_title_author( meeting, edition, lines, youtube, progress ):
             identifier  = identification,
             meeting     = meeting,
             edition     = edition,
+            language    = language,
             title       = title, 
             speakers    = list( map( lambda s : s.strip(), speakers.split( '@' ))),
             youtube     = youtube,
@@ -514,7 +517,7 @@ def add_talks( talks, files, youtube, progress ):
       new_talks = process_marker_title_author( meeting, edition, lines, youtube, progress )
       for t in new_talks:
          t.tags.extend( tags )
-         if language != None: t.language = language
+         if t.language == "": t.language = language[:]
          talks.add( t, use_number = False )
 
 

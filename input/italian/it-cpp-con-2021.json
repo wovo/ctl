@@ -1,0 +1,282 @@
+{ "list": [{
+   "duration": 6644,
+   "edition": "2021",
+   "identifier": "#it-cpp-con-2021-0001",
+   "language": "english",
+   "level": 0,
+   "meeting": "it cpp con",
+   "number": 1,
+   "speakers": [
+      "Sean Parent"
+   ],
+   "tags": [
+      "conference",
+      "online",
+      "c++",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/NO5wHzI_oug/0.jpg",
+   "title": "WARNING: std::find is broken",
+   "video": "https://youtube.com/watch?v=NO5wHzI_oug"
+},{
+   "duration": 3673,
+   "edition": "2021",
+   "identifier": "#it-cpp-con-2021-0002",
+   "language": "english",
+   "level": 0,
+   "meeting": "it cpp con",
+   "number": 2,
+   "speakers": [
+      "Paolo Severini"
+   ],
+   "tags": [
+      "conference",
+      "online",
+      "c++",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/VNwm_9QaQHI/0.jpg",
+   "title": "WebAssembly for non-beginners",
+   "video": "https://youtube.com/watch?v=VNwm_9QaQHI"
+},{
+   "duration": 5089,
+   "edition": "2021",
+   "identifier": "#it-cpp-con-2021-0003",
+   "language": "english",
+   "level": 0,
+   "meeting": "it cpp con",
+   "number": 3,
+   "speakers": [
+      "Victor Ciura"
+   ],
+   "tags": [
+      "conference",
+      "online",
+      "c++",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/pJPRdNTxL-E/0.jpg",
+   "title": "The Quest For A Better Crash",
+   "video": "https://youtube.com/watch?v=pJPRdNTxL-E"
+},{
+   "duration": 3560,
+   "edition": "2021",
+   "identifier": "#it-cpp-con-2021-0004",
+   "language": "english",
+   "level": 0,
+   "meeting": "it cpp con",
+   "number": 4,
+   "speakers": [
+      "Yuri Minaev"
+   ],
+   "tags": [
+      "conference",
+      "online",
+      "c++",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/qwnJWPuLNwo/0.jpg",
+   "title": "Inside a static analyzer: type system",
+   "video": "https://youtube.com/watch?v=qwnJWPuLNwo"
+},{
+   "duration": 3514,
+   "edition": "2021",
+   "identifier": "#it-cpp-con-2021-0005",
+   "language": "english",
+   "level": 0,
+   "meeting": "it cpp con",
+   "number": 5,
+   "speakers": [
+      "Clare Macrae"
+   ],
+   "tags": [
+      "conference",
+      "online",
+      "c++",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/KM26VufN9TA/0.jpg",
+   "title": "Refactoring Superpowers",
+   "video": "https://youtube.com/watch?v=KM26VufN9TA"
+},{
+   "duration": 3534,
+   "edition": "2021",
+   "identifier": "#it-cpp-con-2021-0007",
+   "language": "english",
+   "level": 0,
+   "meeting": "it cpp con",
+   "number": 6,
+   "speakers": [
+      "Tondelli",
+      "Verasani"
+   ],
+   "tags": [
+      "conference",
+      "online",
+      "c++",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/J0trdQCLZ5A/0.jpg",
+   "title": "Ai4Prod: the ecosystem to bring AI in production through C++",
+   "video": "https://youtube.com/watch?v=J0trdQCLZ5A"
+},{
+   "duration": 3697,
+   "edition": "2021",
+   "identifier": "#it-cpp-con-2021-0008",
+   "language": "english",
+   "level": 0,
+   "meeting": "it cpp con",
+   "number": 7,
+   "speakers": [
+      "Kris van Rens"
+   ],
+   "tags": [
+      "conference",
+      "online",
+      "c++",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/mfHFU9Zq_L4/0.jpg",
+   "title": "A bird's-eye view of template C++",
+   "video": "https://youtube.com/watch?v=mfHFU9Zq_L4"
+},{
+   "duration": 3420,
+   "edition": "2021",
+   "identifier": "#it-cpp-con-2021-0009",
+   "language": "english",
+   "level": 0,
+   "meeting": "it cpp con",
+   "number": 8,
+   "speakers": [
+      "Sandor Dargo"
+   ],
+   "tags": [
+      "conference",
+      "online",
+      "c++",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/g4IOEUjTDn0/0.jpg",
+   "title": "How to use correctly the const qualifier?",
+   "video": "https://youtube.com/watch?v=g4IOEUjTDn0"
+},{
+   "duration": 2834,
+   "edition": "2021",
+   "identifier": "#it-cpp-con-2021-0010",
+   "language": "english",
+   "level": 0,
+   "meeting": "it cpp con",
+   "number": 9,
+   "speakers": [
+      "Marek Krajewski"
+   ],
+   "tags": [
+      "conference",
+      "online",
+      "c++",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/zB2L6HRR-qQ/0.jpg",
+   "title": "PMRs for performance in C++17/20",
+   "video": "https://youtube.com/watch?v=zB2L6HRR-qQ"
+},{
+   "duration": 3751,
+   "edition": "2021",
+   "identifier": "#it-cpp-con-2021-0011",
+   "language": "english",
+   "level": 0,
+   "meeting": "it cpp con",
+   "number": 10,
+   "speakers": [
+      "Roi Barkan"
+   ],
+   "tags": [
+      "conference",
+      "online",
+      "c++",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/WmHQw5F7nMY/0.jpg",
+   "title": "Concepts, Type Traits and Specialization",
+   "video": "https://youtube.com/watch?v=WmHQw5F7nMY"
+},{
+   "duration": 3509,
+   "edition": "2021",
+   "identifier": "#it-cpp-con-2021-0012",
+   "language": "english",
+   "level": 0,
+   "meeting": "it cpp con",
+   "number": 11,
+   "speakers": [
+      "Marcos Rojas"
+   ],
+   "tags": [
+      "conference",
+      "online",
+      "c++",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/kVqmbAaMz_4/0.jpg",
+   "title": "Hook: The C++ library you were waiting for",
+   "video": "https://youtube.com/watch?v=kVqmbAaMz_4"
+},{
+   "duration": 2226,
+   "edition": "2021",
+   "identifier": "#it-cpp-con-2021-0013",
+   "language": "english",
+   "level": 0,
+   "meeting": "it cpp con",
+   "number": 12,
+   "speakers": [
+      "Roland Grinis"
+   ],
+   "tags": [
+      "conference",
+      "online",
+      "c++",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/d6ezzxzqEaA/0.jpg",
+   "title": "Bayesian Computation for Deep Learning in Modern C++",
+   "video": "https://youtube.com/watch?v=d6ezzxzqEaA"
+},{
+   "duration": 1708,
+   "edition": "2021",
+   "identifier": "#it-cpp-con-2021-0014",
+   "language": "english",
+   "level": 0,
+   "meeting": "it cpp con",
+   "number": 13,
+   "speakers": [
+      "Walter E Brown"
+   ],
+   "tags": [
+      "conference",
+      "online",
+      "c++",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/e-TNCbX8mOQ/0.jpg",
+   "title": "Extrema: Correctly Calculating min and max",
+   "video": "https://youtube.com/watch?v=e-TNCbX8mOQ"
+},{
+   "duration": 430,
+   "edition": "2021",
+   "identifier": "#it-cpp-con-2021-0015",
+   "language": "english",
+   "level": 0,
+   "meeting": "it cpp con",
+   "number": 14,
+   "speakers": [
+      "Marco Arena"
+   ],
+   "tags": [
+      "conference",
+      "online",
+      "c++",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/aWGrp992Iy4/0.jpg",
+   "title": "Closing Message",
+   "video": "https://youtube.com/watch?v=aWGrp992Iy4"
+}]}

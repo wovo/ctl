@@ -1,0 +1,64 @@
+{ "list": [{
+   "duration": 7022,
+   "edition": "2021",
+   "identifier": "#corso-base-2021-0001",
+   "language": "italian",
+   "level": 0,
+   "meeting": "corso base",
+   "number": 1,
+   "speakers": [
+      "Marcello Missiroli"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "online",
+      "c++",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/YT_b4ShnA7I/0.jpg",
+   "title": " C++ from zero to hero - Parte 1 di 3",
+   "video": "https://youtube.com/watch?v=YT_b4ShnA7I"
+},{
+   "duration": 7986,
+   "edition": "2021",
+   "identifier": "#corso-base-2021-0002",
+   "language": "italian",
+   "level": 0,
+   "meeting": "corso base",
+   "number": 2,
+   "speakers": [
+      "Marcello Missiroli"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "online",
+      "c++",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/kV6WCfQd1gY/0.jpg",
+   "title": " C++ from zero to hero - Parte 2 di 3",
+   "video": "https://youtube.com/watch?v=kV6WCfQd1gY"
+},{
+   "duration": 6911,
+   "edition": "2021",
+   "identifier": "#corso-base-2021-0003",
+   "language": "italian",
+   "level": 0,
+   "meeting": "corso base",
+   "number": 3,
+   "speakers": [
+      "Marcello Missiroli"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "online",
+      "c++",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/RsP7XaAMRIU/0.jpg",
+   "title": " C++ from zero to hero - Parte 3 di 3",
+   "video": "https://youtube.com/watch?v=RsP7XaAMRIU"
+}]}

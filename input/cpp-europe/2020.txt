@@ -1,0 +1,205 @@
+//$locked
+
+$add meeting cpp-europe
+$add edition 2020
+$add language english
+$add tags conference live c++ keynote
+
+===============================================================================
+
+
+51:42
+#marker-0001
+WORDT NU AFGESPEELD
+Peter Hilton: Technical documentation is a backup so make sure it works 
+CppEurope
+
+1:03:31
+#marker-0002
+WORDT NU AFGESPEELD
+Klaus Iglberger : Embrace No-Paradigm Programming!
+CppEurope
+
+53:32
+#marker-0003
+WORDT NU AFGESPEELD
+José Daniel Garcìa : C++ programming in a parallel world 
+CppEurope
+
+
+===============================================================================
+
+$add tags conference live c++ talk
+
+
+9+
+
+Avatar-afbeelding
+Home
+Ontdekken
+Abonnementen
+Bibliotheek
+Geschiedenis
+Je video's
+Later bekijken
+2021-2022-VPCONC-C++
+Meer tonen
+ABONNEMENTEN
+
+Shadiversity
+Browsen door kanalen
+MEER VAN YOUTUBE
+YouTube Premium
+Films
+Games
+Live
+Sport
+Instellingen
+Meldingsgeschiedenis
+Help
+Feedback sturen
+OverPersAuteursrechtContactCreatorsAdverterenOntwikkelaars
+VoorwaardenPrivacyBeleid en veiligheidZo werkt YouTubeNieuwe functies testen
+© 2021 Google LLC YouTube, een bedrijf van Google
+
+ALLES AFSPELEN
+Cpp Europe 25.02.2020, Bucharest
+17 video's463 weergavenLaatst geüpdatet op 2 okt. 2020
+
+
+
+
+Talks and inteviews from the 3rd edition of Cpp Europe
+
+CppEurope
+1
+
+2:05
+#marker-0004
+WORDT NU AFGESPEELD
+?: Making of CppEurope 2020 
+CppEurope
+
+2
+
+41:38
+#marker-0005
+WORDT NU AFGESPEELD
+Augustin Popa & Elizabeth Morrow : Tools to Ease Cross-Platform C++ Development 
+CppEurope
+
+4
+
+
+
+41:12
+#marker-0006
+WORDT NU AFGESPEELD
+Marius Bancila : C++ libraries for daily use 
+CppEurope
+
+8
+
+
+
+11
+
+39:51
+#marker-0007
+WORDT NU AFGESPEELD
+Clare Macrae : C++ Testing Techniques, Tips and Tricks 
+CppEurope
+
+12
+
+
+
+39:57
+#marker-0008
+WORDT NU AFGESPEELD
+Alex Bolboaca : Refactoring C++ legacy code through pure functions 
+CppEurope
+
+16
+
+41:29
+#marker-0009
+WORDT NU AFGESPEELD
+Arno Schödl : The C++ rvalue lifetime disaster 
+CppEurope
+
+17
+
+
+
+
+===============================================================================
+
+$add tags conference live c++ interview
+
+2:21
+#marker-0010
+WORDT NU AFGESPEELD
+?: Interview with Peter Hilton 
+CppEurope
+
+9
+
+
+10
+
+3:14
+#marker-0011
+WORDT NU AFGESPEELD
+?: Interview with Clare Macrae 
+CppEurope
+
+14
+
+3:55
+#marker-0012
+WORDT NU AFGESPEELD
+?: Interview with Alex Bolboaca 
+CppEurope
+
+15
+
+4:37
+#marker-0013
+WORDT NU AFGESPEELD
+?: Interview with José Daniel Garcìa 
+CppEurope
+
+5
+
+
+6
+
+2:42
+#marker-0014
+WORDT NU AFGESPEELD
+?: Interview with Marius Bancila 
+CppEurope
+
+7
+
+6:09
+#marker-0015
+WORDT NU AFGESPEELD
+?: Interview with Augustin Popa & Elizabeth Morrow
+CppEurope
+
+1:49
+#marker-0016
+WORDT NU AFGESPEELD
+?: Interview with Klaus Iglberger 
+CppEurope
+
+13
+
+2:08
+#marker-0017
+WORDT NU AFGESPEELD
+?: Interview with Manuel Benche 
+CppEurope
+

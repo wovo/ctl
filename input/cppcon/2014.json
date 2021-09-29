@@ -208,7 +208,7 @@
    "meeting": "cppcon",
    "number": 11,
    "speakers": [
-      ""
+      "xyz"
    ],
    "tags": [
       "talk",
@@ -288,7 +288,7 @@
    "meeting": "cppcon",
    "number": 15,
    "speakers": [
-      "John : JT Thomas"
+      "John Thomas"
    ],
    "tags": [
       "talk",

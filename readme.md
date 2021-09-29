@@ -60,9 +60,10 @@ seems to have playlists for many conferences and editions, but
 quite a lot of these links are incorrect.
 But it provides some info I couldn't get from the published schedules.
 
-c++now 2014 no keynotes??
+Intervieuw, Panel: who should be mentioned as speaker??
+Category for non-technical talks (intro, making of, etc.)
 
-The conferences I included so fare are (from the youtube playlists):
+The conferences I included so fare are (mostly from the youtube playlists):
 - accu (spring) 2016-2019 (from the program page)
 - accu (autumn) 2019
 - c++now 2010-2019, 2021
@@ -72,28 +73,26 @@ The conferences I included so fare are (from the youtube playlists):
 - cppcon 2014-2020
 - c++-on-sea 19-20 
 - cpp-india 2021
-- pacifi-c++ 2017, 2018
+- pacific-c++ 2017, 2018
+- various italian conferences and meetups
+- cpp-europe 2018-2020
+- CPPP 2019
+- Core C++ 2021
 
+might do
+- https://github.com/azinoviev/cpp-videos#user-groups
 - embo++ (no schedules available? - must ask!)
+- ADC++ (no playlist - did it take place??) https://adcpp.de/20/sessions
+- redo ACCU from the playlists
+- redo Code Dive from the playlists
+- pure C++ 2020 (no playlist)
+- C++ Russia (lots of talks are in russian - how to show those titles??)
+- cpp-summit (china, no playlist)
+- EuroLLVM, LLVM dev meeting : how relevant to C++?
+- Core Hard (all russian?)
+- NDC Tech Town (veel, C++ relevant?)
 
-todo
 
-italian C++ conference
-cpp-summit (more)
-pacific++
-cpp europe (more)
-EuroLLVM
-LLVM dev meeting
-C++ Russia
-Core Hard
-Core C++
-CPPP
-C++ Day
-ADC++
-C++ Day 2020
-NDC Tech Town
-pure C++ 2020
-accu again, note the lightning's
 
 The talks are tagged, but this has been done by hand and very roughly.
 I used or plan to use these tags 

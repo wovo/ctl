@@ -1,7 +1,7 @@
 { "list": [{
    "duration": 4998,
-   "edition": "2017",
-   "identifier": "#pacific-c++-2017-0001",
+   "edition": "2018",
+   "identifier": "#pacific-c++-2018-0001",
    "language": "english",
    "level": 0,
    "meeting": "pacific c++",
@@ -19,8 +19,8 @@
    "video": "https://youtube.com/watch?v=OkgvqjJzH_Y"
 },{
    "duration": 3365,
-   "edition": "2017",
-   "identifier": "#pacific-c++-2017-0002",
+   "edition": "2018",
+   "identifier": "#pacific-c++-2018-0002",
    "language": "english",
    "level": 0,
    "meeting": "pacific c++",
@@ -38,8 +38,8 @@
    "video": "https://youtube.com/watch?v=xuL7rfkcWus"
 },{
    "duration": 4743,
-   "edition": "2017",
-   "identifier": "#pacific-c++-2017-0003",
+   "edition": "2018",
+   "identifier": "#pacific-c++-2018-0003",
    "language": "english",
    "level": 0,
    "meeting": "pacific c++",
@@ -57,8 +57,8 @@
    "video": "https://youtube.com/watch?v=BxfT9fiUsZ4"
 },{
    "duration": 2178,
-   "edition": "2017",
-   "identifier": "#pacific-c++-2017-0004",
+   "edition": "2018",
+   "identifier": "#pacific-c++-2018-0004",
    "language": "english",
    "level": 0,
    "meeting": "pacific c++",
@@ -76,8 +76,8 @@
    "video": "https://youtube.com/watch?v=aUjl_pIcp_c"
 },{
    "duration": 4450,
-   "edition": "2017",
-   "identifier": "#pacific-c++-2017-0005",
+   "edition": "2018",
+   "identifier": "#pacific-c++-2018-0005",
    "language": "english",
    "level": 0,
    "meeting": "pacific c++",
@@ -95,8 +95,8 @@
    "video": "https://youtube.com/watch?v=cBc_MxbzqhY"
 },{
    "duration": 4567,
-   "edition": "2017",
-   "identifier": "#pacific-c++-2017-0006",
+   "edition": "2018",
+   "identifier": "#pacific-c++-2018-0006",
    "language": "english",
    "level": 0,
    "meeting": "pacific c++",
@@ -114,8 +114,8 @@
    "video": "https://youtube.com/watch?v=4v-pPkVaFA4"
 },{
    "duration": 4348,
-   "edition": "2017",
-   "identifier": "#pacific-c++-2017-0007",
+   "edition": "2018",
+   "identifier": "#pacific-c++-2018-0007",
    "language": "english",
    "level": 0,
    "meeting": "pacific c++",

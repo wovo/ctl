@@ -1,7 +1,7 @@
 //$locked
 
 $add meeting meeting-c++
-$add edition 2016
+$add edition 2020
 $add language english
 $add tags conference online c++
 

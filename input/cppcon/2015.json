@@ -1,7 +1,7 @@
 { "list": [{
-   "duration": 5346,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0001",
+   "duration": 5480,
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0001",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -15,13 +15,13 @@
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/7P536lci5po/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/PqU_ot4BlNQ/0.jpg",
    "title": " Grill the Committee",
-   "video": "https://youtube.com/watch?v=7P536lci5po"
+   "video": "https://youtube.com/watch?v=PqU_ot4BlNQ"
 },{
    "duration": 6046,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0002",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0002",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -39,9 +39,9 @@
    "title": " Writing Good C++14",
    "video": "https://youtube.com/watch?v=1OEu9C51K2A"
 },{
-   "duration": 6026,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0003",
+   "duration": 5345,
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0003",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -55,13 +55,13 @@
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/xnqTKD8uD64/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/hEx5DNLWGgA/0.jpg",
    "title": " Writing Good C++14... By Default",
-   "video": "https://youtube.com/watch?v=xnqTKD8uD64"
+   "video": "https://youtube.com/watch?v=hEx5DNLWGgA"
 },{
    "duration": 3840,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0004",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0004",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -80,8 +80,8 @@
    "video": "https://youtube.com/watch?v=sWgDk-o-6ZE"
 },{
    "duration": 5393,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0005",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0005",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -100,8 +100,8 @@
    "video": "https://youtube.com/watch?v=nXaxk27zwlk"
 },{
    "duration": 5647,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0006",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0006",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -120,8 +120,8 @@
    "video": "https://youtube.com/watch?v=mFUXNMfaciE"
 },{
    "duration": 3885,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0007",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0007",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -140,8 +140,8 @@
    "video": "https://youtube.com/watch?v=NTWSeQtHZ9M"
 },{
    "duration": 3965,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0008",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0008",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -160,8 +160,8 @@
    "video": "https://youtube.com/watch?v=IiVl5oSU5B8"
 },{
    "duration": 3470,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0009",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0009",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -180,8 +180,8 @@
    "video": "https://youtube.com/watch?v=8KIvWJUYbDA"
 },{
    "duration": 1953,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0010",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0010",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -200,8 +200,8 @@
    "video": "https://youtube.com/watch?v=he-XVt1xIE0"
 },{
    "duration": 4091,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0011",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0011",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -220,8 +220,8 @@
    "video": "https://youtube.com/watch?v=cg1wOINjV9U"
 },{
    "duration": 2320,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0012",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0012",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -240,8 +240,8 @@
    "video": "https://youtube.com/watch?v=CPPX4kwqh80"
 },{
    "duration": 3816,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0013",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0013",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -261,8 +261,8 @@
    "video": "https://youtube.com/watch?v=UuwBG9f4ZiQ"
 },{
    "duration": 3533,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0014",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0014",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -281,8 +281,8 @@
    "video": "https://youtube.com/watch?v=WXeu4fj3zOs"
 },{
    "duration": 3555,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0015",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0015",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -301,8 +301,8 @@
    "video": "https://youtube.com/watch?v=qTkYDA0En6U"
 },{
    "duration": 3843,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0016",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0016",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -320,9 +320,9 @@
    "title": " Variadic Templates in C++11 / C++14 - An Introduction",
    "video": "https://youtube.com/watch?v=R1G3P5SRXCw"
 },{
-   "duration": 4030,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0017",
+   "duration": 3649,
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0017",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -336,13 +336,13 @@
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/Y8YVSohnlgY/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/Wmy6g-aVgZI/0.jpg",
    "title": " Advanced Unit Testing in C & C++",
-   "video": "https://youtube.com/watch?v=Y8YVSohnlgY"
+   "video": "https://youtube.com/watch?v=Wmy6g-aVgZI"
 },{
    "duration": 3823,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0018",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0018",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -361,8 +361,8 @@
    "video": "https://youtube.com/watch?v=boPEO2auJj4"
 },{
    "duration": 3524,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0019",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0019",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -381,8 +381,8 @@
    "video": "https://youtube.com/watch?v=imU_WfonVr8"
 },{
    "duration": 2326,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0020",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0020",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -401,8 +401,8 @@
    "video": "https://youtube.com/watch?v=lVBvHbJsg5Y"
 },{
    "duration": 3846,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0021",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0021",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -421,8 +421,8 @@
    "video": "https://youtube.com/watch?v=fZjYCQ8dzTc"
 },{
    "duration": 3531,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0022",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0022",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -441,8 +441,8 @@
    "video": "https://youtube.com/watch?v=PhGZdeXsuS4"
 },{
    "duration": 3009,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0023",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0023",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -461,8 +461,8 @@
    "video": "https://youtube.com/watch?v=A9trwnv6k-w"
 },{
    "duration": 2257,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0024",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0024",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -481,8 +481,8 @@
    "video": "https://youtube.com/watch?v=EqD3FO2FRlc"
 },{
    "duration": 5420,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0025",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0025",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -501,8 +501,8 @@
    "video": "https://youtube.com/watch?v=1obZeHnAwz4"
 },{
    "duration": 3644,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0026",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0026",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -521,8 +521,8 @@
    "video": "https://youtube.com/watch?v=sAJGoHN6Xx8"
 },{
    "duration": 3538,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0027",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0027",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -541,8 +541,8 @@
    "video": "https://youtube.com/watch?v=RXTfC-35Nx8"
 },{
    "duration": 3650,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0028",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0028",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -561,8 +561,8 @@
    "video": "https://youtube.com/watch?v=xSBWklPLRvw"
 },{
    "duration": 3633,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0029",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0029",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -581,8 +581,8 @@
    "video": "https://youtube.com/watch?v=zt7ThwVfap0"
 },{
    "duration": 3525,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0030",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0030",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -601,8 +601,8 @@
    "video": "https://youtube.com/watch?v=2rnIHsqABfM"
 },{
    "duration": 3086,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0031",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0031",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -621,8 +621,8 @@
    "video": "https://youtube.com/watch?v=9IVCVSwn-fI"
 },{
    "duration": 2928,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0032",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0032",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -641,8 +641,8 @@
    "video": "https://youtube.com/watch?v=x9mIAT-CAwA"
 },{
    "duration": 1941,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0033",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0033",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -661,8 +661,8 @@
    "video": "https://youtube.com/watch?v=yOtb508xQuM"
 },{
    "duration": 1720,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0034",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0034",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -682,8 +682,8 @@
    "video": "https://youtube.com/watch?v=NMUAzL6WUEY"
 },{
    "duration": 3659,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0035",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0035",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -702,8 +702,8 @@
    "video": "https://youtube.com/watch?v=RwdQA0pGWa4"
 },{
    "duration": 2600,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0036",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0036",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -722,8 +722,8 @@
    "video": "https://youtube.com/watch?v=BHOFOXFtKHw"
 },{
    "duration": 3386,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0037",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0037",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -743,8 +743,8 @@
    "video": "https://youtube.com/watch?v=k6djT0a1q3E"
 },{
    "duration": 3052,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0038",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0038",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -763,8 +763,8 @@
    "video": "https://youtube.com/watch?v=u_8MMuVFz_k"
 },{
    "duration": 3620,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0039",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0039",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -784,8 +784,8 @@
    "video": "https://youtube.com/watch?v=2Y47g8xNE1o"
 },{
    "duration": 3487,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0040",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0040",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -804,8 +804,8 @@
    "video": "https://youtube.com/watch?v=gdzP3pAC6UI"
 },{
    "duration": 3422,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0041",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0041",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -824,8 +824,8 @@
    "video": "https://youtube.com/watch?v=hcHUZE6buzE"
 },{
    "duration": 1762,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0042",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0042",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -844,8 +844,8 @@
    "video": "https://youtube.com/watch?v=mPxIegd9J3w"
 },{
    "duration": 2584,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0043",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0043",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -863,9 +863,9 @@
    "title": " C++ Atomics...",
    "video": "https://youtube.com/watch?v=ZrNQKpOypqU"
 },{
-   "duration": 3846,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0044",
+   "duration": 3628,
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0044",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -879,13 +879,13 @@
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/fZjYCQ8dzTc/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/qO-9yiAOQqc/0.jpg",
    "title": " constexpr: Applications",
-   "video": "https://youtube.com/watch?v=fZjYCQ8dzTc"
+   "video": "https://youtube.com/watch?v=qO-9yiAOQqc"
 },{
    "duration": 2813,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0045",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0045",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -904,8 +904,8 @@
    "video": "https://youtube.com/watch?v=9QGsEkB4Rfs"
 },{
    "duration": 4174,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0046",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0046",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -924,8 +924,8 @@
    "video": "https://youtube.com/watch?v=zW-i9eVGU_k"
 },{
    "duration": 4347,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0047",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0047",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -944,8 +944,8 @@
    "video": "https://youtube.com/watch?v=LIb3L4vKZ7U"
 },{
    "duration": 4422,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0048",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0048",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -964,8 +964,8 @@
    "video": "https://youtube.com/watch?v=H-R-yW1-fbQ"
 },{
    "duration": 3550,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0049",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0049",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -984,8 +984,8 @@
    "video": "https://youtube.com/watch?v=xiqYaHa2x4s"
 },{
    "duration": 3644,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0050",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0050",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -1004,8 +1004,8 @@
    "video": "https://youtube.com/watch?v=uhRWMGBjlO8"
 },{
    "duration": 1912,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0051",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0051",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -1024,8 +1024,8 @@
    "video": "https://youtube.com/watch?v=2l83JlqkzBk"
 },{
    "duration": 3574,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0052",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0052",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -1044,8 +1044,8 @@
    "video": "https://youtube.com/watch?v=PUFpQZKH6Hw"
 },{
    "duration": 1560,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0053",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0053",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -1064,8 +1064,8 @@
    "video": "https://youtube.com/watch?v=gek32PjjN6o"
 },{
    "duration": 1437,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0054",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0054",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -1084,8 +1084,8 @@
    "video": "https://youtube.com/watch?v=mVfL0mQU3Bg"
 },{
    "duration": 2853,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0055",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0055",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -1104,8 +1104,8 @@
    "video": "https://youtube.com/watch?v=k12BJGSc2Nc"
 },{
    "duration": 2898,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0056",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0056",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -1123,9 +1123,9 @@
    "title": " Secure C++ Programming",
    "video": "https://youtube.com/watch?v=Z_jhNuoczfw"
 },{
-   "duration": 2980,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0057",
+   "duration": 3208,
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0057",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -1139,13 +1139,13 @@
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/afGv7A9gvmc/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/2ISqFW9fRws/0.jpg",
    "title": " Pruning Error Messages From Your C++ Template Code",
-   "video": "https://youtube.com/watch?v=afGv7A9gvmc"
+   "video": "https://youtube.com/watch?v=2ISqFW9fRws"
 },{
    "duration": 3761,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0058",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0058",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -1164,8 +1164,8 @@
    "video": "https://youtube.com/watch?v=H9gAaNRoon4"
 },{
    "duration": 2255,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0059",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0059",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -1184,8 +1184,8 @@
    "video": "https://youtube.com/watch?v=_1BBKipyR44"
 },{
    "duration": 4688,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0060",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0060",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -1204,8 +1204,8 @@
    "video": "https://youtube.com/watch?v=iLHNF7SgVN4"
 },{
    "duration": 4111,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0061",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0061",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -1224,8 +1224,8 @@
    "video": "https://youtube.com/watch?v=qphj8ZuZlPA"
 },{
    "duration": 3711,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0062",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0062",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -1244,8 +1244,8 @@
    "video": "https://youtube.com/watch?v=eidEEmGLQcU"
 },{
    "duration": 3500,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0063",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0063",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -1264,8 +1264,8 @@
    "video": "https://youtube.com/watch?v=W3xI1HJUy7Q"
 },{
    "duration": 3938,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0064",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0064",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -1284,8 +1284,8 @@
    "video": "https://youtube.com/watch?v=0EvSxHxFknM"
 },{
    "duration": 4460,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0065",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0065",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -1304,8 +1304,8 @@
    "video": "https://youtube.com/watch?v=p1fqdl6sLMY"
 },{
    "duration": 3503,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0066",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0066",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -1324,8 +1324,8 @@
    "video": "https://youtube.com/watch?v=_fu0gx-xseY"
 },{
    "duration": 3432,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0067",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0067",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -1344,8 +1344,8 @@
    "video": "https://youtube.com/watch?v=fOV7I-nmVXw"
 },{
    "duration": 1769,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0068",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0068",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -1364,8 +1364,8 @@
    "video": "https://youtube.com/watch?v=sn1Vg8A_MPU"
 },{
    "duration": 3770,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0069",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0069",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -1384,8 +1384,8 @@
    "video": "https://youtube.com/watch?v=8zVqbLeG-vw"
 },{
    "duration": 3604,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0070",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0070",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -1404,8 +1404,8 @@
    "video": "https://youtube.com/watch?v=vohGJjGxtJQ"
 },{
    "duration": 3638,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0071",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0071",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -1424,8 +1424,8 @@
    "video": "https://youtube.com/watch?v=rKlHvAw1z50"
 },{
    "duration": 3975,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0072",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0072",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -1444,8 +1444,8 @@
    "video": "https://youtube.com/watch?v=FtaD0maxwec"
 },{
    "duration": 3066,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0073",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0073",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -1464,8 +1464,8 @@
    "video": "https://youtube.com/watch?v=nUXjVVO4YlA"
 },{
    "duration": 4208,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0074",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0074",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -1484,8 +1484,8 @@
    "video": "https://youtube.com/watch?v=G96QYlsfy_o"
 },{
    "duration": 4706,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0075",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0075",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -1504,8 +1504,8 @@
    "video": "https://youtube.com/watch?v=DM-RXeiSCmc"
 },{
    "duration": 2675,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0076",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0076",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -1524,8 +1524,8 @@
    "video": "https://youtube.com/watch?v=OBpX6R_lEnY"
 },{
    "duration": 4285,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0077",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0077",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -1544,8 +1544,8 @@
    "video": "https://youtube.com/watch?v=zWxSZcpeS8Q"
 },{
    "duration": 3386,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0078",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0078",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -1564,8 +1564,8 @@
    "video": "https://youtube.com/watch?v=VvbTP_k_Df4"
 },{
    "duration": 3783,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0079",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0079",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -1584,8 +1584,8 @@
    "video": "https://youtube.com/watch?v=k20nWb9fHj0"
 },{
    "duration": 2197,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0080",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0080",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -1604,8 +1604,8 @@
    "video": "https://youtube.com/watch?v=u-7DJb7hQqc"
 },{
    "duration": 3617,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0081",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0081",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -1624,8 +1624,8 @@
    "video": "https://youtube.com/watch?v=C4Z3c4Sv52U"
 },{
    "duration": 3714,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0082",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0082",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -1645,8 +1645,8 @@
    "video": "https://youtube.com/watch?v=K-k-axW2utc"
 },{
    "duration": 4054,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0083",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0083",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -1665,8 +1665,8 @@
    "video": "https://youtube.com/watch?v=WjTrfoiB0MQ"
 },{
    "duration": 2948,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0084",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0084",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -1685,8 +1685,8 @@
    "video": "https://youtube.com/watch?v=-ROXIG4raiA"
 },{
    "duration": 3349,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0085",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0085",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -1705,8 +1705,8 @@
    "video": "https://youtube.com/watch?v=Hjz1eBx91g8"
 },{
    "duration": 4080,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0086",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0086",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -1725,8 +1725,8 @@
    "video": "https://youtube.com/watch?v=n2GhS-u-5FA"
 },{
    "duration": 1724,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0087",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0087",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -1745,8 +1745,8 @@
    "video": "https://youtube.com/watch?v=2FbeGrbXe2M"
 },{
    "duration": 5203,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0088",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0088",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -1765,8 +1765,8 @@
    "video": "https://youtube.com/watch?v=cJIi-hIlCQM"
 },{
    "duration": 2733,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0089",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0089",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -1785,8 +1785,8 @@
    "video": "https://youtube.com/watch?v=fi0CQ7laiXE"
 },{
    "duration": 3776,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0090",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0090",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -1805,8 +1805,8 @@
    "video": "https://youtube.com/watch?v=OPoZWnYIcP4"
 },{
    "duration": 3611,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0091",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0091",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -1825,8 +1825,8 @@
    "video": "https://youtube.com/watch?v=YnWhqhNdYyk"
 },{
    "duration": 3534,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0092",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0092",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -1845,8 +1845,8 @@
    "video": "https://youtube.com/watch?v=tzyGjOm8AKo"
 },{
    "duration": 3483,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0093",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0093",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -1865,8 +1865,8 @@
    "video": "https://youtube.com/watch?v=ObQ4G1s97Mc"
 },{
    "duration": 3658,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0094",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0094",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -1885,8 +1885,8 @@
    "video": "https://youtube.com/watch?v=DS2m7T6NKZQ"
 },{
    "duration": 3345,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0095",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0095",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -1905,8 +1905,8 @@
    "video": "https://youtube.com/watch?v=UnVD5YKPhts"
 },{
    "duration": 3282,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0096",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0096",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -1926,8 +1926,8 @@
    "video": "https://youtube.com/watch?v=PXdQwFSJwQ8"
 },{
    "duration": 3957,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0097",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0097",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -1946,8 +1946,8 @@
    "video": "https://youtube.com/watch?v=CZi6QqZSbFg"
 },{
    "duration": 3290,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0098",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0098",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -1967,8 +1967,8 @@
    "video": "https://youtube.com/watch?v=0tFxdreVx6s"
 },{
    "duration": 4319,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0099",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0099",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -1988,8 +1988,8 @@
    "video": "https://youtube.com/watch?v=LIiwBNvTllk"
 },{
    "duration": 3773,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0100",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0100",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -2008,8 +2008,8 @@
    "video": "https://youtube.com/watch?v=TRgWJuQhkQo"
 },{
    "duration": 3831,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0101",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0101",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -2029,8 +2029,8 @@
    "video": "https://youtube.com/watch?v=u5senBJUkPc"
 },{
    "duration": 3205,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0102",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0102",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -2049,8 +2049,8 @@
    "video": "https://youtube.com/watch?v=Y1KOuFYtTF4"
 },{
    "duration": 2841,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0103",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0103",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -2069,8 +2069,8 @@
    "video": "https://youtube.com/watch?v=iLiDezv_Frk"
 },{
    "duration": 724,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0112",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0112",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -2089,8 +2089,8 @@
    "video": "https://youtube.com/watch?v=bVDX_z3PsfM"
 },{
    "duration": 886,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0125",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0125",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -2109,8 +2109,8 @@
    "video": "https://youtube.com/watch?v=PorfLSr3DDI"
 },{
    "duration": 978,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0126",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0126",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -2129,8 +2129,8 @@
    "video": "https://youtube.com/watch?v=5FQwQ0QWBTU"
 },{
    "duration": 915,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0127",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0127",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -2149,8 +2149,8 @@
    "video": "https://youtube.com/watch?v=rNNnPrMHsAA"
 },{
    "duration": 579,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0128",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0128",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -2169,8 +2169,8 @@
    "video": "https://youtube.com/watch?v=f_D-wD1EmWk"
 },{
    "duration": 952,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0129",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0129",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -2189,8 +2189,8 @@
    "video": "https://youtube.com/watch?v=DoPt_DUtCCk"
 },{
    "duration": 693,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0130",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0130",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -2209,8 +2209,8 @@
    "video": "https://youtube.com/watch?v=jLdSjh8oqmE"
 },{
    "duration": 271,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0131",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0131",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -2229,8 +2229,8 @@
    "video": "https://youtube.com/watch?v=DAvZ3OG9cNo"
 },{
    "duration": 915,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0132",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0132",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -2249,8 +2249,8 @@
    "video": "https://youtube.com/watch?v=lQAxldEGOys"
 },{
    "duration": 986,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0133",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0133",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -2269,8 +2269,8 @@
    "video": "https://youtube.com/watch?v=3be3fznNiPk"
 },{
    "duration": 854,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0134",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0134",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -2289,8 +2289,8 @@
    "video": "https://youtube.com/watch?v=zVLLdGlbCSw"
 },{
    "duration": 638,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0135",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0135",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -2309,8 +2309,8 @@
    "video": "https://youtube.com/watch?v=myDWLPBiHn0"
 },{
    "duration": 886,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0136",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0136",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -2329,8 +2329,8 @@
    "video": "https://youtube.com/watch?v=pKvt5_FhziI"
 },{
    "duration": 390,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0137",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0137",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -2349,8 +2349,8 @@
    "video": "https://youtube.com/watch?v=dr0eY9c23i8"
 },{
    "duration": 780,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0138",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0138",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -2369,8 +2369,8 @@
    "video": "https://youtube.com/watch?v=6l5I4M8BMlE"
 },{
    "duration": 700,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0139",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0139",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -2390,8 +2390,8 @@
    "video": "https://youtube.com/watch?v=gI6Qtn4US9E"
 },{
    "duration": 482,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0140",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0140",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -2410,8 +2410,8 @@
    "video": "https://youtube.com/watch?v=c_OaKjGUAnA"
 },{
    "duration": 724,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0141",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0141",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -2430,8 +2430,8 @@
    "video": "https://youtube.com/watch?v=bVDX_z3PsfM"
 },{
    "duration": 333,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0142",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0142",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -2450,8 +2450,8 @@
    "video": "https://youtube.com/watch?v=ww1Wy07Uy_s"
 },{
    "duration": 316,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0143",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0143",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -2470,8 +2470,8 @@
    "video": "https://youtube.com/watch?v=B68_bgXYX94"
 },{
    "duration": 521,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0144",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0144",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -2491,8 +2491,8 @@
    "video": "https://youtube.com/watch?v=cXaZXzeAhEg"
 },{
    "duration": 858,
-   "edition": "2014",
-   "identifier": "#cppcon-2014-0145",
+   "edition": "2015",
+   "identifier": "#cppcon-2015-0145",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",

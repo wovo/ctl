@@ -1,0 +1,81 @@
+$locked
+
+$add meeting c++-day
+$add edition 2020
+$add language english
+$add tags conference online c++ 
+
+===============================================================================
+
+$set tags talk
+
+
+14:23
+#marker-0001
+WORDT NU AFGESPEELD
+Welcome Message - Marco Arena - []
+Italian Cpp Community
+
+2
+
+53:26
+#marker-0002
+WORDT NU AFGESPEELD
+Let’s make a telegram bot with C++ - Alberto Bignotti - []
+Italian Cpp Community
+
+3
+
+1:02:06
+#marker-0003
+WORDT NU AFGESPEELD
+Our first game using UE4 and C++ - Michele Mischitelli - []
+Italian Cpp Community
+
+4
+
+55:41
+#marker-0004
+WORDT NU AFGESPEELD
+Understanding value categories in C++ - Kris van Rens - []
+Italian Cpp Community
+
+5
+
+1:01:15
+#marker-0005
+WORDT NU AFGESPEELD
+[ITA] Comunicazione real-time con WebRTC in C++ - Yuri Valentini - []
+Italian Cpp Community
+
+6
+
+1:06:55
+#marker-0006
+WORDT NU AFGESPEELD
+WebAssembly: an overview - Lorenzo Veneri - []
+Italian Cpp Community
+
+7
+
+59:08
+#marker-0007
+WORDT NU AFGESPEELD
+Interoperable AI: ONNX & ONNXRuntime in C++ - M. Arena, M.Verasani - []
+Italian Cpp Community
+
+8
+
+1:03:49
+#marker-0008
+WORDT NU AFGESPEELD
+TDD is not about testing - C++ version - Gianluca Padovani - []
+Italian Cpp Community
+
+9
+
+6:57
+#marker-0009
+WORDT NU AFGESPEELD
+Closing Message - Marco Arena - []
+Italian Cpp Community

@@ -7,7 +7,7 @@ or I somehow introduced a javascript error.
 
 <SCRIPT type="text/javascript">
 
-var select_criteria = [ "meeting", "edition", "speaker", "tag" ]
+var select_criteria = [ "meeting", "edition", "language", "speaker", "tag" ]
 var search_criteria = [ "title", "speaker" ]
 var thumbnail_size = 100
 
@@ -50,7 +50,7 @@ function rewrite(){
          t2 += entry( talk )
       }   
    }
-   t += n.toString() + " talks<BR>" + t2
+   t += n.toString() + " entries<BR>" + t2
   
    t += "</BODY></HTML>"
    document.open()
@@ -85,7 +85,8 @@ function entry( talk, thumbnail ){
    if( show_all || show_details ){
       d += "ctl-" + talk.number.toString() + " "
       d += talk.meeting + " " + talk.edition + " "
-      d += "(" + format_duration( talk.duration ) + ")<BR>"
+      d += "(" + format_duration( talk.duration ) + ") "
+      d += talk.language + "<BR>"
    }
    if( show_all || show_tags ){
       d += talk.tags.join( ", " ) + "<BR>"

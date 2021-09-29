@@ -1,0 +1,170 @@
+// $locked
+
+$add meeting it-cpp-con
+$add edition 2021
+$add language english
+$add tags conference online c++ talk
+
+===============================================================================
+
+
+NL
+Zoeken
+
+
+
+
+
+9+
+
+Avatar-afbeelding
+Home
+Ontdekken
+Abonnementen
+Bibliotheek
+Geschiedenis
+Je video's
+Later bekijken
+2021-2022-VPCONC-C++
+Meer tonen
+ABONNEMENTEN
+
+Shadiversity
+Browsen door kanalen
+MEER VAN YOUTUBE
+YouTube Premium
+Films
+Games
+Live
+Sport
+Instellingen
+Meldingsgeschiedenis
+Help
+Feedback sturen
+OverPersAuteursrechtContactCreatorsAdverterenOntwikkelaars
+VoorwaardenPrivacyBeleid en veiligheidZo werkt YouTubeNieuwe functies testen
+© 2021 Google LLC YouTube, een bedrijf van Google
+
+ALLES AFSPELEN
+Italian C++ Conference 2021
+15 video's217 weergavenLaatst geüpdatet op 30 jun. 2021
+
+
+
+
+
+Italian Cpp Community
+1
+
+1:50:45
+#marker-0001
+WORDT NU AFGESPEELD
+WARNING: std::find is broken - Sean Parent - []
+Italian Cpp Community
+
+2
+
+1:01:14
+#marker-0002
+WORDT NU AFGESPEELD
+WebAssembly for non-beginners - Paolo Severini - []
+Italian Cpp Community
+
+3
+
+59:54
+#marker-0003
+WORDT NU AFGESPEELD
+The Quest For A Better Crash - Victor Ciura - []
+Italian Cpp Community
+
+4
+
+59:20
+#marker-0004
+WORDT NU AFGESPEELD
+Inside a static analyzer: type system - Yuri Minaev - []
+Italian Cpp Community
+
+5
+
+58:34
+#marker-0005
+WORDT NU AFGESPEELD
+Refactoring Superpowers - Clare Macrae - []
+Italian Cpp Community
+
+6
+
+
+7
+
+58:54
+#marker-0007
+WORDT NU AFGESPEELD
+Ai4Prod: the ecosystem to bring AI in production through C++ - Verasani, Tondelli - []
+Italian Cpp Community
+
+8
+
+1:01:38
+#marker-0008
+WORDT NU AFGESPEELD
+A bird's-eye view of template C++ - Kris van Rens - []
+Italian Cpp Community
+
+9
+
+57:00
+#marker-0009
+WORDT NU AFGESPEELD
+How to use correctly the const qualifier? - Sandor Dargo - []
+Italian Cpp Community
+
+10
+
+47:15
+#marker-0010
+WORDT NU AFGESPEELD
+PMRs for performance in C++17/20 - Marek Krajewski - []
+Italian Cpp Community
+
+11
+
+1:02:31
+#marker-0011
+WORDT NU AFGESPEELD
+Concepts, Type Traits and Specialization - Roi Barkan - []
+Italian Cpp Community
+
+12
+
+58:29
+#marker-0012
+WORDT NU AFGESPEELD
+Hook: The C++ library you were waiting for - Marcos Rojas - []
+Italian Cpp Community
+
+13
+
+37:06
+#marker-0013
+WORDT NU AFGESPEELD
+Bayesian Computation for Deep Learning in Modern C++ - Roland Grinis - []
+Italian Cpp Community
+
+14
+
+28:28
+#marker-0014
+WORDT NU AFGESPEELD
+Extrema: Correctly Calculating min and max - Walter E Brown - []
+Italian Cpp Community
+
+15
+
+7:10
+#marker-0015
+WORDT NU AFGESPEELD
+Closing Message - Marco Arena - []
+Italian Cpp Community
