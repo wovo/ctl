@@ -72,6 +72,7 @@ The conferences I included so fare are (from the youtube playlists):
 - cppcon 2014-2020
 - c++-on-sea 19-20 
 - cpp-india 2021
+- pacifi-c++ 2017, 2018
 
 - embo++ (no schedules available? - must ask!)
 
