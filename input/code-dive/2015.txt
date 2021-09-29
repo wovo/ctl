@@ -1,9 +1,11 @@
-#locked
+$locked
 
 $add meeting code-dive
 $add edition 2015
 $add language english
 $add tags conference live
+
+$set tags talk
 
 #marker-0001
 5G For People And Things – The Key To The Programmable World

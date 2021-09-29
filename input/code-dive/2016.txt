@@ -1,9 +1,11 @@
-#locked
+$locked
 
 $add meeting code-dive
 $add edition 2016
 $add language english
 $add tags conference live
+
+$set tags talk
 
 #marker-0001
 (R)evolution Of C++

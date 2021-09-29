@@ -507,7 +507,8 @@
    "meeting": "cppcon",
    "number": 26,
    "speakers": [
-      "xx"
+      "Marian Luparu",
+      "Steve Carroll"
    ],
    "tags": [
       "talk",
@@ -1403,7 +1404,7 @@
    "title": " The Nightmare of Initialization in C++",
    "video": "https://youtube.com/watch?v=7DTlWPgX6zs"
 },{
-   "duration": 791,
+   "duration": 3688,
    "edition": "2018",
    "identifier": "#cppcon-2018-0071",
    "language": "english",
@@ -1419,9 +1420,9 @@
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/EQ8egqj0rxY/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/uQyT-5iWUow/0.jpg",
    "title": " Surprises in Object Lifetime",
-   "video": "https://youtube.com/watch?v=EQ8egqj0rxY"
+   "video": "https://youtube.com/watch?v=uQyT-5iWUow"
 },{
    "duration": 1615,
    "edition": "2018",
@@ -1641,7 +1642,7 @@
       "c++"
    ],
    "thumbnail": "http://img.youtube.com/vi/67OCoOLVuK8/0.jpg",
-   "title": " Emulating the Nintendo 3DS: Generative & Declarative Programming in Action'",
+   "title": " Emulating the Nintendo 3DS: Generative & Declarative Programming in Action",
    "video": "https://youtube.com/watch?v=67OCoOLVuK8"
 },{
    "duration": 3538,
@@ -1792,7 +1793,8 @@
    "meeting": "cppcon",
    "number": 90,
    "speakers": [
-      "CppCon 2018"
+      "Mathieu Nayrolles",
+      "Nicolas Fleury"
    ],
    "tags": [
       "talk",
@@ -1801,7 +1803,7 @@
       "c++"
    ],
    "thumbnail": "http://img.youtube.com/vi/QDvic0QNtOY/0.jpg",
-   "title": "Nicolas Fleury & Mathieu Nayrolles : Better C++ using Machine Learning on Large Projects",
+   "title": " Better C++ using Machine Learning on Large Projects",
    "video": "https://youtube.com/watch?v=QDvic0QNtOY"
 },{
    "duration": 1887,
@@ -2613,7 +2615,7 @@
    "meeting": "cppcon",
    "number": 131,
    "speakers": [
-      "CppCon 2018"
+      "H. Wright"
    ],
    "tags": [
       "talk",
@@ -2622,7 +2624,7 @@
       "c++"
    ],
    "thumbnail": "http://img.youtube.com/vi/TrC6ROeV4GI/0.jpg",
-   "title": "H. Wright : Large-Scale Changes at Google: Lessons Learned From 5 Yrs of Mass Migrations",
+   "title": " Large-Scale Changes at Google: Lessons Learned From 5 Yrs of Mass Migrations",
    "video": "https://youtube.com/watch?v=TrC6ROeV4GI"
 },{
    "duration": 3148,
@@ -3265,7 +3267,7 @@
    "title": " The perfect job interview (well, maybe)",
    "video": "https://youtube.com/watch?v=TKUmi724k7Y"
 },{
-   "duration": 297,
+   "duration": 3652,
    "edition": "2018",
    "identifier": "#cppcon-2018-0168",
    "language": "english",
@@ -3281,9 +3283,9 @@
       "live",
       "c++"
    ],
-   "thumbnail": "http://img.youtube.com/vi/ho9bqIJkvkc/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/MX15huP5DsM/0.jpg",
    "title": " Fast Parallel Programming using Modern C++",
-   "video": "https://youtube.com/watch?v=ho9bqIJkvkc"
+   "video": "https://youtube.com/watch?v=MX15huP5DsM"
 },{
    "duration": 277,
    "edition": "2018",

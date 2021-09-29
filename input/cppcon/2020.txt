@@ -25,6 +25,11 @@ CppCon
 
 $set tags talk
 
+1:05:53
+#marker-0109
+WORDT NU AFGESPEELD
+What is an ABI, and Why is Breaking it Bad? - Marshall Clow - []
+CppCon
 
 
 
@@ -467,7 +472,7 @@ CppCon
 1:08:45
 #marker-0056
 WORDT NU AFGESPEELD
-Plenary: Neighborhoods Banding Together: Reasoning Globally about Programs - Lisa Lippincott -CppCon
+Plenary: Neighborhoods Banding Together: Reasoning Globally about Programs - Lisa Lippincott - []
 CppCon
 
 57
@@ -866,9 +871,4 @@ CppCon
 
 109
 
-1:05:53
-#marker-0109
-WORDT NU AFGESPEELD
-What is an ABI, and Why is Breaking it Bad? - Marshall Clow - []
-CppCon
 

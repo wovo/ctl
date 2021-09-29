@@ -1,15 +1,16 @@
 { "list": [{
    "duration": 171,
-   "edition": "2019-autumn",
+   "edition": "2019",
    "identifier": "#accu-2019-autumn-0001",
    "language": "english",
    "level": 0,
-   "meeting": "accu",
+   "meeting": "accu autumn",
    "number": 1,
    "speakers": [
       "Walter Brown"
    ],
    "tags": [
+      "talk",
       "conference",
       "live"
    ],
@@ -18,16 +19,17 @@
    "video": "https://youtube.com/watch?v=uXOY0qNM1y4"
 },{
    "duration": 4360,
-   "edition": "2019-autumn",
+   "edition": "2019",
    "identifier": "#accu-2019-autumn-0002",
    "language": "english",
    "level": 0,
-   "meeting": "accu",
+   "meeting": "accu autumn",
    "number": 2,
    "speakers": [
       "Herb Sutter"
    ],
    "tags": [
+      "talk",
       "conference",
       "live"
    ],
@@ -36,16 +38,17 @@
    "video": "https://youtube.com/watch?v=qx22oxlQmKc"
 },{
    "duration": 5408,
-   "edition": "2019-autumn",
+   "edition": "2019",
    "identifier": "#accu-2019-autumn-0003",
    "language": "english",
    "level": 0,
-   "meeting": "accu",
+   "meeting": "accu autumn",
    "number": 3,
    "speakers": [
       "John Lakos"
    ],
    "tags": [
+      "talk",
       "conference",
       "live"
    ],
@@ -54,16 +57,17 @@
    "video": "https://youtube.com/watch?v=lGZzN7WZ6EA"
 },{
    "duration": 3997,
-   "edition": "2019-autumn",
+   "edition": "2019",
    "identifier": "#accu-2019-autumn-0004",
    "language": "english",
    "level": 0,
-   "meeting": "accu",
+   "meeting": "accu autumn",
    "number": 4,
    "speakers": [
       "Bryce Adelstein Lelbach"
    ],
    "tags": [
+      "talk",
       "conference",
       "live"
    ],
@@ -71,35 +75,37 @@
    "title": "The C++20 Synchronization Library",
    "video": "https://youtube.com/watch?v=Zcqwb3CWqs4"
 },{
-   "duration": 4906,
-   "edition": "2019-autumn",
+   "duration": 5106,
+   "edition": "2019",
    "identifier": "#accu-2019-autumn-0005",
    "language": "english",
    "level": 0,
-   "meeting": "accu",
+   "meeting": "accu autumn",
    "number": 5,
    "speakers": [
       "Mike Shah"
    ],
    "tags": [
+      "talk",
       "conference",
       "live"
    ],
-   "thumbnail": "http://img.youtube.com/vi/xwE568oVQ1Y/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/IGtKstxNe14/0.jpg",
    "title": "Introduction to Cache Oblivious Algorithms",
-   "video": "https://youtube.com/watch?v=xwE568oVQ1Y"
+   "video": "https://youtube.com/watch?v=IGtKstxNe14"
 },{
    "duration": 3278,
-   "edition": "2019-autumn",
+   "edition": "2019",
    "identifier": "#accu-2019-autumn-0006",
    "language": "english",
    "level": 0,
-   "meeting": "accu",
+   "meeting": "accu autumn",
    "number": 6,
    "speakers": [
       "Victor Zverovich"
    ],
    "tags": [
+      "talk",
       "conference",
       "live"
    ],
@@ -108,16 +114,17 @@
    "video": "https://youtube.com/watch?v=_frCGEC23zo"
 },{
    "duration": 3178,
-   "edition": "2019-autumn",
+   "edition": "2019",
    "identifier": "#accu-2019-autumn-0007",
    "language": "english",
    "level": 0,
-   "meeting": "accu",
+   "meeting": "accu autumn",
    "number": 7,
    "speakers": [
       "David Olsen"
    ],
    "tags": [
+      "talk",
       "conference",
       "live"
    ],
@@ -126,17 +133,18 @@
    "video": "https://youtube.com/watch?v=cbbKEAWf1ow"
 },{
    "duration": 2554,
-   "edition": "2019-autumn",
+   "edition": "2019",
    "identifier": "#accu-2019-autumn-0008",
    "language": "english",
    "level": 0,
-   "meeting": "accu",
+   "meeting": "accu autumn",
    "number": 8,
    "speakers": [
       "Eamonn Boyle",
       "Garth Gilmour"
    ],
    "tags": [
+      "talk",
       "conference",
       "live"
    ],
@@ -145,16 +153,17 @@
    "video": "https://youtube.com/watch?v=JHUY1Ckmo64"
 },{
    "duration": 3639,
-   "edition": "2019-autumn",
+   "edition": "2019",
    "identifier": "#accu-2019-autumn-0009",
    "language": "english",
    "level": 0,
-   "meeting": "accu",
+   "meeting": "accu autumn",
    "number": 9,
    "speakers": [
       "Andreas Fertig"
    ],
    "tags": [
+      "talk",
       "conference",
       "live"
    ],
@@ -162,53 +171,56 @@
    "title": "C++ Insights: How stuff works, Lambdas and more!",
    "video": "https://youtube.com/watch?v=G0Z8FUJ4RLc"
 },{
-   "duration": 232,
-   "edition": "2019-autumn",
+   "duration": 6336,
+   "edition": "2019",
    "identifier": "#accu-2019-autumn-0010",
    "language": "english",
    "level": 0,
-   "meeting": "accu",
+   "meeting": "accu autumn",
    "number": 10,
    "speakers": [
       "John McFarlane"
    ],
    "tags": [
+      "talk",
       "conference",
       "live"
    ],
-   "thumbnail": "http://img.youtube.com/vi/if2K7LLSbls/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/65CAhcRwf5c/0.jpg",
    "title": "The Secret Life of Numbers",
-   "video": "https://youtube.com/watch?v=if2K7LLSbls"
+   "video": "https://youtube.com/watch?v=65CAhcRwf5c"
 },{
-   "duration": 2132,
-   "edition": "2019-autumn",
+   "duration": 1007,
+   "edition": "2019",
    "identifier": "#accu-2019-autumn-0011",
    "language": "english",
    "level": 0,
-   "meeting": "accu",
+   "meeting": "accu autumn",
    "number": 11,
    "speakers": [
       "Mark Allan"
    ],
    "tags": [
+      "talk",
       "conference",
       "live"
    ],
-   "thumbnail": "http://img.youtube.com/vi/ZK2SS_GXF-g/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/ujuWVs0A-KM/0.jpg",
    "title": "Serverless Containers with KEDA",
-   "video": "https://youtube.com/watch?v=ZK2SS_GXF-g"
+   "video": "https://youtube.com/watch?v=ujuWVs0A-KM"
 },{
    "duration": 5689,
-   "edition": "2019-autumn",
+   "edition": "2019",
    "identifier": "#accu-2019-autumn-0012",
    "language": "english",
    "level": 0,
-   "meeting": "accu",
+   "meeting": "accu autumn",
    "number": 12,
    "speakers": [
       "Titus Winters"
    ],
    "tags": [
+      "talk",
       "conference",
       "live"
    ],
@@ -217,16 +229,17 @@
    "video": "https://youtube.com/watch?v=9a18XkWw8vk"
 },{
    "duration": 3423,
-   "edition": "2019-autumn",
+   "edition": "2019",
    "identifier": "#accu-2019-autumn-0013",
    "language": "english",
    "level": 0,
-   "meeting": "accu",
+   "meeting": "accu autumn",
    "number": 13,
    "speakers": [
       "Conor Hoekstra"
    ],
    "tags": [
+      "talk",
       "conference",
       "live"
    ],
@@ -235,16 +248,17 @@
    "video": "https://youtube.com/watch?v=0z-cv3gartw"
 },{
    "duration": 3747,
-   "edition": "2019-autumn",
+   "edition": "2019",
    "identifier": "#accu-2019-autumn-0014",
    "language": "english",
    "level": 0,
-   "meeting": "accu",
+   "meeting": "accu autumn",
    "number": 14,
    "speakers": [
       "Lisa Lippincott"
    ],
    "tags": [
+      "talk",
       "conference",
       "live"
    ],
@@ -253,16 +267,17 @@
    "video": "https://youtube.com/watch?v=baKqCOLKcPc"
 },{
    "duration": 3161,
-   "edition": "2019-autumn",
+   "edition": "2019",
    "identifier": "#accu-2019-autumn-0015",
    "language": "english",
    "level": 0,
-   "meeting": "accu",
+   "meeting": "accu autumn",
    "number": 15,
    "speakers": [
       "Phil Nash"
    ],
    "tags": [
+      "talk",
       "conference",
       "live"
    ],
@@ -270,35 +285,37 @@
    "title": "The Dawn of a New Error",
    "video": "https://youtube.com/watch?v=2Jhfubg9yvA"
 },{
-   "duration": 5570,
-   "edition": "2019-autumn",
+   "duration": 2787,
+   "edition": "2019",
    "identifier": "#accu-2019-autumn-0016",
    "language": "english",
    "level": 0,
-   "meeting": "accu",
+   "meeting": "accu autumn",
    "number": 16,
    "speakers": [
       "Bob Steagall"
    ],
    "tags": [
+      "talk",
       "conference",
       "live"
    ],
-   "thumbnail": "http://img.youtube.com/vi/CslK9tu9ssA/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/Ieoaz1lzOQM/0.jpg",
    "title": "Transpose(*this) - Linear Algebra for Standard C++",
-   "video": "https://youtube.com/watch?v=CslK9tu9ssA"
+   "video": "https://youtube.com/watch?v=Ieoaz1lzOQM"
 },{
    "duration": 5318,
-   "edition": "2019-autumn",
+   "edition": "2019",
    "identifier": "#accu-2019-autumn-0017",
    "language": "english",
    "level": 0,
-   "meeting": "accu",
+   "meeting": "accu autumn",
    "number": 17,
    "speakers": [
       "Timur Doumler"
    ],
    "tags": [
+      "talk",
       "conference",
       "live"
    ],
@@ -307,16 +324,17 @@
    "video": "https://youtube.com/watch?v=7LPQWqAZZqs"
 },{
    "duration": 4751,
-   "edition": "2019-autumn",
+   "edition": "2019",
    "identifier": "#accu-2019-autumn-0018",
    "language": "english",
    "level": 0,
-   "meeting": "accu",
+   "meeting": "accu autumn",
    "number": 18,
    "speakers": [
       "Alisdair Meredith"
    ],
    "tags": [
+      "talk",
       "conference",
       "live"
    ],
@@ -325,16 +343,17 @@
    "video": "https://youtube.com/watch?v=bNF9_bJ8m7w"
 },{
    "duration": 5282,
-   "edition": "2019-autumn",
+   "edition": "2019",
    "identifier": "#accu-2019-autumn-0019",
    "language": "english",
    "level": 0,
-   "meeting": "accu",
+   "meeting": "accu autumn",
    "number": 19,
    "speakers": [
       "Nevin Liber"
    ],
    "tags": [
+      "talk",
       "conference",
       "live"
    ],
@@ -342,53 +361,56 @@
    "title": "The Many Variants of std::variant",
    "video": "https://youtube.com/watch?v=JUxhwf7gYLg"
 },{
-   "duration": 5307,
-   "edition": "2019-autumn",
+   "duration": 4824,
+   "edition": "2019",
    "identifier": "#accu-2019-autumn-0020",
    "language": "english",
    "level": 0,
-   "meeting": "accu",
+   "meeting": "accu autumn",
    "number": 20,
    "speakers": [
       "Neil Horlock"
    ],
    "tags": [
+      "talk",
       "conference",
       "live"
    ],
-   "thumbnail": "http://img.youtube.com/vi/ndnvOElnyUg/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/qkO1Y0Bh74U/0.jpg",
    "title": "No more secrets? Why your secrets aren't safe and what you can do about it",
-   "video": "https://youtube.com/watch?v=ndnvOElnyUg"
+   "video": "https://youtube.com/watch?v=qkO1Y0Bh74U"
 },{
-   "duration": 2387,
-   "edition": "2019-autumn",
+   "duration": 134,
+   "edition": "2019",
    "identifier": "#accu-2019-autumn-0021",
    "language": "english",
    "level": 0,
-   "meeting": "accu",
+   "meeting": "accu autumn",
    "number": 21,
    "speakers": [
       "Chris Kohlhoff"
    ],
    "tags": [
+      "talk",
       "conference",
       "live"
    ],
-   "thumbnail": "http://img.youtube.com/vi/a9-taPopNRk/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/6oY3CyvGFPk/0.jpg",
    "title": "Coarse grained application composition using Pipelines and Buses",
-   "video": "https://youtube.com/watch?v=a9-taPopNRk"
+   "video": "https://youtube.com/watch?v=6oY3CyvGFPk"
 },{
    "duration": 4527,
-   "edition": "2019-autumn",
+   "edition": "2019",
    "identifier": "#accu-2019-autumn-0022",
    "language": "english",
    "level": 0,
-   "meeting": "accu",
+   "meeting": "accu autumn",
    "number": 22,
    "speakers": [
       "Marshall Clow"
    ],
    "tags": [
+      "talk",
       "conference",
       "live"
    ],
@@ -397,16 +419,17 @@
    "video": "https://youtube.com/watch?v=x0FQkAPokfE"
 },{
    "duration": 2933,
-   "edition": "2019-autumn",
+   "edition": "2019",
    "identifier": "#accu-2019-autumn-0023",
    "language": "english",
    "level": 0,
-   "meeting": "accu",
+   "meeting": "accu autumn",
    "number": 23,
    "speakers": [
       "Dietmar Kuhl"
    ],
    "tags": [
+      "talk",
       "conference",
       "live"
    ],
@@ -414,21 +437,22 @@
    "title": "From Algorithm to Generic, Parallel Code",
    "video": "https://youtube.com/watch?v=RrG_A7Ybzo4"
 },{
-   "duration": 5606,
-   "edition": "2019-autumn",
+   "duration": 2851,
+   "edition": "2019",
    "identifier": "#accu-2019-autumn-0024",
    "language": "english",
    "level": 0,
-   "meeting": "accu",
+   "meeting": "accu autumn",
    "number": 24,
    "speakers": [
       "Michael Wong"
    ],
    "tags": [
+      "talk",
       "conference",
       "live"
    ],
-   "thumbnail": "http://img.youtube.com/vi/a_m440rZ5h8/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/vi6LVTdo0BU/0.jpg",
    "title": "The future direction of C++ and Heterogeneous Computing",
-   "video": "https://youtube.com/watch?v=a_m440rZ5h8"
+   "video": "https://youtube.com/watch?v=vi6LVTdo0BU"
 }]}

@@ -1,9 +1,15 @@
-#locked
+$locked
 
 $add meeting accu
 $add edition 2019
 $add language english
 $add tags conference live
+
+===============================================================================
+
+$set tags talk
+
+
 
 Tuesday 2019-04-09
 Empire	SS Great Britain	Wallace	Concorde	Old Vic

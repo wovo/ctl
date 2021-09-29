@@ -63,17 +63,36 @@ But it provides some info I couldn't get from the published schedules.
 c++now 2014 no keynotes??
 
 The conferences I included so fare are (from the youtube playlists):
+- accu (spring) 2016-2019 (from the program page)
+- accu (autumn) 2019
 - c++now 2010-2019, 2021
+- code-dive 2014-2020 (from the program page)
 - meeting-c++ 2014-2020
 - meeting-embedded 2018, 2020
-- cppcon 2014-2017
+- cppcon 2014-2020
+- c++-on-sea 19-20 
+- cpp-india 2021
 
-
-- accu 16-19 (20 cancelled)
-- c++-on-sea 19-20
-- code-dive 14-20
-- cppcon 14-20
 - embo++ (no schedules available? - must ask!)
+
+todo
+
+italian C++ conference
+cpp-summit (more)
+pacific++
+cpp europe (more)
+EuroLLVM
+LLVM dev meeting
+C++ Russia
+Core Hard
+Core C++
+CPPP
+C++ Day
+ADC++
+C++ Day 2020
+NDC Tech Town
+pure C++ 2020
+accu again, note the lightning's
 
 The talks are tagged, but this has been done by hand and very roughly.
 I used or plan to use these tags 

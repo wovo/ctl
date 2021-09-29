@@ -1,9 +1,15 @@
-#locked
+$locked
 
 $add meeting accu-autumn
 $add edition 2019
 $add language english
 $add tags conference live
+
+===============================================================================
+
+$set tags talk
+
+
 
 Sunday 2019-11-10
 Hilton Hotel, Belfast

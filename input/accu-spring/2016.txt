@@ -1,9 +1,15 @@
-// #locked
+$locked
 
 $add meeting accu
 $add edition 2016
 $add language english
 $add tags conference live
+
+===============================================================================
+
+$set tags talk
+
+
 
 Tuesday 2016-04-19
 10:00

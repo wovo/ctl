@@ -1,9 +1,15 @@
-#locked
+$locked
 
 $add meeting accu
 $add edition 2018
 $add language english
 $add tags conference live
+
+===============================================================================
+
+$set tags talk
+
+
 
 
 Tuesday 2018-04-10

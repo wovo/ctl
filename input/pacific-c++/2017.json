@@ -1,0 +1,134 @@
+{ "list": [{
+   "duration": 4998,
+   "edition": "2017",
+   "identifier": "#pacific-c++-2017-0001",
+   "language": "english",
+   "level": 0,
+   "meeting": "pacific c++",
+   "number": 1,
+   "speakers": [
+      "Jason Turner"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/OkgvqjJzH_Y/0.jpg",
+   "title": " Rethinking Exceptions",
+   "video": "https://youtube.com/watch?v=OkgvqjJzH_Y"
+},{
+   "duration": 3365,
+   "edition": "2017",
+   "identifier": "#pacific-c++-2017-0002",
+   "language": "english",
+   "level": 0,
+   "meeting": "pacific c++",
+   "number": 2,
+   "speakers": [
+      "Christian Blume"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/xuL7rfkcWus/0.jpg",
+   "title": " Using tasks to simplify concurrency in modern C++",
+   "video": "https://youtube.com/watch?v=xuL7rfkcWus"
+},{
+   "duration": 4743,
+   "edition": "2017",
+   "identifier": "#pacific-c++-2017-0003",
+   "language": "english",
+   "level": 0,
+   "meeting": "pacific c++",
+   "number": 3,
+   "speakers": [
+      "Carl Cook"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/BxfT9fiUsZ4/0.jpg",
+   "title": " Low Latency C++ for Fun and Profit",
+   "video": "https://youtube.com/watch?v=BxfT9fiUsZ4"
+},{
+   "duration": 2178,
+   "edition": "2017",
+   "identifier": "#pacific-c++-2017-0004",
+   "language": "english",
+   "level": 0,
+   "meeting": "pacific c++",
+   "number": 4,
+   "speakers": [
+      "Tom Isaacson"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/aUjl_pIcp_c/0.jpg",
+   "title": " Equivalence in cross-compilation compiler warnings",
+   "video": "https://youtube.com/watch?v=aUjl_pIcp_c"
+},{
+   "duration": 4450,
+   "edition": "2017",
+   "identifier": "#pacific-c++-2017-0005",
+   "language": "english",
+   "level": 0,
+   "meeting": "pacific c++",
+   "number": 5,
+   "speakers": [
+      "Dean Michael Berris"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/cBc_MxbzqhY/0.jpg",
+   "title": " Debugging with LLVM XRay",
+   "video": "https://youtube.com/watch?v=cBc_MxbzqhY"
+},{
+   "duration": 4567,
+   "edition": "2017",
+   "identifier": "#pacific-c++-2017-0006",
+   "language": "english",
+   "level": 0,
+   "meeting": "pacific c++",
+   "number": 6,
+   "speakers": [
+      "Nick Sarten"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/4v-pPkVaFA4/0.jpg",
+   "title": " Type-safe state machines with C++17 std::variant",
+   "video": "https://youtube.com/watch?v=4v-pPkVaFA4"
+},{
+   "duration": 4348,
+   "edition": "2017",
+   "identifier": "#pacific-c++-2017-0007",
+   "language": "english",
+   "level": 0,
+   "meeting": "pacific c++",
+   "number": 7,
+   "speakers": [
+      "Sarah Smith"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/h4VFP2oXKeU/0.jpg",
+   "title": " Postcards from the Cross-platform Frontier",
+   "video": "https://youtube.com/watch?v=h4VFP2oXKeU"
+}]}

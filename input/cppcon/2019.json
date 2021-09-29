@@ -1,5 +1,5 @@
 { "list": [{
-   "duration": "",
+   "duration": 5486,
    "edition": "2019",
    "identifier": "#cppcon-2019-0001",
    "language": "english",
@@ -10,15 +10,16 @@
       "Bjarne Stroustrup"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/u_ij0YNkFUs/0.jpg",
    "title": " C++20: C++ at 40",
-   "video": ""
+   "video": "https://youtube.com/watch?v=u_ij0YNkFUs"
 },{
-   "duration": "",
+   "duration": 5395,
    "edition": "2019",
    "identifier": "#cppcon-2019-0002",
    "language": "english",
@@ -29,15 +30,16 @@
       "Andrei Alexandrescu"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/FJJTYQYB1JQ/0.jpg",
    "title": " Speed Is Found In The Minds of People",
-   "video": ""
+   "video": "https://youtube.com/watch?v=FJJTYQYB1JQ"
 },{
-   "duration": "",
+   "duration": 5408,
    "edition": "2019",
    "identifier": "#cppcon-2019-0003",
    "language": "english",
@@ -48,15 +50,16 @@
       "Ben Smith"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/5N4b-rU-OAA/0.jpg",
    "title": " Applied WebAssembly: Compiling and Running C++ in Your Web Browser",
-   "video": ""
+   "video": "https://youtube.com/watch?v=5N4b-rU-OAA"
 },{
-   "duration": "",
+   "duration": 4771,
    "edition": "2019",
    "identifier": "#cppcon-2019-0004",
    "language": "english",
@@ -67,15 +70,16 @@
       "Sean Parent"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/ejF6qqohp3M/0.jpg",
    "title": " Better Code: Relationships",
-   "video": ""
+   "video": "https://youtube.com/watch?v=ejF6qqohp3M"
 },{
-   "duration": "",
+   "duration": 5592,
    "edition": "2019",
    "identifier": "#cppcon-2019-0005",
    "language": "english",
@@ -86,15 +90,16 @@
       "Herb Sutter"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/ARYP83yNAWk/0.jpg",
    "title": " De-fragmenting C++: Making Exceptions and RTTI More Affordable and Usable",
-   "video": ""
+   "video": "https://youtube.com/watch?v=ARYP83yNAWk"
 },{
-   "duration": "",
+   "duration": 3442,
    "edition": "2019",
    "identifier": "#cppcon-2019-0006",
    "language": "english",
@@ -105,15 +110,16 @@
       "Dvir Yitzchaki"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/qQtS50ZChN8/0.jpg",
    "title": " Range Algorithms, Views and Actions: A Comprehensive Guide",
-   "video": ""
+   "video": "https://youtube.com/watch?v=qQtS50ZChN8"
 },{
-   "duration": "",
+   "duration": 3659,
    "edition": "2019",
    "identifier": "#cppcon-2019-0007",
    "language": "english",
@@ -124,15 +130,16 @@
       "Jeff Garland"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/vJ290qlAbbw/0.jpg",
    "title": " From STL to Ranges: Using Ranges Effectively",
-   "video": ""
+   "video": "https://youtube.com/watch?v=vJ290qlAbbw"
 },{
-   "duration": "",
+   "duration": 2002,
    "edition": "2019",
    "identifier": "#cppcon-2019-0008",
    "language": "english",
@@ -143,15 +150,16 @@
       "Jussi Pakkanen"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/34KzT2yvQuM/0.jpg",
    "title": " Behind the Scenes of a C++ Build System",
-   "video": ""
+   "video": "https://youtube.com/watch?v=34KzT2yvQuM"
 },{
-   "duration": "",
+   "duration": 2824,
    "edition": "2019",
    "identifier": "#cppcon-2019-0009",
    "language": "english",
@@ -162,15 +170,16 @@
       "Jorg Brown"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/TyiiNVA1syk/0.jpg",
    "title": " Reducing Template Compilation Overhead, Using C++11, 14, 17, and 20.",
-   "video": ""
+   "video": "https://youtube.com/watch?v=TyiiNVA1syk"
 },{
-   "duration": "",
+   "duration": 2413,
    "edition": "2019",
    "identifier": "#cppcon-2019-0010",
    "language": "english",
@@ -181,15 +190,16 @@
       "Inbal Levi"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/jBnIMEb2GhA/0.jpg",
    "title": " Back to Basics: Virtual Dispatch and its Alternatives",
-   "video": ""
+   "video": "https://youtube.com/watch?v=jBnIMEb2GhA"
 },{
-   "duration": "",
+   "duration": 3018,
    "edition": "2019",
    "identifier": "#cppcon-2019-0011",
    "language": "english",
@@ -200,15 +210,16 @@
       "Chris Di Bella"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/YWayW5ePpkY/0.jpg",
    "title": " What a View! Building Your Own (Lazy) Range Adaptors (part 1 of 2)",
-   "video": ""
+   "video": "https://youtube.com/watch?v=YWayW5ePpkY"
 },{
-   "duration": "",
+   "duration": 3651,
    "edition": "2019",
    "identifier": "#cppcon-2019-0012",
    "language": "english",
@@ -219,15 +230,16 @@
       "Patrice Roy"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/KNqRjzSlUVo/0.jpg",
    "title": " Some Programming Myths Revisited",
-   "video": ""
+   "video": "https://youtube.com/watch?v=KNqRjzSlUVo"
 },{
-   "duration": "",
+   "duration": 3405,
    "edition": "2019",
    "identifier": "#cppcon-2019-0013",
    "language": "english",
@@ -238,15 +250,16 @@
       "Greg Law"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/WoRmXjVxuFQ/0.jpg",
    "title": " Modern Linux C++ debugging tools - under the covers",
-   "video": ""
+   "video": "https://youtube.com/watch?v=WoRmXjVxuFQ"
 },{
-   "duration": "",
+   "duration": 3292,
    "edition": "2019",
    "identifier": "#cppcon-2019-0014",
    "language": "english",
@@ -257,15 +270,16 @@
       "Jason Turner"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/ZxWjii99yao/0.jpg",
    "title": " Great C++ is_trivial",
-   "video": ""
+   "video": "https://youtube.com/watch?v=ZxWjii99yao"
 },{
-   "duration": "",
+   "duration": 3660,
    "edition": "2019",
    "identifier": "#cppcon-2019-0015",
    "language": "english",
@@ -276,15 +290,16 @@
       "Tristan Brindle"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/SYLgG7Q5Zws/0.jpg",
    "title": " An Overview of Standard Ranges",
-   "video": ""
+   "video": "https://youtube.com/watch?v=SYLgG7Q5Zws"
 },{
-   "duration": "",
+   "duration": 3317,
    "edition": "2019",
    "identifier": "#cppcon-2019-0016",
    "language": "english",
@@ -295,15 +310,16 @@
       "Klaus Iglberger"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/St0MNEU5b0o/0.jpg",
    "title": " Back to Basics: Move Semantics (part 1 of 2)",
-   "video": ""
+   "video": "https://youtube.com/watch?v=St0MNEU5b0o"
 },{
-   "duration": "",
+   "duration": 3229,
    "edition": "2019",
    "identifier": "#cppcon-2019-0017",
    "language": "english",
@@ -314,15 +330,16 @@
       "Klaus Iglberger"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/pIzaZbKUw2s/0.jpg",
    "title": " Back to Basics: Move Semantics (part 2 of 2)",
-   "video": ""
+   "video": "https://youtube.com/watch?v=pIzaZbKUw2s"
 },{
-   "duration": "",
+   "duration": 3313,
    "edition": "2019",
    "identifier": "#cppcon-2019-0018",
    "language": "english",
@@ -333,15 +350,16 @@
       "Nicolai Josuttis"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/WRQ1xqYBKgc/0.jpg",
    "title": " When C++ Style Guides Contradict",
-   "video": ""
+   "video": "https://youtube.com/watch?v=WRQ1xqYBKgc"
 },{
-   "duration": "",
+   "duration": 2933,
    "edition": "2019",
    "identifier": "#cppcon-2019-0019",
    "language": "english",
@@ -352,15 +370,16 @@
       "Dietmar Kuhl"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/RrG_A7Ybzo4/0.jpg",
    "title": " From Algorithm to Generic, Parallel Code",
-   "video": ""
+   "video": "https://youtube.com/watch?v=RrG_A7Ybzo4"
 },{
-   "duration": "",
+   "duration": 3693,
    "edition": "2019",
    "identifier": "#cppcon-2019-0020",
    "language": "english",
@@ -371,15 +390,16 @@
       "Dan Saks"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/NZtr93iL3R0/0.jpg",
    "title": " Back to Basics: Const as a Promise",
-   "video": ""
+   "video": "https://youtube.com/watch?v=NZtr93iL3R0"
 },{
-   "duration": "",
+   "duration": 3563,
    "edition": "2019",
    "identifier": "#cppcon-2019-0021",
    "language": "english",
@@ -390,15 +410,16 @@
       "Hana Dusikova"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/8dKWdJzPwHw/0.jpg",
    "title": " A State of Compile Time Regular Expressions",
-   "video": ""
+   "video": "https://youtube.com/watch?v=8dKWdJzPwHw"
 },{
-   "duration": "",
+   "duration": 3662,
    "edition": "2019",
    "identifier": "#cppcon-2019-0022",
    "language": "english",
@@ -409,15 +430,16 @@
       "Fedor Pikus"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/RoYljVOj2H8/0.jpg",
    "title": " Back to Basics: Test-driven Development",
-   "video": ""
+   "video": "https://youtube.com/watch?v=RoYljVOj2H8"
 },{
-   "duration": "",
+   "duration": 1883,
    "edition": "2019",
    "identifier": "#cppcon-2019-0023",
    "language": "english",
@@ -428,15 +450,16 @@
       "Robert Schumacher"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/Lb3hlLlHTrs/0.jpg",
    "title": " How to Herd 1,000 Libraries",
-   "video": ""
+   "video": "https://youtube.com/watch?v=Lb3hlLlHTrs"
 },{
-   "duration": "",
+   "duration": 3308,
    "edition": "2019",
    "identifier": "#cppcon-2019-0024",
    "language": "english",
@@ -448,15 +471,16 @@
       "Samy Al Bahra"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/N07tM7xWF1U/0.jpg",
    "title": " Abusing Your Memory Model for Fun and Profit",
-   "video": ""
+   "video": "https://youtube.com/watch?v=N07tM7xWF1U"
 },{
-   "duration": "",
+   "duration": 3004,
    "edition": "2019",
    "identifier": "#cppcon-2019-0025",
    "language": "english",
@@ -467,15 +491,16 @@
       "Daniel Hanson"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/NeGO8lWDgyo/0.jpg",
    "title": " Leveraging Modern C++ in Quantitative Finance",
-   "video": ""
+   "video": "https://youtube.com/watch?v=NeGO8lWDgyo"
 },{
-   "duration": "",
+   "duration": 3563,
    "edition": "2019",
    "identifier": "#cppcon-2019-0026",
    "language": "english",
@@ -486,15 +511,16 @@
       "Mark Isaacson"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/p7xdNjdtojU/0.jpg",
    "title": " Making Testing C++ Binaries Practical @ Facebook Scale: A CI Story",
-   "video": ""
+   "video": "https://youtube.com/watch?v=p7xdNjdtojU"
 },{
-   "duration": "",
+   "duration": 3142,
    "edition": "2019",
    "identifier": "#cppcon-2019-0027",
    "language": "english",
@@ -505,15 +531,16 @@
       "Miro Knejp"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/IAdLwUXRUvg/0.jpg",
    "title": " Non-conforming C++: the Secrets the Committee Is Hiding From You",
-   "video": ""
+   "video": "https://youtube.com/watch?v=IAdLwUXRUvg"
 },{
-   "duration": "",
+   "duration": 3511,
    "edition": "2019",
    "identifier": "#cppcon-2019-0028",
    "language": "english",
@@ -524,15 +551,16 @@
       "Andrew Sutton"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/kjQXhuPX-Ac/0.jpg",
    "title": " Meta++: Language Support for Advanced Generative Programming",
-   "video": ""
+   "video": "https://youtube.com/watch?v=kjQXhuPX-Ac"
 },{
-   "duration": "",
+   "duration": 3240,
    "edition": "2019",
    "identifier": "#cppcon-2019-0029",
    "language": "english",
@@ -543,15 +571,16 @@
       "Matt Kulukundis"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/JZE3_0qvrMg/0.jpg",
    "title": " Abseil's Open Source Hashtables: 2 Years In",
-   "video": ""
+   "video": "https://youtube.com/watch?v=JZE3_0qvrMg"
 },{
-   "duration": "",
+   "duration": 3755,
    "edition": "2019",
    "identifier": "#cppcon-2019-0030",
    "language": "english",
@@ -562,15 +591,16 @@
       "Michael Park"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/PBZBG4nZXhk/0.jpg",
    "title": " Pattern Matching: A Sneak Peek",
-   "video": ""
+   "video": "https://youtube.com/watch?v=PBZBG4nZXhk"
 },{
-   "duration": "",
+   "duration": 3895,
    "edition": "2019",
    "identifier": "#cppcon-2019-0031",
    "language": "english",
@@ -581,15 +611,16 @@
       "Milian Wolff"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/YB0QoWI-g8E/0.jpg",
    "title": " How to Write a Heap Memory Profiler",
-   "video": ""
+   "video": "https://youtube.com/watch?v=YB0QoWI-g8E"
 },{
-   "duration": "",
+   "duration": 3227,
    "edition": "2019",
    "identifier": "#cppcon-2019-0032",
    "language": "english",
@@ -600,15 +631,16 @@
       "CppCon 2019"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/XS2JddPq7GQ/0.jpg",
    "title": "Ben Saks : Back to Basics: Understanding Value Categories",
-   "video": ""
+   "video": "https://youtube.com/watch?v=XS2JddPq7GQ"
 },{
-   "duration": "",
+   "duration": 3674,
    "edition": "2019",
    "identifier": "#cppcon-2019-0033",
    "language": "english",
@@ -619,15 +651,16 @@
       "Hyrum Wright Time Travel"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/VN0VNoykxtk/0.jpg",
    "title": " Applying Gradual Typing to Time Types with Clang's LibTooling",
-   "video": ""
+   "video": "https://youtube.com/watch?v=VN0VNoykxtk"
 },{
-   "duration": "",
+   "duration": 3485,
    "edition": "2019",
    "identifier": "#cppcon-2019-0034",
    "language": "english",
@@ -638,15 +671,16 @@
       "Phil Nash"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/ZUH8p1EQswA/0.jpg",
    "title": " The Dawn of a New Error",
-   "video": ""
+   "video": "https://youtube.com/watch?v=ZUH8p1EQswA"
 },{
-   "duration": "",
+   "duration": 1635,
    "edition": "2019",
    "identifier": "#cppcon-2019-0035",
    "language": "english",
@@ -657,15 +691,16 @@
       "Brian Ruth"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/muvUKqsmGWU/0.jpg",
    "title": " Infiltrating a Code Base: Moving Toward a Better C",
-   "video": ""
+   "video": "https://youtube.com/watch?v=muvUKqsmGWU"
 },{
-   "duration": "",
+   "duration": 1843,
    "edition": "2019",
    "identifier": "#cppcon-2019-0036",
    "language": "english",
@@ -676,15 +711,16 @@
       "Adi Shavit"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/qYHDERleSL8/0.jpg",
    "title": " Generators, Coroutines and Other Brain Unrolling Sweetness",
-   "video": ""
+   "video": "https://youtube.com/watch?v=qYHDERleSL8"
 },{
-   "duration": "",
+   "duration": 3589,
    "edition": "2019",
    "identifier": "#cppcon-2019-0037",
    "language": "english",
@@ -695,15 +731,16 @@
       "JeanHeyd Meneide"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/BdUipluIf1E/0.jpg",
    "title": " Catch ^: Unicode for C++23",
-   "video": ""
+   "video": "https://youtube.com/watch?v=BdUipluIf1E"
 },{
-   "duration": "",
+   "duration": 3883,
    "edition": "2019",
    "identifier": "#cppcon-2019-0038",
    "language": "english",
@@ -714,15 +751,16 @@
       "Mateusz Pusz"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/0YW6yxkdhlU/0.jpg",
    "title": " A C++ Approach to Physical Units'",
-   "video": ""
+   "video": "https://youtube.com/watch?v=0YW6yxkdhlU"
 },{
-   "duration": "",
+   "duration": 3318,
    "edition": "2019",
    "identifier": "#cppcon-2019-0039",
    "language": "english",
@@ -733,15 +771,16 @@
       "Rian Quinn"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/bKPN-CGhEC0/0.jpg",
    "title": " Using Freestanding C++ for C++17 in Shellcode, UEFI, Embedded & Unikernels'",
-   "video": ""
+   "video": "https://youtube.com/watch?v=bKPN-CGhEC0"
 },{
-   "duration": "",
+   "duration": 3857,
    "edition": "2019",
    "identifier": "#cppcon-2019-0040",
    "language": "english",
@@ -753,15 +792,16 @@
       "Vincent Reverdy"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/XH00wB_bbU4/0.jpg",
    "title": " EDSL Infinity Wars: Mainstreaming Symbolic Computation",
-   "video": ""
+   "video": "https://youtube.com/watch?v=XH00wB_bbU4"
 },{
-   "duration": "",
+   "duration": 3648,
    "edition": "2019",
    "identifier": "#cppcon-2019-0041",
    "language": "english",
@@ -772,15 +812,16 @@
       "Ben Saks"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/teUA5U6eYQY/0.jpg",
    "title": " Better Code with C++ Attributes",
-   "video": ""
+   "video": "https://youtube.com/watch?v=teUA5U6eYQY"
 },{
-   "duration": "",
+   "duration": 3642,
    "edition": "2019",
    "identifier": "#cppcon-2019-0042",
    "language": "english",
@@ -791,15 +832,16 @@
       "Titus Winters"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/v_yzLe-wnfk/0.jpg",
    "title": " Maintainability and Refactoring Impact of Higher-Level Design Features",
-   "video": ""
+   "video": "https://youtube.com/watch?v=v_yzLe-wnfk"
 },{
-   "duration": "",
+   "duration": 3938,
    "edition": "2019",
    "identifier": "#cppcon-2019-0043",
    "language": "english",
@@ -810,15 +852,16 @@
       "Olivier Giroux"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/VogqOscJYvk/0.jpg",
    "title": " The One-Decade Task: Putting std::atomic in CUDA.",
-   "video": ""
+   "video": "https://youtube.com/watch?v=VogqOscJYvk"
 },{
-   "duration": "",
+   "duration": 1940,
    "edition": "2019",
    "identifier": "#cppcon-2019-0044",
    "language": "english",
@@ -829,15 +872,16 @@
       "Stephen Dewhurst"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/gxMiiI19VnQ/0.jpg",
    "title": " TMI on UDLs: Mechanics, Uses, and Abuses of User-Defined Literals",
-   "video": ""
+   "video": "https://youtube.com/watch?v=gxMiiI19VnQ"
 },{
-   "duration": "",
+   "duration": 1563,
    "edition": "2019",
    "identifier": "#cppcon-2019-0045",
    "language": "english",
@@ -848,15 +892,16 @@
       "Valentin Galea"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/j0CYkFPGjNg/0.jpg",
    "title": " Compiled C++ Coding Standards",
-   "video": ""
+   "video": "https://youtube.com/watch?v=j0CYkFPGjNg"
 },{
-   "duration": "",
+   "duration": 2926,
    "edition": "2019",
    "identifier": "#cppcon-2019-0046",
    "language": "english",
@@ -867,15 +912,16 @@
       "Nathan Sidwell"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/KVsWIEw3TTw/0.jpg",
    "title": " Converting to C++20 Modules",
-   "video": ""
+   "video": "https://youtube.com/watch?v=KVsWIEw3TTw"
 },{
-   "duration": "",
+   "duration": 1892,
    "edition": "2019",
    "identifier": "#cppcon-2019-0047",
    "language": "english",
@@ -886,15 +932,16 @@
       "Steven Pigeon"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/Dxy66x6v4HE/0.jpg",
    "title": " Small is beautiful: Techniques to minimise memory footprint",
-   "video": ""
+   "video": "https://youtube.com/watch?v=Dxy66x6v4HE"
 },{
-   "duration": "",
+   "duration": 1776,
    "edition": "2019",
    "identifier": "#cppcon-2019-0048",
    "language": "english",
@@ -905,15 +952,16 @@
       "Bowie Owens"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/4IUCBx5fIv0/0.jpg",
    "title": " Expression Templates for Efficient, Generic Finance Code'",
-   "video": ""
+   "video": "https://youtube.com/watch?v=4IUCBx5fIv0"
 },{
-   "duration": "",
+   "duration": 3620,
    "edition": "2019",
    "identifier": "#cppcon-2019-0049",
    "language": "english",
@@ -924,15 +972,16 @@
       "Michael Spertus"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/61DSCW2KL3U/0.jpg",
    "title": " Inference in C++: The big picture",
-   "video": ""
+   "video": "https://youtube.com/watch?v=61DSCW2KL3U"
 },{
-   "duration": "",
+   "duration": 4294,
    "edition": "2019",
    "identifier": "#cppcon-2019-0050",
    "language": "english",
@@ -943,15 +992,16 @@
       "Joshua Berne"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/mmyIZzqh5ls/0.jpg",
    "title": " Contract use: Past, Present, and Future",
-   "video": ""
+   "video": "https://youtube.com/watch?v=mmyIZzqh5ls"
 },{
-   "duration": "",
+   "duration": 3618,
    "edition": "2019",
    "identifier": "#cppcon-2019-0051",
    "language": "english",
@@ -962,15 +1012,16 @@
       "Timur Doumler"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/_qzMpk-22cc/0.jpg",
    "title": " Type punning in modern C++",
-   "video": ""
+   "video": "https://youtube.com/watch?v=_qzMpk-22cc"
 },{
-   "duration": "",
+   "duration": 3714,
    "edition": "2019",
    "identifier": "#cppcon-2019-0052",
    "language": "english",
@@ -982,15 +1033,16 @@
       "Eric Niebler"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/tF-Nz4aRWAM/0.jpg",
    "title": " A Unifying Abstraction for Async in C++",
-   "video": ""
+   "video": "https://youtube.com/watch?v=tF-Nz4aRWAM"
 },{
-   "duration": "",
+   "duration": 3516,
    "edition": "2019",
    "identifier": "#cppcon-2019-0053",
    "language": "english",
@@ -1001,15 +1053,16 @@
       "Jason Turner"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/iz5Qx18H6lg/0.jpg",
    "title": " The Best Parts of C++'",
-   "video": ""
+   "video": "https://youtube.com/watch?v=iz5Qx18H6lg"
 },{
-   "duration": "",
+   "duration": 3665,
    "edition": "2019",
    "identifier": "#cppcon-2019-0054",
    "language": "english",
@@ -1022,15 +1075,16 @@
       "S. Al Bahra"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/gYfd25Bdmws/0.jpg",
    "title": " What Programmers Should Know About Memory Allocation",
-   "video": ""
+   "video": "https://youtube.com/watch?v=gYfd25Bdmws"
 },{
-   "duration": "",
+   "duration": 3780,
    "edition": "2019",
    "identifier": "#cppcon-2019-0055",
    "language": "english",
@@ -1041,15 +1095,16 @@
       "Ben Saks"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/4I7XZiS0ru4/0.jpg",
    "title": " Freestanding C++ - Past, Present, and Future",
-   "video": ""
+   "video": "https://youtube.com/watch?v=4I7XZiS0ru4"
 },{
-   "duration": "",
+   "duration": 3816,
    "edition": "2019",
    "identifier": "#cppcon-2019-0056",
    "language": "english",
@@ -1060,15 +1115,16 @@
       "Gabriel Dos Reis"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/tjSuKOz5HK4/0.jpg",
    "title": " Programming with C++ Modules: Guide for the Working",
-   "video": ""
+   "video": "https://youtube.com/watch?v=tjSuKOz5HK4"
 },{
-   "duration": "",
+   "duration": 3731,
    "edition": "2019",
    "identifier": "#cppcon-2019-0057",
    "language": "english",
@@ -1079,15 +1135,16 @@
       "Victor Ciura"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/J02S50z5zEo/0.jpg",
    "title": " A Short Life span<> For a Regular Mess",
-   "video": ""
+   "video": "https://youtube.com/watch?v=J02S50z5zEo"
 },{
-   "duration": "",
+   "duration": 3617,
    "edition": "2019",
    "identifier": "#cppcon-2019-0058",
    "language": "english",
@@ -1098,15 +1155,16 @@
       "Andrzej Krzemienski"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/zte8IxkHqc4/0.jpg",
    "title": " Error Handling is Cancelling Operations",
-   "video": ""
+   "video": "https://youtube.com/watch?v=zte8IxkHqc4"
 },{
-   "duration": "",
+   "duration": 3682,
    "edition": "2019",
    "identifier": "#cppcon-2019-0059",
    "language": "english",
@@ -1117,15 +1175,16 @@
       "Mateusz Pusz"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/oNBnYhLxlTU/0.jpg",
    "title": " Rethinking the Way We Do Templates in C++",
-   "video": ""
+   "video": "https://youtube.com/watch?v=oNBnYhLxlTU"
 },{
-   "duration": "",
+   "duration": 3486,
    "edition": "2019",
    "identifier": "#cppcon-2019-0060",
    "language": "english",
@@ -1136,15 +1195,16 @@
       "Jonathan Boccara"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/YsMUlNGF1no/0.jpg",
    "title": " 10 Techniques to Understand Existing Code",
-   "video": ""
+   "video": "https://youtube.com/watch?v=YsMUlNGF1no"
 },{
-   "duration": "",
+   "duration": 3931,
    "edition": "2019",
    "identifier": "#cppcon-2019-0061",
    "language": "english",
@@ -1155,15 +1215,16 @@
       "Gordon Brown"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/8pJS3n4MITM/0.jpg",
    "title": " Efficient GPU Programming with Modern C++",
-   "video": ""
+   "video": "https://youtube.com/watch?v=8pJS3n4MITM"
 },{
-   "duration": "",
+   "duration": 1499,
    "edition": "2019",
    "identifier": "#cppcon-2019-0062",
    "language": "english",
@@ -1174,15 +1235,16 @@
       "Nick Uhlenhuth"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/6orl-Tc6nLo/0.jpg",
    "title": " Upgrade from 'permissive C++' to 'modern C++' with Visual Studio 2019",
-   "video": ""
+   "video": "https://youtube.com/watch?v=6orl-Tc6nLo"
 },{
-   "duration": "",
+   "duration": 4380,
    "edition": "2019",
    "identifier": "#cppcon-2019-0063",
    "language": "english",
@@ -1193,15 +1255,16 @@
       "Arthur O'Dwyer"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/b9ZYM0d6htg/0.jpg",
    "title": " 'Mostly Invalid': flat_map, Exception Guarantees, and the STL",
-   "video": ""
+   "video": "https://youtube.com/watch?v=b9ZYM0d6htg"
 },{
-   "duration": "",
+   "duration": 3214,
    "edition": "2019",
    "identifier": "#cppcon-2019-0064",
    "language": "english",
@@ -1212,15 +1275,16 @@
       "Louis Dionne"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/DZ93lP1I7wU/0.jpg",
    "title": " The C++ ABI From the Ground Up",
-   "video": ""
+   "video": "https://youtube.com/watch?v=DZ93lP1I7wU"
 },{
-   "duration": "",
+   "duration": 3825,
    "edition": "2019",
    "identifier": "#cppcon-2019-0065",
    "language": "english",
@@ -1231,15 +1295,16 @@
       "Michael Spencer"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/L0SHHkBenss/0.jpg",
    "title": " Building Modules",
-   "video": ""
+   "video": "https://youtube.com/watch?v=L0SHHkBenss"
 },{
-   "duration": "",
+   "duration": 4058,
    "edition": "2019",
    "identifier": "#cppcon-2019-0066",
    "language": "english",
@@ -1250,15 +1315,16 @@
       "Andrew Sutton"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/ARxj3dfF_h0/0.jpg",
    "title": " Reflections: Compile-time Introspection of Source Code",
-   "video": ""
+   "video": "https://youtube.com/watch?v=ARxj3dfF_h0"
 },{
-   "duration": "",
+   "duration": 3180,
    "edition": "2019",
    "identifier": "#cppcon-2019-0067",
    "language": "english",
@@ -1269,15 +1335,16 @@
       "Rainer Grimm"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/o0i2fc0Keo8/0.jpg",
    "title": " Atomics, Locks, and Tasks (part 1 of 2)",
-   "video": ""
+   "video": "https://youtube.com/watch?v=o0i2fc0Keo8"
 },{
-   "duration": "",
+   "duration": 3811,
    "edition": "2019",
    "identifier": "#cppcon-2019-0068",
    "language": "english",
@@ -1288,15 +1355,16 @@
       "Rainer Grimm"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/_eaB69ta_ig/0.jpg",
    "title": " Atomics, Locks, and Tasks (part 2 of 2)",
-   "video": ""
+   "video": "https://youtube.com/watch?v=_eaB69ta_ig"
 },{
-   "duration": "",
+   "duration": 3592,
    "edition": "2019",
    "identifier": "#cppcon-2019-0069",
    "language": "english",
@@ -1307,15 +1375,16 @@
       "Chandler Carruth"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/rHIkrotSwcc/0.jpg",
    "title": " There Are No Zero-cost Abstractions",
-   "video": ""
+   "video": "https://youtube.com/watch?v=rHIkrotSwcc"
 },{
-   "duration": "",
+   "duration": 3637,
    "edition": "2019",
    "identifier": "#cppcon-2019-0070",
    "language": "english",
@@ -1326,15 +1395,16 @@
       "Pete Isensee"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/XvWyLAW_U0Q/0.jpg",
    "title": " Destructor Case Studies: Best Practices for Safe and Efficient Teardown",
-   "video": ""
+   "video": "https://youtube.com/watch?v=XvWyLAW_U0Q"
 },{
-   "duration": "",
+   "duration": 3704,
    "edition": "2019",
    "identifier": "#cppcon-2019-0071",
    "language": "english",
@@ -1345,15 +1415,16 @@
       "Hartmut Kaiser"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/Hi5WnRNckm4/0.jpg",
    "title": " Asynchronous Programming in Modern C++",
-   "video": ""
+   "video": "https://youtube.com/watch?v=Hi5WnRNckm4"
 },{
-   "duration": "",
+   "duration": 2934,
    "edition": "2019",
    "identifier": "#cppcon-2019-0072",
    "language": "english",
@@ -1364,15 +1435,16 @@
       "Manu Sanchez"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/8adO3fN1Igg/0.jpg",
    "title": " Next generation unit testing using static reflection",
-   "video": ""
+   "video": "https://youtube.com/watch?v=8adO3fN1Igg"
 },{
-   "duration": "",
+   "duration": 3650,
    "edition": "2019",
    "identifier": "#cppcon-2019-0073",
    "language": "english",
@@ -1383,15 +1455,16 @@
       "Arthur O'Dwyer"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/xGDLkt-jBJ4/0.jpg",
    "title": " Back to Basics: Smart Pointers",
-   "video": ""
+   "video": "https://youtube.com/watch?v=xGDLkt-jBJ4"
 },{
-   "duration": "",
+   "duration": 1830,
    "edition": "2019",
    "identifier": "#cppcon-2019-0074",
    "language": "english",
@@ -1402,15 +1475,16 @@
       "Andreas Pasternak"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/5WbdLUc9Jls/0.jpg",
    "title": " Safe Software for Autonomous Mobility With Modern C++",
-   "video": ""
+   "video": "https://youtube.com/watch?v=5WbdLUc9Jls"
 },{
-   "duration": "",
+   "duration": 1915,
    "edition": "2019",
    "identifier": "#cppcon-2019-0075",
    "language": "english",
@@ -1421,15 +1495,16 @@
       "Marco Magdy"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/qdIa9vTlg9Q/0.jpg",
    "title": " The Design of the C++ Runtime for AWS Lambda",
-   "video": ""
+   "video": "https://youtube.com/watch?v=qdIa9vTlg9Q"
 },{
-   "duration": "",
+   "duration": 3575,
    "edition": "2019",
    "identifier": "#cppcon-2019-0076",
    "language": "english",
@@ -1440,15 +1515,16 @@
       "Kate Gregory"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/MBRoCdtZOYg/0.jpg",
    "title": " Naming is Hard: Let's Do Better",
-   "video": ""
+   "video": "https://youtube.com/watch?v=MBRoCdtZOYg"
 },{
-   "duration": "",
+   "duration": 3736,
    "edition": "2019",
    "identifier": "#cppcon-2019-0077",
    "language": "english",
@@ -1459,15 +1535,16 @@
       "Ben Deane"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/oTMSgI1XjF8/0.jpg",
    "title": " Everyday Efficiency: In-Place Construction (Back to Basics?)",
-   "video": ""
+   "video": "https://youtube.com/watch?v=oTMSgI1XjF8"
 },{
-   "duration": "",
+   "duration": 3653,
    "edition": "2019",
    "identifier": "#cppcon-2019-0078",
    "language": "english",
@@ -1478,15 +1555,16 @@
       "V. Romeo"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/eYEPsMZZ2LY/0.jpg",
    "title": " Higher-order functions in Modern C++: existing techniques and function_ref",
-   "video": ""
+   "video": "https://youtube.com/watch?v=eYEPsMZZ2LY"
 },{
-   "duration": "",
+   "duration": 3689,
    "edition": "2019",
    "identifier": "#cppcon-2019-0079",
    "language": "english",
@@ -1497,15 +1575,16 @@
       "Ben Saks"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/W6jZKibuJpU/0.jpg",
    "title": " Back to Basics: Exception Handling and Exception Safety",
-   "video": ""
+   "video": "https://youtube.com/watch?v=W6jZKibuJpU"
 },{
-   "duration": "",
+   "duration": 3129,
    "edition": "2019",
    "identifier": "#cppcon-2019-0080",
    "language": "english",
@@ -1516,15 +1595,16 @@
       "Arthur O'Dwyer"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/3jCOwajNch0/0.jpg",
    "title": "Back to Basics: Lambdas from Scratch",
-   "video": ""
+   "video": "https://youtube.com/watch?v=3jCOwajNch0"
 },{
-   "duration": "",
+   "duration": 3700,
    "edition": "2019",
    "identifier": "#cppcon-2019-0081",
    "language": "english",
@@ -1535,15 +1615,16 @@
       "Michael Price"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/5XfSM-vDYUs/0.jpg",
    "title": " A Critical Look at the Coding Standards Landscape",
-   "video": ""
+   "video": "https://youtube.com/watch?v=5XfSM-vDYUs"
 },{
-   "duration": "",
+   "duration": 3178,
    "edition": "2019",
    "identifier": "#cppcon-2019-0082",
    "language": "english",
@@ -1554,15 +1635,16 @@
       "David Olsen"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/cbbKEAWf1ow/0.jpg",
    "title": " Faster Code Through Parallelism on CPUs and GPUs",
-   "video": ""
+   "video": "https://youtube.com/watch?v=cbbKEAWf1ow"
 },{
-   "duration": "",
+   "duration": 3741,
    "edition": "2019",
    "identifier": "#cppcon-2019-0083",
    "language": "english",
@@ -1573,15 +1655,16 @@
       "Tony Van Eerd Objects vs Values"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/2JGH_SWURrI/0.jpg",
    "title": " Value Oriented Programming in an Object Oriented World",
-   "video": ""
+   "video": "https://youtube.com/watch?v=2JGH_SWURrI"
 },{
-   "duration": "",
+   "duration": 3784,
    "edition": "2019",
    "identifier": "#cppcon-2019-0084",
    "language": "english",
@@ -1592,15 +1675,16 @@
       "Timur Doumler"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/Xb6u8BrfHjw/0.jpg",
    "title": " C++20: The small things",
-   "video": ""
+   "video": "https://youtube.com/watch?v=Xb6u8BrfHjw"
 },{
-   "duration": "",
+   "duration": 3515,
    "edition": "2019",
    "identifier": "#cppcon-2019-0085",
    "language": "english",
@@ -1611,15 +1695,16 @@
       "Robert Leahy"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/3wy1OPqNZZ8/0.jpg",
    "title": " The Networking TS in Practice: Patterns for Real World Problems",
-   "video": ""
+   "video": "https://youtube.com/watch?v=3wy1OPqNZZ8"
 },{
-   "duration": "",
+   "duration": 4395,
    "edition": "2019",
    "identifier": "#cppcon-2019-0086",
    "language": "english",
@@ -1630,15 +1715,16 @@
       "John Lakos"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/ebn1C-mTFVk/0.jpg",
    "title": " Value Proposition: Allocator-Aware (AA) Software",
-   "video": ""
+   "video": "https://youtube.com/watch?v=ebn1C-mTFVk"
 },{
-   "duration": "",
+   "duration": 3662,
    "edition": "2019",
    "identifier": "#cppcon-2019-0087",
    "language": "english",
@@ -1650,15 +1736,16 @@
       "Pablo Halpern"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/RLezJuqNcEQ/0.jpg",
    "title": " Getting Allocators out of Our Way",
-   "video": ""
+   "video": "https://youtube.com/watch?v=RLezJuqNcEQ"
 },{
-   "duration": "",
+   "duration": 3590,
    "edition": "2019",
    "identifier": "#cppcon-2019-0088",
    "language": "english",
@@ -1669,15 +1756,16 @@
       "Jeff Garland"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/fI19ttpUNRQ/0.jpg",
    "title": " The C++20 Standard Library: Beyond Ranges",
-   "video": ""
+   "video": "https://youtube.com/watch?v=fI19ttpUNRQ"
 },{
-   "duration": "",
+   "duration": 3621,
    "edition": "2019",
    "identifier": "#cppcon-2019-0089",
    "language": "english",
@@ -1688,15 +1776,16 @@
       "Matt Godbolt"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/kIoZDUd5DKw/0.jpg",
    "title": " Compiler Explorer: Behind The Scenes",
-   "video": ""
+   "video": "https://youtube.com/watch?v=kIoZDUd5DKw"
 },{
-   "duration": "",
+   "duration": 3547,
    "edition": "2019",
    "identifier": "#cppcon-2019-0090",
    "language": "english",
@@ -1708,15 +1797,16 @@
       "Sy Brand"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/4V9QWHjRPMc/0.jpg",
    "title": " Hello World From Scratch'",
-   "video": ""
+   "video": "https://youtube.com/watch?v=4V9QWHjRPMc"
 },{
-   "duration": "",
+   "duration": 3562,
    "edition": "2019",
    "identifier": "#cppcon-2019-0091",
    "language": "english",
@@ -1727,15 +1817,16 @@
       "Matthew Butler"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/oqV3HNezHcY/0.jpg",
    "title": " If You Can't Open It, You Don't Own It",
-   "video": ""
+   "video": "https://youtube.com/watch?v=oqV3HNezHcY"
 },{
-   "duration": "",
+   "duration": 3676,
    "edition": "2019",
    "identifier": "#cppcon-2019-0092",
    "language": "english",
@@ -1746,15 +1837,16 @@
       "Conor Hoekstra"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/pUEnO6SvAMo/0.jpg",
    "title": " Algorithm Intuition (part 1 of 2)",
-   "video": ""
+   "video": "https://youtube.com/watch?v=pUEnO6SvAMo"
 },{
-   "duration": "",
+   "duration": 3686,
    "edition": "2019",
    "identifier": "#cppcon-2019-0093",
    "language": "english",
@@ -1762,19 +1854,19 @@
    "meeting": "cppcon",
    "number": 93,
    "speakers": [
-      "",
       "Conor Hoekstra"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/sEvYmb3eKsw/0.jpg",
    "title": " Algorithm Intuition (part 2 of 2)",
-   "video": ""
+   "video": "https://youtube.com/watch?v=sEvYmb3eKsw"
 },{
-   "duration": "",
+   "duration": 3661,
    "edition": "2019",
    "identifier": "#cppcon-2019-0094",
    "language": "english",
@@ -1785,15 +1877,16 @@
       "Marc Gregoire"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/Y652wQqbYEI/0.jpg",
    "title": " C++20: What's in it for you?'",
-   "video": ""
+   "video": "https://youtube.com/watch?v=Y652wQqbYEI"
 },{
-   "duration": "",
+   "duration": 3437,
    "edition": "2019",
    "identifier": "#cppcon-2019-0095",
    "language": "english",
@@ -1804,15 +1897,16 @@
       "Mathieu Ropert"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/6hC9IxqdDDw/0.jpg",
    "title": " This Videogame Programmer Used the STL and You Will Never Guess What Happened Next",
-   "video": ""
+   "video": "https://youtube.com/watch?v=6hC9IxqdDDw"
 },{
-   "duration": "",
+   "duration": 3607,
    "edition": "2019",
    "identifier": "#cppcon-2019-0096",
    "language": "english",
@@ -1820,19 +1914,19 @@
    "meeting": "cppcon",
    "number": 96,
    "speakers": [
-      "David Stone - Removing Metaprogramming From C++",
-      "Part 1 of N"
+      "David Stone"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
-   "title": " constexpr Function Params",
-   "video": ""
+   "thumbnail": "http://img.youtube.com/vi/bIc5ZxFL198/0.jpg",
+   "title": " Removing Metaprogramming From C++, Part 1 of N: constexpr Function Params",
+   "video": "https://youtube.com/watch?v=bIc5ZxFL198"
 },{
-   "duration": "",
+   "duration": 3481,
    "edition": "2019",
    "identifier": "#cppcon-2019-0097",
    "language": "english",
@@ -1843,15 +1937,16 @@
       "Jonathan Muller"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/8jNXy3K2Wpk/0.jpg",
    "title": " Using C++20's Three-way Comparison <=>",
-   "video": ""
+   "video": "https://youtube.com/watch?v=8jNXy3K2Wpk"
 },{
-   "duration": "",
+   "duration": 2956,
    "edition": "2019",
    "identifier": "#cppcon-2019-0098",
    "language": "english",
@@ -1862,15 +1957,16 @@
       "Arthur O'Dwyer"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/tbUCHifyT24/0.jpg",
    "title": "Back to Basics: Type Erasure",
-   "video": ""
+   "video": "https://youtube.com/watch?v=tbUCHifyT24"
 },{
-   "duration": "",
+   "duration": 1549,
    "edition": "2019",
    "identifier": "#cppcon-2019-0099",
    "language": "english",
@@ -1881,15 +1977,16 @@
       "Robert Schumacher"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/_5weX5mx8hc/0.jpg",
    "title": " Don't Package Your Libraries, Write Packagable Libraries! (Part 2)",
-   "video": ""
+   "video": "https://youtube.com/watch?v=_5weX5mx8hc"
 },{
-   "duration": "",
+   "duration": 2169,
    "edition": "2019",
    "identifier": "#cppcon-2019-0100",
    "language": "english",
@@ -1900,15 +1997,16 @@
       "Emery Berger"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/XRAP3lBivYM/0.jpg",
    "title": " Mesh: Automatically Compacting Your C++ Application's Memory",
-   "video": ""
+   "video": "https://youtube.com/watch?v=XRAP3lBivYM"
 },{
-   "duration": "",
+   "duration": 3341,
    "edition": "2019",
    "identifier": "#cppcon-2019-0101",
    "language": "english",
@@ -1919,15 +2017,16 @@
       "Matt Godbolt"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/HG6c4Kwbv4I/0.jpg",
    "title": " Path Tracing Three Ways: A Study of C++ Style",
-   "video": ""
+   "video": "https://youtube.com/watch?v=HG6c4Kwbv4I"
 },{
-   "duration": "",
+   "duration": 3616,
    "edition": "2019",
    "identifier": "#cppcon-2019-0102",
    "language": "english",
@@ -1938,15 +2037,16 @@
       "Stephan T. Lavavej"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/4P_kbF0EbZM/0.jpg",
    "title": " Floating-Point <charconv>: Making Your Code 10x Faster With C++17's Final Boss",
-   "video": ""
+   "video": "https://youtube.com/watch?v=4P_kbF0EbZM"
 },{
-   "duration": "",
+   "duration": 3675,
    "edition": "2019",
    "identifier": "#cppcon-2019-0103",
    "language": "english",
@@ -1957,15 +2057,16 @@
       "Peter Sommerlad"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/PedVlux_p-k/0.jpg",
    "title": "C++ Class Natures in Their Canonical Form and How to Find Them",
-   "video": ""
+   "video": "https://youtube.com/watch?v=PedVlux_p-k"
 },{
-   "duration": "",
+   "duration": 3688,
    "edition": "2019",
    "identifier": "#cppcon-2019-0104",
    "language": "english",
@@ -1976,15 +2077,16 @@
       "Hal Finkel"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/6dv9vdGIaWs/0.jpg",
    "title": " Faster Compile Times and Better Performance: Bringing Just-in-Time Compilation to C++",
-   "video": ""
+   "video": "https://youtube.com/watch?v=6dv9vdGIaWs"
 },{
-   "duration": "",
+   "duration": 3755,
    "edition": "2019",
    "identifier": "#cppcon-2019-0105",
    "language": "english",
@@ -1996,15 +2098,16 @@
       "Jorge Gorbe Moya"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/zh91if43QLM/0.jpg",
    "title": " Releasing C++ Toolchains Weekly in a 'Live at Head' World",
-   "video": ""
+   "video": "https://youtube.com/watch?v=zh91if43QLM"
 },{
-   "duration": "",
+   "duration": 3752,
    "edition": "2019",
    "identifier": "#cppcon-2019-0106",
    "language": "english",
@@ -2015,15 +2118,16 @@
       "Marshall Clow"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/sBtAGxBh-XI/0.jpg",
    "title": " std::midpoint? How Hard Could it Be?",
-   "video": ""
+   "video": "https://youtube.com/watch?v=sBtAGxBh-XI"
 },{
-   "duration": "",
+   "duration": 3054,
    "edition": "2019",
    "identifier": "#cppcon-2019-0107",
    "language": "english",
@@ -2034,15 +2138,16 @@
       "Charley Bay"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/8FYzkuRsNto/0.jpg",
    "title": " C++ ...Easy, Elegant, Powerful!",
-   "video": ""
+   "video": "https://youtube.com/watch?v=8FYzkuRsNto"
 },{
-   "duration": "",
+   "duration": 3447,
    "edition": "2019",
    "identifier": "#cppcon-2019-0108",
    "language": "english",
@@ -2053,15 +2158,16 @@
       "Attila Feher"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/vijveMT2OCY/0.jpg",
    "title": "test_resource: The pmr Detective",
-   "video": ""
+   "video": "https://youtube.com/watch?v=vijveMT2OCY"
 },{
-   "duration": "",
+   "duration": 2922,
    "edition": "2019",
    "identifier": "#cppcon-2019-0109",
    "language": "english",
@@ -2072,15 +2178,16 @@
       "John Bandela"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/PSxo85L2lC0/0.jpg",
    "title": " Polymorphism != Virtual: Easy, Flexible Runtime Polymorphism Without Inheritance",
-   "video": ""
+   "video": "https://youtube.com/watch?v=PSxo85L2lC0"
 },{
-   "duration": "",
+   "duration": 1743,
    "edition": "2019",
    "identifier": "#cppcon-2019-0110",
    "language": "english",
@@ -2091,15 +2198,16 @@
       "Robert Keelan"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/FyJI4Z6jD4w/0.jpg",
    "title": "Minimal Structured Logging for Autonomous Vehicles",
-   "video": ""
+   "video": "https://youtube.com/watch?v=FyJI4Z6jD4w"
 },{
-   "duration": "",
+   "duration": 3475,
    "edition": "2019",
    "identifier": "#cppcon-2019-0111",
    "language": "english",
@@ -2110,15 +2218,16 @@
       "Jens Weller"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/DBA21neTRAs/0.jpg",
    "title": "Starting and Running C++ User Groups",
-   "video": ""
+   "video": "https://youtube.com/watch?v=DBA21neTRAs"
 },{
-   "duration": "",
+   "duration": 3589,
    "edition": "2019",
    "identifier": "#cppcon-2019-0112",
    "language": "english",
@@ -2129,15 +2238,16 @@
       "Michal Dominiak"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/5UVeh4_5B8I/0.jpg",
    "title": "Memory Resources in a Heterogeneous World",
-   "video": ""
+   "video": "https://youtube.com/watch?v=5UVeh4_5B8I"
 },{
-   "duration": "",
+   "duration": 3355,
    "edition": "2019",
    "identifier": "#cppcon-2019-0113",
    "language": "english",
@@ -2149,15 +2259,16 @@
       "S. Block"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/rQWjF8NvqAU/0.jpg",
    "title": " Killing Uninitialized Memory: Protecting the OS Without Destroying Performance",
-   "video": ""
+   "video": "https://youtube.com/watch?v=rQWjF8NvqAU"
 },{
-   "duration": "",
+   "duration": 3451,
    "edition": "2019",
    "identifier": "#cppcon-2019-0114",
    "language": "english",
@@ -2168,15 +2279,16 @@
       "Corentin Jabot"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/k3Q-fPBe9Z0/0.jpg",
    "title": "Dependency Management at the End of the Rainbow",
-   "video": ""
+   "video": "https://youtube.com/watch?v=k3Q-fPBe9Z0"
 },{
-   "duration": "",
+   "duration": 3294,
    "edition": "2019",
    "identifier": "#cppcon-2019-0115",
    "language": "english",
@@ -2187,15 +2299,16 @@
       "Saar Raz"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/Y1o4rc9P1FQ/0.jpg",
    "title": "How to Implement Your First Compiler Feature:The Story of Concepts in Clang",
-   "video": ""
+   "video": "https://youtube.com/watch?v=Y1o4rc9P1FQ"
 },{
-   "duration": "",
+   "duration": 3237,
    "edition": "2019",
    "identifier": "#cppcon-2019-0116",
    "language": "english",
@@ -2206,15 +2319,16 @@
       "Jeff Snyder"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/A3lYsTG8iqw/0.jpg",
    "title": "Data in the Type System: Complex Non-Type Template Parameters in C++20",
-   "video": ""
+   "video": "https://youtube.com/watch?v=A3lYsTG8iqw"
 },{
-   "duration": "",
+   "duration": 2943,
    "edition": "2019",
    "identifier": "#cppcon-2019-0117",
    "language": "english",
@@ -2225,15 +2339,16 @@
       "Zhihao Yuan"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/c6NkeF1eChs/0.jpg",
    "title": "Are We Macro-free Yet?",
-   "video": ""
+   "video": "https://youtube.com/watch?v=c6NkeF1eChs"
 },{
-   "duration": "",
+   "duration": 2907,
    "edition": "2019",
    "identifier": "#cppcon-2019-0118",
    "language": "english",
@@ -2244,15 +2359,16 @@
       "Lewis Baker"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/1Wy5sq3s2rg/0.jpg",
    "title": "Structured Concurrency: Writing Safer Concurrent Code with Coroutines...",
-   "video": ""
+   "video": "https://youtube.com/watch?v=1Wy5sq3s2rg"
 },{
-   "duration": "",
+   "duration": 3747,
    "edition": "2019",
    "identifier": "#cppcon-2019-0119",
    "language": "english",
@@ -2263,15 +2379,16 @@
       "Lisa Lippincott"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/baKqCOLKcPc/0.jpg",
    "title": "The Truth of a Procedure",
-   "video": ""
+   "video": "https://youtube.com/watch?v=baKqCOLKcPc"
 },{
-   "duration": "",
+   "duration": 3432,
    "edition": "2019",
    "identifier": "#cppcon-2019-0120",
    "language": "english",
@@ -2282,15 +2399,16 @@
       "Tony Wasserka"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/o3j6hfXDCVc/0.jpg",
    "title": "Reading Binary Data with Style: A Serialization Framework for C++17",
-   "video": ""
+   "video": "https://youtube.com/watch?v=o3j6hfXDCVc"
 },{
-   "duration": "",
+   "duration": 1767,
    "edition": "2019",
    "identifier": "#cppcon-2019-0121",
    "language": "english",
@@ -2301,15 +2419,16 @@
       "D. Hollman"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/sFfRxjAvxhc/0.jpg",
    "title": "A new tool for fighting against Hyrum's law in ... concept-driven design",
-   "video": ""
+   "video": "https://youtube.com/watch?v=sFfRxjAvxhc"
 },{
-   "duration": "",
+   "duration": 3317,
    "edition": "2019",
    "identifier": "#cppcon-2019-0122",
    "language": "english",
@@ -2320,15 +2439,16 @@
       "Eduardo Madrid"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/H-bm71KmYTE/0.jpg",
    "title": "Using Integers as Arrays of Bitfields a.k.a. SWAR Techniques",
-   "video": ""
+   "video": "https://youtube.com/watch?v=H-bm71KmYTE"
 },{
-   "duration": "",
+   "duration": 3497,
    "edition": "2019",
    "identifier": "#cppcon-2019-0123",
    "language": "english",
@@ -2340,15 +2460,16 @@
       "Titus Winters"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/LJh5QCV4wDg/0.jpg",
    "title": "What is C++",
-   "video": ""
+   "video": "https://youtube.com/watch?v=LJh5QCV4wDg"
 },{
-   "duration": "",
+   "duration": 2413,
    "edition": "2019",
    "identifier": "#cppcon-2019-0124",
    "language": "english",
@@ -2359,15 +2480,16 @@
       "Filipp Gelman"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/3Ms0gi5GfL0/0.jpg",
    "title": "unique_pseudofunction: N overloads for the price of 1",
-   "video": ""
+   "video": "https://youtube.com/watch?v=3Ms0gi5GfL0"
 },{
-   "duration": "",
+   "duration": 3451,
    "edition": "2019",
    "identifier": "#cppcon-2019-0125",
    "language": "english",
@@ -2378,15 +2500,16 @@
       "Borislav Stanimirov"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/bbbcZd4cuxg/0.jpg",
    "title": "Embrace Modern Technology: Using HTML 5 for GUI in C++",
-   "video": ""
+   "video": "https://youtube.com/watch?v=bbbcZd4cuxg"
 },{
-   "duration": "",
+   "duration": 3407,
    "edition": "2019",
    "identifier": "#cppcon-2019-0126",
    "language": "english",
@@ -2397,15 +2520,16 @@
       "Michael Wong"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/F4GzsA00s5I/0.jpg",
    "title": "Writing Safety Critical Automotive Software for High Perf AI Hardware",
-   "video": ""
+   "video": "https://youtube.com/watch?v=F4GzsA00s5I"
 },{
-   "duration": "",
+   "duration": 3655,
    "edition": "2019",
    "identifier": "#cppcon-2019-0127",
    "language": "english",
@@ -2413,20 +2537,21 @@
    "meeting": "cppcon",
    "number": 127,
    "speakers": [
-      "McKenney",
-      "Michael",
-      "Wong"
+      "Maged Michael",
+      "MichaelWong",
+      "Paul E. McKenney"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/7bZQeOGhK84/0.jpg",
    "title": "Will Your Code Survive the Attack of the Zombie Pointers?",
-   "video": ""
+   "video": "https://youtube.com/watch?v=7bZQeOGhK84"
 },{
-   "duration": "",
+   "duration": 3738,
    "edition": "2019",
    "identifier": "#cppcon-2019-0128",
    "language": "english",
@@ -2437,15 +2562,16 @@
       "Arthur O'Dwyer"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/7Qgd9B1KuMQ/0.jpg",
    "title": "Back to Basics: RAII and the Rule of Zero",
-   "video": ""
+   "video": "https://youtube.com/watch?v=7Qgd9B1KuMQ"
 },{
-   "duration": "",
+   "duration": 3614,
    "edition": "2019",
    "identifier": "#cppcon-2019-0129",
    "language": "english",
@@ -2456,15 +2582,16 @@
       "Patrice Roy"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/AyhPigwhwbk/0.jpg",
    "title": "C++ as a First Language... Really?",
-   "video": ""
+   "video": "https://youtube.com/watch?v=AyhPigwhwbk"
 },{
-   "duration": "",
+   "duration": 3694,
    "edition": "2019",
    "identifier": "#cppcon-2019-0130",
    "language": "english",
@@ -2475,15 +2602,16 @@
       "Craig Scott"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/m0DwB4OvDXk/0.jpg",
    "title": "Deep CMake for Library Authors",
-   "video": ""
+   "video": "https://youtube.com/watch?v=m0DwB4OvDXk"
 },{
-   "duration": "",
+   "duration": 1939,
    "edition": "2019",
    "identifier": "#cppcon-2019-0131",
    "language": "english",
@@ -2494,15 +2622,16 @@
       "Billy O'Neal"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/JIbH02EsdB8/0.jpg",
    "title": "C++ Standard Library 'Little Things",
-   "video": ""
+   "video": "https://youtube.com/watch?v=JIbH02EsdB8"
 },{
-   "duration": "",
+   "duration": 3599,
    "edition": "2019",
    "identifier": "#cppcon-2019-0132",
    "language": "english",
@@ -2513,15 +2642,16 @@
       "Fedor Pikus"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/MdtYi0vvct0/0.jpg",
    "title": "C++ Design Patterns: From C++03 to C++17",
-   "video": ""
+   "video": "https://youtube.com/watch?v=MdtYi0vvct0"
 },{
-   "duration": "",
+   "duration": 3732,
    "edition": "2019",
    "identifier": "#cppcon-2019-0133",
    "language": "english",
@@ -2532,15 +2662,16 @@
       "Alan Talbot"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/yjPKVOYcw28/0.jpg",
    "title": " How to Choose the Right Standard Library Container, and Why You Should Want Some More",
-   "video": ""
+   "video": "https://youtube.com/watch?v=yjPKVOYcw28"
 },{
-   "duration": "",
+   "duration": 3364,
    "edition": "2019",
    "identifier": "#cppcon-2019-0134",
    "language": "english",
@@ -2551,15 +2682,16 @@
       "Fred Tingaud"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/JPnN2c2odNY/0.jpg",
    "title": "How to Refactor Millions of Line of Code Without Alienating Colleagues",
-   "video": ""
+   "video": "https://youtube.com/watch?v=JPnN2c2odNY"
 },{
-   "duration": "",
+   "duration": 3514,
    "edition": "2019",
    "identifier": "#cppcon-2019-0135",
    "language": "english",
@@ -2570,15 +2702,16 @@
       "Jason Turner"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/f_tLQl0wLUM/0.jpg",
    "title": "C++ Code Smells",
-   "video": ""
+   "video": "https://youtube.com/watch?v=f_tLQl0wLUM"
 },{
-   "duration": "",
+   "duration": 3829,
    "edition": "2019",
    "identifier": "#cppcon-2019-0136",
    "language": "english",
@@ -2589,15 +2722,16 @@
       "Anthony Williams"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/jozHW_B3D4U/0.jpg",
    "title": "Concurrency in C++20 and Beyond",
-   "video": ""
+   "video": "https://youtube.com/watch?v=jozHW_B3D4U"
 },{
-   "duration": "",
+   "duration": 1803,
    "edition": "2019",
    "identifier": "#cppcon-2019-0137",
    "language": "english",
@@ -2608,15 +2742,16 @@
       "Satabdi Das"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/jTTf_sUUhaQ/0.jpg",
    "title": "A Series of Unfortunate Bugs",
-   "video": ""
+   "video": "https://youtube.com/watch?v=jTTf_sUUhaQ"
 },{
-   "duration": "",
+   "duration": 3568,
    "edition": "2019",
    "identifier": "#cppcon-2019-0138",
    "language": "english",
@@ -2628,15 +2763,16 @@
       "Sermersheim"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/Xkpgsg6jU-4/0.jpg",
    "title": "High performance graphics and text rendering on the GPU for...",
-   "video": ""
+   "video": "https://youtube.com/watch?v=Xkpgsg6jU-4"
 },{
-   "duration": "",
+   "duration": 2866,
    "edition": "2019",
    "identifier": "#cppcon-2019-0139",
    "language": "english",
@@ -2647,15 +2783,16 @@
       "Peter Bindels"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/SMSmKg1nApM/0.jpg",
    "title": "Unicode: Going Down the Rabbit Hole",
-   "video": ""
+   "video": "https://youtube.com/watch?v=SMSmKg1nApM"
 },{
-   "duration": "",
+   "duration": 3811,
    "edition": "2019",
    "identifier": "#cppcon-2019-0140",
    "language": "english",
@@ -2667,15 +2804,16 @@
       "Sy Brand"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/AUE76-OrI-M/0.jpg",
    "title": "Latest & Greatest in Visual Studio 2019 for C++ developers",
-   "video": ""
+   "video": "https://youtube.com/watch?v=AUE76-OrI-M"
 },{
-   "duration": "",
+   "duration": 3598,
    "edition": "2019",
    "identifier": "#cppcon-2019-0141",
    "language": "english",
@@ -2686,15 +2824,16 @@
       "Jon Kalb"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/32tDTD9UJCE/0.jpg",
    "title": "Back to Basics: Object-Oriented Programming",
-   "video": ""
+   "video": "https://youtube.com/watch?v=32tDTD9UJCE"
 },{
-   "duration": "",
+   "duration": 3384,
    "edition": "2019",
    "identifier": "#cppcon-2019-0142",
    "language": "english",
@@ -2706,15 +2845,16 @@
       "Zola Bridges"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/ehNkhmEg0bw/0.jpg",
    "title": "Spectre/C++",
-   "video": ""
+   "video": "https://youtube.com/watch?v=ehNkhmEg0bw"
 },{
-   "duration": "",
+   "duration": 3579,
    "edition": "2019",
    "identifier": "#cppcon-2019-0143",
    "language": "english",
@@ -2725,15 +2865,16 @@
       "Rainer Grimm"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/BXBnAmqZvpo/0.jpg",
    "title": "Concepts in C++20: Revolution or Evolution",
-   "video": ""
+   "video": "https://youtube.com/watch?v=BXBnAmqZvpo"
 },{
-   "duration": "",
+   "duration": 3698,
    "edition": "2019",
    "identifier": "#cppcon-2019-0144",
    "language": "english",
@@ -2744,15 +2885,16 @@
       "Clare Macrae"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/3GZHvcdq32s/0.jpg",
    "title": "Quickly Testing Legacy C++ Code with Approval Tests",
-   "video": ""
+   "video": "https://youtube.com/watch?v=3GZHvcdq32s"
 },{
-   "duration": "",
+   "duration": 3675,
    "edition": "2019",
    "identifier": "#cppcon-2019-0145",
    "language": "english",
@@ -2763,15 +2905,16 @@
       "Boris Kolpackov"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/szHV6RdQdg8/0.jpg",
    "title": "Practical C++ Modules",
-   "video": ""
+   "video": "https://youtube.com/watch?v=szHV6RdQdg8"
 },{
-   "duration": "",
+   "duration": 3689,
    "edition": "2019",
    "identifier": "#cppcon-2019-0146",
    "language": "english",
@@ -2782,15 +2925,16 @@
       "Bob Steagall"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/S7gGtYqtNNo/0.jpg",
    "title": "The Business Value of a Good API",
-   "video": ""
+   "video": "https://youtube.com/watch?v=S7gGtYqtNNo"
 },{
-   "duration": "",
+   "duration": 2207,
    "edition": "2019",
    "identifier": "#cppcon-2019-0147",
    "language": "english",
@@ -2801,15 +2945,16 @@
       "Gal Zaban"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/ZJpvdl_VpSM/0.jpg",
    "title": "Behind Enemy Lines - Reverse Engineering C++ in Modern Ages",
-   "video": ""
+   "video": "https://youtube.com/watch?v=ZJpvdl_VpSM"
 },{
-   "duration": "",
+   "duration": 1584,
    "edition": "2019",
    "identifier": "#cppcon-2019-0148",
    "language": "english",
@@ -2820,15 +2965,16 @@
       "Adrien Guinet"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/EPI7dW5CUfc/0.jpg",
    "title": "When C++ Zero-Cost Abstraction fails: how-to Fix Your Compiler",
-   "video": ""
+   "video": "https://youtube.com/watch?v=EPI7dW5CUfc"
 },{
-   "duration": "",
+   "duration": 1797,
    "edition": "2019",
    "identifier": "#cppcon-2019-0149",
    "language": "english",
@@ -2839,15 +2985,16 @@
       "T. Raj"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/TC10i_U4qCo/0.jpg",
    "title": "What's New in Visual Studio Code - Remote Dev, IntelliSense, Build/Debug...",
-   "video": ""
+   "video": "https://youtube.com/watch?v=TC10i_U4qCo"
 },{
-   "duration": "",
+   "duration": 1420,
    "edition": "2019",
    "identifier": "#cppcon-2019-0150",
    "language": "english",
@@ -2858,15 +3005,16 @@
       "Reka Kovacs"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/5Lke40ywMaU/0.jpg",
    "title": "(Ab)using Compiler Tools",
-   "video": ""
+   "video": "https://youtube.com/watch?v=5Lke40ywMaU"
 },{
-   "duration": "",
+   "duration": 1632,
    "edition": "2019",
    "identifier": "#cppcon-2019-0151",
    "language": "english",
@@ -2877,15 +3025,16 @@
       "CJ Johnson"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/WX8FsrUbLjc/0.jpg",
    "title": "How to Hold a T",
-   "video": ""
+   "video": "https://youtube.com/watch?v=WX8FsrUbLjc"
 },{
-   "duration": "",
+   "duration": 3792,
    "edition": "2019",
    "identifier": "#cppcon-2019-0152",
    "language": "english",
@@ -2896,15 +3045,16 @@
       "Dan Saks"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/LMP_sxOaz6g/0.jpg",
    "title": "Back to Basics: Function and Class Templates",
-   "video": ""
+   "video": "https://youtube.com/watch?v=LMP_sxOaz6g"
 },{
-   "duration": "",
+   "duration": 4013,
    "edition": "2019",
    "identifier": "#cppcon-2019-0153",
    "language": "english",
@@ -2915,15 +3065,16 @@
       "Saar Raz"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/qawSiMIXtE4/0.jpg",
    "title": "C++20 Concepts: A Day in the Life",
-   "video": ""
+   "video": "https://youtube.com/watch?v=qawSiMIXtE4"
 },{
-   "duration": "",
+   "duration": 5569,
    "edition": "2019",
    "identifier": "#cppcon-2019-0154",
    "language": "english",
@@ -2931,18 +3082,19 @@
    "meeting": "cppcon",
    "number": 154,
    "speakers": [
-      "1bla"
+      "John Kalb"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/quWUOua8JXk/0.jpg",
    "title": " Committee Fireside Chat",
-   "video": ""
+   "video": "https://youtube.com/watch?v=quWUOua8JXk"
 },{
-   "duration": "",
+   "duration": 3654,
    "edition": "2019",
    "identifier": "#cppcon-2019-0155",
    "language": "english",
@@ -2953,15 +3105,16 @@
       "JF Bastien"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/KJW_DLaVXIY/0.jpg",
    "title": "Deprecating volatile",
-   "video": ""
+   "video": "https://youtube.com/watch?v=KJW_DLaVXIY"
 },{
-   "duration": "",
+   "duration": 3479,
    "edition": "2019",
    "identifier": "#cppcon-2019-0156",
    "language": "english",
@@ -2972,15 +3125,16 @@
       "Rostislav Khlebnikov"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/KFJ5p-T-S7Q/0.jpg",
    "title": "Avoid Misuse of Contracts!",
-   "video": ""
+   "video": "https://youtube.com/watch?v=KFJ5p-T-S7Q"
 },{
-   "duration": "",
+   "duration": 3997,
    "edition": "2019",
    "identifier": "#cppcon-2019-0157",
    "language": "english",
@@ -2991,15 +3145,16 @@
       "Bryce Adelstein Lelbach"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/Zcqwb3CWqs4/0.jpg",
    "title": "The C++20 Synchronization Library",
-   "video": ""
+   "video": "https://youtube.com/watch?v=Zcqwb3CWqs4"
 },{
-   "duration": "",
+   "duration": 3025,
    "edition": "2019",
    "identifier": "#cppcon-2019-0158",
    "language": "english",
@@ -3010,15 +3165,16 @@
       "Jim Radigan"
    ],
    "tags": [
+      "talk",
       "conference",
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/0EsqxGgYOQU/0.jpg",
    "title": "C++ Sanitizers & Fuzzing for the Windows Platform Using New Compilers...",
-   "video": ""
+   "video": "https://youtube.com/watch?v=0EsqxGgYOQU"
 },{
-   "duration": "",
+   "duration": 207,
    "edition": "2019",
    "identifier": "#cppcon-2019-0159",
    "language": "english",
@@ -3034,11 +3190,11 @@
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/YxortD9IxSc/0.jpg",
    "title": "Let's cmakeify the C++ standard library",
-   "video": ""
+   "video": "https://youtube.com/watch?v=YxortD9IxSc"
 },{
-   "duration": "",
+   "duration": 310,
    "edition": "2019",
    "identifier": "#cppcon-2019-0160",
    "language": "english",
@@ -3054,11 +3210,11 @@
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/EkZLN_D1BwU/0.jpg",
    "title": "Detecting Programs That Rely on Undefined Behavior",
-   "video": ""
+   "video": "https://youtube.com/watch?v=EkZLN_D1BwU"
 },{
-   "duration": "",
+   "duration": 293,
    "edition": "2019",
    "identifier": "#cppcon-2019-0161",
    "language": "english",
@@ -3074,11 +3230,11 @@
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/_orZeboZS_w/0.jpg",
    "title": "Beautiful Folds",
-   "video": ""
+   "video": "https://youtube.com/watch?v=_orZeboZS_w"
 },{
-   "duration": "",
+   "duration": 284,
    "edition": "2019",
    "identifier": "#cppcon-2019-0162",
    "language": "english",
@@ -3094,11 +3250,11 @@
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/MKes-sG3zAU/0.jpg",
    "title": "This One Weird Trick: std::integral_constant",
-   "video": ""
+   "video": "https://youtube.com/watch?v=MKes-sG3zAU"
 },{
-   "duration": "",
+   "duration": 292,
    "edition": "2019",
    "identifier": "#cppcon-2019-0163",
    "language": "english",
@@ -3114,11 +3270,11 @@
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/M9fQyTBz2wQ/0.jpg",
    "title": "clang-misexpect - Managing your __builtin_expect(ations)",
-   "video": ""
+   "video": "https://youtube.com/watch?v=M9fQyTBz2wQ"
 },{
-   "duration": "",
+   "duration": 314,
    "edition": "2019",
    "identifier": "#cppcon-2019-0164",
    "language": "english",
@@ -3134,11 +3290,11 @@
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/uAc42iOAZLI/0.jpg",
    "title": "Postmodern Meta C++",
-   "video": ""
+   "video": "https://youtube.com/watch?v=uAc42iOAZLI"
 },{
-   "duration": "",
+   "duration": 289,
    "edition": "2019",
    "identifier": "#cppcon-2019-0165",
    "language": "english",
@@ -3154,11 +3310,11 @@
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/Ct7dT0o3wJc/0.jpg",
    "title": "An Introduction to hpxMP...",
-   "video": ""
+   "video": "https://youtube.com/watch?v=Ct7dT0o3wJc"
 },{
-   "duration": "",
+   "duration": 312,
    "edition": "2019",
    "identifier": "#cppcon-2019-0166",
    "language": "english",
@@ -3174,11 +3330,11 @@
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/nnlEQwQlHQg/0.jpg",
    "title": "650 line C++ unit test library (easy to use)",
-   "video": ""
+   "video": "https://youtube.com/watch?v=nnlEQwQlHQg"
 },{
-   "duration": "",
+   "duration": 254,
    "edition": "2019",
    "identifier": "#cppcon-2019-0167",
    "language": "english",
@@ -3194,11 +3350,11 @@
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/dx3YovTZRNs/0.jpg",
    "title": "Language as an Ultimate Approach to Problem Solving",
-   "video": ""
+   "video": "https://youtube.com/watch?v=dx3YovTZRNs"
 },{
-   "duration": "",
+   "duration": 320,
    "edition": "2019",
    "identifier": "#cppcon-2019-0168",
    "language": "english",
@@ -3214,11 +3370,11 @@
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/R0VasaMFi_E/0.jpg",
    "title": "Tell Me Lies, Tell Me Lies, Tell Me Sweet Little Lies",
-   "video": ""
+   "video": "https://youtube.com/watch?v=R0VasaMFi_E"
 },{
-   "duration": "",
+   "duration": 292,
    "edition": "2019",
    "identifier": "#cppcon-2019-0169",
    "language": "english",
@@ -3234,11 +3390,11 @@
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/uY4iZAuov_I/0.jpg",
    "title": "Modern C++ Macros",
-   "video": ""
+   "video": "https://youtube.com/watch?v=uY4iZAuov_I"
 },{
-   "duration": "",
+   "duration": 287,
    "edition": "2019",
    "identifier": "#cppcon-2019-0170",
    "language": "english",
@@ -3254,11 +3410,11 @@
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/nNqiBasCab4/0.jpg",
    "title": "Generalised Double Dispatch",
-   "video": ""
+   "video": "https://youtube.com/watch?v=nNqiBasCab4"
 },{
-   "duration": "",
+   "duration": 222,
    "edition": "2019",
    "identifier": "#cppcon-2019-0171",
    "language": "english",
@@ -3274,11 +3430,11 @@
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/VBZwzox3650/0.jpg",
    "title": "Function Extraction with Lambda Expressions",
-   "video": ""
+   "video": "https://youtube.com/watch?v=VBZwzox3650"
 },{
-   "duration": "",
+   "duration": 321,
    "edition": "2019",
    "identifier": "#cppcon-2019-0172",
    "language": "english",
@@ -3294,11 +3450,11 @@
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/l9RKWUMfY-4/0.jpg",
    "title": "Algorithm Magic",
-   "video": ""
+   "video": "https://youtube.com/watch?v=l9RKWUMfY-4"
 },{
-   "duration": "",
+   "duration": 321,
    "edition": "2019",
    "identifier": "#cppcon-2019-0173",
    "language": "english",
@@ -3314,11 +3470,11 @@
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/t406o2EhG-A/0.jpg",
    "title": "I SPY with my little eye Boost.Predef in a constexpr world",
-   "video": ""
+   "video": "https://youtube.com/watch?v=t406o2EhG-A"
 },{
-   "duration": "",
+   "duration": 292,
    "edition": "2019",
    "identifier": "#cppcon-2019-0174",
    "language": "english",
@@ -3334,11 +3490,11 @@
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/hYyRrYwfy3k/0.jpg",
    "title": "Make impossible state unrepresentable",
-   "video": ""
+   "video": "https://youtube.com/watch?v=hYyRrYwfy3k"
 },{
-   "duration": "",
+   "duration": 448,
    "edition": "2019",
    "identifier": "#cppcon-2019-0175",
    "language": "english",
@@ -3354,11 +3510,11 @@
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/KfH-TyDUq-I/0.jpg",
    "title": "Ray Tracing In Minutes",
-   "video": ""
+   "video": "https://youtube.com/watch?v=KfH-TyDUq-I"
 },{
-   "duration": "",
+   "duration": 289,
    "edition": "2019",
    "identifier": "#cppcon-2019-0176",
    "language": "english",
@@ -3374,11 +3530,11 @@
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/_W4pX_k1AAQ/0.jpg",
    "title": "Crowd Review",
-   "video": ""
+   "video": "https://youtube.com/watch?v=_W4pX_k1AAQ"
 },{
-   "duration": "",
+   "duration": 258,
    "edition": "2019",
    "identifier": "#cppcon-2019-0177",
    "language": "english",
@@ -3394,11 +3550,11 @@
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/QwnjbOFOVh0/0.jpg",
    "title": "C++20 - or not",
-   "video": ""
+   "video": "https://youtube.com/watch?v=QwnjbOFOVh0"
 },{
-   "duration": "",
+   "duration": 303,
    "edition": "2019",
    "identifier": "#cppcon-2019-0178",
    "language": "english",
@@ -3414,11 +3570,11 @@
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/IDiLUhdUPPI/0.jpg",
    "title": "Leaving No Input Unsanitized",
-   "video": ""
+   "video": "https://youtube.com/watch?v=IDiLUhdUPPI"
 },{
-   "duration": "",
+   "duration": 300,
    "edition": "2019",
    "identifier": "#cppcon-2019-0179",
    "language": "english",
@@ -3426,7 +3582,7 @@
    "meeting": "cppcon",
    "number": 179,
    "speakers": [
-      "Steffan Tjernstrom"
+      "Staffan Tjernstrom"
    ],
    "tags": [
       "lightning",
@@ -3434,11 +3590,11 @@
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/5v8Iyix0kAU/0.jpg",
    "title": "My Temporary Materialization Misconception",
-   "video": ""
+   "video": "https://youtube.com/watch?v=5v8Iyix0kAU"
 },{
-   "duration": "",
+   "duration": 237,
    "edition": "2019",
    "identifier": "#cppcon-2019-0180",
    "language": "english",
@@ -3454,11 +3610,11 @@
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/vPXZxQm-2-0/0.jpg",
    "title": "Keep Your Friends under control",
-   "video": ""
+   "video": "https://youtube.com/watch?v=vPXZxQm-2-0"
 },{
-   "duration": "",
+   "duration": 313,
    "edition": "2019",
    "identifier": "#cppcon-2019-0181",
    "language": "english",
@@ -3474,11 +3630,11 @@
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/j-0_D4yLhj4/0.jpg",
    "title": "Why is C++ so Slow?",
-   "video": ""
+   "video": "https://youtube.com/watch?v=j-0_D4yLhj4"
 },{
-   "duration": "",
+   "duration": 264,
    "edition": "2019",
    "identifier": "#cppcon-2019-0182",
    "language": "english",
@@ -3494,11 +3650,11 @@
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/8mkHhwGkbXg/0.jpg",
    "title": "Code Samples that Actually Compile",
-   "video": ""
+   "video": "https://youtube.com/watch?v=8mkHhwGkbXg"
 },{
-   "duration": "",
+   "duration": 340,
    "edition": "2019",
    "identifier": "#cppcon-2019-0183",
    "language": "english",
@@ -3514,11 +3670,11 @@
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/E7sXU9cT3RE/0.jpg",
    "title": "Dynamite the Monoliths! Taming dependency cycles in a 20-year old...",
-   "video": ""
+   "video": "https://youtube.com/watch?v=E7sXU9cT3RE"
 },{
-   "duration": "",
+   "duration": 290,
    "edition": "2019",
    "identifier": "#cppcon-2019-0184",
    "language": "english",
@@ -3534,11 +3690,11 @@
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/dDD_W4A93Pg/0.jpg",
    "title": "Unit Testing: Prefer Children Over Friends",
-   "video": ""
+   "video": "https://youtube.com/watch?v=dDD_W4A93Pg"
 },{
-   "duration": "",
+   "duration": 330,
    "edition": "2019",
    "identifier": "#cppcon-2019-0185",
    "language": "english",
@@ -3554,11 +3710,11 @@
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/SLbdDyLGOgY/0.jpg",
    "title": "My favorite feature in Visual C++ Update 3",
-   "video": ""
+   "video": "https://youtube.com/watch?v=SLbdDyLGOgY"
 },{
-   "duration": "",
+   "duration": 306,
    "edition": "2019",
    "identifier": "#cppcon-2019-0186",
    "language": "english",
@@ -3574,11 +3730,11 @@
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/Qy8D9fO1t1I/0.jpg",
    "title": "Embedded Debugging with Visual Studio",
-   "video": ""
+   "video": "https://youtube.com/watch?v=Qy8D9fO1t1I"
 },{
-   "duration": "",
+   "duration": 219,
    "edition": "2019",
    "identifier": "#cppcon-2019-0187",
    "language": "english",
@@ -3594,11 +3750,11 @@
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/a3riN3lb7xQ/0.jpg",
    "title": "C++ and Objective C++ Gotachs",
-   "video": ""
+   "video": "https://youtube.com/watch?v=a3riN3lb7xQ"
 },{
-   "duration": "",
+   "duration": 394,
    "edition": "2019",
    "identifier": "#cppcon-2019-0188",
    "language": "english",
@@ -3614,11 +3770,11 @@
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/YSv5iGE-muA/0.jpg",
    "title": "C++ Standardization",
-   "video": ""
+   "video": "https://youtube.com/watch?v=YSv5iGE-muA"
 },{
-   "duration": "",
+   "duration": 547,
    "edition": "2019",
    "identifier": "#cppcon-2019-0189",
    "language": "english",
@@ -3634,11 +3790,11 @@
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/7HB4AejLHZs/0.jpg",
    "title": "A Conversion Story: Improving from_chars and to_chars in C++17",
-   "video": ""
+   "video": "https://youtube.com/watch?v=7HB4AejLHZs"
 },{
-   "duration": "",
+   "duration": 314,
    "edition": "2019",
    "identifier": "#cppcon-2019-0190",
    "language": "english",
@@ -3654,11 +3810,11 @@
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/D07iF4Lp4kM/0.jpg",
    "title": "Cato the Elder",
-   "video": ""
+   "video": "https://youtube.com/watch?v=D07iF4Lp4kM"
 },{
-   "duration": "",
+   "duration": 366,
    "edition": "2019",
    "identifier": "#cppcon-2019-0191",
    "language": "english",
@@ -3674,11 +3830,11 @@
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/Pf8gDb-j4wQ/0.jpg",
    "title": "v.~uint32_t();",
-   "video": ""
+   "video": "https://youtube.com/watch?v=Pf8gDb-j4wQ"
 },{
-   "duration": "",
+   "duration": 296,
    "edition": "2019",
    "identifier": "#cppcon-2019-0192",
    "language": "english",
@@ -3694,11 +3850,11 @@
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/uu143M26z5E/0.jpg",
    "title": "Building happiness in your life",
-   "video": ""
+   "video": "https://youtube.com/watch?v=uu143M26z5E"
 },{
-   "duration": "",
+   "duration": 314,
    "edition": "2019",
    "identifier": "#cppcon-2019-0193",
    "language": "english",
@@ -3714,11 +3870,11 @@
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/gminldrxjoE/0.jpg",
    "title": "Highlighting C++ with C++ is... Hard",
-   "video": ""
+   "video": "https://youtube.com/watch?v=gminldrxjoE"
 },{
-   "duration": "",
+   "duration": 319,
    "edition": "2019",
    "identifier": "#cppcon-2019-0194",
    "language": "english",
@@ -3734,11 +3890,11 @@
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/JyCXu6K7ft8/0.jpg",
    "title": "Functional Programming without the Functions",
-   "video": ""
+   "video": "https://youtube.com/watch?v=JyCXu6K7ft8"
 },{
-   "duration": "",
+   "duration": 478,
    "edition": "2019",
    "identifier": "#cppcon-2019-0195",
    "language": "english",
@@ -3754,11 +3910,11 @@
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/bkBEAUMuFwo/0.jpg",
    "title": "ISO/IEC 14882",
-   "video": ""
+   "video": "https://youtube.com/watch?v=bkBEAUMuFwo"
 },{
-   "duration": "",
+   "duration": 483,
    "edition": "2019",
    "identifier": "#cppcon-2019-0196",
    "language": "english",
@@ -3774,11 +3930,11 @@
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/O8FD8NkamLQ/0.jpg",
    "title": "Text",
-   "video": ""
+   "video": "https://youtube.com/watch?v=O8FD8NkamLQ"
 },{
-   "duration": "",
+   "duration": 255,
    "edition": "2019",
    "identifier": "#cppcon-2019-0197",
    "language": "english",
@@ -3794,11 +3950,11 @@
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/Lt_o998gtr8/0.jpg",
    "title": "Catching New Tricks",
-   "video": ""
+   "video": "https://youtube.com/watch?v=Lt_o998gtr8"
 },{
-   "duration": "",
+   "duration": 251,
    "edition": "2019",
    "identifier": "#cppcon-2019-0198",
    "language": "english",
@@ -3814,11 +3970,11 @@
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/fz03N60Wksk/0.jpg",
    "title": "I need a volunteer who is not afraid of failure",
-   "video": ""
+   "video": "https://youtube.com/watch?v=fz03N60Wksk"
 },{
-   "duration": "",
+   "duration": 190,
    "edition": "2019",
    "identifier": "#cppcon-2019-0199",
    "language": "english",
@@ -3834,11 +3990,11 @@
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/VXLzImMFS_k/0.jpg",
    "title": "Why Conan? 5 reasons to use Conan package manager",
-   "video": ""
+   "video": "https://youtube.com/watch?v=VXLzImMFS_k"
 },{
-   "duration": "",
+   "duration": 279,
    "edition": "2019",
    "identifier": "#cppcon-2019-0200",
    "language": "english",
@@ -3854,11 +4010,11 @@
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/HlzYbjjtMBI/0.jpg",
    "title": "std::any_of Is the most important function added to C++",
-   "video": ""
+   "video": "https://youtube.com/watch?v=HlzYbjjtMBI"
 },{
-   "duration": "",
+   "duration": 312,
    "edition": "2019",
    "identifier": "#cppcon-2019-0201",
    "language": "english",
@@ -3874,11 +4030,11 @@
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/h-U9L67R1jE/0.jpg",
    "title": "A tale of two allocations",
-   "video": ""
+   "video": "https://youtube.com/watch?v=h-U9L67R1jE"
 },{
-   "duration": "",
+   "duration": 174,
    "edition": "2019",
    "identifier": "#cppcon-2019-0202",
    "language": "english",
@@ -3894,11 +4050,11 @@
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/emdg3h6yFbg/0.jpg",
    "title": "Anything can be a Constexpr if you try hard enough",
-   "video": ""
+   "video": "https://youtube.com/watch?v=emdg3h6yFbg"
 },{
-   "duration": "",
+   "duration": 236,
    "edition": "2019",
    "identifier": "#cppcon-2019-0203",
    "language": "english",
@@ -3914,11 +4070,11 @@
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/eP5zOeDFzl4/0.jpg",
    "title": "Using a Smart Event Dispatcher in C++",
-   "video": ""
+   "video": "https://youtube.com/watch?v=eP5zOeDFzl4"
 },{
-   "duration": "",
+   "duration": 269,
    "edition": "2019",
    "identifier": "#cppcon-2019-0204",
    "language": "english",
@@ -3934,11 +4090,11 @@
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/PAYzJ3pUyJU/0.jpg",
    "title": "OSM Scout library - Swiss knife for geographic data (in C++)",
-   "video": ""
+   "video": "https://youtube.com/watch?v=PAYzJ3pUyJU"
 },{
-   "duration": "",
+   "duration": 318,
    "edition": "2019",
    "identifier": "#cppcon-2019-0205",
    "language": "english",
@@ -3954,11 +4110,11 @@
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/PFdKFoQxRqM/0.jpg",
    "title": "Fixing C++ with Epochs",
-   "video": ""
+   "video": "https://youtube.com/watch?v=PFdKFoQxRqM"
 },{
-   "duration": "",
+   "duration": 319,
    "edition": "2019",
    "identifier": "#cppcon-2019-0206",
    "language": "english",
@@ -3974,11 +4130,11 @@
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/KkjKkGuQUqU/0.jpg",
    "title": "Arguments over Arguments you already know this...",
-   "video": ""
+   "video": "https://youtube.com/watch?v=KkjKkGuQUqU"
 },{
-   "duration": "",
+   "duration": 321,
    "edition": "2019",
    "identifier": "#cppcon-2019-0207",
    "language": "english",
@@ -3994,11 +4150,11 @@
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/8Aq10NCdj44/0.jpg",
    "title": "Awesome Macros That Do Nothing",
-   "video": ""
+   "video": "https://youtube.com/watch?v=8Aq10NCdj44"
 },{
-   "duration": "",
+   "duration": 321,
    "edition": "2019",
    "identifier": "#cppcon-2019-0208",
    "language": "english",
@@ -4014,11 +4170,11 @@
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/6xCf9mLoIzE/0.jpg",
    "title": " Simple RPC server for database access",
-   "video": ""
+   "video": "https://youtube.com/watch?v=6xCf9mLoIzE"
 },{
-   "duration": "",
+   "duration": 283,
    "edition": "2019",
    "identifier": "#cppcon-2019-0209",
    "language": "english",
@@ -4034,11 +4190,11 @@
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/6q_AfccK4bs/0.jpg",
    "title": "Reducing immediate dangling?",
-   "video": ""
+   "video": "https://youtube.com/watch?v=6q_AfccK4bs"
 },{
-   "duration": "",
+   "duration": 295,
    "edition": "2019",
    "identifier": "#cppcon-2019-0210",
    "language": "english",
@@ -4054,11 +4210,11 @@
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/LYeFGiYaOaE/0.jpg",
    "title": "observe me not - a short story about smart pointers",
-   "video": ""
+   "video": "https://youtube.com/watch?v=LYeFGiYaOaE"
 },{
-   "duration": "",
+   "duration": 330,
    "edition": "2019",
    "identifier": "#cppcon-2019-0211",
    "language": "english",
@@ -4074,11 +4230,11 @@
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/BiLB_Ivz9Pg/0.jpg",
    "title": "Alternate Priorities",
-   "video": ""
+   "video": "https://youtube.com/watch?v=BiLB_Ivz9Pg"
 },{
-   "duration": "",
+   "duration": 311,
    "edition": "2019",
    "identifier": "#cppcon-2019-0212",
    "language": "english",
@@ -4094,11 +4250,11 @@
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/B788kH9jO-s/0.jpg",
    "title": "Programs Vs Puzzles",
-   "video": ""
+   "video": "https://youtube.com/watch?v=B788kH9jO-s"
 },{
-   "duration": "",
+   "duration": 318,
    "edition": "2019",
    "identifier": "#cppcon-2019-0213",
    "language": "english",
@@ -4114,11 +4270,11 @@
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/9ZbZF4VFBIU/0.jpg",
    "title": "atomic_try_update - A more, better compare-and-swap",
-   "video": ""
+   "video": "https://youtube.com/watch?v=9ZbZF4VFBIU"
 },{
-   "duration": "",
+   "duration": 327,
    "edition": "2019",
    "identifier": "#cppcon-2019-0214",
    "language": "english",
@@ -4134,11 +4290,11 @@
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/74bgtVJymv0/0.jpg",
    "title": "Finding Strings in Large Files",
-   "video": ""
+   "video": "https://youtube.com/watch?v=74bgtVJymv0"
 },{
-   "duration": "",
+   "duration": 544,
    "edition": "2019",
    "identifier": "#cppcon-2019-0215",
    "language": "english",
@@ -4154,11 +4310,11 @@
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/3iX6Yi-JwdQ/0.jpg",
    "title": "Lifetime and Ownership - Ownership is Decided Locally",
-   "video": ""
+   "video": "https://youtube.com/watch?v=3iX6Yi-JwdQ"
 },{
-   "duration": "",
+   "duration": 153,
    "edition": "2019",
    "identifier": "#cppcon-2019-0216",
    "language": "english",
@@ -4174,11 +4330,11 @@
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/3dUZn3eloWE/0.jpg",
    "title": "Making sense of terrible template errors with 'camomilla'",
-   "video": ""
+   "video": "https://youtube.com/watch?v=3dUZn3eloWE"
 },{
-   "duration": "",
+   "duration": 314,
    "edition": "2019",
    "identifier": "#cppcon-2019-0217",
    "language": "english",
@@ -4194,7 +4350,7 @@
       "live",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/-_lqZJK2vjI/0.jpg",
    "title": "23 Ranges: slide & stride",
-   "video": ""
+   "video": "https://youtube.com/watch?v=-_lqZJK2vjI"
 }]}

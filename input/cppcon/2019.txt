@@ -18,7 +18,7 @@ $set tags panel
 
 ===============================================================================
 
-$set tags 
+$set tags talk
 
 
 
@@ -300,7 +300,7 @@ CppCon
 53:48
 #marker-0032
 WORDT NU AFGESPEELD
-CppCon 2019:Ben Saks : Back to Basics: Understanding Value Categories
+Ben Saks : Back to Basics: Understanding Value Categories
 CppCon
 
 37
@@ -744,7 +744,7 @@ CppCon
 59:08
 #marker-0090
 WORDT NU AFGESPEELD
-Peter Bindels & Sy Brand : Hello World From Scratch"
+Peter Bindels & Sy Brand : Hello World From Scratch
 CppCon
 
 95
@@ -768,7 +768,7 @@ CppCon
 1:01:27
 #marker-0093
 WORDT NU AFGESPEELD
-Conor Hoekstra, : Algorithm Intuition (part 2 of 2)
+Conor Hoekstra : Algorithm Intuition (part 2 of 2)
 CppCon
 
 98
@@ -792,7 +792,7 @@ CppCon
 1:00:07
 #marker-0096
 WORDT NU AFGESPEELD
-David Stone - Removing Metaprogramming From C++, Part 1 of N: constexpr Function Params
+David Stone : Removing Metaprogramming From C++, Part 1 of N: constexpr Function Params
 CppCon
 
 101
@@ -1040,7 +1040,7 @@ CppCon
 1:00:56
 #marker-0127
 WORDT NU AFGESPEELD
-Will Your Code Survive the Attack of the Zombie Pointers? - Wong, McKenney, Michael - []
+Will Your Code Survive the Attack of the Zombie Pointers? - Michael Wong, Paul E. McKenney, Maged Michael - []
 CppCon
 
 132
@@ -1256,7 +1256,7 @@ CppCon
 1:32:49
 #marker-0154
 WORDT NU AFGESPEELD
-1bla: Committee Fireside Chat
+John Kalb: Committee Fireside Chat
 CppCon
 
 159
@@ -1461,7 +1461,7 @@ CppCon
 5:00
 #marker-0179
 WORDT NU AFGESPEELD
-My Temporary Materialization Misconception - Steffan Tjernstrom - []
+My Temporary Materialization Misconception - Staffan Tjernstrom - []
 CppCon
 
 184

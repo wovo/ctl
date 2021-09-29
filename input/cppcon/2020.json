@@ -1,5 +1,5 @@
 { "list": [{
-   "duration": "",
+   "duration": 3749,
    "edition": "2020",
    "identifier": "#cppcon-2020-0028",
    "language": "english",
@@ -15,19 +15,19 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/lil4xfpmnF4/0.jpg",
    "title": "C++ Standards Committee Fireside Chat",
-   "video": ""
+   "video": "https://youtube.com/watch?v=lil4xfpmnF4"
 },{
-   "duration": "",
+   "duration": 3952,
    "edition": "2020",
-   "identifier": "#cppcon-2020-0001",
+   "identifier": "#cppcon-2020-0109",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
    "number": 2,
    "speakers": [
-      "Bob Steagall"
+      "Marshall Clow"
    ],
    "tags": [
       "talk",
@@ -35,13 +35,13 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
-   "title": "Back to Basics: The Abstract Machine",
-   "video": ""
+   "thumbnail": "http://img.youtube.com/vi/7RoTDjLLXJQ/0.jpg",
+   "title": "What is an ABI, and Why is Breaking it Bad?",
+   "video": "https://youtube.com/watch?v=7RoTDjLLXJQ"
 },{
-   "duration": "",
+   "duration": 3427,
    "edition": "2020",
-   "identifier": "#cppcon-2020-0002",
+   "identifier": "#cppcon-2020-0001",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -55,19 +55,19 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
-   "title": "Back to Basics: The Structure of a Program",
-   "video": ""
+   "thumbnail": "http://img.youtube.com/vi/ZAji7PkXaKY/0.jpg",
+   "title": "Back to Basics: The Abstract Machine",
+   "video": "https://youtube.com/watch?v=ZAji7PkXaKY"
 },{
-   "duration": "",
+   "duration": 3696,
    "edition": "2020",
-   "identifier": "#cppcon-2020-0003",
+   "identifier": "#cppcon-2020-0002",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
    "number": 4,
    "speakers": [
-      "Jody Hagins"
+      "Bob Steagall"
    ],
    "tags": [
       "talk",
@@ -75,13 +75,13 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
-   "title": "Template Metaprogramming: Type Traits (part 1 of 2)",
-   "video": ""
+   "thumbnail": "http://img.youtube.com/vi/3KoXeegncrs/0.jpg",
+   "title": "Back to Basics: The Structure of a Program",
+   "video": "https://youtube.com/watch?v=3KoXeegncrs"
 },{
-   "duration": "",
+   "duration": 3601,
    "edition": "2020",
-   "identifier": "#cppcon-2020-0004",
+   "identifier": "#cppcon-2020-0003",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -95,17 +95,37 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
-   "title": "Template Metaprogramming: Type Traits (part 2 of 2)",
-   "video": ""
+   "thumbnail": "http://img.youtube.com/vi/tiAVWcjIF6o/0.jpg",
+   "title": "Template Metaprogramming: Type Traits (part 1 of 2)",
+   "video": "https://youtube.com/watch?v=tiAVWcjIF6o"
 },{
-   "duration": "",
+   "duration": 3552,
+   "edition": "2020",
+   "identifier": "#cppcon-2020-0004",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 6,
+   "speakers": [
+      "Jody Hagins"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "online",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/dLZcocFOb5Q/0.jpg",
+   "title": "Template Metaprogramming: Type Traits (part 2 of 2)",
+   "video": "https://youtube.com/watch?v=dLZcocFOb5Q"
+},{
+   "duration": 3616,
    "edition": "2020",
    "identifier": "#cppcon-2020-0005",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 6,
+   "number": 7,
    "speakers": [
       "Julia Reid"
    ],
@@ -115,17 +135,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/qCn6zT76zTs/0.jpg",
    "title": "Collaborative C++ Development with Visual Studio Code",
-   "video": ""
+   "video": "https://youtube.com/watch?v=qCn6zT76zTs"
 },{
-   "duration": "",
+   "duration": 3626,
    "edition": "2020",
    "identifier": "#cppcon-2020-0006",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 7,
+   "number": 8,
    "speakers": [
       "Stephen Dewhurst"
    ],
@@ -135,17 +155,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/SShSV_iV1Ko/0.jpg",
    "title": "Back to Basics: Class Layout",
-   "video": ""
+   "video": "https://youtube.com/watch?v=SShSV_iV1Ko"
 },{
-   "duration": "",
+   "duration": 3930,
    "edition": "2020",
    "identifier": "#cppcon-2020-0007",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 8,
+   "number": 9,
    "speakers": [
       "Nicolai Josuttis"
    ],
@@ -155,17 +175,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/TFMKjL38xAI/0.jpg",
    "title": "The Hidden Secrets of Move Semantics",
-   "video": ""
+   "video": "https://youtube.com/watch?v=TFMKjL38xAI"
 },{
-   "duration": "",
+   "duration": 3567,
    "edition": "2020",
    "identifier": "#cppcon-2020-0008",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 9,
+   "number": 10,
    "speakers": [
       "Ilya Burylov",
       "Michael Wong"
@@ -176,17 +196,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/YM8Xy6oKVQg/0.jpg",
    "title": "The Future of C++ Parallel and Concurrency Safety Guidelines",
-   "video": ""
+   "video": "https://youtube.com/watch?v=YM8Xy6oKVQg"
 },{
-   "duration": "",
+   "duration": 3638,
    "edition": "2020",
    "identifier": "#cppcon-2020-0009",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 10,
+   "number": 11,
    "speakers": [
       "Sunny Chatterjee"
    ],
@@ -196,33 +216,13 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/_pQGRr4P16w/0.jpg",
    "title": "Closing the Gap between Rust and C++ Using Principles of Static Analysis",
-   "video": ""
+   "video": "https://youtube.com/watch?v=_pQGRr4P16w"
 },{
-   "duration": "",
+   "duration": 3640,
    "edition": "2020",
    "identifier": "#cppcon-2020-0010",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "number": 11,
-   "speakers": [
-      "Klaus Iglberger"
-   ],
-   "tags": [
-      "talk",
-      "conference",
-      "online",
-      "c++"
-   ],
-   "thumbnail": "",
-   "title": "Calling Functions: A Tutorial",
-   "video": ""
-},{
-   "duration": "",
-   "edition": "2020",
-   "identifier": "#cppcon-2020-0011",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -236,17 +236,37 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
-   "title": "Breaking Dependencies: The SOLID Principles",
-   "video": ""
+   "thumbnail": "http://img.youtube.com/vi/GydNMuyQzWo/0.jpg",
+   "title": "Calling Functions: A Tutorial",
+   "video": "https://youtube.com/watch?v=GydNMuyQzWo"
 },{
-   "duration": "",
+   "duration": 3801,
+   "edition": "2020",
+   "identifier": "#cppcon-2020-0011",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 13,
+   "speakers": [
+      "Klaus Iglberger"
+   ],
+   "tags": [
+      "talk",
+      "conference",
+      "online",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/Ntraj80qN2k/0.jpg",
+   "title": "Breaking Dependencies: The SOLID Principles",
+   "video": "https://youtube.com/watch?v=Ntraj80qN2k"
+},{
+   "duration": 3123,
    "edition": "2020",
    "identifier": "#cppcon-2020-0012",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 13,
+   "number": 14,
    "speakers": [
       "Zach Laine CppCon"
    ],
@@ -256,17 +276,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/JByCzWaGxhE/0.jpg",
    "title": "Making Iterators, Views and Containers Easier to Write with Boost.STLInterfaces",
-   "video": ""
+   "video": "https://youtube.com/watch?v=JByCzWaGxhE"
 },{
-   "duration": "",
+   "duration": 3595,
    "edition": "2020",
    "identifier": "#cppcon-2020-0013",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 14,
+   "number": 15,
    "speakers": [
       "Bjarne Stroustrup"
    ],
@@ -276,17 +296,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/ERzENfQ51Ck/0.jpg",
    "title": "Plenary: The Beauty and Power of 'Primitive' C++",
-   "video": ""
+   "video": "https://youtube.com/watch?v=ERzENfQ51Ck"
 },{
-   "duration": "",
+   "duration": 3708,
    "edition": "2020",
    "identifier": "#cppcon-2020-0014",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 15,
+   "number": 16,
    "speakers": [
       "Phil Nash"
    ],
@@ -296,17 +316,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/N2gTxeIHMP0/0.jpg",
    "title": "Test Driven C++",
-   "video": ""
+   "video": "https://youtube.com/watch?v=N2gTxeIHMP0"
 },{
-   "duration": "",
+   "duration": 3885,
    "edition": "2020",
    "identifier": "#cppcon-2020-0015",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 16,
+   "number": 17,
    "speakers": [
       "Andreas Fertig"
    ],
@@ -316,17 +336,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/VNJ4wiuxJM4/0.jpg",
    "title": "Back to Basics: Templates (part 1 of 2)",
-   "video": ""
+   "video": "https://youtube.com/watch?v=VNJ4wiuxJM4"
 },{
-   "duration": "",
+   "duration": 4007,
    "edition": "2020",
    "identifier": "#cppcon-2020-0016",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 17,
+   "number": 18,
    "speakers": [
       "Rainer Grimm"
    ],
@@ -336,17 +356,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/jd6P9X8l2bY/0.jpg",
    "title": "40 Years Of Evolution from Functions to Coroutines",
-   "video": ""
+   "video": "https://youtube.com/watch?v=jd6P9X8l2bY"
 },{
-   "duration": "",
+   "duration": 3790,
    "edition": "2020",
    "identifier": "#cppcon-2020-0017",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 18,
+   "number": 19,
    "speakers": [
       "Andreas Fertig"
    ],
@@ -356,17 +376,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/0dtjDTEE0hQ/0.jpg",
    "title": "Back to Basics: Templates (part 2 of 2)",
-   "video": ""
+   "video": "https://youtube.com/watch?v=0dtjDTEE0hQ"
 },{
-   "duration": "",
+   "duration": 3399,
    "edition": "2020",
    "identifier": "#cppcon-2020-0018",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 19,
+   "number": 20,
    "speakers": [
       "Halide"
    ],
@@ -376,17 +396,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/1ir_nEfKQ7A/0.jpg",
    "title": " A Language for Fast, Portable Computation on Images and Tensors - Alex Reinking - [] 20",
-   "video": ""
+   "video": "https://youtube.com/watch?v=1ir_nEfKQ7A"
 },{
-   "duration": "",
+   "duration": 3624,
    "edition": "2020",
    "identifier": "#cppcon-2020-0019",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 20,
+   "number": 21,
    "speakers": [
       "JF Bastien"
    ],
@@ -396,17 +416,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/tWvaSkgVPpA/0.jpg",
    "title": "Just-in-Time Compilation",
-   "video": ""
+   "video": "https://youtube.com/watch?v=tWvaSkgVPpA"
 },{
-   "duration": "",
+   "duration": 4070,
    "edition": "2020",
    "identifier": "#cppcon-2020-0020",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 21,
+   "number": 22,
    "speakers": [
       "Mateusz Pusz"
    ],
@@ -416,17 +436,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/7dExYGSOJzo/0.jpg",
    "title": "A Physical Units Library For the Next C++",
-   "video": ""
+   "video": "https://youtube.com/watch?v=7dExYGSOJzo"
 },{
-   "duration": "",
+   "duration": 3655,
    "edition": "2020",
    "identifier": "#cppcon-2020-0021",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 22,
+   "number": 23,
    "speakers": [
       "Ben Saks"
    ],
@@ -436,17 +456,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/rqVWj0aVSxg/0.jpg",
    "title": "Back to Basics: Pointers and Memory",
-   "video": ""
+   "video": "https://youtube.com/watch?v=rqVWj0aVSxg"
 },{
-   "duration": "",
+   "duration": 3610,
    "edition": "2020",
    "identifier": "#cppcon-2020-0022",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 23,
+   "number": 24,
    "speakers": [
       "Michael Wong"
    ],
@@ -456,17 +476,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/885TI3jnB7g/0.jpg",
    "title": "Modern Software Needs Embedded Modern C++ Programming",
-   "video": ""
+   "video": "https://youtube.com/watch?v=885TI3jnB7g"
 },{
-   "duration": "",
+   "duration": 3626,
    "edition": "2020",
    "identifier": "#cppcon-2020-0023",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 24,
+   "number": 25,
    "speakers": [
       "Victor Ciura"
    ],
@@ -476,17 +496,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/xEzfnbTabyE/0.jpg",
    "title": "2020: The Year of Sanitizers?",
-   "video": ""
+   "video": "https://youtube.com/watch?v=xEzfnbTabyE"
 },{
-   "duration": "",
+   "duration": 3614,
    "edition": "2020",
    "identifier": "#cppcon-2020-0024",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 25,
+   "number": 26,
    "speakers": [
       "Stephan T. Lavavej"
    ],
@@ -496,17 +516,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/8kjRx8vo6y4/0.jpg",
    "title": "C++20 STL Features: One Year of Development on GitHub",
-   "video": ""
+   "video": "https://youtube.com/watch?v=8kjRx8vo6y4"
 },{
-   "duration": "",
+   "duration": 3624,
    "edition": "2020",
    "identifier": "#cppcon-2020-0025",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 26,
+   "number": 27,
    "speakers": [
       "Panel Discussion hosted by Ben Saks"
    ],
@@ -516,17 +536,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/v_4D43nASt4/0.jpg",
    "title": "Dealing with Embedded Limitations",
-   "video": ""
+   "video": "https://youtube.com/watch?v=v_4D43nASt4"
 },{
-   "duration": "",
+   "duration": 3807,
    "edition": "2020",
    "identifier": "#cppcon-2020-0026",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 27,
+   "number": 28,
    "speakers": [
       "Ben Saks"
    ],
@@ -536,17 +556,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/gzqLScDUlDI/0.jpg",
    "title": "Embedded: Customizing Dynamic Memory Management in C++",
-   "video": ""
+   "video": "https://youtube.com/watch?v=gzqLScDUlDI"
 },{
-   "duration": "",
+   "duration": 3438,
    "edition": "2020",
    "identifier": "#cppcon-2020-0027",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 28,
+   "number": 29,
    "speakers": [
       "Sy Brand"
    ],
@@ -556,17 +576,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/AGRWRwi7rD0/0.jpg",
    "title": "Building an Intuition for Composition",
-   "video": ""
+   "video": "https://youtube.com/watch?v=AGRWRwi7rD0"
 },{
-   "duration": "",
+   "duration": 3532,
    "edition": "2020",
    "identifier": "#cppcon-2020-0029",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 29,
+   "number": 30,
    "speakers": [
       "Marc Gregoire"
    ],
@@ -576,17 +596,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/FRkJCvHWdwQ/0.jpg",
    "title": "C++20: An (Almost) Complete Overview",
-   "video": ""
+   "video": "https://youtube.com/watch?v=FRkJCvHWdwQ"
 },{
-   "duration": "",
+   "duration": 4215,
    "edition": "2020",
    "identifier": "#cppcon-2020-0030",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 30,
+   "number": 31,
    "speakers": [
       "Arthur O'Dwyer"
    ],
@@ -596,17 +616,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/OJzmWqCCZaM/0.jpg",
    "title": "Back to Basics: Algebraic Data Types",
-   "video": ""
+   "video": "https://youtube.com/watch?v=OJzmWqCCZaM"
 },{
-   "duration": "",
+   "duration": 3678,
    "edition": "2020",
    "identifier": "#cppcon-2020-0031",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 31,
+   "number": 32,
    "speakers": [
       "Ansel Sermersheim",
       "Barbara Geller"
@@ -617,17 +637,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/ZIPNFcw6V9o/0.jpg",
    "title": "Back To Basics: Lambda Expressions",
-   "video": ""
+   "video": "https://youtube.com/watch?v=ZIPNFcw6V9o"
 },{
-   "duration": "",
+   "duration": 3577,
    "edition": "2020",
    "identifier": "#cppcon-2020-0032",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 32,
+   "number": 33,
    "speakers": [
       "Erika Sweet"
    ],
@@ -637,17 +657,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/oYCin0B037Y/0.jpg",
    "title": "Cross-Platform Pitfalls and How to Avoid Them",
-   "video": ""
+   "video": "https://youtube.com/watch?v=oYCin0B037Y"
 },{
-   "duration": "",
+   "duration": 1678,
    "edition": "2020",
    "identifier": "#cppcon-2020-0033",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 33,
+   "number": 34,
    "speakers": [
       "Zhihao Yuan"
    ],
@@ -657,17 +677,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/EKJMZCL00Ak/0.jpg",
    "title": "The Many Shades of reference_wrapper",
-   "video": ""
+   "video": "https://youtube.com/watch?v=EKJMZCL00Ak"
 },{
-   "duration": "",
+   "duration": 3105,
    "edition": "2020",
    "identifier": "#cppcon-2020-0034",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 34,
+   "number": 35,
    "speakers": [
       "Tanki Zhang"
    ],
@@ -677,17 +697,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/KWi793v5uA8/0.jpg",
    "title": "Building a Coroutine based Job System without Standard Library",
-   "video": ""
+   "video": "https://youtube.com/watch?v=KWi793v5uA8"
 },{
-   "duration": "",
+   "duration": 1708,
    "edition": "2020",
    "identifier": "#cppcon-2020-0035",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 35,
+   "number": 36,
    "speakers": [
       "Nick Uhlenhuth"
    ],
@@ -697,17 +717,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/HrOEyJVU5As/0.jpg",
    "title": "Effective Remote C++ Development with Codespaces",
-   "video": ""
+   "video": "https://youtube.com/watch?v=HrOEyJVU5As"
 },{
-   "duration": "",
+   "duration": 3716,
    "edition": "2020",
    "identifier": "#cppcon-2020-0036",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 36,
+   "number": 37,
    "speakers": [
       "Ben Saks"
    ],
@@ -717,17 +737,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/_OHE33s7EKw/0.jpg",
    "title": "Back to Basics: Unit Tests",
-   "video": ""
+   "video": "https://youtube.com/watch?v=_OHE33s7EKw"
 },{
-   "duration": "",
+   "duration": 3719,
    "edition": "2020",
    "identifier": "#cppcon-2020-0037",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 37,
+   "number": 38,
    "speakers": [
       "Misha Shalem"
    ],
@@ -737,17 +757,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/l14Zkx5OXr4/0.jpg",
    "title": "Practical Memory Pool Based Allocators For Modern C++",
-   "video": ""
+   "video": "https://youtube.com/watch?v=l14Zkx5OXr4"
 },{
-   "duration": "",
+   "duration": 3625,
    "edition": "2020",
    "identifier": "#cppcon-2020-0038",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 38,
+   "number": 39,
    "speakers": [
       "Sy Brand"
    ],
@@ -757,17 +777,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/8c6BAQcYF_E/0.jpg",
    "title": "Dynamic Polymorphism with Metaclasses and Code Injection",
-   "video": ""
+   "video": "https://youtube.com/watch?v=8c6BAQcYF_E"
 },{
-   "duration": "",
+   "duration": 3775,
    "edition": "2020",
    "identifier": "#cppcon-2020-0039",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 39,
+   "number": 40,
    "speakers": [
       "Ben Deane"
    ],
@@ -777,17 +797,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/InMh3JxbiTs/0.jpg",
    "title": "Constructing Generic Algorithms: Principles and Practice",
-   "video": ""
+   "video": "https://youtube.com/watch?v=InMh3JxbiTs"
 },{
-   "duration": "",
+   "duration": 3836,
    "edition": "2020",
    "identifier": "#cppcon-2020-0040",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 40,
+   "number": 41,
    "speakers": [
       "Ben Deane",
       "Kris Jusiak"
@@ -798,17 +818,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/I3ov8HcdVKw/0.jpg",
    "title": "Just-in-Time Compilation: The Next Big Thing?",
-   "video": ""
+   "video": "https://youtube.com/watch?v=I3ov8HcdVKw"
 },{
-   "duration": "",
+   "duration": 3602,
    "edition": "2020",
    "identifier": "#cppcon-2020-0041",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 41,
+   "number": 42,
    "speakers": [
       "Gordon Brown",
       "Michael Wong"
@@ -819,17 +839,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/fxCnpNVPazk/0.jpg",
    "title": "Heterogeneous Programming in C++ with SYCL 2020",
-   "video": ""
+   "video": "https://youtube.com/watch?v=fxCnpNVPazk"
 },{
-   "duration": "",
+   "duration": 3668,
    "edition": "2020",
    "identifier": "#cppcon-2020-0042",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 42,
+   "number": 43,
    "speakers": [
       "Emery Berger"
    ],
@@ -839,17 +859,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/koTf7u0v41o/0.jpg",
    "title": "Plenary: Performance Matters",
-   "video": ""
+   "video": "https://youtube.com/watch?v=koTf7u0v41o"
 },{
-   "duration": "",
+   "duration": 3450,
    "edition": "2020",
    "identifier": "#cppcon-2020-0043",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 43,
+   "number": 44,
    "speakers": [
       "Inbal Levi"
    ],
@@ -859,17 +879,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/XgrjybKaIV8/0.jpg",
    "title": "Exploration of C++20 Meta Programming",
-   "video": ""
+   "video": "https://youtube.com/watch?v=XgrjybKaIV8"
 },{
-   "duration": "",
+   "duration": 2004,
    "edition": "2020",
    "identifier": "#cppcon-2020-0044",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 44,
+   "number": 45,
    "speakers": [
       "Marc Gregoire"
    ],
@@ -879,17 +899,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/IdM0Z2a4fjU/0.jpg",
    "title": "C++20 String Formatting Library: An Overview and Use with Custom Types",
-   "video": ""
+   "video": "https://youtube.com/watch?v=IdM0Z2a4fjU"
 },{
-   "duration": "",
+   "duration": 3425,
    "edition": "2020",
    "identifier": "#cppcon-2020-0045",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 45,
+   "number": 46,
    "speakers": [
       "Clare Macrae"
    ],
@@ -899,17 +919,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/J27HoZM_PTI/0.jpg",
    "title": "Quickly Testing Qt Desktop Applications with Approval Tests",
-   "video": ""
+   "video": "https://youtube.com/watch?v=J27HoZM_PTI"
 },{
-   "duration": "",
+   "duration": 2895,
    "edition": "2020",
    "identifier": "#cppcon-2020-0046",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 46,
+   "number": 47,
    "speakers": [
       "Mike Shah"
    ],
@@ -919,17 +939,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/2UUqX2eIdSM/0.jpg",
    "title": "Back to Basics: Design Patterns",
-   "video": ""
+   "video": "https://youtube.com/watch?v=2UUqX2eIdSM"
 },{
-   "duration": "",
+   "duration": 1812,
    "edition": "2020",
    "identifier": "#cppcon-2020-0047",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 47,
+   "number": 48,
    "speakers": [
       "Mark Hoemmen"
    ],
@@ -939,17 +959,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/DpLZ4pnrx0o/0.jpg",
    "title": "Design Patterns for Handling/Reporting Errors in C++ - Parallel Algorithms & Executors",
-   "video": ""
+   "video": "https://youtube.com/watch?v=DpLZ4pnrx0o"
 },{
-   "duration": "",
+   "duration": 3547,
    "edition": "2020",
    "identifier": "#cppcon-2020-0048",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 48,
+   "number": 49,
    "speakers": [
       "David Olsen"
    ],
@@ -959,17 +979,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/ZG59Bqo7qX4/0.jpg",
    "title": "Back to Basics: Move Semantics",
-   "video": ""
+   "video": "https://youtube.com/watch?v=ZG59Bqo7qX4"
 },{
-   "duration": "",
+   "duration": 3784,
    "edition": "2020",
    "identifier": "#cppcon-2020-0049",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 49,
+   "number": 50,
    "speakers": [
       "Anthony Williams"
    ],
@@ -979,17 +999,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/iUKxvEg0zdk/0.jpg",
    "title": "Get Off My Thread: Techniques for Moving Work to Background Threads",
-   "video": ""
+   "video": "https://youtube.com/watch?v=iUKxvEg0zdk"
 },{
-   "duration": "",
+   "duration": 4045,
    "edition": "2020",
    "identifier": "#cppcon-2020-0050",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 50,
+   "number": 51,
    "speakers": [
       "Rainer Grimm"
    ],
@@ -999,17 +1019,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/sQCSX7vmmKY/0.jpg",
    "title": "Back to Basics: Smart Pointers",
-   "video": ""
+   "video": "https://youtube.com/watch?v=sQCSX7vmmKY"
 },{
-   "duration": "",
+   "duration": 3532,
    "edition": "2020",
    "identifier": "#cppcon-2020-0051",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 51,
+   "number": 52,
    "speakers": [
       "Hans Boehm",
       "Paul E. McKenney"
@@ -1020,17 +1040,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/cWkUqK71DZ0/0.jpg",
    "title": "A Relaxed Guide to memory_order_relaxed",
-   "video": ""
+   "video": "https://youtube.com/watch?v=cWkUqK71DZ0"
 },{
-   "duration": "",
+   "duration": 3727,
    "edition": "2020",
    "identifier": "#cppcon-2020-0052",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 52,
+   "number": 53,
    "speakers": [
       "Matthew Butler"
    ],
@@ -1040,17 +1060,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/uccarZGpDhk/0.jpg",
    "title": "Modern C++ Safety and Security At 20",
-   "video": ""
+   "video": "https://youtube.com/watch?v=uccarZGpDhk"
 },{
-   "duration": "",
+   "duration": 3744,
    "edition": "2020",
    "identifier": "#cppcon-2020-0053",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 53,
+   "number": 54,
    "speakers": [
       "Mathieu Ropert"
    ],
@@ -1060,17 +1080,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/TcuPIVKNSN0/0.jpg",
    "title": "Making Games Start Fast: A Story About Concurrency",
-   "video": ""
+   "video": "https://youtube.com/watch?v=TcuPIVKNSN0"
 },{
-   "duration": "",
+   "duration": 3505,
    "edition": "2020",
    "identifier": "#cppcon-2020-0054",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 54,
+   "number": 55,
    "speakers": [
       "David Sankel"
    ],
@@ -1080,17 +1100,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/giWCdQ7fnQU/0.jpg",
    "title": "Monoids, Monads, and Applicative Functors: Repeated Software Patterns",
-   "video": ""
+   "video": "https://youtube.com/watch?v=giWCdQ7fnQU"
 },{
-   "duration": "",
+   "duration": 3742,
    "edition": "2020",
    "identifier": "#cppcon-2020-0055",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 55,
+   "number": 56,
    "speakers": [
       "Vincent Reverdy"
    ],
@@ -1100,19 +1120,19 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/wHu6TGela6A/0.jpg",
    "title": "The Shapes of Multi-Dimensional Arrays",
-   "video": ""
+   "video": "https://youtube.com/watch?v=wHu6TGela6A"
 },{
-   "duration": "",
+   "duration": 4125,
    "edition": "2020",
    "identifier": "#cppcon-2020-0056",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 56,
+   "number": 57,
    "speakers": [
-      "Plenary"
+      "Lisa Lippincott"
    ],
    "tags": [
       "talk",
@@ -1120,17 +1140,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
-   "title": " Neighborhoods Banding Together: Reasoning Globally about Programs - Lisa Lippincott -CppCon",
-   "video": ""
+   "thumbnail": "http://img.youtube.com/vi/Zjy8RCb8p7M/0.jpg",
+   "title": "Plenary: Neighborhoods Banding Together: Reasoning Globally about Programs",
+   "video": "https://youtube.com/watch?v=Zjy8RCb8p7M"
 },{
-   "duration": "",
+   "duration": 3646,
    "edition": "2020",
    "identifier": "#cppcon-2020-0057",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 57,
+   "number": 58,
    "speakers": [
       "Jonathan Boccara"
    ],
@@ -1140,17 +1160,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/oYEpf5A2qrE/0.jpg",
    "title": "Pipes: How Plumbing Can Make Your C++ Code More Expressive",
-   "video": ""
+   "video": "https://youtube.com/watch?v=oYEpf5A2qrE"
 },{
-   "duration": "",
+   "duration": 3805,
    "edition": "2020",
    "identifier": "#cppcon-2020-0058",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 58,
+   "number": 59,
    "speakers": [
       "Bob Steagall"
    ],
@@ -1160,17 +1180,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/Pi243hGxDyA/0.jpg",
    "title": "A Multi-threaded, Transaction-Based Locking Strategy for Containers",
-   "video": ""
+   "video": "https://youtube.com/watch?v=Pi243hGxDyA"
 },{
-   "duration": "",
+   "duration": 3310,
    "edition": "2020",
    "identifier": "#cppcon-2020-0059",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 59,
+   "number": 60,
    "speakers": [
       "Dave Steffen"
    ],
@@ -1180,17 +1200,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/FjwayiHNI1w/0.jpg",
    "title": "The Science of Unit Tests",
-   "video": ""
+   "video": "https://youtube.com/watch?v=FjwayiHNI1w"
 },{
-   "duration": "",
+   "duration": 3720,
    "edition": "2020",
    "identifier": "#cppcon-2020-0060",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 60,
+   "number": 61,
    "speakers": [
       "Hosted by Ben Craig"
    ],
@@ -1200,17 +1220,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/udKNou797Zc/0.jpg",
    "title": "C++ Committee's Library Evolution Working Group Panel",
-   "video": ""
+   "video": "https://youtube.com/watch?v=udKNou797Zc"
 },{
-   "duration": "",
+   "duration": 3721,
    "edition": "2020",
    "identifier": "#cppcon-2020-0061",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 61,
+   "number": 62,
    "speakers": [
       "Patrice Roy"
    ],
@@ -1220,17 +1240,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/Wg1f9Sufyic/0.jpg",
    "title": "The Surprising Costs of void() (and Other Not-Quite-Innocuous Evils)",
-   "video": ""
+   "video": "https://youtube.com/watch?v=Wg1f9Sufyic"
 },{
-   "duration": "",
+   "duration": 3497,
    "edition": "2020",
    "identifier": "#cppcon-2020-0062",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 62,
+   "number": 63,
    "speakers": [
       "Robert Leahy"
    ],
@@ -1240,17 +1260,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/xgXFZ-rYc4w/0.jpg",
    "title": "The Networking TS from Scratch: I/O Objects",
-   "video": ""
+   "video": "https://youtube.com/watch?v=xgXFZ-rYc4w"
 },{
-   "duration": "",
+   "duration": 3643,
    "edition": "2020",
    "identifier": "#cppcon-2020-0063",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 63,
+   "number": 64,
    "speakers": [
       "Alexander van der Grinten"
    ],
@@ -1260,17 +1280,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/BzwpdOpNFpQ/0.jpg",
    "title": "Managarm: A Fully Asynchronous OS Based on Modern C++",
-   "video": ""
+   "video": "https://youtube.com/watch?v=BzwpdOpNFpQ"
 },{
-   "duration": "",
+   "duration": 3704,
    "edition": "2020",
    "identifier": "#cppcon-2020-0064",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 64,
+   "number": 65,
    "speakers": [
       "Klaus Iglberger"
    ],
@@ -1280,17 +1300,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/0ojB8c0xUd8/0.jpg",
    "title": "Back to Basics: Exceptions",
-   "video": ""
+   "video": "https://youtube.com/watch?v=0ojB8c0xUd8"
 },{
-   "duration": "",
+   "duration": 3320,
    "edition": "2020",
    "identifier": "#cppcon-2020-0065",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 65,
+   "number": 66,
    "speakers": [
       "Inbal Levi"
    ],
@@ -1300,17 +1320,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/N_-bUNMLGvE/0.jpg",
    "title": "Exceptions Under the Spotlight",
-   "video": ""
+   "video": "https://youtube.com/watch?v=N_-bUNMLGvE"
 },{
-   "duration": "",
+   "duration": 3868,
    "edition": "2020",
    "identifier": "#cppcon-2020-0066",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 66,
+   "number": 67,
    "speakers": [
       "Arthur O'Dwyer"
    ],
@@ -1320,17 +1340,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/F6Ipn7gCOsY/0.jpg",
    "title": "Back to Basics: Concurrency",
-   "video": ""
+   "video": "https://youtube.com/watch?v=F6Ipn7gCOsY"
 },{
-   "duration": "",
+   "duration": 3918,
    "edition": "2020",
    "identifier": "#cppcon-2020-0067",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 67,
+   "number": 68,
    "speakers": [
       "Borislav Stanimirov"
    ],
@@ -1340,17 +1360,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/ZSrIZW2Hzhk/0.jpg",
    "title": "No Touchy! A Case Study of Software Architecture with Immutable Objects",
-   "video": ""
+   "video": "https://youtube.com/watch?v=ZSrIZW2Hzhk"
 },{
-   "duration": "",
+   "duration": 3652,
    "edition": "2020",
    "identifier": "#cppcon-2020-0068",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 68,
+   "number": 69,
    "speakers": [
       "Tsung-Wei Huang"
    ],
@@ -1360,17 +1380,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/MX15huP5DsM/0.jpg",
    "title": "Taskflow: A Parallel and Heterogeneous Task Programming System Using Modern C++",
-   "video": ""
+   "video": "https://youtube.com/watch?v=MX15huP5DsM"
 },{
-   "duration": "",
+   "duration": 3944,
    "edition": "2020",
    "identifier": "#cppcon-2020-0069",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 69,
+   "number": 70,
    "speakers": [
       "Tristan Brindle"
    ],
@@ -1380,17 +1400,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/d_E-VLyUnzc/0.jpg",
    "title": "C++20 Ranges in Practice",
-   "video": ""
+   "video": "https://youtube.com/watch?v=d_E-VLyUnzc"
 },{
-   "duration": "",
+   "duration": 4359,
    "edition": "2020",
    "identifier": "#cppcon-2020-0070",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 70,
+   "number": 71,
    "speakers": [
       "Eduardo Madrid"
    ],
@@ -1400,17 +1420,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/e8SyxB3_mnw/0.jpg",
    "title": "Not Leaving Performance On The Jump Table",
-   "video": ""
+   "video": "https://youtube.com/watch?v=e8SyxB3_mnw"
 },{
-   "duration": "",
+   "duration": 3986,
    "edition": "2020",
    "identifier": "#cppcon-2020-0071",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 71,
+   "number": 72,
    "speakers": [
       "Conor Hoekstra"
    ],
@@ -1420,17 +1440,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/7oV7hiAsVTI/0.jpg",
    "title": "Structure and Interpretation of Computer Programs: SICP",
-   "video": ""
+   "video": "https://youtube.com/watch?v=7oV7hiAsVTI"
 },{
-   "duration": "",
+   "duration": 3459,
    "edition": "2020",
    "identifier": "#cppcon-2020-0072",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 72,
+   "number": 73,
    "speakers": [
       "Phil Nash"
    ],
@@ -1440,17 +1460,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/pH-q2m5sb04/0.jpg",
    "title": "OO Considered Harmful",
-   "video": ""
+   "video": "https://youtube.com/watch?v=pH-q2m5sb04"
 },{
-   "duration": "",
+   "duration": 3728,
    "edition": "2020",
    "identifier": "#cppcon-2020-0073",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 73,
+   "number": 74,
    "speakers": [
       "John Lakos"
    ],
@@ -1460,17 +1480,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/d3zMfMC8l5U/0.jpg",
    "title": "Lakos'20: The 'Dam' Book is Done!",
-   "video": ""
+   "video": "https://youtube.com/watch?v=d3zMfMC8l5U"
 },{
-   "duration": "",
+   "duration": 3749,
    "edition": "2020",
    "identifier": "#cppcon-2020-0074",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 74,
+   "number": 75,
    "speakers": [
       "Hosted By Jon Kalb"
    ],
@@ -1480,17 +1500,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/wdumaKkCR5E/0.jpg",
    "title": "C++ Community Organizers Panel",
-   "video": ""
+   "video": "https://youtube.com/watch?v=wdumaKkCR5E"
 },{
-   "duration": "",
+   "duration": 3675,
    "edition": "2020",
    "identifier": "#cppcon-2020-0075",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 75,
+   "number": 76,
    "speakers": [
       "Hosted By Bryce Adelstein Lelbach"
    ],
@@ -1500,17 +1520,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/Py1eVrJ2S88/0.jpg",
    "title": "C++ Committee's Library Evolution Working Group",
-   "video": ""
+   "video": "https://youtube.com/watch?v=Py1eVrJ2S88"
 },{
-   "duration": "",
+   "duration": 3670,
    "edition": "2020",
    "identifier": "#cppcon-2020-0076",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 76,
+   "number": 77,
    "speakers": [
       "Bob Steagall"
    ],
@@ -1520,17 +1540,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/qXleSwCCEvY/0.jpg",
    "title": "Adventures in SIMD-Thinking (part 2 of 2)",
-   "video": ""
+   "video": "https://youtube.com/watch?v=qXleSwCCEvY"
 },{
-   "duration": "",
+   "duration": 2949,
    "edition": "2020",
    "identifier": "#cppcon-2020-0077",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 77,
+   "number": 78,
    "speakers": [
       "Basit Ayantunde"
    ],
@@ -1540,17 +1560,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/MpWtS_I_pJI/0.jpg",
    "title": "Functional Error and Optional-value Handling with STX",
-   "video": ""
+   "video": "https://youtube.com/watch?v=MpWtS_I_pJI"
 },{
-   "duration": "",
+   "duration": 3392,
    "edition": "2020",
    "identifier": "#cppcon-2020-0078",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 78,
+   "number": 79,
    "speakers": [
       "Bob Steagall"
    ],
@@ -1560,17 +1580,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/qejTqnxQRcw/0.jpg",
    "title": "Adventures in SIMD-Thinking (part 1 of 2)",
-   "video": ""
+   "video": "https://youtube.com/watch?v=qejTqnxQRcw"
 },{
-   "duration": "",
+   "duration": 2481,
    "edition": "2020",
    "identifier": "#cppcon-2020-0079",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 79,
+   "number": 80,
    "speakers": [
       "Barnabas Bagyi"
    ],
@@ -1580,17 +1600,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/TtPXYPJ5_eE/0.jpg",
    "title": "Fuzzing Class Interfaces for Generating and Running Tests with libFuzzer",
-   "video": ""
+   "video": "https://youtube.com/watch?v=TtPXYPJ5_eE"
 },{
-   "duration": "",
+   "duration": 3105,
    "edition": "2020",
    "identifier": "#cppcon-2020-0080",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 80,
+   "number": 81,
    "speakers": [
       "Justin Campbell",
       "Michael Walker"
@@ -1601,17 +1621,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/NsmRPRxhLn0/0.jpg",
    "title": "Introducing Microsoft's New Open Source Fuzzing Platform",
-   "video": ""
+   "video": "https://youtube.com/watch?v=NsmRPRxhLn0"
 },{
-   "duration": "",
+   "duration": 3448,
    "edition": "2020",
    "identifier": "#cppcon-2020-0081",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 81,
+   "number": 82,
    "speakers": [
       "Patrice Roy"
    ],
@@ -1621,17 +1641,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/bMSrNBcir4Y/0.jpg",
    "title": "Some Things C++ Does Right",
-   "video": ""
+   "video": "https://youtube.com/watch?v=bMSrNBcir4Y"
 },{
-   "duration": "",
+   "duration": 3695,
    "edition": "2020",
    "identifier": "#cppcon-2020-0082",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 82,
+   "number": 83,
    "speakers": [
       "Timur Doumler"
    ],
@@ -1641,17 +1661,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/ImLFlLjSveM/0.jpg",
    "title": "How C++20 Changes the Way We Write Code",
-   "video": ""
+   "video": "https://youtube.com/watch?v=ImLFlLjSveM"
 },{
-   "duration": "",
+   "duration": 4883,
    "edition": "2020",
    "identifier": "#cppcon-2020-0083",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 83,
+   "number": 84,
    "speakers": [
       "Herb Sutter"
    ],
@@ -1661,17 +1681,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/6lurOCdaj0Y/0.jpg",
    "title": "Empirically Measuring, & Reducing, C++'s Accidental Complexity",
-   "video": ""
+   "video": "https://youtube.com/watch?v=6lurOCdaj0Y"
 },{
-   "duration": "",
+   "duration": 324,
    "edition": "2020",
    "identifier": "#cppcon-2020-0084",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 84,
+   "number": 85,
    "speakers": [
       "Clare Macrae"
    ],
@@ -1681,17 +1701,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/aw2mQKXhgvU/0.jpg",
    "title": "Code Samples That Compile Even More Easily",
-   "video": ""
+   "video": "https://youtube.com/watch?v=aw2mQKXhgvU"
 },{
-   "duration": "",
+   "duration": 314,
    "edition": "2020",
    "identifier": "#cppcon-2020-0085",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 85,
+   "number": 86,
    "speakers": [
       "Conor Hoekstra"
    ],
@@ -1701,17 +1721,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/e0vnRZN5GB0/0.jpg",
    "title": "SICP Cover Demystified",
-   "video": ""
+   "video": "https://youtube.com/watch?v=e0vnRZN5GB0"
 },{
-   "duration": "",
+   "duration": 465,
    "edition": "2020",
    "identifier": "#cppcon-2020-0086",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 86,
+   "number": 87,
    "speakers": [
       "Dave Steffen"
    ],
@@ -1721,17 +1741,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/54uVTkhinDE/0.jpg",
    "title": "Build Everything From Source: A Case Study in Fear",
-   "video": ""
+   "video": "https://youtube.com/watch?v=54uVTkhinDE"
 },{
-   "duration": "",
+   "duration": 366,
    "edition": "2020",
    "identifier": "#cppcon-2020-0087",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 87,
+   "number": 88,
    "speakers": [
       "Gabriel Aubut-Lussier"
    ],
@@ -1741,17 +1761,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/8rU6eEiRV5k/0.jpg",
    "title": "Reasoning with function signatures",
-   "video": ""
+   "video": "https://youtube.com/watch?v=8rU6eEiRV5k"
 },{
-   "duration": "",
+   "duration": 404,
    "edition": "2020",
    "identifier": "#cppcon-2020-0088",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 88,
+   "number": 89,
    "speakers": [
       "Honey Sukesan"
    ],
@@ -1761,17 +1781,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/hQjJzb-c05o/0.jpg",
    "title": "Can software developers draw pictures?",
-   "video": ""
+   "video": "https://youtube.com/watch?v=hQjJzb-c05o"
 },{
-   "duration": "",
+   "duration": 395,
    "edition": "2020",
    "identifier": "#cppcon-2020-0089",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 89,
+   "number": 90,
    "speakers": [
       "Mathieu Ropert"
    ],
@@ -1781,17 +1801,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/H4N8xYue_3Q/0.jpg",
    "title": "Become A Game Developer In 5 Minutes Or Less",
-   "video": ""
+   "video": "https://youtube.com/watch?v=H4N8xYue_3Q"
 },{
-   "duration": "",
+   "duration": 292,
    "edition": "2020",
    "identifier": "#cppcon-2020-0090",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 90,
+   "number": 91,
    "speakers": [
       "Jens Weller"
    ],
@@ -1801,17 +1821,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/JYzDpXI-vWI/0.jpg",
    "title": "C++ Community Surveys",
-   "video": ""
+   "video": "https://youtube.com/watch?v=JYzDpXI-vWI"
 },{
-   "duration": "",
+   "duration": 340,
    "edition": "2020",
    "identifier": "#cppcon-2020-0091",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 91,
+   "number": 92,
    "speakers": [
       "Staffan Tjernstrom"
    ],
@@ -1821,17 +1841,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/FK74MRgU2yU/0.jpg",
    "title": "What's My Object?",
-   "video": ""
+   "video": "https://youtube.com/watch?v=FK74MRgU2yU"
 },{
-   "duration": "",
+   "duration": 343,
    "edition": "2020",
    "identifier": "#cppcon-2020-0092",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 92,
+   "number": 93,
    "speakers": [
       "Alex Voronov"
    ],
@@ -1841,33 +1861,13 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/FYwSAHgIeKA/0.jpg",
    "title": "What did I learn teaching C++ to beginners",
-   "video": ""
+   "video": "https://youtube.com/watch?v=FYwSAHgIeKA"
 },{
-   "duration": "",
+   "duration": 313,
    "edition": "2020",
    "identifier": "#cppcon-2020-0093",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "number": 93,
-   "speakers": [
-      "Ben Deane"
-   ],
-   "tags": [
-      "lightning",
-      "conference",
-      "online",
-      "c++"
-   ],
-   "thumbnail": "",
-   "title": "C++20 Lambdas: Familiar Template Syntax",
-   "video": ""
-},{
-   "duration": "",
-   "edition": "2020",
-   "identifier": "#cppcon-2020-0094",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
@@ -1881,17 +1881,37 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
-   "title": "How We Used To Be",
-   "video": ""
+   "thumbnail": "http://img.youtube.com/vi/uOc6RPu9-CA/0.jpg",
+   "title": "C++20 Lambdas: Familiar Template Syntax",
+   "video": "https://youtube.com/watch?v=uOc6RPu9-CA"
 },{
-   "duration": "",
+   "duration": 346,
+   "edition": "2020",
+   "identifier": "#cppcon-2020-0094",
+   "language": "english",
+   "level": 0,
+   "meeting": "cppcon",
+   "number": 95,
+   "speakers": [
+      "Ben Deane"
+   ],
+   "tags": [
+      "lightning",
+      "conference",
+      "online",
+      "c++"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/ip_SR9CQrxk/0.jpg",
+   "title": "How We Used To Be",
+   "video": "https://youtube.com/watch?v=ip_SR9CQrxk"
+},{
+   "duration": 319,
    "edition": "2020",
    "identifier": "#cppcon-2020-0095",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 95,
+   "number": 96,
    "speakers": [
       "Brian Ruth"
    ],
@@ -1901,17 +1921,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/kO-cNY8nX70/0.jpg",
    "title": "Drinking from the Fire Hose: Keeping up with the evolving landscape of C++",
-   "video": ""
+   "video": "https://youtube.com/watch?v=kO-cNY8nX70"
 },{
-   "duration": "",
+   "duration": 353,
    "edition": "2020",
    "identifier": "#cppcon-2020-0096",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 96,
+   "number": 97,
    "speakers": [
       "Kris Jusiak"
    ],
@@ -1921,17 +1941,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/irdgFyxOs_Y/0.jpg",
    "title": "Macro-Free Testing With C++20",
-   "video": ""
+   "video": "https://youtube.com/watch?v=irdgFyxOs_Y"
 },{
-   "duration": "",
+   "duration": 299,
    "edition": "2020",
    "identifier": "#cppcon-2020-0097",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 97,
+   "number": 98,
    "speakers": [
       "Jussi Pakkanen"
    ],
@@ -1941,17 +1961,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/NUxgbXEXAoU/0.jpg",
    "title": "C++ Dependency Management the Meson Way",
-   "video": ""
+   "video": "https://youtube.com/watch?v=NUxgbXEXAoU"
 },{
-   "duration": "",
+   "duration": 413,
    "edition": "2020",
    "identifier": "#cppcon-2020-0098",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 98,
+   "number": 99,
    "speakers": [
       "Todd Gamblin"
    ],
@@ -1961,17 +1981,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/yuhV7iKRIJU/0.jpg",
    "title": "Build all the things with Spack: a package manager for more than C++",
-   "video": ""
+   "video": "https://youtube.com/watch?v=yuhV7iKRIJU"
 },{
-   "duration": "",
+   "duration": 276,
    "edition": "2020",
    "identifier": "#cppcon-2020-0099",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 99,
+   "number": 100,
    "speakers": [
       "Sy Brand"
    ],
@@ -1981,17 +2001,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/K6qvL_buqc0/0.jpg",
    "title": "How to Cook a Chicken",
-   "video": ""
+   "video": "https://youtube.com/watch?v=K6qvL_buqc0"
 },{
-   "duration": "",
+   "duration": 299,
    "edition": "2020",
    "identifier": "#cppcon-2020-0100",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 100,
+   "number": 101,
    "speakers": [
       "Ankur Satle"
    ],
@@ -2001,17 +2021,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/5ji9iRq7JoE/0.jpg",
    "title": "Why C++ for Large Scale Systems?",
-   "video": ""
+   "video": "https://youtube.com/watch?v=5ji9iRq7JoE"
 },{
-   "duration": "",
+   "duration": 289,
    "edition": "2020",
    "identifier": "#cppcon-2020-0101",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 101,
+   "number": 102,
    "speakers": [
       "Thomas Lourseyre"
    ],
@@ -2021,17 +2041,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/msSECd8vbPo/0.jpg",
    "title": "How To Profile Compilation Duration?",
-   "video": ""
+   "video": "https://youtube.com/watch?v=msSECd8vbPo"
 },{
-   "duration": "",
+   "duration": 280,
    "edition": "2020",
    "identifier": "#cppcon-2020-0102",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 102,
+   "number": 103,
    "speakers": [
       "Diego Rodriguez-Losada"
    ],
@@ -2041,17 +2061,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/-p8uL9QDL_k/0.jpg",
    "title": "Why Conan (part II, 5 reasons to use Conan in 2020)",
-   "video": ""
+   "video": "https://youtube.com/watch?v=-p8uL9QDL_k"
 },{
-   "duration": "",
+   "duration": 314,
    "edition": "2020",
    "identifier": "#cppcon-2020-0103",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 103,
+   "number": 104,
    "speakers": [
       "Mathieu Ropert"
    ],
@@ -2061,17 +2081,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/eKHUe2k2gi0/0.jpg",
    "title": "Unicorns",
-   "video": ""
+   "video": "https://youtube.com/watch?v=eKHUe2k2gi0"
 },{
-   "duration": "",
+   "duration": 293,
    "edition": "2020",
    "identifier": "#cppcon-2020-0104",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 104,
+   "number": 105,
    "speakers": [
       "Oleg Fedorenko"
    ],
@@ -2081,17 +2101,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/DXil_ahLTyg/0.jpg",
    "title": "cppinclude - Tool for analyzing includes in C++",
-   "video": ""
+   "video": "https://youtube.com/watch?v=DXil_ahLTyg"
 },{
-   "duration": "",
+   "duration": 372,
    "edition": "2020",
    "identifier": "#cppcon-2020-0105",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 105,
+   "number": 106,
    "speakers": [
       "Javier Estrada"
    ],
@@ -2101,17 +2121,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/I8lVKve_bEk/0.jpg",
    "title": "If You Build It, Will They Come?",
-   "video": ""
+   "video": "https://youtube.com/watch?v=I8lVKve_bEk"
 },{
-   "duration": "",
+   "duration": 273,
    "edition": "2020",
    "identifier": "#cppcon-2020-0106",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 106,
+   "number": 107,
    "speakers": [
       "Thomas Lourseyre"
    ],
@@ -2121,17 +2141,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/bMD6fwCNLaU/0.jpg",
    "title": "How many languages a (C++) expert should speak ?",
-   "video": ""
+   "video": "https://youtube.com/watch?v=bMD6fwCNLaU"
 },{
-   "duration": "",
+   "duration": 335,
    "edition": "2020",
    "identifier": "#cppcon-2020-0107",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 107,
+   "number": 108,
    "speakers": [
       "Jim Roper"
    ],
@@ -2141,17 +2161,17 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/u-vMOSrQGow/0.jpg",
    "title": "A 'Lighting' Talk - 3 Point Lighting For Video in 5 Minutes",
-   "video": ""
+   "video": "https://youtube.com/watch?v=u-vMOSrQGow"
 },{
-   "duration": "",
+   "duration": 174,
    "edition": "2020",
    "identifier": "#cppcon-2020-0108",
    "language": "english",
    "level": 0,
    "meeting": "cppcon",
-   "number": 108,
+   "number": 109,
    "speakers": [
       "Tony Van Eerd"
    ],
@@ -2161,27 +2181,7 @@
       "online",
       "c++"
    ],
-   "thumbnail": "",
+   "thumbnail": "http://img.youtube.com/vi/MhQe66nuMO0/0.jpg",
    "title": "Songs of My People",
-   "video": ""
-},{
-   "duration": "",
-   "edition": "2020",
-   "identifier": "#cppcon-2020-0109",
-   "language": "english",
-   "level": 0,
-   "meeting": "cppcon",
-   "number": 109,
-   "speakers": [
-      "Marshall Clow"
-   ],
-   "tags": [
-      "lightning",
-      "conference",
-      "online",
-      "c++"
-   ],
-   "thumbnail": "",
-   "title": "What is an ABI, and Why is Breaking it Bad?",
-   "video": ""
+   "video": "https://youtube.com/watch?v=MhQe66nuMO0"
 }]}

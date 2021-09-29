@@ -17,7 +17,7 @@ $set tags panel
 42:52
 #marker-0001
 WORDT NU AFGESPEELD
-Matt Godbolt: Closing Panel: Spectre
+Matt Godbolt: Spectre
 CppCon
 
 1:01:13
@@ -662,7 +662,7 @@ CppCon
 82
 #marker-0083
 WORDT NU AFGESPEELD
-Anastasiia Kazakova : Debug C++ Without Running
+Anastasia Kazakova : Debug C++ Without Running
 CppCon
 
 83

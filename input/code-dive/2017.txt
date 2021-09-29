@@ -1,9 +1,11 @@
-#locked
+$locked
 
 $add meeting code-dive
 $add edition 2017
 $add language english
 $add tags conference live
+
+$set tags talk
 
 #marker-0001
 A story of 3 CCTV cameras - a story of 3 admins
@@ -164,3 +166,9 @@ John Lakos
 #marker-0040
 When C++ wants to meet Java
 Michał Łoś
+
+$set tags song
+
+#marker-0041
+who the f**k is eric? by odin and the nerds
+Odin Holmes

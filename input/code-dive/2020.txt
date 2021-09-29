@@ -1,9 +1,11 @@
-#locked
+$locked
 
 $add meeting code-dive
 $add edition 2020
 $add language english
 $add tags conference online
+
+$set tags talk
 
 #marker-0001
 Concurrent Code – Test It! – How?

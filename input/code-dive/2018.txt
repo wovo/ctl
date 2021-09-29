@@ -1,9 +1,11 @@
-#locked
+$locked
 
 $add meeting code-dive
 $add edition 2018
 $add language english
 $add tags conference live
+
+$set tags talk
 
 #marker-0001
 3 things they didn't tell you about Agile

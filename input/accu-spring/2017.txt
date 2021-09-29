@@ -1,9 +1,15 @@
-#locked
+$locked
 
 $add meeting accu
 $add edition 2017
 $add language english
 $add tags conference live
+
+===============================================================================
+
+$set tags talk
+
+
 
 Tuesday 2017-04-25
 Bristol 3	Empire	SS Great Britain	Wallace

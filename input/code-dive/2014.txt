@@ -1,9 +1,11 @@
-#locked
+$locked
 
 $add meeting code-dive
 $add edition 2014
 $add language english
 $add tags conference live
+
+$set tags talk
 
 #marker-0001
 Core Principles And Practices For Creating Lightweight Design

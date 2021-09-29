@@ -1,9 +1,13 @@
-#locked
+$locked
 
 $add meeting c++-on-sea
 $add edition 2019
 $add language english
 $add tags conference live c++
+
+===============================================================================
+
+$set tags talk
 
 Monday : conference day 1
 
