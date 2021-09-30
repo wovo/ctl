@@ -29,7 +29,7 @@ Meeting Cpp
 1:37:48
 #marker-0003
 WORDT NU AFGESPEELD
-Gaby Dos Reis : Programming in the Large With C++ 20
+Gabriel Dos Reis : Programming in the Large With C++ 20
 Meeting Cpp
 
 

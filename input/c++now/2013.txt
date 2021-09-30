@@ -26,7 +26,7 @@ CppNow
 1:28:58
 #marker-0044
 WORDT NU AFGESPEELD
-Dan Quinlan: C++ Use in High Performance Computing Within DOE: Past and Future
+C++ Use in High Performance Computing Within DOE: Past and Future - Dan Quinlan - []
 CppNow
 
 1:48:47
@@ -107,7 +107,7 @@ CppNow
 53:43
 #marker-0006
 WORDT NU AFGESPEELD
-Boris Schaling: Boost.Graph for Beginners
+Boris Schaeling: Boost.Graph for Beginners
 CppNow
 
 7
@@ -131,7 +131,7 @@ CppNow
 1:29:59
 #marker-0009
 WORDT NU AFGESPEELD
-Lelbach & Habraken: Boost.Asio and Boost.Serialization: Design Patterns for Object Transmission
+Boost.Asio and Boost.Serialization: Design Patterns for Object Transmission - Lelbach, Habraken []
 CppNow
 
 10
@@ -187,7 +187,7 @@ CppNow
 1:27:21
 #marker-0016
 WORDT NU AFGESPEELD
-Sounders, Jefferey : Dynamic, Recursive, Heterogeneous Types in Statically-Typed Languages
+Richard Sounders, Clinton Jefferey : Dynamic, Recursive, Heterogeneous Types in Statically-Typed Languages
 CppNow
 
 17
@@ -259,7 +259,7 @@ CppNow
 1:18:50
 #marker-0025
 WORDT NU AFGESPEELD
-Falcou and Gaunard: Boost.Dispatch -- Generalized Tag Dispatching Infrastructure Library
+Jean Falcou, Mathias Gaunard: Boost.Dispatch -- Generalized Tag Dispatching Infrastructure Library
 CppNow
 
 26
@@ -291,7 +291,7 @@ CppNow
 1:36:07
 #marker-0029
 WORDT NU AFGESPEELD
-Kale, Miller, Venkataraman : Parallel Programming using Charm++
+Laxmikant Kale, Phil Miller, Ramprasad Venkataraman : Parallel Programming using Charm++
 CppNow
 
 30

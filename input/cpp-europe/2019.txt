@@ -108,9 +108,9 @@ CppEurope
 8
 
 35:08
-#marker-0008
+//#marker-0008
 WORDT NU AFGESPEELD
-Fishbowl Panel : Working on Large Code Bases
+Fishbowl Panel - Working on Large Code Bases
 CppEurope
 
 9

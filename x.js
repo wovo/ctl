@@ -39,10 +39,8 @@ var languages = [
 ]
 
 var speakers = [
-   "",
-   "2013 Keynote",
+   "$add meeting c++now",
    "?",
-   "A. Sermersheim",
    "A.J. Orians",
    "Aaditya Kalsi",
    "Abel Mathew",
@@ -73,6 +71,7 @@ var speakers = [
    "Alex Crichton",
    "Alex Fabijanic",
    "Alex Olivas",
+   "Alex Reinking",
    "Alex Voicu",
    "Alex Voronov",
    "Alexander Maslennikov",
@@ -100,6 +99,7 @@ var speakers = [
    "Andrei Zlate-Podani",
    "Andrew Bell",
    "Andrew Lumsdaine",
+   "Andrew Nelson",
    "Andrew Sutton",
    "Andrew Twyman",
    "Andrii Sydorchuk",
@@ -143,7 +143,6 @@ var speakers = [
    "Aurelien Regat-Barrel",
    "Austin Bingham",
    "Ayman Shoukry",
-   "B. Geller",
    "Barath Kannan",
    "Barbara Geller",
    "Barnabas Bagyi",
@@ -161,6 +160,7 @@ var speakers = [
    "Bat-Ulzii Luvsanbat",
    "Beman Dawes",
    "Ben Combee",
+   "Ben Craig",
    "Ben Deane",
    "Ben Deane std",
    "Ben Huckvale",
@@ -198,7 +198,6 @@ var speakers = [
    "CB Bailey",
    "CJ Johnson",
    "Carl Cook",
-   "Carroll",
    "Casey Carter",
    "Cem Bassoy",
    "Chad Austin",
@@ -228,14 +227,10 @@ var speakers = [
    "Chuck Wilcox",
    "Clare Macrae",
    "Cliff Green",
-   "Closing Panel",
-   "CodeCompass",
+   "Clinton Jefferey",
    "Colin Robertson",
    "Conor Hoekstra",
-   "Cope",
    "Corentin Jabot",
-   "CppCon 2015",
-   "CppCon 2019",
    "CppNow",
    "Craig Scott",
    "D. Dechev",
@@ -250,6 +245,7 @@ var speakers = [
    "Damien Buhl",
    "Dan Gohman",
    "Dan Higgins",
+   "Dan Quinlan",
    "Dan Saks",
    "Danial Bourgeois",
    "Daniel Aronsson",
@@ -301,6 +297,7 @@ var speakers = [
    "Didier Verna",
    "Diego Franco",
    "Diego Perini",
+   "Diego Rodrigues-Losada",
    "Diego Rodriguez-Lopez",
    "Diego Rodriguez-Losada",
    "Dietmar Kuhl",
@@ -342,33 +339,25 @@ var speakers = [
    "Ewelina Wyspianska",
    "Ezra Chung",
    "F. Pikus",
-   "Fabian Renn Giles",
    "Fabian Renn-Giles",
    "Fabio Fracassi",
-   "Falcou",
-   "Falcou and Gaunard",
    "Fatih Bakir",
    "Fedor Alekseev",
    "Fedor Pikus",
-   "Fedor Pikus PART 1",
-   "Fedor Pikus PART 2",
-   "Felipe Almeida",
+   "Felipe Magno de Almeida",
    "Feliple Magno de Almeida",
    "Felix Petriconi",
    "Fergus Cooper",
    "Filip Olszewski",
    "Filip Wojcik",
-   "Filip van laenen",
+   "Filip van Laenen",
    "Filipp Gelman",
-   "Fishbowl Panel",
    "Florian Gilcher",
    "Florin Patan",
-   "Fran Buontempo",
    "Frances Buontempo",
    "Frank Birbacher",
    "Frank Grimm",
    "Fred Tingaud",
-   "Funqual",
    "G. Nishanov",
    "Gabor Horvath",
    "Gabor Marton",
@@ -377,13 +366,10 @@ var speakers = [
    "Gabriel Diaconita",
    "Gabriel Dos Reis",
    "Gabriela Limonta",
-   "Gaby Dos Reis",
    "Gail Ollis",
    "Gal Zaban",
    "Garth Gilmour",
-   "Gaspar Azman",
    "Gasper Azman",
-   "Geller",
    "Gen Ashley",
    "Gennadiy Rozental",
    "Geoffrey L. Viola",
@@ -420,10 +406,10 @@ var speakers = [
    "H. Carter Edwards",
    "H. Sowa",
    "H. Wright",
+   "Habraken",
    "Hadi Hariri",
    "Haggai Eran",
    "Hal Finkel",
-   "Halide",
    "Hana Dusikova",
    "Hans Boehm",
    "Harishankar Singh",
@@ -434,20 +420,16 @@ var speakers = [
    "Hilverd Reker",
    "Honey Sukesan",
    "Honggyu Kim",
-   "Hosted By Bryce Adelstein Lelbach",
-   "Hosted By Jon Kalb",
-   "Hosted by Ben Craig",
    "Howard Hinnant",
    "Hubert Matthews",
    "Huu Nguyen",
    "Hyrum Wright",
-   "Hyrum Wright Time Travel",
    "Ian Bell",
    "Ian Oliver",
    "Igor Vorobtsov",
    "Ilja Honkonen",
+   "Ilya Birylov",
    "Ilya Biryukov",
-   "Ilya Burylov",
    "Inbal Levi",
    "Ingve Vormestrand",
    "Isabella Muerte",
@@ -458,7 +440,6 @@ var speakers = [
    "Izabela Krupa",
    "J Daniel Garcia",
    "J. Bialek",
-   "J. Daniel Garcia",
    "J. Falcou",
    "J. McNellis",
    "J. Mola",
@@ -491,7 +472,9 @@ var speakers = [
    "Jason Rice",
    "Jason Turner",
    "Javier Estrada",
+   "Jean Falcou",
    "Jean Guegant",
+   "Jean Thierry Lapreste",
    "Jean-Louis Leroy",
    "Jean-Marc Gratien",
    "Jean-Michael Celerier",
@@ -500,7 +483,6 @@ var speakers = [
    "Jeff Preshing",
    "Jeff Snyder",
    "Jeff Trull",
-   "Jefferey",
    "Jefferson Amstutz",
    "Jefferson Carpenter",
    "Jeffrey Mendelsohn",
@@ -510,14 +492,12 @@ var speakers = [
    "Jeremy Siek",
    "Jeroen Habraken",
    "Jez Higgins",
+   "Jim Coplien",
    "Jim Hague",
    "Jim Radigan",
    "Jim Roper",
    "Jody Hagins",
    "Joel Falcou",
-   "Joel Falcou PART 1",
-   "Joel Falcou PART 2",
-   "Joel Falcou PART 3",
    "Joel de Guzman",
    "Johan Herland",
    "Johm Wyman",
@@ -567,7 +547,6 @@ var speakers = [
    "Justin Campbell",
    "Justin Lebar",
    "K. Sykes",
-   "Kale",
    "Kamil Subzda",
    "Kamil Szatkowski",
    "Kamil Witecki",
@@ -600,19 +579,17 @@ var speakers = [
    "Krzysztof Paprocki",
    "Kyle Lutz",
    "Kyle Markley",
-   "Lacassagne",
-   "Lapreste",
-   "Larisse Voufo",
    "Larisse Vuofo",
    "Lars Knoll",
    "Lawrence Crowl",
-   "Lelbach & Habraken",
+   "Laxmikant Kale",
+   "Lelbach",
    "Lenny Maiorani",
    "Leor Zolman",
    "Leor Zolman -",
    "Lesley Lai",
    "Lewis Baker",
-   "Lisa Lipincott",
+   "Lionel Lacassagne",
    "Lisa Lippincott",
    "Lorenzo Veneri",
    "Louis Brandy",
@@ -729,7 +706,6 @@ var speakers = [
    "Michael Walker",
    "Michael Wells",
    "Michael Wong",
-   "MichaelWong",
    "Michal Bartkowiak",
    "Michal Dominiak",
    "Michal Kowalczyk",
@@ -747,14 +723,11 @@ var speakers = [
    "Mike Spertis",
    "Mikhail Matrosov",
    "Milian Wolff",
-   "Miller",
    "Milosz Warzecha",
    "Miodrag Milanovic",
    "Miro Knejp",
    "Misha Shalem",
-   "Moderator",
    "Morris Hafner",
-   "Moth",
    "Nat Goodspeed",
    "Nat Pryce",
    "Natalia Oskina",
@@ -802,18 +775,14 @@ var speakers = [
    "Olivia Quinet",
    "Olivier Giroux",
    "Olivier Goffart",
-   "On 'simple' Optimizations",
    "Ondrej Dobias",
    "P. Goldsborough",
    "P. Khuong",
    "P. McKenney",
    "Pable Colapinto",
-   "Pablo Colapinto",
    "Pablo Halpern",
    "Pablo Ribalta",
    "Pan Deng",
-   "Panel",
-   "Panel Discussion hosted by Ben Saks",
    "Paolo Severini",
    "Patrice Roy",
    "Patricia Aas",
@@ -826,7 +795,7 @@ var speakers = [
    "Paul Blinzer",
    "Paul Cunnell",
    "Paul E. McKenney",
-   "Paul E. MecKenny",
+   "Paul E. McKenny",
    "Paul Fultz II",
    "Paul Grenyer",
    "Paul Hampson",
@@ -851,6 +820,7 @@ var speakers = [
    "Peter Sommerlad",
    "Peter Steinbach",
    "Petr Kudriavtsev",
+   "Phil Miller",
    "Phil Nash",
    "Philip Salvaggio",
    "Pierre-Henri Symoneaux",
@@ -875,6 +845,7 @@ var speakers = [
    "Rafal Lojek",
    "Rafal Pasek",
    "Rainer Grimm",
+   "Ramprasad Venkataraman",
    "Ran Regev",
    "Raphael Meyer",
    "Ravi Pinjala",
@@ -887,6 +858,7 @@ var speakers = [
    "Richard Powell",
    "Richard Saunders",
    "Richard Smith",
+   "Richard Sounders",
    "Richard Szalay",
    "Richard Thompson",
    "Rishi Wani",
@@ -931,7 +903,6 @@ var speakers = [
    "Sarah Smith",
    "Sas Luca",
    "Satabdi Das",
-   "Schaetz",
    "Schalk Cronje",
    "Scott Jones",
    "Scott Meyers",
@@ -955,7 +926,6 @@ var speakers = [
    "Sergey Zubkov",
    "Serhiy Kostyshyn",
    "Serj Biolkhatniuk",
-   "Sermersheim",
    "Shachar Langbeheim",
    "Sherri Shulman",
    "Shy Shalom",
@@ -964,15 +934,11 @@ var speakers = [
    "Simon Brand",
    "Simon Hausmann",
    "Simon Renger",
-   "Simonson",
    "Slawomir Zborowski",
-   "Sounders",
-   "Spirit",
    "Staffan Tjernstrom",
    "Stanislaw J. Dobrowolski",
    "Stanley Lippman",
    "Stefanus DuToit",
-   "Stephan Lavavej",
    "Stephan T. Lavavej",
    "Stephanie Hurlburt",
    "Stephen Dewhurst",
@@ -998,7 +964,6 @@ var speakers = [
    "Sven Over",
    "Sven Rosvall",
    "Sy Brand",
-   "Sydorchuk",
    "Sylvain Jubertie",
    "Sylwester Arabas",
    "Szymon Gutaj",
@@ -1041,9 +1006,7 @@ var speakers = [
    "Tomasz Melcer",
    "Tomasz Skowronski",
    "Tommy Bennett",
-   "Tondelli",
    "Tony Van Eerd",
-   "Tony Van Eerd Objects vs Values",
    "Tony Wasserka",
    "Travis Gockel",
    "Tristan Brindle",
@@ -1055,9 +1018,8 @@ var speakers = [
    "Valentin Ziegler",
    "Vassil Vassilev",
    "Venkat Subramaniam",
-   "Venkataraman",
-   "Verasani",
    "Vicente Botet",
+   "Vicente Botet Escriba",
    "Vicente J. Botet Escriba",
    "Victor Ciura",
    "Victor Komarov",
@@ -1078,7 +1040,6 @@ var speakers = [
    "Walter E Brown",
    "Walter E. Brown",
    "Walther Zwart",
-   "Wei Huang",
    "Weile Wei",
    "Willem van den Ende",
    "William Clements",
@@ -1107,23 +1068,18 @@ var speakers = [
    "Zoe Carver",
    "Zola Bridges",
    "Zoltan Porkolab",
-   "Zsolt Parragi",
-   "code_report",
-   "lkj",
-   "who the f**k is eric? by odin and the nerds",
-   "xyz"
+   "Zsolt Parragi"
 ]
 
 var titles = [
+   "",
    "  An Overview of C++11/14, Part I",
    "  Building and Extending the Iterator Hierarchy in a Modern, Multicore World",
    "  EA's Secret Weapon: Packages and Modules",
    "  Give me 15 minutes & I'll change your view of GDB",
    " #include <os>: from bootloader to REST API with the new C++",
    " 'Meaningful' casts",
-   " 'Modules in C++'",
    " 'Mostly Invalid': flat_map, Exception Guarantees, and the STL",
-   " 'Now What? A vignette in three parts'",
    " 'for_each_argument' explained and expanded",
    " 'static_if' in C++14",
    " (Ab)using C++17",
@@ -1155,7 +1111,6 @@ var titles = [
    " A First Look at Proto-0x",
    " A Fool's Consistency",
    " A Framework for RAD Spirit",
-   " A Language for Fast, Portable Computation on Images and Tensors - Alex Reinking - [] 20",
    " A Little Order: Delving into the STL sorting algorithms",
    " A Modern C++ Programming Model for GPUs using Khronos SYCL",
    " A Multithreaded, Transaction-Based Locking Strategy for Containers",
@@ -1201,6 +1156,7 @@ var titles = [
    " Advanced Levelization Techniques (part 3 of 3)",
    " Advanced Unit Testing in C & C++",
    " Agent based class design",
+   " Agent-based class design : a step towards betters customizations points",
    " Algorithm Design For Values Distributed In Time",
    " Algorithm Intuition",
    " Algorithm Intuition (part 1 of 2)",
@@ -1229,14 +1185,12 @@ var titles = [
    " An easy to use RPC framework implemented in C++11/14",
    " An example of applying variadic templates to C code",
    " An interview with Hartmut Kaiser and Scott Meyers",
-   " An open source code navigator for C++ based on LLVM/Clang - Gabor Horvath [CppCon 2016]",
    " Anatomy of a Smart Pointer",
    " Another fundamental shift in Parallelism Paradigm?",
    " Apex.AI: Safe and certified software for autonomous mobility -",
    " Applied Best Practices",
    " Applied Hierarchical Reuse: Capitalizing on Bloomberg's Foundation Libraries",
    " Applied WebAssembly: Compiling and Running C++ in Your Web Browser",
-   " Applying Gradual Typing to Time Types with Clang's LibTooling",
    " Applying functional programming in code design",
    " Are You Ready for IPv6?",
    " Are we ready for modules?",
@@ -1255,12 +1209,12 @@ var titles = [
    " Avoiding Disasters with Strongly Typed C++",
    " Avoiding Virtual Call in CRTP",
    " Axiomatic Programming: From Euclidean Deductions to C++ Templates and Beyond",
-   " Back to Basics: Const as a Promise",
    " Back to Basics: Exception Handling and Exception Safety",
    " Back to Basics: Move Semantics (part 1 of 2)",
    " Back to Basics: Move Semantics (part 2 of 2)",
    " Back to Basics: Smart Pointers",
    " Back to Basics: Test-driven Development",
+   " Back to Basics: Understanding Value Categories",
    " Back to Basics: Virtual Dispatch and its Alternatives",
    " Back to the Basics! Essentials of Modern C++ Style",
    " Back to the future",
@@ -1289,7 +1243,6 @@ var titles = [
    " Boost Your Program's Health by Adding Fibers to your Coroutine",
    " Boost.Asio and Boost.Serialization, Part I",
    " Boost.Asio and Boost.Serialization, Part II",
-   " Boost.Asio and Boost.Serialization: Design Patterns for Object Transmission",
    " Boost.Blockchain: A new business model for open source",
    " Boost.Compute: A library for GPU/parallel computing",
    " Boost.Dispatch -- Generalized Tag Dispatching Infrastructure Library",
@@ -1425,8 +1378,6 @@ var titles = [
    " Can I has grammar?",
    " Captioning and Translating C++ Videos - PART 1 of 2",
    " Catch ^: Unicode for C++23",
-   " Chandler Carruth",
-   " Chandler Carruth : Technical Specifications & C++17",
    " Channels - An alternative to callbacks and futures",
    " Choose proper container... automatically?",
    " Choosing an Abstraction",
@@ -1439,7 +1390,6 @@ var titles = [
    " Class Template Argument Deduction: A New Abstraction",
    " Class template argument deduction in C++17",
    " Closing Keynote: Undefined Behavior and Compiler Optimizations",
-   " Closing Panel: Spectre",
    " Co- and Contra-: Adding a Little Variance",
    " Code Generation: The Lisp Way",
    " Colonies, performance and why you should care",
@@ -1503,7 +1453,6 @@ var titles = [
    " Custom Overload Sets and Inline SFINAE for Truly Generic Interfaces",
    " Customization Points That Suck Less",
    " Customizing the Standard Containers",
-   " Dan Quinlan: C++ Use in High Performance Computing Within DOE: Past and Future",
    " Dangling in French and English",
    " Data Structure Visualizers in Visual Studio 2010",
    " Data-Oriented Design and C++",
@@ -1603,13 +1552,15 @@ var titles = [
    " Exceptional Performance",
    " Exceptions Demystified",
    " Executors for C++ - A Long Story ...",
+   " Expect the Expected",
    " Expect the expected",
    " Experiences in Teaching Modern C++ to Beginners",
    " Experiences with Facebook's C++ library",
-   " Expression Templates - Past, Present, Future",
+   " Expression Templates - Past, Present, Future (PART 1 )",
    " Expression Templates Everywhere with C++14 and Yap",
    " Expression Templates for Efficient, Generic Finance Code'",
-   " Expression Templates: Past, Present, Future",
+   " Expression Templates: Past, Present, Future (PART 2)",
+   " Expression Templates: Past, Present, Future (PART 3)",
    " Extending C++ with Co-Array semantics",
    " Extreme Type Safety with Opaque Typedefs",
    " FPGA and open hardware",
@@ -1639,6 +1590,7 @@ var titles = [
    " Friendship in Service of Testing",
    " From Algorithm to Generic, Parallel Code",
    " From Functions to Coroutines",
+   " From Iterators To Ranges - The Upcoming Evolution Of the Standard Library",
    " From Numerical Cosmology to Efficient Bit Abstractions for the Standard Library",
    " From Parsing to sema: Making Sense of Syntax Trees",
    " From STL to Ranges: Using Ranges Effectively",
@@ -1653,6 +1605,7 @@ var titles = [
    " Functional Geometry: Producing Pure Spaces",
    " Functional Programming in C++",
    " Functional Reactive Programming - Cleanly Abstracted Interactivity",
+   " Functional programming in C++",
    " Functional programming: functors and monads",
    " Functions Want To Be Free",
    " Future C++1x proposals",
@@ -1703,7 +1656,7 @@ var titles = [
    " Haskell Design Patterns for Genericity & Asynchronous Behavior",
    " Haskell taketh away: limiting side effects for parallel programming",
    " Heaptrack: A Heap Memory Profiler for Linux",
-   " Hello World From Scratch'",
+   " Hello World From Scratch",
    " Heterogeneous System Architecture - Why Should You Care?",
    " Hey C, This Is What Performance Looks like'",
    " High Performance C++ Concurrent Transactional Data Structures",
@@ -1712,7 +1665,6 @@ var titles = [
    " Higher-order Functions in C++: Techniques and Applications",
    " Higher-order functions and 'function_ref'",
    " Higher-order functions in Modern C++: existing techniques and function_ref",
-   " History and Evolution - Joel de Guzman & Hartmut Kaiser [ BoostCon 2010 ]",
    " Hourglass Interfaces for C++ APIs",
    " How C++ Debuggers Work",
    " How C++20 changes the way we write code",
@@ -1747,7 +1699,6 @@ var titles = [
    " IIFE in C++ for Performance and Safety",
    " ISO/IEC 14882",
    " Identifying Monoids: Exploiting Compositional Structure in Code",
-   " If I Had My 'Druthers: A Proposal for Improving the Containers in C++2x",
    " If You Can't Open It, You Don't Own It",
    " If you're arguing, you're losing",
    " Implementation of a component-based entity system in modern C++",
@@ -1842,7 +1793,8 @@ var titles = [
    " Lightweight Object Persistence With Relocatable Heaps in Modern C++",
    " Linear Algebra for the Standard C++ Library",
    " Linear programming made easy with Boost Proto",
-   " Live Lock-Free or Deadlock (Practical Lock-free Programming)",
+   " Live Lock-Free or Deadlock (Practical Lock-free Programming) (PART 1)",
+   " Live Lock-Free or Deadlock (Practical Lock-free Programming) (PART 2)",
    " Local ('Arena') Memory Allocators (part 1 of 2)",
    " Local ('Arena') Memory Allocators (part 2 of 2)",
    " Local (Arena) Memory Allocators",
@@ -1895,6 +1847,7 @@ var titles = [
    " Metaprogramming for dummies",
    " Metaprogramming for the brave",
    " Metaprogramming with Boost.Hana: Unifying Boost.Fusion and Boost.MPL",
+   " Microcontrollers in Micro-increments A Test-driven C++ Workflow",
    " Microcontrollers in Micro-increments...",
    " Microsoft w/ C++ to Deliver Office Across Different Platforms, Part I",
    " Microsoft w/ C++ to Deliver Office Across Different Platforms, Part II",
@@ -1921,6 +1874,7 @@ var titles = [
    " Modern generic programming using the Tick and Fit libraries",
    " Modern special function register abstraction",
    " Modernizing Legacy C++ Code",
+   " Modules in C++",
    " Monoids, Monads, and Applicative Functors: Repeated Software Patterns",
    " Moving Boost to Git",
    " Moving Faster: Everyday Efficiency in Modern C++",
@@ -1959,6 +1913,7 @@ var titles = [
    " No raw std::thread! - Live Tweet Analysis in C++",
    " Non-Allocating std::future/promise",
    " Non-conforming C++: the Secrets the Committee Is Hiding From You",
+   " Now What? A vignette in three parts",
    " Numerical Weather Prediction: Facing the Future with C++",
    " ODB, an ORM for C++(11)",
    " OOP Is Dead, Long Live Data-oriented Design",
@@ -2003,7 +1958,7 @@ var titles = [
    " Pimp my Log()",
    " Pimpl idiom, multiple Inheritance and facet pattern",
    " Placement New",
-   " Poetry -",
+   " Poetry",
    " Points of Order",
    " Polymorphic Task",
    " Polymorphism != Virtual: Easy, Flexible Runtime Polymorphism Without Inheritance",
@@ -2135,6 +2090,7 @@ var titles = [
    " Some Programming Myths Revisited",
    " Sorting in less than O(n log n): Generalizing and optimizing radix sort",
    " Source Instrumentation for Monitoring C++ in Production",
+   " Spectre",
    " Spectre: Secrets, Side-Channels, Sandboxes, and Security",
    " Speed Is Found In The Minds of People",
    " Spirit.Qi in the Real World",
@@ -2158,6 +2114,7 @@ var titles = [
    " Talk to me! The art of reporting a bug (and handling the feedback)",
    " Talking to Typelists",
    " Teaching Old Compilers New Tricks: Transpiling C++17 to C++11",
+   " Technical Specifications & C++17",
    " Technical documentation is a backup so make sure it works",
    " Techniques in Flexible Header-Only C++ Network Library Implementations",
    " Template Normal Programming (part 1 of 2)",
@@ -2275,6 +2232,7 @@ var titles = [
    " Toward Native XML Processing Using Multi-paradigm Design in C++",
    " Towards Heterogeneous Programming in C++",
    " Towards Painless Testing",
+   " Towards contract programming in C++",
    " Transactional Memory in Practice",
    " Transducers: from Clojure to C++",
    " Traveling the Solar System with C++: Programming Rocket Science",
@@ -2286,6 +2244,7 @@ var titles = [
    " Type Deduction and Why You Care",
    " Type Deduction in C++14",
    " Type Punning in C++17: Avoiding Pun-defined Behavior",
+   " Type Traits - what are they and why should I use them?",
    " Type punning in modern C++",
    " Type to string conversions, and vice-versa",
    " Type-safe Programming",
@@ -2330,7 +2289,6 @@ var titles = [
    " Using type_traits and constexpr to make code more readable/debuggable",
    " Using weakly ordered C++ atomics correctly",
    " Ustring -- A Modern Alternative to std::string",
-   " Value Oriented Programming in an Object Oriented World",
    " Value Proposition: Allocator-Aware (AA) Software",
    " Value Semantics and Concepts-based Polymorphism",
    " Value Semantics and Range Algorithms - Composability and Efficiency",
@@ -2400,7 +2358,6 @@ var titles = [
    " Work Stealing",
    " Workflow Modeling with Boost Graph Library",
    " Workflow hacks for developers",
-   " Working on Large Code Bases",
    " Writing A Python Interpreter for Fun & Profit",
    " Writing Data Parallel Algorithms on GPUs",
    " Writing Good C++14",
@@ -2434,7 +2391,7 @@ var titles = [
    " folly::Function: A Non-copyable Alternative to std::function",
    " for_each_adjacent<N>",
    " functional: What's New, And Proper Usage",
-   " generic-programming-with-concepts",
+   " generic programming with concepts",
    " keynote speakers interview",
    " libcppa -- Designing an Actor Semantic for C++11",
    " mqtt_cpp: Boost.Asio based mqtt communication library",
@@ -2460,7 +2417,6 @@ var titles = [
    " tuple<>: What's New and How it Works",
    " uftrace: A function graph tracer for C/C++ userspace programs",
    " unsigned: A Guideline for Better Code",
-   " user-defined statically-checked call graph constraints in C++ - Andrew Nelson [CppCon 2018]",
    " yet another paradigm shift (yaps) -- (A Meta4 model of concurrency)",
    " yomm2: Fast, Orthogonal, Open Methods in a Library",
    "#Hashing",
@@ -2488,9 +2444,9 @@ var titles = [
    "A Composable Command Line Parser",
    "A Comprehensive Introduction to Rust",
    "A Conversion Story: Improving from_chars and to_chars in C++17",
-   "A Crash Course in Unicode for C++ Developers ",
+   "A Crash Course in Unicode for C++ Developers",
    "A Day of Deliberate Practice",
-   "A Few Gentle Rules (*) but One in Particular ",
+   "A Few Gentle Rules (*) but One in Particular",
    "A Glimpse of Trygve: From Class-oriented Programming to Real OO",
    "A Meta-pipeline for Generating Continuous Delivery Pipelines for Microservices",
    "A Multi-threaded, Transaction-Based Locking Strategy for Containers",
@@ -2503,7 +2459,7 @@ var titles = [
    "A Relaxed Guide to memory_order_relaxed",
    "A Series of Unfortunate Bugs",
    "A Short Life span For a Regular Mess",
-   "A Simple GUI Programming Setup for Beginners ",
+   "A Simple GUI Programming Setup for Beginners",
    "A State of Compile Time Regular Expressions",
    "A Taste of Julia",
    "A Test of Strength",
@@ -2536,7 +2492,7 @@ var titles = [
    "Adding a New clang-tidy Check by the Practice",
    "Advanced Tools for Better Productivity",
    "Adventures In Updating A Legacy Codebase",
-   "Adventures in SIMD-Thinking ",
+   "Adventures in SIMD-Thinking",
    "Adventures in SIMD-Thinking (part 1 of 2)",
    "Adventures in SIMD-Thinking (part 2 of 2)",
    "Agile the hard(ware) way",
@@ -2548,13 +2504,14 @@ var titles = [
    "Algorithmic Architecture: Performant Architecture in Evolving Regulatory Environments",
    "Algorithmic and microarchitecture optimizations of C++ applications",
    "Algorithms and Iterators for Multidimensional Arrays",
-   "Algorithms from a Compiler Developer's Toolbox ",
+   "Algorithms from a Compiler Developer's Toolbox",
    "Alices adventures in Template Land",
    "All the defaults are backwards",
    "Allocator-Aware (AA) Software",
    "Alternate Priorities",
    "An Adventure in Race Conditions",
    "An Agile (hi)story",
+   "An Allocator is a Handle to a Heap - Arthur O'Dwyer - []",
    "An Alternative Approach To Customization Points: Type Classes",
    "An Introduction to C++ Coroutines",
    "An Introduction to C++20's Concepts",
@@ -2566,14 +2523,13 @@ var titles = [
    "An introduction to Kotlin by example",
    "Analyzing Configuration of Cellular Networks at Nokia with Apache Hadoop, Apache SPARK and Presto SQL",
    "Anchored metadata",
-   "Answering a Question From My Talk... ",
+   "Answering a Question From My Talk...",
    "Anything can be a Constexpr if you try hard enough",
    "Applied constexpr",
    "Architecture is (not) everything",
    "Are We Macro-free Yet?",
    "Are you Open enough to Innovate? ;)",
    "Arguments over Arguments you already know this...",
-   "Arthur O'Dwyer: An Allocator is a Handle to a Heap",
    "Associative containers",
    "Assume Worst Intent (Designing for the Abusive Ex)",
    "Async... oh, wait",
@@ -2596,6 +2552,7 @@ var titles = [
    "Back to Basics: Algebraic Data Types",
    "Back to Basics: Class Layout",
    "Back to Basics: Concurrency",
+   "Back to Basics: Const as a Promise",
    "Back to Basics: Design Patterns",
    "Back to Basics: Exceptions",
    "Back to Basics: Function and Class Templates",
@@ -2619,13 +2576,12 @@ var titles = [
    "Become A Game Developer In 5 Minutes Or Less",
    "Become a GDB Power User",
    "Behind Enemy Lines - Reverse Engineering C++ in Modern Ages",
-   "Ben Saks : Back to Basics: Understanding Value Categories",
    "Benchmarking C++, From video games to algorithmic trading",
    "Benchmarking in C++",
    "Best Practices for Concurrency",
    "Best practices when accessing Big Data or any other data!",
    "Better Algorithm Intuition",
-   "Better C++ Ranges ",
+   "Better C++ Ranges",
    "Better C++14 reflections",
    "Better CTAD for C++20",
    "Better Code",
@@ -2640,6 +2596,7 @@ var titles = [
    "Bluff your way in x64 assembler",
    "Bob Steagall: Fast Conversion From UTF-8 with C++, DFAs, and SSE Intrinsics",
    "Boost statechart visualisation",
+   "Boost.Asio and Boost.Serialization: Design Patterns for Object Transmission",
    "Boost.Geometry takes on the globe",
    "Boosting knowledge sharing",
    "Bootstrapped by Boost",
@@ -2683,7 +2640,7 @@ var titles = [
    "C++ Dependency Management the Meson Way",
    "C++ Design Patterns: From C++03 to C++17",
    "C++ Function Templates: How Do They Really Work?",
-   "C++ Insights: How Stuff Works, Lambdas and More! ",
+   "C++ Insights: How Stuff Works, Lambdas and More!",
    "C++ Insights: How stuff works, Lambdas and more!",
    "C++ Mixins",
    "C++ Modules and Large-Scale Development",
@@ -2701,6 +2658,7 @@ var titles = [
    "C++ Templates Revised",
    "C++ Today: The Beast is Back",
    "C++ Today: The beast is back",
+   "C++ Use in High Performance Computing Within DOE: Past and Future",
    "C++ WAT (LT)",
    "C++ and Memory: Between Correctness and Performance",
    "C++ and Objective C++ Gotachs",
@@ -2718,7 +2676,7 @@ var titles = [
    "C++, QML and static reflection",
    "C++11 Multithreading done right?",
    "C++11 library components to make a scientist happy",
-   "C++11/14 at Scale: What Have We Learned? ",
+   "C++11/14 at Scale: What Have We Learned?",
    "C++17 - The Best Features",
    "C++17 - The Biggest Traps",
    "C++17 in Breadth (part 1 of 2)",
@@ -2745,8 +2703,8 @@ var titles = [
    "C++: lambda Demystified",
    "C/C++ vs Security!",
    "CLANG + C2 - Engineering/Futures/Measurements",
-   "CMake + Conan: 3 Years Later ",
-   "CMake: One Tool To Build Them All ",
+   "CMake + Conan: 3 Years Later",
+   "CMake: One Tool To Build Them All",
    "CPU Caches And Why You Care",
    "CPU design effects",
    "CPU optimized data structures - more fun with assembler",
@@ -2767,7 +2725,7 @@ var titles = [
    "Clang-based Refactoring, or How to Refactor Millions of Line of Code Without Alienating your Colleagues",
    "Clang-tidy: Write Your Own Linting Tool",
    "Class Template Argument Deduction in C++17",
-   "Classes With Many Fields ",
+   "Classes With Many Fields",
    "Clean Coders Hate What Happens To Your Code When You Use These Enterprise Programming Tricks",
    "Clean Integral Code",
    "Clean code in Go",
@@ -2777,13 +2735,14 @@ var titles = [
    "Cloud Business Solution Increasing Supply Chain Profitability",
    "Cloud Native C++: Modern architecture for modernized language",
    "Coarse grained application composition using Pipelines and Buses",
-   "Code Analysis++ ",
+   "Code Analysis++",
    "Code History Analysis and Visualization",
    "Code Review Process",
    "Code Reviews - Why, what and how",
    "Code Reviews: Why, What and How",
    "Code Samples That Compile Even More Easily",
    "Code Samples that Actually Compile",
+   "CodeCompass: An open source code navigator for C++ based on LLVM/Clang",
    "Collaborative C++ Development with Visual Studio Code",
    "Combine Lambdas and weak_ptrs to make concurrency easy",
    "Combining C++17 Features",
@@ -2796,7 +2755,7 @@ var titles = [
    "Compile time regular expressions",
    "Compile-time contract checking with nn",
    "Compile-time tools supporting generic programming in C++",
-   "Complecting Made Easy ",
+   "Complecting Made Easy",
    "Computer Architecture, C++, and High Performance",
    "Comunicazione real-time con WebRTC in C++",
    "Concept Based Testing",
@@ -2824,7 +2783,7 @@ var titles = [
    "Contracts for Dependable C++",
    "Contracts programming after C++17",
    "Convergent Evolution",
-   "Converting a State Machine to a C++ 20 Coroutine ",
+   "Converting a State Machine to a C++ 20 Coroutine",
    "Core Principles And Practices For Creating Lightweight Design",
    "Coroutine TS a new way of thinking",
    "Coroutines and C++ DSLs for Human Scale Concurrency",
@@ -2841,9 +2800,9 @@ var titles = [
    "Crowd Review",
    "Cryptography for Programmers",
    "Customization points that suck less",
-   "Cyclomatic Complexity pmccabe as a Refactor Aid ",
+   "Cyclomatic Complexity pmccabe as a Refactor Aid",
    "DNS at 30",
-   "Dashboards to the Rescue ",
+   "Dashboards to the Rescue",
    "Data in the Type System: Complex Non-Type Template Parameters in C++20",
    "Data oriented design in practice",
    "Data-Oriented Design for Object-Oriented Programmers",
@@ -2872,9 +2831,9 @@ var titles = [
    "Design Patterns for Handling/Reporting Errors in C++ - Parallel Algorithms & Executors",
    "Design Patterns in Modern C++",
    "Design and Evolution of cyber-dojo",
-   "Designated Initializers: Remembering Every Struct Member in Declaration Order Is Hard ",
+   "Designated Initializers: Remembering Every Struct Member in Declaration Order Is Hard",
    "Designing A Feature That Doesn't Fit",
-   "Designing Concurrent C++ Applications ",
+   "Designing Concurrent C++ Applications",
    "Designing a Unified Interface for Execution",
    "Designing and Implementing a new Allocator model",
    "Designing for beginners: Simple graphics, a case study",
@@ -2894,7 +2853,7 @@ var titles = [
    "Diversity & Inclusivity in Tech",
    "Diving into a large, legacy code::base as a youngster",
    "Documentation for software developers",
-   "Don't constexpr All the Things ",
+   "Don't constexpr All the Things",
    "Dr Module and Sister #include",
    "Dragging C++ into the Modern era",
    "Drinking from the Fire Hose: Keeping up with the evolving landscape of C++",
@@ -2932,8 +2891,9 @@ var titles = [
    "Evolutionary Algorithms in Practice",
    "Exceptions Under the Spotlight",
    "Executors in C++",
-   "Executors: The Art of Generating Composable APIs ",
-   "Exhuming 'Castlequest' ",
+   "Executors: The Art of Generating Composable APIs",
+   "Exhuming 'Castlequest'",
+   "Expected- An exception-friendly Error Monad",
    "Experience from Feature Toggling Platform implementation",
    "Experimental Comparison Of Software Development Methods On A Commercial Project For The Industry",
    "Exploration of C++20 Meta Programming",
@@ -2958,14 +2918,14 @@ var titles = [
    "Fighting the controls: tragedy and madness for pilots and programmers",
    "Finally Executors for C++",
    "Finding Bugs with Clang at Compile and Run Time",
-   "Finding Nemo, or Evolution of a for Loop ",
+   "Finding Nemo, or Evolution of a for Loop",
    "Finding Strings in Large Files",
    "Finding hard to find bugs with Address Sanitizer",
    "Fixing C++ with Epochs",
    "Formatting floating-point numbers",
-   "FourCCs Done Right ",
+   "FourCCs Done Right",
    "Free your functions!",
-   "Frictionless Allocators ",
+   "Frictionless Allocators",
    "From Algorithm to Generic, Parallel Code",
    "From Functional to Parallel: Stochastic Modeling in C++",
    "From Iterators To Ranges - The Upcoming Evolution Of the Standard Library",
@@ -2987,6 +2947,7 @@ var titles = [
    "Functional Programming? Technical Reasons To Adapt",
    "Functional reactive programming in C++",
    "Fundamentals Of Type-Dependent Code Reuse",
+   "Funqual: user-defined statically-checked call graph constraints in C++",
    "Future Of Communications: Nokia Bell Labs Perspective",
    "Fuzzing Class Interfaces for Generating and Running Tests with libFuzzer",
    "GPU programming with modern C++",
@@ -3016,6 +2977,7 @@ var titles = [
    "HTTP/2 - The Future Of WWW",
    "Hacker's guide to Rust Programming",
    "Hacker's guide to Web Assembly",
+   "Halide: A Language for Fast, Portable Computation on Images and Tensors",
    "Hardware Aided Computing",
    "Hate yourself? Keep using Python 2",
    "Have Fun And Learn Kotlin",
@@ -3034,7 +2996,7 @@ var titles = [
    "Higher-order functions and function_ref",
    "Highlighting C++ with C++ is... Hard",
    "History of Time: Asynchronous C++",
-   "Homogenous Variadic Functions - A Lightning-Library Approach in ~11.54 sec/LOC ",
+   "Homogenous Variadic Functions - A Lightning-Library Approach in ~11.54 sec/LOC",
    "Hook: The C++ library you were waiting for",
    "How C++ Debuggers work",
    "How C++20 Can Simplify std::tuple",
@@ -3075,7 +3037,7 @@ var titles = [
    "How to use correctly the const qualifier?",
    "How to write a programming language",
    "How to write more reliable code",
-   "How to: Colony ",
+   "How to: Colony",
    "Howling at the Moon: Lua for C++ Programmers",
    "Hunter, a CMake driven package manager for C/C++ projects",
    "Hypercritical C++ Code Review",
@@ -3086,6 +3048,7 @@ var titles = [
    "ISO/IEC 14882",
    "IT Support A.k.a. Disservice (LT)",
    "Identifying Monoids: Exploiting Compositional Structure in Code",
+   "If I Had My 'Druthers: A Proposal for Improving the Containers in C++2x",
    "If You Build It, Will They Come?",
    "If You're Happy and You Know It (Inside the Mind of a Developer)",
    "Implementation of a multithreaded compile-time ECS in C++14",
@@ -3106,7 +3069,7 @@ var titles = [
    "Intel Graphics Technology for general purpose computing",
    "Intelligent Application Configuration Data Management",
    "Interactive C++ : Meet Jupyter / Cling - The data scientist's geeky younger sibling",
-   "Interactive C++ in a Jupyter Notebook Using Modules for Incremental Compilation ",
+   "Interactive C++ in a Jupyter Notebook Using Modules for Incremental Compilation",
    "Interactive Metaprogramming Shell based on Clang",
    "Interconnection security - SS7 and diameter",
    "Internet Of Things. Building Machine Vision System Supported By Artificial Intelligence",
@@ -3133,7 +3096,7 @@ var titles = [
    "Is your Agile agile?",
    "It's DNS, Jim, but not as we know it",
    "It's People! Code is made out of people!",
-   "Iterators and Ranges: Comparing C++ to D to Rust ",
+   "Iterators and Ranges: Comparing C++ to D to Rust",
    "JSR-385: Learning from the 125 Million Dollar Mars Climate Orbiter Mistake",
    "JavaScript can get faster, WebAssembly can get even faster",
    "JavaScript from C++ developer perspective (LT)",
@@ -3166,7 +3129,7 @@ var titles = [
    "Let's Not Repeat the Mistakes of SOA: 'Micro' Services, Macro Organisational, Architectural and Operational Challenges",
    "Let's cmakeify the C++ standard library",
    "Let's make a telegram bot with C++",
-   "Library Approaches for Strong Type Aliases ",
+   "Library Approaches for Strong Type Aliases",
    "Lifetime and Ownership - Ownership is Decided Locally",
    "Linear Types",
    "Link compatibility",
@@ -3197,7 +3160,6 @@ var titles = [
    "Making sense of terrible template errors with 'camomilla'",
    "Managarm: A Fully Asynchronous OS Based on Modern C++",
    "Managing C++ Build Complexity Using Cuppa: A SCons-based Build System",
-   "Marshall Clow : Type Traits - what are they and why should I use them?",
    "Mastering Git's index",
    "Mastering the IoT with C++ and JavaScript",
    "Memory Resources in a Heterogeneous World",
@@ -3255,15 +3217,16 @@ var titles = [
    "Not Leaving Performance On The Jump Table",
    "Nothing is better than copy or move",
    "Numbers",
-   "Numerical Differentiation ++ ",
+   "Numerical Differentiation ++",
    "ODB, Advanced Weapons and Tactics",
    "OO Considered Harmful",
    "OSM Scout library - Swiss knife for geographic data (in C++)",
    "Object-Oriented Program: Best Practices",
+   "Objects vs Values: Value Oriented Programming in an Object Oriented World",
    "Objects? No Thanks!",
-   "Odin Holmes",
    "Oh No! More Modern CMake",
-   "One Friend Ain't Enough ",
+   "On 'simple' Optimizations",
+   "One Friend Ain't Enough",
    "Optimally Shooting Furry Balls out of Vulkanoes",
    "Optimising a small real-world C++ application",
    "Optimizing Generic Algorithms",
@@ -3279,7 +3242,7 @@ var titles = [
    "Parallel Algorithms",
    "Parallel Computing Visualization",
    "Parallel Design Patterns and Stream Parallelism",
-   "Parallelism on Ranges: Should We? ",
+   "Parallelism on Ranges: Should We?",
    "Passwords. Are. Not. Hard!",
    "Phantastic Code Smells and where to find them",
    "Pipes: How Plumbing Can Make Your C++ Code More Expressive",
@@ -3290,7 +3253,7 @@ var titles = [
    "Plenary: The Beauty and Power of 'Primitive' C++",
    "Pointless Pointers - How to make our interfaces efficient?",
    "Policy-based design in C++20",
-   "Polymorphism A La Carte ",
+   "Polymorphism A La Carte",
    "Post(er)modern C++",
    "Postmodern Meta C++",
    "Postmodern immutable data structures",
@@ -3300,9 +3263,9 @@ var titles = [
    "Practical Code Review using tools",
    "Practical Memory Pool Based Allocators For Modern C++",
    "Practical Performance Practices Revisited",
-   "Practical TMP: A C++17 Compile Time Register Machine ",
+   "Practical TMP: A C++17 Compile Time Register Machine",
    "Practical constexpr",
-   "Preconditions, Postconditions, Invariants: How They Help Write Robust Programs ",
+   "Preconditions, Postconditions, Invariants: How They Help Write Robust Programs",
    "Preconditions, postconditions, invariants - how they help write robust programs",
    "Predictive Models of Development Teams and the Systems they Build",
    "Procedural Programming: It's Back? It Never Went Away",
@@ -3376,11 +3339,11 @@ var titles = [
    "SG14 (the GameDev & low latency ISO C++ working group)",
    "SG14: The Story So Far",
    "SICP Cover Demystified",
-   "SOLID, Revisited ",
+   "SOLID, Revisited",
    "SObjectizer: a C++ tool for Concurrent Programming",
    "STATIC_WARN",
    "STL Algorithms - How to Use Them and How to Write Your Own",
-   "STL Algorithms as Expressions ",
+   "STL Algorithms as Expressions",
    "SW compatibility, plan it or face eventual consequences",
    "SYCL building blocks for C++ libraries",
    "Safe and Sane C++ Types",
@@ -3390,7 +3353,7 @@ var titles = [
    "Secure by Design - Security Principles for the Working Developer",
    "Seeing The Bigger Picture -- Part 1",
    "Seeing The Bigger Picture -- Part 2",
-   "Semantic Sugar: Tips for Effective Template Library APIs ",
+   "Semantic Sugar: Tips for Effective Template Library APIs",
    "Serialization in C++ has never been easier! But wait, there's more...",
    "Serverless Containers with KEDA",
    "Seven Languages in 90 Minutes",
@@ -3398,8 +3361,8 @@ var titles = [
    "Should I care about CPU cache?",
    "Simple Solutions for High Performance: StaticFlatMap",
    "Simple, Extensible Pattern Matching in C++14",
-   "Simplest Safe Integers ",
-   "Simplest Strong Typing instead of Language Proposal ( P0109 ) ",
+   "Simplest Safe Integers",
+   "Simplest Strong Typing instead of Language Proposal ( P0109 )",
    "Simplicity: not just for beginners",
    "Simplifying control flow",
    "Simply the Best: Optimising with an Evolutionary Computing Framework",
@@ -3410,7 +3373,7 @@ var titles = [
    "Smart References: There and Back Again",
    "Snakes Into Snake Oil - What Blockchains Are And Why They're Terrible",
    "Snowden and the Snoopers - a.k.a. One persons's surveillance state is another's sensible precaution",
-   "So You Think You Know How to Work With Concepts? ",
+   "So You Think You Know How to Work With Concepts?",
    "Socializing with {fmt}",
    "Software Architecture",
    "Software Architecture: Living Structure, Art or Just Hopeful Arrangements of Bytes?",
@@ -3425,6 +3388,7 @@ var titles = [
    "Spectre/C++",
    "Speeding up Preprocessor",
    "Sphinx won't bite you! Documenting Python code",
+   "Spirit: History and Evolution",
    "Spread the LOVE for IoT - How I created a full day IoT workshop",
    "Sqlpp11, An EDSL For Type-Safe SQL In C++11",
    "Squaring the circle: value-oriented design in an object-oriented system",
@@ -3433,7 +3397,7 @@ var titles = [
    "Starting and Running C++ User Groups",
    "Statistical scientific programming OO patterns: accumulators",
    "Status quo: clang-tidy & AddressSanitizer on Windows",
-   "Stdfwd - Forward Declarations for C++ Standard Library ",
+   "Stdfwd - Forward Declarations for C++ Standard Library",
    "Story of autonomous drone racing",
    "StringViews, StringViews everywhere!",
    "Striving for ultimate low latency",
@@ -3447,27 +3411,27 @@ var titles = [
    "Structured logging",
    "Superscopes: Local, global... is there any more?",
    "Support For Embedded Programming In C++11 And C++14",
-   "Surveying the C++ Community ",
-   "Surveying the Community - What Could Possibly Go Wrong ",
+   "Surveying the C++ Community",
+   "Surveying the Community - What Could Possibly Go Wrong",
    "Swift Driven Development",
    "Swift for the Curious",
    "TDD is not about testing - C++ version",
    "Tailored static tooling using Clang: Clazy",
    "Take your microservices to the next level with gRPC",
-   "Taking Template Classes Further with Opaque Types & Generic NTTPs ",
+   "Taking Template Classes Further with Opaque Types & Generic NTTPs",
    "Tales of C, the 6502 and the BBC (with added python)",
    "Taming Dynamic Memory - An Introduction to Custom Allocators",
    "Taming dynamic memory",
    "Taming dynamic memory - An introduction to custom allocators in C++",
    "Taming the performance Beast",
    "Tarifa... Tarifa, Wroclaw here, Roger! How to work effectively being remote",
-   "Taskflow: A Heterogeneous Task Graph Programming System with Control Flow - Tsung",
+   "Taskflow: A Heterogeneous Task Graph Programming System with Control Flow",
    "Taskflow: A Parallel and Heterogeneous Task Programming System Using Modern C++",
    "Teach Your Computer to Code FizzBuzz",
    "Teaching Modern Software Engineering Practices in an Academic Environment",
    "Teaching Old Compilers New Tricks: Transpiling C++17 to C++11",
    "Teaching old compilers new tricks",
-   "Techniques for Overloading any_invocable ",
+   "Techniques for Overloading any_invocable",
    "Techniques for mocking in C++",
    "Tell Me Lies, Tell Me Lies, Tell Me Sweet Little Lies",
    "Template Metaprogramming: Type Traits (part 1 of 2)",
@@ -3487,14 +3451,14 @@ var titles = [
    "The Badlands of C++: Professional Game Development",
    "The Business Value of a Good API",
    "The C++ Memory Model",
-   "The C++ Rvalue Lifetime Disaster ",
+   "The C++ Rvalue Lifetime Disaster",
    "The C++ Type System Is Your Friend",
    "The C++20 Firehose Talk",
    "The C++20 Synchronization Library",
    "The C++20 Synchrononization Library",
    "The Clacks in Discworld and Roundworld",
-   "The Complete Guide to 'return x;' ",
-   "The Concepts of concepts ",
+   "The Complete Guide to 'return x;'",
+   "The Concepts of concepts",
    "The Cost Of 64-bit Pointers",
    "The D Language, or The Art of Going Meta",
    "The Dawn Of A New Error",
@@ -3522,12 +3486,11 @@ var titles = [
    "The MirAL Story",
    "The Networking TS from Scratch: I/O Objects",
    "The Numerical Template Toolbox for High Performance Computing",
-   "The Performance Price of Dynamic Memory in C++ ",
+   "The Performance Price of Dynamic Memory in C++",
    "The Perils of Implementing Code from PDFs",
    "The Plural of Anecdote is not Test Suite",
    "The Programmer CEO, and how to do a software startup",
    "The Quest For A Better Crash",
-   "The Quest For A Better Crash ",
    "The Science of Unit Tests",
    "The Secret Life of Numbers",
    "The Set Of Natural Code",
@@ -3541,7 +3504,7 @@ var titles = [
    "The Taming Of The Software: C++, Embedded... And More",
    "The Three Little Dots and the Big Bad Lambdas",
    "The Truth of a Procedure",
-   "The Worst Best Practices ",
+   "The Worst Best Practices",
    "The amazing disappearing, reappearing trigraphs...",
    "The art of keeping your project from falling apart",
    "The better parts",
@@ -3590,6 +3553,7 @@ var titles = [
    "Three Cool Things About D",
    "Three years of Rust - A look around",
    "Time Travel Debugging",
+   "Time Travel: Applying Gradual Typing to Time Types with Clang's LibTooling",
    "Time brings all things to pass",
    "Time gentlemen please",
    "To Poly or Not To Poly",
@@ -3611,7 +3575,7 @@ var titles = [
    "Type safe C++ - LOL! :-)",
    "Typing types at type level",
    "UI prototyping and development for multiple devices in C++",
-   "UT - C++20 Unit Testing Framework ",
+   "UT - C++20 Unit Testing Framework",
    "Ultimate Copy Elision",
    "Undefined Behavior is Not an Error",
    "Undefined Behaviour Is Awesome! Understanding C++ Guarantees And Optimizations Limitations",
@@ -3622,9 +3586,9 @@ var titles = [
    "Unicode: Going Down the Rabbit Hole",
    "Unicorns",
    "Unit Testing: Prefer Children Over Friends",
-   "Universal Function Call Syntax in C++20 ",
-   "Using Concepts: C++ Design in a Concept World (part 1 of 2) ",
-   "Using Concepts: C++ Design in a Concept World (part 2 of 2) ",
+   "Universal Function Call Syntax in C++20",
+   "Using Concepts: C++ Design in a Concept World (part 1 of 2)",
+   "Using Concepts: C++ Design in a Concept World (part 2 of 2)",
    "Using Deep Learning to hunt Optical Counterparts to Gravitational Wave events",
    "Using Integers as Arrays of Bitfields a.k.a. SWAR Techniques",
    "Using Template Magic to Automatically Generate Hybrid CPU/GPU-Code",
@@ -3635,8 +3599,7 @@ var titles = [
    "Utilize your CPU power",
    "Value semantics: It ain't about the syntax!",
    "Variadic and Variable Templates in C++14",
-   "Variations on variants ",
-   "Vicente Botet Escriba: Expected- An exception-friendly Error Monad",
+   "Variations on variants",
    "Virtual assembly for web application",
    "Virtual assistants - our journey from extensive documentation and various of tools to smart chatbots",
    "Visualize Template Instantiations - Understand your Template Bugs",
@@ -3645,12 +3608,12 @@ var titles = [
    "Waltzing with Branches",
    "Want fast C++? Know your hardware!",
    "We stopped teaching C",
-   "Weak Interfaces -> Weak Defences: The Bane of Implicit Conversion in Function Calls ",
+   "Weak Interfaces -> Weak Defences: The Bane of Implicit Conversion in Function Calls",
    "WebAssembly for non-beginners",
    "WebAssembly: an overview",
    "Welcome Message",
    "Welcome to ACCU Autumn 2019!",
-   "What Belongs In The C++ Standard Library? ",
+   "What Belongs In The C++ Standard Library?",
    "What Bug Hunting Taught Me About Hunting Bugs",
    "What Do We Mean When We Say Nothing At All?",
    "What Do You Mean?",
@@ -3661,7 +3624,7 @@ var titles = [
    "What I Wish They Told Me - Part 2 of 2",
    "What Is A Good Code",
    "What Is Telco Cloud?",
-   "What Neighborhoods Owe Each Other: Rights, Duties, Immunities & Disabilities of Functions & Objects ",
+   "What Neighborhoods Owe Each Other: Rights, Duties, Immunities & Disabilities of Functions & Objects",
    "What You See Is What You Get. How Testing Tools And Level Can Change The Way You See The System",
    "What about lambdas",
    "What are FPGAs and How Do They Work",
@@ -3672,7 +3635,7 @@ var titles = [
    "What does it mean to trust your boot process?",
    "What happened to...: Deprecated and Removed Features of C++",
    "What is C++",
-   "What is an ABI and Why is Breaking it a Problem? ",
+   "What is an ABI and Why is Breaking it a Problem?",
    "What is an ABI, and Why is Breaking it Bad?",
    "What is the basic interface? (part 1 of 2)",
    "What is the basic interface? (part 2 of 2)",
@@ -3682,9 +3645,9 @@ var titles = [
    "What's new about fake news?",
    "When C++ Zero-Cost Abstraction fails: how-to Fix Your Compiler",
    "When C++ wants to meet Java",
-   "When Paradigms Collide ",
+   "When Paradigms Collide",
    "When Python Practices Go Wrong",
-   "When Should You Give Two Things the Same Name? ",
+   "When Should You Give Two Things the Same Name?",
    "When dependency hell freezes over",
    "When warnings become errors. A case-study of latent bugs discovered by modernizing toolchain",
    "When you hit 'Error: memory is not aligned.'",
@@ -3699,7 +3662,7 @@ var titles = [
    "Why you should start to think about compiling your code into web assembly",
    "Will Your Code Survive the Attack of the Zombie Pointers?",
    "Windows Native API",
-   "Windows, MacOS and Web: Lessons from Cross-platform Development @ think-cell ",
+   "Windows, MacOS and Web: Lessons from Cross-platform Development @ think-cell",
    "Without Warning: Keeping the Noise Down in Legacy Code Builds",
    "Working On Modular Project With Git",
    "Would 'reserve'/'upgrade'/'downgrade' Methods Improve 'std::shared_mutex'?",
@@ -3708,7 +3671,7 @@ var titles = [
    "Writing Libraries is Terrible",
    "Writing Safety Critical Automotive Software for High Perf AI Hardware",
    "Writing Snake in 6 Programming Languages",
-   "Writing a C++20 Module ",
+   "Writing a C++20 Module",
    "Writing a reflection engine from scratch",
    "Writing better embedded Software",
    "Writing cache friendly C++",
@@ -3731,7 +3694,7 @@ var titles = [
    "cppinclude - Tool for analyzing includes in C++",
    "docs.microsoft.com Needs You!",
    "function_ref",
-   "hop: A Language to Design Function-Overload-Sets ",
+   "hop: A Language to Design Function-Overload-Sets",
    "map[Code, Performance] myMCU{?}",
    "observe me not - a short story about smart pointers",
    "pinned_vector",
@@ -3744,7 +3707,8 @@ var titles = [
    "test_resource: The pmr Detective",
    "the asynchronous library",
    "unique_pseudofunction: N overloads for the price of 1",
-   "v.~uint32_t();"
+   "v.~uint32_t();",
+   "who the f**k is eric? by odin and the nerds"
 ]
 
 var tags = [
@@ -3764,7 +3728,27 @@ var tags = [
 
 const talks = [
    {
-          number: 1286,
+          number: 596,
+      identifier: "#locked",
+         meeting: "c++now",
+         edition: "2016",
+           title: "",
+        speakers: [
+                     "$add meeting c++now"
+                  ],
+           video: "https://youtube.com/watch?v=ondHeigfZN0",
+       thumbnail: "http://img.youtube.com/vi/ondHeigfZN0/0.jpg",
+        duration: 3292,
+            tags: [
+                     "c++",
+                     "conference",
+                     "live"
+                  ],
+           level: 0,
+        language: "english"
+   },
+   {
+          number: 1292,
       identifier: "#cppcon-2014-0094",
          meeting: "cppcon",
          edition: "2014",
@@ -3785,7 +3769,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1540,
+          number: 1546,
       identifier: "#cppcon-2016-0082",
          meeting: "cppcon",
          edition: "2016",
@@ -3806,7 +3790,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1618,
+          number: 1625,
       identifier: "#cppcon-2017-0017",
          meeting: "cppcon",
          edition: "2017",
@@ -3827,7 +3811,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1438,
+          number: 1444,
       identifier: "#cppcon-2015-0125",
          meeting: "cppcon",
          edition: "2015",
@@ -3848,7 +3832,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1482,
+          number: 1488,
       identifier: "#cppcon-2016-0024",
          meeting: "cppcon",
          edition: "2016",
@@ -3869,7 +3853,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1384,
+          number: 1390,
       identifier: "#cppcon-2015-0051",
          meeting: "cppcon",
          edition: "2015",
@@ -3890,7 +3874,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2413,
+          number: 2419,
       identifier: "#meeting-c++-2015-0029",
          meeting: "meeting c++",
          edition: "2015",
@@ -3911,27 +3895,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 434,
-      identifier: "#c++now-2012-0008",
-         meeting: "c++now",
-         edition: "2012",
-           title: " 'Modules in C++'",
-        speakers: [
-                     "Daveed Vandevoorde"
-                  ],
-           video: "https://youtube.com/watch?v=8SOCYQ033K8",
-       thumbnail: "http://img.youtube.com/vi/8SOCYQ033K8/0.jpg",
-        duration: 4123,
-            tags: [
-                     "c++",
-                     "conference",
-                     "live"
-                  ],
-           level: 0,
-        language: "english"
-   },
-   {
-          number: 2045,
+          number: 2051,
       identifier: "#cppcon-2019-0063",
          meeting: "cppcon",
          edition: "2019",
@@ -3952,27 +3916,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 431,
-      identifier: "#c++now-2012-0005",
-         meeting: "c++now",
-         edition: "2012",
-           title: " 'Now What? A vignette in three parts'",
-        speakers: [
-                     "Sean Parent"
-                  ],
-           video: "https://youtube.com/watch?v=iGenpw2NeKQ",
-       thumbnail: "http://img.youtube.com/vi/iGenpw2NeKQ/0.jpg",
-        duration: 5446,
-            tags: [
-                     "c++",
-                     "conference",
-                     "live"
-                  ],
-           level: 0,
-        language: "english"
-   },
-   {
-          number: 2412,
+          number: 2418,
       identifier: "#meeting-c++-2015-0028",
          meeting: "meeting c++",
          edition: "2015",
@@ -3993,7 +3937,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 655,
+          number: 656,
       identifier: "#c++now-2017-0013",
          meeting: "c++now",
          edition: "2017",
@@ -4014,13 +3958,13 @@ const talks = [
         language: "english"
    },
    {
-          number: 1778,
+          number: 1784,
       identifier: "#cppcon-2017-0177",
          meeting: "cppcon",
          edition: "2017",
            title: " (don't) Copy Paste All The Things",
         speakers: [
-                     "Gaspar Azman"
+                     "Gasper Azman"
                   ],
            video: "https://youtube.com/watch?v=VE8GnPg3q5I",
        thumbnail: "http://img.youtube.com/vi/VE8GnPg3q5I/0.jpg",
@@ -4035,7 +3979,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 738,
+          number: 739,
       identifier: "#c++now-2018-0025",
          meeting: "c++now",
          edition: "2018",
@@ -4056,7 +4000,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1295,
+          number: 1301,
       identifier: "#cppcon-2014-0103",
          meeting: "cppcon",
          edition: "2014",
@@ -4091,13 +4035,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1669,
+          number: 1675,
       identifier: "#cppcon-2017-0068",
          meeting: "cppcon",
          edition: "2017",
@@ -4118,7 +4063,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2042,
+          number: 2048,
       identifier: "#cppcon-2019-0060",
          meeting: "cppcon",
          edition: "2019",
@@ -4139,7 +4084,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1755,
+          number: 1761,
       identifier: "#cppcon-2017-0154",
          meeting: "cppcon",
          edition: "2017",
@@ -4160,7 +4105,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2415,
+          number: 2421,
       identifier: "#meeting-c++-2015-0031",
          meeting: "meeting c++",
          edition: "2015",
@@ -4181,7 +4126,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1827,
+          number: 1833,
       identifier: "#cppcon-2018-0033",
          meeting: "cppcon",
          edition: "2018",
@@ -4202,7 +4147,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 790,
+          number: 791,
       identifier: "#c++now-2018-0077",
          meeting: "c++now",
          edition: "2018",
@@ -4223,7 +4168,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1392,
+          number: 1398,
       identifier: "#cppcon-2015-0059",
          meeting: "cppcon",
          edition: "2015",
@@ -4244,7 +4189,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2520,
+          number: 2525,
       identifier: "#meeting-c++-2017-0045",
          meeting: "meeting c++",
          edition: "2017",
@@ -4265,7 +4210,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1977,
+          number: 1983,
       identifier: "#cppcon-2018-0187",
          meeting: "cppcon",
          edition: "2018",
@@ -4286,7 +4231,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1971,
+          number: 1977,
       identifier: "#cppcon-2018-0181",
          meeting: "cppcon",
          edition: "2018",
@@ -4307,7 +4252,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 694,
+          number: 695,
       identifier: "#c++now-2017-0052",
          meeting: "c++now",
          edition: "2017",
@@ -4328,7 +4273,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1522,
+          number: 1528,
       identifier: "#cppcon-2016-0064",
          meeting: "cppcon",
          edition: "2016",
@@ -4349,7 +4294,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2020,
+          number: 2026,
       identifier: "#cppcon-2019-0038",
          meeting: "cppcon",
          edition: "2019",
@@ -4370,7 +4315,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1551,
+          number: 1557,
       identifier: "#cppcon-2016-0093",
          meeting: "cppcon",
          edition: "2016",
@@ -4391,7 +4336,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1425,
+          number: 1431,
       identifier: "#cppcon-2015-0092",
          meeting: "cppcon",
          edition: "2015",
@@ -4412,7 +4357,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 598,
+          number: 599,
       identifier: "#c++now-2016-0003",
          meeting: "c++now",
          edition: "2016",
@@ -4433,7 +4378,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1785,
+          number: 1791,
       identifier: "#cppcon-2017-0184",
          meeting: "cppcon",
          edition: "2017",
@@ -4454,7 +4399,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 854,
+          number: 855,
       identifier: "#c++now-2019-0061",
          meeting: "c++now",
          edition: "2019",
@@ -4489,13 +4434,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1421,
+          number: 1427,
       identifier: "#cppcon-2015-0088",
          meeting: "cppcon",
          edition: "2015",
@@ -4516,7 +4462,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2063,
+          number: 2069,
       identifier: "#cppcon-2019-0081",
          meeting: "cppcon",
          edition: "2019",
@@ -4537,7 +4483,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1216,
+          number: 1222,
       identifier: "#cppcon-2014-0003",
          meeting: "cppcon",
          edition: "2014",
@@ -4558,7 +4504,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1254,
+          number: 1260,
       identifier: "#cppcon-2014-0062",
          meeting: "cppcon",
          edition: "2014",
@@ -4580,7 +4526,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 488,
+          number: 491,
       identifier: "#c++now-2013-0021",
          meeting: "c++now",
          edition: "2013",
@@ -4594,13 +4540,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 509,
+          number: 512,
       identifier: "#c++now-2013-0042",
          meeting: "c++now",
          edition: "2013",
@@ -4614,13 +4561,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 774,
+          number: 775,
       identifier: "#c++now-2018-0061",
          meeting: "c++now",
          edition: "2018",
@@ -4663,7 +4611,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 804,
+          number: 805,
       identifier: "#c++now-2019-0011",
          meeting: "c++now",
          edition: "2019",
@@ -4684,28 +4632,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2219,
-      identifier: "#cppcon-2020-0018",
-         meeting: "cppcon",
-         edition: "2020",
-           title: " A Language for Fast, Portable Computation on Images and Tensors - Alex Reinking - [] 20",
-        speakers: [
-                     "Halide"
-                  ],
-           video: "https://youtube.com/watch?v=1ir_nEfKQ7A",
-       thumbnail: "http://img.youtube.com/vi/1ir_nEfKQ7A/0.jpg",
-        duration: 3399,
-            tags: [
-                     "c++",
-                     "conference",
-                     "online",
-                     "talk"
-                  ],
-           level: 0,
-        language: "english"
-   },
-   {
-          number: 1805,
+          number: 1811,
       identifier: "#cppcon-2018-0011",
          meeting: "cppcon",
          edition: "2018",
@@ -4726,7 +4653,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1496,
+          number: 1502,
       identifier: "#cppcon-2016-0038",
          meeting: "cppcon",
          edition: "2016",
@@ -4734,7 +4661,7 @@ const talks = [
         speakers: [
                      "Maged Michael",
                      "Michael Wong",
-                     "Paul E. MecKenny"
+                     "Paul E. McKenny"
                   ],
            video: "https://youtube.com/watch?v=uhgrD_B1RhQ",
        thumbnail: "http://img.youtube.com/vi/uhgrD_B1RhQ/0.jpg",
@@ -4749,7 +4676,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 664,
+          number: 665,
       identifier: "#c++now-2017-0022",
          meeting: "c++now",
          edition: "2017",
@@ -4770,7 +4697,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1904,
+          number: 1910,
       identifier: "#cppcon-2018-0114",
          meeting: "cppcon",
          edition: "2018",
@@ -4791,7 +4718,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1502,
+          number: 1508,
       identifier: "#cppcon-2016-0044",
          meeting: "cppcon",
          edition: "2016",
@@ -4812,7 +4739,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1627,
+          number: 1634,
       identifier: "#cppcon-2017-0026",
          meeting: "cppcon",
          edition: "2017",
@@ -4833,7 +4760,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 803,
+          number: 804,
       identifier: "#c++now-2019-0010",
          meeting: "c++now",
          edition: "2019",
@@ -4854,7 +4781,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 795,
+          number: 796,
       identifier: "#c++now-2019-0001",
          meeting: "c++now",
          edition: "2019",
@@ -4875,7 +4802,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2418,
+          number: 2424,
       identifier: "#meeting-c++-2015-0034",
          meeting: "meeting c++",
          edition: "2015",
@@ -4896,7 +4823,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 717,
+          number: 718,
       identifier: "#c++now-2018-0004",
          meeting: "c++now",
          edition: "2018",
@@ -4931,13 +4858,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1851,
+          number: 1857,
       identifier: "#cppcon-2018-0057",
          meeting: "cppcon",
          edition: "2018",
@@ -4958,7 +4886,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2039,
+          number: 2045,
       identifier: "#cppcon-2019-0057",
          meeting: "cppcon",
          edition: "2019",
@@ -4979,7 +4907,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2468,
+          number: 2474,
       identifier: "#meeting-c++-2016-0047",
          meeting: "meeting c++",
          edition: "2016",
@@ -5000,7 +4928,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1714,
+          number: 1720,
       identifier: "#cppcon-2017-0113",
          meeting: "cppcon",
          edition: "2017",
@@ -5021,7 +4949,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2003,
+          number: 2009,
       identifier: "#cppcon-2019-0021",
          meeting: "cppcon",
          edition: "2019",
@@ -5042,7 +4970,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1582,
+          number: 1588,
       identifier: "#cppcon-2016-0127",
          meeting: "cppcon",
          edition: "2016",
@@ -5063,7 +4991,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 485,
+          number: 488,
       identifier: "#c++now-2013-0018",
          meeting: "c++now",
          edition: "2013",
@@ -5077,13 +5005,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1679,
+          number: 1685,
       identifier: "#cppcon-2017-0078",
          meeting: "cppcon",
          edition: "2017",
@@ -5104,7 +5033,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1694,
+          number: 1700,
       identifier: "#cppcon-2017-0093",
          meeting: "cppcon",
          edition: "2017",
@@ -5139,7 +5068,8 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -5159,13 +5089,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1713,
+          number: 1719,
       identifier: "#cppcon-2017-0112",
          meeting: "cppcon",
          edition: "2017",
@@ -5186,7 +5117,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2034,
+          number: 2040,
       identifier: "#cppcon-2019-0052",
          meeting: "cppcon",
          edition: "2019",
@@ -5208,7 +5139,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 736,
+          number: 737,
       identifier: "#c++now-2018-0023",
          meeting: "c++now",
          edition: "2018",
@@ -5229,7 +5160,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 684,
+          number: 685,
       identifier: "#c++now-2017-0042",
          meeting: "c++now",
          edition: "2017",
@@ -5250,7 +5181,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 668,
+          number: 669,
       identifier: "#c++now-2017-0026",
          meeting: "c++now",
          edition: "2017",
@@ -5285,13 +5216,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 503,
+          number: 506,
       identifier: "#c++now-2013-0036",
          meeting: "c++now",
          edition: "2013",
@@ -5305,13 +5237,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 502,
+          number: 505,
       identifier: "#c++now-2013-0035",
          meeting: "c++now",
          edition: "2013",
@@ -5325,13 +5258,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1479,
+          number: 1485,
       identifier: "#cppcon-2016-0021",
          meeting: "cppcon",
          edition: "2016",
@@ -5352,7 +5286,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2011,
+          number: 2017,
       identifier: "#cppcon-2019-0029",
          meeting: "cppcon",
          edition: "2019",
@@ -5373,7 +5307,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2006,
+          number: 2012,
       identifier: "#cppcon-2019-0024",
          meeting: "cppcon",
          edition: "2019",
@@ -5395,7 +5329,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1291,
+          number: 1297,
       identifier: "#cppcon-2014-0099",
          meeting: "cppcon",
          edition: "2014",
@@ -5416,7 +5350,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1561,
+          number: 1567,
       identifier: "#cppcon-2016-0103",
          meeting: "cppcon",
          edition: "2016",
@@ -5437,7 +5371,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1732,
+          number: 1738,
       identifier: "#cppcon-2017-0131",
          meeting: "cppcon",
          edition: "2017",
@@ -5458,7 +5392,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1576,
+          number: 1582,
       identifier: "#cppcon-2016-0121",
          meeting: "cppcon",
          edition: "2016",
@@ -5479,7 +5413,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1557,
+          number: 1563,
       identifier: "#cppcon-2016-0099",
          meeting: "cppcon",
          edition: "2016",
@@ -5500,7 +5434,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1558,
+          number: 1564,
       identifier: "#cppcon-2016-0100",
          meeting: "cppcon",
          edition: "2016",
@@ -5521,7 +5455,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1559,
+          number: 1565,
       identifier: "#cppcon-2016-0101",
          meeting: "cppcon",
          edition: "2016",
@@ -5542,7 +5476,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1350,
+          number: 1356,
       identifier: "#cppcon-2015-0017",
          meeting: "cppcon",
          edition: "2015",
@@ -5563,7 +5497,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1653,
+          number: 1659,
       identifier: "#cppcon-2017-0052",
          meeting: "cppcon",
          edition: "2017",
@@ -5584,7 +5518,28 @@ const talks = [
         language: "english"
    },
    {
-          number: 1544,
+          number: 1188,
+      identifier: "#cpp-europe-2018-0005",
+         meeting: "cpp europe",
+         edition: "2018",
+           title: " Agent-based class design : a step towards betters customizations points",
+        speakers: [
+                     "Odin Holmes"
+                  ],
+           video: "https://youtube.com/watch?v=CRk_PEC0dws",
+       thumbnail: "http://img.youtube.com/vi/CRk_PEC0dws/0.jpg",
+        duration: 2730,
+            tags: [
+                     "c++",
+                     "conference",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "english"
+   },
+   {
+          number: 1550,
       identifier: "#cppcon-2016-0086",
          meeting: "cppcon",
          edition: "2016",
@@ -5605,7 +5560,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 836,
+          number: 837,
       identifier: "#c++now-2019-0043",
          meeting: "c++now",
          edition: "2019",
@@ -5626,7 +5581,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2074,
+          number: 2080,
       identifier: "#cppcon-2019-0092",
          meeting: "cppcon",
          edition: "2019",
@@ -5647,7 +5602,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2075,
+          number: 2081,
       identifier: "#cppcon-2019-0093",
          meeting: "cppcon",
          edition: "2019",
@@ -5668,7 +5623,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1580,
+          number: 1586,
       identifier: "#cppcon-2016-0125",
          meeting: "cppcon",
          edition: "2016",
@@ -5689,7 +5644,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1446,
+          number: 1452,
       identifier: "#cppcon-2015-0133",
          meeting: "cppcon",
          edition: "2015",
@@ -5710,7 +5665,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 849,
+          number: 850,
       identifier: "#c++now-2019-0056",
          meeting: "c++now",
          edition: "2019",
@@ -5731,7 +5686,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 486,
+          number: 489,
       identifier: "#c++now-2013-0019",
          meeting: "c++now",
          edition: "2013",
@@ -5745,13 +5700,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1434,
+          number: 1440,
       identifier: "#cppcon-2015-0101",
          meeting: "cppcon",
          edition: "2015",
@@ -5773,7 +5729,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 475,
+          number: 478,
       identifier: "#c++now-2013-0008",
          meeting: "c++now",
          edition: "2013",
@@ -5787,13 +5743,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1722,
+          number: 1728,
       identifier: "#cppcon-2017-0121",
          meeting: "cppcon",
          edition: "2017",
@@ -5814,7 +5771,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1955,
+          number: 1961,
       identifier: "#cppcon-2018-0165",
          meeting: "cppcon",
          edition: "2018",
@@ -5835,7 +5792,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1619,
+          number: 1626,
       identifier: "#cppcon-2017-0018",
          meeting: "cppcon",
          edition: "2017",
@@ -5856,7 +5813,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2467,
+          number: 2473,
       identifier: "#meeting-c++-2016-0046",
          meeting: "meeting c++",
          edition: "2016",
@@ -5877,7 +5834,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 776,
+          number: 777,
       identifier: "#c++now-2018-0063",
          meeting: "c++now",
          edition: "2018",
@@ -5898,7 +5855,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1862,
+          number: 1868,
       identifier: "#cppcon-2018-0068",
          meeting: "cppcon",
          edition: "2018",
@@ -5919,7 +5876,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1626,
+          number: 1633,
       identifier: "#cppcon-2017-0025",
          meeting: "cppcon",
          edition: "2017",
@@ -5940,7 +5897,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 835,
+          number: 836,
       identifier: "#c++now-2019-0042",
          meeting: "c++now",
          edition: "2019",
@@ -5961,7 +5918,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 690,
+          number: 691,
       identifier: "#c++now-2017-0048",
          meeting: "c++now",
          edition: "2017",
@@ -6003,7 +5960,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 662,
+          number: 663,
       identifier: "#c++now-2017-0020",
          meeting: "c++now",
          edition: "2017",
@@ -6024,7 +5981,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1589,
+          number: 1595,
       identifier: "#cppcon-2016-0134",
          meeting: "cppcon",
          edition: "2016",
@@ -6045,7 +6002,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 638,
+          number: 639,
       identifier: "#c++now-2016-0043",
          meeting: "c++now",
          edition: "2016",
@@ -6066,7 +6023,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1715,
+          number: 1721,
       identifier: "#cppcon-2017-0114",
          meeting: "cppcon",
          edition: "2017",
@@ -6087,7 +6044,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2361,
+          number: 2367,
       identifier: "#meeting-c++-2014-0003",
          meeting: "meeting c++",
          edition: "2014",
@@ -6110,7 +6067,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1775,
+          number: 1781,
       identifier: "#cppcon-2017-0174",
          meeting: "cppcon",
          edition: "2017",
@@ -6131,28 +6088,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1584,
-      identifier: "#cppcon-2016-0129",
-         meeting: "cppcon",
-         edition: "2016",
-           title: " An open source code navigator for C++ based on LLVM/Clang - Gabor Horvath [CppCon 2016]",
-        speakers: [
-                     "CodeCompass"
-                  ],
-           video: "https://youtube.com/watch?v=gjQG3RNfFxM",
-       thumbnail: "http://img.youtube.com/vi/gjQG3RNfFxM/0.jpg",
-        duration: 351,
-            tags: [
-                     "c++",
-                     "conference",
-                     "lightning",
-                     "live"
-                  ],
-           level: 0,
-        language: "english"
-   },
-   {
-          number: 1285,
+          number: 1291,
       identifier: "#cppcon-2014-0093",
          meeting: "cppcon",
          edition: "2014",
@@ -6173,7 +6109,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1997,
+          number: 2003,
       identifier: "#cppcon-2019-0015",
          meeting: "cppcon",
          edition: "2019",
@@ -6208,13 +6144,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1409,
+          number: 1415,
       identifier: "#cppcon-2015-0076",
          meeting: "cppcon",
          edition: "2015",
@@ -6235,7 +6172,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1333,
+          number: 1339,
       identifier: "#cppcon-2014-0141",
          meeting: "cppcon",
          edition: "2014",
@@ -6256,7 +6193,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1270,
+          number: 1276,
       identifier: "#cppcon-2014-0078",
          meeting: "cppcon",
          edition: "2014",
@@ -6277,7 +6214,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 847,
+          number: 848,
       identifier: "#c++now-2019-0054",
          meeting: "c++now",
          edition: "2019",
@@ -6298,7 +6235,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1668,
+          number: 1674,
       identifier: "#cppcon-2017-0067",
          meeting: "cppcon",
          edition: "2017",
@@ -6319,7 +6256,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1935,
+          number: 1941,
       identifier: "#cppcon-2018-0145",
          meeting: "cppcon",
          edition: "2018",
@@ -6340,7 +6277,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 490,
+          number: 493,
       identifier: "#c++now-2013-0023",
          meeting: "c++now",
          edition: "2013",
@@ -6354,13 +6291,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1985,
+          number: 1991,
       identifier: "#cppcon-2019-0003",
          meeting: "cppcon",
          edition: "2019",
@@ -6381,7 +6319,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1417,
+          number: 1423,
       identifier: "#cppcon-2015-0084",
          meeting: "cppcon",
          edition: "2015",
@@ -6402,28 +6340,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2015,
-      identifier: "#cppcon-2019-0033",
-         meeting: "cppcon",
-         edition: "2019",
-           title: " Applying Gradual Typing to Time Types with Clang's LibTooling",
-        speakers: [
-                     "Hyrum Wright Time Travel"
-                  ],
-           video: "https://youtube.com/watch?v=VN0VNoykxtk",
-       thumbnail: "http://img.youtube.com/vi/VN0VNoykxtk/0.jpg",
-        duration: 3674,
-            tags: [
-                     "c++",
-                     "conference",
-                     "live",
-                     "talk"
-                  ],
-           level: 0,
-        language: "english"
-   },
-   {
-          number: 862,
+          number: 863,
       identifier: "#c++now-2019-0069",
          meeting: "c++now",
          edition: "2019",
@@ -6458,13 +6375,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 746,
+          number: 747,
       identifier: "#c++now-2018-0033",
          meeting: "c++now",
          edition: "2018",
@@ -6506,7 +6424,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 608,
+          number: 609,
       identifier: "#c++now-2016-0013",
          meeting: "c++now",
          edition: "2016",
@@ -6528,7 +6446,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1318,
+          number: 1324,
       identifier: "#cppcon-2014-0126",
          meeting: "cppcon",
          edition: "2014",
@@ -6563,13 +6481,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1222,
+          number: 1228,
       identifier: "#cppcon-2014-0009",
          meeting: "cppcon",
          edition: "2014",
@@ -6590,7 +6509,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1278,
+          number: 1284,
       identifier: "#cppcon-2014-0086",
          meeting: "cppcon",
          edition: "2014",
@@ -6611,7 +6530,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1536,
+          number: 1542,
       identifier: "#cppcon-2016-0078",
          meeting: "cppcon",
          edition: "2016",
@@ -6632,7 +6551,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2053,
+          number: 2059,
       identifier: "#cppcon-2019-0071",
          meeting: "cppcon",
          edition: "2019",
@@ -6667,13 +6586,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2049,
+          number: 2055,
       identifier: "#cppcon-2019-0067",
          meeting: "cppcon",
          edition: "2019",
@@ -6694,7 +6614,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2050,
+          number: 2056,
       identifier: "#cppcon-2019-0068",
          meeting: "cppcon",
          edition: "2019",
@@ -6715,7 +6635,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 842,
+          number: 843,
       identifier: "#c++now-2019-0049",
          meeting: "c++now",
          edition: "2019",
@@ -6751,13 +6671,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1816,
+          number: 1822,
       identifier: "#cppcon-2018-0022",
          meeting: "cppcon",
          edition: "2018",
@@ -6778,7 +6699,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 784,
+          number: 785,
       identifier: "#c++now-2018-0071",
          meeting: "c++now",
          edition: "2018",
@@ -6799,7 +6720,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1217,
+          number: 1223,
       identifier: "#cppcon-2014-0004",
          meeting: "cppcon",
          edition: "2014",
@@ -6834,34 +6755,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
+                     "keynote",
                      "live"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2002,
-      identifier: "#cppcon-2019-0020",
-         meeting: "cppcon",
-         edition: "2019",
-           title: " Back to Basics: Const as a Promise",
-        speakers: [
-                     "Dan Saks"
-                  ],
-           video: "https://youtube.com/watch?v=NZtr93iL3R0",
-       thumbnail: "http://img.youtube.com/vi/NZtr93iL3R0/0.jpg",
-        duration: 3693,
-            tags: [
-                     "c++",
-                     "conference",
-                     "live",
-                     "talk"
-                  ],
-           level: 0,
-        language: "english"
-   },
-   {
-          number: 2061,
+          number: 2067,
       identifier: "#cppcon-2019-0079",
          meeting: "cppcon",
          edition: "2019",
@@ -6882,7 +6783,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1998,
+          number: 2004,
       identifier: "#cppcon-2019-0016",
          meeting: "cppcon",
          edition: "2019",
@@ -6903,7 +6804,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1999,
+          number: 2005,
       identifier: "#cppcon-2019-0017",
          meeting: "cppcon",
          edition: "2019",
@@ -6924,7 +6825,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2055,
+          number: 2061,
       identifier: "#cppcon-2019-0073",
          meeting: "cppcon",
          edition: "2019",
@@ -6945,7 +6846,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2004,
+          number: 2010,
       identifier: "#cppcon-2019-0022",
          meeting: "cppcon",
          edition: "2019",
@@ -6966,7 +6867,28 @@ const talks = [
         language: "english"
    },
    {
-          number: 1992,
+          number: 2020,
+      identifier: "#cppcon-2019-0032",
+         meeting: "cppcon",
+         edition: "2019",
+           title: " Back to Basics: Understanding Value Categories",
+        speakers: [
+                     "Ben Saks"
+                  ],
+           video: "https://youtube.com/watch?v=XS2JddPq7GQ",
+       thumbnail: "http://img.youtube.com/vi/XS2JddPq7GQ/0.jpg",
+        duration: 3227,
+            tags: [
+                     "c++",
+                     "conference",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "english"
+   },
+   {
+          number: 1998,
       identifier: "#cppcon-2019-0010",
          meeting: "cppcon",
          edition: "2019",
@@ -6987,7 +6909,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1308,
+          number: 1314,
       identifier: "#cppcon-2014-0116",
          meeting: "cppcon",
          edition: "2014",
@@ -7008,7 +6930,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 564,
+          number: 565,
       identifier: "#c++now-2015-0010",
          meeting: "c++now",
          edition: "2015",
@@ -7024,13 +6946,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1186,
+          number: 1193,
       identifier: "#cpp-europe-2019-0003",
          meeting: "cpp europe",
          edition: "2019",
@@ -7051,7 +6974,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1990,
+          number: 1996,
       identifier: "#cppcon-2019-0008",
          meeting: "cppcon",
          edition: "2019",
@@ -7072,7 +6995,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1410,
+          number: 1416,
       identifier: "#cppcon-2015-0077",
          meeting: "cppcon",
          edition: "2015",
@@ -7093,7 +7016,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 706,
+          number: 707,
       identifier: "#c++now-2017-0064",
          meeting: "c++now",
          edition: "2017",
@@ -7114,7 +7037,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1884,
+          number: 1890,
       identifier: "#cppcon-2018-0094",
          meeting: "cppcon",
          edition: "2018",
@@ -7136,7 +7059,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 596,
+          number: 597,
       identifier: "#c++now-2016-0001",
          meeting: "c++now",
          edition: "2016",
@@ -7157,7 +7080,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2023,
+          number: 2029,
       identifier: "#cppcon-2019-0041",
          meeting: "cppcon",
          edition: "2019",
@@ -7192,13 +7115,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1337,
+          number: 1343,
       identifier: "#cppcon-2015-0004",
          meeting: "cppcon",
          edition: "2015",
@@ -7219,7 +7143,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1923,
+          number: 1929,
       identifier: "#cppcon-2018-0133",
          meeting: "cppcon",
          edition: "2018",
@@ -7240,7 +7164,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1986,
+          number: 1992,
       identifier: "#cppcon-2019-0004",
          meeting: "cppcon",
          edition: "2019",
@@ -7261,7 +7185,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 808,
+          number: 809,
       identifier: "#c++now-2019-0015",
          meeting: "c++now",
          edition: "2019",
@@ -7282,7 +7206,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1857,
+          number: 1863,
       identifier: "#cppcon-2018-0063",
          meeting: "cppcon",
          edition: "2018",
@@ -7317,13 +7241,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
+                     "keynote",
                      "live"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 724,
+          number: 725,
       identifier: "#c++now-2018-0011",
          meeting: "c++now",
          edition: "2018",
@@ -7344,7 +7269,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 799,
+          number: 800,
       identifier: "#c++now-2019-0005",
          meeting: "c++now",
          edition: "2019",
@@ -7365,7 +7290,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1348,
+          number: 1354,
       identifier: "#cppcon-2015-0015",
          meeting: "cppcon",
          edition: "2015",
@@ -7386,7 +7311,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1490,
+          number: 1496,
       identifier: "#cppcon-2016-0032",
          meeting: "cppcon",
          edition: "2016",
@@ -7421,13 +7346,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 561,
+          number: 562,
       identifier: "#c++now-2015-0007",
          meeting: "c++now",
          edition: "2015",
@@ -7441,13 +7367,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 497,
+          number: 500,
       identifier: "#c++now-2013-0030",
          meeting: "c++now",
          edition: "2013",
@@ -7461,13 +7388,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1394,
+          number: 1400,
       identifier: "#cppcon-2015-0061",
          meeting: "cppcon",
          edition: "2015",
@@ -7488,7 +7416,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1670,
+          number: 1676,
       identifier: "#cppcon-2017-0069",
          meeting: "cppcon",
          edition: "2017",
@@ -7509,7 +7437,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1261,
+          number: 1267,
       identifier: "#cppcon-2014-0069",
          meeting: "cppcon",
          edition: "2014",
@@ -7530,7 +7458,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1260,
+          number: 1266,
       identifier: "#cppcon-2014-0068",
          meeting: "cppcon",
          edition: "2014",
@@ -7551,27 +7479,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 476,
-      identifier: "#c++now-2013-0009",
-         meeting: "c++now",
-         edition: "2013",
-           title: " Boost.Asio and Boost.Serialization: Design Patterns for Object Transmission",
-        speakers: [
-                     "Lelbach & Habraken"
-                  ],
-           video: "https://youtube.com/watch?v=kFlh4COXKrE",
-       thumbnail: "http://img.youtube.com/vi/kFlh4COXKrE/0.jpg",
-        duration: 40,
-            tags: [
-                     "c++",
-                     "conference",
-                     "live"
-                  ],
-           level: 0,
-        language: "english"
-   },
-   {
-          number: 858,
+          number: 859,
       identifier: "#c++now-2019-0065",
          meeting: "c++now",
          edition: "2019",
@@ -7592,7 +7500,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 571,
+          number: 572,
       identifier: "#c++now-2015-0017",
          meeting: "c++now",
          edition: "2015",
@@ -7606,19 +7514,21 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 492,
+          number: 495,
       identifier: "#c++now-2013-0025",
          meeting: "c++now",
          edition: "2013",
            title: " Boost.Dispatch -- Generalized Tag Dispatching Infrastructure Library",
         speakers: [
-                     "Falcou and Gaunard"
+                     "Jean Falcou",
+                     "Mathias Gaunard"
                   ],
            video: "https://youtube.com/watch?v=cuDMN_fcLHg",
        thumbnail: "http://img.youtube.com/vi/cuDMN_fcLHg/0.jpg",
@@ -7626,7 +7536,8 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -7646,13 +7557,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1184,
+          number: 1191,
       identifier: "#cpp-europe-2019-0001",
          meeting: "cpp europe",
          edition: "2019",
@@ -7674,13 +7586,13 @@ const talks = [
         language: "english"
    },
    {
-          number: 473,
+          number: 476,
       identifier: "#c++now-2013-0006",
          meeting: "c++now",
          edition: "2013",
            title: " Boost.Graph for Beginners",
         speakers: [
-                     "Boris Schaling"
+                     "Boris Schaeling"
                   ],
            video: "https://youtube.com/watch?v=uYvBH7TZlFk",
        thumbnail: "http://img.youtube.com/vi/uYvBH7TZlFk/0.jpg",
@@ -7688,7 +7600,8 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -7708,13 +7621,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 721,
+          number: 722,
       identifier: "#c++now-2018-0008",
          meeting: "c++now",
          edition: "2018",
@@ -7735,7 +7649,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 722,
+          number: 723,
       identifier: "#c++now-2018-0009",
          meeting: "c++now",
          edition: "2018",
@@ -7756,7 +7670,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 734,
+          number: 735,
       identifier: "#c++now-2018-0021",
          meeting: "c++now",
          edition: "2018",
@@ -7791,13 +7705,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2416,
+          number: 2422,
       identifier: "#meeting-c++-2015-0032",
          meeting: "meeting c++",
          edition: "2015",
@@ -7818,7 +7733,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1320,
+          number: 1326,
       identifier: "#cppcon-2014-0128",
          meeting: "cppcon",
          edition: "2014",
@@ -7853,13 +7768,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1402,
+          number: 1408,
       identifier: "#cppcon-2015-0069",
          meeting: "cppcon",
          edition: "2015",
@@ -7894,13 +7810,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 507,
+          number: 510,
       identifier: "#c++now-2013-0040",
          meeting: "c++now",
          edition: "2013",
@@ -7914,13 +7831,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2521,
+          number: 2526,
       identifier: "#meeting-c++-2017-0046",
          meeting: "meeting c++",
          edition: "2017",
@@ -7941,7 +7859,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1415,
+          number: 1421,
       identifier: "#cppcon-2015-0082",
          meeting: "cppcon",
          edition: "2015",
@@ -7963,7 +7881,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1939,
+          number: 1945,
       identifier: "#cppcon-2018-0149",
          meeting: "cppcon",
          edition: "2018",
@@ -7984,7 +7902,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1525,
+          number: 1531,
       identifier: "#cppcon-2016-0067",
          meeting: "cppcon",
          edition: "2016",
@@ -8005,7 +7923,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1667,
+          number: 1673,
       identifier: "#cppcon-2017-0066",
          meeting: "cppcon",
          edition: "2017",
@@ -8026,7 +7944,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 701,
+          number: 702,
       identifier: "#c++now-2017-0059",
          meeting: "c++now",
          edition: "2017",
@@ -8047,7 +7965,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1938,
+          number: 1944,
       identifier: "#cppcon-2018-0148",
          meeting: "cppcon",
          edition: "2018",
@@ -8068,7 +7986,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1915,
+          number: 1921,
       identifier: "#cppcon-2018-0125",
          meeting: "cppcon",
          edition: "2018",
@@ -8089,7 +8007,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2667,
+          number: 2673,
       identifier: "#meeting-c++-2020-0010",
          meeting: "meeting c++",
          edition: "2020",
@@ -8110,7 +8028,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1629,
+          number: 1636,
       identifier: "#cppcon-2017-0028",
          meeting: "cppcon",
          edition: "2017",
@@ -8131,7 +8049,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1678,
+          number: 1684,
       identifier: "#cppcon-2017-0077",
          meeting: "cppcon",
          edition: "2017",
@@ -8152,7 +8070,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 484,
+          number: 487,
       identifier: "#c++now-2013-0017",
          meeting: "c++now",
          edition: "2013",
@@ -8166,13 +8084,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1684,
+          number: 1690,
       identifier: "#cppcon-2017-0083",
          meeting: "cppcon",
          edition: "2017",
@@ -8193,7 +8112,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2047,
+          number: 2053,
       identifier: "#cppcon-2019-0065",
          meeting: "cppcon",
          edition: "2019",
@@ -8214,7 +8133,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1538,
+          number: 1544,
       identifier: "#cppcon-2016-0080",
          meeting: "cppcon",
          edition: "2016",
@@ -8235,7 +8154,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1742,
+          number: 1748,
       identifier: "#cppcon-2017-0141",
          meeting: "cppcon",
          edition: "2017",
@@ -8256,7 +8175,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2089,
+          number: 2095,
       identifier: "#cppcon-2019-0107",
          meeting: "cppcon",
          edition: "2019",
@@ -8298,7 +8217,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 845,
+          number: 846,
       identifier: "#c++now-2019-0052",
          meeting: "c++now",
          edition: "2019",
@@ -8319,7 +8238,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1695,
+          number: 1701,
       identifier: "#cppcon-2017-0094",
          meeting: "cppcon",
          edition: "2017",
@@ -8340,7 +8259,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1606,
+          number: 1613,
       identifier: "#cppcon-2017-0002",
          meeting: "cppcon",
          edition: "2017",
@@ -8361,7 +8280,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1632,
+          number: 1639,
       identifier: "#cppcon-2017-0031",
          meeting: "cppcon",
          edition: "2017",
@@ -8382,7 +8301,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1376,
+          number: 1382,
       identifier: "#cppcon-2015-0043",
          meeting: "cppcon",
          edition: "2015",
@@ -8417,13 +8336,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1315,
+          number: 1321,
       identifier: "#cppcon-2014-0123",
          meeting: "cppcon",
          edition: "2014",
@@ -8444,7 +8364,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 805,
+          number: 806,
       identifier: "#c++now-2019-0012",
          meeting: "c++now",
          edition: "2019",
@@ -8465,7 +8385,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 677,
+          number: 678,
       identifier: "#c++now-2017-0035",
          meeting: "c++now",
          edition: "2017",
@@ -8486,7 +8406,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1399,
+          number: 1405,
       identifier: "#cppcon-2015-0066",
          meeting: "cppcon",
          edition: "2015",
@@ -8507,7 +8427,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1545,
+          number: 1551,
       identifier: "#cppcon-2016-0087",
          meeting: "cppcon",
          edition: "2016",
@@ -8528,7 +8448,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1566,
+          number: 1572,
       identifier: "#cppcon-2016-0108",
          meeting: "cppcon",
          edition: "2016",
@@ -8549,7 +8469,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1837,
+          number: 1843,
       identifier: "#cppcon-2018-0043",
          meeting: "cppcon",
          edition: "2018",
@@ -8570,7 +8490,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 751,
+          number: 752,
       identifier: "#c++now-2018-0038",
          meeting: "c++now",
          edition: "2018",
@@ -8591,7 +8511,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 841,
+          number: 842,
       identifier: "#c++now-2019-0048",
          meeting: "c++now",
          edition: "2019",
@@ -8612,7 +8532,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1613,
+          number: 1620,
       identifier: "#cppcon-2017-0012",
          meeting: "cppcon",
          edition: "2017",
@@ -8633,7 +8553,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1445,
+          number: 1451,
       identifier: "#cppcon-2015-0132",
          meeting: "cppcon",
          edition: "2015",
@@ -8654,7 +8574,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1921,
+          number: 1927,
       identifier: "#cppcon-2018-0131",
          meeting: "cppcon",
          edition: "2018",
@@ -8675,7 +8595,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1723,
+          number: 1729,
       identifier: "#cppcon-2017-0122",
          meeting: "cppcon",
          edition: "2017",
@@ -8696,7 +8616,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 772,
+          number: 773,
       identifier: "#c++now-2018-0059",
          meeting: "c++now",
          edition: "2018",
@@ -8717,7 +8637,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1357,
+          number: 1363,
       identifier: "#cppcon-2015-0024",
          meeting: "cppcon",
          edition: "2015",
@@ -8738,7 +8658,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2326,
+          number: 2332,
       identifier: "#corso-base-2021-0001",
          meeting: "corso base",
          edition: "2021",
@@ -8746,9 +8666,9 @@ const talks = [
         speakers: [
                      "Marcello Missiroli"
                   ],
-           video: "https://youtube.com/watch?v=YT_b4ShnA7I",
-       thumbnail: "http://img.youtube.com/vi/YT_b4ShnA7I/0.jpg",
-        duration: 7022,
+           video: "https://youtube.com/watch?v=FvGPA4GtX-w",
+       thumbnail: "http://img.youtube.com/vi/FvGPA4GtX-w/0.jpg",
+        duration: 6559,
             tags: [
                      "c++",
                      "conference",
@@ -8760,7 +8680,7 @@ const talks = [
         language: "italian"
    },
    {
-          number: 2327,
+          number: 2333,
       identifier: "#corso-base-2021-0002",
          meeting: "corso base",
          edition: "2021",
@@ -8782,7 +8702,7 @@ const talks = [
         language: "italian"
    },
    {
-          number: 2328,
+          number: 2334,
       identifier: "#corso-base-2021-0003",
          meeting: "corso base",
          edition: "2021",
@@ -8804,7 +8724,7 @@ const talks = [
         language: "italian"
    },
    {
-          number: 1861,
+          number: 1867,
       identifier: "#cppcon-2018-0067",
          meeting: "cppcon",
          edition: "2018",
@@ -8825,7 +8745,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1330,
+          number: 1336,
       identifier: "#cppcon-2014-0138",
          meeting: "cppcon",
          edition: "2014",
@@ -8846,7 +8766,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1855,
+          number: 1861,
       identifier: "#cppcon-2018-0061",
          meeting: "cppcon",
          edition: "2018",
@@ -8867,7 +8787,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1227,
+          number: 1233,
       identifier: "#cppcon-2014-0018",
          meeting: "cppcon",
          edition: "2014",
@@ -8888,7 +8808,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1429,
+          number: 1435,
       identifier: "#cppcon-2015-0096",
          meeting: "cppcon",
          edition: "2015",
@@ -8924,13 +8844,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1351,
+          number: 1357,
       identifier: "#cppcon-2015-0018",
          meeting: "cppcon",
          edition: "2015",
@@ -8951,7 +8872,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1765,
+          number: 1771,
       identifier: "#cppcon-2017-0164",
          meeting: "cppcon",
          edition: "2017",
@@ -8972,7 +8893,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1199,
+          number: 1205,
       identifier: "#cpp-europe-2020-0006",
          meeting: "cpp europe",
          edition: "2020",
@@ -8994,14 +8915,14 @@ const talks = [
                      "keynote",
                      "live",
                      "live",
-                     "online",
+                     "live",
                      "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1234,
+          number: 1240,
       identifier: "#cppcon-2014-0042",
          meeting: "cppcon",
          edition: "2014",
@@ -9036,13 +8957,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1344,
+          number: 1350,
       identifier: "#cppcon-2015-0011",
          meeting: "cppcon",
          edition: "2015",
@@ -9063,7 +8985,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2423,
+          number: 2429,
       identifier: "#meeting-c++-2016-0002",
          meeting: "meeting c++",
          edition: "2016",
@@ -9084,7 +9006,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1430,
+          number: 1436,
       identifier: "#cppcon-2015-0097",
          meeting: "cppcon",
          edition: "2015",
@@ -9105,7 +9027,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 718,
+          number: 719,
       identifier: "#c++now-2018-0005",
          meeting: "c++now",
          edition: "2018",
@@ -9126,7 +9048,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1890,
+          number: 1896,
       identifier: "#cppcon-2018-0100",
          meeting: "cppcon",
          edition: "2018",
@@ -9147,7 +9069,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 747,
+          number: 748,
       identifier: "#c++now-2018-0034",
          meeting: "c++now",
          edition: "2018",
@@ -9168,7 +9090,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1937,
+          number: 1943,
       identifier: "#cppcon-2018-0147",
          meeting: "cppcon",
          edition: "2018",
@@ -9189,7 +9111,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1776,
+          number: 1782,
       identifier: "#cppcon-2017-0175",
          meeting: "cppcon",
          edition: "2017",
@@ -9210,7 +9132,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1510,
+          number: 1516,
       identifier: "#cppcon-2016-0052",
          meeting: "cppcon",
          edition: "2016",
@@ -9231,7 +9153,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1345,
+          number: 1351,
       identifier: "#cppcon-2015-0012",
          meeting: "cppcon",
          edition: "2015",
@@ -9252,7 +9174,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1310,
+          number: 1316,
       identifier: "#cppcon-2014-0118",
          meeting: "cppcon",
          edition: "2014",
@@ -9294,7 +9216,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1564,
+          number: 1570,
       identifier: "#cppcon-2016-0106",
          meeting: "cppcon",
          edition: "2016",
@@ -9315,7 +9237,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1381,
+          number: 1387,
       identifier: "#cppcon-2015-0048",
          meeting: "cppcon",
          edition: "2015",
@@ -9336,7 +9258,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 641,
+          number: 642,
       identifier: "#c++now-2016-0046",
          meeting: "c++now",
          edition: "2016",
@@ -9357,7 +9279,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 777,
+          number: 778,
       identifier: "#c++now-2018-0064",
          meeting: "c++now",
          edition: "2018",
@@ -9378,7 +9300,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1196,
+          number: 1202,
       identifier: "#cpp-europe-2020-0003",
          meeting: "cpp europe",
          edition: "2020",
@@ -9400,14 +9322,14 @@ const talks = [
                      "keynote",
                      "live",
                      "live",
-                     "online",
+                     "live",
                      "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 789,
+          number: 790,
       identifier: "#c++now-2018-0076",
          meeting: "c++now",
          edition: "2018",
@@ -9428,7 +9350,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1328,
+          number: 1334,
       identifier: "#cppcon-2014-0136",
          meeting: "cppcon",
          edition: "2014",
@@ -9449,7 +9371,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 769,
+          number: 770,
       identifier: "#c++now-2018-0056",
          meeting: "c++now",
          edition: "2018",
@@ -9470,7 +9392,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1441,
+          number: 1447,
       identifier: "#cppcon-2015-0128",
          meeting: "cppcon",
          edition: "2015",
@@ -9491,13 +9413,13 @@ const talks = [
         language: "english"
    },
    {
-          number: 1459,
+          number: 1466,
       identifier: "#cppcon-2016-0007",
          meeting: "cppcon",
          edition: "2016",
            title: " C++ Standard Library Panel",
         speakers: [
-                     "xyz"
+                     "Bryce Adelstein Lelbach"
                   ],
            video: "https://youtube.com/watch?v=j84pZM840eI",
        thumbnail: "http://img.youtube.com/vi/j84pZM840eI/0.jpg",
@@ -9512,7 +9434,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1673,
+          number: 1679,
       identifier: "#cppcon-2017-0072",
          meeting: "cppcon",
          edition: "2017",
@@ -9533,7 +9455,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1237,
+          number: 1243,
       identifier: "#cppcon-2014-0045",
          meeting: "cppcon",
          edition: "2014",
@@ -9554,7 +9476,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1200,
+          number: 1206,
       identifier: "#cpp-europe-2020-0007",
          meeting: "cpp europe",
          edition: "2020",
@@ -9576,14 +9498,14 @@ const talks = [
                      "keynote",
                      "live",
                      "live",
-                     "online",
+                     "live",
                      "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 625,
+          number: 626,
       identifier: "#c++now-2016-0030",
          meeting: "c++now",
          edition: "2016",
@@ -9604,7 +9526,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1440,
+          number: 1446,
       identifier: "#cppcon-2015-0127",
          meeting: "cppcon",
          edition: "2015",
@@ -9625,7 +9547,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1547,
+          number: 1553,
       identifier: "#cppcon-2016-0089",
          meeting: "cppcon",
          edition: "2016",
@@ -9646,7 +9568,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1731,
+          number: 1737,
       identifier: "#cppcon-2017-0130",
          meeting: "cppcon",
          edition: "2017",
@@ -9682,13 +9604,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1298,
+          number: 1304,
       identifier: "#cppcon-2014-0106",
          meeting: "cppcon",
          edition: "2014",
@@ -9723,13 +9646,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 489,
+          number: 492,
       identifier: "#c++now-2013-0022",
          meeting: "c++now",
          edition: "2013",
@@ -9743,13 +9667,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 644,
+          number: 645,
       identifier: "#c++now-2017-0002",
          meeting: "c++now",
          edition: "2017",
@@ -9770,7 +9695,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1427,
+          number: 1433,
       identifier: "#cppcon-2015-0094",
          meeting: "cppcon",
          edition: "2015",
@@ -9805,7 +9730,8 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -9825,13 +9751,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1567,
+          number: 1573,
       identifier: "#cppcon-2016-0109",
          meeting: "cppcon",
          edition: "2016",
@@ -9852,7 +9779,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 606,
+          number: 607,
       identifier: "#c++now-2016-0011",
          meeting: "c++now",
          edition: "2016",
@@ -9887,13 +9814,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1190,
+          number: 1197,
       identifier: "#cpp-europe-2019-0007",
          meeting: "cpp europe",
          edition: "2019",
@@ -9928,13 +9856,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 645,
+          number: 646,
       identifier: "#c++now-2017-0003",
          meeting: "c++now",
          edition: "2017",
@@ -9942,9 +9871,9 @@ const talks = [
         speakers: [
                      "Bryce Lelbach"
                   ],
-           video: "https://youtube.com/watch?v=LvwXJjRQfHk",
-       thumbnail: "http://img.youtube.com/vi/LvwXJjRQfHk/0.jpg",
-        duration: 5650,
+           video: "https://youtube.com/watch?v=fI2xiUqqH3Q",
+       thumbnail: "http://img.youtube.com/vi/fI2xiUqqH3Q/0.jpg",
+        duration: 2939,
             tags: [
                      "c++",
                      "conference",
@@ -9955,7 +9884,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1739,
+          number: 1745,
       identifier: "#cppcon-2017-0138",
          meeting: "cppcon",
          edition: "2017",
@@ -9976,7 +9905,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1740,
+          number: 1746,
       identifier: "#cppcon-2017-0139",
          meeting: "cppcon",
          edition: "2017",
@@ -9997,7 +9926,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1719,
+          number: 1725,
       identifier: "#cppcon-2017-0118",
          meeting: "cppcon",
          edition: "2017",
@@ -10018,7 +9947,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1735,
+          number: 1741,
       identifier: "#cppcon-2017-0134",
          meeting: "cppcon",
          edition: "2017",
@@ -10041,7 +9970,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 725,
+          number: 726,
       identifier: "#c++now-2018-0012",
          meeting: "c++now",
          edition: "2018",
@@ -10062,7 +9991,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 826,
+          number: 827,
       identifier: "#c++now-2019-0033",
          meeting: "c++now",
          edition: "2019",
@@ -10083,7 +10012,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 654,
+          number: 655,
       identifier: "#c++now-2017-0012",
          meeting: "c++now",
          edition: "2017",
@@ -10104,7 +10033,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1983,
+          number: 1989,
       identifier: "#cppcon-2019-0001",
          meeting: "cppcon",
          edition: "2019",
@@ -10125,7 +10054,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2066,
+          number: 2072,
       identifier: "#cppcon-2019-0084",
          meeting: "cppcon",
          edition: "2019",
@@ -10146,7 +10075,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2076,
+          number: 2082,
       identifier: "#cppcon-2019-0094",
          meeting: "cppcon",
          edition: "2019",
@@ -10167,7 +10096,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 843,
+          number: 844,
       identifier: "#c++now-2019-0050",
          meeting: "c++now",
          edition: "2019",
@@ -10188,7 +10117,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1192,
+          number: 1198,
       identifier: "#cpp-europe-2019-0009",
          meeting: "cpp europe",
          edition: "2019",
@@ -10209,7 +10138,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1371,
+          number: 1377,
       identifier: "#cppcon-2015-0038",
          meeting: "cppcon",
          edition: "2015",
@@ -10230,7 +10159,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 838,
+          number: 839,
       identifier: "#c++now-2019-0045",
          meeting: "c++now",
          edition: "2019",
@@ -10251,7 +10180,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1470,
+          number: 1476,
       identifier: "#cppcon-2016-0012",
          meeting: "cppcon",
          edition: "2016",
@@ -10272,7 +10201,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1964,
+          number: 1970,
       identifier: "#cppcon-2018-0174",
          meeting: "cppcon",
          edition: "2018",
@@ -10293,7 +10222,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 663,
+          number: 664,
       identifier: "#c++now-2017-0021",
          meeting: "c++now",
          edition: "2017",
@@ -10314,7 +10243,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 667,
+          number: 668,
       identifier: "#c++now-2017-0025",
          meeting: "c++now",
          edition: "2017",
@@ -10335,7 +10264,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2666,
+          number: 2672,
       identifier: "#meeting-c++-2020-0009",
          meeting: "meeting c++",
          edition: "2020",
@@ -10356,7 +10285,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1940,
+          number: 1946,
       identifier: "#cppcon-2018-0150",
          meeting: "cppcon",
          edition: "2018",
@@ -10377,7 +10306,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1794,
+          number: 1800,
       identifier: "#cppcon-2017-0193",
          meeting: "cppcon",
          edition: "2017",
@@ -10398,7 +10327,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2019,
+          number: 2025,
       identifier: "#cppcon-2019-0037",
          meeting: "cppcon",
          edition: "2019",
@@ -10419,49 +10348,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2472,
-      identifier: "#meeting-c++-2016-0051",
-         meeting: "meeting c++",
-         edition: "2016",
-           title: " Chandler Carruth",
-        speakers: [
-                     "On 'simple' Optimizations"
-                  ],
-           video: "https://youtube.com/watch?v=s4wnuiCwTGU",
-       thumbnail: "http://img.youtube.com/vi/s4wnuiCwTGU/0.jpg",
-        duration: 507,
-            tags: [
-                     "c++",
-                     "conference",
-                     "lightning",
-                     "live"
-                  ],
-           level: 0,
-        language: "english"
-   },
-   {
-          number: 1398,
-      identifier: "#cppcon-2015-0065",
-         meeting: "cppcon",
-         edition: "2015",
-           title: " Chandler Carruth : Technical Specifications & C++17",
-        speakers: [
-                     "Moderator"
-                  ],
-           video: "https://youtube.com/watch?v=p1fqdl6sLMY",
-       thumbnail: "http://img.youtube.com/vi/p1fqdl6sLMY/0.jpg",
-        duration: 4460,
-            tags: [
-                     "c++",
-                     "conference",
-                     "live",
-                     "talk"
-                  ],
-           level: 0,
-        language: "english"
-   },
-   {
-          number: 1570,
+          number: 1576,
       identifier: "#cppcon-2016-0112",
          meeting: "cppcon",
          edition: "2016",
@@ -10482,7 +10369,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 865,
+          number: 866,
       identifier: "#c++now-2019-0072",
          meeting: "c++now",
          edition: "2019",
@@ -10503,7 +10390,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1746,
+          number: 1752,
       identifier: "#cppcon-2017-0145",
          meeting: "cppcon",
          edition: "2017",
@@ -10524,7 +10411,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2417,
+          number: 2423,
       identifier: "#meeting-c++-2015-0033",
          meeting: "meeting c++",
          edition: "2015",
@@ -10545,7 +10432,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 821,
+          number: 822,
       identifier: "#c++now-2019-0028",
          meeting: "c++now",
          edition: "2019",
@@ -10566,7 +10453,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1450,
+          number: 1456,
       identifier: "#cppcon-2015-0137",
          meeting: "cppcon",
          edition: "2015",
@@ -10587,7 +10474,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1973,
+          number: 1979,
       identifier: "#cppcon-2018-0183",
          meeting: "cppcon",
          edition: "2018",
@@ -10608,7 +10495,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 687,
+          number: 688,
       identifier: "#c++now-2017-0045",
          meeting: "c++now",
          edition: "2017",
@@ -10629,7 +10516,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1926,
+          number: 1932,
       identifier: "#cppcon-2018-0136",
          meeting: "cppcon",
          edition: "2018",
@@ -10650,7 +10537,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1913,
+          number: 1919,
       identifier: "#cppcon-2018-0123",
          meeting: "cppcon",
          edition: "2018",
@@ -10671,7 +10558,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1922,
+          number: 1928,
       identifier: "#cppcon-2018-0132",
          meeting: "cppcon",
          edition: "2018",
@@ -10692,7 +10579,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1662,
+          number: 1668,
       identifier: "#cppcon-2017-0061",
          meeting: "cppcon",
          edition: "2017",
@@ -10713,7 +10600,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1442,
+          number: 1448,
       identifier: "#cppcon-2015-0129",
          meeting: "cppcon",
          edition: "2015",
@@ -10734,7 +10621,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 716,
+          number: 717,
       identifier: "#c++now-2018-0003",
          meeting: "c++now",
          edition: "2018",
@@ -10755,28 +10642,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1795,
-      identifier: "#cppcon-2018-0001",
-         meeting: "cppcon",
-         edition: "2018",
-           title: " Closing Panel: Spectre",
-        speakers: [
-                     "Matt Godbolt"
-                  ],
-           video: "https://youtube.com/watch?v=mt_ULMnQ4_A",
-       thumbnail: "http://img.youtube.com/vi/mt_ULMnQ4_A/0.jpg",
-        duration: 2571,
-            tags: [
-                     "c++",
-                     "conference",
-                     "live",
-                     "panel"
-                  ],
-           level: 0,
-        language: "english"
-   },
-   {
-          number: 1652,
+          number: 1658,
       identifier: "#cppcon-2017-0051",
          meeting: "cppcon",
          edition: "2017",
@@ -10797,7 +10663,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1883,
+          number: 1889,
       identifier: "#cppcon-2018-0093",
          meeting: "cppcon",
          edition: "2018",
@@ -10818,7 +10684,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 787,
+          number: 788,
       identifier: "#c++now-2018-0074",
          meeting: "c++now",
          edition: "2018",
@@ -10839,7 +10705,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1472,
+          number: 1478,
       identifier: "#cppcon-2016-0014",
          meeting: "cppcon",
          edition: "2016",
@@ -10860,7 +10726,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 610,
+          number: 611,
       identifier: "#c++now-2016-0015",
          meeting: "c++now",
          edition: "2016",
@@ -10881,7 +10747,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2522,
+          number: 2527,
       identifier: "#meeting-c++-2017-0047",
          meeting: "meeting c++",
          edition: "2017",
@@ -10902,7 +10768,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2136,
+          number: 2142,
       identifier: "#cppcon-2019-0154",
          meeting: "cppcon",
          edition: "2019",
@@ -10923,7 +10789,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1243,
+          number: 1249,
       identifier: "#cppcon-2014-0051",
          meeting: "cppcon",
          edition: "2014",
@@ -10944,7 +10810,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1961,
+          number: 1967,
       identifier: "#cppcon-2018-0171",
          meeting: "cppcon",
          edition: "2018",
@@ -10965,7 +10831,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 674,
+          number: 675,
       identifier: "#c++now-2017-0032",
          meeting: "c++now",
          edition: "2017",
@@ -10986,7 +10852,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 742,
+          number: 743,
       identifier: "#c++now-2018-0029",
          meeting: "c++now",
          edition: "2018",
@@ -11007,7 +10873,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 810,
+          number: 811,
       identifier: "#c++now-2019-0017",
          meeting: "c++now",
          edition: "2019",
@@ -11028,7 +10894,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 427,
+          number: 428,
       identifier: "#c++now-2012-0001",
          meeting: "c++now",
          edition: "2012",
@@ -11042,20 +10908,21 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1452,
+          number: 1458,
       identifier: "#cppcon-2015-0139",
          meeting: "cppcon",
          edition: "2015",
            title: " Compile-Time Counter Using Template & Constexpr Magic",
         speakers: [
-                     "A. Sermersheim",
-                     "B. Geller"
+                     "Ansel Sermersheim",
+                     "Barbara Geller"
                   ],
            video: "https://youtube.com/watch?v=gI6Qtn4US9E",
        thumbnail: "http://img.youtube.com/vi/gI6Qtn4US9E/0.jpg",
@@ -11070,7 +10937,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1806,
+          number: 1812,
       identifier: "#cppcon-2018-0012",
          meeting: "cppcon",
          edition: "2018",
@@ -11091,7 +10958,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1682,
+          number: 1688,
       identifier: "#cppcon-2017-0081",
          meeting: "cppcon",
          edition: "2017",
@@ -11127,13 +10994,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2027,
+          number: 2033,
       identifier: "#cppcon-2019-0045",
          meeting: "cppcon",
          edition: "2019",
@@ -11154,7 +11022,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2071,
+          number: 2077,
       identifier: "#cppcon-2019-0089",
          meeting: "cppcon",
          edition: "2019",
@@ -11175,7 +11043,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1804,
+          number: 1810,
       identifier: "#cppcon-2018-0010s",
          meeting: "cppcon",
          edition: "2018",
@@ -11196,7 +11064,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 658,
+          number: 659,
       identifier: "#c++now-2017-0016",
          meeting: "c++now",
          edition: "2017",
@@ -11217,7 +11085,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1917,
+          number: 1923,
       identifier: "#cppcon-2018-0127",
          meeting: "cppcon",
          edition: "2018",
@@ -11238,7 +11106,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1521,
+          number: 1527,
       identifier: "#cppcon-2016-0063",
          meeting: "cppcon",
          edition: "2016",
@@ -11259,7 +11127,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1526,
+          number: 1532,
       identifier: "#cppcon-2016-0068",
          meeting: "cppcon",
          edition: "2016",
@@ -11280,7 +11148,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 707,
+          number: 708,
       identifier: "#c++now-2017-0065",
          meeting: "c++now",
          edition: "2017",
@@ -11308,7 +11176,7 @@ const talks = [
            title: " ConceptClang: An Implementation Model for C++ Concepts",
         speakers: [
                      "Andrew Lumsdaine",
-                     "Larisse Voufo"
+                     "Larisse Vuofo"
                   ],
            video: "https://youtube.com/watch?v=ryHr3oFioDE",
        thumbnail: "http://img.youtube.com/vi/ryHr3oFioDE/0.jpg",
@@ -11316,7 +11184,8 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -11336,13 +11205,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1839,
+          number: 1845,
       identifier: "#cppcon-2018-0045",
          meeting: "cppcon",
          edition: "2018",
@@ -11363,7 +11233,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1860,
+          number: 1866,
       identifier: "#cppcon-2018-0066",
          meeting: "cppcon",
          edition: "2018",
@@ -11384,7 +11254,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1914,
+          number: 1920,
       identifier: "#cppcon-2018-0124",
          meeting: "cppcon",
          edition: "2018",
@@ -11405,7 +11275,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 471,
+          number: 474,
       identifier: "#c++now-2013-0004",
          meeting: "c++now",
          edition: "2013",
@@ -11419,13 +11289,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2663,
+          number: 2669,
       identifier: "#meeting-c++-2020-0006",
          meeting: "meeting c++",
          edition: "2020",
@@ -11446,7 +11317,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1797,
+          number: 1803,
       identifier: "#cppcon-2018-0003",
          meeting: "cppcon",
          edition: "2018",
@@ -11467,7 +11338,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1187,
+          number: 1194,
       identifier: "#cpp-europe-2019-0004",
          meeting: "cpp europe",
          edition: "2019",
@@ -11488,7 +11359,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1931,
+          number: 1937,
       identifier: "#cppcon-2018-0141",
          meeting: "cppcon",
          edition: "2018",
@@ -11509,7 +11380,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1375,
+          number: 1381,
       identifier: "#cppcon-2015-0042",
          meeting: "cppcon",
          edition: "2015",
@@ -11530,7 +11401,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1650,
+          number: 1656,
       identifier: "#cppcon-2017-0049",
          meeting: "cppcon",
          edition: "2017",
@@ -11551,7 +11422,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1185,
+          number: 1192,
       identifier: "#cpp-europe-2019-0002",
          meeting: "cpp europe",
          edition: "2019",
@@ -11572,7 +11443,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1484,
+          number: 1490,
       identifier: "#cppcon-2016-0026",
          meeting: "cppcon",
          edition: "2016",
@@ -11593,7 +11464,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 651,
+          number: 652,
       identifier: "#c++now-2017-0009",
          meeting: "c++now",
          edition: "2017",
@@ -11615,7 +11486,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1616,
+          number: 1623,
       identifier: "#cppcon-2017-0015",
          meeting: "cppcon",
          edition: "2017",
@@ -11637,7 +11508,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1968,
+          number: 1974,
       identifier: "#cppcon-2018-0178",
          meeting: "cppcon",
          edition: "2018",
@@ -11658,7 +11529,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1377,
+          number: 1383,
       identifier: "#cppcon-2015-0044",
          meeting: "cppcon",
          edition: "2015",
@@ -11666,9 +11537,9 @@ const talks = [
         speakers: [
                      "Scott Schurr"
                   ],
-           video: "https://youtube.com/watch?v=qO-9yiAOQqc",
-       thumbnail: "http://img.youtube.com/vi/qO-9yiAOQqc/0.jpg",
-        duration: 3628,
+           video: "https://youtube.com/watch?v=fZjYCQ8dzTc",
+       thumbnail: "http://img.youtube.com/vi/fZjYCQ8dzTc/0.jpg",
+        duration: 3846,
             tags: [
                      "c++",
                      "conference",
@@ -11679,7 +11550,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 562,
+          number: 563,
       identifier: "#c++now-2015-0008",
          meeting: "c++now",
          edition: "2015",
@@ -11693,13 +11564,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1354,
+          number: 1360,
       identifier: "#cppcon-2015-0021",
          meeting: "cppcon",
          edition: "2015",
@@ -11720,7 +11592,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1780,
+          number: 1786,
       identifier: "#cppcon-2017-0179",
          meeting: "cppcon",
          edition: "2017",
@@ -11741,7 +11613,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 508,
+          number: 511,
       identifier: "#c++now-2013-0041",
          meeting: "c++now",
          edition: "2013",
@@ -11755,13 +11627,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1846,
+          number: 1852,
       identifier: "#cppcon-2018-0052",
          meeting: "cppcon",
          edition: "2018",
@@ -11782,7 +11655,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1847,
+          number: 1853,
       identifier: "#cppcon-2018-0053",
          meeting: "cppcon",
          edition: "2018",
@@ -11803,7 +11676,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2032,
+          number: 2038,
       identifier: "#cppcon-2019-0050",
          meeting: "cppcon",
          edition: "2019",
@@ -11824,7 +11697,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2028,
+          number: 2034,
       identifier: "#cppcon-2019-0046",
          meeting: "cppcon",
          edition: "2019",
@@ -11845,7 +11718,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1432,
+          number: 1438,
       identifier: "#cppcon-2015-0099",
          meeting: "cppcon",
          edition: "2015",
@@ -11867,7 +11740,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 600,
+          number: 601,
       identifier: "#c++now-2016-0005",
          meeting: "c++now",
          edition: "2016",
@@ -11889,7 +11762,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 786,
+          number: 787,
       identifier: "#c++now-2018-0073",
          meeting: "c++now",
          edition: "2018",
@@ -11910,7 +11783,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1952,
+          number: 1958,
       identifier: "#cppcon-2018-0162",
          meeting: "cppcon",
          edition: "2018",
@@ -11945,13 +11818,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1615,
+          number: 1622,
       identifier: "#cppcon-2017-0014",
          meeting: "cppcon",
          edition: "2017",
@@ -11972,7 +11846,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1235,
+          number: 1241,
       identifier: "#cppcon-2014-0043",
          meeting: "cppcon",
          edition: "2014",
@@ -12007,13 +11881,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1242,
+          number: 1248,
       identifier: "#cppcon-2014-0050",
          meeting: "cppcon",
          edition: "2014",
@@ -12034,7 +11909,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1848,
+          number: 1854,
       identifier: "#cppcon-2018-0054",
          meeting: "cppcon",
          edition: "2018",
@@ -12069,7 +11944,8 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -12089,13 +11965,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1293,
+          number: 1299,
       identifier: "#cppcon-2014-0101",
          meeting: "cppcon",
          edition: "2014",
@@ -12116,7 +11993,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1313,
+          number: 1319,
       identifier: "#cppcon-2014-0121",
          meeting: "cppcon",
          edition: "2014",
@@ -12137,7 +12014,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1645,
+          number: 1651,
       identifier: "#cppcon-2017-0044",
          meeting: "cppcon",
          edition: "2017",
@@ -12158,7 +12035,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1810,
+          number: 1816,
       identifier: "#cppcon-2018-0016",
          meeting: "cppcon",
          edition: "2018",
@@ -12179,7 +12056,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1726,
+          number: 1732,
       identifier: "#cppcon-2017-0125",
          meeting: "cppcon",
          edition: "2017",
@@ -12200,7 +12077,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1960,
+          number: 1966,
       identifier: "#cppcon-2018-0170",
          meeting: "cppcon",
          edition: "2018",
@@ -12221,7 +12098,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1898,
+          number: 1904,
       identifier: "#cppcon-2018-0108",
          meeting: "cppcon",
          edition: "2018",
@@ -12242,7 +12119,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 683,
+          number: 684,
       identifier: "#c++now-2017-0041",
          meeting: "c++now",
          edition: "2017",
@@ -12263,7 +12140,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1728,
+          number: 1734,
       identifier: "#cppcon-2017-0127",
          meeting: "cppcon",
          edition: "2017",
@@ -12284,27 +12161,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 511,
-      identifier: "#c++now-2013-0044",
-         meeting: "c++now",
-         edition: "2013",
-           title: " Dan Quinlan: C++ Use in High Performance Computing Within DOE: Past and Future",
-        speakers: [
-                     "2013 Keynote"
-                  ],
-           video: "https://youtube.com/watch?v=zZGYfM1iM7c",
-       thumbnail: "http://img.youtube.com/vi/zZGYfM1iM7c/0.jpg",
-        duration: 5337,
-            tags: [
-                     "c++",
-                     "conference",
-                     "live"
-                  ],
-           level: 0,
-        language: "english"
-   },
-   {
-          number: 1942,
+          number: 1948,
       identifier: "#cppcon-2018-0152",
          meeting: "cppcon",
          edition: "2018",
@@ -12346,7 +12203,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1311,
+          number: 1317,
       identifier: "#cppcon-2014-0119",
          meeting: "cppcon",
          edition: "2014",
@@ -12367,7 +12224,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1829,
+          number: 1835,
       identifier: "#cppcon-2018-0035",
          meeting: "cppcon",
          edition: "2018",
@@ -12388,7 +12245,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1987,
+          number: 1993,
       identifier: "#cppcon-2019-0005",
          meeting: "cppcon",
          edition: "2019",
@@ -12409,7 +12266,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1908,
+          number: 1914,
       identifier: "#cppcon-2018-0118",
          meeting: "cppcon",
          edition: "2018",
@@ -12430,7 +12287,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1595,
+          number: 1601,
       identifier: "#cppcon-2016-0137",
          meeting: "cppcon",
          edition: "2016",
@@ -12451,7 +12308,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 749,
+          number: 750,
       identifier: "#c++now-2018-0036",
          meeting: "c++now",
          edition: "2018",
@@ -12472,17 +12329,17 @@ const talks = [
         language: "english"
    },
    {
-          number: 1875,
+          number: 1881,
       identifier: "#cppcon-2018-0083",
          meeting: "cppcon",
          edition: "2018",
            title: " Debug C++ Without Running",
         speakers: [
-                     "Anastasiia Kazakova"
+                     "Anastasia Kazakova"
                   ],
-           video: "https://youtube.com/watch?v=eGWM_dI5egQ",
-       thumbnail: "http://img.youtube.com/vi/eGWM_dI5egQ/0.jpg",
-        duration: 3194,
+           video: "https://youtube.com/watch?v=8-tmVEong2k",
+       thumbnail: "http://img.youtube.com/vi/8-tmVEong2k/0.jpg",
+        duration: 2415,
             tags: [
                      "c++",
                      "conference",
@@ -12493,7 +12350,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 468,
+          number: 471,
       identifier: "#c++now-2013-0001",
          meeting: "c++now",
          edition: "2013",
@@ -12507,13 +12364,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1833,
+          number: 1839,
       identifier: "#cppcon-2018-0039",
          meeting: "cppcon",
          edition: "2018",
@@ -12548,13 +12406,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2688,
+          number: 2694,
       identifier: "#pacific-c++-2017-0005",
          meeting: "pacific c++",
          edition: "2017",
@@ -12574,7 +12433,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2695,
+          number: 2701,
       identifier: "#pacific-c++-2018-0005",
          meeting: "pacific c++",
          edition: "2018",
@@ -12594,7 +12453,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 870,
+          number: 871,
       identifier: "#c++now-2019-0077",
          meeting: "c++now",
          edition: "2019",
@@ -12615,7 +12474,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1416,
+          number: 1422,
       identifier: "#cppcon-2015-0083",
          meeting: "cppcon",
          edition: "2015",
@@ -12636,7 +12495,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1279,
+          number: 1285,
       identifier: "#cppcon-2014-0087",
          meeting: "cppcon",
          edition: "2014",
@@ -12657,7 +12516,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1625,
+          number: 1632,
       identifier: "#cppcon-2017-0024",
          meeting: "cppcon",
          edition: "2017",
@@ -12678,7 +12537,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1265,
+          number: 1271,
       identifier: "#cppcon-2014-0073",
          meeting: "cppcon",
          edition: "2014",
@@ -12699,7 +12558,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1264,
+          number: 1270,
       identifier: "#cppcon-2014-0072",
          meeting: "cppcon",
          edition: "2014",
@@ -12720,7 +12579,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1663,
+          number: 1669,
       identifier: "#cppcon-2017-0062",
          meeting: "cppcon",
          edition: "2017",
@@ -12741,7 +12600,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1388,
+          number: 1394,
       identifier: "#cppcon-2015-0055",
          meeting: "cppcon",
          edition: "2015",
@@ -12762,7 +12621,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 797,
+          number: 798,
       identifier: "#c++now-2019-0003",
          meeting: "c++now",
          edition: "2019",
@@ -12783,7 +12642,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1468,
+          number: 1474,
       identifier: "#cppcon-2016-0010",
          meeting: "cppcon",
          edition: "2016",
@@ -12804,7 +12663,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 752,
+          number: 753,
       identifier: "#c++now-2018-0039",
          meeting: "c++now",
          edition: "2018",
@@ -12825,7 +12684,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1897,
+          number: 1903,
       identifier: "#cppcon-2018-0107",
          meeting: "cppcon",
          edition: "2018",
@@ -12860,7 +12719,8 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -12887,7 +12747,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1640,
+          number: 1646,
       identifier: "#cppcon-2017-0039",
          meeting: "cppcon",
          edition: "2017",
@@ -12908,7 +12768,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 615,
+          number: 616,
       identifier: "#c++now-2016-0020",
          meeting: "c++now",
          edition: "2016",
@@ -12929,7 +12789,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2604,
+          number: 2610,
       identifier: "#meeting-c++-2019-0001",
          meeting: "meeting c++",
          edition: "2019",
@@ -12950,7 +12810,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1607,
+          number: 1614,
       identifier: "#cppcon-2017-0006",
          meeting: "cppcon",
          edition: "2017",
@@ -12971,7 +12831,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1705,
+          number: 1711,
       identifier: "#cppcon-2017-0104",
          meeting: "cppcon",
          edition: "2017",
@@ -12992,7 +12852,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1556,
+          number: 1562,
       identifier: "#cppcon-2016-0098",
          meeting: "cppcon",
          edition: "2016",
@@ -13027,13 +12887,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2052,
+          number: 2058,
       identifier: "#cppcon-2019-0070",
          meeting: "cppcon",
          edition: "2019",
@@ -13054,7 +12915,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1464,
+          number: 1470,
       identifier: "#cppcon-2016-0005",
          meeting: "cppcon",
          edition: "2016",
@@ -13075,7 +12936,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1552,
+          number: 1558,
       identifier: "#cppcon-2016-0094",
          meeting: "cppcon",
          edition: "2016",
@@ -13096,27 +12957,28 @@ const talks = [
         language: "english"
    },
    {
-          number: 573,
+          number: 574,
       identifier: "#c++now-2015-0019",
          meeting: "c++now",
          edition: "2015",
            title: " Developing EDSL's for Boost.Spirit",
         speakers: [
-                     "Felipe Almeida"
+                     "Felipe Magno de Almeida"
                   ],
-           video: "https://youtube.com/watch?v=eLzpnSBJi30",
-       thumbnail: "http://img.youtube.com/vi/eLzpnSBJi30/0.jpg",
-        duration: 2301,
+           video: "https://youtube.com/watch?v=BHOFOXFtKHw",
+       thumbnail: "http://img.youtube.com/vi/BHOFOXFtKHw/0.jpg",
+        duration: 2600,
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1918,
+          number: 1924,
       identifier: "#cppcon-2018-0128",
          meeting: "cppcon",
          edition: "2018",
@@ -13137,7 +12999,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 607,
+          number: 608,
       identifier: "#c++now-2016-0012",
          meeting: "c++now",
          edition: "2016",
@@ -13172,13 +13034,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 851,
+          number: 852,
       identifier: "#c++now-2019-0058",
          meeting: "c++now",
          edition: "2019",
@@ -13213,13 +13076,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2524,
+          number: 2529,
       identifier: "#meeting-c++-2017-0049",
          meeting: "meeting c++",
          edition: "2017",
@@ -13240,7 +13104,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 758,
+          number: 759,
       identifier: "#c++now-2018-0045",
          meeting: "c++now",
          edition: "2018",
@@ -13261,7 +13125,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 609,
+          number: 610,
       identifier: "#c++now-2016-0014",
          meeting: "c++now",
          edition: "2016",
@@ -13283,7 +13147,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1822,
+          number: 1828,
       identifier: "#cppcon-2018-0028",
          meeting: "cppcon",
          edition: "2018",
@@ -13304,7 +13168,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2081,
+          number: 2087,
       identifier: "#cppcon-2019-0099",
          meeting: "cppcon",
          edition: "2019",
@@ -13339,13 +13203,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1671,
+          number: 1677,
       identifier: "#cppcon-2017-0070",
          meeting: "cppcon",
          edition: "2017",
@@ -13366,7 +13231,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 479,
+          number: 482,
       identifier: "#c++now-2013-0012",
          meeting: "c++now",
          edition: "2013",
@@ -13380,20 +13245,21 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 483,
+          number: 486,
       identifier: "#c++now-2013-0016",
          meeting: "c++now",
          edition: "2013",
            title: " Dynamic, Recursive, Heterogeneous Types in Statically-Typed Languages",
         speakers: [
-                     "Jefferey",
-                     "Sounders"
+                     "Clinton Jefferey",
+                     "Richard Sounders"
                   ],
            video: "https://youtube.com/watch?v=W3TsQtnMtqg",
        thumbnail: "http://img.youtube.com/vi/W3TsQtnMtqg/0.jpg",
@@ -13401,13 +13267,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1646,
+          number: 1652,
       identifier: "#cppcon-2017-0045",
          meeting: "cppcon",
          edition: "2017",
@@ -13428,7 +13295,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1878,
+          number: 1884,
       identifier: "#cppcon-2018-0086",
          meeting: "cppcon",
          edition: "2018",
@@ -13449,7 +13316,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1793,
+          number: 1799,
       identifier: "#cppcon-2017-0192",
          meeting: "cppcon",
          edition: "2017",
@@ -13470,7 +13337,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1900,
+          number: 1906,
       identifier: "#cppcon-2018-0110",
          meeting: "cppcon",
          edition: "2018",
@@ -13491,7 +13358,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 783,
+          number: 784,
       identifier: "#c++now-2018-0070",
          meeting: "c++now",
          edition: "2018",
@@ -13512,7 +13379,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 500,
+          number: 503,
       identifier: "#c++now-2013-0033",
          meeting: "c++now",
          edition: "2013",
@@ -13526,13 +13393,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 729,
+          number: 730,
       identifier: "#c++now-2018-0016",
          meeting: "c++now",
          edition: "2018",
@@ -13553,7 +13421,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1927,
+          number: 1933,
       identifier: "#cppcon-2018-0137",
          meeting: "cppcon",
          edition: "2018",
@@ -13574,7 +13442,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1809,
+          number: 1815,
       identifier: "#cppcon-2018-0015",
          meeting: "cppcon",
          edition: "2018",
@@ -13595,7 +13463,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2022,
+          number: 2028,
       identifier: "#cppcon-2019-0040",
          meeting: "cppcon",
          edition: "2019",
@@ -13617,7 +13485,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 675,
+          number: 676,
       identifier: "#c++now-2017-0033",
          meeting: "c++now",
          edition: "2017",
@@ -13638,7 +13506,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1687,
+          number: 1693,
       identifier: "#cppcon-2017-0086",
          meeting: "cppcon",
          edition: "2017",
@@ -13659,7 +13527,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1891,
+          number: 1897,
       identifier: "#cppcon-2018-0101",
          meeting: "cppcon",
          edition: "2018",
@@ -13680,7 +13548,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1240,
+          number: 1246,
       identifier: "#cppcon-2014-0048",
          meeting: "cppcon",
          edition: "2014",
@@ -13701,7 +13569,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2043,
+          number: 2049,
       identifier: "#cppcon-2019-0061",
          meeting: "cppcon",
          edition: "2019",
@@ -13722,7 +13590,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1565,
+          number: 1571,
       identifier: "#cppcon-2016-0107",
          meeting: "cppcon",
          edition: "2016",
@@ -13743,7 +13611,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1439,
+          number: 1445,
       identifier: "#cppcon-2015-0126",
          meeting: "cppcon",
          edition: "2015",
@@ -13764,7 +13632,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2477,
+          number: 2483,
       identifier: "#meeting-c++-2017-0002",
          meeting: "meeting c++",
          edition: "2017",
@@ -13785,7 +13653,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 798,
+          number: 799,
       identifier: "#c++now-2019-0004",
          meeting: "c++now",
          edition: "2019",
@@ -13806,7 +13674,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2683,
+          number: 2689,
       identifier: "#meeting-embedded-2020-0002",
          meeting: "meeting embedded",
          edition: "2020",
@@ -13827,7 +13695,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1280,
+          number: 1286,
       identifier: "#cppcon-2014-0088",
          meeting: "cppcon",
          edition: "2014",
@@ -13848,7 +13716,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1195,
+          number: 1201,
       identifier: "#cpp-europe-2020-0002",
          meeting: "cpp europe",
          edition: "2020",
@@ -13870,14 +13738,14 @@ const talks = [
                      "keynote",
                      "live",
                      "live",
-                     "online",
+                     "live",
                      "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1518,
+          number: 1524,
       identifier: "#cppcon-2016-0060",
          meeting: "cppcon",
          edition: "2016",
@@ -13899,7 +13767,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1244,
+          number: 1250,
       identifier: "#cppcon-2014-0052",
          meeting: "cppcon",
          edition: "2014",
@@ -13920,7 +13788,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 705,
+          number: 706,
       identifier: "#c++now-2017-0063",
          meeting: "c++now",
          edition: "2017",
@@ -13941,7 +13809,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1876,
+          number: 1882,
       identifier: "#cppcon-2018-0084",
          meeting: "cppcon",
          edition: "2018",
@@ -13962,7 +13830,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1712,
+          number: 1718,
       identifier: "#cppcon-2017-0111",
          meeting: "cppcon",
          edition: "2017",
@@ -13983,7 +13851,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1631,
+          number: 1638,
       identifier: "#cppcon-2017-0030",
          meeting: "cppcon",
          edition: "2017",
@@ -14004,7 +13872,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1835,
+          number: 1841,
       identifier: "#cppcon-2018-0041",
          meeting: "cppcon",
          edition: "2018",
@@ -14025,7 +13893,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1635,
+          number: 1642,
       identifier: "#cppcon-2017-0034",
          meeting: "cppcon",
          edition: "2017",
@@ -14046,7 +13914,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1808,
+          number: 1814,
       identifier: "#cppcon-2018-0014",
          meeting: "cppcon",
          edition: "2018",
@@ -14067,7 +13935,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 792,
+          number: 793,
       identifier: "#c++now-2018-0079",
          meeting: "c++now",
          edition: "2018",
@@ -14088,7 +13956,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2687,
+          number: 2693,
       identifier: "#pacific-c++-2017-0004",
          meeting: "pacific c++",
          edition: "2017",
@@ -14108,7 +13976,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2694,
+          number: 2700,
       identifier: "#pacific-c++-2018-0004",
          meeting: "pacific c++",
          edition: "2018",
@@ -14128,7 +13996,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2040,
+          number: 2046,
       identifier: "#cppcon-2019-0058",
          meeting: "cppcon",
          edition: "2019",
@@ -14149,7 +14017,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 714,
+          number: 715,
       identifier: "#c++now-2017-0072",
          meeting: "c++now",
          edition: "2017",
@@ -14170,7 +14038,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 713,
+          number: 714,
       identifier: "#c++now-2017-0071",
          meeting: "c++now",
          edition: "2017",
@@ -14191,7 +14059,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1630,
+          number: 1637,
       identifier: "#cppcon-2017-0029",
          meeting: "cppcon",
          edition: "2017",
@@ -14212,7 +14080,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 700,
+          number: 701,
       identifier: "#c++now-2017-0058",
          meeting: "c++now",
          edition: "2017",
@@ -14233,7 +14101,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2059,
+          number: 2065,
       identifier: "#cppcon-2019-0077",
          meeting: "cppcon",
          edition: "2019",
@@ -14254,7 +14122,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 855,
+          number: 856,
       identifier: "#c++now-2019-0062",
          meeting: "c++now",
          edition: "2019",
@@ -14275,7 +14143,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1642,
+          number: 1648,
       identifier: "#cppcon-2017-0041",
          meeting: "cppcon",
          edition: "2017",
@@ -14296,7 +14164,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1414,
+          number: 1420,
       identifier: "#cppcon-2015-0081",
          meeting: "cppcon",
          edition: "2015",
@@ -14317,7 +14185,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1529,
+          number: 1535,
       identifier: "#cppcon-2016-0071",
          meeting: "cppcon",
          edition: "2016",
@@ -14338,7 +14206,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1275,
+          number: 1281,
       identifier: "#cppcon-2014-0083",
          meeting: "cppcon",
          edition: "2014",
@@ -14359,7 +14227,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1274,
+          number: 1280,
       identifier: "#cppcon-2014-0082",
          meeting: "cppcon",
          edition: "2014",
@@ -14380,7 +14248,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1273,
+          number: 1279,
       identifier: "#cppcon-2014-0081",
          meeting: "cppcon",
          edition: "2014",
@@ -14415,7 +14283,8 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -14435,13 +14304,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 618,
+          number: 619,
       identifier: "#c++now-2016-0023",
          meeting: "c++now",
          edition: "2016",
@@ -14462,7 +14332,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 818,
+          number: 819,
       identifier: "#c++now-2019-0025",
          meeting: "c++now",
          edition: "2019",
@@ -14483,7 +14353,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1359,
+          number: 1365,
       identifier: "#cppcon-2015-0026",
          meeting: "cppcon",
          edition: "2015",
@@ -14504,7 +14374,28 @@ const talks = [
         language: "english"
    },
    {
-          number: 1877,
+          number: 1189,
+      identifier: "#cpp-europe-2018-0006",
+         meeting: "cpp europe",
+         edition: "2018",
+           title: " Expect the Expected",
+        speakers: [
+                     "Andrei Alexandrescu"
+                  ],
+           video: "https://youtube.com/watch?v=PH4WBuE1BHI",
+       thumbnail: "http://img.youtube.com/vi/PH4WBuE1BHI/0.jpg",
+        duration: 3538,
+            tags: [
+                     "c++",
+                     "conference",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "english"
+   },
+   {
+          number: 1883,
       identifier: "#cppcon-2018-0085",
          meeting: "cppcon",
          edition: "2018",
@@ -14525,7 +14416,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 827,
+          number: 828,
       identifier: "#c++now-2019-0034",
          meeting: "c++now",
          edition: "2019",
@@ -14546,7 +14437,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1562,
+          number: 1568,
       identifier: "#cppcon-2016-0104",
          meeting: "cppcon",
          edition: "2016",
@@ -14567,13 +14458,13 @@ const talks = [
         language: "english"
    },
    {
-          number: 1341,
+          number: 1347,
       identifier: "#cppcon-2015-0008",
          meeting: "cppcon",
          edition: "2015",
-           title: " Expression Templates - Past, Present, Future",
+           title: " Expression Templates - Past, Present, Future (PART 1 )",
         speakers: [
-                     "Joel Falcou PART 1"
+                     "Joel Falcou"
                   ],
            video: "https://youtube.com/watch?v=IiVl5oSU5B8",
        thumbnail: "http://img.youtube.com/vi/IiVl5oSU5B8/0.jpg",
@@ -14588,7 +14479,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 648,
+          number: 649,
       identifier: "#c++now-2017-0006",
          meeting: "c++now",
          edition: "2017",
@@ -14609,7 +14500,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2030,
+          number: 2036,
       identifier: "#cppcon-2019-0048",
          meeting: "cppcon",
          edition: "2019",
@@ -14630,13 +14521,13 @@ const talks = [
         language: "english"
    },
    {
-          number: 1352,
+          number: 1358,
       identifier: "#cppcon-2015-0019",
          meeting: "cppcon",
          edition: "2015",
-           title: " Expression Templates: Past, Present, Future",
+           title: " Expression Templates: Past, Present, Future (PART 2)",
         speakers: [
-                     "Joel Falcou PART 2"
+                     "Joel Falcou"
                   ],
            video: "https://youtube.com/watch?v=imU_WfonVr8",
        thumbnail: "http://img.youtube.com/vi/imU_WfonVr8/0.jpg",
@@ -14651,13 +14542,13 @@ const talks = [
         language: "english"
    },
    {
-          number: 1356,
+          number: 1362,
       identifier: "#cppcon-2015-0023",
          meeting: "cppcon",
          edition: "2015",
-           title: " Expression Templates: Past, Present, Future",
+           title: " Expression Templates: Past, Present, Future (PART 3)",
         speakers: [
-                     "Joel Falcou PART 3"
+                     "Joel Falcou"
                   ],
            video: "https://youtube.com/watch?v=A9trwnv6k-w",
        thumbnail: "http://img.youtube.com/vi/A9trwnv6k-w/0.jpg",
@@ -14672,7 +14563,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 628,
+          number: 629,
       identifier: "#c++now-2016-0033",
          meeting: "c++now",
          edition: "2016",
@@ -14693,7 +14584,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1462,
+          number: 1468,
       identifier: "#cppcon-2016-0003",
          meeting: "cppcon",
          edition: "2016",
@@ -14714,7 +14605,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1443,
+          number: 1449,
       identifier: "#cppcon-2015-0130",
          meeting: "cppcon",
          edition: "2015",
@@ -14735,7 +14626,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1758,
+          number: 1764,
       identifier: "#cppcon-2017-0157",
          meeting: "cppcon",
          edition: "2017",
@@ -14756,7 +14647,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 732,
+          number: 733,
       identifier: "#c++now-2018-0019",
          meeting: "c++now",
          edition: "2018",
@@ -14777,7 +14668,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1886,
+          number: 1892,
       identifier: "#cppcon-2018-0096",
          meeting: "cppcon",
          edition: "2018",
@@ -14798,7 +14689,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1707,
+          number: 1713,
       identifier: "#cppcon-2017-0106",
          meeting: "cppcon",
          edition: "2017",
@@ -14819,7 +14710,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1772,
+          number: 1778,
       identifier: "#cppcon-2017-0171",
          meeting: "cppcon",
          edition: "2017",
@@ -14840,7 +14731,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1811,
+          number: 1817,
       identifier: "#cppcon-2018-0017",
          meeting: "cppcon",
          edition: "2018",
@@ -14875,13 +14766,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1958,
+          number: 1964,
       identifier: "#cppcon-2018-0168",
          meeting: "cppcon",
          edition: "2018",
@@ -14889,9 +14781,9 @@ const talks = [
         speakers: [
                      "Tsung-Wei Huang"
                   ],
-           video: "https://youtube.com/watch?v=MX15huP5DsM",
-       thumbnail: "http://img.youtube.com/vi/MX15huP5DsM/0.jpg",
-        duration: 3652,
+           video: "https://youtube.com/watch?v=ho9bqIJkvkc",
+       thumbnail: "http://img.youtube.com/vi/ho9bqIJkvkc/0.jpg",
+        duration: 297,
             tags: [
                      "c++",
                      "conference",
@@ -14902,7 +14794,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2064,
+          number: 2070,
       identifier: "#cppcon-2019-0082",
          meeting: "cppcon",
          edition: "2019",
@@ -14923,7 +14815,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2086,
+          number: 2092,
       identifier: "#cppcon-2019-0104",
          meeting: "cppcon",
          edition: "2019",
@@ -14944,7 +14836,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1343,
+          number: 1349,
       identifier: "#cppcon-2015-0010",
          meeting: "cppcon",
          edition: "2015",
@@ -14965,7 +14857,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1628,
+          number: 1635,
       identifier: "#cppcon-2017-0027",
          meeting: "cppcon",
          edition: "2017",
@@ -14986,7 +14878,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1936,
+          number: 1942,
       identifier: "#cppcon-2018-0146",
          meeting: "cppcon",
          edition: "2018",
@@ -15007,7 +14899,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 698,
+          number: 699,
       identifier: "#c++now-2017-0056",
          meeting: "c++now",
          edition: "2017",
@@ -15028,7 +14920,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1555,
+          number: 1561,
       identifier: "#cppcon-2016-0097",
          meeting: "cppcon",
          edition: "2016",
@@ -15049,7 +14941,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1975,
+          number: 1981,
       identifier: "#cppcon-2018-0185",
          meeting: "cppcon",
          edition: "2018",
@@ -15070,7 +14962,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2084,
+          number: 2090,
       identifier: "#cppcon-2019-0102",
          meeting: "cppcon",
          edition: "2019",
@@ -15091,7 +14983,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 599,
+          number: 600,
       identifier: "#c++now-2016-0004",
          meeting: "c++now",
          edition: "2016",
@@ -15112,7 +15004,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1636,
+          number: 1643,
       identifier: "#cppcon-2017-0035",
          meeting: "cppcon",
          edition: "2017",
@@ -15133,7 +15025,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 794,
+          number: 795,
       identifier: "#c++now-2018-0081",
          meeting: "c++now",
          edition: "2018",
@@ -15154,7 +15046,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 773,
+          number: 774,
       identifier: "#c++now-2018-0060",
          meeting: "c++now",
          edition: "2018",
@@ -15175,7 +15067,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 757,
+          number: 758,
       identifier: "#c++now-2018-0044",
          meeting: "c++now",
          edition: "2018",
@@ -15196,7 +15088,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1976,
+          number: 1982,
       identifier: "#cppcon-2018-0186",
          meeting: "cppcon",
          edition: "2018",
@@ -15217,7 +15109,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1252,
+          number: 1258,
       identifier: "#cppcon-2014-0060",
          meeting: "cppcon",
          edition: "2014",
@@ -15239,7 +15131,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2457,
+          number: 2463,
       identifier: "#meeting-c++-2016-0036",
          meeting: "meeting c++",
          edition: "2016",
@@ -15260,7 +15152,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1725,
+          number: 1731,
       identifier: "#cppcon-2017-0124",
          meeting: "cppcon",
          edition: "2017",
@@ -15281,7 +15173,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2037,
+          number: 2043,
       identifier: "#cppcon-2019-0055",
          meeting: "cppcon",
          edition: "2019",
@@ -15302,7 +15194,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 429,
+          number: 430,
       identifier: "#c++now-2012-0003",
          meeting: "c++now",
          edition: "2012",
@@ -15316,13 +15208,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 614,
+          number: 615,
       identifier: "#c++now-2016-0019",
          meeting: "c++now",
          edition: "2016",
@@ -15343,7 +15236,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2001,
+          number: 2007,
       identifier: "#cppcon-2019-0019",
          meeting: "cppcon",
          edition: "2019",
@@ -15364,7 +15257,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2662,
+          number: 2668,
       identifier: "#meeting-c++-2020-0005",
          meeting: "meeting c++",
          edition: "2020",
@@ -15385,7 +15278,28 @@ const talks = [
         language: "english"
    },
    {
-          number: 1568,
+          number: 1187,
+      identifier: "#cpp-europe-2018-0004",
+         meeting: "cpp europe",
+         edition: "2018",
+           title: " From Iterators To Ranges - The Upcoming Evolution Of the Standard Library",
+        speakers: [
+                     "Arno Schodl"
+                  ],
+           video: "https://youtube.com/watch?v=5oMF0d1qcjs",
+       thumbnail: "http://img.youtube.com/vi/5oMF0d1qcjs/0.jpg",
+        duration: 2862,
+            tags: [
+                     "c++",
+                     "conference",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "english"
+   },
+   {
+          number: 1574,
       identifier: "#cppcon-2016-0110",
          meeting: "cppcon",
          edition: "2016",
@@ -15406,7 +15320,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 737,
+          number: 738,
       identifier: "#c++now-2018-0024",
          meeting: "c++now",
          edition: "2018",
@@ -15427,7 +15341,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1634,
+          number: 1641,
       identifier: "#cppcon-2017-0033",
          meeting: "cppcon",
          edition: "2017",
@@ -15448,7 +15362,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1989,
+          number: 1995,
       identifier: "#cppcon-2019-0007",
          meeting: "cppcon",
          edition: "2019",
@@ -15469,7 +15383,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1867,
+          number: 1873,
       identifier: "#cppcon-2018-0073",
          meeting: "cppcon",
          edition: "2018",
@@ -15490,7 +15404,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 656,
+          number: 657,
       identifier: "#c++now-2017-0014",
          meeting: "c++now",
          edition: "2017",
@@ -15525,13 +15439,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 480,
+          number: 483,
       identifier: "#c++now-2013-0013",
          meeting: "c++now",
          edition: "2013",
@@ -15545,13 +15460,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1643,
+          number: 1649,
       identifier: "#cppcon-2017-0042",
          meeting: "cppcon",
          edition: "2017",
@@ -15586,13 +15502,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1365,
+          number: 1371,
       identifier: "#cppcon-2015-0032",
          meeting: "cppcon",
          edition: "2015",
@@ -15613,13 +15530,13 @@ const talks = [
         language: "english"
    },
    {
-          number: 558,
+          number: 559,
       identifier: "#c++now-2015-0004",
          meeting: "c++now",
          edition: "2015",
            title: " Functional Geometry: Producing Pure Spaces",
         speakers: [
-                     "Pablo Colapinto"
+                     "Pable Colapinto"
                   ],
            video: "https://youtube.com/watch?v=RY_YSYz7b8I",
        thumbnail: "http://img.youtube.com/vi/RY_YSYz7b8I/0.jpg",
@@ -15627,7 +15544,8 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -15654,7 +15572,28 @@ const talks = [
         language: "english"
    },
    {
-          number: 1188,
+          number: 1185,
+      identifier: "#cpp-europe-2018-0002",
+         meeting: "cpp europe",
+         edition: "2018",
+           title: " Functional programming in C++",
+        speakers: [
+                     "Alexandru Bolboaca"
+                  ],
+           video: "https://youtube.com/watch?v=7L6oryyzZXc",
+       thumbnail: "http://img.youtube.com/vi/7L6oryyzZXc/0.jpg",
+        duration: 2434,
+            tags: [
+                     "c++",
+                     "conference",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "english"
+   },
+   {
+          number: 1195,
       identifier: "#cpp-europe-2019-0005",
          meeting: "cpp europe",
          edition: "2019",
@@ -15675,7 +15614,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1420,
+          number: 1426,
       identifier: "#cppcon-2015-0087",
          meeting: "cppcon",
          edition: "2015",
@@ -15710,13 +15649,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1362,
+          number: 1368,
       identifier: "#cppcon-2015-0029",
          meeting: "cppcon",
          edition: "2015",
@@ -15751,7 +15691,8 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -15771,13 +15712,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 760,
+          number: 761,
       identifier: "#c++now-2018-0047",
          meeting: "c++now",
          edition: "2018",
@@ -15798,7 +15740,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1637,
+          number: 1644,
       identifier: "#cppcon-2017-0036",
          meeting: "cppcon",
          edition: "2017",
@@ -15819,7 +15761,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1681,
+          number: 1687,
       identifier: "#cppcon-2017-0080",
          meeting: "cppcon",
          edition: "2017",
@@ -15840,7 +15782,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 726,
+          number: 727,
       identifier: "#c++now-2018-0013",
          meeting: "c++now",
          edition: "2018",
@@ -15861,7 +15803,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1532,
+          number: 1538,
       identifier: "#cppcon-2016-0074",
          meeting: "cppcon",
          edition: "2016",
@@ -15882,7 +15824,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1220,
+          number: 1226,
       identifier: "#cppcon-2014-0007",
          meeting: "cppcon",
          edition: "2014",
@@ -15903,7 +15845,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1542,
+          number: 1548,
       identifier: "#cppcon-2016-0084",
          meeting: "cppcon",
          edition: "2016",
@@ -15924,7 +15866,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1498,
+          number: 1504,
       identifier: "#cppcon-2016-0040",
          meeting: "cppcon",
          edition: "2016",
@@ -15945,7 +15887,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 712,
+          number: 713,
       identifier: "#c++now-2017-0070",
          meeting: "c++now",
          edition: "2017",
@@ -15966,7 +15908,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 723,
+          number: 724,
       identifier: "#c++now-2018-0010",
          meeting: "c++now",
          edition: "2018",
@@ -15987,7 +15929,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2368,
+          number: 2374,
       identifier: "#meeting-c++-2014-0011",
          meeting: "meeting c++",
          edition: "2014",
@@ -16008,7 +15950,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1965,
+          number: 1971,
       identifier: "#cppcon-2018-0175",
          meeting: "cppcon",
          edition: "2018",
@@ -16029,7 +15971,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 763,
+          number: 764,
       identifier: "#c++now-2018-0050",
          meeting: "c++now",
          edition: "2018",
@@ -16050,7 +15992,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2018,
+          number: 2024,
       identifier: "#cppcon-2019-0036",
          meeting: "cppcon",
          edition: "2019",
@@ -16071,7 +16013,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2419,
+          number: 2425,
       identifier: "#meeting-c++-2015-0035",
          meeting: "meeting c++",
          edition: "2015",
@@ -16106,7 +16048,8 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -16147,7 +16090,8 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -16167,13 +16111,35 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "english"
+   },
+   {
+          number: 555,
+      identifier: "#c++now-2015-0001",
+         meeting: "c++now",
+         edition: "2015",
+           title: " generic programming with concepts",
+        speakers: [
+                     "Andrew Sutton"
+                  ],
+           video: "https://youtube.com/watch?v=_rBhX-FJCdg",
+       thumbnail: "http://img.youtube.com/vi/_rBhX-FJCdg/0.jpg",
+        duration: 5862,
+            tags: [
+                     "c++",
+                     "conference",
+                     "keynote",
                      "live"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1288,
+          number: 1294,
       identifier: "#cppcon-2014-0096",
          meeting: "cppcon",
          edition: "2014",
@@ -16194,7 +16160,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1287,
+          number: 1293,
       identifier: "#cppcon-2014-0095",
          meeting: "cppcon",
          edition: "2014",
@@ -16215,27 +16181,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 555,
-      identifier: "#c++now-2015-0001",
-         meeting: "c++now",
-         edition: "2015",
-           title: " generic-programming-with-concepts",
-        speakers: [
-                     "Andrew Sutton"
-                  ],
-           video: "https://youtube.com/watch?v=_rBhX-FJCdg",
-       thumbnail: "http://img.youtube.com/vi/_rBhX-FJCdg/0.jpg",
-        duration: 5862,
-            tags: [
-                     "c++",
-                     "conference",
-                     "live"
-                  ],
-           level: 0,
-        language: "english"
-   },
-   {
-          number: 1787,
+          number: 1793,
       identifier: "#cppcon-2017-0186",
          meeting: "cppcon",
          edition: "2017",
@@ -16256,7 +16202,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1910,
+          number: 1916,
       identifier: "#cppcon-2018-0120",
          meeting: "cppcon",
          edition: "2018",
@@ -16277,7 +16223,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2069,
+          number: 2075,
       identifier: "#cppcon-2019-0087",
          meeting: "cppcon",
          edition: "2019",
@@ -16313,13 +16259,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1868,
+          number: 1874,
       identifier: "#cppcon-2018-0074",
          meeting: "cppcon",
          edition: "2018",
@@ -16340,7 +16287,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 756,
+          number: 757,
       identifier: "#c++now-2018-0043",
          meeting: "c++now",
          edition: "2018",
@@ -16361,7 +16308,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 693,
+          number: 694,
       identifier: "#c++now-2017-0051",
          meeting: "c++now",
          edition: "2017",
@@ -16396,13 +16343,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1727,
+          number: 1733,
       identifier: "#cppcon-2017-0126",
          meeting: "cppcon",
          edition: "2017",
@@ -16423,7 +16371,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2473,
+          number: 2479,
       identifier: "#meeting-c++-2016-0052",
          meeting: "meeting c++",
          edition: "2016",
@@ -16444,7 +16392,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 681,
+          number: 682,
       identifier: "#c++now-2017-0039",
          meeting: "c++now",
          edition: "2017",
@@ -16465,7 +16413,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 639,
+          number: 640,
       identifier: "#c++now-2016-0044",
          meeting: "c++now",
          edition: "2016",
@@ -16486,7 +16434,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1996,
+          number: 2002,
       identifier: "#cppcon-2019-0014",
          meeting: "cppcon",
          edition: "2019",
@@ -16507,13 +16455,13 @@ const talks = [
         language: "english"
    },
    {
-          number: 1214,
+          number: 1220,
       identifier: "#cppcon-2014-0001",
          meeting: "cppcon",
          edition: "2014",
            title: " Grill the Committee",
         speakers: [
-                     ""
+                     "?"
                   ],
            video: "https://youtube.com/watch?v=7P536lci5po",
        thumbnail: "http://img.youtube.com/vi/7P536lci5po/0.jpg",
@@ -16522,13 +16470,13 @@ const talks = [
                      "c++",
                      "conference",
                      "live",
-                     "talk"
+                     "panel"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1334,
+          number: 1340,
       identifier: "#cppcon-2015-0001",
          meeting: "cppcon",
          edition: "2015",
@@ -16549,13 +16497,13 @@ const talks = [
         language: "english"
    },
    {
-          number: 1638,
+          number: 1612,
       identifier: "#cppcon-2017-0037",
          meeting: "cppcon",
          edition: "2017",
            title: " Grill the Committee",
         speakers: [
-                     "Panel"
+                     "?"
                   ],
            video: "https://youtube.com/watch?v=JYG5LFHkUuE",
        thumbnail: "http://img.youtube.com/vi/JYG5LFHkUuE/0.jpg",
@@ -16564,13 +16512,13 @@ const talks = [
                      "c++",
                      "conference",
                      "live",
-                     "talk"
+                     "panel"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1905,
+          number: 1911,
       identifier: "#cppcon-2018-0115",
          meeting: "cppcon",
          edition: "2018",
@@ -16591,7 +16539,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1460,
+          number: 1467,
       identifier: "#cppcon-2016-0001",
          meeting: "cppcon",
          edition: "2016",
@@ -16612,7 +16560,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2424,
+          number: 2430,
       identifier: "#meeting-c++-2016-0003",
          meeting: "meeting c++",
          edition: "2016",
@@ -16633,7 +16581,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1660,
+          number: 1666,
       identifier: "#cppcon-2017-0059",
          meeting: "cppcon",
          edition: "2017",
@@ -16654,7 +16602,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1292,
+          number: 1298,
       identifier: "#cppcon-2014-0100",
          meeting: "cppcon",
          edition: "2014",
@@ -16689,7 +16637,8 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -16709,13 +16658,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1355,
+          number: 1361,
       identifier: "#cppcon-2015-0022",
          meeting: "cppcon",
          edition: "2015",
@@ -16736,7 +16686,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 652,
+          number: 653,
       identifier: "#c++now-2017-0010",
          meeting: "c++now",
          edition: "2017",
@@ -16757,7 +16707,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1448,
+          number: 1454,
       identifier: "#cppcon-2015-0135",
          meeting: "cppcon",
          edition: "2015",
@@ -16778,11 +16728,11 @@ const talks = [
         language: "english"
    },
    {
-          number: 2072,
+          number: 2078,
       identifier: "#cppcon-2019-0090",
          meeting: "cppcon",
          edition: "2019",
-           title: " Hello World From Scratch'",
+           title: " Hello World From Scratch",
         speakers: [
                      "Peter Bindels",
                      "Sy Brand"
@@ -16800,7 +16750,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1777,
+          number: 1783,
       identifier: "#cppcon-2017-0176",
          meeting: "cppcon",
          edition: "2017",
@@ -16821,7 +16771,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 823,
+          number: 824,
       identifier: "#c++now-2019-0030",
          meeting: "c++now",
          edition: "2019",
@@ -16842,7 +16792,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1477,
+          number: 1483,
       identifier: "#cppcon-2016-0019",
          meeting: "cppcon",
          edition: "2016",
@@ -16864,7 +16814,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1493,
+          number: 1499,
       identifier: "#cppcon-2016-0035",
          meeting: "cppcon",
          edition: "2016",
@@ -16885,7 +16835,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1842,
+          number: 1848,
       identifier: "#cppcon-2018-0048",
          meeting: "cppcon",
          edition: "2018",
@@ -16906,7 +16856,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 825,
+          number: 826,
       identifier: "#c++now-2019-0032",
          meeting: "c++now",
          edition: "2019",
@@ -16927,7 +16877,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1710,
+          number: 1716,
       identifier: "#cppcon-2017-0109",
          meeting: "cppcon",
          edition: "2017",
@@ -16948,7 +16898,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2060,
+          number: 2066,
       identifier: "#cppcon-2019-0078",
          meeting: "cppcon",
          edition: "2019",
@@ -16969,28 +16919,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 395,
-      identifier: "#c++now-2010-0014",
-         meeting: "c++now",
-         edition: "2010",
-           title: " History and Evolution - Joel de Guzman & Hartmut Kaiser [ BoostCon 2010 ]",
-        speakers: [
-                     "Spirit"
-                  ],
-           video: "https://youtube.com/watch?v=be87GqijD30",
-       thumbnail: "http://img.youtube.com/vi/be87GqijD30/0.jpg",
-        duration: 4020,
-            tags: [
-                     "c++",
-                     "conference",
-                     "live",
-                     "talk"
-                  ],
-           level: 0,
-        language: "english"
-   },
-   {
-          number: 1236,
+          number: 1242,
       identifier: "#cppcon-2014-0044",
          meeting: "cppcon",
          edition: "2014",
@@ -17011,7 +16940,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1511,
+          number: 1517,
       identifier: "#cppcon-2016-0053",
          meeting: "cppcon",
          edition: "2016",
@@ -17032,7 +16961,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1843,
+          number: 1849,
       identifier: "#cppcon-2018-0049",
          meeting: "cppcon",
          edition: "2018",
@@ -17053,7 +16982,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2670,
+          number: 2676,
       identifier: "#meeting-c++-2020-0013",
          meeting: "meeting c++",
          edition: "2020",
@@ -17074,7 +17003,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 744,
+          number: 745,
       identifier: "#c++now-2018-0031",
          meeting: "c++now",
          edition: "2018",
@@ -17095,7 +17024,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1304,
+          number: 1310,
       identifier: "#cppcon-2014-0112",
          meeting: "cppcon",
          edition: "2014",
@@ -17130,13 +17059,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 796,
+          number: 797,
       identifier: "#c++now-2019-0002",
          meeting: "c++now",
          edition: "2019",
@@ -17157,7 +17087,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1902,
+          number: 1908,
       identifier: "#cppcon-2018-0112",
          meeting: "cppcon",
          edition: "2018",
@@ -17178,7 +17108,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1736,
+          number: 1742,
       identifier: "#cppcon-2017-0135",
          meeting: "cppcon",
          edition: "2017",
@@ -17199,7 +17129,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1250,
+          number: 1256,
       identifier: "#cppcon-2014-0058",
          meeting: "cppcon",
          edition: "2014",
@@ -17220,7 +17150,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2115,
+          number: 2121,
       identifier: "#cppcon-2019-0133",
          meeting: "cppcon",
          edition: "2019",
@@ -17241,7 +17171,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1944,
+          number: 1950,
       identifier: "#cppcon-2018-0154",
          meeting: "cppcon",
          edition: "2018",
@@ -17276,13 +17206,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 708,
+          number: 709,
       identifier: "#c++now-2017-0066",
          meeting: "c++now",
          edition: "2017",
@@ -17303,7 +17234,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2005,
+          number: 2011,
       identifier: "#cppcon-2019-0023",
          meeting: "cppcon",
          edition: "2019",
@@ -17324,7 +17255,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1405,
+          number: 1411,
       identifier: "#cppcon-2015-0072",
          meeting: "cppcon",
          edition: "2015",
@@ -17345,7 +17276,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1836,
+          number: 1842,
       identifier: "#cppcon-2018-0042",
          meeting: "cppcon",
          edition: "2018",
@@ -17366,7 +17297,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1533,
+          number: 1539,
       identifier: "#cppcon-2016-0075",
          meeting: "cppcon",
          edition: "2016",
@@ -17387,7 +17318,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1693,
+          number: 1699,
       identifier: "#cppcon-2017-0092",
          meeting: "cppcon",
          edition: "2017",
@@ -17408,7 +17339,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2013,
+          number: 2019,
       identifier: "#cppcon-2019-0031",
          meeting: "cppcon",
          edition: "2019",
@@ -17429,7 +17360,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1639,
+          number: 1645,
       identifier: "#cppcon-2017-0038",
          meeting: "cppcon",
          edition: "2017",
@@ -17450,7 +17381,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1841,
+          number: 1847,
       identifier: "#cppcon-2018-0047",
          meeting: "cppcon",
          edition: "2018",
@@ -17471,7 +17402,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1218,
+          number: 1224,
       identifier: "#cppcon-2014-0005",
          meeting: "cppcon",
          edition: "2014",
@@ -17506,7 +17437,8 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -17526,13 +17458,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1266,
+          number: 1272,
       identifier: "#cppcon-2014-0074",
          meeting: "cppcon",
          edition: "2014",
@@ -17553,7 +17486,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1704,
+          number: 1710,
       identifier: "#cppcon-2017-0103",
          meeting: "cppcon",
          edition: "2017",
@@ -17574,7 +17507,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 634,
+          number: 635,
       identifier: "#c++now-2016-0039",
          meeting: "c++now",
          edition: "2016",
@@ -17595,7 +17528,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 498,
+          number: 501,
       identifier: "#c++now-2013-0031",
          meeting: "c++now",
          edition: "2013",
@@ -17610,7 +17543,8 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -17632,13 +17566,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2469,
+          number: 2475,
       identifier: "#meeting-c++-2016-0048",
          meeting: "meeting c++",
          edition: "2016",
@@ -17659,7 +17594,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1539,
+          number: 1545,
       identifier: "#cppcon-2016-0081",
          meeting: "cppcon",
          edition: "2016",
@@ -17680,7 +17615,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1718,
+          number: 1724,
       identifier: "#cppcon-2017-0117",
          meeting: "cppcon",
          edition: "2017",
@@ -17701,7 +17636,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 829,
+          number: 830,
       identifier: "#c++now-2019-0036",
          meeting: "c++now",
          edition: "2019",
@@ -17722,28 +17657,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 727,
-      identifier: "#c++now-2018-0014",
-         meeting: "c++now",
-         edition: "2018",
-           title: " If I Had My 'Druthers: A Proposal for Improving the Containers in C++2x",
-        speakers: [
-                     "Bob Steagall"
-                  ],
-           video: "https://youtube.com/watch?v=bAE0qteS4Rk",
-       thumbnail: "http://img.youtube.com/vi/bAE0qteS4Rk/0.jpg",
-        duration: 4243,
-            tags: [
-                     "c++",
-                     "conference",
-                     "live",
-                     "talk"
-                  ],
-           level: 0,
-        language: "english"
-   },
-   {
-          number: 837,
+          number: 838,
       identifier: "#c++now-2019-0044",
          meeting: "c++now",
          edition: "2019",
@@ -17751,9 +17665,9 @@ const talks = [
         speakers: [
                      "Matthew Butler"
                   ],
-           video: "https://youtube.com/watch?v=oqV3HNezHcY",
-       thumbnail: "http://img.youtube.com/vi/oqV3HNezHcY/0.jpg",
-        duration: 3562,
+           video: "https://youtube.com/watch?v=WzKIev9ijQw",
+       thumbnail: "http://img.youtube.com/vi/WzKIev9ijQw/0.jpg",
+        duration: 4987,
             tags: [
                      "c++",
                      "conference",
@@ -17764,7 +17678,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2073,
+          number: 2079,
       identifier: "#cppcon-2019-0091",
          meeting: "cppcon",
          edition: "2019",
@@ -17785,7 +17699,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 695,
+          number: 696,
       identifier: "#c++now-2017-0053",
          meeting: "c++now",
          edition: "2017",
@@ -17820,13 +17734,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1340,
+          number: 1346,
       identifier: "#cppcon-2015-0007",
          meeting: "cppcon",
          edition: "2015",
@@ -17847,7 +17762,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 616,
+          number: 617,
       identifier: "#c++now-2016-0021",
          meeting: "c++now",
          edition: "2016",
@@ -17868,7 +17783,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 619,
+          number: 620,
       identifier: "#c++now-2016-0024",
          meeting: "c++now",
          edition: "2016",
@@ -17889,7 +17804,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1475,
+          number: 1481,
       identifier: "#cppcon-2016-0017",
          meeting: "cppcon",
          edition: "2016",
@@ -17910,7 +17825,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 671,
+          number: 672,
       identifier: "#c++now-2017-0029",
          meeting: "c++now",
          edition: "2017",
@@ -17945,13 +17860,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 617,
+          number: 618,
       identifier: "#c++now-2016-0022",
          meeting: "c++now",
          edition: "2016",
@@ -17972,7 +17888,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1550,
+          number: 1556,
       identifier: "#cppcon-2016-0092",
          meeting: "cppcon",
          edition: "2016",
@@ -17993,7 +17909,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 806,
+          number: 807,
       identifier: "#c++now-2019-0013",
          meeting: "c++now",
          edition: "2019",
@@ -18014,7 +17930,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1895,
+          number: 1901,
       identifier: "#cppcon-2018-0105",
          meeting: "cppcon",
          edition: "2018",
@@ -18036,7 +17952,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 633,
+          number: 634,
       identifier: "#c++now-2016-0038",
          meeting: "c++now",
          edition: "2016",
@@ -18057,7 +17973,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1307,
+          number: 1313,
       identifier: "#cppcon-2014-0115",
          meeting: "cppcon",
          edition: "2014",
@@ -18078,7 +17994,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 793,
+          number: 794,
       identifier: "#c++now-2018-0080",
          meeting: "c++now",
          edition: "2018",
@@ -18099,7 +18015,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1466,
+          number: 1472,
       identifier: "#cppcon-2016-0008",
          meeting: "cppcon",
          edition: "2016",
@@ -18120,7 +18036,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2031,
+          number: 2037,
       identifier: "#cppcon-2019-0049",
          meeting: "cppcon",
          edition: "2019",
@@ -18141,7 +18057,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2017,
+          number: 2023,
       identifier: "#cppcon-2019-0035",
          meeting: "cppcon",
          edition: "2019",
@@ -18162,7 +18078,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1919,
+          number: 1925,
       identifier: "#cppcon-2018-0129",
          meeting: "cppcon",
          edition: "2018",
@@ -18183,7 +18099,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 745,
+          number: 746,
       identifier: "#c++now-2018-0032",
          meeting: "c++now",
          edition: "2018",
@@ -18204,7 +18120,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 493,
+          number: 496,
       identifier: "#c++now-2013-0026",
          meeting: "c++now",
          edition: "2013",
@@ -18218,13 +18134,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1703,
+          number: 1709,
       identifier: "#cppcon-2017-0102",
          meeting: "cppcon",
          edition: "2017",
@@ -18245,7 +18162,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1893,
+          number: 1899,
       identifier: "#cppcon-2018-0103",
          meeting: "cppcon",
          edition: "2018",
@@ -18288,7 +18205,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1515,
+          number: 1521,
       identifier: "#cppcon-2016-0057",
          meeting: "cppcon",
          edition: "2016",
@@ -18309,7 +18226,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1369,
+          number: 1375,
       identifier: "#cppcon-2015-0036",
          meeting: "cppcon",
          edition: "2015",
@@ -18344,13 +18261,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1901,
+          number: 1907,
       identifier: "#cppcon-2018-0111",
          meeting: "cppcon",
          edition: "2018",
@@ -18385,13 +18303,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 469,
+          number: 472,
       identifier: "#c++now-2013-0002",
          meeting: "c++now",
          edition: "2013",
@@ -18405,13 +18324,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1934,
+          number: 1940,
       identifier: "#cppcon-2018-0144",
          meeting: "cppcon",
          edition: "2018",
@@ -18432,7 +18352,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1205,
+          number: 1211,
       identifier: "#cpp-europe-2020-0012",
          meeting: "cpp europe",
          edition: "2020",
@@ -18454,14 +18374,14 @@ const talks = [
                      "keynote",
                      "live",
                      "live",
-                     "online",
+                     "live",
                      "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1208,
+          number: 1214,
       identifier: "#cpp-europe-2020-0015",
          meeting: "cpp europe",
          edition: "2020",
@@ -18483,14 +18403,14 @@ const talks = [
                      "keynote",
                      "live",
                      "live",
-                     "online",
+                     "live",
                      "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1204,
+          number: 1210,
       identifier: "#cpp-europe-2020-0011",
          meeting: "cpp europe",
          edition: "2020",
@@ -18512,14 +18432,14 @@ const talks = [
                      "keynote",
                      "live",
                      "live",
-                     "online",
+                     "live",
                      "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1206,
+          number: 1212,
       identifier: "#cpp-europe-2020-0013",
          meeting: "cpp europe",
          edition: "2020",
@@ -18541,14 +18461,14 @@ const talks = [
                      "keynote",
                      "live",
                      "live",
-                     "online",
+                     "live",
                      "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1209,
+          number: 1215,
       identifier: "#cpp-europe-2020-0016",
          meeting: "cpp europe",
          edition: "2020",
@@ -18570,14 +18490,14 @@ const talks = [
                      "keynote",
                      "live",
                      "live",
-                     "online",
+                     "live",
                      "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1210,
+          number: 1216,
       identifier: "#cpp-europe-2020-0017",
          meeting: "cpp europe",
          edition: "2020",
@@ -18599,14 +18519,14 @@ const talks = [
                      "keynote",
                      "live",
                      "live",
-                     "online",
+                     "live",
                      "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1207,
+          number: 1213,
       identifier: "#cpp-europe-2020-0014",
          meeting: "cpp europe",
          edition: "2020",
@@ -18628,14 +18548,14 @@ const talks = [
                      "keynote",
                      "live",
                      "live",
-                     "online",
+                     "live",
                      "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1203,
+          number: 1209,
       identifier: "#cpp-europe-2020-0010",
          meeting: "cpp europe",
          edition: "2020",
@@ -18657,7 +18577,7 @@ const talks = [
                      "keynote",
                      "live",
                      "live",
-                     "online",
+                     "live",
                      "talk"
                   ],
            level: 0,
@@ -18678,13 +18598,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1436,
+          number: 1442,
       identifier: "#cppcon-2015-0103",
          meeting: "cppcon",
          edition: "2015",
@@ -18705,7 +18626,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1593,
+          number: 1599,
       identifier: "#cppcon-2016-0139",
          meeting: "cppcon",
          edition: "2016",
@@ -18726,7 +18647,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 678,
+          number: 679,
       identifier: "#c++now-2017-0036",
          meeting: "c++now",
          edition: "2017",
@@ -18747,7 +18668,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1581,
+          number: 1587,
       identifier: "#cppcon-2016-0126",
          meeting: "cppcon",
          edition: "2016",
@@ -18768,7 +18689,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2420,
+          number: 2426,
       identifier: "#meeting-c++-2015-0036",
          meeting: "meeting c++",
          edition: "2015",
@@ -18790,7 +18711,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1281,
+          number: 1287,
       identifier: "#cppcon-2014-0089",
          meeting: "cppcon",
          edition: "2014",
@@ -18811,7 +18732,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1499,
+          number: 1505,
       identifier: "#cppcon-2016-0041",
          meeting: "cppcon",
          edition: "2016",
@@ -18832,17 +18753,17 @@ const talks = [
         language: "english"
    },
    {
-          number: 1528,
+          number: 1534,
       identifier: "#cppcon-2016-0070",
          meeting: "cppcon",
          edition: "2016",
            title: " Introduction to C++ python extensions and embedding Python in C++ Apps",
         speakers: [
-                     "lkj"
+                     "Diego Rodrigues-Losada"
                   ],
-           video: "https://youtube.com/watch?v=bJq1n4gQFfw",
-       thumbnail: "http://img.youtube.com/vi/bJq1n4gQFfw/0.jpg",
-        duration: 2142,
+           video: "https://youtube.com/watch?v=9aGI5k8DmT8",
+       thumbnail: "http://img.youtube.com/vi/9aGI5k8DmT8/0.jpg",
+        duration: 1382,
             tags: [
                      "c++",
                      "conference",
@@ -18853,7 +18774,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 852,
+          number: 853,
       identifier: "#c++now-2019-0059",
          meeting: "c++now",
          edition: "2019",
@@ -18888,7 +18809,8 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -18908,13 +18830,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1773,
+          number: 1779,
       identifier: "#cppcon-2017-0172",
          meeting: "cppcon",
          edition: "2017",
@@ -18935,7 +18858,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1549,
+          number: 1555,
       identifier: "#cppcon-2016-0091",
          meeting: "cppcon",
          edition: "2016",
@@ -18956,7 +18879,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 621,
+          number: 622,
       identifier: "#c++now-2016-0026",
          meeting: "c++now",
          edition: "2016",
@@ -18998,7 +18921,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1623,
+          number: 1630,
       identifier: "#cppcon-2017-0022",
          meeting: "cppcon",
          edition: "2017",
@@ -19021,7 +18944,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1624,
+          number: 1631,
       identifier: "#cppcon-2017-0023",
          meeting: "cppcon",
          edition: "2017",
@@ -19044,7 +18967,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 857,
+          number: 858,
       identifier: "#c++now-2019-0064",
          meeting: "c++now",
          edition: "2019",
@@ -19065,7 +18988,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2476,
+          number: 2482,
       identifier: "#meeting-c++-2017-0001",
          meeting: "meeting c++",
          edition: "2017",
@@ -19086,7 +19009,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1569,
+          number: 1575,
       identifier: "#cppcon-2016-0111",
          meeting: "cppcon",
          edition: "2016",
@@ -19121,13 +19044,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1189,
+          number: 1196,
       identifier: "#cpp-europe-2019-0006",
          meeting: "cpp europe",
          edition: "2019",
@@ -19148,7 +19072,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2421,
+          number: 2427,
       identifier: "#meeting-c++-2015-0037",
          meeting: "meeting c++",
          edition: "2015",
@@ -19169,7 +19093,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2387,
+          number: 2393,
       identifier: "#meeting-c++-2015-0003",
          meeting: "meeting c++",
          edition: "2015",
@@ -19190,7 +19114,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 709,
+          number: 710,
       identifier: "#c++now-2017-0067",
          meeting: "c++now",
          edition: "2017",
@@ -19211,7 +19135,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2095,
+          number: 2101,
       identifier: "#cppcon-2019-0113",
          meeting: "cppcon",
          edition: "2019",
@@ -19233,7 +19157,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 696,
+          number: 697,
       identifier: "#c++now-2017-0054",
          meeting: "c++now",
          edition: "2017",
@@ -19268,7 +19192,8 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -19288,13 +19213,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1347,
+          number: 1353,
       identifier: "#cppcon-2015-0014",
          meeting: "cppcon",
          edition: "2015",
@@ -19315,7 +19241,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1368,
+          number: 1374,
       identifier: "#cppcon-2015-0035",
          meeting: "cppcon",
          edition: "2015",
@@ -19336,7 +19262,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 566,
+          number: 567,
       identifier: "#c++now-2015-0012",
          meeting: "c++now",
          edition: "2015",
@@ -19350,13 +19276,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 567,
+          number: 568,
       identifier: "#c++now-2015-0013",
          meeting: "c++now",
          edition: "2015",
@@ -19370,13 +19297,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1925,
+          number: 1931,
       identifier: "#cppcon-2018-0135",
          meeting: "cppcon",
          edition: "2018",
@@ -19397,7 +19325,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1263,
+          number: 1269,
       identifier: "#cppcon-2014-0071",
          meeting: "cppcon",
          edition: "2014",
@@ -19418,14 +19346,14 @@ const talks = [
         language: "english"
    },
    {
-          number: 1488,
+          number: 1494,
       identifier: "#cppcon-2016-0030",
          meeting: "cppcon",
          edition: "2016",
            title: " Latest and Greatest from the Visual Studio Family for C++ Developers",
         speakers: [
-                     "Carroll",
-                     "Moth"
+                     "Daniel Moth",
+                     "Steve Carroll"
                   ],
            video: "https://youtube.com/watch?v=MBmp1gxCu9k",
        thumbnail: "http://img.youtube.com/vi/MBmp1gxCu9k/0.jpg",
@@ -19440,7 +19368,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1820,
+          number: 1826,
       identifier: "#cppcon-2018-0026",
          meeting: "cppcon",
          edition: "2018",
@@ -19462,7 +19390,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1697,
+          number: 1703,
       identifier: "#cppcon-2017-0096",
          meeting: "cppcon",
          edition: "2017",
@@ -19483,7 +19411,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1465,
+          number: 1471,
       identifier: "#cppcon-2016-0006",
          meeting: "cppcon",
          edition: "2016",
@@ -19504,7 +19432,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1602,
+          number: 1608,
       identifier: "#cppcon-2017-0001",
          meeting: "cppcon",
          edition: "2017",
@@ -19525,7 +19453,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2523,
+          number: 2528,
       identifier: "#meeting-c++-2017-0048",
          meeting: "meeting c++",
          edition: "2017",
@@ -19546,7 +19474,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1379,
+          number: 1385,
       identifier: "#cppcon-2015-0046",
          meeting: "cppcon",
          edition: "2015",
@@ -19581,7 +19509,8 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -19601,13 +19530,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1486,
+          number: 1492,
       identifier: "#cppcon-2016-0028",
          meeting: "cppcon",
          edition: "2016",
@@ -19628,7 +19558,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1903,
+          number: 1909,
       identifier: "#cppcon-2018-0113",
          meeting: "cppcon",
          edition: "2018",
@@ -19649,7 +19579,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1941,
+          number: 1947,
       identifier: "#cppcon-2018-0151",
          meeting: "cppcon",
          edition: "2018",
@@ -19670,7 +19600,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 624,
+          number: 625,
       identifier: "#c++now-2016-0029",
          meeting: "c++now",
          edition: "2016",
@@ -19691,7 +19621,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2669,
+          number: 2675,
       identifier: "#meeting-c++-2020-0012",
          meeting: "meeting c++",
          edition: "2020",
@@ -19712,7 +19642,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2007,
+          number: 2013,
       identifier: "#cppcon-2019-0025",
          meeting: "cppcon",
          edition: "2019",
@@ -19733,7 +19663,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 499,
+          number: 502,
       identifier: "#c++now-2013-0032",
          meeting: "c++now",
          edition: "2013",
@@ -19748,13 +19678,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1911,
+          number: 1917,
       identifier: "#cppcon-2018-0121",
          meeting: "cppcon",
          edition: "2018",
@@ -19789,13 +19720,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 785,
+          number: 786,
       identifier: "#c++now-2018-0072",
          meeting: "c++now",
          edition: "2018",
@@ -19816,7 +19748,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1874,
+          number: 1880,
       identifier: "#cppcon-2018-0082",
          meeting: "cppcon",
          edition: "2018",
@@ -19837,7 +19769,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1487,
+          number: 1493,
       identifier: "#cppcon-2016-0029",
          meeting: "cppcon",
          edition: "2016",
@@ -19858,7 +19790,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 800,
+          number: 801,
       identifier: "#c++now-2019-0006",
          meeting: "c++now",
          edition: "2019",
@@ -19893,19 +19825,20 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1353,
+          number: 1359,
       identifier: "#cppcon-2015-0020",
          meeting: "cppcon",
          edition: "2015",
-           title: " Live Lock-Free or Deadlock (Practical Lock-free Programming)",
+           title: " Live Lock-Free or Deadlock (Practical Lock-free Programming) (PART 1)",
         speakers: [
-                     "Fedor Pikus PART 1"
+                     "Fedor Pikus"
                   ],
            video: "https://youtube.com/watch?v=lVBvHbJsg5Y",
        thumbnail: "http://img.youtube.com/vi/lVBvHbJsg5Y/0.jpg",
@@ -19920,13 +19853,13 @@ const talks = [
         language: "english"
    },
    {
-          number: 1358,
+          number: 1364,
       identifier: "#cppcon-2015-0025",
          meeting: "cppcon",
          edition: "2015",
-           title: " Live Lock-Free or Deadlock (Practical Lock-free Programming)",
+           title: " Live Lock-Free or Deadlock (Practical Lock-free Programming) (PART 2)",
         speakers: [
-                     "Fedor Pikus PART 2"
+                     "Fedor Pikus"
                   ],
            video: "https://youtube.com/watch?v=1obZeHnAwz4",
        thumbnail: "http://img.youtube.com/vi/1obZeHnAwz4/0.jpg",
@@ -19941,7 +19874,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1674,
+          number: 1680,
       identifier: "#cppcon-2017-0073",
          meeting: "cppcon",
          edition: "2017",
@@ -19962,7 +19895,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1657,
+          number: 1663,
       identifier: "#cppcon-2017-0056",
          meeting: "cppcon",
          edition: "2017",
@@ -19983,7 +19916,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 649,
+          number: 650,
       identifier: "#c++now-2017-0007",
          meeting: "c++now",
          edition: "2017",
@@ -20004,7 +19937,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 691,
+          number: 692,
       identifier: "#c++now-2017-0049",
          meeting: "c++now",
          edition: "2017",
@@ -20025,7 +19958,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1271,
+          number: 1277,
       identifier: "#cppcon-2014-0079",
          meeting: "cppcon",
          edition: "2014",
@@ -20060,13 +19993,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1269,
+          number: 1275,
       identifier: "#cppcon-2014-0077",
          meeting: "cppcon",
          edition: "2014",
@@ -20087,7 +20021,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1268,
+          number: 1274,
       identifier: "#cppcon-2014-0076",
          meeting: "cppcon",
          edition: "2014",
@@ -20122,7 +20056,8 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -20149,7 +20084,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 478,
+          number: 481,
       identifier: "#c++now-2013-0011",
          meeting: "c++now",
          edition: "2013",
@@ -20163,13 +20098,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 779,
+          number: 780,
       identifier: "#c++now-2018-0066",
          meeting: "c++now",
          edition: "2018",
@@ -20190,7 +20126,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2686,
+          number: 2692,
       identifier: "#pacific-c++-2017-0003",
          meeting: "pacific c++",
          edition: "2017",
@@ -20210,7 +20146,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2693,
+          number: 2699,
       identifier: "#pacific-c++-2018-0003",
          meeting: "pacific c++",
          edition: "2018",
@@ -20230,7 +20166,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 505,
+          number: 508,
       identifier: "#c++now-2013-0038",
          meeting: "c++now",
          edition: "2013",
@@ -20244,13 +20180,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1193,
+          number: 1199,
       identifier: "#cpp-europe-2019-0010",
          meeting: "cpp europe",
          edition: "2019",
@@ -20285,13 +20222,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1946,
+          number: 1952,
       identifier: "#cppcon-2018-0156",
          meeting: "cppcon",
          edition: "2018",
@@ -20312,7 +20250,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2024,
+          number: 2030,
       identifier: "#cppcon-2019-0042",
          meeting: "cppcon",
          edition: "2019",
@@ -20333,7 +20271,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1688,
+          number: 1694,
       identifier: "#cppcon-2017-0087",
          meeting: "cppcon",
          edition: "2017",
@@ -20354,7 +20292,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1531,
+          number: 1537,
       identifier: "#cppcon-2016-0073",
          meeting: "cppcon",
          edition: "2016",
@@ -20375,7 +20313,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1300,
+          number: 1306,
       identifier: "#cppcon-2014-0108",
          meeting: "cppcon",
          edition: "2014",
@@ -20396,7 +20334,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1238,
+          number: 1244,
       identifier: "#cppcon-2014-0046",
          meeting: "cppcon",
          edition: "2014",
@@ -20417,7 +20355,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1232,
+          number: 1238,
       identifier: "#cppcon-2014-0040",
          meeting: "cppcon",
          edition: "2014",
@@ -20438,7 +20376,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1543,
+          number: 1549,
       identifier: "#cppcon-2016-0085",
          meeting: "cppcon",
          edition: "2016",
@@ -20459,7 +20397,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1249,
+          number: 1255,
       identifier: "#cppcon-2014-0057",
          meeting: "cppcon",
          edition: "2014",
@@ -20481,7 +20419,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1830,
+          number: 1836,
       identifier: "#cppcon-2018-0036",
          meeting: "cppcon",
          edition: "2018",
@@ -20502,7 +20440,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1197,
+          number: 1203,
       identifier: "#cpp-europe-2020-0004",
          meeting: "cpp europe",
          edition: "2020",
@@ -20524,14 +20462,14 @@ const talks = [
                      "keynote",
                      "live",
                      "live",
-                     "online",
+                     "live",
                      "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1779,
+          number: 1785,
       identifier: "#cppcon-2017-0178",
          meeting: "cppcon",
          edition: "2017",
@@ -20552,7 +20490,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2008,
+          number: 2014,
       identifier: "#cppcon-2019-0026",
          meeting: "cppcon",
          edition: "2019",
@@ -20573,7 +20511,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 739,
+          number: 740,
       identifier: "#c++now-2018-0026",
          meeting: "c++now",
          edition: "2018",
@@ -20601,8 +20539,8 @@ const talks = [
            title: " Mastering the Cell Broadband Engine via a Boost-based library",
         speakers: [
                      "Joel Falcou",
-                     "Lacassagne",
-                     "Schaetz"
+                     "Lionel Lacassagne",
+                     "Sebastian Schaetz"
                   ],
            video: "https://youtube.com/watch?v=ob8Ew3mvxEY",
        thumbnail: "http://img.youtube.com/vi/ob8Ew3mvxEY/0.jpg",
@@ -20610,13 +20548,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 831,
+          number: 832,
       identifier: "#c++now-2019-0038",
          meeting: "c++now",
          edition: "2019",
@@ -20637,13 +20576,13 @@ const talks = [
         language: "english"
    },
    {
-          number: 1224,
+          number: 1230,
       identifier: "#cppcon-2014-0011",
          meeting: "cppcon",
          edition: "2014",
            title: " Meet the Authors",
         speakers: [
-                     "xyz"
+                     "Chandler Carruth"
                   ],
            video: "https://youtube.com/watch?v=4cCeUfzH-No",
        thumbnail: "http://img.youtube.com/vi/4cCeUfzH-No/0.jpg",
@@ -20658,7 +20597,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2362,
+          number: 2368,
       identifier: "#meeting-c++-2014-0004",
          meeting: "meeting c++",
          edition: "2014",
@@ -20666,9 +20605,9 @@ const talks = [
         speakers: [
                      "Jens Weller"
                   ],
-           video: "https://youtube.com/watch?v=vKeRuKrHydI",
-       thumbnail: "http://img.youtube.com/vi/vKeRuKrHydI/0.jpg",
-        duration: 3334,
+           video: "https://youtube.com/watch?v=dRgO8MucE5s",
+       thumbnail: "http://img.youtube.com/vi/dRgO8MucE5s/0.jpg",
+        duration: 804,
             tags: [
                      "c++",
                      "conference",
@@ -20679,7 +20618,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2363,
+          number: 2369,
       identifier: "#meeting-c++-2014-0005",
          meeting: "meeting c++",
          edition: "2014",
@@ -20700,7 +20639,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1342,
+          number: 1348,
       identifier: "#cppcon-2015-0009",
          meeting: "cppcon",
          edition: "2015",
@@ -20721,7 +20660,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1885,
+          number: 1891,
       identifier: "#cppcon-2018-0095",
          meeting: "cppcon",
          edition: "2018",
@@ -20742,7 +20681,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2082,
+          number: 2088,
       identifier: "#cppcon-2019-0100",
          meeting: "cppcon",
          edition: "2019",
@@ -20763,7 +20702,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1586,
+          number: 1592,
       identifier: "#cppcon-2016-0131",
          meeting: "cppcon",
          edition: "2016",
@@ -20784,7 +20723,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1734,
+          number: 1740,
       identifier: "#cppcon-2017-0133",
          meeting: "cppcon",
          edition: "2017",
@@ -20805,7 +20744,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2459,
+          number: 2465,
       identifier: "#meeting-c++-2016-0038",
          meeting: "meeting c++",
          edition: "2016",
@@ -20826,7 +20765,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1296,
+          number: 1302,
       identifier: "#cppcon-2014-0104",
          meeting: "cppcon",
          edition: "2014",
@@ -20847,7 +20786,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2010,
+          number: 2016,
       identifier: "#cppcon-2019-0028",
          meeting: "cppcon",
          edition: "2019",
@@ -20868,7 +20807,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1603,
+          number: 1609,
       identifier: "#cppcon-2017-0003",
          meeting: "cppcon",
          edition: "2017",
@@ -20904,7 +20843,8 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -20925,13 +20865,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 604,
+          number: 605,
       identifier: "#c++now-2016-0009",
          meeting: "c++now",
          edition: "2016",
@@ -20952,7 +20893,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 611,
+          number: 612,
       identifier: "#c++now-2016-0016",
          meeting: "c++now",
          edition: "2016",
@@ -20973,7 +20914,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1289,
+          number: 1295,
       identifier: "#cppcon-2014-0097",
          meeting: "cppcon",
          edition: "2014",
@@ -20994,7 +20935,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 863,
+          number: 864,
       identifier: "#c++now-2019-0070",
          meeting: "c++now",
          edition: "2019",
@@ -21015,7 +20956,28 @@ const talks = [
         language: "english"
    },
    {
-          number: 1706,
+          number: 1190,
+      identifier: "#cpp-europe-2018-0007",
+         meeting: "cpp europe",
+         edition: "2018",
+           title: " Microcontrollers in Micro-increments A Test-driven C++ Workflow",
+        speakers: [
+                     "Mike Ritchie"
+                  ],
+           video: "https://youtube.com/watch?v=XuHlDtWYeD8",
+       thumbnail: "http://img.youtube.com/vi/XuHlDtWYeD8/0.jpg",
+        duration: 3678,
+            tags: [
+                     "c++",
+                     "conference",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "english"
+   },
+   {
+          number: 1712,
       identifier: "#cppcon-2017-0105",
          meeting: "cppcon",
          edition: "2017",
@@ -21036,7 +20998,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1258,
+          number: 1264,
       identifier: "#cppcon-2014-0066",
          meeting: "cppcon",
          edition: "2014",
@@ -21057,7 +21019,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1251,
+          number: 1257,
       identifier: "#cppcon-2014-0059",
          meeting: "cppcon",
          edition: "2014",
@@ -21065,9 +21027,9 @@ const talks = [
         speakers: [
                      "Zaika Antoun"
                   ],
-           video: "https://youtube.com/watch?v=MGMoRu5yrVc",
-       thumbnail: "http://img.youtube.com/vi/MGMoRu5yrVc/0.jpg",
-        duration: 3412,
+           video: "https://youtube.com/watch?v=ioxBCXjwK0E",
+       thumbnail: "http://img.youtube.com/vi/ioxBCXjwK0E/0.jpg",
+        duration: 655,
             tags: [
                      "c++",
                      "conference",
@@ -21078,7 +21040,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1633,
+          number: 1640,
       identifier: "#cppcon-2017-0032",
          meeting: "cppcon",
          edition: "2017",
@@ -21099,7 +21061,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1691,
+          number: 1697,
       identifier: "#cppcon-2017-0090",
          meeting: "cppcon",
          edition: "2017",
@@ -21120,7 +21082,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1506,
+          number: 1512,
       identifier: "#cppcon-2016-0048",
          meeting: "cppcon",
          edition: "2016",
@@ -21141,7 +21103,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 653,
+          number: 654,
       identifier: "#c++now-2017-0011",
          meeting: "c++now",
          edition: "2017",
@@ -21162,7 +21124,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2466,
+          number: 2472,
       identifier: "#meeting-c++-2016-0045",
          meeting: "meeting c++",
          edition: "2016",
@@ -21183,7 +21145,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1644,
+          number: 1650,
       identifier: "#cppcon-2017-0043",
          meeting: "cppcon",
          edition: "2017",
@@ -21204,7 +21166,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 703,
+          number: 704,
       identifier: "#c++now-2017-0061",
          meeting: "c++now",
          edition: "2017",
@@ -21225,7 +21187,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 754,
+          number: 755,
       identifier: "#c++now-2018-0041",
          meeting: "c++now",
          edition: "2018",
@@ -21260,13 +21222,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 704,
+          number: 705,
       identifier: "#c++now-2017-0062",
          meeting: "c++now",
          edition: "2017",
@@ -21287,7 +21250,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1850,
+          number: 1856,
       identifier: "#cppcon-2018-0056",
          meeting: "cppcon",
          edition: "2018",
@@ -21308,7 +21271,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1879,
+          number: 1885,
       identifier: "#cppcon-2018-0087",
          meeting: "cppcon",
          edition: "2018",
@@ -21329,7 +21292,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 853,
+          number: 854,
       identifier: "#c++now-2019-0060",
          meeting: "c++now",
          edition: "2019",
@@ -21350,7 +21313,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 741,
+          number: 742,
       identifier: "#c++now-2018-0028",
          meeting: "c++now",
          edition: "2018",
@@ -21371,7 +21334,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1825,
+          number: 1831,
       identifier: "#cppcon-2018-0031",
          meeting: "cppcon",
          edition: "2018",
@@ -21392,7 +21355,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1614,
+          number: 1621,
       identifier: "#cppcon-2017-0013",
          meeting: "cppcon",
          edition: "2017",
@@ -21413,7 +21376,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1849,
+          number: 1855,
       identifier: "#cppcon-2018-0055",
          meeting: "cppcon",
          edition: "2018",
@@ -21448,13 +21411,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1995,
+          number: 2001,
       identifier: "#cppcon-2019-0013",
          meeting: "cppcon",
          edition: "2019",
@@ -21475,7 +21439,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2414,
+          number: 2420,
       identifier: "#meeting-c++-2015-0030",
          meeting: "meeting c++",
          edition: "2015",
@@ -21496,7 +21460,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1256,
+          number: 1262,
       identifier: "#cppcon-2014-0064",
          meeting: "cppcon",
          edition: "2014",
@@ -21517,7 +21481,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1253,
+          number: 1259,
       identifier: "#cppcon-2014-0061",
          meeting: "cppcon",
          edition: "2014",
@@ -21538,7 +21502,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1360,
+          number: 1366,
       identifier: "#cppcon-2015-0027",
          meeting: "cppcon",
          edition: "2015",
@@ -21559,7 +21523,28 @@ const talks = [
         language: "english"
    },
    {
-          number: 1305,
+          number: 1184,
+      identifier: "#cpp-europe-2018-0001",
+         meeting: "cpp europe",
+         edition: "2018",
+           title: " Modernizing Legacy C++ Code",
+        speakers: [
+                     "Marius Bancila"
+                  ],
+           video: "https://youtube.com/watch?v=OfFHnaLlLe0",
+       thumbnail: "http://img.youtube.com/vi/OfFHnaLlLe0/0.jpg",
+        duration: 2227,
+            tags: [
+                     "c++",
+                     "conference",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "english"
+   },
+   {
+          number: 1311,
       identifier: "#cppcon-2014-0113",
          meeting: "cppcon",
          edition: "2014",
@@ -21581,7 +21566,28 @@ const talks = [
         language: "english"
    },
    {
-          number: 605,
+          number: 434,
+      identifier: "#c++now-2012-0008",
+         meeting: "c++now",
+         edition: "2012",
+           title: " Modules in C++",
+        speakers: [
+                     "Daveed Vandevoorde"
+                  ],
+           video: "https://youtube.com/watch?v=8SOCYQ033K8",
+       thumbnail: "http://img.youtube.com/vi/8SOCYQ033K8/0.jpg",
+        duration: 4123,
+            tags: [
+                     "c++",
+                     "conference",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "english"
+   },
+   {
+          number: 606,
       identifier: "#c++now-2016-0010",
          meeting: "c++now",
          edition: "2016",
@@ -21616,13 +21622,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 762,
+          number: 763,
       identifier: "#c++now-2018-0049",
          meeting: "c++now",
          edition: "2018",
@@ -21643,7 +21650,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1924,
+          number: 1930,
       identifier: "#cppcon-2018-0134",
          meeting: "cppcon",
          edition: "2018",
@@ -21664,7 +21671,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1647,
+          number: 1653,
       identifier: "#cppcon-2017-0046",
          meeting: "cppcon",
          edition: "2017",
@@ -21699,13 +21706,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1788,
+          number: 1794,
       identifier: "#cppcon-2017-0187",
          meeting: "cppcon",
          edition: "2017",
@@ -21726,7 +21734,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1854,
+          number: 1860,
       identifier: "#cppcon-2018-0060",
          meeting: "cppcon",
          edition: "2018",
@@ -21747,7 +21755,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 869,
+          number: 870,
       identifier: "#c++now-2019-0076",
          meeting: "c++now",
          edition: "2019",
@@ -21768,7 +21776,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 680,
+          number: 681,
       identifier: "#c++now-2017-0038",
          meeting: "c++now",
          edition: "2017",
@@ -21789,7 +21797,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1729,
+          number: 1735,
       identifier: "#cppcon-2017-0128",
          meeting: "cppcon",
          edition: "2017",
@@ -21810,7 +21818,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 710,
+          number: 711,
       identifier: "#c++now-2017-0068",
          meeting: "c++now",
          edition: "2017",
@@ -21845,13 +21853,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1248,
+          number: 1254,
       identifier: "#cppcon-2014-0056",
          meeting: "cppcon",
          edition: "2014",
@@ -21872,7 +21881,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1649,
+          number: 1655,
       identifier: "#cppcon-2017-0048",
          meeting: "cppcon",
          edition: "2017",
@@ -21893,7 +21902,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1654,
+          number: 1660,
       identifier: "#cppcon-2017-0053",
          meeting: "cppcon",
          edition: "2017",
@@ -21914,7 +21923,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 622,
+          number: 623,
       identifier: "#c++now-2016-0027",
          meeting: "c++now",
          edition: "2016",
@@ -21935,7 +21944,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 620,
+          number: 621,
       identifier: "#c++now-2016-0025",
          meeting: "c++now",
          edition: "2016",
@@ -21956,7 +21965,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 660,
+          number: 661,
       identifier: "#c++now-2017-0018",
          meeting: "c++now",
          edition: "2017",
@@ -21977,7 +21986,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2471,
+          number: 2477,
       identifier: "#meeting-c++-2016-0050",
          meeting: "meeting c++",
          edition: "2016",
@@ -21998,7 +22007,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1327,
+          number: 1333,
       identifier: "#cppcon-2014-0135",
          meeting: "cppcon",
          edition: "2014",
@@ -22019,7 +22028,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 740,
+          number: 741,
       identifier: "#c++now-2018-0027",
          meeting: "c++now",
          edition: "2018",
@@ -22040,7 +22049,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1733,
+          number: 1739,
       identifier: "#cppcon-2017-0132",
          meeting: "cppcon",
          edition: "2017",
@@ -22061,7 +22070,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1492,
+          number: 1498,
       identifier: "#cppcon-2016-0034",
          meeting: "cppcon",
          edition: "2016",
@@ -22096,13 +22105,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1672,
+          number: 1678,
       identifier: "#cppcon-2017-0071",
          meeting: "cppcon",
          edition: "2017",
@@ -22123,7 +22133,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1696,
+          number: 1702,
       identifier: "#cppcon-2017-0095",
          meeting: "cppcon",
          edition: "2017",
@@ -22144,7 +22154,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1889,
+          number: 1895,
       identifier: "#cppcon-2018-0099",
          meeting: "cppcon",
          edition: "2018",
@@ -22165,7 +22175,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2058,
+          number: 2064,
       identifier: "#cppcon-2019-0076",
          meeting: "cppcon",
          edition: "2019",
@@ -22186,7 +22196,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1803,
+          number: 1809,
       identifier: "#cppcon-2018-0009",
          meeting: "cppcon",
          edition: "2018",
@@ -22207,7 +22217,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 689,
+          number: 690,
       identifier: "#c++now-2017-0047",
          meeting: "c++now",
          edition: "2017",
@@ -22228,7 +22238,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 697,
+          number: 698,
       identifier: "#c++now-2017-0055",
          meeting: "c++now",
          edition: "2017",
@@ -22249,7 +22259,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 647,
+          number: 648,
       identifier: "#c++now-2017-0005",
          meeting: "c++now",
          edition: "2017",
@@ -22270,7 +22280,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 650,
+          number: 651,
       identifier: "#c++now-2017-0008",
          meeting: "c++now",
          edition: "2017",
@@ -22291,7 +22301,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 565,
+          number: 566,
       identifier: "#c++now-2015-0011",
          meeting: "c++now",
          edition: "2015",
@@ -22305,13 +22315,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1611,
+          number: 1618,
       identifier: "#cppcon-2017-0010",
          meeting: "cppcon",
          edition: "2017",
@@ -22332,7 +22343,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2054,
+          number: 2060,
       identifier: "#cppcon-2019-0072",
          meeting: "cppcon",
          edition: "2019",
@@ -22353,7 +22364,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1752,
+          number: 1758,
       identifier: "#cppcon-2017-0151",
          meeting: "cppcon",
          edition: "2017",
@@ -22374,7 +22385,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1574,
+          number: 1580,
       identifier: "#cppcon-2016-0119",
          meeting: "cppcon",
          edition: "2016",
@@ -22395,7 +22406,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2682,
+          number: 2688,
       identifier: "#meeting-embedded-2020-0001",
          meeting: "meeting embedded",
          edition: "2020",
@@ -22416,7 +22427,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 685,
+          number: 686,
       identifier: "#c++now-2017-0043",
          meeting: "c++now",
          edition: "2017",
@@ -22437,7 +22448,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 642,
+          number: 643,
       identifier: "#c++now-2016-0047",
          meeting: "c++now",
          edition: "2016",
@@ -22458,7 +22469,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1476,
+          number: 1482,
       identifier: "#cppcon-2016-0018",
          meeting: "cppcon",
          edition: "2016",
@@ -22479,7 +22490,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 504,
+          number: 507,
       identifier: "#c++now-2013-0037",
          meeting: "c++now",
          edition: "2013",
@@ -22493,13 +22504,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2009,
+          number: 2015,
       identifier: "#cppcon-2019-0027",
          meeting: "cppcon",
          edition: "2019",
@@ -22520,7 +22532,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 767,
+          number: 768,
       identifier: "#c++now-2018-0054",
          meeting: "c++now",
          edition: "2018",
@@ -22541,6 +22553,27 @@ const talks = [
         language: "english"
    },
    {
+          number: 427,
+      identifier: "#c++now-2012-0005",
+         meeting: "c++now",
+         edition: "2012",
+           title: " Now What? A vignette in three parts",
+        speakers: [
+                     "Sean Parent"
+                  ],
+           video: "https://youtube.com/watch?v=iGenpw2NeKQ",
+       thumbnail: "http://img.youtube.com/vi/iGenpw2NeKQ/0.jpg",
+        duration: 5446,
+            tags: [
+                     "c++",
+                     "conference",
+                     "keynote",
+                     "live"
+                  ],
+           level: 0,
+        language: "english"
+   },
+   {
           number: 556,
       identifier: "#c++now-2015-0002",
          meeting: "c++now",
@@ -22555,6 +22588,7 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
+                     "keynote",
                      "live"
                   ],
            level: 0,
@@ -22596,13 +22630,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1717,
+          number: 1723,
       identifier: "#cppcon-2017-0116",
          meeting: "cppcon",
          edition: "2017",
@@ -22637,13 +22672,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 477,
+          number: 480,
       identifier: "#c++now-2013-0010",
          meeting: "c++now",
          edition: "2013",
@@ -22657,7 +22693,8 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -22678,13 +22715,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1428,
+          number: 1434,
       identifier: "#cppcon-2015-0095",
          meeting: "cppcon",
          edition: "2015",
@@ -22705,7 +22743,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1594,
+          number: 1600,
       identifier: "#cppcon-2016-0140",
          meeting: "cppcon",
          edition: "2016",
@@ -22726,7 +22764,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2668,
+          number: 2674,
       identifier: "#meeting-c++-2020-0011",
          meeting: "meeting c++",
          edition: "2020",
@@ -22747,7 +22785,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1859,
+          number: 1865,
       identifier: "#cppcon-2018-0065",
          meeting: "cppcon",
          edition: "2018",
@@ -22768,7 +22806,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1852,
+          number: 1858,
       identifier: "#cppcon-2018-0058",
          meeting: "cppcon",
          edition: "2018",
@@ -22803,13 +22841,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1826,
+          number: 1832,
       identifier: "#cppcon-2018-0032",
          meeting: "cppcon",
          edition: "2018",
@@ -22830,7 +22869,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1267,
+          number: 1273,
       identifier: "#cppcon-2014-0075",
          meeting: "cppcon",
          edition: "2014",
@@ -22851,7 +22890,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1701,
+          number: 1707,
       identifier: "#cppcon-2017-0100",
          meeting: "cppcon",
          edition: "2017",
@@ -22886,13 +22925,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 513,
+          number: 468,
       identifier: "#c++now-2013-0046",
          meeting: "c++now",
          edition: "2013",
@@ -22906,13 +22946,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
+                     "keynote",
                      "live"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 753,
+          number: 754,
       identifier: "#c++now-2018-0040",
          meeting: "c++now",
          edition: "2018",
@@ -22933,7 +22974,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 428,
+          number: 429,
       identifier: "#c++now-2012-0002",
          meeting: "c++now",
          edition: "2012",
@@ -22949,13 +22990,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 474,
+          number: 477,
       identifier: "#c++now-2013-0007",
          meeting: "c++now",
          edition: "2013",
@@ -22969,13 +23011,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1297,
+          number: 1303,
       identifier: "#cppcon-2014-0105",
          meeting: "cppcon",
          edition: "2014",
@@ -22996,15 +23039,15 @@ const talks = [
         language: "english"
    },
    {
-          number: 496,
+          number: 499,
       identifier: "#c++now-2013-0029",
          meeting: "c++now",
          edition: "2013",
            title: " Parallel Programming using Charm++",
         speakers: [
-                     "Kale",
-                     "Miller",
-                     "Venkataraman"
+                     "Laxmikant Kale",
+                     "Phil Miller",
+                     "Ramprasad Venkataraman"
                   ],
            video: "https://youtube.com/watch?v=ft9FXqeU6Fc",
        thumbnail: "http://img.youtube.com/vi/ft9FXqeU6Fc/0.jpg",
@@ -23012,13 +23055,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1489,
+          number: 1495,
       identifier: "#cppcon-2016-0031",
          meeting: "cppcon",
          edition: "2016",
@@ -23039,7 +23083,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1370,
+          number: 1376,
       identifier: "#cppcon-2015-0037",
          meeting: "cppcon",
          edition: "2015",
@@ -23061,7 +23105,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1246,
+          number: 1252,
       identifier: "#cppcon-2014-0054",
          meeting: "cppcon",
          edition: "2014",
@@ -23096,13 +23140,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 814,
+          number: 815,
       identifier: "#c++now-2019-0021",
          meeting: "c++now",
          edition: "2019",
@@ -23123,7 +23168,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1823,
+          number: 1829,
       identifier: "#cppcon-2018-0029",
          meeting: "cppcon",
          edition: "2018",
@@ -23159,13 +23204,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2661,
+          number: 2667,
       identifier: "#meeting-c++-2020-0004",
          meeting: "meeting c++",
          edition: "2020",
@@ -23186,7 +23232,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2083,
+          number: 2089,
       identifier: "#cppcon-2019-0101",
          meeting: "cppcon",
          edition: "2019",
@@ -23207,7 +23253,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 702,
+          number: 703,
       identifier: "#c++now-2017-0060",
          meeting: "c++now",
          edition: "2017",
@@ -23228,7 +23274,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2012,
+          number: 2018,
       identifier: "#cppcon-2019-0030",
          meeting: "cppcon",
          edition: "2019",
@@ -23249,7 +23295,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 832,
+          number: 833,
       identifier: "#c++now-2019-0039",
          meeting: "c++now",
          edition: "2019",
@@ -23270,7 +23316,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1798,
+          number: 1804,
       identifier: "#cppcon-2018-0004",
          meeting: "cppcon",
          edition: "2018",
@@ -23291,7 +23337,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1309,
+          number: 1315,
       identifier: "#cppcon-2014-0117",
          meeting: "cppcon",
          edition: "2014",
@@ -23312,7 +23358,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 688,
+          number: 689,
       identifier: "#c++now-2017-0046",
          meeting: "c++now",
          edition: "2017",
@@ -23334,7 +23380,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1721,
+          number: 1727,
       identifier: "#cppcon-2017-0120",
          meeting: "cppcon",
          edition: "2017",
@@ -23355,7 +23401,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1303,
+          number: 1309,
       identifier: "#cppcon-2014-0111",
          meeting: "cppcon",
          edition: "2014",
@@ -23376,7 +23422,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1828,
+          number: 1834,
       identifier: "#cppcon-2018-0034",
          meeting: "cppcon",
          edition: "2018",
@@ -23412,13 +23458,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1332,
+          number: 1338,
       identifier: "#cppcon-2014-0140",
          meeting: "cppcon",
          edition: "2014",
@@ -23439,7 +23486,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2465,
+          number: 2471,
       identifier: "#meeting-c++-2016-0044",
          meeting: "meeting c++",
          edition: "2016",
@@ -23460,7 +23507,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 791,
+          number: 792,
       identifier: "#c++now-2018-0078",
          meeting: "c++now",
          edition: "2018",
@@ -23481,11 +23528,11 @@ const talks = [
         language: "english"
    },
    {
-          number: 770,
+          number: 771,
       identifier: "#c++now-2018-0057",
          meeting: "c++now",
          edition: "2018",
-           title: " Poetry -",
+           title: " Poetry",
         speakers: [
                      "JeanHeyd Meneide"
                   ],
@@ -23502,7 +23549,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 834,
+          number: 835,
       identifier: "#c++now-2019-0041",
          meeting: "c++now",
          edition: "2019",
@@ -23523,7 +23570,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2519,
+          number: 2524,
       identifier: "#meeting-c++-2017-0044",
          meeting: "meeting c++",
          edition: "2017",
@@ -23544,7 +23591,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2091,
+          number: 2097,
       identifier: "#cppcon-2019-0109",
          meeting: "cppcon",
          edition: "2019",
@@ -23565,7 +23612,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1230,
+          number: 1236,
       identifier: "#cppcon-2014-0038",
          meeting: "cppcon",
          edition: "2014",
@@ -23586,7 +23633,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2690,
+          number: 2696,
       identifier: "#pacific-c++-2017-0007",
          meeting: "pacific c++",
          edition: "2017",
@@ -23606,7 +23653,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2697,
+          number: 2703,
       identifier: "#pacific-c++-2018-0007",
          meeting: "pacific c++",
          edition: "2018",
@@ -23626,7 +23673,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 669,
+          number: 670,
       identifier: "#c++now-2017-0027",
          meeting: "c++now",
          edition: "2017",
@@ -23647,7 +23694,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1658,
+          number: 1664,
       identifier: "#cppcon-2017-0057",
          meeting: "cppcon",
          edition: "2017",
@@ -23668,7 +23715,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 659,
+          number: 660,
       identifier: "#c++now-2017-0017",
          meeting: "c++now",
          edition: "2017",
@@ -23689,7 +23736,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1708,
+          number: 1714,
       identifier: "#cppcon-2017-0107",
          meeting: "cppcon",
          edition: "2017",
@@ -23710,7 +23757,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 670,
+          number: 671,
       identifier: "#c++now-2017-0028",
          meeting: "c++now",
          edition: "2017",
@@ -23731,7 +23778,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 491,
+          number: 494,
       identifier: "#c++now-2013-0024",
          meeting: "c++now",
          edition: "2013",
@@ -23745,13 +23792,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1659,
+          number: 1665,
       identifier: "#cppcon-2017-0058",
          meeting: "cppcon",
          edition: "2017",
@@ -23772,7 +23820,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1221,
+          number: 1227,
       identifier: "#cppcon-2014-0008",
          meeting: "cppcon",
          edition: "2014",
@@ -23794,13 +23842,13 @@ const talks = [
         language: "english"
    },
    {
-          number: 1257,
+          number: 1263,
       identifier: "#cppcon-2014-0065",
          meeting: "cppcon",
          edition: "2014",
            title: " Practical Functional Programming in C++",
         speakers: [
-                     "Bryce Adelstein-Lelbach"
+                     "Bryce Adelstein Lelbach"
                   ],
            video: "https://youtube.com/watch?v=1mVBsr3JXFM",
        thumbnail: "http://img.youtube.com/vi/1mVBsr3JXFM/0.jpg",
@@ -23815,7 +23863,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1686,
+          number: 1692,
       identifier: "#cppcon-2017-0085",
          meeting: "cppcon",
          edition: "2017",
@@ -23836,7 +23884,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 603,
+          number: 604,
       identifier: "#c++now-2016-0008",
          meeting: "c++now",
          edition: "2016",
@@ -23857,7 +23905,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1503,
+          number: 1509,
       identifier: "#cppcon-2016-0045",
          meeting: "cppcon",
          edition: "2016",
@@ -23893,13 +23941,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1692,
+          number: 1698,
       identifier: "#cppcon-2017-0091",
          meeting: "cppcon",
          edition: "2017",
@@ -23920,7 +23969,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1229,
+          number: 1235,
       identifier: "#cppcon-2014-0037",
          meeting: "cppcon",
          edition: "2014",
@@ -23955,13 +24004,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1277,
+          number: 1283,
       identifier: "#cppcon-2014-0085",
          meeting: "cppcon",
          edition: "2014",
@@ -23982,7 +24032,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1215,
+          number: 1221,
       identifier: "#cppcon-2014-0002",
          meeting: "cppcon",
          edition: "2014",
@@ -24017,13 +24067,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 627,
+          number: 628,
       identifier: "#c++now-2016-0032",
          meeting: "c++now",
          edition: "2016",
@@ -24044,7 +24095,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1590,
+          number: 1596,
       identifier: "#cppcon-2016-0135",
          meeting: "cppcon",
          edition: "2016",
@@ -24086,7 +24137,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2478,
+          number: 2546,
       identifier: "#meeting-c++-2017-0003",
          meeting: "meeting c++",
          edition: "2017",
@@ -24100,20 +24151,20 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live",
-                     "talk"
+                     "lightning",
+                     "live"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2660,
+          number: 2666,
       identifier: "#meeting-c++-2020-0003",
          meeting: "meeting c++",
          edition: "2020",
            title: " Programming in the Large With C++ 20",
         speakers: [
-                     "Gaby Dos Reis"
+                     "Gabriel Dos Reis"
                   ],
            video: "https://youtube.com/watch?v=j4du4LNsLiI",
        thumbnail: "http://img.youtube.com/vi/j4du4LNsLiI/0.jpg",
@@ -24128,7 +24179,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1608,
+          number: 1615,
       identifier: "#cppcon-2017-0007",
          meeting: "cppcon",
          edition: "2017",
@@ -24149,7 +24200,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2038,
+          number: 2044,
       identifier: "#cppcon-2019-0056",
          meeting: "cppcon",
          edition: "2019",
@@ -24170,7 +24221,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1385,
+          number: 1391,
       identifier: "#cppcon-2015-0052",
          meeting: "cppcon",
          edition: "2015",
@@ -24191,7 +24242,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 629,
+          number: 630,
       identifier: "#c++now-2016-0034",
          meeting: "c++now",
          edition: "2016",
@@ -24212,7 +24263,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 672,
+          number: 673,
       identifier: "#c++now-2017-0030",
          meeting: "c++now",
          edition: "2017",
@@ -24233,7 +24284,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 601,
+          number: 602,
       identifier: "#c++now-2016-0006",
          meeting: "c++now",
          edition: "2016",
@@ -24254,7 +24305,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 602,
+          number: 603,
       identifier: "#c++now-2016-0007",
          meeting: "c++now",
          edition: "2016",
@@ -24275,7 +24326,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 801,
+          number: 802,
       identifier: "#c++now-2019-0007",
          meeting: "c++now",
          edition: "2019",
@@ -24296,7 +24347,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1390,
+          number: 1396,
       identifier: "#cppcon-2015-0057",
          meeting: "cppcon",
          edition: "2015",
@@ -24317,7 +24368,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 612,
+          number: 613,
       identifier: "#c++now-2016-0017",
          meeting: "c++now",
          edition: "2016",
@@ -24339,7 +24390,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 868,
+          number: 869,
       identifier: "#c++now-2019-0075",
          meeting: "c++now",
          edition: "2019",
@@ -24360,7 +24411,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1519,
+          number: 1525,
       identifier: "#cppcon-2016-0061",
          meeting: "cppcon",
          edition: "2016",
@@ -24382,7 +24433,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 780,
+          number: 781,
       identifier: "#c++now-2018-0067",
          meeting: "c++now",
          edition: "2018",
@@ -24403,7 +24454,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1747,
+          number: 1753,
       identifier: "#cppcon-2017-0146",
          meeting: "cppcon",
          edition: "2017",
@@ -24424,7 +24475,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1604,
+          number: 1610,
       identifier: "#cppcon-2017-0004",
          meeting: "cppcon",
          edition: "2017",
@@ -24445,7 +24496,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 510,
+          number: 513,
       identifier: "#c++now-2013-0043",
          meeting: "c++now",
          edition: "2013",
@@ -24459,13 +24510,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1950,
+          number: 1956,
       identifier: "#cppcon-2018-0160",
          meeting: "cppcon",
          edition: "2018",
@@ -24486,7 +24538,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2461,
+          number: 2467,
       identifier: "#meeting-c++-2016-0040",
          meeting: "meeting c++",
          edition: "2016",
@@ -24507,7 +24559,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1290,
+          number: 1296,
       identifier: "#cppcon-2014-0098",
          meeting: "cppcon",
          edition: "2014",
@@ -24528,7 +24580,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1759,
+          number: 1765,
       identifier: "#cppcon-2017-0158",
          meeting: "cppcon",
          edition: "2017",
@@ -24549,7 +24601,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1383,
+          number: 1389,
       identifier: "#cppcon-2015-0050",
          meeting: "cppcon",
          edition: "2015",
@@ -24570,7 +24622,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 682,
+          number: 683,
       identifier: "#c++now-2017-0040",
          meeting: "c++now",
          edition: "2017",
@@ -24591,7 +24643,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1553,
+          number: 1559,
       identifier: "#cppcon-2016-0095",
          meeting: "cppcon",
          edition: "2016",
@@ -24612,7 +24664,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1988,
+          number: 1994,
       identifier: "#cppcon-2019-0006",
          meeting: "cppcon",
          edition: "2019",
@@ -24633,7 +24685,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1572,
+          number: 1578,
       identifier: "#cppcon-2016-0117",
          meeting: "cppcon",
          edition: "2016",
@@ -24654,7 +24706,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1840,
+          number: 1846,
       identifier: "#cppcon-2018-0046",
          meeting: "cppcon",
          edition: "2018",
@@ -24675,7 +24727,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 574,
+          number: 557,
       identifier: "#c++now-2015-0020",
          meeting: "c++now",
          edition: "2015",
@@ -24689,13 +24741,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
+                     "keynote",
                      "live"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1339,
+          number: 1345,
       identifier: "#cppcon-2015-0006",
          meeting: "cppcon",
          edition: "2015",
@@ -24716,7 +24769,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1912,
+          number: 1918,
       identifier: "#cppcon-2018-0122",
          meeting: "cppcon",
          edition: "2018",
@@ -24737,7 +24790,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1382,
+          number: 1388,
       identifier: "#cppcon-2015-0049",
          meeting: "cppcon",
          edition: "2015",
@@ -24758,7 +24811,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1407,
+          number: 1413,
       identifier: "#cppcon-2015-0074",
          meeting: "cppcon",
          edition: "2015",
@@ -24779,7 +24832,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1741,
+          number: 1747,
       identifier: "#cppcon-2017-0140",
          meeting: "cppcon",
          edition: "2017",
@@ -24800,7 +24853,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1675,
+          number: 1681,
       identifier: "#cppcon-2017-0074",
          meeting: "cppcon",
          edition: "2017",
@@ -24821,7 +24874,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1599,
+          number: 1605,
       identifier: "#cppcon-2016-0114",
          meeting: "cppcon",
          edition: "2016",
@@ -24842,7 +24895,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1689,
+          number: 1695,
       identifier: "#cppcon-2017-0088",
          meeting: "cppcon",
          edition: "2017",
@@ -24863,7 +24916,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1651,
+          number: 1657,
       identifier: "#cppcon-2017-0050",
          meeting: "cppcon",
          edition: "2017",
@@ -24884,7 +24937,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1991,
+          number: 1997,
       identifier: "#cppcon-2019-0009",
          meeting: "cppcon",
          edition: "2019",
@@ -24905,7 +24958,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1749,
+          number: 1755,
       identifier: "#cppcon-2017-0148",
          meeting: "cppcon",
          edition: "2017",
@@ -24926,7 +24979,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1201,
+          number: 1207,
       identifier: "#cpp-europe-2020-0008",
          meeting: "cpp europe",
          edition: "2020",
@@ -24948,7 +25001,7 @@ const talks = [
                      "keynote",
                      "live",
                      "live",
-                     "online",
+                     "live",
                      "talk"
                   ],
            level: 0,
@@ -24969,13 +25022,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1892,
+          number: 1898,
       identifier: "#cppcon-2018-0102",
          meeting: "cppcon",
          edition: "2018",
@@ -24996,7 +25050,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1685,
+          number: 1691,
       identifier: "#cppcon-2017-0084",
          meeting: "cppcon",
          edition: "2017",
@@ -25017,7 +25071,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1378,
+          number: 1384,
       identifier: "#cppcon-2015-0045",
          meeting: "cppcon",
          edition: "2015",
@@ -25038,7 +25092,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2048,
+          number: 2054,
       identifier: "#cppcon-2019-0066",
          meeting: "cppcon",
          edition: "2019",
@@ -25073,13 +25127,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1520,
+          number: 1526,
       identifier: "#cppcon-2016-0062",
          meeting: "cppcon",
          edition: "2016",
@@ -25100,7 +25155,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1792,
+          number: 1798,
       identifier: "#cppcon-2017-0191",
          meeting: "cppcon",
          edition: "2017",
@@ -25121,7 +25176,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1821,
+          number: 1827,
       identifier: "#cppcon-2018-0027",
          meeting: "cppcon",
          edition: "2018",
@@ -25142,7 +25197,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2087,
+          number: 2093,
       identifier: "#cppcon-2019-0105",
          meeting: "cppcon",
          edition: "2019",
@@ -25164,7 +25219,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2078,
+          number: 2084,
       identifier: "#cppcon-2019-0096",
          meeting: "cppcon",
          edition: "2019",
@@ -25199,13 +25254,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2684,
+          number: 2690,
       identifier: "#pacific-c++-2017-0001",
          meeting: "pacific c++",
          edition: "2017",
@@ -25225,7 +25281,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2691,
+          number: 2697,
       identifier: "#pacific-c++-2018-0001",
          meeting: "pacific c++",
          edition: "2018",
@@ -25245,7 +25301,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 728,
+          number: 729,
       identifier: "#c++now-2018-0015",
          meeting: "c++now",
          edition: "2018",
@@ -25266,7 +25322,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 646,
+          number: 647,
       identifier: "#c++now-2017-0004",
          meeting: "c++now",
          edition: "2017",
@@ -25287,7 +25343,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2041,
+          number: 2047,
       identifier: "#cppcon-2019-0059",
          meeting: "cppcon",
          edition: "2019",
@@ -25308,7 +25364,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1880,
+          number: 1886,
       identifier: "#cppcon-2018-0089",
          meeting: "cppcon",
          edition: "2018",
@@ -25329,7 +25385,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1317,
+          number: 1323,
       identifier: "#cppcon-2014-0125",
          meeting: "cppcon",
          edition: "2014",
@@ -25350,7 +25406,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1463,
+          number: 1469,
       identifier: "#cppcon-2016-0004",
          meeting: "cppcon",
          edition: "2016",
@@ -25371,7 +25427,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 819,
+          number: 820,
       identifier: "#c++now-2019-0026",
          meeting: "c++now",
          edition: "2019",
@@ -25392,7 +25448,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 430,
+          number: 431,
       identifier: "#c++now-2012-0004",
          meeting: "c++now",
          edition: "2012",
@@ -25407,13 +25463,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1316,
+          number: 1322,
       identifier: "#cppcon-2014-0124",
          meeting: "cppcon",
          edition: "2014",
@@ -25434,7 +25491,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2464,
+          number: 2470,
       identifier: "#meeting-c++-2016-0043",
          meeting: "meeting c++",
          edition: "2016",
@@ -25455,7 +25512,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 848,
+          number: 849,
       identifier: "#c++now-2019-0055",
          meeting: "c++now",
          edition: "2019",
@@ -25476,7 +25533,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 748,
+          number: 749,
       identifier: "#c++now-2018-0035",
          meeting: "c++now",
          edition: "2018",
@@ -25497,7 +25554,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1738,
+          number: 1744,
       identifier: "#cppcon-2017-0137",
          meeting: "cppcon",
          edition: "2017",
@@ -25518,7 +25575,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 643,
+          number: 644,
       identifier: "#c++now-2017-0001",
          meeting: "c++now",
          edition: "2017",
@@ -25560,7 +25617,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2463,
+          number: 2469,
       identifier: "#meeting-c++-2016-0042",
          meeting: "meeting c++",
          edition: "2016",
@@ -25581,7 +25638,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1815,
+          number: 1821,
       identifier: "#cppcon-2018-0021",
          meeting: "cppcon",
          edition: "2018",
@@ -25602,7 +25659,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1554,
+          number: 1560,
       identifier: "#cppcon-2016-0096",
          meeting: "cppcon",
          edition: "2016",
@@ -25623,7 +25680,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2056,
+          number: 2062,
       identifier: "#cppcon-2019-0074",
          meeting: "cppcon",
          edition: "2019",
@@ -25644,7 +25701,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 811,
+          number: 812,
       identifier: "#c++now-2019-0018",
          meeting: "c++now",
          edition: "2019",
@@ -25665,7 +25722,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1812,
+          number: 1818,
       identifier: "#cppcon-2018-0018",
          meeting: "cppcon",
          edition: "2018",
@@ -25686,7 +25743,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1262,
+          number: 1268,
       identifier: "#cppcon-2014-0070",
          meeting: "cppcon",
          edition: "2014",
@@ -25707,7 +25764,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1832,
+          number: 1838,
       identifier: "#cppcon-2018-0038",
          meeting: "cppcon",
          edition: "2018",
@@ -25728,7 +25785,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1907,
+          number: 1913,
       identifier: "#cppcon-2018-0117",
          meeting: "cppcon",
          edition: "2018",
@@ -25749,7 +25806,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 501,
+          number: 504,
       identifier: "#c++now-2013-0034",
          meeting: "c++now",
          edition: "2013",
@@ -25763,13 +25820,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 867,
+          number: 868,
       identifier: "#c++now-2019-0074",
          meeting: "c++now",
          edition: "2019",
@@ -25790,7 +25848,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1932,
+          number: 1938,
       identifier: "#cppcon-2018-0142",
          meeting: "cppcon",
          edition: "2018",
@@ -25811,7 +25869,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1389,
+          number: 1395,
       identifier: "#cppcon-2015-0056",
          meeting: "cppcon",
          edition: "2015",
@@ -25832,7 +25890,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 750,
+          number: 751,
       identifier: "#c++now-2018-0037",
          meeting: "c++now",
          edition: "2018",
@@ -25853,7 +25911,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 824,
+          number: 825,
       identifier: "#c++now-2019-0031",
          meeting: "c++now",
          edition: "2019",
@@ -25874,7 +25932,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1844,
+          number: 1850,
       identifier: "#cppcon-2018-0050",
          meeting: "cppcon",
          edition: "2018",
@@ -25895,7 +25953,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1845,
+          number: 1851,
       identifier: "#cppcon-2018-0051",
          meeting: "cppcon",
          edition: "2018",
@@ -25916,7 +25974,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1969,
+          number: 1975,
       identifier: "#cppcon-2018-0179",
          meeting: "cppcon",
          edition: "2018",
@@ -25937,7 +25995,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 782,
+          number: 783,
       identifier: "#c++now-2018-0069",
          meeting: "c++now",
          edition: "2018",
@@ -25958,7 +26016,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1943,
+          number: 1949,
       identifier: "#cppcon-2018-0153",
          meeting: "cppcon",
          edition: "2018",
@@ -25979,7 +26037,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1894,
+          number: 1900,
       identifier: "#cppcon-2018-0104",
          meeting: "cppcon",
          edition: "2018",
@@ -26000,7 +26058,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1769,
+          number: 1775,
       identifier: "#cppcon-2017-0168",
          meeting: "cppcon",
          edition: "2017",
@@ -26021,7 +26079,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 635,
+          number: 636,
       identifier: "#c++now-2016-0040",
          meeting: "c++now",
          edition: "2016",
@@ -26042,7 +26100,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2190,
+          number: 2196,
       identifier: "#cppcon-2019-0208",
          meeting: "cppcon",
          edition: "2019",
@@ -26063,7 +26121,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1799,
+          number: 1805,
       identifier: "#cppcon-2018-0005",
          meeting: "cppcon",
          edition: "2018",
@@ -26084,7 +26142,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1223,
+          number: 1229,
       identifier: "#cppcon-2014-0010",
          meeting: "cppcon",
          edition: "2014",
@@ -26105,7 +26163,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 861,
+          number: 862,
       identifier: "#c++now-2019-0068",
          meeting: "c++now",
          edition: "2019",
@@ -26126,7 +26184,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2029,
+          number: 2035,
       identifier: "#cppcon-2019-0047",
          meeting: "cppcon",
          edition: "2019",
@@ -26147,7 +26205,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 759,
+          number: 760,
       identifier: "#c++now-2018-0046",
          meeting: "c++now",
          edition: "2018",
@@ -26168,7 +26226,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 859,
+          number: 860,
       identifier: "#c++now-2019-0066",
          meeting: "c++now",
          edition: "2019",
@@ -26189,7 +26247,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1698,
+          number: 1704,
       identifier: "#cppcon-2017-0097",
          meeting: "cppcon",
          edition: "2017",
@@ -26210,7 +26268,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1796,
+          number: 1802,
       identifier: "#cppcon-2018-0002",
          meeting: "cppcon",
          edition: "2018",
@@ -26231,7 +26289,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1321,
+          number: 1327,
       identifier: "#cppcon-2014-0129",
          meeting: "cppcon",
          edition: "2014",
@@ -26252,7 +26310,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1791,
+          number: 1797,
       identifier: "#cppcon-2017-0190",
          meeting: "cppcon",
          edition: "2017",
@@ -26273,7 +26331,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 481,
+          number: 484,
       identifier: "#c++now-2013-0014",
          meeting: "c++now",
          edition: "2013",
@@ -26287,13 +26345,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1994,
+          number: 2000,
       identifier: "#cppcon-2019-0012",
          meeting: "cppcon",
          edition: "2019",
@@ -26314,7 +26373,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 665,
+          number: 666,
       identifier: "#c++now-2017-0023",
          meeting: "c++now",
          edition: "2017",
@@ -26335,7 +26394,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1814,
+          number: 1820,
       identifier: "#cppcon-2018-0020",
          meeting: "cppcon",
          edition: "2018",
@@ -26356,7 +26415,28 @@ const talks = [
         language: "english"
    },
    {
-          number: 1802,
+          number: 1801,
+      identifier: "#cppcon-2018-0001",
+         meeting: "cppcon",
+         edition: "2018",
+           title: " Spectre",
+        speakers: [
+                     "Matt Godbolt"
+                  ],
+           video: "https://youtube.com/watch?v=IPhvL3A-e6E",
+       thumbnail: "http://img.youtube.com/vi/IPhvL3A-e6E/0.jpg",
+        duration: 2883,
+            tags: [
+                     "c++",
+                     "conference",
+                     "live",
+                     "panel"
+                  ],
+           level: 0,
+        language: "english"
+   },
+   {
+          number: 1808,
       identifier: "#cppcon-2018-0008",
          meeting: "cppcon",
          edition: "2018",
@@ -26377,7 +26457,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1984,
+          number: 1990,
       identifier: "#cppcon-2019-0002",
          meeting: "cppcon",
          edition: "2019",
@@ -26412,13 +26492,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1497,
+          number: 1503,
       identifier: "#cppcon-2016-0039",
          meeting: "cppcon",
          edition: "2016",
@@ -26439,7 +26520,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1233,
+          number: 1239,
       identifier: "#cppcon-2014-0041",
          meeting: "cppcon",
          edition: "2014",
@@ -26460,7 +26541,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1929,
+          number: 1935,
       identifier: "#cppcon-2018-0139",
          meeting: "cppcon",
          edition: "2018",
@@ -26481,7 +26562,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2470,
+          number: 2476,
       identifier: "#meeting-c++-2016-0049",
          meeting: "meeting c++",
          edition: "2016",
@@ -26502,7 +26583,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2460,
+          number: 2466,
       identifier: "#meeting-c++-2016-0039",
          meeting: "meeting c++",
          edition: "2016",
@@ -26523,7 +26604,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 470,
+          number: 473,
       identifier: "#c++now-2013-0003",
          meeting: "c++now",
          edition: "2013",
@@ -26537,13 +26618,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1801,
+          number: 1807,
       identifier: "#cppcon-2018-0007",
          meeting: "cppcon",
          edition: "2018",
@@ -26564,7 +26646,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1404,
+          number: 1410,
       identifier: "#cppcon-2015-0071",
          meeting: "cppcon",
          edition: "2015",
@@ -26585,7 +26667,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1920,
+          number: 1926,
       identifier: "#cppcon-2018-0130",
          meeting: "cppcon",
          edition: "2018",
@@ -26606,7 +26688,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1753,
+          number: 1759,
       identifier: "#cppcon-2017-0152",
          meeting: "cppcon",
          edition: "2017",
@@ -26627,7 +26709,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1380,
+          number: 1386,
       identifier: "#cppcon-2015-0047",
          meeting: "cppcon",
          edition: "2015",
@@ -26648,7 +26730,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1959,
+          number: 1965,
       identifier: "#cppcon-2018-0169",
          meeting: "cppcon",
          edition: "2018",
@@ -26669,7 +26751,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2088,
+          number: 2094,
       identifier: "#cppcon-2019-0106",
          meeting: "cppcon",
          edition: "2019",
@@ -26690,7 +26772,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1954,
+          number: 1960,
       identifier: "#cppcon-2018-0164",
          meeting: "cppcon",
          edition: "2018",
@@ -26711,7 +26793,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 844,
+          number: 845,
       identifier: "#c++now-2019-0051",
          meeting: "c++now",
          edition: "2019",
@@ -26732,7 +26814,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1546,
+          number: 1552,
       identifier: "#cppcon-2016-0088",
          meeting: "cppcon",
          edition: "2016",
@@ -26753,7 +26835,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1395,
+          number: 1401,
       identifier: "#cppcon-2015-0062",
          meeting: "cppcon",
          edition: "2015",
@@ -26774,13 +26856,13 @@ const talks = [
         language: "english"
    },
    {
-          number: 1272,
+          number: 1278,
       identifier: "#cppcon-2014-0080",
          meeting: "cppcon",
          edition: "2014",
            title: " STL Features And Implementation Techniques",
         speakers: [
-                     "Stephan Lavavej"
+                     "Stephan T. Lavavej"
                   ],
            video: "https://youtube.com/watch?v=dTeKf5Oek2c",
        thumbnail: "http://img.youtube.com/vi/dTeKf5Oek2c/0.jpg",
@@ -26795,7 +26877,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1424,
+          number: 1430,
       identifier: "#cppcon-2015-0091",
          meeting: "cppcon",
          edition: "2015",
@@ -26816,7 +26898,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1391,
+          number: 1397,
       identifier: "#cppcon-2015-0058",
          meeting: "cppcon",
          edition: "2015",
@@ -26837,7 +26919,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1865,
+          number: 1871,
       identifier: "#cppcon-2018-0071",
          meeting: "cppcon",
          edition: "2018",
@@ -26858,7 +26940,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 506,
+          number: 509,
       identifier: "#c++now-2013-0039",
          meeting: "c++now",
          edition: "2013",
@@ -26872,13 +26954,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 495,
+          number: 498,
       identifier: "#c++now-2013-0028",
          meeting: "c++now",
          edition: "2013",
@@ -26892,7 +26975,8 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -26904,8 +26988,8 @@ const talks = [
          edition: "2011",
            title: " Sweep-Line Algorithm for Voronoi Diagrams",
         speakers: [
-                     "Simonson",
-                     "Sydorchuk"
+                     "Andrii Sydorchuk",
+                     "Lucanus Simonson"
                   ],
            video: "https://youtube.com/watch?v=CU3VAOI0RL0",
        thumbnail: "http://img.youtube.com/vi/CU3VAOI0RL0/0.jpg",
@@ -26913,13 +26997,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 569,
+          number: 570,
       identifier: "#c++now-2015-0015",
          meeting: "c++now",
          edition: "2015",
@@ -26933,13 +27018,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 813,
+          number: 814,
       identifier: "#c++now-2019-0020",
          meeting: "c++now",
          edition: "2019",
@@ -26960,7 +27046,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 840,
+          number: 841,
       identifier: "#c++now-2019-0047",
          meeting: "c++now",
          edition: "2019",
@@ -26981,7 +27067,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 771,
+          number: 772,
       identifier: "#c++now-2018-0058",
          meeting: "c++now",
          edition: "2018",
@@ -27002,7 +27088,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1979,
+          number: 1985,
       identifier: "#cppcon-2018-0189",
          meeting: "cppcon",
          edition: "2018",
@@ -27023,7 +27109,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1881,
+          number: 1887,
       identifier: "#cppcon-2018-0091",
          meeting: "cppcon",
          edition: "2018",
@@ -27044,7 +27130,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2458,
+          number: 2464,
       identifier: "#meeting-c++-2016-0037",
          meeting: "meeting c++",
          edition: "2016",
@@ -27065,7 +27151,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1909,
+          number: 1915,
       identifier: "#cppcon-2018-0119",
          meeting: "cppcon",
          edition: "2018",
@@ -27086,7 +27172,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1194,
+          number: 1200,
       identifier: "#cpp-europe-2020-0001",
          meeting: "cpp europe",
          edition: "2020",
@@ -27108,7 +27194,28 @@ const talks = [
                      "keynote",
                      "live",
                      "live",
-                     "online",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "english"
+   },
+   {
+          number: 1404,
+      identifier: "#cppcon-2015-0065",
+         meeting: "cppcon",
+         edition: "2015",
+           title: " Technical Specifications & C++17",
+        speakers: [
+                     "Chandler Carruth"
+                  ],
+           video: "https://youtube.com/watch?v=p1fqdl6sLMY",
+       thumbnail: "http://img.youtube.com/vi/p1fqdl6sLMY/0.jpg",
+        duration: 4460,
+            tags: [
+                     "c++",
+                     "conference",
+                     "live",
                      "talk"
                   ],
            level: 0,
@@ -27136,7 +27243,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1469,
+          number: 1475,
       identifier: "#cppcon-2016-0011",
          meeting: "cppcon",
          edition: "2016",
@@ -27157,7 +27264,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1474,
+          number: 1480,
       identifier: "#cppcon-2016-0016",
          meeting: "cppcon",
          edition: "2016",
@@ -27178,7 +27285,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2665,
+          number: 2671,
       identifier: "#meeting-c++-2020-0008",
          meeting: "meeting c++",
          edition: "2020",
@@ -27199,7 +27306,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 866,
+          number: 867,
       identifier: "#c++now-2019-0073",
          meeting: "c++now",
          edition: "2019",
@@ -27220,7 +27327,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1386,
+          number: 1392,
       identifier: "#cppcon-2015-0053",
          meeting: "cppcon",
          edition: "2015",
@@ -27241,7 +27348,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1373,
+          number: 1379,
       identifier: "#cppcon-2015-0040",
          meeting: "cppcon",
          edition: "2015",
@@ -27262,7 +27369,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1323,
+          number: 1329,
       identifier: "#cppcon-2014-0131",
          meeting: "cppcon",
          edition: "2014",
@@ -27283,7 +27390,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 809,
+          number: 810,
       identifier: "#c++now-2019-0016",
          meeting: "c++now",
          edition: "2019",
@@ -27304,7 +27411,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 559,
+          number: 560,
       identifier: "#c++now-2015-0005",
          meeting: "c++now",
          edition: "2015",
@@ -27318,13 +27425,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1423,
+          number: 1429,
       identifier: "#cppcon-2015-0090",
          meeting: "cppcon",
          edition: "2015",
@@ -27345,7 +27453,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 673,
+          number: 674,
       identifier: "#c++now-2017-0031",
          meeting: "c++now",
          edition: "2017",
@@ -27366,7 +27474,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1947,
+          number: 1953,
       identifier: "#cppcon-2018-0157",
          meeting: "cppcon",
          edition: "2018",
@@ -27387,7 +27495,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 676,
+          number: 677,
       identifier: "#c++now-2017-0034",
          meeting: "c++now",
          edition: "2017",
@@ -27408,7 +27516,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2475,
+          number: 2481,
       identifier: "#meeting-c++-2016-0054",
          meeting: "meeting c++",
          edition: "2016",
@@ -27429,7 +27537,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 828,
+          number: 829,
       identifier: "#c++now-2019-0035",
          meeting: "c++now",
          edition: "2019",
@@ -27450,7 +27558,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1690,
+          number: 1696,
       identifier: "#cppcon-2017-0089",
          meeting: "cppcon",
          edition: "2017",
@@ -27471,7 +27579,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1962,
+          number: 1968,
       identifier: "#cppcon-2018-0172",
          meeting: "cppcon",
          edition: "2018",
@@ -27513,7 +27621,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2035,
+          number: 2041,
       identifier: "#cppcon-2019-0053",
          meeting: "cppcon",
          edition: "2019",
@@ -27534,7 +27642,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 731,
+          number: 732,
       identifier: "#c++now-2018-0018",
          meeting: "c++now",
          edition: "2018",
@@ -27555,7 +27663,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1933,
+          number: 1939,
       identifier: "#cppcon-2018-0143",
          meeting: "cppcon",
          edition: "2018",
@@ -27576,7 +27684,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1537,
+          number: 1543,
       identifier: "#cppcon-2016-0079",
          meeting: "cppcon",
          edition: "2016",
@@ -27597,7 +27705,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2046,
+          number: 2052,
       identifier: "#cppcon-2019-0064",
          meeting: "cppcon",
          edition: "2019",
@@ -27618,7 +27726,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1838,
+          number: 1844,
       identifier: "#cppcon-2018-0044",
          meeting: "cppcon",
          edition: "2018",
@@ -27639,7 +27747,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 820,
+          number: 821,
       identifier: "#c++now-2019-0027",
          meeting: "c++now",
          edition: "2019",
@@ -27660,7 +27768,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1202,
+          number: 1208,
       identifier: "#cpp-europe-2020-0009",
          meeting: "cpp europe",
          edition: "2020",
@@ -27668,9 +27776,9 @@ const talks = [
         speakers: [
                      "Arno Schodl"
                   ],
-           video: "https://youtube.com/watch?v=zzkpTbJiFPM",
-       thumbnail: "http://img.youtube.com/vi/zzkpTbJiFPM/0.jpg",
-        duration: 3582,
+           video: "https://youtube.com/watch?v=Ubr5wIm4g7c",
+       thumbnail: "http://img.youtube.com/vi/Ubr5wIm4g7c/0.jpg",
+        duration: 2835,
             tags: [
                      "c++",
                      "c++",
@@ -27682,14 +27790,14 @@ const talks = [
                      "keynote",
                      "live",
                      "live",
-                     "online",
+                     "live",
                      "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1478,
+          number: 1484,
       identifier: "#cppcon-2016-0020",
          meeting: "cppcon",
          edition: "2016",
@@ -27710,7 +27818,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 812,
+          number: 813,
       identifier: "#c++now-2019-0019",
          meeting: "c++now",
          edition: "2019",
@@ -27731,7 +27839,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2070,
+          number: 2076,
       identifier: "#cppcon-2019-0088",
          meeting: "cppcon",
          edition: "2019",
@@ -27752,7 +27860,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1312,
+          number: 1318,
       identifier: "#cppcon-2014-0120",
          meeting: "cppcon",
          edition: "2014",
@@ -27773,7 +27881,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1241,
+          number: 1247,
       identifier: "#cppcon-2014-0049",
          meeting: "cppcon",
          edition: "2014",
@@ -27794,7 +27902,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1508,
+          number: 1514,
       identifier: "#cppcon-2016-0050",
          meeting: "cppcon",
          edition: "2016",
@@ -27815,7 +27923,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 733,
+          number: 734,
       identifier: "#c++now-2018-0020",
          meeting: "c++now",
          edition: "2018",
@@ -27836,7 +27944,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 636,
+          number: 637,
       identifier: "#c++now-2016-0041",
          meeting: "c++now",
          edition: "2016",
@@ -27857,7 +27965,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1401,
+          number: 1407,
       identifier: "#cppcon-2015-0068",
          meeting: "cppcon",
          edition: "2015",
@@ -27878,7 +27986,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1444,
+          number: 1450,
       identifier: "#cppcon-2015-0131",
          meeting: "cppcon",
          edition: "2015",
@@ -27899,7 +28007,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2016,
+          number: 2022,
       identifier: "#cppcon-2019-0034",
          meeting: "cppcon",
          edition: "2019",
@@ -27920,7 +28028,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 640,
+          number: 641,
       identifier: "#c++now-2016-0045",
          meeting: "c++now",
          edition: "2016",
@@ -27941,7 +28049,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1783,
+          number: 1789,
       identifier: "#cppcon-2017-0182",
          meeting: "cppcon",
          edition: "2017",
@@ -27962,7 +28070,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2057,
+          number: 2063,
       identifier: "#cppcon-2019-0075",
          meeting: "cppcon",
          edition: "2019",
@@ -27983,7 +28091,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 626,
+          number: 627,
       identifier: "#c++now-2016-0031",
          meeting: "c++now",
          edition: "2016",
@@ -28005,7 +28113,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1782,
+          number: 1788,
       identifier: "#cppcon-2017-0181",
          meeting: "cppcon",
          edition: "2017",
@@ -28026,7 +28134,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1461,
+          number: 1465,
       identifier: "#cppcon-2016-0002",
          meeting: "cppcon",
          edition: "2016",
@@ -28040,14 +28148,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live",
-                     "talk"
+                     "keynote",
+                     "live"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2359,
+          number: 2365,
       identifier: "#meeting-c++-2014-0001",
          meeting: "meeting c++",
          edition: "2014",
@@ -28068,7 +28176,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1500,
+          number: 1506,
       identifier: "#cppcon-2016-0042",
          meeting: "cppcon",
          edition: "2016",
@@ -28089,7 +28197,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 632,
+          number: 633,
       identifier: "#c++now-2016-0037",
          meeting: "c++now",
          edition: "2016",
@@ -28124,13 +28232,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1730,
+          number: 1736,
       identifier: "#cppcon-2017-0129",
          meeting: "cppcon",
          edition: "2017",
@@ -28152,7 +28261,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1563,
+          number: 1569,
       identifier: "#cppcon-2016-0105",
          meeting: "cppcon",
          edition: "2016",
@@ -28173,7 +28282,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1700,
+          number: 1706,
       identifier: "#cppcon-2017-0099",
          meeting: "cppcon",
          edition: "2017",
@@ -28194,7 +28303,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 692,
+          number: 693,
       identifier: "#c++now-2017-0050",
          meeting: "c++now",
          edition: "2017",
@@ -28215,7 +28324,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1247,
+          number: 1253,
       identifier: "#cppcon-2014-0055",
          meeting: "cppcon",
          edition: "2014",
@@ -28236,7 +28345,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1435,
+          number: 1441,
       identifier: "#cppcon-2015-0102",
          meeting: "cppcon",
          edition: "2015",
@@ -28257,7 +28366,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 494,
+          number: 497,
       identifier: "#c++now-2013-0027",
          meeting: "c++now",
          edition: "2013",
@@ -28271,13 +28380,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 735,
+          number: 736,
       identifier: "#c++now-2018-0022",
          meeting: "c++now",
          edition: "2018",
@@ -28299,7 +28409,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1834,
+          number: 1840,
       identifier: "#cppcon-2018-0040",
          meeting: "cppcon",
          edition: "2018",
@@ -28321,7 +28431,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1471,
+          number: 1477,
       identifier: "#cppcon-2016-0013",
          meeting: "cppcon",
          edition: "2016",
@@ -28342,7 +28452,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 815,
+          number: 816,
       identifier: "#c++now-2019-0022",
          meeting: "c++now",
          edition: "2019",
@@ -28363,7 +28473,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 657,
+          number: 658,
       identifier: "#c++now-2017-0015",
          meeting: "c++now",
          edition: "2017",
@@ -28384,7 +28494,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1928,
+          number: 1934,
       identifier: "#cppcon-2018-0138",
          meeting: "cppcon",
          edition: "2018",
@@ -28405,7 +28515,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2067,
+          number: 2073,
       identifier: "#cppcon-2019-0085",
          meeting: "cppcon",
          edition: "2019",
@@ -28426,7 +28536,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1888,
+          number: 1894,
       identifier: "#cppcon-2018-0098",
          meeting: "cppcon",
          edition: "2018",
@@ -28447,7 +28557,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1325,
+          number: 1331,
       identifier: "#cppcon-2014-0133",
          meeting: "cppcon",
          edition: "2014",
@@ -28468,7 +28578,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1864,
+          number: 1870,
       identifier: "#cppcon-2018-0070",
          meeting: "cppcon",
          edition: "2018",
@@ -28489,7 +28599,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1641,
+          number: 1647,
       identifier: "#cppcon-2017-0040",
          meeting: "cppcon",
          edition: "2017",
@@ -28510,7 +28620,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 768,
+          number: 769,
       identifier: "#c++now-2018-0055",
          meeting: "c++now",
          edition: "2018",
@@ -28531,7 +28641,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2025,
+          number: 2031,
       identifier: "#cppcon-2019-0043",
          meeting: "cppcon",
          edition: "2019",
@@ -28552,7 +28662,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 839,
+          number: 840,
       identifier: "#c++now-2019-0046",
          meeting: "c++now",
          edition: "2019",
@@ -28588,13 +28698,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1957,
+          number: 1963,
       identifier: "#cppcon-2018-0167",
          meeting: "cppcon",
          edition: "2018",
@@ -28615,7 +28726,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1326,
+          number: 1332,
       identifier: "#cppcon-2014-0134",
          meeting: "cppcon",
          edition: "2014",
@@ -28636,7 +28747,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1294,
+          number: 1300,
       identifier: "#cppcon-2014-0102",
          meeting: "cppcon",
          edition: "2014",
@@ -28657,7 +28768,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 817,
+          number: 818,
       identifier: "#c++now-2019-0024",
          meeting: "c++now",
          edition: "2019",
@@ -28678,7 +28789,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1485,
+          number: 1491,
       identifier: "#cppcon-2016-0027",
          meeting: "cppcon",
          edition: "2016",
@@ -28699,7 +28810,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 730,
+          number: 731,
       identifier: "#c++now-2018-0017",
          meeting: "c++now",
          edition: "2018",
@@ -28720,7 +28831,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1449,
+          number: 1455,
       identifier: "#cppcon-2015-0136",
          meeting: "cppcon",
          edition: "2015",
@@ -28741,7 +28852,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 482,
+          number: 485,
       identifier: "#c++now-2013-0015",
          meeting: "c++now",
          edition: "2013",
@@ -28755,7 +28866,8 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -28775,13 +28887,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1612,
+          number: 1619,
       identifier: "#cppcon-2017-0011",
          meeting: "cppcon",
          edition: "2017",
@@ -28802,7 +28915,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 816,
+          number: 817,
       identifier: "#c++now-2019-0023",
          meeting: "c++now",
          edition: "2019",
@@ -28837,13 +28950,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1930,
+          number: 1936,
       identifier: "#cppcon-2018-0140",
          meeting: "cppcon",
          edition: "2018",
@@ -28864,7 +28978,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 715,
+          number: 716,
       identifier: "#c++now-2018-0002",
          meeting: "c++now",
          edition: "2018",
@@ -28885,7 +28999,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1978,
+          number: 1984,
       identifier: "#cppcon-2018-0188",
          meeting: "cppcon",
          edition: "2018",
@@ -28906,7 +29020,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 699,
+          number: 700,
       identifier: "#c++now-2017-0057",
          meeting: "c++now",
          edition: "2017",
@@ -28927,7 +29041,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1535,
+          number: 1541,
       identifier: "#cppcon-2016-0077",
          meeting: "cppcon",
          edition: "2016",
@@ -28948,7 +29062,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2671,
+          number: 2677,
       identifier: "#meeting-c++-2020-0014",
          meeting: "meeting c++",
          edition: "2020",
@@ -28969,7 +29083,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1527,
+          number: 1533,
       identifier: "#cppcon-2016-0069",
          meeting: "cppcon",
          edition: "2016",
@@ -28990,7 +29104,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1743,
+          number: 1749,
       identifier: "#cppcon-2017-0142",
          meeting: "cppcon",
          edition: "2017",
@@ -29011,7 +29125,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2462,
+          number: 2468,
       identifier: "#meeting-c++-2016-0041",
          meeting: "meeting c++",
          edition: "2016",
@@ -29032,7 +29146,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 807,
+          number: 808,
       identifier: "#c++now-2019-0014",
          meeting: "c++now",
          edition: "2019",
@@ -29053,7 +29167,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1400,
+          number: 1406,
       identifier: "#cppcon-2015-0067",
          meeting: "cppcon",
          edition: "2015",
@@ -29074,7 +29188,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 755,
+          number: 756,
       identifier: "#c++now-2018-0042",
          meeting: "c++now",
          edition: "2018",
@@ -29095,7 +29209,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 830,
+          number: 831,
       identifier: "#c++now-2019-0037",
          meeting: "c++now",
          edition: "2019",
@@ -29116,7 +29230,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1512,
+          number: 1518,
       identifier: "#cppcon-2016-0054",
          meeting: "cppcon",
          edition: "2016",
@@ -29137,7 +29251,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2051,
+          number: 2057,
       identifier: "#cppcon-2019-0069",
          meeting: "cppcon",
          edition: "2019",
@@ -29158,7 +29272,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1720,
+          number: 1726,
       identifier: "#cppcon-2017-0119",
          meeting: "cppcon",
          edition: "2017",
@@ -29179,7 +29293,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1807,
+          number: 1813,
       identifier: "#cppcon-2018-0013",
          meeting: "cppcon",
          edition: "2018",
@@ -29214,13 +29328,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 568,
+          number: 569,
       identifier: "#c++now-2015-0014",
          meeting: "c++now",
          edition: "2015",
@@ -29234,13 +29349,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2659,
+          number: 2665,
       identifier: "#meeting-c++-2020-0002",
          meeting: "meeting c++",
          edition: "2020",
@@ -29261,7 +29377,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1664,
+          number: 1670,
       identifier: "#cppcon-2017-0063",
          meeting: "cppcon",
          edition: "2017",
@@ -29282,7 +29398,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1963,
+          number: 1969,
       identifier: "#cppcon-2018-0173",
          meeting: "cppcon",
          edition: "2018",
@@ -29303,7 +29419,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 781,
+          number: 782,
       identifier: "#c++now-2018-0068",
          meeting: "c++now",
          edition: "2018",
@@ -29324,7 +29440,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2077,
+          number: 2083,
       identifier: "#cppcon-2019-0095",
          meeting: "cppcon",
          edition: "2019",
@@ -29345,7 +29461,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1800,
+          number: 1806,
       identifier: "#cppcon-2018-0006",
          meeting: "cppcon",
          edition: "2018",
@@ -29366,7 +29482,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 860,
+          number: 861,
       identifier: "#c++now-2019-0067",
          meeting: "c++now",
          edition: "2019",
@@ -29387,7 +29503,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 487,
+          number: 490,
       identifier: "#c++now-2013-0020",
          meeting: "c++now",
          edition: "2013",
@@ -29401,13 +29517,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 613,
+          number: 614,
       identifier: "#c++now-2016-0018",
          meeting: "c++now",
          edition: "2016",
@@ -29442,13 +29559,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1761,
+          number: 1767,
       identifier: "#cppcon-2017-0160",
          meeting: "cppcon",
          edition: "2017",
@@ -29469,7 +29587,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1363,
+          number: 1369,
       identifier: "#cppcon-2015-0030",
          meeting: "cppcon",
          edition: "2015",
@@ -29490,7 +29608,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1617,
+          number: 1624,
       identifier: "#cppcon-2017-0016",
          meeting: "cppcon",
          edition: "2017",
@@ -29513,7 +29631,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2026,
+          number: 2032,
       identifier: "#cppcon-2019-0044",
          meeting: "cppcon",
          edition: "2019",
@@ -29534,7 +29652,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1716,
+          number: 1722,
       identifier: "#cppcon-2017-0115",
          meeting: "cppcon",
          edition: "2017",
@@ -29555,7 +29673,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1661,
+          number: 1667,
       identifier: "#cppcon-2017-0060",
          meeting: "cppcon",
          edition: "2017",
@@ -29576,7 +29694,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1198,
+          number: 1204,
       identifier: "#cpp-europe-2020-0005",
          meeting: "cpp europe",
          edition: "2020",
@@ -29599,14 +29717,14 @@ const talks = [
                      "keynote",
                      "live",
                      "live",
-                     "online",
+                     "live",
                      "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1863,
+          number: 1869,
       identifier: "#cppcon-2018-0069",
          meeting: "cppcon",
          edition: "2018",
@@ -29643,13 +29761,35 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1483,
+          number: 1186,
+      identifier: "#cpp-europe-2018-0003",
+         meeting: "cpp europe",
+         edition: "2018",
+           title: " Towards contract programming in C++",
+        speakers: [
+                     "Jose Daniel Garcia"
+                  ],
+           video: "https://youtube.com/watch?v=-8FLioMNFtE",
+       thumbnail: "http://img.youtube.com/vi/-8FLioMNFtE/0.jpg",
+        duration: 3632,
+            tags: [
+                     "c++",
+                     "conference",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "english"
+   },
+   {
+          number: 1489,
       identifier: "#cppcon-2016-0025",
          meeting: "cppcon",
          edition: "2016",
@@ -29671,7 +29811,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 686,
+          number: 687,
       identifier: "#c++now-2017-0044",
          meeting: "c++now",
          edition: "2017",
@@ -29692,7 +29832,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1412,
+          number: 1418,
       identifier: "#cppcon-2015-0079",
          meeting: "cppcon",
          edition: "2015",
@@ -29713,7 +29853,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1403,
+          number: 1409,
       identifier: "#cppcon-2015-0070",
          meeting: "cppcon",
          edition: "2015",
@@ -29734,7 +29874,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1709,
+          number: 1715,
       identifier: "#cppcon-2017-0108",
          meeting: "cppcon",
          edition: "2017",
@@ -29755,7 +29895,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 833,
+          number: 834,
       identifier: "#c++now-2019-0040",
          meeting: "c++now",
          edition: "2019",
@@ -29776,7 +29916,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1972,
+          number: 1978,
       identifier: "#cppcon-2018-0182",
          meeting: "cppcon",
          edition: "2018",
@@ -29797,7 +29937,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1338,
+          number: 1344,
       identifier: "#cppcon-2015-0005",
          meeting: "cppcon",
          edition: "2015",
@@ -29818,7 +29958,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1534,
+          number: 1540,
       identifier: "#cppcon-2016-0076",
          meeting: "cppcon",
          edition: "2016",
@@ -29839,7 +29979,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 572,
+          number: 573,
       identifier: "#c++now-2015-0018",
          meeting: "c++now",
          edition: "2015",
@@ -29853,13 +29993,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1494,
+          number: 1500,
       identifier: "#cppcon-2016-0036",
          meeting: "cppcon",
          edition: "2016",
@@ -29881,7 +30022,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 661,
+          number: 662,
       identifier: "#c++now-2017-0019",
          meeting: "c++now",
          edition: "2017",
@@ -29902,7 +30043,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1302,
+          number: 1308,
       identifier: "#cppcon-2014-0110",
          meeting: "cppcon",
          edition: "2014",
@@ -29923,7 +30064,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 563,
+          number: 564,
       identifier: "#c++now-2015-0009",
          meeting: "c++now",
          edition: "2015",
@@ -29937,13 +30078,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1680,
+          number: 1686,
       identifier: "#cppcon-2017-0079",
          meeting: "cppcon",
          edition: "2017",
@@ -29964,7 +30106,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2033,
+          number: 2039,
       identifier: "#cppcon-2019-0051",
          meeting: "cppcon",
          edition: "2019",
@@ -29999,7 +30141,29 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "english"
+   },
+   {
+          number: 1417,
+      identifier: "#cppcon-2015-0078",
+         meeting: "cppcon",
+         edition: "2015",
+           title: " Type Traits - what are they and why should I use them?",
+        speakers: [
+                     "Marshall Clow"
+                  ],
+           video: "https://youtube.com/watch?v=VvbTP_k_Df4",
+       thumbnail: "http://img.youtube.com/vi/VvbTP_k_Df4/0.jpg",
+        duration: 3386,
+            tags: [
+                     "c++",
+                     "conference",
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -30019,13 +30183,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 679,
+          number: 680,
       identifier: "#c++now-2017-0037",
          meeting: "c++now",
          edition: "2017",
@@ -30033,8 +30198,8 @@ const talks = [
         speakers: [
                      "Jonathan Muller"
                   ],
-           video: "https://youtube.com/watch?v=Fb3Xu769nAg",
-       thumbnail: "http://img.youtube.com/vi/Fb3Xu769nAg/0.jpg",
+           video: "https://youtube.com/watch?v=iihlo9A2Ezw",
+       thumbnail: "http://img.youtube.com/vi/iihlo9A2Ezw/0.jpg",
         duration: 4338,
             tags: [
                      "c++",
@@ -30046,7 +30211,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2689,
+          number: 2695,
       identifier: "#pacific-c++-2017-0006",
          meeting: "pacific c++",
          edition: "2017",
@@ -30066,7 +30231,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2696,
+          number: 2702,
       identifier: "#pacific-c++-2018-0006",
          meeting: "pacific c++",
          edition: "2018",
@@ -30086,7 +30251,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 597,
+          number: 598,
       identifier: "#c++now-2016-0002",
          meeting: "c++now",
          edition: "2016",
@@ -30107,7 +30272,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1219,
+          number: 1225,
       identifier: "#cppcon-2014-0006",
          meeting: "cppcon",
          edition: "2014",
@@ -30128,7 +30293,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1813,
+          number: 1819,
       identifier: "#cppcon-2018-0019",
          meeting: "cppcon",
          edition: "2018",
@@ -30149,7 +30314,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1601,
+          number: 1607,
       identifier: "#cppcon-2016-0116",
          meeting: "cppcon",
          edition: "2016",
@@ -30170,7 +30335,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 864,
+          number: 865,
       identifier: "#c++now-2019-0071",
          meeting: "c++now",
          edition: "2019",
@@ -30191,7 +30356,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1676,
+          number: 1682,
       identifier: "#cppcon-2017-0075",
          meeting: "cppcon",
          edition: "2017",
@@ -30212,7 +30377,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1677,
+          number: 1683,
       identifier: "#cppcon-2017-0076",
          meeting: "cppcon",
          edition: "2017",
@@ -30247,13 +30412,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1871,
+          number: 1877,
       identifier: "#cppcon-2018-0077",
          meeting: "cppcon",
          edition: "2018",
@@ -30275,7 +30441,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1737,
+          number: 1743,
       identifier: "#cppcon-2017-0136",
          meeting: "cppcon",
          edition: "2017",
@@ -30310,13 +30476,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 637,
+          number: 638,
       identifier: "#c++now-2016-0042",
          meeting: "c++now",
          edition: "2016",
@@ -30337,7 +30504,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1817,
+          number: 1823,
       identifier: "#cppcon-2018-0023",
          meeting: "cppcon",
          edition: "2018",
@@ -30358,7 +30525,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1702,
+          number: 1708,
       identifier: "#cppcon-2017-0101",
          meeting: "cppcon",
          edition: "2017",
@@ -30393,13 +30560,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1226,
+          number: 1232,
       identifier: "#cppcon-2014-0017",
          meeting: "cppcon",
          edition: "2014",
@@ -30420,7 +30588,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1622,
+          number: 1629,
       identifier: "#cppcon-2017-0021",
          meeting: "cppcon",
          edition: "2017",
@@ -30442,7 +30610,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1770,
+          number: 1776,
       identifier: "#cppcon-2017-0169",
          meeting: "cppcon",
          edition: "2017",
@@ -30463,7 +30631,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1585,
+          number: 1591,
       identifier: "#cppcon-2016-0130",
          meeting: "cppcon",
          edition: "2016",
@@ -30484,7 +30652,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1872,
+          number: 1878,
       identifier: "#cppcon-2018-0080",
          meeting: "cppcon",
          edition: "2018",
@@ -30505,7 +30673,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2044,
+          number: 2050,
       identifier: "#cppcon-2019-0062",
          meeting: "cppcon",
          edition: "2019",
@@ -30516,27 +30684,6 @@ const talks = [
            video: "https://youtube.com/watch?v=6orl-Tc6nLo",
        thumbnail: "http://img.youtube.com/vi/6orl-Tc6nLo/0.jpg",
         duration: 1499,
-            tags: [
-                     "c++",
-                     "conference",
-                     "live",
-                     "talk"
-                  ],
-           level: 0,
-        language: "english"
-   },
-   {
-          number: 1866,
-      identifier: "#cppcon-2018-0072",
-         meeting: "cppcon",
-         edition: "2018",
-           title: " user-defined statically-checked call graph constraints in C++ - Andrew Nelson [CppCon 2018]",
-        speakers: [
-                     "Funqual"
-                  ],
-           video: "https://youtube.com/watch?v=oOZN6GqfdTs",
-       thumbnail: "http://img.youtube.com/vi/oOZN6GqfdTs/0.jpg",
-        duration: 1615,
             tags: [
                      "c++",
                      "conference",
@@ -30561,13 +30708,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1509,
+          number: 1515,
       identifier: "#cppcon-2016-0051",
          meeting: "cppcon",
          edition: "2016",
@@ -30588,7 +30736,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1299,
+          number: 1305,
       identifier: "#cppcon-2014-0107",
          meeting: "cppcon",
          edition: "2014",
@@ -30609,7 +30757,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1231,
+          number: 1237,
       identifier: "#cppcon-2014-0039",
          meeting: "cppcon",
          edition: "2014",
@@ -30630,7 +30778,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1587,
+          number: 1593,
       identifier: "#cppcon-2016-0132",
          meeting: "cppcon",
          edition: "2016",
@@ -30651,7 +30799,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 822,
+          number: 823,
       identifier: "#c++now-2019-0029",
          meeting: "c++now",
          edition: "2019",
@@ -30672,7 +30820,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2079,
+          number: 2085,
       identifier: "#cppcon-2019-0097",
          meeting: "cppcon",
          edition: "2019",
@@ -30693,7 +30841,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1856,
+          number: 1862,
       identifier: "#cppcon-2018-0062",
          meeting: "cppcon",
          edition: "2018",
@@ -30714,7 +30862,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2021,
+          number: 2027,
       identifier: "#cppcon-2019-0039",
          meeting: "cppcon",
          edition: "2019",
@@ -30735,7 +30883,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1655,
+          number: 1661,
       identifier: "#cppcon-2017-0054",
          meeting: "cppcon",
          edition: "2017",
@@ -30757,7 +30905,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1648,
+          number: 1654,
       identifier: "#cppcon-2017-0047",
          meeting: "cppcon",
          edition: "2017",
@@ -30799,7 +30947,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1361,
+          number: 1367,
       identifier: "#cppcon-2015-0028",
          meeting: "cppcon",
          edition: "2015",
@@ -30835,7 +30983,8 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -30856,13 +31005,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1600,
+          number: 1606,
       identifier: "#cppcon-2016-0115",
          meeting: "cppcon",
          edition: "2016",
@@ -30883,7 +31033,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2685,
+          number: 2691,
       identifier: "#pacific-c++-2017-0002",
          meeting: "pacific c++",
          edition: "2017",
@@ -30903,7 +31053,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2692,
+          number: 2698,
       identifier: "#pacific-c++-2018-0002",
          meeting: "pacific c++",
          edition: "2018",
@@ -30923,7 +31073,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1750,
+          number: 1756,
       identifier: "#cppcon-2017-0149",
          meeting: "cppcon",
          edition: "2017",
@@ -30944,7 +31094,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1517,
+          number: 1523,
       identifier: "#cppcon-2016-0059",
          meeting: "cppcon",
          edition: "2016",
@@ -30965,7 +31115,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1548,
+          number: 1554,
       identifier: "#cppcon-2016-0090",
          meeting: "cppcon",
          edition: "2016",
@@ -31000,26 +31150,6 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
-                  ],
-           level: 0,
-        language: "english"
-   },
-   {
-          number: 2065,
-      identifier: "#cppcon-2019-0083",
-         meeting: "cppcon",
-         edition: "2019",
-           title: " Value Oriented Programming in an Object Oriented World",
-        speakers: [
-                     "Tony Van Eerd Objects vs Values"
-                  ],
-           video: "https://youtube.com/watch?v=2JGH_SWURrI",
-       thumbnail: "http://img.youtube.com/vi/2JGH_SWURrI/0.jpg",
-        duration: 3741,
-            tags: [
-                     "c++",
-                     "conference",
                      "live",
                      "talk"
                   ],
@@ -31027,7 +31157,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 802,
+          number: 803,
       identifier: "#c++now-2019-0008",
          meeting: "c++now",
          edition: "2019",
@@ -31048,7 +31178,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2068,
+          number: 2074,
       identifier: "#cppcon-2019-0086",
          meeting: "cppcon",
          edition: "2019",
@@ -31083,7 +31213,8 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -31103,13 +31234,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1831,
+          number: 1837,
       identifier: "#cppcon-2018-0037",
          meeting: "cppcon",
          edition: "2018",
@@ -31130,7 +31262,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1396,
+          number: 1402,
       identifier: "#cppcon-2015-0063",
          meeting: "cppcon",
          edition: "2015",
@@ -31151,7 +31283,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1397,
+          number: 1403,
       identifier: "#cppcon-2015-0064",
          meeting: "cppcon",
          edition: "2015",
@@ -31186,13 +31318,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1408,
+          number: 1414,
       identifier: "#cppcon-2015-0075",
          meeting: "cppcon",
          edition: "2015",
@@ -31213,7 +31346,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 623,
+          number: 624,
       identifier: "#c++now-2016-0028",
          meeting: "c++now",
          edition: "2016",
@@ -31234,7 +31367,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1505,
+          number: 1511,
       identifier: "#cppcon-2016-0047",
          meeting: "cppcon",
          edition: "2016",
@@ -31255,7 +31388,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1349,
+          number: 1355,
       identifier: "#cppcon-2015-0016",
          meeting: "cppcon",
          edition: "2015",
@@ -31276,7 +31409,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1591,
+          number: 1597,
       identifier: "#cppcon-2016-0136",
          meeting: "cppcon",
          edition: "2016",
@@ -31297,7 +31430,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1491,
+          number: 1497,
       identifier: "#cppcon-2016-0033",
          meeting: "cppcon",
          edition: "2016",
@@ -31318,7 +31451,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1284,
+          number: 1290,
       identifier: "#cppcon-2014-0092",
          meeting: "cppcon",
          edition: "2014",
@@ -31339,7 +31472,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1951,
+          number: 1957,
       identifier: "#cppcon-2018-0161",
          meeting: "cppcon",
          edition: "2018",
@@ -31360,7 +31493,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1507,
+          number: 1513,
       identifier: "#cppcon-2016-0049",
          meeting: "cppcon",
          edition: "2016",
@@ -31381,7 +31514,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1699,
+          number: 1705,
       identifier: "#cppcon-2017-0098",
          meeting: "cppcon",
          edition: "2017",
@@ -31402,7 +31535,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 775,
+          number: 776,
       identifier: "#c++now-2018-0062",
          meeting: "c++now",
          edition: "2018",
@@ -31423,7 +31556,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1665,
+          number: 1671,
       identifier: "#cppcon-2017-0064",
          meeting: "cppcon",
          edition: "2017",
@@ -31444,7 +31577,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1683,
+          number: 1689,
       identifier: "#cppcon-2017-0082",
          meeting: "cppcon",
          edition: "2017",
@@ -31465,7 +31598,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1530,
+          number: 1536,
       identifier: "#cppcon-2016-0072",
          meeting: "cppcon",
          edition: "2016",
@@ -31507,7 +31640,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 846,
+          number: 847,
       identifier: "#c++now-2019-0053",
          meeting: "c++now",
          edition: "2019",
@@ -31528,7 +31661,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1516,
+          number: 1522,
       identifier: "#cppcon-2016-0058",
          meeting: "cppcon",
          edition: "2016",
@@ -31552,7 +31685,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 856,
+          number: 857,
       identifier: "#c++now-2019-0063",
          meeting: "c++now",
          edition: "2019",
@@ -31573,7 +31706,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1993,
+          number: 1999,
       identifier: "#cppcon-2019-0011",
          meeting: "cppcon",
          edition: "2019",
@@ -31594,13 +31727,13 @@ const talks = [
         language: "english"
    },
    {
-          number: 766,
+          number: 767,
       identifier: "#c++now-2018-0053",
          meeting: "c++now",
          edition: "2018",
            title: " What Belongs in the C++ Standard Library",
         speakers: [
-                     "Closing Panel"
+                     "?"
                   ],
            video: "https://youtube.com/watch?v=McpMfeEJf2w",
        thumbnail: "http://img.youtube.com/vi/McpMfeEJf2w/0.jpg",
@@ -31615,7 +31748,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 666,
+          number: 667,
       identifier: "#c++now-2017-0024",
          meeting: "c++now",
          edition: "2017",
@@ -31636,7 +31769,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1711,
+          number: 1717,
       identifier: "#cppcon-2017-0110",
          meeting: "cppcon",
          edition: "2017",
@@ -31657,7 +31790,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2422,
+          number: 2428,
       identifier: "#meeting-c++-2016-0001",
          meeting: "meeting c++",
          edition: "2016",
@@ -31678,7 +31811,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1480,
+          number: 1486,
       identifier: "#cppcon-2016-0022",
          meeting: "cppcon",
          edition: "2016",
@@ -31699,7 +31832,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1824,
+          number: 1830,
       identifier: "#cppcon-2018-0030",
          meeting: "cppcon",
          edition: "2018",
@@ -31721,7 +31854,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1255,
+          number: 1261,
       identifier: "#cppcon-2014-0063",
          meeting: "cppcon",
          edition: "2014",
@@ -31742,7 +31875,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1819,
+          number: 1825,
       identifier: "#cppcon-2018-0025",
          meeting: "cppcon",
          edition: "2018",
@@ -31763,7 +31896,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1899,
+          number: 1905,
       identifier: "#cppcon-2018-0109",
          meeting: "cppcon",
          edition: "2018",
@@ -31784,7 +31917,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 761,
+          number: 762,
       identifier: "#c++now-2018-0048",
          meeting: "c++now",
          edition: "2018",
@@ -31805,7 +31938,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1605,
+          number: 1611,
       identifier: "#cppcon-2017-0005",
          meeting: "cppcon",
          edition: "2017",
@@ -31826,7 +31959,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1419,
+          number: 1425,
       identifier: "#cppcon-2015-0086",
          meeting: "cppcon",
          edition: "2015",
@@ -31847,7 +31980,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 631,
+          number: 632,
       identifier: "#c++now-2016-0036",
          meeting: "c++now",
          edition: "2016",
@@ -31868,7 +32001,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2036,
+          number: 2042,
       identifier: "#cppcon-2019-0054",
          meeting: "cppcon",
          edition: "2019",
@@ -31891,7 +32024,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1245,
+          number: 1251,
       identifier: "#cppcon-2014-0053",
          meeting: "cppcon",
          edition: "2014",
@@ -31912,7 +32045,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1818,
+          number: 1824,
       identifier: "#cppcon-2018-0024",
          meeting: "cppcon",
          edition: "2018",
@@ -31933,7 +32066,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1524,
+          number: 1530,
       identifier: "#cppcon-2016-0066",
          meeting: "cppcon",
          edition: "2016",
@@ -31955,7 +32088,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1225,
+          number: 1231,
       identifier: "#cppcon-2014-0016",
          meeting: "cppcon",
          edition: "2014",
@@ -31976,7 +32109,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1853,
+          number: 1859,
       identifier: "#cppcon-2018-0059",
          meeting: "cppcon",
          edition: "2018",
@@ -32011,13 +32144,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1621,
+          number: 1628,
       identifier: "#cppcon-2017-0020",
          meeting: "cppcon",
          edition: "2017",
@@ -32038,7 +32172,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2000,
+          number: 2006,
       identifier: "#cppcon-2019-0018",
          meeting: "cppcon",
          edition: "2019",
@@ -32059,7 +32193,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1766,
+          number: 1772,
       identifier: "#cppcon-2017-0165",
          meeting: "cppcon",
          edition: "2017",
@@ -32080,7 +32214,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2474,
+          number: 2480,
       identifier: "#meeting-c++-2016-0053",
          meeting: "meeting c++",
          edition: "2016",
@@ -32101,7 +32235,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1592,
+          number: 1598,
       identifier: "#cppcon-2016-0138",
          meeting: "cppcon",
          edition: "2016",
@@ -32122,7 +32256,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 788,
+          number: 789,
       identifier: "#c++now-2018-0075",
          meeting: "c++now",
          edition: "2018",
@@ -32143,7 +32277,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1609,
+          number: 1616,
       identifier: "#cppcon-2017-0008",
          meeting: "cppcon",
          edition: "2017",
@@ -32164,7 +32298,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1762,
+          number: 1768,
       identifier: "#cppcon-2017-0161",
          meeting: "cppcon",
          edition: "2017",
@@ -32185,7 +32319,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 630,
+          number: 631,
       identifier: "#c++now-2016-0035",
          meeting: "c++now",
          edition: "2016",
@@ -32206,7 +32340,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1882,
+          number: 1888,
       identifier: "#cppcon-2018-0092",
          meeting: "cppcon",
          edition: "2018",
@@ -32241,13 +32375,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 570,
+          number: 571,
       identifier: "#c++now-2015-0016",
          meeting: "c++now",
          edition: "2015",
@@ -32261,13 +32396,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1790,
+          number: 1796,
       identifier: "#cppcon-2017-0189",
          meeting: "cppcon",
          edition: "2017",
@@ -32288,7 +32424,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1956,
+          number: 1962,
       identifier: "#cppcon-2018-0166",
          meeting: "cppcon",
          edition: "2018",
@@ -32309,7 +32445,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1597,
+          number: 1603,
       identifier: "#cppcon-2016-0142",
          meeting: "cppcon",
          edition: "2016",
@@ -32330,7 +32466,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 850,
+          number: 851,
       identifier: "#c++now-2019-0057",
          meeting: "c++now",
          edition: "2019",
@@ -32351,7 +32487,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1982,
+          number: 1988,
       identifier: "#cppcon-2018-0192",
          meeting: "cppcon",
          edition: "2018",
@@ -32372,7 +32508,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1324,
+          number: 1330,
       identifier: "#cppcon-2014-0132",
          meeting: "cppcon",
          edition: "2014",
@@ -32393,7 +32529,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1873,
+          number: 1879,
       identifier: "#cppcon-2018-0081",
          meeting: "cppcon",
          edition: "2018",
@@ -32414,7 +32550,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1577,
+          number: 1583,
       identifier: "#cppcon-2016-0122",
          meeting: "cppcon",
          edition: "2016",
@@ -32435,7 +32571,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 765,
+          number: 766,
       identifier: "#c++now-2018-0052",
          meeting: "c++now",
          edition: "2018",
@@ -32456,7 +32592,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1393,
+          number: 1399,
       identifier: "#cppcon-2015-0060",
          meeting: "cppcon",
          edition: "2015",
@@ -32477,7 +32613,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1948,
+          number: 1954,
       identifier: "#cppcon-2018-0158",
          meeting: "cppcon",
          edition: "2018",
@@ -32498,7 +32634,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 778,
+          number: 779,
       identifier: "#c++now-2018-0065",
          meeting: "c++now",
          edition: "2018",
@@ -32519,28 +32655,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1191,
-      identifier: "#cpp-europe-2019-0008",
-         meeting: "cpp europe",
-         edition: "2019",
-           title: " Working on Large Code Bases",
-        speakers: [
-                     "Fishbowl Panel"
-                  ],
-           video: "https://youtube.com/watch?v=B2XtqVZcSdM",
-       thumbnail: "http://img.youtube.com/vi/B2XtqVZcSdM/0.jpg",
-        duration: 3275,
-            tags: [
-                     "c++",
-                     "conference",
-                     "live",
-                     "talk"
-                  ],
-           level: 0,
-        language: "english"
-   },
-   {
-          number: 1329,
+          number: 1335,
       identifier: "#cppcon-2014-0137",
          meeting: "cppcon",
          edition: "2014",
@@ -32561,7 +32676,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1560,
+          number: 1566,
       identifier: "#cppcon-2016-0102",
          meeting: "cppcon",
          edition: "2016",
@@ -32582,7 +32697,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1306,
+          number: 1312,
       identifier: "#cppcon-2014-0114",
          meeting: "cppcon",
          edition: "2014",
@@ -32603,7 +32718,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1335,
+          number: 1341,
       identifier: "#cppcon-2015-0002",
          meeting: "cppcon",
          edition: "2015",
@@ -32624,7 +32739,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1336,
+          number: 1342,
       identifier: "#cppcon-2015-0003",
          meeting: "cppcon",
          edition: "2015",
@@ -32645,7 +32760,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1374,
+          number: 1380,
       identifier: "#cppcon-2015-0041",
          meeting: "cppcon",
          edition: "2015",
@@ -32666,7 +32781,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1858,
+          number: 1864,
       identifier: "#cppcon-2018-0064",
          meeting: "cppcon",
          edition: "2018",
@@ -32687,7 +32802,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1784,
+          number: 1790,
       identifier: "#cppcon-2017-0183",
          meeting: "cppcon",
          edition: "2017",
@@ -32708,7 +32823,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 512,
+          number: 470,
       identifier: "#c++now-2013-0045",
          meeting: "c++now",
          edition: "2013",
@@ -32722,13 +32837,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
+                     "keynote",
                      "live"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 560,
+          number: 561,
       identifier: "#c++now-2015-0006",
          meeting: "c++now",
          edition: "2015",
@@ -32742,13 +32858,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 743,
+          number: 744,
       identifier: "#c++now-2018-0030",
          meeting: "c++now",
          edition: "2018",
@@ -32769,7 +32886,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 764,
+          number: 765,
       identifier: "#c++now-2018-0051",
          meeting: "c++now",
          edition: "2018",
@@ -32790,7 +32907,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 711,
+          number: 712,
       identifier: "#c++now-2017-0069",
          meeting: "c++now",
          edition: "2017",
@@ -32811,7 +32928,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1945,
+          number: 1951,
       identifier: "#cppcon-2018-0155",
          meeting: "cppcon",
          edition: "2018",
@@ -32832,7 +32949,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 557,
+          number: 558,
       identifier: "#c++now-2015-0003",
          meeting: "c++now",
          edition: "2015",
@@ -32846,7 +32963,8 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -32865,13 +32983,14 @@ const talks = [
         duration: 3788,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2132,
+          number: 2138,
       identifier: "#cppcon-2019-0150",
          meeting: "cppcon",
          edition: "2019",
@@ -32905,13 +33024,14 @@ const talks = [
         duration: 4502,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1276,
+          number: 1282,
       identifier: "#cppcon-2014-0084",
          meeting: "cppcon",
          edition: "2014",
@@ -32945,7 +33065,8 @@ const talks = [
         duration: 3540,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -32964,7 +33085,8 @@ const talks = [
         duration: 4935,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -32983,13 +33105,14 @@ const talks = [
         duration: 3211,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2586,
+          number: 2592,
       identifier: "#meeting-c++-2018-0046",
          meeting: "meeting c++",
          edition: "2018",
@@ -33010,7 +33133,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2224,
+          number: 2234,
       identifier: "#cppcon-2020-0023",
          meeting: "cppcon",
          edition: "2020",
@@ -33031,7 +33154,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2199,
+          number: 2205,
       identifier: "#cppcon-2019-0217",
          meeting: "cppcon",
          edition: "2019",
@@ -33065,13 +33188,14 @@ const talks = [
         duration: 754,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2217,
+          number: 2227,
       identifier: "#cppcon-2020-0016",
          meeting: "cppcon",
          edition: "2020",
@@ -33100,9 +33224,9 @@ const talks = [
         speakers: [
                      "Diego Rodriguez-Losada"
                   ],
-           video: "https://youtube.com/watch?v=PLVkEMVfJ5k",
-       thumbnail: "http://img.youtube.com/vi/PLVkEMVfJ5k/0.jpg",
-        duration: 2971,
+           video: "https://youtube.com/watch?v=j00-uFBrJu4",
+       thumbnail: "http://img.youtube.com/vi/j00-uFBrJu4/0.jpg",
+        duration: 6632,
             tags: [
                      "conference",
                      "live",
@@ -33112,7 +33236,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2543,
+          number: 2549,
       identifier: "#meeting-c++-2018-0003",
          meeting: "meeting c++",
          edition: "2018",
@@ -33146,13 +33270,14 @@ const talks = [
         duration: 5265,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2148,
+          number: 2154,
       identifier: "#cppcon-2019-0166",
          meeting: "cppcon",
          edition: "2019",
@@ -33186,13 +33311,14 @@ const talks = [
         duration: 3741,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1573,
+          number: 1579,
       identifier: "#cppcon-2016-0118",
          meeting: "cppcon",
          edition: "2016",
@@ -33213,7 +33339,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1495,
+          number: 1501,
       identifier: "#cppcon-2016-0037",
          meeting: "cppcon",
          edition: "2016",
@@ -33234,7 +33360,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2321,
+          number: 2327,
       identifier: "#c++-day-2020-0005",
          meeting: "c++ day",
          edition: "2020",
@@ -33249,14 +33375,13 @@ const talks = [
                      "c++",
                      "conference",
                      "online",
-                     "talk",
                      "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2307,
+          number: 2313,
       identifier: "#cppcon-2020-0107",
          meeting: "cppcon",
          edition: "2020",
@@ -33277,7 +33402,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2344,
+          number: 2350,
       identifier: "#it-cpp-con-2021-0008",
          meeting: "it cpp con",
          edition: "2021",
@@ -33318,7 +33443,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1764,
+          number: 1770,
       identifier: "#cppcon-2017-0163",
          meeting: "cppcon",
          edition: "2017",
@@ -33339,7 +33464,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1768,
+          number: 1774,
       identifier: "#cppcon-2017-0167",
          meeting: "cppcon",
          edition: "2017",
@@ -33373,13 +33498,14 @@ const talks = [
         duration: 2289,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2171,
+          number: 2177,
       identifier: "#cppcon-2019-0189",
          meeting: "cppcon",
          edition: "2019",
@@ -33400,11 +33526,11 @@ const talks = [
         language: "english"
    },
    {
-          number: 874,
+          number: 875,
       identifier: "#c++now-2021-0004",
          meeting: "c++now",
          edition: "2021",
-           title: "A Crash Course in Unicode for C++ Developers ",
+           title: "A Crash Course in Unicode for C++ Developers",
         speakers: [
                      "Steve Downey"
                   ],
@@ -33457,7 +33583,8 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -33477,13 +33604,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "online"
+                     "online",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1455,
+          number: 1461,
       identifier: "#cppcon-2015-0142",
          meeting: "cppcon",
          edition: "2015",
@@ -33505,10 +33633,10 @@ const talks = [
    },
    {
           number: 931,
-      identifier: "#c++now-2021-0061",
+      identifier: "#c++now-2021-0060",
          meeting: "c++now",
          edition: "2021",
-           title: "A Few Gentle Rules (*) but One in Particular ",
+           title: "A Few Gentle Rules (*) but One in Particular",
         speakers: [
                      "Chris Uzdavinis"
                   ],
@@ -33531,7 +33659,7 @@ const talks = [
          edition: "2016",
            title: "A Glimpse of Trygve: From Class-oriented Programming to Real OO",
         speakers: [
-                     "Cope"
+                     "Jim Coplien"
                   ],
            video: "https://youtube.com/watch?v=lQQ_CahFVzw",
        thumbnail: "http://img.youtube.com/vi/lQQ_CahFVzw/0.jpg",
@@ -33559,13 +33687,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2566,
+          number: 2572,
       identifier: "#meeting-c++-2018-0026",
          meeting: "meeting c++",
          edition: "2018",
@@ -33586,7 +33715,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2434,
+          number: 2440,
       identifier: "#meeting-c++-2016-0013",
          meeting: "meeting c++",
          edition: "2016",
@@ -33661,13 +33790,14 @@ const talks = [
         duration: 3953,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2258,
+          number: 2267,
       identifier: "#cppcon-2020-0058",
          meeting: "cppcon",
          edition: "2020",
@@ -33688,7 +33818,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2556,
+          number: 2562,
       identifier: "#meeting-c++-2018-0016",
          meeting: "meeting c++",
          edition: "2018",
@@ -33722,13 +33852,14 @@ const talks = [
         duration: 1795,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2103,
+          number: 2109,
       identifier: "#cppcon-2019-0121",
          meeting: "cppcon",
          edition: "2019",
@@ -33749,7 +33880,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2221,
+          number: 2231,
       identifier: "#cppcon-2020-0020",
          meeting: "cppcon",
          edition: "2020",
@@ -33770,7 +33901,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2680,
+          number: 2686,
       identifier: "#meeting-embedded-2018-0009",
          meeting: "meeting embedded",
          edition: "2018",
@@ -33784,7 +33915,7 @@ const talks = [
             tags: [
                      "conference",
                      "embedded",
-                     "online",
+                     "live",
                      "talk"
                   ],
            level: 0,
@@ -33844,13 +33975,14 @@ const talks = [
         duration: 4779,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2538,
+          number: 2543,
       identifier: "#meeting-c++-2017-0063",
          meeting: "meeting c++",
          edition: "2017",
@@ -33871,7 +34003,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2251,
+          number: 2260,
       identifier: "#cppcon-2020-0051",
          meeting: "cppcon",
          edition: "2020",
@@ -33893,7 +34025,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2119,
+          number: 2125,
       identifier: "#cppcon-2019-0137",
          meeting: "cppcon",
          edition: "2019",
@@ -33927,13 +34059,14 @@ const talks = [
         duration: 4128,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2540,
+          number: 2545,
       identifier: "#meeting-c++-2017-0065",
          meeting: "meeting c++",
          edition: "2017",
@@ -33955,10 +34088,10 @@ const talks = [
    },
    {
           number: 923,
-      identifier: "#c++now-2021-0053",
+      identifier: "#c++now-2021-0052",
          meeting: "c++now",
          edition: "2021",
-           title: "A Simple GUI Programming Setup for Beginners ",
+           title: "A Simple GUI Programming Setup for Beginners",
         speakers: [
                      "Jussi Pakkanen"
                   ],
@@ -33975,7 +34108,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2310,
+          number: 2316,
       identifier: "#cppp-2019-0002",
          meeting: "cppp",
          edition: "2019",
@@ -34016,7 +34149,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2183,
+          number: 2189,
       identifier: "#cppcon-2019-0201",
          meeting: "cppcon",
          edition: "2019",
@@ -34110,13 +34243,14 @@ const talks = [
         duration: 2647,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2537,
+          number: 2542,
       identifier: "#meeting-c++-2017-0062",
          meeting: "meeting c++",
          edition: "2017",
@@ -34137,7 +34271,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2588,
+          number: 2594,
       identifier: "#meeting-c++-2018-0048",
          meeting: "meeting c++",
          edition: "2018",
@@ -34158,7 +34292,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2655,
+          number: 2661,
       identifier: "#meeting-c++-2019-0053",
          meeting: "meeting c++",
          edition: "2019",
@@ -34192,7 +34326,8 @@ const talks = [
         duration: 3708,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -34206,9 +34341,9 @@ const talks = [
         speakers: [
                      "Nigel Lester"
                   ],
-           video: "https://youtube.com/watch?v=JDQEh-F_jxc",
-       thumbnail: "http://img.youtube.com/vi/JDQEh-F_jxc/0.jpg",
-        duration: 973,
+           video: "https://youtube.com/watch?v=xVk60oZEz7E",
+       thumbnail: "http://img.youtube.com/vi/xVk60oZEz7E/0.jpg",
+        duration: 1218,
             tags: [
                      "conference",
                      "live",
@@ -34230,18 +34365,19 @@ const talks = [
                      "Kevlin Henney",
                      "Roger Orr"
                   ],
-           video: "https://youtube.com/watch?v=rNSVZs66o48",
-       thumbnail: "http://img.youtube.com/vi/rNSVZs66o48/0.jpg",
-        duration: 5516,
+           video: "https://youtube.com/watch?v=NAuFNXIsbtw",
+       thumbnail: "http://img.youtube.com/vi/NAuFNXIsbtw/0.jpg",
+        duration: 5142,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2638,
+          number: 2644,
       identifier: "#meeting-c++-2019-0036",
          meeting: "meeting c++",
          edition: "2019",
@@ -34262,7 +34398,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2311,
+          number: 2317,
       identifier: "#cppp-2019-0003",
          meeting: "cppp",
          edition: "2019",
@@ -34283,7 +34419,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2510,
+          number: 2515,
       identifier: "#meeting-c++-2017-0035",
          meeting: "meeting c++",
          edition: "2017",
@@ -34304,11 +34440,11 @@ const talks = [
         language: "english"
    },
    {
-          number: 886,
+          number: 887,
       identifier: "#c++now-2021-0016",
          meeting: "c++now",
          edition: "2021",
-           title: "Adventures in SIMD-Thinking ",
+           title: "Adventures in SIMD-Thinking",
         speakers: [
                      "Bob Steagall"
                   ],
@@ -34325,7 +34461,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2278,
+          number: 2284,
       identifier: "#cppcon-2020-0078",
          meeting: "cppcon",
          edition: "2020",
@@ -34346,7 +34482,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2276,
+          number: 2282,
       identifier: "#cppcon-2020-0076",
          meeting: "cppcon",
          edition: "2020",
@@ -34367,7 +34503,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1283,
+          number: 1289,
       identifier: "#cppcon-2014-0091",
          meeting: "cppcon",
          edition: "2014",
@@ -34401,7 +34537,8 @@ const talks = [
         duration: 2670,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -34420,7 +34557,8 @@ const talks = [
         duration: 4272,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -34459,13 +34597,14 @@ const talks = [
         duration: 3946,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2356,
+          number: 2362,
       identifier: "#meetup-modena-2021-0007",
          meeting: "meetup modena",
          edition: "2021",
@@ -34487,14 +34626,14 @@ const talks = [
         language: "english"
    },
    {
-          number: 2343,
+          number: 2349,
       identifier: "#it-cpp-con-2021-0007",
          meeting: "it cpp con",
          edition: "2021",
            title: "Ai4Prod: the ecosystem to bring AI in production through C++",
         speakers: [
-                     "Tondelli",
-                     "Verasani"
+                     "Eric Tondelli",
+                     "Mattia Verasani"
                   ],
            video: "https://youtube.com/watch?v=J0trdQCLZ5A",
        thumbnail: "http://img.youtube.com/vi/J0trdQCLZ5A/0.jpg",
@@ -34515,7 +34654,7 @@ const talks = [
          edition: "2017",
            title: "AI: Actual Intelligence",
         speakers: [
-                     "Fran Buontempo"
+                     "Frances Buontempo"
                   ],
            video: "https://youtube.com/watch?v=t5YuuLMyKpc",
        thumbnail: "http://img.youtube.com/vi/t5YuuLMyKpc/0.jpg",
@@ -34542,13 +34681,14 @@ const talks = [
         duration: 5346,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2154,
+          number: 2160,
       identifier: "#cppcon-2019-0172",
          meeting: "cppcon",
          edition: "2019",
@@ -34583,7 +34723,8 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "online"
+                     "online",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -34609,7 +34750,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2539,
+          number: 2544,
       identifier: "#meeting-c++-2017-0064",
          meeting: "meeting c++",
          edition: "2017",
@@ -34630,11 +34771,11 @@ const talks = [
         language: "english"
    },
    {
-          number: 881,
+          number: 882,
       identifier: "#c++now-2021-0011",
          meeting: "c++now",
          edition: "2021",
-           title: "Algorithms from a Compiler Developer's Toolbox ",
+           title: "Algorithms from a Compiler Developer's Toolbox",
         speakers: [
                      "Gabor Horvath"
                   ],
@@ -34651,7 +34792,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2580,
+          number: 2586,
       identifier: "#meeting-c++-2018-0040",
          meeting: "meeting c++",
          edition: "2018",
@@ -34672,7 +34813,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2646,
+          number: 2652,
       identifier: "#meeting-c++-2019-0044",
          meeting: "meeting c++",
          edition: "2019",
@@ -34706,13 +34847,14 @@ const talks = [
         duration: 5439,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2193,
+          number: 2199,
       identifier: "#cppcon-2019-0211",
          meeting: "cppcon",
          edition: "2019",
@@ -34746,7 +34888,8 @@ const talks = [
         duration: 3800,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -34765,7 +34908,29 @@ const talks = [
         duration: 2201,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "english"
+   },
+   {
+          number: 721,
+      identifier: "#c++now-2018-0007",
+         meeting: "c++now",
+         edition: "2018",
+           title: "An Allocator is a Handle to a Heap - Arthur O'Dwyer - []",
+        speakers: [
+                     "CppNow"
+                  ],
+           video: "https://youtube.com/watch?v=0MdSJsCTRkY",
+       thumbnail: "http://img.youtube.com/vi/0MdSJsCTRkY/0.jpg",
+        duration: 5322,
+            tags: [
+                     "c++",
+                     "conference",
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -34784,13 +34949,14 @@ const talks = [
         duration: 4708,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2427,
+          number: 2433,
       identifier: "#meeting-c++-2016-0006",
          meeting: "meeting c++",
          edition: "2016",
@@ -34811,7 +34977,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2488,
+          number: 2493,
       identifier: "#meeting-c++-2017-0013",
          meeting: "meeting c++",
          edition: "2017",
@@ -34852,7 +35018,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2398,
+          number: 2404,
       identifier: "#meeting-c++-2015-0014",
          meeting: "meeting c++",
          edition: "2015",
@@ -34887,13 +35053,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "online"
+                     "online",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2147,
+          number: 2153,
       identifier: "#cppcon-2019-0165",
          meeting: "cppcon",
          edition: "2019",
@@ -34967,7 +35134,8 @@ const talks = [
         duration: 3477,
             tags: [
                      "conference",
-                     "online"
+                     "online",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -34986,17 +35154,18 @@ const talks = [
         duration: 3457,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
           number: 924,
-      identifier: "#c++now-2021-0054",
+      identifier: "#c++now-2021-0053",
          meeting: "c++now",
          edition: "2021",
-           title: "Answering a Question From My Talk... ",
+           title: "Answering a Question From My Talk...",
         speakers: [
                      "Jens Weller"
                   ],
@@ -35013,7 +35182,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2184,
+          number: 2190,
       identifier: "#cppcon-2019-0202",
          meeting: "cppcon",
          edition: "2019",
@@ -35034,7 +35203,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2498,
+          number: 2503,
       identifier: "#meeting-c++-2017-0023",
          meeting: "meeting c++",
          edition: "2017",
@@ -35069,7 +35238,8 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -35095,7 +35265,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2099,
+          number: 2105,
       identifier: "#cppcon-2019-0117",
          meeting: "cppcon",
          edition: "2019",
@@ -35129,13 +35299,14 @@ const talks = [
         duration: 961,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2188,
+          number: 2194,
       identifier: "#cppcon-2019-0206",
          meeting: "cppcon",
          edition: "2019",
@@ -35156,28 +35327,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 720,
-      identifier: "#c++now-2018-0007",
-         meeting: "c++now",
-         edition: "2018",
-           title: "Arthur O'Dwyer: An Allocator is a Handle to a Heap",
-        speakers: [
-                     "CppNow"
-                  ],
-           video: "https://youtube.com/watch?v=0MdSJsCTRkY",
-       thumbnail: "http://img.youtube.com/vi/0MdSJsCTRkY/0.jpg",
-        duration: 5322,
-            tags: [
-                     "c++",
-                     "conference",
-                     "live",
-                     "talk"
-                  ],
-           level: 0,
-        language: "english"
-   },
-   {
-          number: 2652,
+          number: 2658,
       identifier: "#meeting-c++-2019-0050",
          meeting: "meeting c++",
          edition: "2019",
@@ -35211,7 +35361,8 @@ const talks = [
         duration: 1499,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -35230,13 +35381,14 @@ const talks = [
         duration: 3888,
             tags: [
                      "conference",
-                     "online"
+                     "online",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2621,
+          number: 2627,
       identifier: "#meeting-c++-2019-0018",
          meeting: "meeting c++",
          edition: "2019",
@@ -35257,7 +35409,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2432,
+          number: 2438,
       identifier: "#meeting-c++-2016-0011",
          meeting: "meeting c++",
          edition: "2016",
@@ -35291,13 +35443,14 @@ const talks = [
         duration: 2915,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2410,
+          number: 2416,
       identifier: "#meeting-c++-2015-0026",
          meeting: "meeting c++",
          edition: "2015",
@@ -35331,7 +35484,8 @@ const talks = [
         duration: 3605,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -35357,7 +35511,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2195,
+          number: 2201,
       identifier: "#cppcon-2019-0213",
          meeting: "cppcon",
          edition: "2019",
@@ -35391,7 +35545,8 @@ const talks = [
         duration: 4818,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -35410,7 +35565,8 @@ const talks = [
         duration: 3073,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -35457,7 +35613,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2364,
+          number: 2370,
       identifier: "#meeting-c++-2014-0006",
          meeting: "meeting c++",
          edition: "2014",
@@ -35478,7 +35634,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2138,
+          number: 2144,
       identifier: "#cppcon-2019-0156",
          meeting: "cppcon",
          edition: "2019",
@@ -35499,7 +35655,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2406,
+          number: 2412,
       identifier: "#meeting-c++-2015-0022",
          meeting: "meeting c++",
          edition: "2015",
@@ -35520,7 +35676,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2189,
+          number: 2195,
       identifier: "#cppcon-2019-0207",
          meeting: "cppcon",
          edition: "2019",
@@ -35541,7 +35697,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2230,
+          number: 2239,
       identifier: "#cppcon-2020-0030",
          meeting: "cppcon",
          edition: "2020",
@@ -35562,7 +35718,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2207,
+          number: 2217,
       identifier: "#cppcon-2020-0006",
          meeting: "cppcon",
          edition: "2020",
@@ -35583,7 +35739,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2266,
+          number: 2274,
       identifier: "#cppcon-2020-0066",
          meeting: "cppcon",
          edition: "2020",
@@ -35604,7 +35760,28 @@ const talks = [
         language: "english"
    },
    {
-          number: 2246,
+          number: 2008,
+      identifier: "#cppcon-2019-0020",
+         meeting: "cppcon",
+         edition: "2019",
+           title: "Back to Basics: Const as a Promise",
+        speakers: [
+                     "Dan Saks"
+                  ],
+           video: "https://youtube.com/watch?v=NZtr93iL3R0",
+       thumbnail: "http://img.youtube.com/vi/NZtr93iL3R0/0.jpg",
+        duration: 3693,
+            tags: [
+                     "c++",
+                     "conference",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "english"
+   },
+   {
+          number: 2255,
       identifier: "#cppcon-2020-0046",
          meeting: "cppcon",
          edition: "2020",
@@ -35625,7 +35802,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2264,
+          number: 2272,
       identifier: "#cppcon-2020-0064",
          meeting: "cppcon",
          edition: "2020",
@@ -35646,7 +35823,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2134,
+          number: 2140,
       identifier: "#cppcon-2019-0152",
          meeting: "cppcon",
          edition: "2019",
@@ -35667,7 +35844,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2231,
+          number: 2240,
       identifier: "#cppcon-2020-0031",
          meeting: "cppcon",
          edition: "2020",
@@ -35689,7 +35866,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2062,
+          number: 2068,
       identifier: "#cppcon-2019-0080",
          meeting: "cppcon",
          edition: "2019",
@@ -35710,7 +35887,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2248,
+          number: 2257,
       identifier: "#cppcon-2020-0048",
          meeting: "cppcon",
          edition: "2020",
@@ -35731,7 +35908,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2123,
+          number: 2129,
       identifier: "#cppcon-2019-0141",
          meeting: "cppcon",
          edition: "2019",
@@ -35752,7 +35929,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2222,
+          number: 2232,
       identifier: "#cppcon-2020-0021",
          meeting: "cppcon",
          edition: "2020",
@@ -35773,7 +35950,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2110,
+          number: 2116,
       identifier: "#cppcon-2019-0128",
          meeting: "cppcon",
          edition: "2019",
@@ -35794,7 +35971,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2250,
+          number: 2259,
       identifier: "#cppcon-2020-0050",
          meeting: "cppcon",
          edition: "2020",
@@ -35815,7 +35992,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2216,
+          number: 2226,
       identifier: "#cppcon-2020-0015",
          meeting: "cppcon",
          edition: "2020",
@@ -35836,7 +36013,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2218,
+          number: 2228,
       identifier: "#cppcon-2020-0017",
          meeting: "cppcon",
          edition: "2020",
@@ -35857,7 +36034,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2202,
+          number: 2212,
       identifier: "#cppcon-2020-0001",
          meeting: "cppcon",
          edition: "2020",
@@ -35878,7 +36055,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2203,
+          number: 2213,
       identifier: "#cppcon-2020-0002",
          meeting: "cppcon",
          edition: "2020",
@@ -35899,7 +36076,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2080,
+          number: 2086,
       identifier: "#cppcon-2019-0098",
          meeting: "cppcon",
          edition: "2019",
@@ -35920,7 +36097,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2236,
+          number: 2245,
       identifier: "#cppcon-2020-0036",
          meeting: "cppcon",
          edition: "2020",
@@ -35974,13 +36151,14 @@ const talks = [
         duration: 3807,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2349,
+          number: 2355,
       identifier: "#it-cpp-con-2021-0013",
          meeting: "it cpp con",
          edition: "2021",
@@ -36001,7 +36179,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1504,
+          number: 1510,
       identifier: "#cppcon-2016-0046",
          meeting: "cppcon",
          edition: "2016",
@@ -36036,13 +36214,14 @@ const talks = [
         duration: 3793,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2143,
+          number: 2149,
       identifier: "#cppcon-2019-0161",
          meeting: "cppcon",
          edition: "2019",
@@ -36063,7 +36242,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2289,
+          number: 2295,
       identifier: "#cppcon-2020-0089",
          meeting: "cppcon",
          edition: "2020",
@@ -36104,7 +36283,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2129,
+          number: 2135,
       identifier: "#cppcon-2019-0147",
          meeting: "cppcon",
          edition: "2019",
@@ -36125,28 +36304,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2014,
-      identifier: "#cppcon-2019-0032",
-         meeting: "cppcon",
-         edition: "2019",
-           title: "Ben Saks : Back to Basics: Understanding Value Categories",
-        speakers: [
-                     "CppCon 2019"
-                  ],
-           video: "https://youtube.com/watch?v=XS2JddPq7GQ",
-       thumbnail: "http://img.youtube.com/vi/XS2JddPq7GQ/0.jpg",
-        duration: 3227,
-            tags: [
-                     "c++",
-                     "conference",
-                     "live",
-                     "talk"
-                  ],
-           level: 0,
-        language: "english"
-   },
-   {
-          number: 2548,
+          number: 2554,
       identifier: "#meeting-c++-2018-0008",
          meeting: "meeting c++",
          edition: "2018",
@@ -36187,7 +36345,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2585,
+          number: 2591,
       identifier: "#meeting-c++-2018-0045",
          meeting: "meeting c++",
          edition: "2018",
@@ -36221,7 +36379,8 @@ const talks = [
         duration: 3965,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -36260,20 +36419,20 @@ const talks = [
         duration: 3423,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2612,
+          number: 2618,
       identifier: "#meeting-c++-2019-0009",
          meeting: "meeting c++",
          edition: "2019",
            title: "Better Algorithm Intuition",
         speakers: [
-                     "Conor Hoekstra",
-                     "code_report"
+                     "Conor Hoekstra"
                   ],
            video: "https://youtube.com/watch?v=TSZzvo4htTQ",
        thumbnail: "http://img.youtube.com/vi/TSZzvo4htTQ/0.jpg",
@@ -36288,11 +36447,11 @@ const talks = [
         language: "english"
    },
    {
-          number: 906,
+          number: 907,
       identifier: "#c++now-2021-0036",
          meeting: "c++now",
          edition: "2021",
-           title: "Better C++ Ranges ",
+           title: "Better C++ Ranges",
         speakers: [
                      "Arno Schodl"
                   ],
@@ -36309,7 +36468,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2545,
+          number: 2551,
       identifier: "#meeting-c++-2018-0005",
          meeting: "meeting c++",
          edition: "2018",
@@ -36343,7 +36502,8 @@ const talks = [
         duration: 4712,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -36362,7 +36522,8 @@ const talks = [
         duration: 4712,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -36388,7 +36549,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1481,
+          number: 1487,
       identifier: "#cppcon-2016-0023",
          meeting: "cppcon",
          edition: "2016",
@@ -36423,13 +36584,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2599,
+          number: 2605,
       identifier: "#meeting-c++-2018-0059",
          meeting: "meeting c++",
          edition: "2018",
@@ -36484,13 +36646,14 @@ const talks = [
         duration: 4529,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1431,
+          number: 1437,
       identifier: "#cppcon-2015-0098",
          meeting: "cppcon",
          edition: "2015",
@@ -36525,7 +36688,8 @@ const talks = [
         duration: 2824,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -36551,7 +36715,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 719,
+          number: 720,
       identifier: "#c++now-2018-0006",
          meeting: "c++now",
          edition: "2018",
@@ -36572,7 +36736,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2649,
+          number: 2655,
       identifier: "#meeting-c++-2019-0047",
          meeting: "meeting c++",
          edition: "2019",
@@ -36593,7 +36757,29 @@ const talks = [
         language: "english"
    },
    {
-          number: 2396,
+          number: 479,
+      identifier: "#c++now-2013-0009",
+         meeting: "c++now",
+         edition: "2013",
+           title: "Boost.Asio and Boost.Serialization: Design Patterns for Object Transmission",
+        speakers: [
+                     "Habraken",
+                     "Lelbach"
+                  ],
+           video: "https://youtube.com/watch?v=8XHxGWacbdM",
+       thumbnail: "http://img.youtube.com/vi/8XHxGWacbdM/0.jpg",
+        duration: 5399,
+            tags: [
+                     "c++",
+                     "conference",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "english"
+   },
+   {
+          number: 2402,
       identifier: "#meeting-c++-2015-0012",
          meeting: "meeting c++",
          edition: "2015",
@@ -36628,13 +36814,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2573,
+          number: 2579,
       identifier: "#meeting-c++-2018-0033",
          meeting: "meeting c++",
          edition: "2018",
@@ -36642,9 +36829,9 @@ const talks = [
         speakers: [
                      "Odin Holmes"
                   ],
-           video: "https://youtube.com/watch?v=WRTjLPJTcgA",
-       thumbnail: "http://img.youtube.com/vi/WRTjLPJTcgA/0.jpg",
-        duration: 4870,
+           video: "https://youtube.com/watch?v=m_rmwPZi0vU",
+       thumbnail: "http://img.youtube.com/vi/m_rmwPZi0vU/0.jpg",
+        duration: 3382,
             tags: [
                      "c++",
                      "conference",
@@ -36668,7 +36855,8 @@ const talks = [
         duration: 3147,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -36687,7 +36875,8 @@ const talks = [
         duration: 3582,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -36706,7 +36895,8 @@ const talks = [
         duration: 3232,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -36725,7 +36915,8 @@ const talks = [
         duration: 4975,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -36739,18 +36930,19 @@ const talks = [
         speakers: [
                      "Victor Ciura"
                   ],
-           video: "https://youtube.com/watch?v=OMhzlcBl9Hc",
-       thumbnail: "http://img.youtube.com/vi/OMhzlcBl9Hc/0.jpg",
-        duration: 4053,
+           video: "https://youtube.com/watch?v=h60zqdzIelE",
+       thumbnail: "http://img.youtube.com/vi/h60zqdzIelE/0.jpg",
+        duration: 3103,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2584,
+          number: 2590,
       identifier: "#meeting-c++-2018-0044",
          meeting: "meeting c++",
          edition: "2018",
@@ -36771,7 +36963,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2212,
+          number: 2222,
       identifier: "#cppcon-2020-0011",
          meeting: "cppcon",
          edition: "2020",
@@ -36805,13 +36997,14 @@ const talks = [
         duration: 3807,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2496,
+          number: 2501,
       identifier: "#meeting-c++-2017-0021",
          meeting: "meeting c++",
          edition: "2017",
@@ -36832,7 +37025,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2571,
+          number: 2577,
       identifier: "#meeting-c++-2018-0031",
          meeting: "meeting c++",
          edition: "2018",
@@ -36853,7 +37046,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2624,
+          number: 2630,
       identifier: "#meeting-c++-2019-0021",
          meeting: "meeting c++",
          edition: "2019",
@@ -36874,7 +37067,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2602,
+          number: 2608,
       identifier: "#meeting-c++-2018-0062",
          meeting: "meeting c++",
          edition: "2018",
@@ -36895,7 +37088,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2298,
+          number: 2304,
       identifier: "#cppcon-2020-0098",
          meeting: "cppcon",
          edition: "2020",
@@ -36916,7 +37109,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2286,
+          number: 2292,
       identifier: "#cppcon-2020-0086",
          meeting: "cppcon",
          edition: "2020",
@@ -36950,13 +37143,14 @@ const talks = [
         duration: 3296,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2568,
+          number: 2574,
       identifier: "#meeting-c++-2018-0028",
          meeting: "meeting c++",
          edition: "2018",
@@ -36964,9 +37158,9 @@ const talks = [
         speakers: [
                      "Arvid Gerstmann"
                   ],
-           video: "https://youtube.com/watch?v=YhzKDiQe1To",
-       thumbnail: "http://img.youtube.com/vi/YhzKDiQe1To/0.jpg",
-        duration: 3393,
+           video: "https://youtube.com/watch?v=DUiUBt-fqEY",
+       thumbnail: "http://img.youtube.com/vi/DUiUBt-fqEY/0.jpg",
+        duration: 2767,
             tags: [
                      "c++",
                      "conference",
@@ -36991,13 +37185,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2234,
+          number: 2243,
       identifier: "#cppcon-2020-0034",
          meeting: "cppcon",
          edition: "2020",
@@ -37031,13 +37226,14 @@ const talks = [
         duration: 1937,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2228,
+          number: 2237,
       identifier: "#cppcon-2020-0027",
          meeting: "cppcon",
          edition: "2020",
@@ -37071,13 +37267,14 @@ const talks = [
         duration: 4019,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2174,
+          number: 2180,
       identifier: "#cppcon-2019-0192",
          meeting: "cppcon",
          edition: "2019",
@@ -37131,13 +37328,14 @@ const talks = [
         duration: 5127,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2634,
+          number: 2640,
       identifier: "#meeting-c++-2019-0032",
          meeting: "meeting c++",
          edition: "2019",
@@ -37171,13 +37369,14 @@ const talks = [
         duration: 3995,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2169,
+          number: 2175,
       identifier: "#cppcon-2019-0187",
          meeting: "cppcon",
          edition: "2019",
@@ -37198,7 +37397,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1571,
+          number: 1577,
       identifier: "#cppcon-2016-0113",
          meeting: "cppcon",
          edition: "2016",
@@ -37219,7 +37418,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2355,
+          number: 2361,
       identifier: "#meetup-modena-2021-0004",
          meeting: "meetup modena",
          edition: "2021",
@@ -37253,13 +37452,14 @@ const talks = [
         duration: 5315,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2111,
+          number: 2117,
       identifier: "#cppcon-2019-0129",
          meeting: "cppcon",
          edition: "2019",
@@ -37293,7 +37493,8 @@ const talks = [
         duration: 3711,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -37319,7 +37520,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2637,
+          number: 2643,
       identifier: "#meeting-c++-2019-0035",
          meeting: "meeting c++",
          edition: "2019",
@@ -37340,7 +37541,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2085,
+          number: 2091,
       identifier: "#cppcon-2019-0103",
          meeting: "cppcon",
          edition: "2019",
@@ -37374,13 +37575,14 @@ const talks = [
         duration: 3735,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2117,
+          number: 2123,
       identifier: "#cppcon-2019-0135",
          meeting: "cppcon",
          edition: "2019",
@@ -37401,13 +37603,13 @@ const talks = [
         language: "english"
    },
    {
-          number: 2275,
+          number: 2210,
       identifier: "#cppcon-2020-0075",
          meeting: "cppcon",
          edition: "2020",
            title: "C++ Committee's Library Evolution Working Group",
         speakers: [
-                     "Hosted By Bryce Adelstein Lelbach"
+                     "Bryce Adelstein Lelbach"
                   ],
            video: "https://youtube.com/watch?v=Py1eVrJ2S88",
        thumbnail: "http://img.youtube.com/vi/Py1eVrJ2S88/0.jpg",
@@ -37416,19 +37618,19 @@ const talks = [
                      "c++",
                      "conference",
                      "online",
-                     "talk"
+                     "panel"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2260,
+          number: 2208,
       identifier: "#cppcon-2020-0060",
          meeting: "cppcon",
          edition: "2020",
            title: "C++ Committee's Library Evolution Working Group Panel",
         speakers: [
-                     "Hosted by Ben Craig"
+                     "Ben Craig"
                   ],
            video: "https://youtube.com/watch?v=udKNou797Zc",
        thumbnail: "http://img.youtube.com/vi/udKNou797Zc/0.jpg",
@@ -37437,19 +37639,19 @@ const talks = [
                      "c++",
                      "conference",
                      "online",
-                     "talk"
+                     "panel"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2274,
+          number: 2209,
       identifier: "#cppcon-2020-0074",
          meeting: "cppcon",
          edition: "2020",
            title: "C++ Community Organizers Panel",
         speakers: [
-                     "Hosted By Jon Kalb"
+                     "Jon Kalb"
                   ],
            video: "https://youtube.com/watch?v=wdumaKkCR5E",
        thumbnail: "http://img.youtube.com/vi/wdumaKkCR5E/0.jpg",
@@ -37458,13 +37660,13 @@ const talks = [
                      "c++",
                      "conference",
                      "online",
-                     "talk"
+                     "panel"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2290,
+          number: 2296,
       identifier: "#cppcon-2020-0090",
          meeting: "cppcon",
          edition: "2020",
@@ -37498,7 +37700,8 @@ const talks = [
         duration: 2146,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -37524,7 +37727,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2550,
+          number: 2556,
       identifier: "#meeting-c++-2018-0010",
          meeting: "meeting c++",
          edition: "2018",
@@ -37545,7 +37748,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2641,
+          number: 2647,
       identifier: "#meeting-c++-2019-0039",
          meeting: "meeting c++",
          edition: "2019",
@@ -37595,9 +37798,9 @@ const talks = [
                      "Jon Jagger",
                      "Robert Chatley"
                   ],
-           video: "https://youtube.com/watch?v=Kl_bm1o5XfE",
-       thumbnail: "http://img.youtube.com/vi/Kl_bm1o5XfE/0.jpg",
-        duration: 205,
+           video: "https://youtube.com/watch?v=0iCR-bTcp_0",
+       thumbnail: "http://img.youtube.com/vi/0iCR-bTcp_0/0.jpg",
+        duration: 253,
             tags: [
                      "conference",
                      "live",
@@ -37615,12 +37818,13 @@ const talks = [
         speakers: [
                      "Jon Jagger"
                   ],
-           video: "https://youtube.com/watch?v=RlbkZO2cwx0",
-       thumbnail: "http://img.youtube.com/vi/RlbkZO2cwx0/0.jpg",
-        duration: 2289,
+           video: "https://youtube.com/watch?v=aYbaKlcorpo",
+       thumbnail: "http://img.youtube.com/vi/aYbaKlcorpo/0.jpg",
+        duration: 308,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -37639,13 +37843,14 @@ const talks = [
         duration: 947,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1906,
+          number: 1912,
       identifier: "#cppcon-2018-0116",
          meeting: "cppcon",
          edition: "2018",
@@ -37666,7 +37871,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2297,
+          number: 2303,
       identifier: "#cppcon-2020-0097",
          meeting: "cppcon",
          edition: "2020",
@@ -37687,7 +37892,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2114,
+          number: 2120,
       identifier: "#cppcon-2019-0132",
          meeting: "cppcon",
          edition: "2019",
@@ -37721,7 +37926,8 @@ const talks = [
         duration: 4923,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -37741,7 +37947,8 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "online"
+                     "online",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -37761,7 +37968,8 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -37787,11 +37995,11 @@ const talks = [
         language: "english"
    },
    {
-          number: 919,
+          number: 920,
       identifier: "#c++now-2021-0049",
          meeting: "c++now",
          edition: "2021",
-           title: "C++ Insights: How Stuff Works, Lambdas and More! ",
+           title: "C++ Insights: How Stuff Works, Lambdas and More!",
         speakers: [
                      "Andreas Fertig"
                   ],
@@ -37808,7 +38016,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2553,
+          number: 2559,
       identifier: "#meeting-c++-2018-0013",
          meeting: "meeting c++",
          edition: "2018",
@@ -37862,13 +38070,14 @@ const talks = [
         duration: 5419,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2312,
+          number: 2318,
       identifier: "#cppp-2019-0004",
          meeting: "cppp",
          edition: "2019",
@@ -37902,13 +38111,14 @@ const talks = [
         duration: 3079,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2391,
+          number: 2397,
       identifier: "#meeting-c++-2015-0007",
          meeting: "meeting c++",
          edition: "2015",
@@ -37929,7 +38139,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2409,
+          number: 2415,
       identifier: "#meeting-c++-2015-0025",
          meeting: "meeting c++",
          edition: "2015",
@@ -37950,7 +38160,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2408,
+          number: 2414,
       identifier: "#meeting-c++-2015-0024",
          meeting: "meeting c++",
          edition: "2015",
@@ -37971,7 +38181,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1331,
+          number: 1337,
       identifier: "#cppcon-2014-0139",
          meeting: "cppcon",
          edition: "2014",
@@ -38005,13 +38215,14 @@ const talks = [
         duration: 5292,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2140,
+          number: 2146,
       identifier: "#cppcon-2019-0158",
          meeting: "cppcon",
          edition: "2019",
@@ -38032,7 +38243,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2374,
+          number: 2380,
       identifier: "#meeting-c++-2014-0017",
          meeting: "meeting c++",
          edition: "2014",
@@ -38053,7 +38264,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2113,
+          number: 2119,
       identifier: "#cppcon-2019-0131",
          meeting: "cppcon",
          edition: "2019",
@@ -38074,7 +38285,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2170,
+          number: 2176,
       identifier: "#cppcon-2019-0188",
          meeting: "cppcon",
          edition: "2019",
@@ -38095,7 +38306,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2200,
+          number: 2206,
       identifier: "#cppcon-2020-0028",
          meeting: "cppcon",
          edition: "2020",
@@ -38130,7 +38341,8 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "online"
+                     "online",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -38149,7 +38361,8 @@ const talks = [
         duration: 3882,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -38168,7 +38381,8 @@ const talks = [
         duration: 4363,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -38187,13 +38401,14 @@ const talks = [
         duration: 3737,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1211,
+          number: 1217,
       identifier: "#cpp-india-2021-0001",
          meeting: "cpp india",
          edition: "2021",
@@ -38214,7 +38429,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2429,
+          number: 2435,
       identifier: "#meeting-c++-2016-0008",
          meeting: "meeting c++",
          edition: "2016",
@@ -38235,6 +38450,27 @@ const talks = [
         language: "english"
    },
    {
+          number: 469,
+      identifier: "#c++now-2013-0044",
+         meeting: "c++now",
+         edition: "2013",
+           title: "C++ Use in High Performance Computing Within DOE: Past and Future",
+        speakers: [
+                     "Dan Quinlan"
+                  ],
+           video: "https://youtube.com/watch?v=zZGYfM1iM7c",
+       thumbnail: "http://img.youtube.com/vi/zZGYfM1iM7c/0.jpg",
+        duration: 5337,
+            tags: [
+                     "c++",
+                     "conference",
+                     "keynote",
+                     "live"
+                  ],
+           level: 0,
+        language: "english"
+   },
+   {
           number: 954,
       identifier: "#code-dive-2015-0003",
          meeting: "code dive",
@@ -38248,7 +38484,8 @@ const talks = [
         duration: 3506,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -38267,13 +38504,14 @@ const talks = [
         duration: 1072,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2583,
+          number: 2589,
       identifier: "#meeting-c++-2018-0043",
          meeting: "meeting c++",
          edition: "2018",
@@ -38294,7 +38532,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2371,
+          number: 2377,
       identifier: "#meeting-c++-2014-0014",
          meeting: "meeting c++",
          edition: "2014",
@@ -38315,7 +38553,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2381,
+          number: 2387,
       identifier: "#meeting-c++-2014-0024",
          meeting: "meeting c++",
          edition: "2014",
@@ -38336,11 +38574,11 @@ const talks = [
         language: "english"
    },
    {
-          number: 877,
+          number: 878,
       identifier: "#c++now-2021-0007",
          meeting: "c++now",
          edition: "2021",
-           title: "C++11/14 at Scale: What Have We Learned? ",
+           title: "C++11/14 at Scale: What Have We Learned?",
         speakers: [
                      "John Lakos",
                      "Vittorio Romeo"
@@ -38371,7 +38609,8 @@ const talks = [
         duration: 1226,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -38391,13 +38630,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1467,
+          number: 1473,
       identifier: "#cppcon-2016-0009",
          meeting: "cppcon",
          edition: "2016",
@@ -38418,7 +38658,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1473,
+          number: 1479,
       identifier: "#cppcon-2016-0015",
          meeting: "cppcon",
          edition: "2016",
@@ -38452,7 +38692,8 @@ const talks = [
         duration: 1226,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -38471,7 +38712,8 @@ const talks = [
         duration: 4266,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -38490,13 +38732,14 @@ const talks = [
         duration: 3509,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2159,
+          number: 2165,
       identifier: "#cppcon-2019-0177",
          meeting: "cppcon",
          edition: "2019",
@@ -38517,7 +38760,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2593,
+          number: 2599,
       identifier: "#meeting-c++-2018-0053",
          meeting: "meeting c++",
          edition: "2018",
@@ -38538,7 +38781,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2135,
+          number: 2141,
       identifier: "#cppcon-2019-0153",
          meeting: "cppcon",
          edition: "2019",
@@ -38572,7 +38815,8 @@ const talks = [
         duration: 2993,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -38591,7 +38835,8 @@ const talks = [
         duration: 3164,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -38610,7 +38855,8 @@ const talks = [
         duration: 3472,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -38629,13 +38875,14 @@ const talks = [
         duration: 3031,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2293,
+          number: 2299,
       identifier: "#cppcon-2020-0093",
          meeting: "cppcon",
          edition: "2020",
@@ -38656,7 +38903,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2269,
+          number: 2277,
       identifier: "#cppcon-2020-0069",
          meeting: "cppcon",
          edition: "2020",
@@ -38677,7 +38924,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1213,
+          number: 1219,
       identifier: "#cpp-india-2021-0003",
          meeting: "cpp india",
          edition: "2021",
@@ -38698,7 +38945,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2225,
+          number: 2235,
       identifier: "#cppcon-2020-0024",
          meeting: "cppcon",
          edition: "2020",
@@ -38719,7 +38966,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2244,
+          number: 2253,
       identifier: "#cppcon-2020-0044",
          meeting: "cppcon",
          edition: "2020",
@@ -38754,13 +39001,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "online"
+                     "online",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2229,
+          number: 2238,
       identifier: "#cppcon-2020-0029",
          meeting: "cppcon",
          edition: "2020",
@@ -38781,7 +39029,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2619,
+          number: 2625,
       identifier: "#meeting-c++-2019-0016",
          meeting: "meeting c++",
          edition: "2019",
@@ -38815,13 +39063,14 @@ const talks = [
         duration: 3895,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2504,
+          number: 2509,
       identifier: "#meeting-c++-2017-0029",
          meeting: "meeting c++",
          edition: "2017",
@@ -38856,7 +39105,8 @@ const talks = [
         duration: 3378,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -38875,13 +39125,14 @@ const talks = [
         duration: 3261,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1763,
+          number: 1769,
       identifier: "#cppcon-2017-0162",
          meeting: "cppcon",
          edition: "2017",
@@ -38902,7 +39153,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2211,
+          number: 2221,
       identifier: "#cppcon-2020-0010",
          meeting: "cppcon",
          edition: "2020",
@@ -38923,7 +39174,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2605,
+          number: 2611,
       identifier: "#meeting-c++-2019-0002",
          meeting: "meeting c++",
          edition: "2019",
@@ -38957,13 +39208,14 @@ const talks = [
         duration: 1104,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2288,
+          number: 2294,
       identifier: "#cppcon-2020-0088",
          meeting: "cppcon",
          edition: "2020",
@@ -38984,7 +39236,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1620,
+          number: 1627,
       identifier: "#cppcon-2017-0019",
          meeting: "cppcon",
          edition: "2017",
@@ -39005,7 +39257,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2179,
+          number: 2185,
       identifier: "#cppcon-2019-0197",
          meeting: "cppcon",
          edition: "2019",
@@ -39026,7 +39278,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2172,
+          number: 2178,
       identifier: "#cppcon-2019-0190",
          meeting: "cppcon",
          edition: "2019",
@@ -39060,7 +39312,8 @@ const talks = [
         duration: 3696,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -39079,7 +39332,8 @@ const talks = [
         duration: 3927,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -39094,18 +39348,19 @@ const talks = [
                      "Chris Oldwood",
                      "Jez Higgins"
                   ],
-           video: "https://youtube.com/watch?v=IJQwvyCZOxU",
-       thumbnail: "http://img.youtube.com/vi/IJQwvyCZOxU/0.jpg",
-        duration: 560,
+           video: "https://youtube.com/watch?v=RspBvQWe6tE",
+       thumbnail: "http://img.youtube.com/vi/RspBvQWe6tE/0.jpg",
+        duration: 4585,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1433,
+          number: 1439,
       identifier: "#cppcon-2015-0100",
          meeting: "cppcon",
          edition: "2015",
@@ -39126,7 +39381,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2435,
+          number: 2441,
       identifier: "#meeting-c++-2016-0014",
          meeting: "meeting c++",
          edition: "2016",
@@ -39161,13 +39416,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "online"
+                     "online",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2145,
+          number: 2151,
       identifier: "#cppcon-2019-0163",
          meeting: "cppcon",
          edition: "2019",
@@ -39202,7 +39458,8 @@ const talks = [
         duration: 3992,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -39221,17 +39478,18 @@ const talks = [
         duration: 3827,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
           number: 930,
-      identifier: "#c++now-2021-0060",
+      identifier: "#c++now-2021-0059",
          meeting: "c++now",
          edition: "2021",
-           title: "Classes With Many Fields ",
+           title: "Classes With Many Fields",
         speakers: [
                      "Stanislaw J. Dobrowolski"
                   ],
@@ -39261,7 +39519,8 @@ const talks = [
         duration: 3346,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -39280,13 +39539,14 @@ const talks = [
         duration: 4283,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2575,
+          number: 2581,
       identifier: "#meeting-c++-2018-0035",
          meeting: "meeting c++",
          edition: "2018",
@@ -39320,13 +39580,14 @@ const talks = [
         duration: 5443,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2325,
+          number: 2331,
       identifier: "#c++-day-2020-0009",
          meeting: "c++ day",
          edition: "2020",
@@ -39341,14 +39602,13 @@ const talks = [
                      "c++",
                      "conference",
                      "online",
-                     "talk",
                      "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2336,
+          number: 2342,
       identifier: "#it-cpp-con-2020-0009",
          meeting: "it cpp con",
          edition: "2020",
@@ -39369,7 +39629,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2351,
+          number: 2357,
       identifier: "#it-cpp-con-2021-0015",
          meeting: "it cpp con",
          edition: "2021",
@@ -39390,7 +39650,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2210,
+          number: 2220,
       identifier: "#cppcon-2020-0009",
          meeting: "cppcon",
          edition: "2020",
@@ -39424,7 +39684,8 @@ const talks = [
         duration: 2720,
             tags: [
                      "conference",
-                     "online"
+                     "online",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -39443,17 +39704,18 @@ const talks = [
         duration: 2951,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 882,
+          number: 883,
       identifier: "#c++now-2021-0012",
          meeting: "c++now",
          edition: "2021",
-           title: "CMake + Conan: 3 Years Later ",
+           title: "CMake + Conan: 3 Years Later",
         speakers: [
                      "Mateusz Pusz"
                   ],
@@ -39470,11 +39732,11 @@ const talks = [
         language: "english"
    },
    {
-          number: 871,
+          number: 872,
       identifier: "#c++now-2021-0001",
          meeting: "c++now",
          edition: "2021",
-           title: "CMake: One Tool To Build Them All ",
+           title: "CMake: One Tool To Build Them All",
         speakers: [
                      "Bill Hoffman"
                   ],
@@ -39511,11 +39773,11 @@ const talks = [
         language: "english"
    },
    {
-          number: 878,
+          number: 879,
       identifier: "#c++now-2021-0008",
          meeting: "c++now",
          edition: "2021",
-           title: "Code Analysis++ ",
+           title: "Code Analysis++",
         speakers: [
                      "Anastasia Kazakova"
                   ],
@@ -39565,13 +39827,14 @@ const talks = [
         duration: 3824,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2495,
+          number: 2500,
       identifier: "#meeting-c++-2017-0020",
          meeting: "meeting c++",
          edition: "2017",
@@ -39600,18 +39863,19 @@ const talks = [
         speakers: [
                      "Arne Mertz"
                   ],
-           video: "https://youtube.com/watch?v=t6L8b4tUmeE",
-       thumbnail: "http://img.youtube.com/vi/t6L8b4tUmeE/0.jpg",
-        duration: 3545,
+           video: "https://youtube.com/watch?v=ibEm1wBre4I",
+       thumbnail: "http://img.youtube.com/vi/ibEm1wBre4I/0.jpg",
+        duration: 5443,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2164,
+          number: 2170,
       identifier: "#cppcon-2019-0182",
          meeting: "cppcon",
          edition: "2019",
@@ -39632,7 +39896,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2284,
+          number: 2290,
       identifier: "#cppcon-2020-0084",
          meeting: "cppcon",
          edition: "2020",
@@ -39653,7 +39917,28 @@ const talks = [
         language: "english"
    },
    {
-          number: 2206,
+          number: 1590,
+      identifier: "#cppcon-2016-0129",
+         meeting: "cppcon",
+         edition: "2016",
+           title: "CodeCompass: An open source code navigator for C++ based on LLVM/Clang",
+        speakers: [
+                     "Gabor Horvath"
+                  ],
+           video: "https://youtube.com/watch?v=gjQG3RNfFxM",
+       thumbnail: "http://img.youtube.com/vi/gjQG3RNfFxM/0.jpg",
+        duration: 351,
+            tags: [
+                     "c++",
+                     "conference",
+                     "lightning",
+                     "live"
+                  ],
+           level: 0,
+        language: "english"
+   },
+   {
+          number: 2216,
       identifier: "#cppcon-2020-0005",
          meeting: "cppcon",
          edition: "2020",
@@ -39674,7 +39959,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1579,
+          number: 1585,
       identifier: "#cppcon-2016-0124",
          meeting: "cppcon",
          edition: "2016",
@@ -39695,7 +39980,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2609,
+          number: 2615,
       identifier: "#meeting-c++-2019-0006",
          meeting: "meeting c++",
          edition: "2019",
@@ -39730,7 +40015,8 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "online"
+                     "online",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -39769,13 +40055,14 @@ const talks = [
         duration: 5420,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1422,
+          number: 1428,
       identifier: "#cppcon-2015-0089",
          meeting: "cppcon",
          edition: "2015",
@@ -39796,7 +40083,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2595,
+          number: 2601,
       identifier: "#meeting-c++-2018-0055",
          meeting: "meeting c++",
          edition: "2018",
@@ -39832,13 +40119,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2564,
+          number: 2570,
       identifier: "#meeting-c++-2018-0024",
          meeting: "meeting c++",
          edition: "2018",
@@ -39859,7 +40147,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1387,
+          number: 1393,
       identifier: "#cppcon-2015-0054",
          meeting: "cppcon",
          edition: "2015",
@@ -39880,7 +40168,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1406,
+          number: 1412,
       identifier: "#cppcon-2015-0073",
          meeting: "cppcon",
          edition: "2015",
@@ -39902,10 +40190,10 @@ const talks = [
    },
    {
           number: 939,
-      identifier: "#c++now-2021-0069",
+      identifier: "#c++now-2021-0068",
          meeting: "c++now",
          edition: "2021",
-           title: "Complecting Made Easy ",
+           title: "Complecting Made Easy",
         speakers: [
                      "Tony Van Eerd"
                   ],
@@ -39922,7 +40210,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1366,
+          number: 1372,
       identifier: "#cppcon-2015-0033",
          meeting: "cppcon",
          edition: "2015",
@@ -39943,7 +40231,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2449,
+          number: 2455,
       identifier: "#meeting-c++-2016-0028",
          meeting: "meeting c++",
          edition: "2016",
@@ -39964,7 +40252,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2337,
+          number: 2343,
       identifier: "#it-cpp-con-2020-0005",
          meeting: "it cpp con",
          edition: "2020",
@@ -39998,13 +40286,14 @@ const talks = [
         duration: 3458,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2607,
+          number: 2613,
       identifier: "#meeting-c++-2019-0004",
          meeting: "meeting c++",
          edition: "2019",
@@ -40025,7 +40314,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2512,
+          number: 2517,
       identifier: "#meeting-c++-2017-0037",
          meeting: "meeting c++",
          edition: "2017",
@@ -40046,7 +40335,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1578,
+          number: 1584,
       identifier: "#cppcon-2016-0123",
          meeting: "cppcon",
          edition: "2016",
@@ -40067,7 +40356,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2125,
+          number: 2131,
       identifier: "#cppcon-2019-0143",
          meeting: "cppcon",
          edition: "2019",
@@ -40088,7 +40377,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2347,
+          number: 2353,
       identifier: "#it-cpp-con-2021-0011",
          meeting: "it cpp con",
          edition: "2021",
@@ -40109,7 +40398,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2118,
+          number: 2124,
       identifier: "#cppcon-2019-0136",
          meeting: "cppcon",
          edition: "2019",
@@ -40143,7 +40432,8 @@ const talks = [
         duration: 2749,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -40182,7 +40472,8 @@ const talks = [
         duration: 5352,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -40221,7 +40512,8 @@ const talks = [
         duration: 3215,
             tags: [
                      "conference",
-                     "online"
+                     "online",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -40247,7 +40539,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2402,
+          number: 2408,
       identifier: "#meeting-c++-2015-0018",
          meeting: "meeting c++",
          edition: "2015",
@@ -40268,7 +40560,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2622,
+          number: 2628,
       identifier: "#meeting-c++-2019-0019",
          meeting: "meeting c++",
          edition: "2019",
@@ -40289,14 +40581,13 @@ const talks = [
         language: "english"
    },
    {
-          number: 2656,
+          number: 2662,
       identifier: "#meeting-c++-2019-0054",
          meeting: "meeting c++",
          edition: "2019",
            title: "Consistently Inconsistent",
         speakers: [
-                     "Conor Hoekstra",
-                     "code_report"
+                     "Conor Hoekstra"
                   ],
            video: "https://youtube.com/watch?v=tsfaE-eDusg",
        thumbnail: "http://img.youtube.com/vi/tsfaE-eDusg/0.jpg",
@@ -40344,13 +40635,14 @@ const talks = [
         duration: 4008,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2239,
+          number: 2248,
       identifier: "#cppcon-2020-0039",
          meeting: "cppcon",
          edition: "2020",
@@ -40371,7 +40663,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2578,
+          number: 2584,
       identifier: "#meeting-c++-2018-0038",
          meeting: "meeting c++",
          edition: "2018",
@@ -40412,7 +40704,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2677,
+          number: 2683,
       identifier: "#meeting-embedded-2018-0006",
          meeting: "meeting embedded",
          edition: "2018",
@@ -40427,14 +40719,14 @@ const talks = [
             tags: [
                      "conference",
                      "embedded",
-                     "online",
+                     "live",
                      "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1418,
+          number: 1424,
       identifier: "#cppcon-2015-0085",
          meeting: "cppcon",
          edition: "2015",
@@ -40475,7 +40767,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1314,
+          number: 1320,
       identifier: "#cppcon-2014-0122",
          meeting: "cppcon",
          edition: "2014",
@@ -40496,11 +40788,11 @@ const talks = [
         language: "english"
    },
    {
-          number: 907,
+          number: 908,
       identifier: "#c++now-2021-0037",
          meeting: "c++now",
          edition: "2021",
-           title: "Converting a State Machine to a C++ 20 Coroutine ",
+           title: "Converting a State Machine to a C++ 20 Coroutine",
         speakers: [
                      "Steve Downey"
                   ],
@@ -40530,13 +40822,14 @@ const talks = [
         duration: 4309,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2560,
+          number: 2566,
       identifier: "#meeting-c++-2018-0020",
          meeting: "meeting c++",
          edition: "2018",
@@ -40590,7 +40883,8 @@ const talks = [
         duration: 2717,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -40610,13 +40904,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "online"
+                     "online",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2628,
+          number: 2634,
       identifier: "#meeting-c++-2019-0025",
          meeting: "meeting c++",
          edition: "2019",
@@ -40637,7 +40932,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2304,
+          number: 2310,
       identifier: "#cppcon-2020-0104",
          meeting: "cppcon",
          edition: "2020",
@@ -40671,13 +40966,14 @@ const talks = [
         duration: 4617,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2611,
+          number: 2617,
       identifier: "#meeting-c++-2019-0008",
          meeting: "meeting c++",
          edition: "2019",
@@ -40711,7 +41007,8 @@ const talks = [
         duration: 4866,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -40730,13 +41027,14 @@ const talks = [
         duration: 3808,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2606,
+          number: 2612,
       identifier: "#meeting-c++-2019-0003",
          meeting: "meeting c++",
          edition: "2019",
@@ -40770,13 +41068,14 @@ const talks = [
         duration: 5078,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2386,
+          number: 2392,
       identifier: "#meeting-c++-2015-0002",
          meeting: "meeting c++",
          edition: "2015",
@@ -40810,13 +41109,14 @@ const talks = [
         duration: 3583,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2570,
+          number: 2576,
       identifier: "#meeting-c++-2018-0030",
          meeting: "meeting c++",
          edition: "2018",
@@ -40837,7 +41137,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1372,
+          number: 1378,
       identifier: "#cppcon-2015-0039",
          meeting: "cppcon",
          edition: "2015",
@@ -40859,7 +41159,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2232,
+          number: 2241,
       identifier: "#cppcon-2020-0032",
          meeting: "cppcon",
          edition: "2020",
@@ -40880,7 +41180,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2158,
+          number: 2164,
       identifier: "#cppcon-2019-0176",
          meeting: "cppcon",
          edition: "2019",
@@ -40914,7 +41214,8 @@ const talks = [
         duration: 5432,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -40941,10 +41242,10 @@ const talks = [
    },
    {
           number: 926,
-      identifier: "#c++now-2021-0056",
+      identifier: "#c++now-2021-0055",
          meeting: "c++now",
          edition: "2021",
-           title: "Cyclomatic Complexity pmccabe as a Refactor Aid ",
+           title: "Cyclomatic Complexity pmccabe as a Refactor Aid",
         speakers: [
                      "Michael Wells"
                   ],
@@ -40962,10 +41263,10 @@ const talks = [
    },
    {
           number: 938,
-      identifier: "#c++now-2021-0068",
+      identifier: "#c++now-2021-0067",
          meeting: "c++now",
          edition: "2021",
-           title: "Dashboards to the Rescue ",
+           title: "Dashboards to the Rescue",
         speakers: [
                      "Matthias Bilger"
                   ],
@@ -40982,7 +41283,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2098,
+          number: 2104,
       identifier: "#cppcon-2019-0116",
          meeting: "cppcon",
          edition: "2019",
@@ -41003,7 +41304,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2546,
+          number: 2552,
       identifier: "#meeting-c++-2018-0006",
          meeting: "meeting c++",
          edition: "2018",
@@ -41038,7 +41339,8 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "online"
+                     "online",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -41057,13 +41359,14 @@ const talks = [
         duration: 3766,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1748,
+          number: 1754,
       identifier: "#cppcon-2017-0147",
          meeting: "cppcon",
          edition: "2017",
@@ -41097,13 +41400,14 @@ const talks = [
         duration: 3835,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2558,
+          number: 2564,
       identifier: "#meeting-c++-2018-0018",
          meeting: "meeting c++",
          edition: "2018",
@@ -41124,13 +41428,13 @@ const talks = [
         language: "english"
    },
    {
-          number: 2226,
+          number: 2207,
       identifier: "#cppcon-2020-0025",
          meeting: "cppcon",
          edition: "2020",
            title: "Dealing with Embedded Limitations",
         speakers: [
-                     "Panel Discussion hosted by Ben Saks"
+                     "Ben Saks"
                   ],
            video: "https://youtube.com/watch?v=v_4D43nASt4",
        thumbnail: "http://img.youtube.com/vi/v_4D43nASt4/0.jpg",
@@ -41139,7 +41443,7 @@ const talks = [
                      "c++",
                      "conference",
                      "online",
-                     "talk"
+                     "panel"
                   ],
            level: 0,
         language: "english"
@@ -41158,13 +41462,14 @@ const talks = [
         duration: 3192,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2503,
+          number: 2508,
       identifier: "#meeting-c++-2017-0028",
          meeting: "meeting c++",
          edition: "2017",
@@ -41219,7 +41524,8 @@ const talks = [
         duration: 3577,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -41239,13 +41545,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1596,
+          number: 1602,
       identifier: "#cppcon-2016-0141",
          meeting: "cppcon",
          edition: "2016",
@@ -41266,7 +41573,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2629,
+          number: 2635,
       identifier: "#meeting-c++-2019-0026",
          meeting: "meeting c++",
          edition: "2019",
@@ -41307,7 +41614,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2513,
+          number: 2518,
       identifier: "#meeting-c++-2017-0038",
          meeting: "meeting c++",
          edition: "2017",
@@ -41342,7 +41649,8 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -41362,13 +41670,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "online"
+                     "online",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2112,
+          number: 2118,
       identifier: "#cppcon-2019-0130",
          meeting: "cppcon",
          edition: "2019",
@@ -41389,7 +41698,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2507,
+          number: 2512,
       identifier: "#meeting-c++-2017-0032",
          meeting: "meeting c++",
          edition: "2017",
@@ -41397,9 +41706,9 @@ const talks = [
         speakers: [
                      "Peter Goldsborough"
                   ],
-           video: "https://youtube.com/watch?v=9-1lcss0NMg",
-       thumbnail: "http://img.youtube.com/vi/9-1lcss0NMg/0.jpg",
-        duration: 3301,
+           video: "https://youtube.com/watch?v=8GoYXWOq55A",
+       thumbnail: "http://img.youtube.com/vi/8GoYXWOq55A/0.jpg",
+        duration: 3423,
             tags: [
                      "c++",
                      "conference",
@@ -41410,7 +41719,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2392,
+          number: 2398,
       identifier: "#meeting-c++-2015-0008",
          meeting: "meeting c++",
          edition: "2015",
@@ -41444,13 +41753,14 @@ const talks = [
         duration: 2428,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2096,
+          number: 2102,
       identifier: "#cppcon-2019-0114",
          meeting: "cppcon",
          edition: "2019",
@@ -41484,13 +41794,14 @@ const talks = [
         duration: 3735,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2137,
+          number: 2143,
       identifier: "#cppcon-2019-0155",
          meeting: "cppcon",
          edition: "2019",
@@ -41531,7 +41842,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2247,
+          number: 2256,
       identifier: "#cppcon-2020-0047",
          meeting: "cppcon",
          edition: "2020",
@@ -41573,10 +41884,10 @@ const talks = [
    },
    {
           number: 937,
-      identifier: "#c++now-2021-0067",
+      identifier: "#c++now-2021-0066",
          meeting: "c++now",
          edition: "2021",
-           title: "Designated Initializers: Remembering Every Struct Member in Declaration Order Is Hard ",
+           title: "Designated Initializers: Remembering Every Struct Member in Declaration Order Is Hard",
         speakers: [
                      "Brian Ruth"
                   ],
@@ -41593,7 +41904,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1656,
+          number: 1662,
       identifier: "#cppcon-2017-0055",
          meeting: "cppcon",
          edition: "2017",
@@ -41614,7 +41925,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1724,
+          number: 1730,
       identifier: "#cppcon-2017-0123",
          meeting: "cppcon",
          edition: "2017",
@@ -41635,7 +41946,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2450,
+          number: 2456,
       identifier: "#meeting-c++-2016-0029",
          meeting: "meeting c++",
          edition: "2016",
@@ -41656,11 +41967,11 @@ const talks = [
         language: "english"
    },
    {
-          number: 918,
+          number: 919,
       identifier: "#c++now-2021-0048",
          meeting: "c++now",
          edition: "2021",
-           title: "Designing Concurrent C++ Applications ",
+           title: "Designing Concurrent C++ Applications",
         speakers: [
                      "Lucian Radu Teodorescu"
                   ],
@@ -41691,7 +42002,8 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -41710,13 +42022,14 @@ const talks = [
         duration: 4101,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2379,
+          number: 2385,
       identifier: "#meeting-c++-2014-0022",
          meeting: "meeting c++",
          edition: "2014",
@@ -41751,13 +42064,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2142,
+          number: 2148,
       identifier: "#cppcon-2019-0160",
          meeting: "cppcon",
          edition: "2019",
@@ -41798,7 +42112,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2400,
+          number: 2406,
       identifier: "#meeting-c++-2015-0016",
          meeting: "meeting c++",
          edition: "2015",
@@ -41892,7 +42206,8 @@ const talks = [
         duration: 3568,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -41912,7 +42227,8 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -41971,7 +42287,8 @@ const talks = [
         duration: 2720,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -41990,7 +42307,8 @@ const talks = [
         duration: 827,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -42016,7 +42334,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1949,
+          number: 1955,
       identifier: "#cppcon-2018-0159",
          meeting: "cppcon",
          edition: "2018",
@@ -42057,11 +42375,11 @@ const talks = [
         language: "english"
    },
    {
-          number: 911,
+          number: 912,
       identifier: "#c++now-2021-0041",
          meeting: "c++now",
          edition: "2021",
-           title: "Don't constexpr All the Things ",
+           title: "Don't constexpr All the Things",
         speakers: [
                      "David Sankel"
                   ],
@@ -42078,7 +42396,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2636,
+          number: 2642,
       identifier: "#meeting-c++-2019-0034",
          meeting: "meeting c++",
          edition: "2019",
@@ -42099,7 +42417,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2484,
+          number: 2489,
       identifier: "#meeting-c++-2017-0009",
          meeting: "meeting c++",
          edition: "2017",
@@ -42120,7 +42438,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2295,
+          number: 2301,
       identifier: "#cppcon-2020-0095",
          meeting: "cppcon",
          edition: "2020",
@@ -42141,7 +42459,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2238,
+          number: 2247,
       identifier: "#cppcon-2020-0038",
          meeting: "cppcon",
          edition: "2020",
@@ -42162,7 +42480,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2165,
+          number: 2171,
       identifier: "#cppcon-2019-0183",
          meeting: "cppcon",
          edition: "2019",
@@ -42183,7 +42501,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2358,
+          number: 2364,
       identifier: "#meetup-modena-2021-0006",
          meeting: "meetup modena",
          edition: "2021",
@@ -42218,7 +42536,8 @@ const talks = [
         duration: 3587,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -42237,7 +42556,8 @@ const talks = [
         duration: 975,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -42276,7 +42596,8 @@ const talks = [
         duration: 2904,
             tags: [
                      "conference",
-                     "online"
+                     "online",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -42295,13 +42616,14 @@ const talks = [
         duration: 3670,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2401,
+          number: 2407,
       identifier: "#meeting-c++-2015-0017",
          meeting: "meeting c++",
          edition: "2015",
@@ -42322,7 +42644,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2235,
+          number: 2244,
       identifier: "#cppcon-2020-0035",
          meeting: "cppcon",
          edition: "2020",
@@ -42356,7 +42678,8 @@ const talks = [
         duration: 1312,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -42370,9 +42693,9 @@ const talks = [
         speakers: [
                      "Robin Williams"
                   ],
-           video: "https://youtube.com/watch?v=zVnRs5ZkiOo",
-       thumbnail: "http://img.youtube.com/vi/zVnRs5ZkiOo/0.jpg",
-        duration: 2015,
+           video: "https://youtube.com/watch?v=nfesrob8hW4",
+       thumbnail: "http://img.youtube.com/vi/nfesrob8hW4/0.jpg",
+        duration: 210,
             tags: [
                      "conference",
                      "live",
@@ -42422,7 +42745,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1301,
+          number: 1307,
       identifier: "#cppcon-2014-0109",
          meeting: "cppcon",
          edition: "2014",
@@ -42456,13 +42779,14 @@ const talks = [
         duration: 4986,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1228,
+          number: 1234,
       identifier: "#cppcon-2014-0019",
          meeting: "cppcon",
          edition: "2014",
@@ -42483,7 +42807,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2168,
+          number: 2174,
       identifier: "#cppcon-2019-0186",
          meeting: "cppcon",
          edition: "2019",
@@ -42504,7 +42828,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2676,
+          number: 2682,
       identifier: "#meeting-embedded-2018-0005",
          meeting: "meeting embedded",
          edition: "2018",
@@ -42518,7 +42842,7 @@ const talks = [
             tags: [
                      "conference",
                      "embedded",
-                     "online",
+                     "live",
                      "talk"
                   ],
            level: 0,
@@ -42538,13 +42862,14 @@ const talks = [
         duration: 3319,
             tags: [
                      "conference",
-                     "online"
+                     "online",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2227,
+          number: 2236,
       identifier: "#cppcon-2020-0026",
          meeting: "cppcon",
          edition: "2020",
@@ -42565,7 +42890,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2107,
+          number: 2113,
       identifier: "#cppcon-2019-0125",
          meeting: "cppcon",
          edition: "2019",
@@ -42619,13 +42944,14 @@ const talks = [
         duration: 4057,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2316,
+          number: 2322,
       identifier: "#cppp-2019-0008",
          meeting: "cppp",
          edition: "2019",
@@ -42646,7 +42972,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2283,
+          number: 2289,
       identifier: "#cppcon-2020-0083",
          meeting: "cppcon",
          edition: "2020",
@@ -42687,7 +43013,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2567,
+          number: 2573,
       identifier: "#meeting-c++-2018-0027",
          meeting: "meeting c++",
          edition: "2018",
@@ -42708,7 +43034,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1916,
+          number: 1922,
       identifier: "#cppcon-2018-0126",
          meeting: "cppcon",
          edition: "2018",
@@ -42729,7 +43055,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1413,
+          number: 1419,
       identifier: "#cppcon-2015-0080",
          meeting: "cppcon",
          edition: "2015",
@@ -42750,7 +43076,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2653,
+          number: 2659,
       identifier: "#meeting-c++-2019-0051",
          meeting: "meeting c++",
          edition: "2019",
@@ -42771,7 +43097,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1953,
+          number: 1959,
       identifier: "#cppcon-2018-0163",
          meeting: "cppcon",
          edition: "2018",
@@ -42806,13 +43132,14 @@ const talks = [
         duration: 3368,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2265,
+          number: 2273,
       identifier: "#cppcon-2020-0065",
          meeting: "cppcon",
          edition: "2020",
@@ -42833,7 +43160,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2384,
+          number: 2390,
       identifier: "#meeting-c++-2014-0027",
          meeting: "meeting c++",
          edition: "2014",
@@ -42854,11 +43181,11 @@ const talks = [
         language: "english"
    },
    {
-          number: 901,
+          number: 902,
       identifier: "#c++now-2021-0031",
          meeting: "c++now",
          edition: "2021",
-           title: "Executors: The Art of Generating Composable APIs ",
+           title: "Executors: The Art of Generating Composable APIs",
         speakers: [
                      "Nikunj Gupta"
                   ],
@@ -42876,10 +43203,10 @@ const talks = [
    },
    {
           number: 934,
-      identifier: "#c++now-2021-0064",
+      identifier: "#c++now-2021-0063",
          meeting: "c++now",
          edition: "2021",
-           title: "Exhuming 'Castlequest' ",
+           title: "Exhuming 'Castlequest'",
         speakers: [
                      "Arthur O'Dwyer"
                   ],
@@ -42891,6 +43218,27 @@ const talks = [
                      "conference",
                      "lightning",
                      "online"
+                  ],
+           level: 0,
+        language: "english"
+   },
+   {
+          number: 544,
+      identifier: "#c++now-2014-0031",
+         meeting: "c++now",
+         edition: "2014",
+           title: "Expected- An exception-friendly Error Monad",
+        speakers: [
+                     "Vicente Botet Escriba"
+                  ],
+           video: "https://youtube.com/watch?v=Zdlt1rgYdMQ",
+       thumbnail: "http://img.youtube.com/vi/Zdlt1rgYdMQ/0.jpg",
+        duration: 6054,
+            tags: [
+                     "c++",
+                     "conference",
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -42910,7 +43258,8 @@ const talks = [
         duration: 2748,
             tags: [
                      "conference",
-                     "online"
+                     "online",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -42931,13 +43280,14 @@ const talks = [
         duration: 3051,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2243,
+          number: 2252,
       identifier: "#cppcon-2020-0043",
          meeting: "cppcon",
          edition: "2020",
@@ -42978,7 +43328,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2436,
+          number: 2442,
       identifier: "#meeting-c++-2016-0015",
          meeting: "meeting c++",
          edition: "2016",
@@ -42999,7 +43349,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2375,
+          number: 2381,
       identifier: "#meeting-c++-2014-0018",
          meeting: "meeting c++",
          edition: "2014",
@@ -43053,13 +43403,14 @@ const talks = [
         duration: 5023,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2350,
+          number: 2356,
       identifier: "#it-cpp-con-2021-0014",
          meeting: "it cpp con",
          edition: "2021",
@@ -43080,7 +43431,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1754,
+          number: 1760,
       identifier: "#cppcon-2017-0153",
          meeting: "cppcon",
          edition: "2017",
@@ -43121,7 +43472,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2500,
+          number: 2505,
       identifier: "#meeting-c++-2017-0025",
          meeting: "meeting c++",
          edition: "2017",
@@ -43129,9 +43480,9 @@ const talks = [
         speakers: [
                      "Nicholas Ormrod"
                   ],
-           video: "https://youtube.com/watch?v=YA-nB2wjVcI",
-       thumbnail: "http://img.youtube.com/vi/YA-nB2wjVcI/0.jpg",
-        duration: 2818,
+           video: "https://youtube.com/watch?v=wG49AGqQ5Aw",
+       thumbnail: "http://img.youtube.com/vi/wG49AGqQ5Aw/0.jpg",
+        duration: 3372,
             tags: [
                      "c++",
                      "conference",
@@ -43156,13 +43507,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2527,
+          number: 2532,
       identifier: "#meeting-c++-2017-0052",
          meeting: "meeting c++",
          edition: "2017",
@@ -43216,7 +43568,8 @@ const talks = [
         duration: 1056,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -43242,7 +43595,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1981,
+          number: 1987,
       identifier: "#cppcon-2018-0191",
          meeting: "cppcon",
          edition: "2018",
@@ -43276,7 +43629,8 @@ const talks = [
         duration: 4070,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -43295,7 +43649,8 @@ const talks = [
         duration: 1263,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -43314,7 +43669,8 @@ const talks = [
         duration: 107,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -43333,7 +43689,8 @@ const talks = [
         duration: 5441,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -43359,7 +43716,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2635,
+          number: 2641,
       identifier: "#meeting-c++-2019-0033",
          meeting: "meeting c++",
          edition: "2019",
@@ -43381,10 +43738,10 @@ const talks = [
    },
    {
           number: 922,
-      identifier: "#c++now-2021-0052",
+      identifier: "#c++now-2021-0051",
          meeting: "c++now",
          edition: "2021",
-           title: "Finding Nemo, or Evolution of a for Loop ",
+           title: "Finding Nemo, or Evolution of a for Loop",
         speakers: [
                      "Arseniy Zaostrovnykh"
                   ],
@@ -43401,7 +43758,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2196,
+          number: 2202,
       identifier: "#cppcon-2019-0214",
          meeting: "cppcon",
          edition: "2019",
@@ -43422,7 +43779,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2187,
+          number: 2193,
       identifier: "#cppcon-2019-0205",
          meeting: "cppcon",
          edition: "2019",
@@ -43464,10 +43821,10 @@ const talks = [
    },
    {
           number: 928,
-      identifier: "#c++now-2021-0058",
+      identifier: "#c++now-2021-0057",
          meeting: "c++now",
          edition: "2021",
-           title: "FourCCs Done Right ",
+           title: "FourCCs Done Right",
         speakers: [
                      "Ben Deane"
                   ],
@@ -43504,7 +43861,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2516,
+          number: 2521,
       identifier: "#meeting-c++-2017-0041",
          meeting: "meeting c++",
          edition: "2017",
@@ -43525,11 +43882,11 @@ const talks = [
         language: "english"
    },
    {
-          number: 915,
+          number: 916,
       identifier: "#c++now-2021-0045",
          meeting: "c++now",
          edition: "2021",
-           title: "Frictionless Allocators ",
+           title: "Frictionless Allocators",
         speakers: [
                      "Alisdair Meredith"
                   ],
@@ -43566,7 +43923,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1426,
+          number: 1432,
       identifier: "#cppcon-2015-0093",
          meeting: "cppcon",
          edition: "2015",
@@ -43595,9 +43952,9 @@ const talks = [
         speakers: [
                      "Titus Winters"
                   ],
-           video: "https://youtube.com/watch?v=9a18XkWw8vk",
-       thumbnail: "http://img.youtube.com/vi/9a18XkWw8vk/0.jpg",
-        duration: 5689,
+           video: "https://youtube.com/watch?v=v_yzLe-wnfk",
+       thumbnail: "http://img.youtube.com/vi/v_yzLe-wnfk/0.jpg",
+        duration: 3642,
             tags: [
                      "conference",
                      "live",
@@ -43615,19 +43972,20 @@ const talks = [
         speakers: [
                      "Arno Schoedl"
                   ],
-           video: "https://youtube.com/watch?v=jvCjtGLuuvw",
-       thumbnail: "http://img.youtube.com/vi/jvCjtGLuuvw/0.jpg",
-        duration: 3648,
+           video: "https://youtube.com/watch?v=gZuthoxdN5E",
+       thumbnail: "http://img.youtube.com/vi/gZuthoxdN5E/0.jpg",
+        duration: 4380,
             tags: [
                      "c++",
                      "conference",
-                     "online"
+                     "online",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2404,
+          number: 2410,
       identifier: "#meeting-c++-2015-0020",
          meeting: "meeting c++",
          edition: "2015",
@@ -43661,13 +44019,14 @@ const talks = [
         duration: 3211,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2515,
+          number: 2520,
       identifier: "#meeting-c++-2017-0040",
          meeting: "meeting c++",
          edition: "2017",
@@ -43688,7 +44047,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2643,
+          number: 2649,
       identifier: "#meeting-c++-2019-0041",
          meeting: "meeting c++",
          edition: "2019",
@@ -43709,7 +44068,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2153,
+          number: 2159,
       identifier: "#cppcon-2019-0171",
          meeting: "cppcon",
          edition: "2019",
@@ -43730,7 +44089,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2536,
+          number: 2541,
       identifier: "#meeting-c++-2017-0061",
          meeting: "meeting c++",
          edition: "2017",
@@ -43771,7 +44130,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2448,
+          number: 2454,
       identifier: "#meeting-c++-2016-0027",
          meeting: "meeting c++",
          edition: "2016",
@@ -43792,7 +44151,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2277,
+          number: 2283,
       identifier: "#cppcon-2020-0077",
          meeting: "cppcon",
          edition: "2020",
@@ -43826,7 +44185,8 @@ const talks = [
         duration: 2765,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -43865,13 +44225,14 @@ const talks = [
         duration: 4976,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2395,
+          number: 2401,
       identifier: "#meeting-c++-2015-0011",
          meeting: "meeting c++",
          edition: "2015",
@@ -43892,7 +44253,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2176,
+          number: 2182,
       identifier: "#cppcon-2019-0194",
          meeting: "cppcon",
          edition: "2019",
@@ -43913,7 +44274,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2506,
+          number: 2511,
       identifier: "#meeting-c++-2017-0031",
          meeting: "meeting c++",
          edition: "2017",
@@ -43947,13 +44308,14 @@ const talks = [
         duration: 4432,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2433,
+          number: 2439,
       identifier: "#meeting-c++-2016-0012",
          meeting: "meeting c++",
          edition: "2016",
@@ -43987,7 +44349,29 @@ const talks = [
         duration: 2493,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "english"
+   },
+   {
+          number: 1872,
+      identifier: "#cppcon-2018-0072",
+         meeting: "cppcon",
+         edition: "2018",
+           title: "Funqual: user-defined statically-checked call graph constraints in C++",
+        speakers: [
+                     "Andrew Nelson"
+                  ],
+           video: "https://youtube.com/watch?v=oOZN6GqfdTs",
+       thumbnail: "http://img.youtube.com/vi/oOZN6GqfdTs/0.jpg",
+        duration: 1615,
+            tags: [
+                     "c++",
+                     "conference",
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -44006,13 +44390,14 @@ const talks = [
         duration: 3218,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2279,
+          number: 2285,
       identifier: "#cppcon-2020-0079",
          meeting: "cppcon",
          edition: "2020",
@@ -44033,7 +44418,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2152,
+          number: 2158,
       identifier: "#cppcon-2019-0170",
          meeting: "cppcon",
          edition: "2019",
@@ -44054,7 +44439,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2373,
+          number: 2379,
       identifier: "#meeting-c++-2014-0016",
          meeting: "meeting c++",
          edition: "2014",
@@ -44088,13 +44473,14 @@ const talks = [
         duration: 4144,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2394,
+          number: 2400,
       identifier: "#meeting-c++-2015-0010",
          meeting: "meeting c++",
          edition: "2015",
@@ -44115,7 +44501,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1756,
+          number: 1762,
       identifier: "#cppcon-2017-0155",
          meeting: "cppcon",
          edition: "2017",
@@ -44136,7 +44522,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2249,
+          number: 2258,
       identifier: "#cppcon-2020-0049",
          meeting: "cppcon",
          edition: "2020",
@@ -44170,7 +44556,8 @@ const talks = [
         duration: 1597,
             tags: [
                      "conference",
-                     "online"
+                     "online",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -44189,7 +44576,8 @@ const talks = [
         duration: 804,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -44208,13 +44596,14 @@ const talks = [
         duration: 2952,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2654,
+          number: 2660,
       identifier: "#meeting-c++-2019-0052",
          meeting: "meeting c++",
          edition: "2019",
@@ -44248,7 +44637,8 @@ const talks = [
         duration: 3115,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -44262,9 +44652,9 @@ const talks = [
         speakers: [
                      "Thomas Guest"
                   ],
-           video: "https://youtube.com/watch?v=s19oLv-LiIg",
-       thumbnail: "http://img.youtube.com/vi/s19oLv-LiIg/0.jpg",
-        duration: 142,
+           video: "https://youtube.com/watch?v=QCITK3L6Fpc",
+       thumbnail: "http://img.youtube.com/vi/QCITK3L6Fpc/0.jpg",
+        duration: 168,
             tags: [
                      "conference",
                      "live",
@@ -44327,7 +44717,8 @@ const talks = [
         duration: 2155,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -44346,7 +44737,8 @@ const talks = [
         duration: 3498,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -44360,9 +44752,9 @@ const talks = [
         speakers: [
                      "Steve Love"
                   ],
-           video: "https://youtube.com/watch?v=l95DsKm5fbY",
-       thumbnail: "http://img.youtube.com/vi/l95DsKm5fbY/0.jpg",
-        duration: 882,
+           video: "https://youtube.com/watch?v=hWHEQDMjPbk",
+       thumbnail: "http://img.youtube.com/vi/hWHEQDMjPbk/0.jpg",
+        duration: 5156,
             tags: [
                      "conference",
                      "live",
@@ -44385,7 +44777,8 @@ const talks = [
         duration: 5606,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -44424,7 +44817,8 @@ const talks = [
         duration: 613,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -44438,12 +44832,13 @@ const talks = [
         speakers: [
                      "Jonathan Pallant"
                   ],
-           video: "https://youtube.com/watch?v=PXaSUiGgyEw",
-       thumbnail: "http://img.youtube.com/vi/PXaSUiGgyEw/0.jpg",
-        duration: 1848,
+           video: "https://youtube.com/watch?v=FE1BkKqYCGU",
+       thumbnail: "http://img.youtube.com/vi/FE1BkKqYCGU/0.jpg",
+        duration: 565,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -44482,7 +44877,8 @@ const talks = [
         duration: 5107,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -44501,7 +44897,8 @@ const talks = [
         duration: 4843,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -44520,7 +44917,29 @@ const talks = [
         duration: 1129,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "english"
+   },
+   {
+          number: 2229,
+      identifier: "#cppcon-2020-0018",
+         meeting: "cppcon",
+         edition: "2020",
+           title: "Halide: A Language for Fast, Portable Computation on Images and Tensors",
+        speakers: [
+                     "Alex Reinking"
+                  ],
+           video: "https://youtube.com/watch?v=1ir_nEfKQ7A",
+       thumbnail: "http://img.youtube.com/vi/1ir_nEfKQ7A/0.jpg",
+        duration: 3399,
+            tags: [
+                     "c++",
+                     "conference",
+                     "online",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -44539,7 +44958,8 @@ const talks = [
         duration: 2391,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -44558,7 +44978,8 @@ const talks = [
         duration: 3900,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -44577,7 +44998,8 @@ const talks = [
         duration: 3098,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -44596,7 +45018,8 @@ const talks = [
         duration: 3910,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -44615,7 +45038,8 @@ const talks = [
         duration: 5606,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -44635,7 +45059,8 @@ const talks = [
         duration: 4833,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -44654,7 +45079,8 @@ const talks = [
         duration: 2723,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -44673,7 +45099,8 @@ const talks = [
         duration: 3404,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -44692,13 +45119,14 @@ const talks = [
         duration: 5543,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2241,
+          number: 2250,
       identifier: "#cppcon-2020-0041",
          meeting: "cppcon",
          edition: "2020",
@@ -44720,7 +45148,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2640,
+          number: 2646,
       identifier: "#meeting-c++-2019-0038",
          meeting: "meeting c++",
          edition: "2019",
@@ -44741,7 +45169,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2579,
+          number: 2585,
       identifier: "#meeting-c++-2018-0039",
          meeting: "meeting c++",
          edition: "2018",
@@ -44762,7 +45190,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2633,
+          number: 2639,
       identifier: "#meeting-c++-2019-0031",
          meeting: "meeting c++",
          edition: "2019",
@@ -44784,18 +45212,18 @@ const talks = [
         language: "english"
    },
    {
-          number: 2120,
+          number: 2126,
       identifier: "#cppcon-2019-0138",
          meeting: "cppcon",
          edition: "2019",
            title: "High performance graphics and text rendering on the GPU for...",
         speakers: [
-                     "Geller",
-                     "Sermersheim"
+                     "Ansel Sermersheim",
+                     "Barbara Geller"
                   ],
-           video: "https://youtube.com/watch?v=Xkpgsg6jU-4",
-       thumbnail: "http://img.youtube.com/vi/Xkpgsg6jU-4/0.jpg",
-        duration: 3568,
+           video: "https://youtube.com/watch?v=p6350LmMDkE",
+       thumbnail: "http://img.youtube.com/vi/p6350LmMDkE/0.jpg",
+        duration: 3719,
             tags: [
                      "c++",
                      "conference",
@@ -44806,7 +45234,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2561,
+          number: 2567,
       identifier: "#meeting-c++-2018-0021",
          meeting: "meeting c++",
          edition: "2018",
@@ -44840,7 +45268,8 @@ const talks = [
         duration: 3149,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -44859,7 +45288,8 @@ const talks = [
         duration: 5335,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -44879,13 +45309,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2175,
+          number: 2181,
       identifier: "#cppcon-2019-0193",
          meeting: "cppcon",
          edition: "2019",
@@ -44927,10 +45358,10 @@ const talks = [
    },
    {
           number: 927,
-      identifier: "#c++now-2021-0057",
+      identifier: "#c++now-2021-0056",
          meeting: "c++now",
          edition: "2021",
-           title: "Homogenous Variadic Functions - A Lightning-Library Approach in ~11.54 sec/LOC ",
+           title: "Homogenous Variadic Functions - A Lightning-Library Approach in ~11.54 sec/LOC",
         speakers: [
                      "Tobias Loew"
                   ],
@@ -44947,7 +45378,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2348,
+          number: 2354,
       identifier: "#it-cpp-con-2021-0012",
          meeting: "it cpp con",
          edition: "2021",
@@ -44968,11 +45399,11 @@ const talks = [
         language: "english"
    },
    {
-          number: 896,
+          number: 897,
       identifier: "#c++now-2021-0026",
          meeting: "c++now",
          edition: "2021",
-           title: "hop: A Language to Design Function-Overload-Sets ",
+           title: "hop: A Language to Design Function-Overload-Sets",
         speakers: [
                      "Tobias Loew"
                   ],
@@ -45003,13 +45434,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "online"
+                     "online",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2442,
+          number: 2448,
       identifier: "#meeting-c++-2016-0021",
          meeting: "meeting c++",
          edition: "2016",
@@ -45043,13 +45475,14 @@ const talks = [
         duration: 1001,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2509,
+          number: 2514,
       identifier: "#meeting-c++-2017-0034",
          meeting: "meeting c++",
          edition: "2017",
@@ -45083,13 +45516,14 @@ const talks = [
         duration: 4999,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2282,
+          number: 2288,
       identifier: "#cppcon-2020-0082",
          meeting: "cppcon",
          edition: "2020",
@@ -45124,7 +45558,8 @@ const talks = [
         duration: 5187,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -45143,13 +45578,14 @@ const talks = [
         duration: 3509,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1458,
+          number: 1464,
       identifier: "#cppcon-2015-0145",
          meeting: "cppcon",
          edition: "2015",
@@ -45183,7 +45619,8 @@ const talks = [
         duration: 3664,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -45197,9 +45634,9 @@ const talks = [
         speakers: [
                      "Andy Brice"
                   ],
-           video: "https://youtube.com/watch?v=pScJqR4pSno",
-       thumbnail: "http://img.youtube.com/vi/pScJqR4pSno/0.jpg",
-        duration: 443,
+           video: "https://youtube.com/watch?v=QVbbhpr4nAE",
+       thumbnail: "http://img.youtube.com/vi/QVbbhpr4nAE/0.jpg",
+        duration: 661,
             tags: [
                      "conference",
                      "live",
@@ -45222,13 +45659,14 @@ const talks = [
         duration: 3799,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2306,
+          number: 2312,
       identifier: "#cppcon-2020-0106",
          meeting: "cppcon",
          edition: "2020",
@@ -45257,12 +45695,13 @@ const talks = [
         speakers: [
                      "Arjan van Leeuwen"
                   ],
-           video: "https://youtube.com/watch?v=YprHjwdSLgw",
-       thumbnail: "http://img.youtube.com/vi/YprHjwdSLgw/0.jpg",
-        duration: 2265,
+           video: "https://youtube.com/watch?v=jMpCF0Z623s",
+       thumbnail: "http://img.youtube.com/vi/jMpCF0Z623s/0.jpg",
+        duration: 1069,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -45281,7 +45720,8 @@ const talks = [
         duration: 1221,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -45315,12 +45755,13 @@ const talks = [
         speakers: [
                      "Wojciech Basalaj"
                   ],
-           video: "https://youtube.com/watch?v=IEEhzQoKtQU",
-       thumbnail: "http://img.youtube.com/vi/IEEhzQoKtQU/0.jpg",
-        duration: 2165,
+           video: "https://youtube.com/watch?v=dcSsjxhazu0",
+       thumbnail: "http://img.youtube.com/vi/dcSsjxhazu0/0.jpg",
+        duration: 4075,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -45339,7 +45780,8 @@ const talks = [
         duration: 3663,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -45358,13 +45800,14 @@ const talks = [
         duration: 4327,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2299,
+          number: 2305,
       identifier: "#cppcon-2020-0099",
          meeting: "cppcon",
          edition: "2020",
@@ -45385,7 +45828,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2589,
+          number: 2595,
       identifier: "#meeting-c++-2018-0049",
          meeting: "meeting c++",
          edition: "2018",
@@ -45419,7 +45862,8 @@ const talks = [
         duration: 3875,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -45458,13 +45902,14 @@ const talks = [
         duration: 3502,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2133,
+          number: 2139,
       identifier: "#cppcon-2019-0151",
          meeting: "cppcon",
          edition: "2019",
@@ -45485,7 +45930,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2097,
+          number: 2103,
       identifier: "#cppcon-2019-0115",
          meeting: "cppcon",
          edition: "2019",
@@ -45506,7 +45951,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2639,
+          number: 2645,
       identifier: "#meeting-c++-2019-0037",
          meeting: "meeting c++",
          edition: "2019",
@@ -45527,7 +45972,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2678,
+          number: 2684,
       identifier: "#meeting-embedded-2018-0007",
          meeting: "meeting embedded",
          edition: "2018",
@@ -45541,7 +45986,7 @@ const talks = [
             tags: [
                      "conference",
                      "embedded",
-                     "online",
+                     "live",
                      "talk"
                   ],
            level: 0,
@@ -45568,7 +46013,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2301,
+          number: 2307,
       identifier: "#cppcon-2020-0101",
          meeting: "cppcon",
          edition: "2020",
@@ -45589,7 +46034,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2116,
+          number: 2122,
       identifier: "#cppcon-2019-0134",
          meeting: "cppcon",
          edition: "2019",
@@ -45623,13 +46068,14 @@ const talks = [
         duration: 5011,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2451,
+          number: 2457,
       identifier: "#meeting-c++-2016-0030",
          meeting: "meeting c++",
          edition: "2016",
@@ -45650,7 +46096,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2441,
+          number: 2447,
       identifier: "#meeting-c++-2016-0020",
          meeting: "meeting c++",
          edition: "2016",
@@ -45671,7 +46117,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2345,
+          number: 2351,
       identifier: "#it-cpp-con-2021-0009",
          meeting: "it cpp con",
          edition: "2021",
@@ -45712,7 +46158,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2569,
+          number: 2575,
       identifier: "#meeting-c++-2018-0029",
          meeting: "meeting c++",
          edition: "2018",
@@ -45747,17 +46193,18 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 875,
+          number: 876,
       identifier: "#c++now-2021-0005",
          meeting: "c++now",
          edition: "2021",
-           title: "How to: Colony ",
+           title: "How to: Colony",
         speakers: [
                      "Matthew Bentley"
                   ],
@@ -45774,7 +46221,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2294,
+          number: 2300,
       identifier: "#cppcon-2020-0094",
          meeting: "cppcon",
          edition: "2020",
@@ -45828,13 +46275,14 @@ const talks = [
         duration: 4588,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2603,
+          number: 2609,
       identifier: "#meeting-c++-2018-0063",
          meeting: "meeting c++",
          edition: "2018",
@@ -45869,13 +46317,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "online"
+                     "online",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2644,
+          number: 2650,
       identifier: "#meeting-c++-2019-0042",
          meeting: "meeting c++",
          edition: "2019",
@@ -45909,13 +46358,14 @@ const talks = [
         duration: 4267,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2180,
+          number: 2186,
       identifier: "#cppcon-2019-0198",
          meeting: "cppcon",
          edition: "2019",
@@ -45936,7 +46386,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2155,
+          number: 2161,
       identifier: "#cppcon-2019-0173",
          meeting: "cppcon",
          edition: "2019",
@@ -45957,7 +46407,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2314,
+          number: 2320,
       identifier: "#cppp-2019-0006",
          meeting: "cppp",
          edition: "2019",
@@ -45978,7 +46428,28 @@ const talks = [
         language: "english"
    },
    {
-          number: 2305,
+          number: 728,
+      identifier: "#c++now-2018-0014",
+         meeting: "c++now",
+         edition: "2018",
+           title: "If I Had My 'Druthers: A Proposal for Improving the Containers in C++2x",
+        speakers: [
+                     "Bob Steagall"
+                  ],
+           video: "https://youtube.com/watch?v=bAE0qteS4Rk",
+       thumbnail: "http://img.youtube.com/vi/bAE0qteS4Rk/0.jpg",
+        duration: 4243,
+            tags: [
+                     "c++",
+                     "conference",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "english"
+   },
+   {
+          number: 2311,
       identifier: "#cppcon-2020-0105",
          meeting: "cppcon",
          edition: "2020",
@@ -46012,13 +46483,14 @@ const talks = [
         duration: 1003,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2455,
+          number: 2461,
       identifier: "#meeting-c++-2016-0034",
          meeting: "meeting c++",
          edition: "2016",
@@ -46039,7 +46511,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2456,
+          number: 2462,
       identifier: "#meeting-c++-2016-0035",
          meeting: "meeting c++",
          edition: "2016",
@@ -46060,7 +46532,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2454,
+          number: 2460,
       identifier: "#meeting-c++-2016-0033",
          meeting: "meeting c++",
          edition: "2016",
@@ -46094,7 +46566,8 @@ const talks = [
         duration: 5458,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -46120,7 +46593,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2489,
+          number: 2494,
       identifier: "#meeting-c++-2017-0014",
          meeting: "meeting c++",
          edition: "2017",
@@ -46175,7 +46648,8 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "online"
+                     "online",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -46201,7 +46675,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1588,
+          number: 1594,
       identifier: "#cppcon-2016-0133",
          meeting: "cppcon",
          edition: "2016",
@@ -46222,7 +46696,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1447,
+          number: 1453,
       identifier: "#cppcon-2015-0134",
          meeting: "cppcon",
          edition: "2015",
@@ -46257,7 +46731,8 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -46277,13 +46752,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2554,
+          number: 2560,
       identifier: "#meeting-c++-2018-0014",
          meeting: "meeting c++",
          edition: "2018",
@@ -46304,7 +46780,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2341,
+          number: 2347,
       identifier: "#it-cpp-con-2021-0004",
          meeting: "it cpp con",
          edition: "2021",
@@ -46325,7 +46801,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2405,
+          number: 2411,
       identifier: "#meeting-c++-2015-0021",
          meeting: "meeting c++",
          edition: "2015",
@@ -46354,12 +46830,13 @@ const talks = [
         speakers: [
                      "Ulrich Drepper"
                   ],
-           video: "https://youtube.com/watch?v=LXfSXzxDY_M",
-       thumbnail: "http://img.youtube.com/vi/LXfSXzxDY_M/0.jpg",
-        duration: 3995,
+           video: "https://youtube.com/watch?v=XoPoPdVo0A0",
+       thumbnail: "http://img.youtube.com/vi/XoPoPdVo0A0/0.jpg",
+        duration: 426,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -46378,17 +46855,18 @@ const talks = [
         duration: 4804,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 904,
+          number: 905,
       identifier: "#c++now-2021-0034",
          meeting: "c++now",
          edition: "2021",
-           title: "Interactive C++ in a Jupyter Notebook Using Modules for Incremental Compilation ",
+           title: "Interactive C++ in a Jupyter Notebook Using Modules for Incremental Compilation",
         speakers: [
                      "Steven R. Brandt"
                   ],
@@ -46405,7 +46883,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2376,
+          number: 2382,
       identifier: "#meeting-c++-2014-0019",
          meeting: "meeting c++",
          edition: "2014",
@@ -46460,7 +46938,8 @@ const talks = [
         duration: 2636,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -46487,7 +46966,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2323,
+          number: 2329,
       identifier: "#c++-day-2020-0007",
          meeting: "c++ day",
          edition: "2020",
@@ -46503,14 +46982,13 @@ const talks = [
                      "c++",
                      "conference",
                      "online",
-                     "talk",
                      "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2334,
+          number: 2340,
       identifier: "#it-cpp-con-2020-0007",
          meeting: "it cpp con",
          edition: "2020",
@@ -46572,7 +47050,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1457,
+          number: 1463,
       identifier: "#cppcon-2015-0144",
          meeting: "cppcon",
          edition: "2015",
@@ -46594,7 +47072,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2280,
+          number: 2286,
       identifier: "#cppcon-2020-0080",
          meeting: "cppcon",
          edition: "2020",
@@ -46649,7 +47127,8 @@ const talks = [
         duration: 3125,
             tags: [
                      "conference",
-                     "online"
+                     "online",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -46683,9 +47162,9 @@ const talks = [
         speakers: [
                      "Mike Shah"
                   ],
-           video: "https://youtube.com/watch?v=IGtKstxNe14",
-       thumbnail: "http://img.youtube.com/vi/IGtKstxNe14/0.jpg",
-        duration: 5106,
+           video: "https://youtube.com/watch?v=C6EWVBNCxsc",
+       thumbnail: "http://img.youtube.com/vi/C6EWVBNCxsc/0.jpg",
+        duration: 4661,
             tags: [
                      "conference",
                      "live",
@@ -46708,7 +47187,8 @@ const talks = [
         duration: 1866,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -46734,7 +47214,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2481,
+          number: 2486,
       identifier: "#meeting-c++-2017-0006",
          meeting: "meeting c++",
          edition: "2017",
@@ -46776,7 +47256,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1319,
+          number: 1325,
       identifier: "#cppcon-2014-0127",
          meeting: "cppcon",
          edition: "2014",
@@ -46797,7 +47277,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2591,
+          number: 2597,
       identifier: "#meeting-c++-2018-0051",
          meeting: "meeting c++",
          edition: "2018",
@@ -46826,18 +47306,19 @@ const talks = [
         speakers: [
                      "Maciej Mazur"
                   ],
-           video: "https://youtube.com/watch?v=Tpj565SRNiA",
-       thumbnail: "http://img.youtube.com/vi/Tpj565SRNiA/0.jpg",
-        duration: 1405,
+           video: "https://youtube.com/watch?v=r_gUNHZYjys",
+       thumbnail: "http://img.youtube.com/vi/r_gUNHZYjys/0.jpg",
+        duration: 1134,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2532,
+          number: 2537,
       identifier: "#meeting-c++-2017-0057",
          meeting: "meeting c++",
          edition: "2017",
@@ -46858,7 +47339,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2494,
+          number: 2499,
       identifier: "#meeting-c++-2017-0019",
          meeting: "meeting c++",
          edition: "2017",
@@ -46879,7 +47360,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2529,
+          number: 2534,
       identifier: "#meeting-c++-2017-0054",
          meeting: "meeting c++",
          edition: "2017",
@@ -46913,13 +47394,14 @@ const talks = [
         duration: 3645,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2177,
+          number: 2183,
       identifier: "#cppcon-2019-0195",
          meeting: "cppcon",
          edition: "2019",
@@ -46948,12 +47430,13 @@ const talks = [
         speakers: [
                      "Slawomir Zborowski"
                   ],
-           video: "https://youtube.com/watch?v=VOPDO_wTpXg",
-       thumbnail: "http://img.youtube.com/vi/VOPDO_wTpXg/0.jpg",
-        duration: 3079,
+           video: "https://youtube.com/watch?v=YKHa3EJGhJM",
+       thumbnail: "http://img.youtube.com/vi/YKHa3EJGhJM/0.jpg",
+        duration: 3509,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -46972,7 +47455,8 @@ const talks = [
         duration: 6096,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -46991,17 +47475,18 @@ const talks = [
         duration: 5034,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 885,
+          number: 886,
       identifier: "#c++now-2021-0015",
          meeting: "c++now",
          edition: "2021",
-           title: "Iterators and Ranges: Comparing C++ to D to Rust ",
+           title: "Iterators and Ranges: Comparing C++ to D to Rust",
         speakers: [
                      "Barry Revzin"
                   ],
@@ -47031,7 +47516,8 @@ const talks = [
         duration: 761,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -47050,7 +47536,8 @@ const talks = [
         duration: 768,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -47062,20 +47549,21 @@ const talks = [
          edition: "2019",
            title: "JSR-385: Learning from the 125 Million Dollar Mars Climate Orbiter Mistake",
         speakers: [
-                     "Filip van laenen"
+                     "Filip van Laenen"
                   ],
            video: "https://youtube.com/watch?v=QJ5LVsxLrZs",
        thumbnail: "http://img.youtube.com/vi/QJ5LVsxLrZs/0.jpg",
         duration: 3799,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2220,
+          number: 2230,
       identifier: "#cppcon-2020-0019",
          meeting: "cppcon",
          edition: "2020",
@@ -47096,7 +47584,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2240,
+          number: 2249,
       identifier: "#cppcon-2020-0040",
          meeting: "cppcon",
          edition: "2020",
@@ -47118,7 +47606,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2162,
+          number: 2168,
       identifier: "#cppcon-2019-0180",
          meeting: "cppcon",
          edition: "2019",
@@ -47173,7 +47661,8 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "online"
+                     "online",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -47193,7 +47682,8 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "online"
+                     "online",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -47213,7 +47703,8 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "online"
+                     "online",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -47233,7 +47724,8 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -47253,13 +47745,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1453,
+          number: 1459,
       identifier: "#cppcon-2015-0140",
          meeting: "cppcon",
          edition: "2015",
@@ -47288,9 +47781,9 @@ const talks = [
         speakers: [
                      "Jason McGuiness"
                   ],
-           video: "https://youtube.com/watch?v=F9kpsfQIMUU",
-       thumbnail: "http://img.youtube.com/vi/F9kpsfQIMUU/0.jpg",
-        duration: 3453,
+           video: "https://youtube.com/watch?v=SEmElN2h7Co",
+       thumbnail: "http://img.youtube.com/vi/SEmElN2h7Co/0.jpg",
+        duration: 206,
             tags: [
                      "conference",
                      "live",
@@ -47313,13 +47806,14 @@ const talks = [
         duration: 3147,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2273,
+          number: 2281,
       identifier: "#cppcon-2020-0073",
          meeting: "cppcon",
          edition: "2020",
@@ -47354,13 +47848,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "online"
+                     "online",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2664,
+          number: 2670,
       identifier: "#meeting-c++-2020-0007",
          meeting: "meeting c++",
          edition: "2020",
@@ -47381,7 +47876,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2149,
+          number: 2155,
       identifier: "#cppcon-2019-0167",
          meeting: "cppcon",
          edition: "2019",
@@ -47402,7 +47897,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2122,
+          number: 2128,
       identifier: "#cppcon-2019-0140",
          meeting: "cppcon",
          edition: "2019",
@@ -47424,7 +47919,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1610,
+          number: 1617,
       identifier: "#cppcon-2017-0009",
          meeting: "cppcon",
          edition: "2017",
@@ -47446,7 +47941,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2447,
+          number: 2453,
       identifier: "#meeting-c++-2016-0026",
          meeting: "meeting c++",
          edition: "2016",
@@ -47501,13 +47996,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2437,
+          number: 2443,
       identifier: "#meeting-c++-2016-0016",
          meeting: "meeting c++",
          edition: "2016",
@@ -47541,13 +48037,14 @@ const talks = [
         duration: 5482,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2160,
+          number: 2166,
       identifier: "#cppcon-2019-0178",
          meeting: "cppcon",
          edition: "2019",
@@ -47588,7 +48085,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1322,
+          number: 1328,
       identifier: "#cppcon-2014-0130",
          meeting: "cppcon",
          edition: "2014",
@@ -47609,7 +48106,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2141,
+          number: 2147,
       identifier: "#cppcon-2019-0159",
          meeting: "cppcon",
          edition: "2019",
@@ -47630,7 +48127,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2318,
+          number: 2324,
       identifier: "#c++-day-2020-0002",
          meeting: "c++ day",
          edition: "2020",
@@ -47645,14 +48142,13 @@ const talks = [
                      "c++",
                      "conference",
                      "online",
-                     "talk",
                      "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2330,
+          number: 2336,
       identifier: "#it-cpp-con-2020-0002",
          meeting: "it cpp con",
          edition: "2020",
@@ -47693,11 +48189,11 @@ const talks = [
         language: "english"
    },
    {
-          number: 917,
+          number: 918,
       identifier: "#c++now-2021-0047",
          meeting: "c++now",
          edition: "2021",
-           title: "Library Approaches for Strong Type Aliases ",
+           title: "Library Approaches for Strong Type Aliases",
         speakers: [
                      "Anthony Williams"
                   ],
@@ -47714,7 +48210,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2197,
+          number: 2203,
       identifier: "#cppcon-2019-0215",
          meeting: "cppcon",
          edition: "2019",
@@ -47735,7 +48231,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2598,
+          number: 2604,
       identifier: "#meeting-c++-2018-0058",
          meeting: "meeting c++",
          edition: "2018",
@@ -47756,7 +48252,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1575,
+          number: 1581,
       identifier: "#cppcon-2016-0120",
          meeting: "cppcon",
          edition: "2016",
@@ -47790,7 +48286,8 @@ const talks = [
         duration: 5145,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -47810,7 +48307,8 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "online"
+                     "online",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -47824,9 +48322,9 @@ const talks = [
         speakers: [
                      "Michal Sajdak"
                   ],
-           video: "https://youtube.com/watch?v=gMwciWchH3Q",
-       thumbnail: "http://img.youtube.com/vi/gMwciWchH3Q/0.jpg",
-        duration: 2692,
+           video: "https://youtube.com/watch?v=kDMP7Eawo-g",
+       thumbnail: "http://img.youtube.com/vi/kDMP7Eawo-g/0.jpg",
+        duration: 2673,
             tags: [
                      "conference",
                      "live",
@@ -47857,7 +48355,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2487,
+          number: 2492,
       identifier: "#meeting-c++-2017-0012",
          meeting: "meeting c++",
          edition: "2017",
@@ -47918,7 +48416,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2486,
+          number: 2491,
       identifier: "#meeting-c++-2017-0011",
          meeting: "meeting c++",
          edition: "2017",
@@ -47959,7 +48457,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2651,
+          number: 2657,
       identifier: "#meeting-c++-2019-0049",
          meeting: "meeting c++",
          edition: "2019",
@@ -47995,7 +48493,8 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -48014,7 +48513,8 @@ const talks = [
         duration: 1165,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -48033,7 +48533,8 @@ const talks = [
         duration: 4330,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -48052,7 +48553,8 @@ const talks = [
         duration: 3545,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -48071,7 +48573,8 @@ const talks = [
         duration: 3198,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -48098,7 +48601,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2296,
+          number: 2302,
       identifier: "#cppcon-2020-0096",
          meeting: "cppcon",
          edition: "2020",
@@ -48119,7 +48622,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2156,
+          number: 2162,
       identifier: "#cppcon-2019-0174",
          meeting: "cppcon",
          edition: "2019",
@@ -48140,7 +48643,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1870,
+          number: 1876,
       identifier: "#cppcon-2018-0076",
          meeting: "cppcon",
          edition: "2018",
@@ -48194,7 +48697,8 @@ const talks = [
         duration: 4708,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -48213,7 +48717,8 @@ const talks = [
         duration: 4559,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -48232,13 +48737,14 @@ const talks = [
         duration: 3173,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2253,
+          number: 2262,
       identifier: "#cppcon-2020-0053",
          meeting: "cppcon",
          edition: "2020",
@@ -48259,7 +48765,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2213,
+          number: 2223,
       identifier: "#cppcon-2020-0012",
          meeting: "cppcon",
          edition: "2020",
@@ -48280,7 +48786,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2198,
+          number: 2204,
       identifier: "#cppcon-2019-0216",
          meeting: "cppcon",
          edition: "2019",
@@ -48301,7 +48807,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2263,
+          number: 2271,
       identifier: "#cppcon-2020-0063",
          meeting: "cppcon",
          edition: "2020",
@@ -48342,7 +48848,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2675,
+          number: 2681,
       identifier: "#meeting-embedded-2018-0004",
          meeting: "meeting embedded",
          edition: "2018",
@@ -48356,27 +48862,6 @@ const talks = [
             tags: [
                      "conference",
                      "embedded",
-                     "online",
-                     "talk"
-                  ],
-           level: 0,
-        language: "english"
-   },
-   {
-          number: 1411,
-      identifier: "#cppcon-2015-0078",
-         meeting: "cppcon",
-         edition: "2015",
-           title: "Marshall Clow : Type Traits - what are they and why should I use them?",
-        speakers: [
-                     "CppCon 2015"
-                  ],
-           video: "https://youtube.com/watch?v=VvbTP_k_Df4",
-       thumbnail: "http://img.youtube.com/vi/VvbTP_k_Df4/0.jpg",
-        duration: 3386,
-            tags: [
-                     "c++",
-                     "conference",
                      "live",
                      "talk"
                   ],
@@ -48404,7 +48889,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2393,
+          number: 2399,
       identifier: "#meeting-c++-2015-0009",
          meeting: "meeting c++",
          edition: "2015",
@@ -48425,7 +48910,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2407,
+          number: 2413,
       identifier: "#meeting-c++-2015-0023",
          meeting: "meeting c++",
          edition: "2015",
@@ -48446,7 +48931,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2094,
+          number: 2100,
       identifier: "#cppcon-2019-0112",
          meeting: "cppcon",
          edition: "2019",
@@ -48467,7 +48952,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2658,
+          number: 2664,
       identifier: "#meeting-c++-2020-0001",
          meeting: "meeting c++",
          edition: "2020",
@@ -48508,7 +48993,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2388,
+          number: 2394,
       identifier: "#meeting-c++-2015-0004",
          meeting: "meeting c++",
          edition: "2015",
@@ -48529,7 +49014,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2092,
+          number: 2098,
       identifier: "#cppcon-2019-0110",
          meeting: "cppcon",
          edition: "2019",
@@ -48603,7 +49088,8 @@ const talks = [
         duration: 4850,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -48622,7 +49108,8 @@ const talks = [
         duration: 4686,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -48641,7 +49128,8 @@ const talks = [
         duration: 2907,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -48667,7 +49155,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2151,
+          number: 2157,
       identifier: "#cppcon-2019-0169",
          meeting: "cppcon",
          edition: "2019",
@@ -48701,7 +49189,8 @@ const talks = [
         duration: 933,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -48715,18 +49204,19 @@ const talks = [
         speakers: [
                      "Kamil Szatkowski"
                   ],
-           video: "https://youtube.com/watch?v=Bb5SvP0t3OY",
-       thumbnail: "http://img.youtube.com/vi/Bb5SvP0t3OY/0.jpg",
-        duration: 933,
+           video: "https://youtube.com/watch?v=wRNO71OpXzU",
+       thumbnail: "http://img.youtube.com/vi/wRNO71OpXzU/0.jpg",
+        duration: 4272,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2252,
+          number: 2261,
       identifier: "#cppcon-2020-0052",
          meeting: "cppcon",
          edition: "2020",
@@ -48755,19 +49245,20 @@ const talks = [
         speakers: [
                      "Nicolai Josuttis"
                   ],
-           video: "https://youtube.com/watch?v=qdSAPQiRBDo",
-       thumbnail: "http://img.youtube.com/vi/qdSAPQiRBDo/0.jpg",
-        duration: 3737,
+           video: "https://youtube.com/watch?v=ULX_VTkMvf8",
+       thumbnail: "http://img.youtube.com/vi/ULX_VTkMvf8/0.jpg",
+        duration: 3641,
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2490,
+          number: 2495,
       identifier: "#meeting-c++-2017-0015",
          meeting: "meeting c++",
          edition: "2017",
@@ -48788,7 +49279,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2483,
+          number: 2488,
       identifier: "#meeting-c++-2017-0008",
          meeting: "meeting c++",
          edition: "2017",
@@ -48822,13 +49313,14 @@ const talks = [
         duration: 4450,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2223,
+          number: 2233,
       identifier: "#cppcon-2020-0022",
          meeting: "cppcon",
          edition: "2020",
@@ -48862,13 +49354,14 @@ const talks = [
         duration: 3394,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2613,
+          number: 2619,
       identifier: "#meeting-c++-2019-0010",
          meeting: "meeting c++",
          edition: "2019",
@@ -48889,7 +49382,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2631,
+          number: 2637,
       identifier: "#meeting-c++-2019-0028",
          meeting: "meeting c++",
          edition: "2019",
@@ -48910,7 +49403,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2632,
+          number: 2638,
       identifier: "#meeting-c++-2019-0030",
          meeting: "meeting c++",
          edition: "2019",
@@ -48931,7 +49424,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2366,
+          number: 2372,
       identifier: "#meeting-c++-2014-0009",
          meeting: "meeting c++",
          edition: "2014",
@@ -49005,13 +49498,14 @@ const talks = [
         duration: 4528,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2254,
+          number: 2263,
       identifier: "#cppcon-2020-0054",
          meeting: "cppcon",
          edition: "2020",
@@ -49045,7 +49539,8 @@ const talks = [
         duration: 5324,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -49064,7 +49559,8 @@ const talks = [
         duration: 5022,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -49083,13 +49579,14 @@ const talks = [
         duration: 5358,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2587,
+          number: 2593,
       identifier: "#meeting-c++-2018-0047",
          meeting: "meeting c++",
          edition: "2018",
@@ -49123,7 +49620,8 @@ const talks = [
         duration: 1240,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -49149,7 +49647,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 472,
+          number: 475,
       identifier: "#c++now-2013-0005",
          meeting: "c++now",
          edition: "2013",
@@ -49157,19 +49655,20 @@ const talks = [
         speakers: [
                      "Rob Stewart"
                   ],
-           video: "https://youtube.com/watch?v=53_kveAvcKM",
-       thumbnail: "http://img.youtube.com/vi/53_kveAvcKM/0.jpg",
-        duration: 4564,
+           video: "https://youtube.com/watch?v=y3qHfOdJNEY",
+       thumbnail: "http://img.youtube.com/vi/y3qHfOdJNEY/0.jpg",
+        duration: 5032,
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2367,
+          number: 2373,
       identifier: "#meeting-c++-2014-0010",
          meeting: "meeting c++",
          edition: "2014",
@@ -49190,7 +49689,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2610,
+          number: 2616,
       identifier: "#meeting-c++-2019-0007",
          meeting: "meeting c++",
          edition: "2019",
@@ -49224,7 +49723,8 @@ const talks = [
         duration: 950,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -49250,7 +49750,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2167,
+          number: 2173,
       identifier: "#cppcon-2019-0185",
          meeting: "cppcon",
          edition: "2019",
@@ -49271,7 +49771,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2161,
+          number: 2167,
       identifier: "#cppcon-2019-0179",
          meeting: "cppcon",
          edition: "2019",
@@ -49326,7 +49826,8 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "online"
+                     "online",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -49345,7 +49846,8 @@ const talks = [
         duration: 4710,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -49364,13 +49866,14 @@ const talks = [
         duration: 3840,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2446,
+          number: 2452,
       identifier: "#meeting-c++-2016-0025",
          meeting: "meeting c++",
          edition: "2016",
@@ -49404,7 +49907,8 @@ const talks = [
         duration: 3558,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -49423,7 +49927,8 @@ const talks = [
         duration: 3140,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -49437,9 +49942,9 @@ const talks = [
         speakers: [
                      "Neil Horlock"
                   ],
-           video: "https://youtube.com/watch?v=qkO1Y0Bh74U",
-       thumbnail: "http://img.youtube.com/vi/qkO1Y0Bh74U/0.jpg",
-        duration: 4824,
+           video: "https://youtube.com/watch?v=pVY0G-uJCBo",
+       thumbnail: "http://img.youtube.com/vi/pVY0G-uJCBo/0.jpg",
+        duration: 226,
             tags: [
                      "conference",
                      "live",
@@ -49449,7 +49954,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2267,
+          number: 2275,
       identifier: "#cppcon-2020-0067",
          meeting: "cppcon",
          edition: "2020",
@@ -49470,7 +49975,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2270,
+          number: 2278,
       identifier: "#cppcon-2020-0070",
          meeting: "cppcon",
          edition: "2020",
@@ -49504,7 +50009,8 @@ const talks = [
         duration: 4369,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -49531,10 +50037,10 @@ const talks = [
    },
    {
           number: 936,
-      identifier: "#c++now-2021-0066",
+      identifier: "#c++now-2021-0065",
          meeting: "c++now",
          edition: "2021",
-           title: "Numerical Differentiation ++ ",
+           title: "Numerical Differentiation ++",
         speakers: [
                      "Ian Bell"
                   ],
@@ -49565,13 +50071,35 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "online"
+                     "online",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2377,
+          number: 2071,
+      identifier: "#cppcon-2019-0083",
+         meeting: "cppcon",
+         edition: "2019",
+           title: "Objects vs Values: Value Oriented Programming in an Object Oriented World",
+        speakers: [
+                     "Tony Van Eerd"
+                  ],
+           video: "https://youtube.com/watch?v=2JGH_SWURrI",
+       thumbnail: "http://img.youtube.com/vi/2JGH_SWURrI/0.jpg",
+        duration: 3741,
+            tags: [
+                     "c++",
+                     "conference",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "english"
+   },
+   {
+          number: 2383,
       identifier: "#meeting-c++-2014-0020",
          meeting: "meeting c++",
          edition: "2014",
@@ -49592,7 +50120,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2192,
+          number: 2198,
       identifier: "#cppcon-2019-0210",
          meeting: "cppcon",
          edition: "2019",
@@ -49613,7 +50141,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1239,
+          number: 1245,
       identifier: "#cppcon-2014-0047",
          meeting: "cppcon",
          edition: "2014",
@@ -49634,27 +50162,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1059,
-      identifier: "#code-dive-2017-0041",
-         meeting: "code dive",
-         edition: "2017",
-           title: "Odin Holmes",
-        speakers: [
-                     "who the f**k is eric? by odin and the nerds"
-                  ],
-           video: "https://youtube.com/watch?v=ZpVPexZHYrQ",
-       thumbnail: "http://img.youtube.com/vi/ZpVPexZHYrQ/0.jpg",
-        duration: 5202,
-            tags: [
-                     "conference",
-                     "live",
-                     "song"
-                  ],
-           level: 0,
-        language: "english"
-   },
-   {
-          number: 2616,
+          number: 2622,
       identifier: "#meeting-c++-2019-0013",
          meeting: "meeting c++",
          edition: "2019",
@@ -49675,11 +50183,32 @@ const talks = [
         language: "english"
    },
    {
+          number: 2478,
+      identifier: "#meeting-c++-2016-0051",
+         meeting: "meeting c++",
+         edition: "2016",
+           title: "On 'simple' Optimizations",
+        speakers: [
+                     "Chandler Carruth"
+                  ],
+           video: "https://youtube.com/watch?v=s4wnuiCwTGU",
+       thumbnail: "http://img.youtube.com/vi/s4wnuiCwTGU/0.jpg",
+        duration: 507,
+            tags: [
+                     "c++",
+                     "conference",
+                     "lightning",
+                     "live"
+                  ],
+           level: 0,
+        language: "english"
+   },
+   {
           number: 929,
-      identifier: "#c++now-2021-0059",
+      identifier: "#c++now-2021-0058",
          meeting: "c++now",
          edition: "2021",
-           title: "One Friend Ain't Enough ",
+           title: "One Friend Ain't Enough",
         speakers: [
                      "Jody Hagins"
                   ],
@@ -49696,7 +50225,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2272,
+          number: 2280,
       identifier: "#cppcon-2020-0072",
          meeting: "cppcon",
          edition: "2020",
@@ -49717,7 +50246,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1541,
+          number: 1547,
       identifier: "#cppcon-2016-0083",
          meeting: "cppcon",
          edition: "2016",
@@ -49751,13 +50280,14 @@ const talks = [
         duration: 5041,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2620,
+          number: 2626,
       identifier: "#meeting-c++-2019-0017",
          meeting: "meeting c++",
          edition: "2019",
@@ -49778,7 +50308,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2552,
+          number: 2558,
       identifier: "#meeting-c++-2018-0012",
          meeting: "meeting c++",
          edition: "2018",
@@ -49799,7 +50329,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1583,
+          number: 1589,
       identifier: "#cppcon-2016-0128",
          meeting: "cppcon",
          edition: "2016",
@@ -49820,7 +50350,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1367,
+          number: 1373,
       identifier: "#cppcon-2015-0034",
          meeting: "cppcon",
          edition: "2015",
@@ -49842,7 +50372,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2186,
+          number: 2192,
       identifier: "#cppcon-2019-0204",
          meeting: "cppcon",
          edition: "2019",
@@ -49863,7 +50393,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2319,
+          number: 2325,
       identifier: "#c++-day-2020-0003",
          meeting: "c++ day",
          edition: "2020",
@@ -49878,14 +50408,13 @@ const talks = [
                      "c++",
                      "conference",
                      "online",
-                     "talk",
                      "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2331,
+          number: 2337,
       identifier: "#it-cpp-con-2020-0003",
          meeting: "it cpp con",
          edition: "2020",
@@ -49906,7 +50435,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2352,
+          number: 2358,
       identifier: "#meetup-modena-2021-0001",
          meeting: "meetup modena",
          edition: "2021",
@@ -49927,7 +50456,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2650,
+          number: 2656,
       identifier: "#meeting-c++-2019-0048",
          meeting: "meeting c++",
          edition: "2019",
@@ -49948,7 +50477,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1869,
+          number: 1875,
       identifier: "#cppcon-2018-0075",
          meeting: "cppcon",
          edition: "2018",
@@ -49982,7 +50511,8 @@ const talks = [
         duration: 5164,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -50008,7 +50538,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2485,
+          number: 2490,
       identifier: "#meeting-c++-2017-0010",
          meeting: "meeting c++",
          edition: "2017",
@@ -50035,24 +50565,25 @@ const talks = [
          edition: "2018",
            title: "Parallel Design Patterns and Stream Parallelism",
         speakers: [
-                     "J. Daniel Garcia"
+                     "J Daniel Garcia"
                   ],
            video: "https://youtube.com/watch?v=o3Mid_t8nbY",
        thumbnail: "http://img.youtube.com/vi/o3Mid_t8nbY/0.jpg",
         duration: 4101,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 900,
+          number: 901,
       identifier: "#c++now-2021-0030",
          meeting: "c++now",
          edition: "2021",
-           title: "Parallelism on Ranges: Should We? ",
+           title: "Parallelism on Ranges: Should We?",
         speakers: [
                      "Giannis Gonidelis"
                   ],
@@ -50089,7 +50620,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2608,
+          number: 2614,
       identifier: "#meeting-c++-2019-0005",
          meeting: "meeting c++",
          edition: "2019",
@@ -50110,7 +50641,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2563,
+          number: 2569,
       identifier: "#meeting-c++-2018-0023",
          meeting: "meeting c++",
          edition: "2018",
@@ -50132,7 +50663,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2257,
+          number: 2266,
       identifier: "#cppcon-2020-0057",
          meeting: "cppcon",
          edition: "2020",
@@ -50153,7 +50684,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2360,
+          number: 2366,
       identifier: "#meeting-c++-2014-0002",
          meeting: "meeting c++",
          edition: "2014",
@@ -50187,13 +50718,14 @@ const talks = [
         duration: 5497,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2256,
+          number: 2265,
       identifier: "#cppcon-2020-0056",
          meeting: "cppcon",
          edition: "2020",
@@ -50214,7 +50746,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2242,
+          number: 2251,
       identifier: "#cppcon-2020-0042",
          meeting: "cppcon",
          edition: "2020",
@@ -50235,7 +50767,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2214,
+          number: 2224,
       identifier: "#cppcon-2020-0013",
          meeting: "cppcon",
          edition: "2020",
@@ -50256,7 +50788,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2346,
+          number: 2352,
       identifier: "#it-cpp-con-2021-0010",
          meeting: "it cpp con",
          edition: "2021",
@@ -50297,7 +50829,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2565,
+          number: 2571,
       identifier: "#meeting-c++-2018-0025",
          meeting: "meeting c++",
          edition: "2018",
@@ -50318,11 +50850,11 @@ const talks = [
         language: "english"
    },
    {
-          number: 889,
+          number: 890,
       identifier: "#c++now-2021-0019",
          meeting: "c++now",
          edition: "2021",
-           title: "Polymorphism A La Carte ",
+           title: "Polymorphism A La Carte",
         speakers: [
                      "Eduardo Madrid",
                      "Phil Nash"
@@ -50360,7 +50892,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1744,
+          number: 1750,
       identifier: "#cppcon-2017-0143",
          meeting: "cppcon",
          edition: "2017",
@@ -50395,13 +50927,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2146,
+          number: 2152,
       identifier: "#cppcon-2019-0164",
          meeting: "cppcon",
          edition: "2019",
@@ -50435,13 +50968,14 @@ const talks = [
         duration: 3618,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2127,
+          number: 2133,
       identifier: "#cppcon-2019-0145",
          meeting: "cppcon",
          edition: "2019",
@@ -50462,7 +50996,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2505,
+          number: 2510,
       identifier: "#meeting-c++-2017-0030",
          meeting: "meeting c++",
          edition: "2017",
@@ -50503,7 +51037,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2511,
+          number: 2516,
       identifier: "#meeting-c++-2017-0036",
          meeting: "meeting c++",
          edition: "2017",
@@ -50524,7 +51058,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2237,
+          number: 2246,
       identifier: "#cppcon-2020-0037",
          meeting: "cppcon",
          edition: "2020",
@@ -50559,17 +51093,18 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 903,
+          number: 904,
       identifier: "#c++now-2021-0033",
          meeting: "c++now",
          edition: "2021",
-           title: "Practical TMP: A C++17 Compile Time Register Machine ",
+           title: "Practical TMP: A C++17 Compile Time Register Machine",
         speakers: [
                      "Daniel Nikpayuk"
                   ],
@@ -50599,17 +51134,18 @@ const talks = [
         duration: 3642,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 891,
+          number: 892,
       identifier: "#c++now-2021-0021",
          meeting: "c++now",
          edition: "2021",
-           title: "Preconditions, Postconditions, Invariants: How They Help Write Robust Programs ",
+           title: "Preconditions, Postconditions, Invariants: How They Help Write Robust Programs",
         speakers: [
                      "Andrzej Krzemienski"
                   ],
@@ -50659,7 +51195,8 @@ const talks = [
         duration: 5011,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -50678,13 +51215,14 @@ const talks = [
         duration: 4082,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2431,
+          number: 2437,
       identifier: "#meeting-c++-2016-0010",
          meeting: "meeting c++",
          edition: "2016",
@@ -50705,7 +51243,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1757,
+          number: 1763,
       identifier: "#cppcon-2017-0156",
          meeting: "cppcon",
          edition: "2017",
@@ -50726,7 +51264,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2574,
+          number: 2580,
       identifier: "#meeting-c++-2018-0034",
          meeting: "meeting c++",
          edition: "2018",
@@ -50780,7 +51318,8 @@ const talks = [
         duration: 4840,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -50800,13 +51339,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1598,
+          number: 1604,
       identifier: "#cppcon-2016-0143",
          meeting: "cppcon",
          edition: "2016",
@@ -50827,7 +51367,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2194,
+          number: 2200,
       identifier: "#cppcon-2019-0212",
          meeting: "cppcon",
          edition: "2019",
@@ -50861,7 +51401,8 @@ const talks = [
         duration: 2198,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -50896,9 +51437,9 @@ const talks = [
                      "Marc Evers",
                      "Willem van den Ende"
                   ],
-           video: "https://youtube.com/watch?v=jvwfDdgg93E",
-       thumbnail: "http://img.youtube.com/vi/jvwfDdgg93E/0.jpg",
-        duration: 1648,
+           video: "https://youtube.com/watch?v=5Jfa5-D7vNw",
+       thumbnail: "http://img.youtube.com/vi/5Jfa5-D7vNw/0.jpg",
+        duration: 2351,
             tags: [
                      "conference",
                      "live",
@@ -50921,13 +51462,14 @@ const talks = [
         duration: 682,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2369,
+          number: 2375,
       identifier: "#meeting-c++-2014-0012",
          meeting: "meeting c++",
          edition: "2014",
@@ -50961,7 +51503,8 @@ const talks = [
         duration: 3702,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -50980,7 +51523,8 @@ const talks = [
         duration: 3626,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -50999,13 +51543,14 @@ const talks = [
         duration: 2900,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2445,
+          number: 2451,
       identifier: "#meeting-c++-2016-0024",
          meeting: "meeting c++",
          edition: "2016",
@@ -51060,13 +51605,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "online"
+                     "online",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2126,
+          number: 2132,
       identifier: "#cppcon-2019-0144",
          meeting: "cppcon",
          edition: "2019",
@@ -51101,13 +51647,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2313,
+          number: 2319,
       identifier: "#cppp-2019-0005",
          meeting: "cppp",
          edition: "2019",
@@ -51128,7 +51675,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2245,
+          number: 2254,
       identifier: "#cppcon-2020-0045",
          meeting: "cppcon",
          edition: "2020",
@@ -51162,13 +51709,14 @@ const talks = [
         duration: 2534,
             tags: [
                      "conference",
-                     "online"
+                     "online",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2648,
+          number: 2654,
       identifier: "#meeting-c++-2019-0046",
          meeting: "meeting c++",
          edition: "2019",
@@ -51189,7 +51737,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2581,
+          number: 2587,
       identifier: "#meeting-c++-2018-0041",
          meeting: "meeting c++",
          edition: "2018",
@@ -51210,7 +51758,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2382,
+          number: 2388,
       identifier: "#meeting-c++-2014-0025",
          meeting: "meeting c++",
          edition: "2014",
@@ -51244,13 +51792,14 @@ const talks = [
         duration: 4380,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2438,
+          number: 2444,
       identifier: "#meeting-c++-2016-0017",
          meeting: "meeting c++",
          edition: "2016",
@@ -51271,7 +51820,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2403,
+          number: 2409,
       identifier: "#meeting-c++-2015-0019",
          meeting: "meeting c++",
          edition: "2015",
@@ -51292,7 +51841,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2157,
+          number: 2163,
       identifier: "#cppcon-2019-0175",
          meeting: "cppcon",
          edition: "2019",
@@ -51313,7 +51862,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2501,
+          number: 2506,
       identifier: "#meeting-c++-2017-0026",
          meeting: "meeting c++",
          edition: "2017",
@@ -51347,13 +51896,14 @@ const talks = [
         duration: 4444,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2499,
+          number: 2504,
       identifier: "#meeting-c++-2017-0024",
          meeting: "meeting c++",
          edition: "2017",
@@ -51374,7 +51924,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2102,
+          number: 2108,
       identifier: "#cppcon-2019-0120",
          meeting: "cppcon",
          edition: "2019",
@@ -51395,14 +51945,14 @@ const talks = [
         language: "english"
    },
    {
-          number: 2630,
+          number: 2636,
       identifier: "#meeting-c++-2019-0027",
          meeting: "meeting c++",
          edition: "2019",
            title: "Real time 101",
         speakers: [
                      "David Rowland",
-                     "Fabian Renn Giles"
+                     "Fabian Renn-Giles"
                   ],
            video: "https://youtube.com/watch?v=ndeN983j_GQ",
        thumbnail: "http://img.youtube.com/vi/ndeN983j_GQ/0.jpg",
@@ -51417,7 +51967,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2287,
+          number: 2293,
       identifier: "#cppcon-2020-0087",
          meeting: "cppcon",
          edition: "2020",
@@ -51438,7 +51988,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1282,
+          number: 1288,
       identifier: "#cppcon-2014-0090",
          meeting: "cppcon",
          edition: "2014",
@@ -51459,7 +52009,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2572,
+          number: 2578,
       identifier: "#meeting-c++-2018-0032",
          meeting: "meeting c++",
          edition: "2018",
@@ -51520,7 +52070,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2439,
+          number: 2445,
       identifier: "#meeting-c++-2016-0018",
          meeting: "meeting c++",
          edition: "2016",
@@ -51541,7 +52091,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2191,
+          number: 2197,
       identifier: "#cppcon-2019-0209",
          meeting: "cppcon",
          edition: "2019",
@@ -51576,7 +52126,8 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "online"
+                     "online",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -51595,7 +52146,8 @@ const talks = [
         duration: 913,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -51614,7 +52166,8 @@ const talks = [
         duration: 3312,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -51633,7 +52186,8 @@ const talks = [
         duration: 3742,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -51652,13 +52206,14 @@ const talks = [
         duration: 4804,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2342,
+          number: 2348,
       identifier: "#it-cpp-con-2021-0005",
          meeting: "it cpp con",
          edition: "2021",
@@ -51688,9 +52243,9 @@ const talks = [
                      "Duncan McGregor",
                      "Nat Pryce"
                   ],
-           video: "https://youtube.com/watch?v=4ZMywor7rsI",
-       thumbnail: "http://img.youtube.com/vi/4ZMywor7rsI/0.jpg",
-        duration: 248,
+           video: "https://youtube.com/watch?v=judIc2-gpzw",
+       thumbnail: "http://img.youtube.com/vi/judIc2-gpzw/0.jpg",
+        duration: 2867,
             tags: [
                      "conference",
                      "live",
@@ -51720,7 +52275,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2508,
+          number: 2513,
       identifier: "#meeting-c++-2017-0033",
          meeting: "meeting c++",
          edition: "2017",
@@ -51741,7 +52296,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2601,
+          number: 2607,
       identifier: "#meeting-c++-2018-0061",
          meeting: "meeting c++",
          edition: "2018",
@@ -51775,13 +52330,14 @@ const talks = [
         duration: 4053,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2547,
+          number: 2553,
       identifier: "#meeting-c++-2018-0007",
          meeting: "meeting c++",
          edition: "2018",
@@ -51835,7 +52391,8 @@ const talks = [
         duration: 2859,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -51874,7 +52431,8 @@ const talks = [
         duration: 2591,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -51894,7 +52452,8 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "online"
+                     "online",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -51913,13 +52472,14 @@ const talks = [
         duration: 3862,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2626,
+          number: 2632,
       identifier: "#meeting-c++-2019-0023",
          meeting: "meeting c++",
          edition: "2019",
@@ -51953,7 +52513,8 @@ const talks = [
         duration: 2883,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -51979,7 +52540,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1970,
+          number: 1976,
       identifier: "#cppcon-2018-0180",
          meeting: "cppcon",
          edition: "2018",
@@ -52013,7 +52574,8 @@ const talks = [
         duration: 3139,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -52032,7 +52594,8 @@ const talks = [
         duration: 5696,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -52051,7 +52614,8 @@ const talks = [
         duration: 5566,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -52071,7 +52635,8 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -52090,13 +52655,14 @@ const talks = [
         duration: 4805,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1767,
+          number: 1773,
       identifier: "#cppcon-2017-0166",
          meeting: "cppcon",
          edition: "2017",
@@ -52130,7 +52696,8 @@ const talks = [
         duration: 5187,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -52149,7 +52716,8 @@ const talks = [
         duration: 4589,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -52168,7 +52736,8 @@ const talks = [
         duration: 2368,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -52187,17 +52756,18 @@ const talks = [
         duration: 1914,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 888,
+          number: 889,
       identifier: "#c++now-2021-0018",
          meeting: "c++now",
          edition: "2021",
-           title: "Semantic Sugar: Tips for Effective Template Library APIs ",
+           title: "Semantic Sugar: Tips for Effective Template Library APIs",
         speakers: [
                      "Roi Barkan"
                   ],
@@ -52228,7 +52798,8 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "online"
+                     "online",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -52274,7 +52845,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1666,
+          number: 1672,
       identifier: "#cppcon-2017-0065",
          meeting: "cppcon",
          edition: "2017",
@@ -52295,7 +52866,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2443,
+          number: 2449,
       identifier: "#meeting-c++-2016-0022",
          meeting: "meeting c++",
          edition: "2016",
@@ -52316,7 +52887,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1974,
+          number: 1980,
       identifier: "#cppcon-2018-0184",
          meeting: "cppcon",
          edition: "2018",
@@ -52350,13 +52921,14 @@ const talks = [
         duration: 3090,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2285,
+          number: 2291,
       identifier: "#cppcon-2020-0085",
          meeting: "cppcon",
          edition: "2020",
@@ -52377,7 +52949,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1774,
+          number: 1780,
       identifier: "#cppcon-2017-0173",
          meeting: "cppcon",
          edition: "2017",
@@ -52398,7 +52970,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1364,
+          number: 1370,
       identifier: "#cppcon-2015-0031",
          meeting: "cppcon",
          edition: "2015",
@@ -52419,11 +52991,11 @@ const talks = [
         language: "english"
    },
    {
-          number: 913,
+          number: 914,
       identifier: "#c++now-2021-0043",
          meeting: "c++now",
          edition: "2021",
-           title: "Simplest Safe Integers ",
+           title: "Simplest Safe Integers",
         speakers: [
                      "Peter Sommerlad"
                   ],
@@ -52440,11 +53012,11 @@ const talks = [
         language: "english"
    },
    {
-          number: 884,
+          number: 885,
       identifier: "#c++now-2021-0014",
          meeting: "c++now",
          edition: "2021",
-           title: "Simplest Strong Typing instead of Language Proposal ( P0109 ) ",
+           title: "Simplest Strong Typing instead of Language Proposal ( P0109 )",
         speakers: [
                      "Peter Sommerlad"
                   ],
@@ -52474,7 +53046,8 @@ const talks = [
         duration: 4935,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -52493,7 +53066,8 @@ const talks = [
         duration: 931,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -52513,7 +53087,8 @@ const talks = [
         duration: 3368,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -52532,7 +53107,8 @@ const talks = [
         duration: 852,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -52551,7 +53127,8 @@ const talks = [
         duration: 3240,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -52570,7 +53147,8 @@ const talks = [
         duration: 2413,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -52584,9 +53162,9 @@ const talks = [
         speakers: [
                      "Dirk Haun"
                   ],
-           video: "https://youtube.com/watch?v=wggWQr8q5NE",
-       thumbnail: "http://img.youtube.com/vi/wggWQr8q5NE/0.jpg",
-        duration: 67,
+           video: "https://youtube.com/watch?v=Vnuccwn1brw",
+       thumbnail: "http://img.youtube.com/vi/Vnuccwn1brw/0.jpg",
+        duration: 19,
             tags: [
                      "conference",
                      "live",
@@ -52596,7 +53174,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1887,
+          number: 1893,
       identifier: "#cppcon-2018-0097",
          meeting: "cppcon",
          edition: "2018",
@@ -52630,7 +53208,8 @@ const talks = [
         duration: 5584,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -52644,9 +53223,9 @@ const talks = [
         speakers: [
                      "Burkhard Kloss"
                   ],
-           video: "https://youtube.com/watch?v=wL5XUq-L6Zg",
-       thumbnail: "http://img.youtube.com/vi/wL5XUq-L6Zg/0.jpg",
-        duration: 838,
+           video: "https://youtube.com/watch?v=wdKW96OHjoE",
+       thumbnail: "http://img.youtube.com/vi/wdKW96OHjoE/0.jpg",
+        duration: 3314,
             tags: [
                      "conference",
                      "live",
@@ -52656,11 +53235,11 @@ const talks = [
         language: "english"
    },
    {
-          number: 883,
+          number: 884,
       identifier: "#c++now-2021-0013",
          meeting: "c++now",
          edition: "2021",
-           title: "So You Think You Know How to Work With Concepts? ",
+           title: "So You Think You Know How to Work With Concepts?",
         speakers: [
                      "Andrzej Krzemienski"
                   ],
@@ -52677,7 +53256,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2354,
+          number: 2360,
       identifier: "#meetup-modena-2021-0003",
          meeting: "meetup modena",
          edition: "2021",
@@ -52698,7 +53277,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2562,
+          number: 2568,
       identifier: "#meeting-c++-2018-0022",
          meeting: "meeting c++",
          edition: "2018",
@@ -52719,7 +53298,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2594,
+          number: 2600,
       identifier: "#meeting-c++-2018-0054",
          meeting: "meeting c++",
          edition: "2018",
@@ -52748,9 +53327,9 @@ const talks = [
         speakers: [
                      "Charles Tolman"
                   ],
-           video: "https://youtube.com/watch?v=dwWLhlSf7Nc",
-       thumbnail: "http://img.youtube.com/vi/dwWLhlSf7Nc/0.jpg",
-        duration: 3068,
+           video: "https://youtube.com/watch?v=kxWFK16pugI",
+       thumbnail: "http://img.youtube.com/vi/kxWFK16pugI/0.jpg",
+        duration: 586,
             tags: [
                      "conference",
                      "live",
@@ -52773,7 +53352,8 @@ const talks = [
         duration: 3310,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -52792,7 +53372,8 @@ const talks = [
         duration: 3484,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -52811,7 +53392,8 @@ const talks = [
         duration: 2656,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -52830,17 +53412,18 @@ const talks = [
         duration: 1135,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 872,
+          number: 873,
       identifier: "#c++now-2021-0002",
          meeting: "c++now",
          edition: "2021",
-           title: "SOLID, Revisited ",
+           title: "SOLID, Revisited",
         speakers: [
                      "Tony Van Eerd"
                   ],
@@ -52857,7 +53440,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2281,
+          number: 2287,
       identifier: "#cppcon-2020-0081",
          meeting: "cppcon",
          edition: "2020",
@@ -52878,7 +53461,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2308,
+          number: 2314,
       identifier: "#cppcon-2020-0108",
          meeting: "cppcon",
          edition: "2020",
@@ -52912,7 +53495,8 @@ const talks = [
         duration: 4865,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -52932,13 +53516,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "online"
+                     "online",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2124,
+          number: 2130,
       identifier: "#cppcon-2019-0142",
          meeting: "cppcon",
          edition: "2019",
@@ -52960,7 +53545,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1760,
+          number: 1766,
       identifier: "#cppcon-2017-0159",
          meeting: "cppcon",
          edition: "2017",
@@ -52994,13 +53579,36 @@ const talks = [
         duration: 2134,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2679,
+          number: 395,
+      identifier: "#c++now-2010-0014",
+         meeting: "c++now",
+         edition: "2010",
+           title: "Spirit: History and Evolution",
+        speakers: [
+                     "Hartmut Kaiser",
+                     "Joel de Guzman"
+                  ],
+           video: "https://youtube.com/watch?v=be87GqijD30",
+       thumbnail: "http://img.youtube.com/vi/be87GqijD30/0.jpg",
+        duration: 4020,
+            tags: [
+                     "c++",
+                     "conference",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "english"
+   },
+   {
+          number: 2685,
       identifier: "#meeting-embedded-2018-0008",
          meeting: "meeting embedded",
          edition: "2018",
@@ -53014,14 +53622,14 @@ const talks = [
             tags: [
                      "conference",
                      "embedded",
-                     "online",
+                     "live",
                      "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2378,
+          number: 2384,
       identifier: "#meeting-c++-2014-0021",
          meeting: "meeting c++",
          edition: "2014",
@@ -53056,7 +53664,8 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "online"
+                     "online",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -53082,7 +53691,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2576,
+          number: 2582,
       identifier: "#meeting-c++-2018-0036",
          meeting: "meeting c++",
          edition: "2018",
@@ -53103,7 +53712,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2093,
+          number: 2099,
       identifier: "#cppcon-2019-0111",
          meeting: "cppcon",
          edition: "2019",
@@ -53124,7 +53733,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1751,
+          number: 1757,
       identifier: "#cppcon-2017-0150",
          meeting: "cppcon",
          edition: "2017",
@@ -53145,7 +53754,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2530,
+          number: 2535,
       identifier: "#meeting-c++-2017-0055",
          meeting: "meeting c++",
          edition: "2017",
@@ -53179,13 +53788,14 @@ const talks = [
         duration: 3634,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2557,
+          number: 2563,
       identifier: "#meeting-c++-2018-0017",
          meeting: "meeting c++",
          edition: "2018",
@@ -53206,7 +53816,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2182,
+          number: 2188,
       identifier: "#cppcon-2019-0200",
          meeting: "cppcon",
          edition: "2019",
@@ -53227,7 +53837,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2528,
+          number: 2533,
       identifier: "#meeting-c++-2017-0053",
          meeting: "meeting c++",
          edition: "2017",
@@ -53248,7 +53858,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2479,
+          number: 2484,
       identifier: "#meeting-c++-2017-0004",
          meeting: "meeting c++",
          edition: "2017",
@@ -53282,17 +53892,18 @@ const talks = [
         duration: 4598,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
           number: 932,
-      identifier: "#c++now-2021-0062",
+      identifier: "#c++now-2021-0061",
          meeting: "c++now",
          edition: "2021",
-           title: "Stdfwd - Forward Declarations for C++ Standard Library ",
+           title: "Stdfwd - Forward Declarations for C++ Standard Library",
         speakers: [
                      "Oleh Fedorenko"
                   ],
@@ -53329,11 +53940,11 @@ const talks = [
         language: "english"
    },
    {
-          number: 916,
+          number: 917,
       identifier: "#c++now-2021-0046",
          meeting: "c++now",
          edition: "2021",
-           title: "STL Algorithms as Expressions ",
+           title: "STL Algorithms as Expressions",
         speakers: [
                      "Oleksandr Bacherikov"
                   ],
@@ -53363,13 +53974,14 @@ const talks = [
         duration: 2639,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2497,
+          number: 2502,
       identifier: "#meeting-c++-2017-0022",
          meeting: "meeting c++",
          edition: "2017",
@@ -53410,7 +54022,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2492,
+          number: 2497,
       identifier: "#meeting-c++-2017-0017",
          meeting: "meeting c++",
          edition: "2017",
@@ -53445,13 +54057,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2271,
+          number: 2279,
       identifier: "#cppcon-2020-0071",
          meeting: "cppcon",
          edition: "2020",
@@ -53472,7 +54085,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2559,
+          number: 2565,
       identifier: "#meeting-c++-2018-0019",
          meeting: "meeting c++",
          edition: "2018",
@@ -53493,7 +54106,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2526,
+          number: 2531,
       identifier: "#meeting-c++-2017-0051",
          meeting: "meeting c++",
          edition: "2017",
@@ -53528,13 +54141,14 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "online"
+                     "online",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2100,
+          number: 2106,
       identifier: "#cppcon-2019-0118",
          meeting: "cppcon",
          edition: "2019",
@@ -53575,7 +54189,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1456,
+          number: 1462,
       identifier: "#cppcon-2015-0143",
          meeting: "cppcon",
          edition: "2015",
@@ -53609,17 +54223,18 @@ const talks = [
         duration: 4372,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 905,
+          number: 906,
       identifier: "#c++now-2021-0035",
          meeting: "c++now",
          edition: "2021",
-           title: "Surveying the C++ Community ",
+           title: "Surveying the C++ Community",
         speakers: [
                      "Jens Weller"
                   ],
@@ -53637,10 +54252,10 @@ const talks = [
    },
    {
           number: 921,
-      identifier: "#c++now-2021-0051",
+      identifier: "#c++now-2021-0050",
          meeting: "c++now",
          edition: "2021",
-           title: "Surveying the Community - What Could Possibly Go Wrong ",
+           title: "Surveying the Community - What Could Possibly Go Wrong",
         speakers: [
                      "Anastasia Kazakova"
                   ],
@@ -53670,7 +54285,8 @@ const talks = [
         duration: 3207,
             tags: [
                      "conference",
-                     "online"
+                     "online",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -53689,7 +54305,8 @@ const talks = [
         duration: 3687,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -53715,7 +54332,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2453,
+          number: 2459,
       identifier: "#meeting-c++-2016-0032",
          meeting: "meeting c++",
          edition: "2016",
@@ -53749,7 +54366,8 @@ const talks = [
         duration: 943,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -53775,11 +54393,11 @@ const talks = [
         language: "english"
    },
    {
-          number: 909,
+          number: 910,
       identifier: "#c++now-2021-0039",
          meeting: "c++now",
          edition: "2021",
-           title: "Taking Template Classes Further with Opaque Types & Generic NTTPs ",
+           title: "Taking Template Classes Further with Opaque Types & Generic NTTPs",
         speakers: [
                      "Joel Falcou",
                      "Vincent Reverdy"
@@ -53810,13 +54428,14 @@ const talks = [
         duration: 1154,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2544,
+          number: 2550,
       identifier: "#meeting-c++-2018-0004",
          meeting: "meeting c++",
          edition: "2018",
@@ -53850,7 +54469,8 @@ const talks = [
         duration: 5106,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -53869,13 +54489,14 @@ const talks = [
         duration: 3900,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2411,
+          number: 2417,
       identifier: "#meeting-c++-2015-0027",
          meeting: "meeting c++",
          edition: "2015",
@@ -53910,19 +54531,20 @@ const talks = [
         duration: 3644,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 910,
+          number: 911,
       identifier: "#c++now-2021-0040",
          meeting: "c++now",
          edition: "2021",
-           title: "Taskflow: A Heterogeneous Task Graph Programming System with Control Flow - Tsung",
+           title: "Taskflow: A Heterogeneous Task Graph Programming System with Control Flow",
         speakers: [
-                     "Wei Huang"
+                     "Tsung-Wei Huang"
                   ],
            video: "https://youtube.com/watch?v=4XhH0XN0zQQ",
        thumbnail: "http://img.youtube.com/vi/4XhH0XN0zQQ/0.jpg",
@@ -53937,7 +54559,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2268,
+          number: 2276,
       identifier: "#cppcon-2020-0068",
          meeting: "cppcon",
          edition: "2020",
@@ -53958,7 +54580,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2324,
+          number: 2330,
       identifier: "#c++-day-2020-0008",
          meeting: "c++ day",
          edition: "2020",
@@ -53973,14 +54595,13 @@ const talks = [
                      "c++",
                      "conference",
                      "online",
-                     "talk",
                      "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2335,
+          number: 2341,
       identifier: "#it-cpp-con-2020-0008",
          meeting: "it cpp con",
          edition: "2020",
@@ -54015,7 +54636,8 @@ const talks = [
         duration: 3368,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -54041,7 +54663,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2582,
+          number: 2588,
       identifier: "#meeting-c++-2018-0042",
          meeting: "meeting c++",
          edition: "2018",
@@ -54049,9 +54671,9 @@ const talks = [
         speakers: [
                      "Tony Wasserka"
                   ],
-           video: "https://youtube.com/watch?v=b__c8RNy85M",
-       thumbnail: "http://img.youtube.com/vi/b__c8RNy85M/0.jpg",
-        duration: 3618,
+           video: "https://youtube.com/watch?v=-dtWIY3UMQM",
+       thumbnail: "http://img.youtube.com/vi/-dtWIY3UMQM/0.jpg",
+        duration: 1915,
             tags: [
                      "c++",
                      "conference",
@@ -54076,7 +54698,8 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -54102,11 +54725,11 @@ const talks = [
         language: "english"
    },
    {
-          number: 887,
+          number: 888,
       identifier: "#c++now-2021-0017",
          meeting: "c++now",
          edition: "2021",
-           title: "Techniques for Overloading any_invocable ",
+           title: "Techniques for Overloading any_invocable",
         speakers: [
                      "Filipp Gelman"
                   ],
@@ -54123,7 +54746,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2150,
+          number: 2156,
       identifier: "#cppcon-2019-0168",
          meeting: "cppcon",
          edition: "2019",
@@ -54144,7 +54767,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2399,
+          number: 2405,
       identifier: "#meeting-c++-2015-0015",
          meeting: "meeting c++",
          edition: "2015",
@@ -54165,7 +54788,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2204,
+          number: 2214,
       identifier: "#cppcon-2020-0003",
          meeting: "cppcon",
          edition: "2020",
@@ -54186,7 +54809,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2205,
+          number: 2215,
       identifier: "#cppcon-2020-0004",
          meeting: "cppcon",
          edition: "2020",
@@ -54207,7 +54830,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1967,
+          number: 1973,
       identifier: "#cppcon-2018-0177",
          meeting: "cppcon",
          edition: "2018",
@@ -54228,7 +54851,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2357,
+          number: 2363,
       identifier: "#meetup-modena-2021-0005",
          meeting: "meetup modena",
          edition: "2021",
@@ -54249,7 +54872,7 @@ const talks = [
         language: "italian"
    },
    {
-          number: 2215,
+          number: 2225,
       identifier: "#cppcon-2020-0014",
          meeting: "cppcon",
          edition: "2020",
@@ -54290,7 +54913,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2090,
+          number: 2096,
       identifier: "#cppcon-2019-0108",
          meeting: "cppcon",
          edition: "2019",
@@ -54332,7 +54955,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2372,
+          number: 2378,
       identifier: "#meeting-c++-2014-0015",
          meeting: "meeting c++",
          edition: "2014",
@@ -54353,7 +54976,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2178,
+          number: 2184,
       identifier: "#cppcon-2019-0196",
          meeting: "cppcon",
          edition: "2019",
@@ -54374,7 +54997,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1771,
+          number: 1777,
       identifier: "#cppcon-2017-0170",
          meeting: "cppcon",
          edition: "2017",
@@ -54408,13 +55031,14 @@ const talks = [
         duration: 3062,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2309,
+          number: 2315,
       identifier: "#cppp-2019-0001",
          meeting: "cppp",
          edition: "2019",
@@ -54435,7 +55059,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2627,
+          number: 2633,
       identifier: "#meeting-c++-2019-0024",
          meeting: "meeting c++",
          edition: "2019",
@@ -54464,9 +55088,9 @@ const talks = [
         speakers: [
                      "Felix Petriconi"
                   ],
-           video: "https://youtube.com/watch?v=asgO4P2fhTw",
-       thumbnail: "http://img.youtube.com/vi/asgO4P2fhTw/0.jpg",
-        duration: 3800,
+           video: "https://youtube.com/watch?v=L63XGqiNuhI",
+       thumbnail: "http://img.youtube.com/vi/L63XGqiNuhI/0.jpg",
+        duration: 5292,
             tags: [
                      "conference",
                      "live",
@@ -54476,7 +55100,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2380,
+          number: 2386,
       identifier: "#meeting-c++-2014-0023",
          meeting: "meeting c++",
          edition: "2014",
@@ -54530,7 +55154,8 @@ const talks = [
         duration: 752,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -54549,7 +55174,8 @@ const talks = [
         duration: 1134,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -54575,7 +55201,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2128,
+          number: 2134,
       identifier: "#cppcon-2019-0146",
          meeting: "cppcon",
          edition: "2019",
@@ -54596,7 +55222,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2370,
+          number: 2376,
       identifier: "#meeting-c++-2014-0013",
          meeting: "meeting c++",
          edition: "2014",
@@ -54617,11 +55243,11 @@ const talks = [
         language: "english"
    },
    {
-          number: 873,
+          number: 874,
       identifier: "#c++now-2021-0003",
          meeting: "c++now",
          edition: "2021",
-           title: "The C++ Rvalue Lifetime Disaster ",
+           title: "The C++ Rvalue Lifetime Disaster",
         speakers: [
                      "Arno Schodl"
                   ],
@@ -54658,7 +55284,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2614,
+          number: 2620,
       identifier: "#meeting-c++-2019-0011",
          meeting: "meeting c++",
          edition: "2019",
@@ -54699,7 +55325,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2139,
+          number: 2145,
       identifier: "#cppcon-2019-0157",
          meeting: "cppcon",
          edition: "2019",
@@ -54720,7 +55346,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2618,
+          number: 2624,
       identifier: "#meeting-c++-2019-0015",
          meeting: "meeting c++",
          edition: "2019",
@@ -54741,7 +55367,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2617,
+          number: 2623,
       identifier: "#meeting-c++-2019-0014",
          meeting: "meeting c++",
          edition: "2019",
@@ -54762,7 +55388,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2531,
+          number: 2536,
       identifier: "#meeting-c++-2017-0056",
          meeting: "meeting c++",
          edition: "2017",
@@ -54796,7 +55422,8 @@ const talks = [
         duration: 5532,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -54815,17 +55442,18 @@ const talks = [
         duration: 997,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 894,
+          number: 895,
       identifier: "#c++now-2021-0024",
          meeting: "c++now",
          edition: "2021",
-           title: "The Complete Guide to 'return x;' ",
+           title: "The Complete Guide to 'return x;'",
         speakers: [
                      "Arthur O'Dwyer"
                   ],
@@ -54842,11 +55470,11 @@ const talks = [
         language: "english"
    },
    {
-          number: 893,
+          number: 894,
       identifier: "#c++now-2021-0023",
          meeting: "c++now",
          edition: "2021",
-           title: "The Concepts of concepts ",
+           title: "The Concepts of concepts",
         speakers: [
                      "Sandor Dargo"
                   ],
@@ -54863,7 +55491,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2674,
+          number: 2680,
       identifier: "#meeting-embedded-2018-0003",
          meeting: "meeting embedded",
          edition: "2018",
@@ -54877,7 +55505,7 @@ const talks = [
             tags: [
                      "conference",
                      "embedded",
-                     "online",
+                     "live",
                      "talk"
                   ],
            level: 0,
@@ -54897,7 +55525,8 @@ const talks = [
         duration: 3995,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -54956,13 +55585,14 @@ const talks = [
         duration: 3161,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2615,
+          number: 2621,
       identifier: "#meeting-c++-2019-0012",
          meeting: "meeting c++",
          edition: "2019",
@@ -55043,7 +55673,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2426,
+          number: 2432,
       identifier: "#meeting-c++-2016-0005",
          meeting: "meeting c++",
          edition: "2016",
@@ -55077,7 +55707,8 @@ const talks = [
         duration: 5260,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -55117,7 +55748,8 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -55143,13 +55775,13 @@ const talks = [
         language: "english"
    },
    {
-          number: 2209,
+          number: 2219,
       identifier: "#cppcon-2020-0008",
          meeting: "cppcon",
          edition: "2020",
            title: "The Future of C++ Parallel and Concurrency Safety Guidelines",
         speakers: [
-                     "Ilya Burylov",
+                     "Ilya Birylov",
                      "Michael Wong"
                   ],
            video: "https://youtube.com/watch?v=SbQVY-JOrgg",
@@ -55165,7 +55797,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2596,
+          number: 2602,
       identifier: "#meeting-c++-2018-0056",
          meeting: "meeting c++",
          edition: "2018",
@@ -55186,7 +55818,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2600,
+          number: 2606,
       identifier: "#meeting-c++-2018-0060",
          meeting: "meeting c++",
          edition: "2018",
@@ -55207,7 +55839,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2517,
+          number: 2522,
       identifier: "#meeting-c++-2017-0042",
          meeting: "meeting c++",
          edition: "2017",
@@ -55228,7 +55860,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2208,
+          number: 2218,
       identifier: "#cppcon-2020-0007",
          meeting: "cppcon",
          edition: "2020",
@@ -55263,7 +55895,8 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -55282,7 +55915,8 @@ const talks = [
         duration: 3100,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -55301,13 +55935,14 @@ const talks = [
         duration: 2823,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2555,
+          number: 2561,
       identifier: "#meeting-c++-2018-0015",
          meeting: "meeting c++",
          edition: "2018",
@@ -55341,7 +55976,8 @@ const talks = [
         duration: 5743,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -55360,7 +55996,8 @@ const talks = [
         duration: 4790,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -55379,13 +56016,14 @@ const talks = [
         duration: 916,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2397,
+          number: 2403,
       identifier: "#meeting-c++-2015-0013",
          meeting: "meeting c++",
          edition: "2015",
@@ -55406,7 +56044,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2647,
+          number: 2653,
       identifier: "#meeting-c++-2019-0045",
          meeting: "meeting c++",
          edition: "2019",
@@ -55440,7 +56078,8 @@ const talks = [
         duration: 2648,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -55459,7 +56098,8 @@ const talks = [
         duration: 915,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -55473,9 +56113,9 @@ const talks = [
         speakers: [
                      "Peter Smith"
                   ],
-           video: "https://youtube.com/watch?v=N2y6csonII4",
-       thumbnail: "http://img.youtube.com/vi/N2y6csonII4/0.jpg",
-        duration: 418,
+           video: "https://youtube.com/watch?v=a5L66zguFe4",
+       thumbnail: "http://img.youtube.com/vi/a5L66zguFe4/0.jpg",
+        duration: 2870,
             tags: [
                      "conference",
                      "live",
@@ -55485,7 +56125,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2233,
+          number: 2242,
       identifier: "#cppcon-2020-0033",
          meeting: "cppcon",
          edition: "2020",
@@ -55526,7 +56166,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2430,
+          number: 2436,
       identifier: "#meeting-c++-2016-0009",
          meeting: "meeting c++",
          edition: "2016",
@@ -55561,7 +56201,8 @@ const talks = [
         duration: 4699,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -55575,9 +56216,9 @@ const talks = [
         speakers: [
                      "Alan Griffiths"
                   ],
-           video: "https://youtube.com/watch?v=vffKjyIBx5Y",
-       thumbnail: "http://img.youtube.com/vi/vffKjyIBx5Y/0.jpg",
-        duration: 417,
+           video: "https://youtube.com/watch?v=9l3NJBArZSM",
+       thumbnail: "http://img.youtube.com/vi/9l3NJBArZSM/0.jpg",
+        duration: 3405,
             tags: [
                      "conference",
                      "live",
@@ -55607,7 +56248,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2525,
+          number: 2530,
       identifier: "#meeting-c++-2017-0050",
          meeting: "meeting c++",
          edition: "2017",
@@ -55628,7 +56269,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2514,
+          number: 2519,
       identifier: "#meeting-c++-2017-0039",
          meeting: "meeting c++",
          edition: "2017",
@@ -55649,7 +56290,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2533,
+          number: 2538,
       identifier: "#meeting-c++-2017-0058",
          meeting: "meeting c++",
          edition: "2017",
@@ -55670,7 +56311,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2262,
+          number: 2270,
       identifier: "#cppcon-2020-0062",
          meeting: "cppcon",
          edition: "2020",
@@ -55691,7 +56332,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2541,
+          number: 2547,
       identifier: "#meeting-c++-2018-0001",
          meeting: "meeting c++",
          edition: "2018",
@@ -55738,8 +56379,8 @@ const talks = [
          edition: "2010",
            title: "The Numerical Template Toolbox for High Performance Computing",
         speakers: [
-                     "Falcou",
-                     "Lapreste"
+                     "Jean Thierry Lapreste",
+                     "Joel Falcou"
                   ],
            video: "https://youtube.com/watch?v=27f9lGd7fy4",
        thumbnail: "http://img.youtube.com/vi/27f9lGd7fy4/0.jpg",
@@ -55767,13 +56408,14 @@ const talks = [
         duration: 1211,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2491,
+          number: 2496,
       identifier: "#meeting-c++-2017-0016",
          meeting: "meeting c++",
          edition: "2017",
@@ -55794,11 +56436,11 @@ const talks = [
         language: "english"
    },
    {
-          number: 892,
+          number: 893,
       identifier: "#c++now-2021-0022",
          meeting: "c++now",
          edition: "2021",
-           title: "The Performance Price of Dynamic Memory in C++ ",
+           title: "The Performance Price of Dynamic Memory in C++",
         speakers: [
                      "Ivica Bogosavljevic"
                   ],
@@ -55815,7 +56457,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1786,
+          number: 1792,
       identifier: "#cppcon-2017-0185",
          meeting: "cppcon",
          edition: "2017",
@@ -55856,7 +56498,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2597,
+          number: 2603,
       identifier: "#meeting-c++-2018-0057",
          meeting: "meeting c++",
          edition: "2018",
@@ -55897,7 +56539,28 @@ const talks = [
         language: "english"
    },
    {
-          number: 2340,
+          number: 909,
+      identifier: "#c++now-2021-0038",
+         meeting: "c++now",
+         edition: "2021",
+           title: "The Quest For A Better Crash",
+        speakers: [
+                     "Victor Ciura"
+                  ],
+           video: "https://youtube.com/watch?v=pJPRdNTxL-E",
+       thumbnail: "http://img.youtube.com/vi/pJPRdNTxL-E/0.jpg",
+        duration: 5089,
+            tags: [
+                     "c++",
+                     "conference",
+                     "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "english"
+   },
+   {
+          number: 2346,
       identifier: "#it-cpp-con-2021-0003",
          meeting: "it cpp con",
          edition: "2021",
@@ -55918,28 +56581,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 908,
-      identifier: "#c++now-2021-0038",
-         meeting: "c++now",
-         edition: "2021",
-           title: "The Quest For A Better Crash ",
-        speakers: [
-                     "Victor Ciura"
-                  ],
-           video: "https://youtube.com/watch?v=pJPRdNTxL-E",
-       thumbnail: "http://img.youtube.com/vi/pJPRdNTxL-E/0.jpg",
-        duration: 5089,
-            tags: [
-                     "c++",
-                     "conference",
-                     "online",
-                     "talk"
-                  ],
-           level: 0,
-        language: "english"
-   },
-   {
-          number: 2259,
+          number: 2268,
       identifier: "#cppcon-2020-0059",
          meeting: "cppcon",
          edition: "2020",
@@ -55993,7 +56635,8 @@ const talks = [
         duration: 3103,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -56012,13 +56655,14 @@ const talks = [
         duration: 3559,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2255,
+          number: 2264,
       identifier: "#cppcon-2020-0055",
          meeting: "cppcon",
          edition: "2020",
@@ -56039,7 +56683,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2440,
+          number: 2446,
       identifier: "#meeting-c++-2016-0019",
          meeting: "meeting c++",
          edition: "2016",
@@ -56060,7 +56704,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1451,
+          number: 1457,
       identifier: "#cppcon-2015-0138",
          meeting: "cppcon",
          edition: "2015",
@@ -56081,7 +56725,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2534,
+          number: 2539,
       identifier: "#meeting-c++-2017-0059",
          meeting: "meeting c++",
          edition: "2017",
@@ -56115,7 +56759,8 @@ const talks = [
         duration: 4280,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -56154,13 +56799,14 @@ const talks = [
         duration: 813,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2261,
+          number: 2269,
       identifier: "#cppcon-2020-0061",
          meeting: "cppcon",
          edition: "2020",
@@ -56194,13 +56840,14 @@ const talks = [
         duration: 2971,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2482,
+          number: 2487,
       identifier: "#meeting-c++-2017-0007",
          meeting: "meeting c++",
          edition: "2017",
@@ -56241,7 +56888,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2101,
+          number: 2107,
       identifier: "#cppcon-2019-0119",
          meeting: "cppcon",
          edition: "2019",
@@ -56262,7 +56909,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2542,
+          number: 2548,
       identifier: "#meeting-c++-2018-0002",
          meeting: "meeting c++",
          edition: "2018",
@@ -56283,11 +56930,11 @@ const talks = [
         language: "english"
    },
    {
-          number: 899,
+          number: 900,
       identifier: "#c++now-2021-0029",
          meeting: "c++now",
          edition: "2021",
-           title: "The Worst Best Practices ",
+           title: "The Worst Best Practices",
         speakers: [
                      "Jason Turner"
                   ],
@@ -56337,7 +56984,8 @@ const talks = [
         duration: 5292,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -56356,13 +57004,14 @@ const talks = [
         duration: 3628,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2493,
+          number: 2498,
       identifier: "#meeting-c++-2017-0018",
          meeting: "meeting c++",
          edition: "2017",
@@ -56397,13 +57046,14 @@ const talks = [
         duration: 4937,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2577,
+          number: 2583,
       identifier: "#meeting-c++-2018-0037",
          meeting: "meeting c++",
          edition: "2018",
@@ -56424,7 +57074,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2623,
+          number: 2629,
       identifier: "#meeting-c++-2019-0020",
          meeting: "meeting c++",
          edition: "2019",
@@ -56458,7 +57108,8 @@ const talks = [
         duration: 931,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -56497,7 +57148,8 @@ const talks = [
         duration: 2757,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -56536,7 +57188,8 @@ const talks = [
         duration: 5571,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -56555,13 +57208,14 @@ const talks = [
         duration: 1072,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2625,
+          number: 2631,
       identifier: "#meeting-c++-2019-0022",
          meeting: "meeting c++",
          edition: "2019",
@@ -56582,7 +57236,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2144,
+          number: 2150,
       identifier: "#cppcon-2019-0162",
          meeting: "cppcon",
          edition: "2019",
@@ -56623,7 +57277,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1781,
+          number: 1787,
       identifier: "#cppcon-2017-0180",
          meeting: "cppcon",
          edition: "2017",
@@ -56657,13 +57311,14 @@ const talks = [
         duration: 2972,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2518,
+          number: 2523,
       identifier: "#meeting-c++-2017-0043",
          meeting: "meeting c++",
          edition: "2017",
@@ -56697,7 +57352,8 @@ const talks = [
         duration: 5341,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -56716,7 +57372,8 @@ const talks = [
         duration: 5352,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -56735,7 +57392,8 @@ const talks = [
         duration: 2910,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -56749,9 +57407,9 @@ const talks = [
         speakers: [
                      "Neil Horlock"
                   ],
-           video: "https://youtube.com/watch?v=qdrp6k4rcP4",
-       thumbnail: "http://img.youtube.com/vi/qdrp6k4rcP4/0.jpg",
-        duration: 5494,
+           video: "https://youtube.com/watch?v=O6EUO9PO540",
+       thumbnail: "http://img.youtube.com/vi/O6EUO9PO540/0.jpg",
+        duration: 296,
             tags: [
                      "conference",
                      "live",
@@ -56761,7 +57419,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2551,
+          number: 2557,
       identifier: "#meeting-c++-2018-0011",
          meeting: "meeting c++",
          edition: "2018",
@@ -56769,9 +57427,30 @@ const talks = [
         speakers: [
                      "James McNellis"
                   ],
-           video: "https://youtube.com/watch?v=BVslyei0804",
-       thumbnail: "http://img.youtube.com/vi/BVslyei0804/0.jpg",
-        duration: 4143,
+           video: "https://youtube.com/watch?v=MyVQnP-U_ho",
+       thumbnail: "http://img.youtube.com/vi/MyVQnP-U_ho/0.jpg",
+        duration: 3741,
+            tags: [
+                     "c++",
+                     "conference",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "english"
+   },
+   {
+          number: 2021,
+      identifier: "#cppcon-2019-0033",
+         meeting: "cppcon",
+         edition: "2019",
+           title: "Time Travel: Applying Gradual Typing to Time Types with Clang's LibTooling",
+        speakers: [
+                     "Hyrum Wright"
+                  ],
+           video: "https://youtube.com/watch?v=VN0VNoykxtk",
+       thumbnail: "http://img.youtube.com/vi/VN0VNoykxtk/0.jpg",
+        duration: 3674,
             tags: [
                      "c++",
                      "conference",
@@ -56802,7 +57481,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2353,
+          number: 2359,
       identifier: "#meetup-modena-2021-0002",
          meeting: "meetup modena",
          edition: "2021",
@@ -56823,7 +57502,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2480,
+          number: 2485,
       identifier: "#meeting-c++-2017-0005",
          meeting: "meeting c++",
          edition: "2017",
@@ -56844,7 +57523,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2315,
+          number: 2321,
       identifier: "#cppp-2019-0007",
          meeting: "cppp",
          edition: "2019",
@@ -56885,7 +57564,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1454,
+          number: 1460,
       identifier: "#cppcon-2015-0141",
          meeting: "cppcon",
          edition: "2015",
@@ -56906,7 +57585,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1437,
+          number: 1443,
       identifier: "#cppcon-2015-0112",
          meeting: "cppcon",
          edition: "2015",
@@ -56927,7 +57606,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1789,
+          number: 1795,
       identifier: "#cppcon-2017-0188",
          meeting: "cppcon",
          edition: "2017",
@@ -56968,7 +57647,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1745,
+          number: 1751,
       identifier: "#cppcon-2017-0144",
          meeting: "cppcon",
          edition: "2017",
@@ -56989,7 +57668,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2502,
+          number: 2507,
       identifier: "#meeting-c++-2017-0027",
          meeting: "meeting c++",
          edition: "2017",
@@ -57023,13 +57702,14 @@ const talks = [
         duration: 3272,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2681,
+          number: 2687,
       identifier: "#meeting-embedded-2018-0010",
          meeting: "meeting embedded",
          edition: "2018",
@@ -57043,14 +57723,14 @@ const talks = [
             tags: [
                      "conference",
                      "embedded",
-                     "online",
+                     "live",
                      "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1501,
+          number: 1507,
       identifier: "#cppcon-2016-0043",
          meeting: "cppcon",
          edition: "2016",
@@ -57084,13 +57764,14 @@ const talks = [
         duration: 3944,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2535,
+          number: 2540,
       identifier: "#meeting-c++-2017-0060",
          meeting: "meeting c++",
          edition: "2017",
@@ -57124,13 +57805,14 @@ const talks = [
         duration: 4359,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2642,
+          number: 2648,
       identifier: "#meeting-c++-2019-0040",
          meeting: "meeting c++",
          edition: "2019",
@@ -57151,7 +57833,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1259,
+          number: 1265,
       identifier: "#cppcon-2014-0067",
          meeting: "cppcon",
          edition: "2014",
@@ -57172,7 +57854,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2592,
+          number: 2598,
       identifier: "#meeting-c++-2018-0052",
          meeting: "meeting c++",
          edition: "2018",
@@ -57207,7 +57889,8 @@ const talks = [
         duration: 4022,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -57227,7 +57910,8 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "online"
+                     "online",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -57246,7 +57930,8 @@ const talks = [
         duration: 2587,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -57265,13 +57950,14 @@ const talks = [
         duration: 4919,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2385,
+          number: 2391,
       identifier: "#meeting-c++-2015-0001",
          meeting: "meeting c++",
          edition: "2015",
@@ -57292,7 +57978,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2320,
+          number: 2326,
       identifier: "#c++-day-2020-0004",
          meeting: "c++ day",
          edition: "2020",
@@ -57307,14 +57993,13 @@ const talks = [
                      "c++",
                      "conference",
                      "online",
-                     "talk",
                      "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2332,
+          number: 2338,
       identifier: "#it-cpp-con-2020-0004",
          meeting: "it cpp con",
          edition: "2020",
@@ -57335,7 +58020,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2425,
+          number: 2431,
       identifier: "#meeting-c++-2016-0004",
          meeting: "meeting c++",
          edition: "2016",
@@ -57356,7 +58041,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2121,
+          number: 2127,
       identifier: "#cppcon-2019-0139",
          meeting: "cppcon",
          edition: "2019",
@@ -57377,7 +58062,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2303,
+          number: 2309,
       identifier: "#cppcon-2020-0103",
          meeting: "cppcon",
          edition: "2020",
@@ -57398,7 +58083,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2106,
+          number: 2112,
       identifier: "#cppcon-2019-0124",
          meeting: "cppcon",
          edition: "2019",
@@ -57419,7 +58104,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2166,
+          number: 2172,
       identifier: "#cppcon-2019-0184",
          meeting: "cppcon",
          edition: "2019",
@@ -57441,10 +58126,10 @@ const talks = [
    },
    {
           number: 935,
-      identifier: "#c++now-2021-0065",
+      identifier: "#c++now-2021-0064",
          meeting: "c++now",
          edition: "2021",
-           title: "Universal Function Call Syntax in C++20 ",
+           title: "Universal Function Call Syntax in C++20",
         speakers: [
                      "Devon Richards"
                   ],
@@ -57461,7 +58146,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2185,
+          number: 2191,
       identifier: "#cppcon-2019-0203",
          meeting: "cppcon",
          edition: "2019",
@@ -57482,11 +58167,11 @@ const talks = [
         language: "english"
    },
    {
-          number: 898,
+          number: 899,
       identifier: "#c++now-2021-0028",
          meeting: "c++now",
          edition: "2021",
-           title: "Using Concepts: C++ Design in a Concept World (part 1 of 2) ",
+           title: "Using Concepts: C++ Design in a Concept World (part 1 of 2)",
         speakers: [
                      "Jeff Garland"
                   ],
@@ -57503,11 +58188,11 @@ const talks = [
         language: "english"
    },
    {
-          number: 897,
+          number: 898,
       identifier: "#c++now-2021-0027",
          meeting: "c++now",
          edition: "2021",
-           title: "Using Concepts: C++ Design in a Concept World (part 2 of 2) ",
+           title: "Using Concepts: C++ Design in a Concept World (part 2 of 2)",
         speakers: [
                      "Jeff Garland"
                   ],
@@ -57537,13 +58222,14 @@ const talks = [
         duration: 1640,
             tags: [
                      "conference",
-                     "online"
+                     "online",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2104,
+          number: 2110,
       identifier: "#cppcon-2019-0122",
          meeting: "cppcon",
          edition: "2019",
@@ -57564,7 +58250,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1896,
+          number: 1902,
       identifier: "#cppcon-2018-0106",
          meeting: "cppcon",
          edition: "2018",
@@ -57645,11 +58331,11 @@ const talks = [
         language: "english"
    },
    {
-          number: 914,
+          number: 915,
       identifier: "#c++now-2021-0044",
          meeting: "c++now",
          edition: "2021",
-           title: "UT - C++20 Unit Testing Framework ",
+           title: "UT - C++20 Unit Testing Framework",
         speakers: [
                      "Kris Jusiak"
                   ],
@@ -57666,7 +58352,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2389,
+          number: 2395,
       identifier: "#meeting-c++-2015-0005",
          meeting: "meeting c++",
          edition: "2015",
@@ -57687,7 +58373,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2173,
+          number: 2179,
       identifier: "#cppcon-2019-0191",
          meeting: "cppcon",
          edition: "2019",
@@ -57728,7 +58414,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2390,
+          number: 2396,
       identifier: "#meeting-c++-2015-0006",
          meeting: "meeting c++",
          edition: "2015",
@@ -57749,11 +58435,11 @@ const talks = [
         language: "english"
    },
    {
-          number: 879,
+          number: 880,
       identifier: "#c++now-2021-0009",
          meeting: "c++now",
          edition: "2021",
-           title: "Variations on variants ",
+           title: "Variations on variants",
         speakers: [
                      "Roi Barkan"
                   ],
@@ -57765,26 +58451,6 @@ const talks = [
                      "conference",
                      "online",
                      "talk"
-                  ],
-           level: 0,
-        language: "english"
-   },
-   {
-          number: 544,
-      identifier: "#c++now-2014-0031",
-         meeting: "c++now",
-         edition: "2014",
-           title: "Vicente Botet Escriba: Expected- An exception-friendly Error Monad",
-        speakers: [
-                     "CppNow"
-                  ],
-           video: "https://youtube.com/watch?v=Zdlt1rgYdMQ",
-       thumbnail: "http://img.youtube.com/vi/Zdlt1rgYdMQ/0.jpg",
-        duration: 6054,
-            tags: [
-                     "c++",
-                     "conference",
-                     "live"
                   ],
            level: 0,
         language: "english"
@@ -57803,7 +58469,8 @@ const talks = [
         duration: 1031,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -57822,7 +58489,8 @@ const talks = [
         duration: 842,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -57868,7 +58536,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2428,
+          number: 2434,
       identifier: "#meeting-c++-2016-0007",
          meeting: "meeting c++",
          edition: "2016",
@@ -57889,7 +58557,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2338,
+          number: 2344,
       identifier: "#it-cpp-con-2021-0001",
          meeting: "it cpp con",
          edition: "2021",
@@ -57910,7 +58578,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2673,
+          number: 2679,
       identifier: "#meeting-embedded-2018-0002",
          meeting: "meeting embedded",
          edition: "2018",
@@ -57925,18 +58593,18 @@ const talks = [
             tags: [
                      "conference",
                      "embedded",
-                     "online",
+                     "live",
                      "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 902,
+          number: 903,
       identifier: "#c++now-2021-0032",
          meeting: "c++now",
          edition: "2021",
-           title: "Weak Interfaces -> Weak Defences: The Bane of Implicit Conversion in Function Calls ",
+           title: "Weak Interfaces -> Weak Defences: The Bane of Implicit Conversion in Function Calls",
         speakers: [
                      "Richard Szalay"
                   ],
@@ -57953,7 +58621,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2339,
+          number: 2345,
       identifier: "#it-cpp-con-2021-0002",
          meeting: "it cpp con",
          edition: "2021",
@@ -57974,7 +58642,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2322,
+          number: 2328,
       identifier: "#c++-day-2020-0006",
          meeting: "c++ day",
          edition: "2020",
@@ -57989,14 +58657,13 @@ const talks = [
                      "c++",
                      "conference",
                      "online",
-                     "talk",
                      "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2333,
+          number: 2339,
       identifier: "#it-cpp-con-2020-0006",
          meeting: "it cpp con",
          edition: "2020",
@@ -58017,7 +58684,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2317,
+          number: 2323,
       identifier: "#c++-day-2020-0001",
          meeting: "c++ day",
          edition: "2020",
@@ -58032,14 +58699,13 @@ const talks = [
                      "c++",
                      "conference",
                      "online",
-                     "talk",
                      "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2329,
+          number: 2335,
       identifier: "#it-cpp-con-2020-0001",
          meeting: "it cpp con",
          edition: "2020",
@@ -58100,7 +58766,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2657,
+          number: 2663,
       identifier: "#meeting-c++-2019-0055",
          meeting: "meeting c++",
          edition: "2019",
@@ -58134,7 +58800,8 @@ const talks = [
         duration: 3943,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -58153,7 +58820,8 @@ const talks = [
         duration: 4824,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -58172,13 +58840,14 @@ const talks = [
         duration: 4824,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1212,
+          number: 1218,
       identifier: "#cpp-india-2021-0002",
          meeting: "cpp india",
          edition: "2021",
@@ -58200,10 +58869,10 @@ const talks = [
    },
    {
           number: 925,
-      identifier: "#c++now-2021-0055",
+      identifier: "#c++now-2021-0054",
          meeting: "c++now",
          edition: "2021",
-           title: "What Belongs In The C++ Standard Library? ",
+           title: "What Belongs In The C++ Standard Library?",
         speakers: [
                      "Bryce Adelstein Lelbach"
                   ],
@@ -58220,7 +58889,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1980,
+          number: 1986,
       identifier: "#cppcon-2018-0190",
          meeting: "cppcon",
          edition: "2018",
@@ -58241,7 +58910,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2292,
+          number: 2298,
       identifier: "#cppcon-2020-0092",
          meeting: "cppcon",
          edition: "2020",
@@ -58275,7 +58944,8 @@ const talks = [
         duration: 3348,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -58294,7 +58964,8 @@ const talks = [
         duration: 3757,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -58313,7 +58984,8 @@ const talks = [
         duration: 5307,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -58332,7 +59004,8 @@ const talks = [
         duration: 3043,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -58358,7 +59031,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1523,
+          number: 1529,
       identifier: "#cppcon-2016-0065",
          meeting: "cppcon",
          edition: "2016",
@@ -58393,7 +59066,8 @@ const talks = [
             tags: [
                      "c++",
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -58412,7 +59086,8 @@ const talks = [
         duration: 3696,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -58431,7 +59106,8 @@ const talks = [
         duration: 3485,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -58450,7 +59126,8 @@ const talks = [
         duration: 3251,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -58469,23 +59146,24 @@ const talks = [
         duration: 3233,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 895,
+          number: 896,
       identifier: "#c++now-2021-0025",
          meeting: "c++now",
          edition: "2021",
-           title: "What is an ABI and Why is Breaking it a Problem? ",
+           title: "What is an ABI and Why is Breaking it a Problem?",
         speakers: [
                      "Marshall Clow"
                   ],
-           video: "https://youtube.com/watch?v=-XjUiLgJE2Y",
-       thumbnail: "http://img.youtube.com/vi/-XjUiLgJE2Y/0.jpg",
-        duration: 4391,
+           video: "https://youtube.com/watch?v=7RoTDjLLXJQ",
+       thumbnail: "http://img.youtube.com/vi/7RoTDjLLXJQ/0.jpg",
+        duration: 3952,
             tags: [
                      "c++",
                      "conference",
@@ -58496,7 +59174,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2201,
+          number: 2211,
       identifier: "#cppcon-2020-0109",
          meeting: "cppcon",
          edition: "2020",
@@ -58517,7 +59195,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2105,
+          number: 2111,
       identifier: "#cppcon-2019-0123",
          meeting: "cppcon",
          edition: "2019",
@@ -58552,13 +59230,14 @@ const talks = [
         duration: 2369,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1514,
+          number: 1520,
       identifier: "#cppcon-2016-0056",
          meeting: "cppcon",
          edition: "2016",
@@ -58579,7 +59258,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 1513,
+          number: 1519,
       identifier: "#cppcon-2016-0055",
          meeting: "cppcon",
          edition: "2016",
@@ -58600,13 +59279,13 @@ const talks = [
         language: "english"
    },
    {
-          number: 912,
+          number: 913,
       identifier: "#c++now-2021-0042",
          meeting: "c++now",
          edition: "2021",
-           title: "What Neighborhoods Owe Each Other: Rights, Duties, Immunities & Disabilities of Functions & Objects ",
+           title: "What Neighborhoods Owe Each Other: Rights, Duties, Immunities & Disabilities of Functions & Objects",
         speakers: [
-                     "Lisa Lipincott"
+                     "Lisa Lippincott"
                   ],
            video: "https://youtube.com/watch?v=pDpdb6T1c1k",
        thumbnail: "http://img.youtube.com/vi/pDpdb6T1c1k/0.jpg",
@@ -58634,13 +59313,14 @@ const talks = [
         duration: 2910,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2291,
+          number: 2297,
       identifier: "#cppcon-2020-0091",
          meeting: "cppcon",
          edition: "2020",
@@ -58674,13 +59354,14 @@ const talks = [
         duration: 973,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1346,
+          number: 1352,
       identifier: "#cppcon-2015-0013",
          meeting: "cppcon",
          edition: "2015",
@@ -58702,7 +59383,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2131,
+          number: 2137,
       identifier: "#cppcon-2019-0149",
          meeting: "cppcon",
          edition: "2019",
@@ -58743,7 +59424,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2130,
+          number: 2136,
       identifier: "#cppcon-2019-0148",
          meeting: "cppcon",
          edition: "2019",
@@ -58764,7 +59445,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2383,
+          number: 2389,
       identifier: "#meeting-c++-2014-0026",
          meeting: "meeting c++",
          edition: "2014",
@@ -58786,10 +59467,10 @@ const talks = [
    },
    {
           number: 933,
-      identifier: "#c++now-2021-0063",
+      identifier: "#c++now-2021-0062",
          meeting: "c++now",
          edition: "2021",
-           title: "When Paradigms Collide ",
+           title: "When Paradigms Collide",
         speakers: [
                      "Ben Deane"
                   ],
@@ -58819,17 +59500,18 @@ const talks = [
         duration: 3651,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 876,
+          number: 877,
       identifier: "#c++now-2021-0006",
          meeting: "c++now",
          edition: "2021",
-           title: "When Should You Give Two Things the Same Name? ",
+           title: "When Should You Give Two Things the Same Name?",
         speakers: [
                      "Arthur O'Dwyer"
                   ],
@@ -58859,7 +59541,8 @@ const talks = [
         duration: 1128,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -58878,7 +59561,28 @@ const talks = [
         duration: 2551,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "english"
+   },
+   {
+          number: 1059,
+      identifier: "#code-dive-2017-0041",
+         meeting: "code dive",
+         edition: "2017",
+           title: "who the f**k is eric? by odin and the nerds",
+        speakers: [
+                     "Odin Holmes"
+                  ],
+           video: "https://youtube.com/watch?v=yr3Aeb2zW8c",
+       thumbnail: "http://img.youtube.com/vi/yr3Aeb2zW8c/0.jpg",
+        duration: 4450,
+            tags: [
+                     "conference",
+                     "live",
+                     "song"
                   ],
            level: 0,
         language: "english"
@@ -58897,13 +59601,14 @@ const talks = [
         duration: 4129,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2300,
+          number: 2306,
       identifier: "#cppcon-2020-0100",
          meeting: "cppcon",
          edition: "2020",
@@ -58924,7 +59629,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2302,
+          number: 2308,
       identifier: "#cppcon-2020-0102",
          meeting: "cppcon",
          edition: "2020",
@@ -58945,7 +59650,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2181,
+          number: 2187,
       identifier: "#cppcon-2019-0199",
          meeting: "cppcon",
          edition: "2019",
@@ -58966,7 +59671,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2645,
+          number: 2651,
       identifier: "#meeting-c++-2019-0043",
          meeting: "meeting c++",
          edition: "2019",
@@ -58987,7 +59692,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2163,
+          number: 2169,
       identifier: "#cppcon-2019-0181",
          meeting: "cppcon",
          edition: "2019",
@@ -59008,7 +59713,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2444,
+          number: 2450,
       identifier: "#meeting-c++-2016-0023",
          meeting: "meeting c++",
          edition: "2016",
@@ -59037,9 +59742,9 @@ const talks = [
         speakers: [
                      "Michel Grootjans"
                   ],
-           video: "https://youtube.com/watch?v=zEJn6eQO6FE",
-       thumbnail: "http://img.youtube.com/vi/zEJn6eQO6FE/0.jpg",
-        duration: 349,
+           video: "https://youtube.com/watch?v=Q-h--bFYUAU",
+       thumbnail: "http://img.youtube.com/vi/Q-h--bFYUAU/0.jpg",
+        duration: 84,
             tags: [
                      "conference",
                      "live",
@@ -59062,20 +59767,21 @@ const talks = [
         duration: 2993,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2109,
+          number: 2115,
       identifier: "#cppcon-2019-0127",
          meeting: "cppcon",
          edition: "2019",
            title: "Will Your Code Survive the Attack of the Zombie Pointers?",
         speakers: [
                      "Maged Michael",
-                     "MichaelWong",
+                     "Michael Wong",
                      "Paul E. McKenney"
                   ],
            video: "https://youtube.com/watch?v=7bZQeOGhK84",
@@ -59104,38 +59810,18 @@ const talks = [
         duration: 5066,
             tags: [
                      "conference",
-                     "live"
-                  ],
-           level: 0,
-        language: "english"
-   },
-   {
-          number: 880,
-      identifier: "#c++now-2021-0010",
-         meeting: "c++now",
-         edition: "2021",
-           title: "Windows, MacOS and Web: Lessons from Cross-platform Development @ think-cell ",
-        speakers: [
-                     "Sebastian Theophil"
-                  ],
-           video: "https://youtube.com/watch?v=FdBVY84dafA",
-       thumbnail: "http://img.youtube.com/vi/FdBVY84dafA/0.jpg",
-        duration: 4085,
-            tags: [
-                     "c++",
-                     "conference",
-                     "online",
+                     "live",
                      "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 920,
-      identifier: "#c++now-2021-0050",
+          number: 881,
+      identifier: "#c++now-2021-0010",
          meeting: "c++now",
          edition: "2021",
-           title: "Windows, MacOS and Web: Lessons from Cross-platform Development @ think-cell ",
+           title: "Windows, MacOS and Web: Lessons from Cross-platform Development @ think-cell",
         speakers: [
                      "Sebastian Theophil"
                   ],
@@ -59185,7 +59871,8 @@ const talks = [
         duration: 3352,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -59204,17 +59891,18 @@ const talks = [
         duration: 1141,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 890,
+          number: 891,
       identifier: "#c++now-2021-0020",
          meeting: "c++now",
          edition: "2021",
-           title: "Writing a C++20 Module ",
+           title: "Writing a C++20 Module",
         speakers: [
                      "Steve Downey"
                   ],
@@ -59231,7 +59919,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2452,
+          number: 2458,
       identifier: "#meeting-c++-2016-0031",
          meeting: "meeting c++",
          edition: "2016",
@@ -59252,7 +59940,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2672,
+          number: 2678,
       identifier: "#meeting-embedded-2018-0001",
          meeting: "meeting embedded",
          edition: "2018",
@@ -59267,13 +59955,13 @@ const talks = [
                      "conference",
                      "embedded",
                      "keynote",
-                     "online"
+                     "live"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2549,
+          number: 2555,
       identifier: "#meeting-c++-2018-0009",
          meeting: "meeting c++",
          edition: "2018",
@@ -59307,7 +59995,8 @@ const talks = [
         duration: 5365,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -59326,7 +60015,8 @@ const talks = [
         duration: 3647,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
@@ -59360,9 +60050,9 @@ const talks = [
         speakers: [
                      "Seb Rose"
                   ],
-           video: "https://youtube.com/watch?v=awwFfCYoGFQ",
-       thumbnail: "http://img.youtube.com/vi/awwFfCYoGFQ/0.jpg",
-        duration: 3743,
+           video: "https://youtube.com/watch?v=l95DsKm5fbY",
+       thumbnail: "http://img.youtube.com/vi/l95DsKm5fbY/0.jpg",
+        duration: 882,
             tags: [
                      "conference",
                      "live",
@@ -59392,7 +60082,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2365,
+          number: 2371,
       identifier: "#meeting-c++-2014-0007",
          meeting: "meeting c++",
          edition: "2014",
@@ -59413,7 +60103,7 @@ const talks = [
         language: "english"
    },
    {
-          number: 2108,
+          number: 2114,
       identifier: "#cppcon-2019-0126",
          meeting: "cppcon",
          edition: "2019",
@@ -59467,13 +60157,14 @@ const talks = [
         duration: 3396,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 2590,
+          number: 2596,
       identifier: "#meeting-c++-2018-0050",
          meeting: "meeting c++",
          edition: "2018",
@@ -59507,13 +60198,14 @@ const talks = [
         duration: 5866,
             tags: [
                      "conference",
-                     "live"
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "english"
    },
    {
-          number: 1966,
+          number: 1972,
       identifier: "#cppcon-2018-0176",
          meeting: "cppcon",
          edition: "2018",

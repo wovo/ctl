@@ -127,7 +127,7 @@ Meeting Cpp
 58:34
 #marker-0009
 WORDT NU AFGESPEELD
-Better Algorithm Intuition - Conor Hoekstra @code_report- []
+Better Algorithm Intuition - Conor Hoekstra - []
 Meeting Cpp
 
 10
@@ -263,7 +263,7 @@ Meeting Cpp
 44:18
 #marker-0026
 WORDT NU AFGESPEELD
-Debugging memory corruptions in C++ - Mateusz Nowak- []
+Debugging memory corruptions in C++ - Mateusz Nowak - []
 Meeting Cpp
 
 27
@@ -271,7 +271,7 @@ Meeting Cpp
 47:56
 #marker-0027
 WORDT NU AFGESPEELD
-Real time 101 - David Rowland & Fabian Renn Giles- []
+Real time 101 - David Rowland & Fabian Renn-Giles - []
 Meeting Cpp
 
 28
@@ -279,7 +279,7 @@ Meeting Cpp
 1:04:59
 #marker-0028
 WORDT NU AFGESPEELD
-Modules are coming - Bryce Adelstein Lelbach- []
+Modules are coming - Bryce Adelstein Lelbach - []
 Meeting Cpp
 
 29

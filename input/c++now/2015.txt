@@ -75,7 +75,7 @@ CppNow
 1:25:07
 #marker-0004
 WORDT NU AFGESPEELD
-Pablo Colapinto: Functional Geometry: Producing Pure Spaces
+Pable Colapinto: Functional Geometry: Producing Pure Spaces
 CppNow
 
 5
@@ -195,7 +195,7 @@ CppNow
 38:21
 #marker-0019
 WORDT NU AFGESPEELD
-Felipe Almeida: Developing EDSL's for Boost.Spirit
+Felipe Magno de Almeida: Developing EDSL's for Boost.Spirit
 CppNow
 
 20

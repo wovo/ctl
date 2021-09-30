@@ -20,6 +20,34 @@ WORDT NU AFGESPEELD
 C++ Standards Committee Fireside Chat - Herb Sutter - []
 CppCon
 
+1:00:24
+#marker-0025
+WORDT NU AFGESPEELD
+Dealing with Embedded Limitations - Ben Saks - []
+CppCon
+
+
+60
+#marker-0060
+WORDT NU AFGESPEELD
+C++ Committee's Library Evolution Working Group Panel - Ben Craig - []
+CppCon
+
+1:02:29
+#marker-0074
+WORDT NU AFGESPEELD
+C++ Community Organizers Panel - Jon Kalb - []
+CppCon
+
+75
+
+1:01:16
+#marker-0075
+WORDT NU AFGESPEELD
+C++ Committee's Library Evolution Working Group - Bryce Adelstein Lelbach - []
+CppCon
+
+
 
 ===============================================================================
 
@@ -133,7 +161,7 @@ CppCon
 1:00:30
 #marker-0008
 WORDT NU AFGESPEELD
-The Future of C++ Parallel and Concurrency Safety Guidelines - Michael Wong & Ilya Burylov - []
+The Future of C++ Parallel and Concurrency Safety Guidelines - Michael Wong & Ilya Birylov - []
 CppCon
 
 9
@@ -203,7 +231,7 @@ CppCon
 18
 #marker-0018
 WORDT NU AFGESPEELD
-Halide: A Language for Fast, Portable Computation on Images and Tensors - Alex Reinking - [] 20
+Halide: A Language for Fast, Portable Computation on Images and Tensors - Alex Reinking - []
 CppCon
 
 19
@@ -246,11 +274,6 @@ CppCon
 
 25
 
-1:00:24
-#marker-0025
-WORDT NU AFGESPEELD
-Dealing with Embedded Limitations - Panel Discussion hosted by Ben Saks - []
-CppCon
 
 26
 
@@ -495,12 +518,6 @@ WORDT NU AFGESPEELD
 The Science of Unit Tests - Dave Steffen - []
 CppCon
 
-60
-#marker-0060
-WORDT NU AFGESPEELD
-C++ Committee's Library Evolution Working Group Panel - Hosted by Ben Craig - []
-CppCon
-
 61
 #marker-0061
 WORDT NU AFGESPEELD
@@ -595,19 +612,6 @@ CppCon
 
 74
 
-1:02:29
-#marker-0074
-WORDT NU AFGESPEELD
-C++ Community Organizers Panel - Hosted By Jon Kalb - []
-CppCon
-
-75
-
-1:01:16
-#marker-0075
-WORDT NU AFGESPEELD
-C++ Committee's Library Evolution Working Group - Hosted By Bryce Adelstein Lelbach - []
-CppCon
 
 76
 

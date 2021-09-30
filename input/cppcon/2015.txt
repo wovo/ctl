@@ -91,7 +91,7 @@ CppCon
 1:06:06
 #marker-0008
 WORDT NU AFGESPEELD
-Joel Falcou PART 1 : Expression Templates - Past, Present, Future
+Joel Falcou : Expression Templates - Past, Present, Future (PART 1 )
 CppCon
 
 8
@@ -179,7 +179,7 @@ CppCon
 58:44
 #marker-0019
 WORDT NU AFGESPEELD
-Joel Falcou PART 2 : Expression Templates: Past, Present, Future
+Joel Falcou : Expression Templates: Past, Present, Future (PART 2)
 CppCon
 
 19
@@ -187,7 +187,7 @@ CppCon
 38:46
 #marker-0020
 WORDT NU AFGESPEELD
-Fedor Pikus PART 1 : Live Lock-Free or Deadlock (Practical Lock-free Programming)
+Fedor Pikus : Live Lock-Free or Deadlock (Practical Lock-free Programming) (PART 1)
 CppCon
 
 20
@@ -211,7 +211,7 @@ CppCon
 50:09
 #marker-0023
 WORDT NU AFGESPEELD
-Joel Falcou PART 3 : Expression Templates: Past, Present, Future
+Joel Falcou : Expression Templates: Past, Present, Future (PART 3) 
 CppCon
 
 23
@@ -227,7 +227,7 @@ CppCon
 1:30:21
 #marker-0025
 WORDT NU AFGESPEELD
-Fedor Pikus PART 2 : Live Lock-Free or Deadlock (Practical Lock-free Programming) 
+Fedor Pikus : Live Lock-Free or Deadlock (Practical Lock-free Programming) (PART 2)
 CppCon
 
 25
@@ -558,7 +558,7 @@ CppCon
 1:14:20
 #marker-0065
 WORDT NU AFGESPEELD
-Moderator: Chandler Carruth : Technical Specifications & C++17
+Chandler Carruth : Technical Specifications & C++17
 CppCon
 
 67
@@ -662,7 +662,7 @@ CppCon
 56:27
 #marker-0078
 WORDT NU AFGESPEELD
-CppCon 2015:Marshall Clow : Type Traits - what are they and why should I use them?
+Marshall Clow : Type Traits - what are they and why should I use them?
 CppCon
 
 80
@@ -884,7 +884,7 @@ CppCon
 12:05
 #marker-0112
 WORDT NU AFGESPEELD
-Traits Go Mainstream...  - Leor Zolman - []
+Traits Go Mainstream...  - Leor Zolman []
 CppCon
 
 114
@@ -1068,7 +1068,7 @@ CppCon
 11:41
 #marker-0139
 WORDT NU AFGESPEELD
-B. Geller & A. Sermersheim : Compile-Time Counter Using Template & Constexpr Magic
+Barbara Geller & Ansel Sermersheim : Compile-Time Counter Using Template & Constexpr Magic
 CppCon
 
 16

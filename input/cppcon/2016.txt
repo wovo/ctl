@@ -22,7 +22,7 @@ $set tags panel
 1:09:28
 #marker-0007
 WORDT NU AFGESPEELD
-Bryce Adelstein Lelbach C++ Standard Library Panel
+Bryce Adelstein Lelbach: C++ Standard Library Panel
 CppCon
 
 
@@ -299,7 +299,7 @@ CppCon
 1:00:25
 #marker-0030
 WORDT NU AFGESPEELD
-Carroll & Moth : Latest and Greatest from the Visual Studio Family for C++ Developers
+Daniel Moth, Steve Carroll : Latest and Greatest from the Visual Studio Family for C++ Developers
 CppCon
 
 31
@@ -363,7 +363,7 @@ CppCon
 54:50
 #marker-0038
 WORDT NU AFGESPEELD
-Paul E. MecKenny, Michael Wong, Maged Michael : A lock-free concurrency toolkit for deferred reclamation and optimistic speculation
+Paul E. McKenny, Michael Wong, Maged Michael : A lock-free concurrency toolkit for deferred reclamation and optimistic speculation
 CppCon
 
 39
@@ -1079,7 +1079,7 @@ CppCon
 5:51
 #marker-0129
 WORDT NU AFGESPEELD
-CodeCompass: An open source code navigator for C++ based on LLVM/Clang - Gábor Horváth [CppCon 2016]
+CodeCompass: An open source code navigator for C++ based on LLVM/Clang - Gábor Horváth - []
 CppCon
 
 130

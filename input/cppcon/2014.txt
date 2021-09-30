@@ -14,6 +14,11 @@ $set tags keynote
 
 $set tags panel
 
+1:29:07
+#marker-0001
+WORDT NU AFGESPEELD
+?: Grill the Committee
+CppCon
 
 
 ===============================================================================
@@ -65,11 +70,6 @@ CppCon 2014
 CppCon
 1
 
-1:29:07
-#marker-0001
-WORDT NU AFGESPEELD
-: Grill the Committee
-CppCon
 
 2
 
@@ -148,7 +148,7 @@ CppCon
 1:30:47
 #marker-0011
 WORDT NU AFGESPEELD
-xyz: Meet the Authors
+Chandler Carruth: Meet the Authors
 CppCon
 
 12
@@ -434,7 +434,7 @@ CppCon
 45:56
 #marker-0065
 WORDT NU AFGESPEELD
-Bryce Adelstein-Lelbach : Practical Functional Programming in C++
+Bryce Adelstein Lelbach : Practical Functional Programming in C++
 CppCon
 
 66
@@ -554,7 +554,7 @@ CppCon
 59:42
 #marker-0080
 WORDT NU AFGESPEELD
-Stephan Lavavej : STL Features And Implementation Techniques
+Stephan T. Lavavej : STL Features And Implementation Techniques
 CppCon
 
 81

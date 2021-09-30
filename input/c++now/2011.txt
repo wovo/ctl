@@ -42,7 +42,7 @@ CppNow
 57:43
 #marker-0001
 WORDT NU AFGESPEELD
-Simonson, Sydorchuk: Sweep-Line Algorithm for Voronoi Diagrams
+Andrii Sydorchuk, Lucanus Simonson: Sweep-Line Algorithm for Voronoi Diagrams
 CppNow
 
 2

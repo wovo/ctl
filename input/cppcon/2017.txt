@@ -43,6 +43,11 @@ Cpp
 
 $set tags panel
 
+1:28:19
+#marker-0037
+WORDT NU AFGESPEELD
+? : Grill the Committee
+CppCon
 
 
 ===============================================================================
@@ -353,11 +358,6 @@ CppCon
 
 37
 
-1:28:19
-#marker-0037
-WORDT NU AFGESPEELD
-Panel : Grill the Committee
-CppCon
 
 38
 
@@ -1482,7 +1482,7 @@ CppCon
 3:49
 #marker-0177
 WORDT NU AFGESPEELD
-Gaspar Azman : (don't) Copy Paste All The Things
+Gasper Azman : (don't) Copy Paste All The Things
 CppCon
 
 178

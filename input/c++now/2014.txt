@@ -286,7 +286,7 @@ CppNow
 1:40:54
 #marker-0031
 WORDT NU AFGESPEELD
-Vicente Botet Escriba: Expected- An exception-friendly Error Monad
+Expected- An exception-friendly Error Monad - Vicente Botet Escriba - []
 CppNow
 
 32

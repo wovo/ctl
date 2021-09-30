@@ -326,7 +326,7 @@ Bema's talk from C++Now! 2012 The C++ standards committee's Library Working Grou
 1:33:50
 #marker-0029
 WORDT NU AFGESPEELD
-Andrew Lumsdaine, Larisse Voufo: ConceptClang: An Implementation Model for C++ Concepts
+Andrew Lumsdaine, Larisse Vuofo: ConceptClang: An Implementation Model for C++ Concepts
 
 CppNow
 •

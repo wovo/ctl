@@ -84,7 +84,7 @@ CppNow
 1:28:42
 WORDT NU AFGESPEELD
 #marker-0007
-Arthur O'Dwyer: An Allocator is a Handle to a Heap
+An Allocator is a Handle to a Heap - Arthur O'Dwyer - []
 CppNow
 
 7
@@ -140,7 +140,7 @@ CppNow
 1:10:43
 #marker-0014
 WORDT NU AFGESPEELD
-Bob Steagall: If I Had My 'Druthers: A Proposal for Improving the Containers in C++2x
+If I Had My 'Druthers: A Proposal for Improving the Containers in C++2x - Bob Steagall - []
 CppNow
 
 14
@@ -457,7 +457,7 @@ $set tags panel
 1:01:00
 #marker-0053
 WORDT NU AFGESPEELD
-Closing Panel: What Belongs in the C++ Standard Library
+?: What Belongs in the C++ Standard Library
 CppNow
 
 
@@ -519,7 +519,7 @@ CppNow
 2:39
 #marker-0057
 WORDT NU AFGESPEELD
-JeanHeyd Meneide: Poetry - 
+JeanHeyd Meneide: Poetry
 CppNow
 
 5

@@ -102,7 +102,7 @@ Italian Cpp Community
 58:54
 #marker-0007
 WORDT NU AFGESPEELD
-Ai4Prod: the ecosystem to bring AI in production through C++ - Verasani, Tondelli - []
+Ai4Prod: the ecosystem to bring AI in production through C++ - Eric Tondelli, Mattia Verasani - []
 Italian Cpp Community
 
 8

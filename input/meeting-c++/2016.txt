@@ -488,7 +488,7 @@ Meeting Cpp
 8:27
 #marker-0051
 WORDT NU AFGESPEELD
-On "simple" Optimizations - Chandler Carruth - [][
+On "simple" Optimizations - Chandler Carruth - []
 Meeting Cpp
 
 18

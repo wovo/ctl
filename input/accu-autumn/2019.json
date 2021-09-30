@@ -75,7 +75,7 @@
    "title": "The C++20 Synchronization Library",
    "video": "https://youtube.com/watch?v=Zcqwb3CWqs4"
 },{
-   "duration": 5106,
+   "duration": 4661,
    "edition": "2019",
    "identifier": "#accu-2019-autumn-0005",
    "language": "english",
@@ -90,9 +90,9 @@
       "conference",
       "live"
    ],
-   "thumbnail": "http://img.youtube.com/vi/IGtKstxNe14/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/C6EWVBNCxsc/0.jpg",
    "title": "Introduction to Cache Oblivious Algorithms",
-   "video": "https://youtube.com/watch?v=IGtKstxNe14"
+   "video": "https://youtube.com/watch?v=C6EWVBNCxsc"
 },{
    "duration": 3278,
    "edition": "2019",
@@ -209,7 +209,7 @@
    "title": "Serverless Containers with KEDA",
    "video": "https://youtube.com/watch?v=ujuWVs0A-KM"
 },{
-   "duration": 5689,
+   "duration": 3642,
    "edition": "2019",
    "identifier": "#accu-2019-autumn-0012",
    "language": "english",
@@ -224,9 +224,9 @@
       "conference",
       "live"
    ],
-   "thumbnail": "http://img.youtube.com/vi/9a18XkWw8vk/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/v_yzLe-wnfk/0.jpg",
    "title": "From functions to Concepts: Impact on maintainability and refactoring for higher-level design features",
-   "video": "https://youtube.com/watch?v=9a18XkWw8vk"
+   "video": "https://youtube.com/watch?v=v_yzLe-wnfk"
 },{
    "duration": 3423,
    "edition": "2019",
@@ -361,7 +361,7 @@
    "title": "The Many Variants of std::variant",
    "video": "https://youtube.com/watch?v=JUxhwf7gYLg"
 },{
-   "duration": 4824,
+   "duration": 226,
    "edition": "2019",
    "identifier": "#accu-2019-autumn-0020",
    "language": "english",
@@ -376,9 +376,9 @@
       "conference",
       "live"
    ],
-   "thumbnail": "http://img.youtube.com/vi/qkO1Y0Bh74U/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/pVY0G-uJCBo/0.jpg",
    "title": "No more secrets? Why your secrets aren't safe and what you can do about it",
-   "video": "https://youtube.com/watch?v=qkO1Y0Bh74U"
+   "video": "https://youtube.com/watch?v=pVY0G-uJCBo"
 },{
    "duration": 134,
    "edition": "2019",

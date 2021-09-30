@@ -117,7 +117,7 @@ CppNow
 1:42:29
 #marker-0007
 WORDT NU AFGESPEELD
-The Numerical Template Toolbox for High Performance Computing - Falcou & Lapreste - []
+The Numerical Template Toolbox for High Performance Computing - Joel Falcou & Jean Thierry Lapreste - []
 CppNow
 
 8
@@ -173,7 +173,7 @@ CppNow
 1:07:01
 #marker-0014
 WORDT NU AFGESPEELD
-Spirit: History and Evolution - Joel de Guzman & Hartmut Kaiser [ BoostCon 2010 ]
+Spirit: History and Evolution - Joel de Guzman, Hartmut Kaiser - []
 CppNow
 
 15

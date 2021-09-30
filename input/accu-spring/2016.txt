@@ -40,7 +40,7 @@ Bristol 1	Bristol 2	Bristol 3	Empire	SS Great Britain
 
 #accu-2016-0006
 A Glimpse of Trygve: From Class-oriented Programming to Real OO
-Cope
+Jim Coplien
 
 slides
 

@@ -275,7 +275,7 @@ Kevlin Henney
 
 #accu-2018-0038
 Parallel Design Patterns and Stream Parallelism
-J. Daniel Garcia
+J Daniel Garcia
 (slides)
 (video)
 

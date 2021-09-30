@@ -590,7 +590,7 @@ CppCon
 26:55
 #marker-0072
 WORDT NU AFGESPEELD
-Funqual: user-defined statically-checked call graph constraints in C++ - Andrew Nelson [CppCon 2018]
+Funqual: user-defined statically-checked call graph constraints in C++ - Andrew Nelson - []
 CppCon
 
 72

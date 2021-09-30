@@ -196,7 +196,7 @@ CppCon
 1:01:34
 #marker-0020
 WORDT NU AFGESPEELD
-Dan Saks : Back to Basics: Const as a Promise
+Back to Basics: Const as a Promise - Dan Saks - []
 CppCon
 
 23
@@ -308,7 +308,7 @@ CppCon
 1:01:14
 #marker-0033
 WORDT NU AFGESPEELD
-Hyrum Wright Time Travel: Applying Gradual Typing to Time Types with Clang's LibTooling
+Time Travel: Applying Gradual Typing to Time Types with Clang's LibTooling - Hyrum Wright  []
 CppCon
 
 38
@@ -688,7 +688,7 @@ CppCon
 1:02:22
 #marker-0083
 WORDT NU AFGESPEELD
-Tony Van Eerd Objects vs Values: Value Oriented Programming in an Object Oriented World
+Objects vs Values: Value Oriented Programming in an Object Oriented World - Tony Van Eerd  []
 CppCon
 
 88
@@ -1128,7 +1128,7 @@ CppCon
 59:29
 #marker-0138
 WORDT NU AFGESPEELD
-High performance graphics and text rendering on the GPU for... - Geller & Sermersheim - []
+High performance graphics and text rendering on the GPU for... - Barbara Geller & Ansel Sermersheim - []
 CppCon
 
 143
