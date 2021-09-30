@@ -83,7 +83,7 @@ The intended levels are:
 - https://liveembededevent.virtualconference.com/#/event
 - 2021 
 - expand/standardize abbreviated first names
-- check twice the same youtube url (badcode - doens't check conference name?)
+- check twice the same youtube url (0xbad - doens't check conference name?)
 - accu again, note the lightning's
 - FOSDEM (lots of talks, maybe not so interesting?)
 - embo++, Core Hard, C++ Day, ADC++ (no playlists?)
