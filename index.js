@@ -14,7 +14,7 @@ var thumbnail_size = 100
 function rewrite(){
    var t = ""
 
-   t += "<IMG SRC=./c++.png>"
+   t += "<IMG SRC=c++.png>"
    t += "<HTML ><BODY bgcolor=#94b89d><H1>C++ Talks List</H1>"
    t += "Updated <date-and-time>.<BR>"
    t += "Interface to "

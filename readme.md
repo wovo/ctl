@@ -87,6 +87,7 @@ The intended levels are:
 - accu again, note the lightning's
 - FOSDEM (lots of talks, maybe not so interesting?)
 - embo++, Core Hard, C++ Day, ADC++ (no playlists?)
+- http://cpptalksindex.xyz/
 
 
 
