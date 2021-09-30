@@ -15,7 +15,7 @@ I apologize for the (probably many) inaccuracies and omissions.
 Feel free to suggest corrections.
 
 I don't pretend to be a front-end developer, so 
-beside the simple web page (see index.html) the list
+beside the simple web page (https://wovo.github.io/ctl/) the list
 is available in json and javscript formats, 
 with a Python interface for maybe slightly easier use.
 If you create you own interface, let me know!
@@ -42,6 +42,9 @@ The conferences I included so fare are:
 - c++-on-sea 19-20 
 - cpp-india 2021
 - pacific-c++ 2017, 2018
+- Core C++
+- CPPP
+- cpp europe 
 
 The talks have tags, but this is still rudimentary.
 I used or plan to use these tags:
@@ -78,26 +81,12 @@ The intended levels are:
 ## to do list
 
 - https://liveembededevent.virtualconference.com/#/event
-- title sort order should disregard case
 - 2021 
-- abbreviated first names
-- lelbach => wrong video
-- who the f*
-- cpp-summit (more)
-- cpp europe (more)
-- EuroLLVM, LLVM dev meeting
-- C++ Russia
-- Core Hard
-- Core C++
-- CPPP
-- C++ Day
-- ADC++
-- C++ Day 2020
-- NDC Tech Town
-- pure C++ 2020
+- expand/standardize abbreviated first names
+- check twice the same youtube url (badcode - doens't check conference name?)
 - accu again, note the lightning's
 - FOSDEM (lots of talks, maybe not so interesting?)
-- embo++ (no schedules available? - must ask!)
+- embo++, Core Hard, C++ Day, ADC++ (no playlists?)
 
 
 

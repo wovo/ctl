@@ -129,7 +129,7 @@ Marshall Clow
 
 #accu-2019-0017
 How does Git actually work?
-Andy Balaam @ CB Bailey
+Andy Balaam @ Charles Bailey
 (slides)
 (video)
 
@@ -517,7 +517,7 @@ Break
 
 #accu-2019-0064
 CPU optimized data structures - more fun with assembler
-CB Bailey
+Charles Bailey
 (video)
 
 #accu-2019-0065

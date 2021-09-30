@@ -17,7 +17,7 @@
 #
 # ===========================================================================
 
-import sys, glob, os, json, urllib.request, re, pafy
+import sys, glob, os, json, urllib.request, re, pafy, datetime
 
 def time_in_minutes( time ):
    # from https://stackoverflow.com/questions/10663720
@@ -131,17 +131,17 @@ class talk:
          language    : str
    ):
       self.number      = number
-      self.identifier  = identifier
-      self.meeting     = meeting
-      self.edition     = edition
-      self.title       = title
+      self.identifier  = identifier.strip()
+      self.meeting     = meeting.strip()
+      self.edition     = edition.strip()
+      self.title       = title.strip()
       self.speakers    = sorted( speakers )
       self.video       = video
       self.thumbnail   = thumbnail
       self.duration    = duration
       self.tags        = sorted( tags[:] )
       self.level       = level
-      self.language    = language
+      self.language    = language.strip()
       
    def to_json( self ):
       return json.dumps( self, 
@@ -214,7 +214,7 @@ class talks:
          exit( -1 )
       self.list.append( talk )
       self.dict[ talk.identifier ] = talk
-      self.meetings.add( talk.meeting )      
+      if talk.meeting != "": self.meetings.add( talk.meeting )      
       self.editions.add( talk.edition )
       self.titles.add( talk.title )
       self.speakers.update( talk.speakers ) 
@@ -235,7 +235,10 @@ class talks:
       file.close()      
       
    def sort_talks( self ):      
-      self.list = sorted( self.list, key = lambda t : t.title.lower() )
+      self.list = sorted( 
+         self.list, 
+         key = lambda t : t.title.lower().strip().replace( "'", "" )
+      )
       
    def write_json( self, file_name = "talks.json" ):
       """
@@ -289,12 +292,15 @@ class talks:
       t += make_js_data( "titles",     self.titles )
       t += make_js_data( "tags",       self.tags )
       t += "const talks = [\n%s\n]\n\n" % \
-         ",\n".join( map( lambda x : x.to_js(), sorted( self.list, key=lambda x: x.title.lower() )))
+         ",\n".join( map( lambda x : x.to_js(), 
+            sorted( self.list, key=lambda x: x.title.lower() )))
       write_to_file( file, t )   
       
       t = ''
       t += read_from_file( "index.js" )
       t += read_from_file( file )
+      t = t.replace( "<date-and-time>", \
+         datetime.datetime.now().strftime("%Y-%m%d, %H:%M:%S") )
       t += "\n</SCRIPT>\n</BODY>\n"
       write_to_file( "docs/index.html", t )
 

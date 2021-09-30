@@ -14,13 +14,16 @@ var thumbnail_size = 100
 function rewrite(){
    var t = ""
 
+   t += "<IMG SRC=./c++.png>"
    t += "<HTML ><BODY bgcolor=#94b89d><H1>C++ Talks List</H1>"
-   t += "Simple interface to <A HREF=www.github.com/wovo/ctl>www.github.com/wovo/ctl</A>."
+   t += "Updated <date-and-time>.<BR>"
+   t += "Interface to "
+   t += "<A HREF=https://www.github.com/wovo/ctl>www.github.com/wovo/ctl</A>."
    t += "<P>"
-   t += "This is a list of talks about C++ or related subjects I compiled."
+   t += "This is a list of talks about C++ or related subjects I compiled. "
    t += "Suggestions for other conferences to be included are welcome. "
    t += "I apologize for the (probably many) inaccuracies and omissions. "
-   t += "Feel free to supply corrections to wouter@voti.nl."
+   t += "Feel free to supply corrections to wouter@voti.nl. "
    t += "<HR>"
    
    t += "Select specific<BR>"

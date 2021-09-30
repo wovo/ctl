@@ -1485,7 +1485,7 @@ CppCon
 3:24
 #marker-0187
 WORDT NU AFGESPEELD
-Howard Hinnant : ＜chrono＞ Then and Now
+Howard Hinnant : [chrono] Then and Now
 CppCon
 
 190

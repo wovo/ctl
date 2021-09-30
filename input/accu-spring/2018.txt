@@ -526,7 +526,7 @@ Vigneshwer Dhinakaran
 
 #accu-2018-0072
 Scripting Git
-CB Bailey
+Charles Bailey
 (slides)
 
 13:00
