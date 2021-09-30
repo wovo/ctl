@@ -18,7 +18,7 @@ std::cout << "Welcome and orientation\n";
 12:00
 #c++-on-sea-2020-0001
 Keynote: A Retrospective from My Perspective
-Walter E Brown
+Walter E. Brown
 
 
 13:00

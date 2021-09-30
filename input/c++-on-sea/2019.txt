@@ -21,71 +21,71 @@ Registration & Refreshments
 Hello, World
 09:15
 
-#c++-on-sea-2019-0001
+#marker-0001
 Keynote: Oh The Humanity!
 Kate Gregory
 
 10:15
 Refreshments break (30 mins)
 10:45
-#c++-on-sea-2019-0002
+#marker-0002
 The Forgotten Art of Structured Programming
 Kevlin Henney
 
-#c++-on-sea-2019-0003
+#marker-0003
 boost.tmp: Your DSL for /*Metaprogramming*/ all the things
 Odin Holmes
 
-#c++-on-sea-2019-0004
+#marker-0004
 Postmodern immutable data structures
 Juan Pedro Bolivar Puente
 
-#c++-on-sea-2019-0005
+#marker-0005
 Initial C++
 Tristan Brindle
 
 12:15
 Lunch (90 minutes)
 13:45
-#c++-on-sea-2019-0006
+#marker-0006
 Fast and Small - What are the Costs of Language Features
 Andreas Fertig
 
-#c++-on-sea-2019-0007
+#marker-0007
 What I Talk about When I Talk about Cross Platform Development
 Adi Shavit
 
-#c++-on-sea-2019-0008
+#marker-0008
 Debug C++ Without Running
 Anastasiia Kazakova
 
-//#c++-on-sea-2019-0009
+//#marker-0009
 //Initial C++
 //Tristan Brindle
 
 14:45
 Refreshments break (15 mins)
 15:00
-#c++-on-sea-2019-0010
+#marker-0010
 Practical Performance Practices Revisited
 Jason Turner
 
-#c++-on-sea-2019-0011
+#marker-0011
 Strong Types in C++
 Barney Dellar
 
-#c++-on-sea-2019-0012
+#marker-0012
 Better Tools in Your Clang Toolbox: Extending clang-tidy With Your Custom Checks
 Victor Ciura
 
-//#c++-on-sea-2019-0013
+//#marker-0013
 //Initial C++
 //Tristan Brindle
 
 16:00
 Break (30 mins)
 16:30
-#c++-on-sea-2019-0014
+#marker-0014
 Deconstructing Privilege
 Patricia Aas
 
@@ -114,83 +114,83 @@ Registration and refreshments
 08:45
 Hello, Again
 09:00
-#c++-on-sea-2019-0015
+#marker-0015
 C++17 - The Biggest Traps
 Nicolai Josuttis
 
-#c++-on-sea-2019-0016
+#marker-0016
 Programming with Contracts in C++20
 Björn Fahller
 
-#c++-on-sea-2019-0017
+#marker-0017
 C++ Function Templates: How Do They Really Work?
 Walter E. Brown
 
-#c++-on-sea-2019-0018
+#marker-0018
 The Hitchhiker's Guide to Faster Builds
 Viktor Kirilov
 
 10:30
 Refreshments break (30 mins)
 11:00
-#c++-on-sea-2019-0019
+#marker-0019
 How to Write Well-Behaved Value Wrappers
 Simon Brand
 
-#c++-on-sea-2019-0020
+#marker-0020
 Higher-order functions and function_ref
 Vittorio Romeo
 
-#c++-on-sea-2019-0021
+#marker-0021
 Compile Time Regular Expressions
 Hana Dusíková @ Matt Godbolt
 
-#c++-on-sea-2019-0022
+#marker-0022
 Diffuse your way out of a paper bag
 Frances Buontempo
 
 12:00
 Lunch (90 minutes)
 13:30
-#c++-on-sea-2019-0023
+#marker-0023
 Building a C++ Reflection System in One Weekend Using Clang and LLVM
 Arvid Gerstmann
 
-#c++-on-sea-2019-0024
+#marker-0024
 A linear algebra library for C++23
 Guy Davidson
 
-#c++-on-sea-2019-0025
+#marker-0025
 Teaching Old Compilers New Tricks: Transpiling C++17 to C++11
 Tony Wasserka
 
-#c++-on-sea-2019-0026
+#marker-0026
 Learning (and teaching) modern C++ - Challenges and Resources
 Arne Mertz
 
 14:30
 Refreshments break (15 mins)
 14:45
-#c++-on-sea-2019-0027
+#marker-0027
 Initialisation in modern C++
 Timur Doumler
 
-#c++-on-sea-2019-0028
+#marker-0028
 Designing for beginners: Simple graphics, a case study
 Peter Bindels
 
-#c++-on-sea-2019-0029
+#marker-0029
 Sailing from 4 to 7 Cs: just keep swimming
 John Shearer
 
-#c++-on-sea-2019-0030
+#marker-0030
 Quickly testing legacy code
 Clare Macrae
 
 15:45
 Break (30 mins)
 16:15
-#c++-on-sea-2019-0031
+#marker-0031
 Keynote: What Everyone Should Know About How Amazing Compilers Are
 Matt Godbolt
 
@@ -204,19 +204,19 @@ Wednesday : Workshops day
 08:00
 Registration and refreshments
 09:00
-#c++-on-sea-2019-0032
+#marker-0032
 Applied constexpr
 Jason Turner
 
-#c++-on-sea-2019-0033
+#marker-0033
 Modern C++ Template Programming
 Nicolai Josuttis
 
-#c++-on-sea-2019-0034
+#marker-0034
 A Day of Deliberate Practice
 Jon Jagger @ Kevlin Henney
 
-#c++-on-sea-2019-0035
+#marker-0035
 Low-latency C++
 David Gross @ Walther Zwart
 

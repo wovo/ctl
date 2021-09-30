@@ -158,7 +158,7 @@ Italian Cpp Community
 28:28
 #marker-0014
 WORDT NU AFGESPEELD
-Extrema: Correctly Calculating min and max - Walter E Brown - []
+Extrema: Correctly Calculating min and max - Walter E. Brown - []
 Italian Cpp Community
 
 15

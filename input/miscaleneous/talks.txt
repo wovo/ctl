@@ -1,9 +1,0 @@
-$locked
-
-$add meeting cpp-india
-$add edition 2021
-$add language english
-$add tags conference online c++
-$set tags talk
-
-

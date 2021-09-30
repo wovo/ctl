@@ -360,7 +360,7 @@ CppCon
 58:20
 #marker-0040
 WORDT NU AFGESPEELD
-Paul McKenney & Maged Michael  : The Landscape and Exciting New Future of Safe Reclamation for High Performance
+Paul E. McKenny & Maged Michael  : The Landscape and Exciting New Future of Safe Reclamation for High Performance
 CppCon
 
 40
@@ -1357,7 +1357,7 @@ CppCon
 7:26
 #marker-0171
 WORDT NU AFGESPEELD
-Walter Brown : Communicating via Diagnostics: Observations and Tips for Authors
+Walter E. Brown : Communicating via Diagnostics: Observations and Tips for Authors
 CppCon
 
 174

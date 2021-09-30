@@ -654,7 +654,7 @@ CppCon
 1:00:54
 #marker-0078
 WORDT NU AFGESPEELD
-V. Romeo : Higher-order functions in Modern C++: existing techniques and function_ref
+Vittorio Romeo : Higher-order functions in Modern C++: existing techniques and function_ref
 CppCon
 
 83

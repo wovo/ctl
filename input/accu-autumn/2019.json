@@ -7,7 +7,7 @@
    "meeting": "accu autumn",
    "number": 1,
    "speakers": [
-      "Walter Brown"
+      "Walter E. Brown"
    ],
    "tags": [
       "talk",
@@ -75,7 +75,7 @@
    "title": "The C++20 Synchronization Library",
    "video": "https://youtube.com/watch?v=Zcqwb3CWqs4"
 },{
-   "duration": 4661,
+   "duration": 5106,
    "edition": "2019",
    "identifier": "#accu-2019-autumn-0005",
    "language": "english",
@@ -90,9 +90,9 @@
       "conference",
       "live"
    ],
-   "thumbnail": "http://img.youtube.com/vi/C6EWVBNCxsc/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/IGtKstxNe14/0.jpg",
    "title": "Introduction to Cache Oblivious Algorithms",
-   "video": "https://youtube.com/watch?v=C6EWVBNCxsc"
+   "video": "https://youtube.com/watch?v=IGtKstxNe14"
 },{
    "duration": 3278,
    "edition": "2019",
@@ -190,7 +190,7 @@
    "title": "The Secret Life of Numbers",
    "video": "https://youtube.com/watch?v=65CAhcRwf5c"
 },{
-   "duration": 1007,
+   "duration": 993,
    "edition": "2019",
    "identifier": "#accu-2019-autumn-0011",
    "language": "english",
@@ -205,11 +205,11 @@
       "conference",
       "live"
    ],
-   "thumbnail": "http://img.youtube.com/vi/ujuWVs0A-KM/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/7G_oDLON7Us/0.jpg",
    "title": "Serverless Containers with KEDA",
-   "video": "https://youtube.com/watch?v=ujuWVs0A-KM"
+   "video": "https://youtube.com/watch?v=7G_oDLON7Us"
 },{
-   "duration": 3642,
+   "duration": 5689,
    "edition": "2019",
    "identifier": "#accu-2019-autumn-0012",
    "language": "english",
@@ -224,9 +224,9 @@
       "conference",
       "live"
    ],
-   "thumbnail": "http://img.youtube.com/vi/v_yzLe-wnfk/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/9a18XkWw8vk/0.jpg",
    "title": "From functions to Concepts: Impact on maintainability and refactoring for higher-level design features",
-   "video": "https://youtube.com/watch?v=v_yzLe-wnfk"
+   "video": "https://youtube.com/watch?v=9a18XkWw8vk"
 },{
    "duration": 3423,
    "edition": "2019",
@@ -285,7 +285,7 @@
    "title": "The Dawn of a New Error",
    "video": "https://youtube.com/watch?v=2Jhfubg9yvA"
 },{
-   "duration": 2787,
+   "duration": 2861,
    "edition": "2019",
    "identifier": "#accu-2019-autumn-0016",
    "language": "english",
@@ -300,9 +300,9 @@
       "conference",
       "live"
    ],
-   "thumbnail": "http://img.youtube.com/vi/Ieoaz1lzOQM/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/QVKj3LADCnA/0.jpg",
    "title": "Transpose(*this) - Linear Algebra for Standard C++",
-   "video": "https://youtube.com/watch?v=Ieoaz1lzOQM"
+   "video": "https://youtube.com/watch?v=QVKj3LADCnA"
 },{
    "duration": 5318,
    "edition": "2019",
@@ -361,7 +361,7 @@
    "title": "The Many Variants of std::variant",
    "video": "https://youtube.com/watch?v=JUxhwf7gYLg"
 },{
-   "duration": 226,
+   "duration": 4824,
    "edition": "2019",
    "identifier": "#accu-2019-autumn-0020",
    "language": "english",
@@ -376,9 +376,9 @@
       "conference",
       "live"
    ],
-   "thumbnail": "http://img.youtube.com/vi/pVY0G-uJCBo/0.jpg",
+   "thumbnail": "http://img.youtube.com/vi/qkO1Y0Bh74U/0.jpg",
    "title": "No more secrets? Why your secrets aren't safe and what you can do about it",
-   "video": "https://youtube.com/watch?v=pVY0G-uJCBo"
+   "video": "https://youtube.com/watch?v=qkO1Y0Bh74U"
 },{
    "duration": 134,
    "edition": "2019",

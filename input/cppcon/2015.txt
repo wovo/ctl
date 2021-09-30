@@ -844,9 +844,11 @@ CppCon
 102
 
 1:03:52
+$once tags testing quality
+$once level 2
 #marker-0101
 WORDT NU AFGESPEELD
-T. Winters & H. Wright : All Your Tests are Terrible...
+Titus Winters & Hyrum Wright : All Your Tests are Terrible...
 CppCon
 
 103

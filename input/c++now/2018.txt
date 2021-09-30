@@ -92,7 +92,7 @@ CppNow
 1:32:35
 #marker-0008
 WORDT NU AFGESPEELD
-Z. Laine: Boost.Text: Fixing std::string, and Adding Unicode to Standard C++ (part 1)
+Zach Laine: Boost.Text: Fixing std::string, and Adding Unicode to Standard C++ (part 1)
 CppNow
 
 8
@@ -100,7 +100,7 @@ CppNow
 1:17:48
 #marker-0009
 WORDT NU AFGESPEELD
-Z. Laine: Boost.Text: Fixing std::string, and Adding Unicode to Standard C++ (part 2)
+Zach Laine: Boost.Text: Fixing std::string, and Adding Unicode to Standard C++ (part 2)
 CppNow
 
 9

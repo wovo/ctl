@@ -150,7 +150,7 @@ Meeting Cpp
 52:59
 #marker-0010
 WORDT NU AFGESPEELD
-Product Types for C++2x - Vicente J. Botet Escribá - []
+Product Types for C++2x - Vicente Botet - []
 Meeting Cpp
 
 31
@@ -408,7 +408,7 @@ Meeting Cpp
 6:59
 #marker-0041
 WORDT NU AFGESPEELD
-Juanpe Bolivar : The Tragedy of the value based architecture
+Juan Pedro Bolivar Puente : The Tragedy of the value based architecture
 Meeting Cpp
 
 8

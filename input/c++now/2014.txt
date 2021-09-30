@@ -286,7 +286,7 @@ CppNow
 1:40:54
 #marker-0031
 WORDT NU AFGESPEELD
-Expected- An exception-friendly Error Monad - Vicente Botet Escriba - []
+Expected- An exception-friendly Error Monad - Vicente Botet - []
 CppNow
 
 32
@@ -358,7 +358,7 @@ CppNow
 1:26:45
 #marker-0040
 WORDT NU AFGESPEELD
-Zhihoa Yuan: Disambiguation: The Black Technology
+Zhihao Yuan: Disambiguation: The Black Technology
 CppNow
 
 41

@@ -172,7 +172,7 @@ CppNow
 45:38
 #marker-0017
 WORDT NU AFGESPEELD
-Juanpe Bolivar: Postmodern Immutable Data Structures
+Juan Pedro Bolivar Puente: Postmodern Immutable Data Structures
 CppNow
 
 18

@@ -14,23 +14,23 @@ $set tags talk
 Tuesday 2016-04-19
 10:00
 
-#accu-2016-0001
+#marker-0001
 The D Language, or The Art of Going Meta
 Andrei Alexandrescu
 
-#accu-2016-0002
+#marker-0002
 Tough Stuff in Modern C++
 Stephen Dewhurst
 
-#accu-2016-0003
+#marker-0003
 A Day of Deliberate Practice
 Jon Jagger @ Kevlin Henney
 
-#accu-2016-0004
+#marker-0004
 A Practical Introduction to User Story Mapping
 Seb Rose
 
-#accu-2016-0005
+#marker-0005
 Continuous Delivery with Docker Containers
 Mike Long
 
@@ -38,7 +38,7 @@ Wednesday 2016-04-20
 Bristol 1	Bristol 2	Bristol 3	Empire	SS Great Britain
 09:30
 
-#accu-2016-0006
+#marker-0006
 A Glimpse of Trygve: From Class-oriented Programming to Real OO
 Jim Coplien
 
@@ -50,19 +50,19 @@ Break
 
 11:00
 
-#accu-2016-0007
+#marker-0007
 How I Went from C++ Programmer to Running My Own Software Product Company (and you can too)
 Andy Brice
 
-#accu-2016-0008
+#marker-0008
 WG21-SG14: The Story So Far
 Guy Davidson
 
-#accu-2016-0009
+#marker-0009
 Using the Groovy Ecosystem for Rapid Development on the JVM
 Schalk Cronjé
 
-#accu-2016-0010
+#marker-0010
 Algorithmic Architecture: Performant Architecture in Evolving Regulatory Environments
 Jamie Allsop
 
@@ -74,19 +74,19 @@ Lunch
 
 14:00
 
-#accu-2016-0011
+#marker-0011
 Efficient and Accessible? Addressing New Architectures in C++
 Robin Williams
 
-#accu-2016-0012
+#marker-0012
 Proper Inheritance
 John Lakos
 
-#accu-2016-0013
+#marker-0013
 Waltzing with Branches
 Chris Oldwood
 
-#accu-2016-0014
+#marker-0014
 Monitor Your Services
 Sven Rosvall
 
@@ -98,23 +98,23 @@ Break
 
 16:00
 
-#accu-2016-0015
+#marker-0015
 Finding Bugs with Clang at Compile and Run Time
 Bernhard Merkle
 
-//#accu-2016-0016
+//#marker-0016
 //Proper Inheritance
 //John Lakos
 
-#accu-2016-0017
+#marker-0017
 How to Evolve Your Way Out of a Paper Bag
 Frances Buontempo
 
-#accu-2016-0018
+#marker-0018
 Swift for the Curious
 Phil Nash
 
-#accu-2016-0019
+#marker-0019
 Let’s Not Repeat the Mistakes of SOA: 'Micro' Services, Macro Organisational, Architectural and Operational Challenges
 Daniel Bryant
 
@@ -130,7 +130,7 @@ Thursday 2016-04-21
 Bristol 1	Bristol 2	Bristol 3	Empire	SS Great Britain
 09:30
 
-#accu-2016-0020
+#marker-0020
 Fastware
 Andrei Alexandrescu
 
@@ -140,23 +140,23 @@ Break
 
 11:00
 
-#accu-2016-0021
+#marker-0021
 Using Units, Qantities, and Dimensions in C++14
 Peter Sommerlad
 
-#accu-2016-0022
+#marker-0022
 Distributed Mutual Exclusion using Proposed Boost.AFIO (asynchronous filesystem and file io)
 Niall Douglas
 
-#accu-2016-0023
+#marker-0023
 A Taste of Julia
 Didier Verna
 
-#accu-2016-0024
+#marker-0024
 Mutation Testing in Python
 Austin Bingham
 
-#accu-2016-0025
+#marker-0025
 Predictive Models of Development Teams and the Systems they Build
 Robert Smallshire
 
@@ -166,23 +166,23 @@ Lunch
 
 14:00
 
-#accu-2016-0026
+#marker-0026
 Design Patterns in Modern C++
 Dmitri Nesteruk
 
-#accu-2016-0027
+#marker-0027
 Leaving the Dark Side
 Felix Petriconi
 
-#accu-2016-0028
+#marker-0028
 Refactoring to Streams
 Duncan McGregor @ Nat Pryce
 
-#accu-2016-0029
+#marker-0029
 The Plural of Anecdote is not Test Suite
 David R MacIver
 
-#accu-2016-0030
+#marker-0030
 Teaching Modern Software Engineering Practices in an Academic Environment
 Robert Chatley
 
@@ -195,15 +195,15 @@ Break
 C++ Pub Quiz
 Olve Maudal
 
-#accu-2016-0031
+#marker-0031
 The Story of CyberDojo (so far)
 Jon Jagger
 
-//#accu-2016-0032
+//#marker-0032
 //Refactoring to Streams
 //Duncan McGregor @ Nat Pryce
 
-#accu-2016-0033
+#marker-0033
 Repo-factoring
 Charles Bailey
 
@@ -221,7 +221,7 @@ Friday 2016-04-22
 Bristol 1	Bristol 2	Bristol 3	Empire	SS Great Britain
 09:30
 
-#accu-2016-0034
+#marker-0034
 Balancing Bias in Software Development
 Marian Petre
 
@@ -231,47 +231,47 @@ Break
 
 11:00
 
-#accu-2016-0035
+#marker-0035
 Constant Fun
 Dietmar Kühl
 
-#accu-2016-0036
+#marker-0036
 Benchmarking in C++
 Nikos Athanasiou
 
-#accu-2016-0037
+#marker-0037
 Visualize Template Instantiations - Understand your Template Bugs
 Peter Sommerlad
 
-#accu-2016-0038
+#marker-0038
 What Every C++ Programmer Should Know About Modern Compilers
 Sławomir Zborowski
 
-#accu-2016-0039
+#marker-0039
 Managing C++ Build Complexity Using Cuppa: A SCons-based Build System
 Jamie Allsop
 
-#accu-2016-0040
+#marker-0040
 Elegant Filesystem Interactions in Python using pathlib
 Johan Herland
 
-#accu-2016-0041
+#marker-0041
 Rewrite without Rewriting
 Jim Hague
 
-#accu-2016-0042
+#marker-0042
 Without Warning: Keeping the Noise Down in Legacy Code Builds
 Guy Bolton King
 
-#accu-2016-0043
+#marker-0043
 Writing Libraries is Terrible
 David R MacIver
 
-#accu-2016-0044
+#marker-0044
 A Meta-pipeline for Generating Continuous Delivery Pipelines for Microservices
 Hilverd Reker @ Steve Freeman
 
-#accu-2016-0045
+#marker-0045
 Code History Analysis and Visualization
 Dmitry Kandalov
 
@@ -281,24 +281,24 @@ Lunch
 
 14:00
 
-#accu-2016-0046
+#marker-0046
 STL Algorithms – How to Use Them and How to Write Your Own
 Marshall Clow
 
-#accu-2016-0047
+#marker-0047
 Declarative Thinking, Declarative Practice
 Kevlin Henney
 
-#accu-2016-0048
+#marker-0048
 Property Based Testing Hands-on in Haskell or Javascript
 Willem van den Ende @ Marc Evers
 
 // not found
-//#accu-2016-0049
+//#marker-0049
 //"Where xDD went wrong", "Some more of xDD’s greatest mistakes", and "What is this xDD thing anyway?"
 //Seb Rose
 
-#accu-2016-0050
+#marker-0050
 Snowden and the Snoopers – a.k.a. One persons’s surveillance state is another’s sensible precaution
 Burkhard Kloss
 
@@ -308,23 +308,23 @@ Break
 
 16:00
 
-#accu-2016-0051
+#marker-0051
 Become a GDB Power User
 Greg Law
 
-#accu-2016-0052
+#marker-0052
 Improving Performance and Maintainability in Modern C++
 J Daniel Garcia
 
-//#accu-2016-0053
+//#marker-0053
 //Property Based Testing Hands-on in Haskell or Javascript
 //Willem van den Ende @ Marc Evers
 
-#accu-2016-0054
+#marker-0054
 Go! Steady. Ready?
 Thomas Guest
 
-#accu-2016-0055
+#marker-0055
 Software Architecture: Living Structure, Art or Just Hopeful Arrangements of Bytes?
 Charles Tolman
 
@@ -344,23 +344,23 @@ Saturday 2016-04-23
 Bristol 1	Bristol 2	Bristol 3	Empire	SS Great Britain
 09:30
 
-#accu-2016-0056
+#marker-0056
 C++ Concepts "Lite" in Practice
 Roger Orr
 
-#accu-2016-0057
+#marker-0057
 Reduce: From Functional and Heterogeneous Programming to C++17 Fold Expressions
 Nikos Athanasiou
 
-#accu-2016-0058
+#marker-0058
 The Distributed Version Control Revolution
 Charles Bailey
 
-#accu-2016-0059
+#marker-0059
 Small Steps towards Better Technical Presentations
 Dirk Haun
 
-#accu-2016-0060
+#marker-0060
 Refactoring: 25 Years On
 Chris Simons
 
@@ -370,24 +370,24 @@ Break
 
 11:30
 
-#accu-2016-0061
+#marker-0061
 Extending and Wrapping C and C++ with Python
 Diego Rodriguez-Losada
 
-#accu-2016-0062
+#marker-0062
 Concurrent Thinking
 Anthony Williams
 
-#accu-2016-0063
+#marker-0063
 Writing Snake in 6 Programming Languages
 Andy Balaam
 
-#accu-2016-0064
+#marker-0064
 Big Data Analytics – A Primer for the Adventurous
 Astrid Byro @ Ari Mitra
 
 // not found
-//#accu-2016-0065
+//#marker-0065
 //Moving your Grid to the Cloud – or "Hardware, Who Needs Hardware?" or "Architecture Revisited"
 //Burkhard Kloss
 
@@ -397,19 +397,19 @@ Lunch
 
 14:30
 
-#accu-2016-0066
+#marker-0066
 How to Apply Engineering Practices to Embedded Software Development
 Raphael Meyer
 
-#accu-2016-0067
+#marker-0067
 Seven Languages in 90 Minutes
 Michel Grootjans
 
-#accu-2016-0068
+#marker-0068
 Keeping Your CI–CD Pipeline as Fast as it Needs to Be
 Abraham Marín Pérez
 
-#accu-2016-0069
+#marker-0069
 Test Driven Specification – A Gentle Introduction to TLA+ (finding concurrency bugs before you write code)
 Dominic Robinson
 
@@ -423,7 +423,7 @@ Break
 
 16:30
 
-#accu-2016-0071
+#marker-0071
 Comfort Zone
 Anna-Jayne Metcalfe
 

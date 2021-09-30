@@ -1,86 +1,37 @@
-CTL : the C++ Talks List 
+# CTL : the C++ Talks List 
+
+Wouter van Ooijen (wouter@voti.nl)
 
 license: Boost
 
-wouter van ooijen
+-------------------------------------------------------------------------------
 
-(2021-09-23) work in progress, come back later!
+# what is it
 
-This is a list of talks about C++ or related subjects I compiled from
-the published schedules of a number of C++ (and related) conferences.
+This is a list of talks about C++ and/or related subjects I compiled 
+from the playlists and schedules of a number of C++ (and related) conferences.
 Suggestions for other conferences to be included are welcome.
 I apologize for the (probably many) inaccuracies and omissions.
-In due time, corrections can supplied as pull requests for the json file on github.
-
-I created the list by semi-automated processing of the
-published schedules of conferences that I deemed interesting,
-and searching for the combination of conference, title and speakers on youtube.
-This mostly seems to work, but there are bound to be errors.
-In the process, I converted all text to ascii (sorry speakers...).
-The tags are still rudimentary.
+Feel free to suggest corrections.
 
 I don't pretend to be a front-end developer, so 
-beside the very spartan web page the list
+beside the simple web page (see index.html) the list
 is available in json and javscript formats, 
 with a Python interface for maybe slightly easier use.
 If you create you own interface, let me know!
 
-To build the list, I downloaded a text copy (web cut-n-paste)
-of the as-held schedules of the conferences I deemed interesting,
-in a subdirectory (in input) for each conference, 
-in a text file <edition>.txt
-In most cases the edition is the year, but there are exceptions
-like accu which has a 2019-autumn conference.
-In each schedule file, I added some meta information ($add ...) lines,
-and talk identifier lines (starting with a #). 
-The latter must never be changed,
-but can be removed, or new ones can be added later, provided that
-they remain in alphabetical order.
-The renumber command makes this somewhat easier, but
-don't forget to put a #locked line in the file once it has
-its identifiers.
+-------------------------------------------------------------------------------
 
-- duplicates
-- varying formats
-- funny names
+## details
 
+The main source I used was 
+https://isocpp.org/wiki/faq/conferences-worldwide
+which has links to playlists for most conferences.
+I created this list with a combination of Python scripts
+and manual corrections. This mostly seems to work now.
+In the process, I converted all text to ascii (sorry speakers...).
 
-Often some hand processing is needed, like replacing special chars,
-swapping first name and surname, combining multiple speakers (separated by @),
-and elimination lightning talks (which don't have a distinct name)
-and talks that can't be found on youtube.
-
-A problem that I haven't solved yet is that sometimes a talks
-title on youtube is abbreviated, and the youtube search 
-finds the talk with the full title from another conference. 
-Sigh.
-
-The page https://isocpp.org/wiki/faq/conferences-worldwide
-seems to have playlists for many conferences and editions, but
-quite a lot of these links are incorrect.
-But it provides some info I couldn't get from the published schedules.
-
-- lelbach => wrong video
-- bolivar 
-- mckenney
-- miller
-- who the f*
-- t winters
-- romeo
-- alle agerkorte voornamen
-- 2021 die al gewwst zijn
-- makefile
-- vicente
-- laine
-- yuan
-- brown
-
-
-sort should disregard case
-
-https://liveembededevent.virtualconference.com/#/event
-
-The conferences I included so fare are (from the youtube playlists):
+The conferences I included so fare are:
 - accu (spring) 2016-2019 (from the program page)
 - accu (autumn) 2019
 - c++now 2010-2019, 2021
@@ -92,49 +43,27 @@ The conferences I included so fare are (from the youtube playlists):
 - cpp-india 2021
 - pacific-c++ 2017, 2018
 
-- embo++ (no schedules available? - must ask!)
-
-todo
-
-italian C++ conference
-cpp-summit (more)
-cpp europe (more)
-EuroLLVM
-LLVM dev meeting
-C++ Russia
-Core Hard
-Core C++
-CPPP
-C++ Day
-ADC++
-C++ Day 2020
-NDC Tech Town
-pure C++ 2020
-accu again, note the lightning's
-
-The talks are tagged, but this has been done by hand and very roughly.
-I used or plan to use these tags 
-(in most cases, at most one from each line):
+The talks have tags, but this is still rudimentary.
+I used or plan to use these tags:
 - conference, meetup
 - talk, keynote, lightning, interview, panel
 - live, online
 - c++, c, java, javscript, python, assembler
 - c++11, c++14, c++17, c++20
-
-And add when appropriate (examples, avoid a trailing 's'):
 - standard, evolution
 - embedded, latency, freestanding, unit
 - git, make, cmake
 - exception, template, concept, constexpr, lambda, volatile, int
 - stl, container, algorithm
 - procedural, oo, functional
-- jit, meta, quality, naming
+- compilation, jit
+- quality, naming, testing
 
 There is a field to rate the talk for the experience level of the intended
 audience, but this has not been done yet (all are at 0, which means unknown).
 The intended levels are:
 - 1 : no programming experience
-- 2 : no experience with the programming language
+- 2 : no experience any specific the programming language
 - 3 : no experience with the subject within the programming language
 - 4 : ??
 - 5 : junior programmer level
@@ -144,6 +73,40 @@ The intended levels are:
 - 9 : specialist in the subject
 - 10 : central committee level
 
-One conference that I'd like to include is FOSDEM, but they
-have A LOT of talks, so that will be a challenge.                    
+-------------------------------------------------------------------------------
+
+## to do list
+
+- https://liveembededevent.virtualconference.com/#/event
+- title sort order should disregard case
+- 2021 
+- abbreviated first names
+- lelbach => wrong video
+- who the f*
+- cpp-summit (more)
+- cpp europe (more)
+- EuroLLVM, LLVM dev meeting
+- C++ Russia
+- Core Hard
+- Core C++
+- CPPP
+- C++ Day
+- ADC++
+- C++ Day 2020
+- NDC Tech Town
+- pure C++ 2020
+- accu again, note the lightning's
+- FOSDEM (lots of talks, maybe not so interesting?)
+- embo++ (no schedules available? - must ask!)
+
+
+
+
+
+
+
+
+
+
+                   
    

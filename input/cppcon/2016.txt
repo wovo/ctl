@@ -315,7 +315,7 @@ CppCon
 1:01:51
 #marker-0032
 WORDT NU AFGESPEELD
-McKenney : Beyond the Issaquah Challenge: High-Performance Scalable Complex Updates
+Paul E. McKenny : Beyond the Issaquah Challenge: High-Performance Scalable Complex Updates
 CppCon
 
 33

@@ -241,7 +241,7 @@ CppCon
 59:28
 #marker-0022
 WORDT NU AFGESPEELD
-P. McKenney, M. Michael & M. Wong : Is Parallel Programming still hard? PART 1 of 2
+Paul E. McKenny, Maged Michael,  Michael Wong : Is Parallel Programming still hard? PART 1 of 2
 CppCon
 
 23
@@ -249,7 +249,7 @@ CppCon
 47:57
 #marker-0023
 WORDT NU AFGESPEELD
-P. McKenney, M. Michael & M. Wong : Is Parallel Programming still hard? PART 2 of 2
+Paul E. McKenny, Maged Michael, Michael Wong : Is Parallel Programming still hard? PART 2 of 2
 CppCon
 
 24
@@ -1314,7 +1314,7 @@ CppCon
 5:36
 #marker-0156
 WORDT NU AFGESPEELD
-Programing: The Last 4000 Years - Juanpe Bolívar  - []
+Programing: The Last 4000 Years - Juan Pedro Bolivar Puente  - []
 CppCon
 
 157

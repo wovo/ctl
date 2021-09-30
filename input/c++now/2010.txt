@@ -181,7 +181,7 @@ CppNow
 1:15:27
 #marker-0015
 WORDT NU AFGESPEELD
-Matt Calabrese, Zachary Laine: Instantiations Must Go!
+Matt Calabrese, Zach Laine: Instantiations Must Go!
 CppNow
 
 ===============================================================================

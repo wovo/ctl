@@ -234,10 +234,14 @@ class talks:
          file.write( "<BR>\n" )
       file.close()      
       
+   def sort_talks( self ):      
+      self.list = sorted( self.list, key = lambda t : t.title.lower() )
+      
    def write_json( self, file_name = "talks.json" ):
       """
       write the talks to a json file
       """   
+      self.sort_talks()
       file = open( file_name, "w" )
       file.write( "{ \"list\": [" )
       separator = ""
@@ -276,6 +280,7 @@ class talks:
             )
 
    def write_javascript( self, file ):
+      self.sort_talks()
       t = ''
       t += make_js_data( "meetings",   self.meetings )
       t += make_js_data( "editions",   self.editions )
@@ -291,7 +296,7 @@ class talks:
       t += read_from_file( "index.js" )
       t += read_from_file( file )
       t += "\n</SCRIPT>\n</BODY>\n"
-      write_to_file( "index.html", t )
+      write_to_file( "docs/index.html", t )
 
 
 # ===========================================================================
@@ -346,7 +351,8 @@ def make_talk(
       title,
       speakers,
       youtube,
-      tags
+      tags,
+      level
    ):
       """   
       return a talk object from the info found in a conference schedule
@@ -355,9 +361,9 @@ def make_talk(
       video = ""
       thumbnail = ""
       duration = ""
-      level = 0
       match = []
       meeting = meeting.replace( "-", " " ) # for c++-on-sea etc.
+      if meeting == "none": meeting = ""
       
       title2 = title
       if title2.endswith( " I" ): title2 = '"%s"' % title2
@@ -405,12 +411,20 @@ def process_marker_title_author( meeting, edition, lines, youtube, progress ):
    state = 0
    found = {}
    tags = []
+   once_tags = []
+   once_level = 0
    language = ""
    for nr, line in lines:
       if line.startswith( "$set tags" ):
          tags = line.split( " ")[ 2 : ] 
          
-      if line.startswith( "$set language" ):
+      elif line.startswith( "$once tags" ):
+         once_tags = line.split( " ")[ 2 : ] 
+         
+      elif line.startswith( "$once level" ):
+         once_level = int( line.split( " ")[ 2 ] )
+         
+      elif line.startswith( "$set language" ):
          language = line.split( " " )[ 2 ] 
          
       elif line.startswith( "$locked" ):
@@ -426,19 +440,20 @@ def process_marker_title_author( meeting, edition, lines, youtube, progress ):
          
       # ccpcon 2016 has title-(room)-speakers
       # youtube playlists have WORDT NU AFGESPEELD + spearks : title
-      elif state == 2 and ( title.startswith( "WORDT NU AFGESPEELD" ) or not line.endswith( ")" ) ):         
+      elif ( state == 2 ) and \
+       ( title.startswith( "WORDT NU AFGESPEELD" ) or not line.endswith( ")" ) ):         
       
          if title.startswith( "WORDT NU AFGESPEELD" ):
             line = line.strip()
             if line.endswith( "[]" ):
-               # title - speakers - []
+               # format: title - speakers - []
                line = line[ : -2 ].strip()
                if line.endswith( "-" ):
                   line = line[ : -1 ].strip()
                title, speakers = line.rsplit( " - ", 1 )
                
             else:
-               # speakers: title
+               # format: speakers: title
                speakers, title = line.split( ":", 1 )
                
          else:
@@ -465,8 +480,12 @@ def process_marker_title_author( meeting, edition, lines, youtube, progress ):
             title       = title, 
             speakers    = list( map( lambda s : s.strip(), speakers.split( '@' ))),
             youtube     = youtube,
-            tags        = tags
+            tags        = tags + once_tags,
+            level       = once_level
          ))
+         
+         once_tags = []
+         once_level = 0
          
    return found_talks   
    
@@ -537,12 +556,14 @@ def command_line_command( args, c, f ):
             print( "unknown option [%s]" % args[ 0 ] )
             exit( -1 )
          args.pop( 0 ) 
-      if len( args ) > 0:
+      if c == "build":
+         f()
+      elif len( args ) > 0:
          print( "do %s %s" % ( c, args[ 0 ] ))
          f( args[ 0 ], youtube, progress )    
          args.pop( 0 )
       else:
-         print( "%s command needs a <file>" % ( s ) )
+         print( "'%s' command needs a <file>" % ( c ) )
          exit( -1 )
 
 # ===========================================================================         
@@ -553,6 +574,30 @@ def process( talks, files, youtube, progress ):
       talks.write_json( file_name.replace( ".txt", ".json" ) ) 
       
       
+# ===========================================================================         
+         
+def build():   
+   for text_file in glob.glob( "input/*/*.txt" ):
+      t = talks()      
+      json_file = text_file.replace( ".txt", ".json" )
+      if 0:
+         print( json_file, os.path.isfile( json_file ) )
+         print( os.path.getmtime( text_file ) )
+         print( os.path.getmtime( json_file ),
+            os.path.getmtime( text_file ) > os.path.getmtime( json_file ) )
+      if( not os.path.isfile( json_file ) ) \
+       or ( os.path.getmtime( text_file ) > os.path.getmtime( json_file ) ):
+         print( "process %s" % text_file )
+         add_talks( t, text_file, True, True )
+         t.write_json( json_file )
+         
+   t = talks()      
+   for json_file in glob.glob( "input/*/*.json" ):
+      t.read_json( json_file )
+      t.write_json( "talks.json" )
+      t.write_javascript( "talks.js" )
+
+
 # ===========================================================================
 
 if __name__ == "__main__":
@@ -569,6 +614,7 @@ if __name__ == "__main__":
          write_json <json_file>
          write_html <html_file>
          write_js <javascript_file>
+         build
       """ )   
       exit( -1 )
    
@@ -583,6 +629,7 @@ if __name__ == "__main__":
       command_line_command( args, "write_json",  lambda f, y, p: t.write_json( f ) )
       command_line_command( args, "write_html",  lambda f, y, p: t.write_html( f ) )
       command_line_command( args, "write_js",    lambda f, y, p: t.write_javascript( f ) )
+      command_line_command( args, "build",       build )
                
       if args == old_args:
          print( "unknown command %s" % args[ 0 ] )

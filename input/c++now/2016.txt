@@ -1,4 +1,4 @@
-#locked
+$locked
 
 $add meeting c++now
 $add edition 2016
