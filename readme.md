@@ -65,6 +65,15 @@ But it provides some info I couldn't get from the published schedules.
 - mckenney
 - miller
 - who the f*
+- t winters
+- romeo
+- alle agerkorte voornamen
+- 2021 die al gewwst zijn
+- makefile
+- vicente
+- laine
+- yuan
+- brown
 
 
 sort should disregard case
