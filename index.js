@@ -27,13 +27,13 @@ function rewrite(){
    t += "Feel free to supply corrections and additions! "
    t += "<HR>"
    
-   t += "Select specific<BR>"
+   t += "Select a specific<BR>"
    for( c of select_criteria ){
       t += selection( c )
    }   
    t += "<HR>"
     
-   t += "Search for<BR><form>"
+   t += "Search in the<BR><form>"
    for( c of search_criteria ){
       t += criterium( c ) + "<BR>"
    }   
