@@ -9,50 +9,212 @@ $add tags conference live c++ talk
 
 
 
-1:38:51
+9+
+
+Avatar-afbeelding
+Home
+Ontdekken
+Abonnementen
+Bibliotheek
+
+ALLES AFSPELEN
+Core C++ 2021
+23 video's51 weergavenGisteren geüpdatet
+
+
+
+
+
+CoreCppIL
+1
+
+
+
+2
+
+13:38
 #marker-0001
 WORDT NU AFGESPEELD
-Pavel Yosifovich : C++ 20 Overview: The Big Four
-12 weergaven
-1 uur geleden
+Welcome Words - Adi Shavit []
+CoreCppIL
 
+3
 
-56:51
+1:37:59
 #marker-0002
 WORDT NU AFGESPEELD
-Michael Peeri : C++ on the Edge – Machine Learning + Microcontrollers + C++
-Geen weergaven
-1 uur geleden
+Bjarne Stroustrup : Thriving in a crowded and changing world: C++ 2006-2020
+CoreCppIL
 
+4
 
-32:28
+54:53
 #marker-0003
 WORDT NU AFGESPEELD
-Alex Cohn : Obfuscation and beyond: securing your binary
-4 weergaven
-1 uur geleden
+Shachar Langbeheim : Video Rendering on Frontend and Backend
+CoreCppIL
+
+5
 
 
-57:29
+6
+
+47:00
 #marker-0004
 WORDT NU AFGESPEELD
-Haggai Eran : Design Patterns for Hardware Packet Processing on FPGAs
-4 weergaven
-2 uur geleden
+Alex Dathskovsky : C++17 key features
+CoreCppIL
 
+7
 
-49:55
+1:10:23
 #marker-0005
 WORDT NU AFGESPEELD
-Roi Barkan : Argument Passing, Core Guidelines, and Aliasing
-12 weergaven
-2 uur geleden
+Adi Shavit : Generators, Coroutines and Other Brain Unrolling Sweetness
+CoreCppIL
+
+8
 
 
-5:45
+9
+
+31:22
 #marker-0006
 WORDT NU AFGESPEELD
-Dalit Naor : Welcome Words 
-6 weergaven
-2 uur geleden
+Inbal Levi : Ownership model in C++ and beyond
+CoreCppIL
 
+10
+
+
+11
+
+1:38:51
+#marker-0007
+WORDT NU AFGESPEELD
+Pavel Yosifovich :  : C++ 20 Overview: The Big Four
+CoreCppIL
+
+12
+
+57:29
+#marker-0008
+WORDT NU AFGESPEELD
+Haggai Eran :  Design Patterns for Hardware Packet Processing on FPGAs
+CoreCppIL
+
+13
+
+56:19
+#marker-0009
+WORDT NU AFGESPEELD
+Ofek Shilon  : opt-viewer: Inspecting compiler optimizations in high-level code
+CoreCppIL
+
+14
+
+49:55
+#marker-0010
+WORDT NU AFGESPEELD
+Roi Barkan : Argument Passing, Core Guidelines, and Aliasing
+CoreCppIL
+
+15
+
+
+
+16
+
+32:28
+#marker-0011
+WORDT NU AFGESPEELD
+Alex Cohn : Obfuscation and beyond: securing your binary
+CoreCppIL
+
+17
+
+56:51
+#marker-0012
+WORDT NU AFGESPEELD
+Michael Peeri : C++ on the Edge – Machine Learning + Microcontrollers + C++
+CoreCppIL
+
+18
+
+47:16
+#marker-0013
+WORDT NU AFGESPEELD
+Dvir Yitzchaki : The many faces of Number -- String conversions
+CoreCppIL
+
+19
+
+20
+
+
+
+58:18
+#marker-0014
+WORDT NU AFGESPEELD
+Tamir Bahar : Implementing C++ Semantics in Python
+CoreCppIL
+
+22
+
+
+23
+
+33:16
+#marker-0015
+WORDT NU AFGESPEELD
+Shachar Shemesh  : C++ Integer Promotion is Completely Broken
+CoreCppIL
+
+
+===============================================================================
+
+$set language hebrew
+
+58:44
+#marker-0016
+WORDT NU AFGESPEELD
+Amir Kirsh, Amit Barzilay : Understanding and mastering C++'s complexities
+CoreCppIL
+
+
+31:55
+#marker-0017
+WORDT NU AFGESPEELD
+Yossi Moalem : Don’t do what I did
+CoreCppIL
+
+
+46:04
+#marker-0018
+WORDT NU AFGESPEELD
+Amir Kotler : Latency Observability
+CoreCppIL
+
+1:01:19
+#marker-0019
+WORDT NU AFGESPEELD
+Muhammad Zahalqa : Modern Design Patterns with Modern C++
+CoreCppIL
+
+34:31
+#marker-0020
+WORDT NU AFGESPEELD
+Dafna Mordechai: The MLIR Framework: A Brief Introduction to Deep Learning Compilers
+CoreCppIL
+
+5:45
+#marker-0021
+WORDT NU AFGESPEELD
+Dalit Naor : Welcome Words 
+CoreCppIL
+
+56:28
+#marker-0022
+WORDT NU AFGESPEELD
+Avi Lachmish : Writing a cache-friendly C++ code
+CoreCppIL
