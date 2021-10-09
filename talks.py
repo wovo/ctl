@@ -44,13 +44,6 @@ def time_in_minutes( time ):
 def time_as_time( n ):
    return "%d:%02d" % ( n // 60, n % 60 )
    
-def remove_if_in( list, element ):
-   n = list.find( element )
-   if n > -1: 
-      list = list[ : ]
-      list.remove( element )
-   return list   
-   
 def write_to_file( file, text ):
    with open( file, "w" ) as f:
       f.write( text )
@@ -131,7 +124,7 @@ def make_list( list ):
 def page_content( url ):
    return urllib.request.urlopen( url ).read().decode()
    
-def playlist_ids( playlist ):
+def youtube_ids( playlist ):
    url = "https://www.youtube.com/playlist?list=%s" % playlist
    return re.findall( r"watch\?v=(\S{11})", page_content( url ) )
    
@@ -274,7 +267,7 @@ class talks:
          key = lower_noquotes )      
       self.tags       = sorted( self.tags, 
          key = lower_noquotes )      
-      self.meetings   = sorted( remove_if_in( self.meetings, [ "unknown" ] )
+      self.meetings   = sorted( set( self.meetings )- set([ "unknown" ]),
          key = lower_noquotes )      
       self.editions   = sorted( self.editions, 
          key = lower_noquotes )      
@@ -1352,15 +1345,15 @@ def use_nr( nr, nr1, nr2 ):
       
 
 def add_playlist( talks, meeting, edition, playlists, nr1, nr2 ):
-   if 0: print( "add_playlist", meeting, edition, nr1, nr2, playlists )
+   if 1: print( "add_playlist", meeting, edition, nr1, nr2, playlists )
    nr = 0
    done = []
    for playlist_id, sp, tg in playlists: 
       if len( playlist_id ) < 30:
-         nr += 1
-         v = pafy.new( youtube_id )
-         add_talk( talks, meeting, edition, youtube_id, nr, v, sp, tg )
-      else for youtube_id in playlist_ids( playlist_id ):
+         ids = [ playlist_id ]
+      else:
+         ids = youtube_ids( playlist_id )
+      for youtube_id in ids:
          nr += 1
          if 0: print( nr, youtube_id, youtube_id in done )
          if not youtube_id in done:
@@ -1412,7 +1405,8 @@ playlists = [
       [ "2014", [[ "PLK3T2dt6T1fcZswWn2HbWpRHprPHyJ4wZ", split_st,  "l"   ]]],
       [ "2015", [[ "PLK3T2dt6T1fc-Duvq7ZXz0ZQFcSgVKyl4", split_st,  "l"   ]]],
       [ "2016", [[ "PLK3T2dt6T1fe_K81rfIBdGPfbMlLqeHBT", split_st,  "l"   ]]],
-      [ "2017", [[ "PLK3T2dt6T1fdoBo5uqDjhLg5OcZYKh_KU", split_st,  "l"   ]]],
+      [ "2017", [[ "PLK3T2dt6T1fdoBo5uqDjhLg5OcZYKh_KU", split_st,  "l"   ],
+                 [ "Se9AEznM8TI",                        split_lee, "l"   ]]],
       [ "2018", [[ "PLK3T2dt6T1fd6PILMU2lg7K6pWnUKl34S", split_ts,  "l"   ]]],
       [ "2019", [[ "PLK3T2dt6T1fd65u8sx01jRrp9aVquXIpN", split_ts,  "l"   ]]],
       [ "2020", [[ "PLK3T2dt6T1feBLbwORz3dBdCylfe0lBlR", split_ts,  "o"   ]]],
@@ -1470,8 +1464,6 @@ playlists = [
    ]], [ "Live Embedded Event", [ # checked, but no speakers :(
       [ "2020", [[ "PLn7YTy5_SF4_1ZLsQ29ZGpjZo7aNoLBIt", split_lee, "oe"  ]]],
       [ "2021", [[ "PLn7YTy5_SF4-FRyY-5zwsKuTCOBRUkY_h", split_lee, "oe"  ]]],
-   ]], [ "unknown", [ # checked
-      [ "2017", [[ "Se9AEznM8TI&t=22s", split_lee,  "l"  ]]],
    ]], [ "", [
    ]],      
 ]
@@ -1593,7 +1585,7 @@ function rewrite(){
    t += "Compiled by Wouter van Ooijen (wouter@voti.nl).<BR>"
    t += "Raw data avaiulable at <A HREF=https://www.github.com/wovo/ctl>"
    t += "www.github.com/wovo/ctl</A>.<P>"
-   t += "This is a list of talks about C++, embedded and related subjects 
+   t += "This is a list of talks about C++, embedded and related subjects "
    t += "I compiled from youtube playlists. "
    t += "Suggestions for other conferences to be included are welcome. "
    t += "I apologize for any inaccuracies and omissions. "

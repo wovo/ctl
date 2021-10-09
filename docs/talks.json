@@ -5,7 +5,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1861,
+   "number": 1862,
    "speakers": [
       "Dietmar Kuhl"
    ],
@@ -42,7 +42,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1610,
+   "number": 1611,
    "speakers": [
       "Ewelina Wyspianska",
       "Maciej Trojniarz"
@@ -155,7 +155,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1853,
+   "number": 1854,
    "speakers": [
       "Jonathan Boccara"
    ],
@@ -230,7 +230,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1800,
+   "number": 1801,
    "speakers": [
       "Jonathan Boccara"
    ],
@@ -248,7 +248,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Core C++",
-   "number": 2068,
+   "number": 2069,
    "speakers": [
       "Dvir Yitzchaki"
    ],
@@ -305,7 +305,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1613,
+   "number": 1614,
    "speakers": [
       "Piotr Kozlowski"
    ],
@@ -418,7 +418,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1639,
+   "number": 1640,
    "speakers": [
       "Bat-Ulzii Luvsanbat"
    ],
@@ -455,7 +455,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Italian C++ Conference",
-   "number": 1973,
+   "number": 1974,
    "speakers": [
       "Kris van Rens"
    ],
@@ -474,7 +474,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1787,
+   "number": 1788,
    "speakers": [
       "Jez Higgins"
    ],
@@ -683,7 +683,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 2033,
+   "number": 2034,
    "speakers": [
       "Barney Dellar"
    ],
@@ -759,7 +759,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Live Embedded Event",
-   "number": 2230,
+   "number": 2231,
    "speakers": [],
    "tags": [
       "embedded",
@@ -815,7 +815,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1711,
+   "number": 1712,
    "speakers": [
       "Jim Coplien"
    ],
@@ -833,7 +833,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Core C++",
-   "number": 2070,
+   "number": 2071,
    "speakers": [
       "Meir Komar"
    ],
@@ -852,7 +852,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1933,
+   "number": 1934,
    "speakers": [
       "Guy Davidson"
    ],
@@ -870,7 +870,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 1991,
+   "number": 1992,
    "speakers": [
       "Guy Davidson"
    ],
@@ -986,7 +986,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1745,
+   "number": 1746,
    "speakers": [
       "Anastasia Kazakova"
    ],
@@ -1042,7 +1042,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1888,
+   "number": 1889,
    "speakers": [
       "Burkhard Kloss"
    ],
@@ -1117,7 +1117,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1921,
+   "number": 1922,
    "speakers": [
       "James Cain"
    ],
@@ -1192,7 +1192,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Italian C++ Conference",
-   "number": 1966,
+   "number": 1967,
    "speakers": [
       "Arno Schoedl"
    ],
@@ -1230,7 +1230,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1802,
+   "number": 1803,
    "speakers": [
       "Charles Bay"
    ],
@@ -1267,7 +1267,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 2006,
+   "number": 2007,
    "speakers": [
       "Boguslaw Cyganek"
    ],
@@ -1306,7 +1306,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 2004,
+   "number": 2005,
    "speakers": [
       "Walter E. Brown"
    ],
@@ -1363,7 +1363,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1679,
+   "number": 1680,
    "speakers": [
       "Victor Ciura"
    ],
@@ -1476,7 +1476,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 2040,
+   "number": 2041,
    "speakers": [
       "Arnaud Desitter"
    ],
@@ -1514,7 +1514,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1720,
+   "number": 1721,
    "speakers": [
       "Didier Verna"
    ],
@@ -1551,7 +1551,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1748,
+   "number": 1749,
    "speakers": [
       "Chris Oldwood"
    ],
@@ -1606,7 +1606,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1648,
+   "number": 1649,
    "speakers": [
       "Gabriela Limonta"
    ],
@@ -1815,7 +1815,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Live Embedded Event",
-   "number": 2184,
+   "number": 2185,
    "speakers": [],
    "tags": [
       "embedded",
@@ -2137,7 +2137,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ Europe",
-   "number": 2113,
+   "number": 2114,
    "speakers": [
       "Odin Holmes"
    ],
@@ -2156,7 +2156,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1696,
+   "number": 1697,
    "speakers": [
       "Karol Przybylski"
    ],
@@ -2192,7 +2192,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1669,
+   "number": 1670,
    "speakers": [
       "Pablo Ribalta"
    ],
@@ -2210,7 +2210,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Italian C++ Conference",
-   "number": 1972,
+   "number": 1973,
    "speakers": [
       "Tondelli",
       "Verasani"
@@ -2230,7 +2230,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1777,
+   "number": 1778,
    "speakers": [
       "Frances Buontempo"
    ],
@@ -2248,7 +2248,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1813,
+   "number": 1814,
    "speakers": [
       "Uberto Barbini"
    ],
@@ -2342,7 +2342,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 2025,
+   "number": 2026,
    "speakers": [
       "Alexander Maslennikov"
    ],
@@ -2437,7 +2437,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 2058,
+   "number": 2059,
    "speakers": [
       "Phil Nash"
    ],
@@ -2475,7 +2475,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1914,
+   "number": 1915,
    "speakers": [
       "John Lakos"
    ],
@@ -2550,7 +2550,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1854,
+   "number": 1855,
    "speakers": [
       "Felix Petriconi"
    ],
@@ -2568,7 +2568,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1698,
+   "number": 1699,
    "speakers": [
       "Zbigniew Piecuch"
    ],
@@ -2831,7 +2831,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 2020,
+   "number": 2021,
    "speakers": [
       "Hendrik Niemeyer"
    ],
@@ -2850,7 +2850,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1755,
+   "number": 1756,
    "speakers": [
       "Dmitry Kandalov"
    ],
@@ -2868,7 +2868,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Pacific C++",
-   "number": 2148,
+   "number": 2149,
    "speakers": [
       "Toby Allsopp"
    ],
@@ -2925,7 +2925,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1759,
+   "number": 1760,
    "speakers": [
       "Mathias Gaunard"
    ],
@@ -2962,7 +2962,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Live Embedded Event",
-   "number": 2203,
+   "number": 2204,
    "speakers": [],
    "tags": [
       "embedded",
@@ -2979,7 +2979,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Live Embedded Event",
-   "number": 2194,
+   "number": 2195,
    "speakers": [],
    "tags": [
       "embedded",
@@ -3034,7 +3034,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1709,
+   "number": 1710,
    "speakers": [
       "Rafal Pasek"
    ],
@@ -3071,7 +3071,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1873,
+   "number": 1874,
    "speakers": [
       "Austin Bingham"
    ],
@@ -3259,7 +3259,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1612,
+   "number": 1613,
    "speakers": [
       "Lukasz Skomra"
    ],
@@ -3315,7 +3315,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Core C++",
-   "number": 2100,
+   "number": 2101,
    "speakers": [
       "Roi Barkan"
    ],
@@ -3334,7 +3334,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Core C++",
-   "number": 2066,
+   "number": 2067,
    "speakers": [
       "Adi Shavit"
    ],
@@ -3373,7 +3373,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Live Embedded Event",
-   "number": 2200,
+   "number": 2201,
    "speakers": [],
    "tags": [
       "embedded",
@@ -3428,7 +3428,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1895,
+   "number": 1896,
    "speakers": [
       "Alex Chan"
    ],
@@ -3484,7 +3484,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1701,
+   "number": 1702,
    "speakers": [
       "Oleksii Pilkevych"
    ],
@@ -3653,7 +3653,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1664,
+   "number": 1665,
    "speakers": [
       "Lukasz Langa"
    ],
@@ -3671,7 +3671,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1750,
+   "number": 1751,
    "speakers": [
       "Frank Birbacher"
    ],
@@ -3727,7 +3727,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1867,
+   "number": 1868,
    "speakers": [
       "Timur Doumler"
    ],
@@ -3764,7 +3764,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1637,
+   "number": 1638,
    "speakers": [
       "Rafal Legiedz"
    ],
@@ -3801,7 +3801,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1778,
+   "number": 1779,
    "speakers": [
       "Sergei Sadovnikov"
    ],
@@ -3934,7 +3934,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Live Embedded Event",
-   "number": 2176,
+   "number": 2177,
    "speakers": [],
    "tags": [
       "embedded",
@@ -4410,7 +4410,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Pacific C++",
-   "number": 2161,
+   "number": 2162,
    "speakers": [
       "Andrew Paxie"
    ],
@@ -4429,7 +4429,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1651,
+   "number": 1652,
    "speakers": [
       "Grzegorz Golawski"
    ],
@@ -4447,7 +4447,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Italian C++ Conference",
-   "number": 1978,
+   "number": 1979,
    "speakers": [
       "Roland Grinis"
    ],
@@ -4485,7 +4485,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1851,
+   "number": 1852,
    "speakers": [
       "Giovanni Asproni",
       "Natalia Oskina"
@@ -4523,7 +4523,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1733,
+   "number": 1734,
    "speakers": [
       "Greg Law"
    ],
@@ -4541,7 +4541,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ Europe",
-   "number": 2118,
+   "number": 2119,
    "speakers": [
       "Thomas Sundberg"
    ],
@@ -4560,7 +4560,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Core C++",
-   "number": 2085,
+   "number": 2086,
    "speakers": [
       "Gal Zaban"
    ],
@@ -4598,7 +4598,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 2047,
+   "number": 2048,
    "speakers": [
       "Loic Joly"
    ],
@@ -4617,7 +4617,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Pacific C++",
-   "number": 2162,
+   "number": 2163,
    "speakers": [
       "Alexander Radchenko"
    ],
@@ -4674,7 +4674,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1728,
+   "number": 1729,
    "speakers": [
       "Nikos Athanasiou"
    ],
@@ -4711,7 +4711,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1917,
+   "number": 1918,
    "speakers": [
       "Rosemary Francis"
    ],
@@ -4748,7 +4748,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1693,
+   "number": 1694,
    "speakers": [
       "Conor Hoekstra"
    ],
@@ -4974,7 +4974,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1872,
+   "number": 1873,
    "speakers": [
       "Wouter Van Ooijen"
    ],
@@ -5106,7 +5106,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 2046,
+   "number": 2047,
    "speakers": [
       "Boguslaw Cyganek"
    ],
@@ -5239,7 +5239,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 2057,
+   "number": 2058,
    "speakers": [
       "Mariusz Rozycki"
    ],
@@ -5258,7 +5258,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1666,
+   "number": 1667,
    "speakers": [
       "Dmitry Trukhanov"
    ],
@@ -5276,7 +5276,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1747,
+   "number": 1748,
    "speakers": [
       "Roger Orr"
    ],
@@ -5486,7 +5486,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ Europe",
-   "number": 2116,
+   "number": 2117,
    "speakers": [
       "Adam Wulkiewicz",
       "Vissarion Fysikopoulos"
@@ -5582,7 +5582,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1923,
+   "number": 1924,
    "speakers": [
       "Odin Holmes"
    ],
@@ -5600,7 +5600,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 1981,
+   "number": 1982,
    "speakers": [
       "Odin Holmes"
    ],
@@ -5657,7 +5657,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1594,
+   "number": 1595,
    "speakers": [
       "Odin Holmes"
    ],
@@ -5675,7 +5675,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1595,
+   "number": 1596,
    "speakers": [
       "Odin Holmes"
    ],
@@ -5788,7 +5788,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1616,
+   "number": 1617,
    "speakers": [
       "Zbigniew Piecuch"
    ],
@@ -5844,7 +5844,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1920,
+   "number": 1921,
    "speakers": [
       "Thomas Guest"
    ],
@@ -5939,7 +5939,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1624,
+   "number": 1625,
    "speakers": [
       "Borislav Stanimirov"
    ],
@@ -6090,7 +6090,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1676,
+   "number": 1677,
    "speakers": [
       "Mathieu Ropert"
    ],
@@ -6146,7 +6146,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1803,
+   "number": 1804,
    "speakers": [
       "Paul Grenyer"
    ],
@@ -6259,7 +6259,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1670,
+   "number": 1671,
    "speakers": [
       "Jakub Janczyk"
    ],
@@ -6277,7 +6277,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Core C++",
-   "number": 2086,
+   "number": 2087,
    "speakers": [
       "Avi Kivity"
    ],
@@ -6334,7 +6334,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Live Embedded Event",
-   "number": 2183,
+   "number": 2184,
    "speakers": [],
    "tags": [
       "embedded",
@@ -6369,7 +6369,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1843,
+   "number": 1844,
    "speakers": [
       "Schalk Cronje"
    ],
@@ -6406,7 +6406,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Live Embedded Event",
-   "number": 2175,
+   "number": 2176,
    "speakers": [],
    "tags": [
       "embedded",
@@ -6461,7 +6461,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Core C++",
-   "number": 2097,
+   "number": 2098,
    "speakers": [
       "Pavel Yosifovich"
    ],
@@ -6480,7 +6480,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1598,
+   "number": 1599,
    "speakers": [
       "Ulrich Drepper"
    ],
@@ -6517,7 +6517,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1826,
+   "number": 1827,
    "speakers": [
       "Mathieu Ropert"
    ],
@@ -6554,7 +6554,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1673,
+   "number": 1674,
    "speakers": [
       "Viktor Kirilov"
    ],
@@ -6628,7 +6628,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1945,
+   "number": 1946,
    "speakers": [
       "Simon Brand"
    ],
@@ -6646,7 +6646,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 2003,
+   "number": 2004,
    "speakers": [
       "Simon Brand"
    ],
@@ -6684,7 +6684,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1654,
+   "number": 1655,
    "speakers": [
       "Jason Turner"
    ],
@@ -6830,7 +6830,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1738,
+   "number": 1739,
    "speakers": [
       "Roger Orr"
    ],
@@ -6905,7 +6905,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1761,
+   "number": 1762,
    "speakers": [
       "Peter Sommerlad"
    ],
@@ -6961,7 +6961,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1596,
+   "number": 1597,
    "speakers": [
       "Adi Shavit"
    ],
@@ -7074,7 +7074,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Italian C++ Conference",
-   "number": 1963,
+   "number": 1964,
    "speakers": [
       "Julia Reid"
    ],
@@ -7093,7 +7093,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1904,
+   "number": 1905,
    "speakers": [
       "Anastasia Kazakova"
    ],
@@ -7111,7 +7111,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Core C++",
-   "number": 2083,
+   "number": 2084,
    "speakers": [
       "Anastasia Kazakova"
    ],
@@ -7130,7 +7130,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 2013,
+   "number": 2014,
    "speakers": [
       "Anastasia Kazakova"
    ],
@@ -7187,7 +7187,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1932,
+   "number": 1933,
    "speakers": [
       "Walter E. Brown"
    ],
@@ -7205,7 +7205,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 1990,
+   "number": 1991,
    "speakers": [
       "Walter E. Brown"
    ],
@@ -7358,7 +7358,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1877,
+   "number": 1878,
    "speakers": [
       "Andreas Fertig"
    ],
@@ -7376,7 +7376,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Core C++",
-   "number": 2108,
+   "number": 2109,
    "speakers": [
       "Shachar Shemesh"
    ],
@@ -7395,7 +7395,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1941,
+   "number": 1942,
    "speakers": [
       "Patricia Aas"
    ],
@@ -7413,7 +7413,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 1999,
+   "number": 2000,
    "speakers": [
       "Patricia Aas"
    ],
@@ -7432,7 +7432,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Core C++",
-   "number": 2067,
+   "number": 2068,
    "speakers": [
       "Greg Ravikovich"
    ],
@@ -7451,7 +7451,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ Europe",
-   "number": 2131,
+   "number": 2132,
    "speakers": [
       "Marius Bancila"
    ],
@@ -7641,7 +7641,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1815,
+   "number": 1816,
    "speakers": [
       "John Lakos"
    ],
@@ -7659,7 +7659,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1879,
+   "number": 1880,
    "speakers": [
       "John Lakos"
    ],
@@ -7772,7 +7772,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Core C++",
-   "number": 2102,
+   "number": 2103,
    "speakers": [
       "Michael Peeri"
    ],
@@ -7829,7 +7829,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Pacific C++",
-   "number": 2158,
+   "number": 2159,
    "speakers": [
       "Titus Winters"
    ],
@@ -7867,7 +7867,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Core C++",
-   "number": 2062,
+   "number": 2063,
    "speakers": [
       "Asaf Helfer"
    ],
@@ -7886,7 +7886,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ Europe",
-   "number": 2129,
+   "number": 2130,
    "speakers": [
       "Jose Daniel Garcia"
    ],
@@ -7960,7 +7960,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 2018,
+   "number": 2019,
    "speakers": [
       "Danila Kutenin"
    ],
@@ -8016,7 +8016,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1795,
+   "number": 1796,
    "speakers": [
       "Nicolai Josuttis"
    ],
@@ -8053,7 +8053,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ Europe",
-   "number": 2135,
+   "number": 2136,
    "speakers": [
       "Clare Macrae"
    ],
@@ -8091,7 +8091,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1833,
+   "number": 1834,
    "speakers": [
       "Jon Kalb"
    ],
@@ -8109,7 +8109,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++IndiaCon",
-   "number": 2142,
+   "number": 2143,
    "speakers": [
       "Jon Kalb"
    ],
@@ -8451,7 +8451,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1810,
+   "number": 1811,
    "speakers": [
       "Nicolai Josuttis"
    ],
@@ -8469,7 +8469,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ Europe",
-   "number": 2122,
+   "number": 2123,
    "speakers": [
       "Nicolai Josuttis"
    ],
@@ -8506,7 +8506,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1931,
+   "number": 1932,
    "speakers": [
       "Nicolai Josuttis"
    ],
@@ -8524,7 +8524,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 1989,
+   "number": 1990,
    "speakers": [
       "Nicolai Josuttis"
    ],
@@ -8619,7 +8619,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Core C++",
-   "number": 2092,
+   "number": 2093,
    "speakers": [
       "Alex Dathskovsky"
    ],
@@ -8675,7 +8675,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 2048,
+   "number": 2049,
    "speakers": [
       "Nicolai Josuttis"
    ],
@@ -8694,7 +8694,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++IndiaCon",
-   "number": 2145,
+   "number": 2146,
    "speakers": [
       "Ankur Satle"
    ],
@@ -8713,7 +8713,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1686,
+   "number": 1687,
    "speakers": [
       "Milosz Warzecha"
    ],
@@ -8731,7 +8731,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1685,
+   "number": 1686,
    "speakers": [
       "Adi Shavit"
    ],
@@ -8749,7 +8749,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1684,
+   "number": 1685,
    "speakers": [
       "Marcin Grzebieluch"
    ],
@@ -8767,7 +8767,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1687,
+   "number": 1688,
    "speakers": [
       "Dawid Pilarski"
    ],
@@ -8861,7 +8861,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++IndiaCon",
-   "number": 2144,
+   "number": 2145,
    "speakers": [
       "Harishankar Singh"
    ],
@@ -8918,7 +8918,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Italian C++ Conference",
-   "number": 1954,
+   "number": 1955,
    "speakers": [
       "Alberto Barbati"
    ],
@@ -8937,7 +8937,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 2005,
+   "number": 2006,
    "speakers": [
       "Fergus Cooper"
    ],
@@ -9070,7 +9070,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ Europe",
-   "number": 2124,
+   "number": 2125,
    "speakers": [
       "Andreas Fertig"
    ],
@@ -9108,7 +9108,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1680,
+   "number": 1681,
    "speakers": [
       "Andreas Fertig"
    ],
@@ -9146,7 +9146,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Core C++",
-   "number": 2074,
+   "number": 2075,
    "speakers": [
       "Eran Gilad"
    ],
@@ -9165,7 +9165,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Core C++",
-   "number": 2081,
+   "number": 2082,
    "speakers": [
       "Yossi Moalem"
    ],
@@ -9184,7 +9184,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1647,
+   "number": 1648,
    "speakers": [
       "Gynvael Coldwind"
    ],
@@ -9202,7 +9202,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1691,
+   "number": 1692,
    "speakers": [
       "Yossi Moalem"
    ],
@@ -9334,7 +9334,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1821,
+   "number": 1822,
    "speakers": [
       "Felix Petriconi"
    ],
@@ -9371,7 +9371,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Pacific C++",
-   "number": 2149,
+   "number": 2150,
    "speakers": [
       "Matt Bentley"
    ],
@@ -9444,7 +9444,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1652,
+   "number": 1653,
    "speakers": [
       "Daniel Kozar"
    ],
@@ -9462,7 +9462,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Live Embedded Event",
-   "number": 2229,
+   "number": 2230,
    "speakers": [],
    "tags": [
       "embedded",
@@ -9498,7 +9498,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1593,
+   "number": 1594,
    "speakers": [
       "Dan Saks"
    ],
@@ -9516,7 +9516,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 2055,
+   "number": 2056,
    "speakers": [
       "Dvir Yitzchaki"
    ],
@@ -9554,7 +9554,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Core C++",
-   "number": 2080,
+   "number": 2081,
    "speakers": [
       "Saar Raz"
    ],
@@ -9630,7 +9630,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1816,
+   "number": 1817,
    "speakers": [
       "Timur Doumler"
    ],
@@ -9686,7 +9686,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1603,
+   "number": 1604,
    "speakers": [
       "Mateusz Dyminski"
    ],
@@ -9741,7 +9741,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1911,
+   "number": 1912,
    "speakers": [
       "Arne Mertz"
    ],
@@ -9759,7 +9759,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Italian C++ Conference",
-   "number": 1962,
+   "number": 1963,
    "speakers": [
       "Alessandro Vergani",
       "Marco Arena"
@@ -9779,7 +9779,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Italian C++ Conference",
-   "number": 1980,
+   "number": 1981,
    "speakers": [
       "Marco Arena"
    ],
@@ -9817,7 +9817,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1708,
+   "number": 1709,
    "speakers": [
       "Agata Migalska"
    ],
@@ -9835,7 +9835,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1683,
+   "number": 1684,
    "speakers": [
       "Adrian Ostrowski",
       "Piotr Gaczkowski"
@@ -9986,7 +9986,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 2039,
+   "number": 2040,
    "speakers": [
       "Clare Macrae"
    ],
@@ -10062,7 +10062,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Italian C++ Conference",
-   "number": 1957,
+   "number": 1958,
    "speakers": [],
    "tags": [
       "c++",
@@ -10098,7 +10098,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 2026,
+   "number": 2027,
    "speakers": [
       "James Pascoe"
    ],
@@ -10136,7 +10136,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1743,
+   "number": 1744,
    "speakers": [
       "Anna-Jayne Metcalfe"
    ],
@@ -10154,7 +10154,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 2038,
+   "number": 2039,
    "speakers": [
       "Luna Kirkby"
    ],
@@ -10192,7 +10192,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1808,
+   "number": 1809,
    "speakers": [
       "Eoin Woods"
    ],
@@ -10305,7 +10305,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Core C++",
-   "number": 2069,
+   "number": 2070,
    "speakers": [
       "Hana Dusikova"
    ],
@@ -10610,7 +10610,7 @@
    "language": "italian",
    "level": 0,
    "meeting": "C++ Day",
-   "number": 1949,
+   "number": 1950,
    "speakers": [
       "Yuri Valentini"
    ],
@@ -10648,7 +10648,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Live Embedded Event",
-   "number": 2180,
+   "number": 2181,
    "speakers": [],
    "tags": [
       "embedded",
@@ -10665,7 +10665,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1814,
+   "number": 1815,
    "speakers": [
       "Dietmar Kuhl"
    ],
@@ -10836,7 +10836,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Italian C++ Conference",
-   "number": 1976,
+   "number": 1977,
    "speakers": [
       "Roi Barkan"
    ],
@@ -10874,7 +10874,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ Europe",
-   "number": 2119,
+   "number": 2120,
    "speakers": [
       "Rainer Grimm"
    ],
@@ -10967,7 +10967,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1788,
+   "number": 1789,
    "speakers": [
       "Anthony Williams"
    ],
@@ -10985,7 +10985,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1699,
+   "number": 1700,
    "speakers": [
       "Felix Petriconi"
    ],
@@ -11003,7 +11003,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Live Embedded Event",
-   "number": 2185,
+   "number": 2186,
    "speakers": [],
    "tags": [
       "embedded",
@@ -11058,7 +11058,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ Europe",
-   "number": 2117,
+   "number": 2118,
    "speakers": [
       "Marius Bancila"
    ],
@@ -11115,7 +11115,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1736,
+   "number": 1737,
    "speakers": [
       "Dietmar Kuhl"
    ],
@@ -11363,7 +11363,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++IndiaCon",
-   "number": 2146,
+   "number": 2147,
    "speakers": [
       "Saurabh Joshi"
    ],
@@ -11420,7 +11420,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1769,
+   "number": 1770,
    "speakers": [
       "J. Daniel Garcia"
    ],
@@ -11572,7 +11572,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Core C++",
-   "number": 2064,
+   "number": 2065,
    "speakers": [
       "Yehezkel Bernat"
    ],
@@ -11591,7 +11591,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1780,
+   "number": 1781,
    "speakers": [
       "Dominic Robinson"
    ],
@@ -11647,7 +11647,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 2009,
+   "number": 2010,
    "speakers": [
       "Matt Godbolt"
    ],
@@ -11779,7 +11779,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1912,
+   "number": 1913,
    "speakers": [
       "CB Bailey"
    ],
@@ -11797,7 +11797,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1626,
+   "number": 1627,
    "speakers": [
       "Borislav Stanimirov"
    ],
@@ -11872,7 +11872,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1845,
+   "number": 1846,
    "speakers": [
       "Giovanni Asproni"
    ],
@@ -11909,7 +11909,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Live Embedded Event",
-   "number": 2171,
+   "number": 2172,
    "speakers": [],
    "tags": [
       "embedded",
@@ -11926,7 +11926,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Live Embedded Event",
-   "number": 2228,
+   "number": 2229,
    "speakers": [],
    "tags": [
       "embedded",
@@ -12037,7 +12037,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Pacific C++",
-   "number": 2169,
+   "number": 2170,
    "speakers": [
       "Nick Uhlenhuth"
    ],
@@ -12095,7 +12095,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1835,
+   "number": 1836,
    "speakers": [
       "Daniel James"
    ],
@@ -12132,7 +12132,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Italian C++ Conference",
-   "number": 1958,
+   "number": 1959,
    "speakers": [
       "Jens Weller"
    ],
@@ -12264,7 +12264,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Live Embedded Event",
-   "number": 2237,
+   "number": 2238,
    "speakers": [],
    "tags": [
       "embedded",
@@ -12281,7 +12281,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 2023,
+   "number": 2024,
    "speakers": [
       "Shachar Langbeheim"
    ],
@@ -12300,7 +12300,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1640,
+   "number": 1641,
    "speakers": [
       "Stoyan Nikolov"
    ],
@@ -12356,7 +12356,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1862,
+   "number": 1863,
    "speakers": [
       "Herb Sutter"
    ],
@@ -12410,7 +12410,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1627,
+   "number": 1628,
    "speakers": [
       "Andrzej Krzemienski"
    ],
@@ -12486,7 +12486,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1825,
+   "number": 1826,
    "speakers": [
       "Anastasia Kazakova"
    ],
@@ -12504,7 +12504,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1926,
+   "number": 1927,
    "speakers": [
       "Anastasia Kazakova"
    ],
@@ -12522,7 +12522,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 1984,
+   "number": 1985,
    "speakers": [
       "Anastasia Kazakova"
    ],
@@ -12617,7 +12617,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Pacific C++",
-   "number": 2154,
+   "number": 2155,
    "speakers": [
       "Dean Michael Berris"
    ],
@@ -12636,7 +12636,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 2036,
+   "number": 2037,
    "speakers": [
       "Sandor Dargo"
    ],
@@ -12693,7 +12693,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1731,
+   "number": 1732,
    "speakers": [
       "Kevlin Henney"
    ],
@@ -12749,7 +12749,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 2019,
+   "number": 2020,
    "speakers": [
       "JeanHeyd Meneide"
    ],
@@ -12863,7 +12863,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1848,
+   "number": 1849,
    "speakers": [
       "Martina Angela Sasse"
    ],
@@ -12919,7 +12919,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1678,
+   "number": 1679,
    "speakers": [
       "Xavier Bonaventura"
    ],
@@ -12956,7 +12956,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1773,
+   "number": 1774,
    "speakers": [
       "Jon Jagger"
    ],
@@ -12993,7 +12993,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Live Embedded Event",
-   "number": 2173,
+   "number": 2174,
    "speakers": [],
    "tags": [
       "embedded",
@@ -13048,7 +13048,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Core C++",
-   "number": 2098,
+   "number": 2099,
    "speakers": [
       "Haggai Eran"
    ],
@@ -13086,7 +13086,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1722,
+   "number": 1723,
    "speakers": [
       "Dmitri Nesteruk"
    ],
@@ -13218,7 +13218,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Pacific C++",
-   "number": 2167,
+   "number": 2168,
    "speakers": [
       "Kirit Saelensminde"
    ],
@@ -13275,7 +13275,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Pacific C++",
-   "number": 2166,
+   "number": 2167,
    "speakers": [
       "Scott McMillan"
    ],
@@ -13294,7 +13294,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Live Embedded Event",
-   "number": 2227,
+   "number": 2228,
    "speakers": [],
    "tags": [
       "embedded",
@@ -13387,7 +13387,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Live Embedded Event",
-   "number": 2226,
+   "number": 2227,
    "speakers": [],
    "tags": [
       "embedded",
@@ -13498,7 +13498,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Live Embedded Event",
-   "number": 2225,
+   "number": 2226,
    "speakers": [],
    "tags": [
       "embedded",
@@ -13515,7 +13515,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Live Embedded Event",
-   "number": 2224,
+   "number": 2225,
    "speakers": [],
    "tags": [
       "embedded",
@@ -13532,7 +13532,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Live Embedded Event",
-   "number": 2201,
+   "number": 2202,
    "speakers": [],
    "tags": [
       "embedded",
@@ -13585,7 +13585,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1665,
+   "number": 1666,
    "speakers": [
       "Mateusz Dyminski"
    ],
@@ -13659,7 +13659,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1718,
+   "number": 1719,
    "speakers": [
       "Niall Douglas"
    ],
@@ -13696,7 +13696,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1798,
+   "number": 1799,
    "speakers": [
       "Gen Ashley"
    ],
@@ -13733,7 +13733,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1629,
+   "number": 1630,
    "speakers": [
       "Kristof Kerekes"
    ],
@@ -13751,7 +13751,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Live Embedded Event",
-   "number": 2192,
+   "number": 2193,
    "speakers": [],
    "tags": [
       "embedded",
@@ -13768,7 +13768,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1760,
+   "number": 1761,
    "speakers": [
       "Jim Hague"
    ],
@@ -13844,7 +13844,7 @@
    "language": "hebrew",
    "level": 0,
    "meeting": "Core C++",
-   "number": 2096,
+   "number": 2097,
    "speakers": [
       "Yossi Moalem"
    ],
@@ -14112,7 +14112,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1611,
+   "number": 1612,
    "speakers": [
       "Izabela Krupa",
       "Pawel Slowikowski"
@@ -14131,7 +14131,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1621,
+   "number": 1622,
    "speakers": [
       "Dan Saks"
    ],
@@ -14168,7 +14168,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1781,
+   "number": 1782,
    "speakers": [
       "Sergey Nepomnyachiy"
    ],
@@ -14263,7 +14263,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1706,
+   "number": 1707,
    "speakers": [
       "Karol Przybylski"
    ],
@@ -14281,7 +14281,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1615,
+   "number": 1616,
    "speakers": [
       "Serhiy Kostyshyn"
    ],
@@ -14375,7 +14375,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1893,
+   "number": 1894,
    "speakers": [
       "Mateusz Pusz"
    ],
@@ -14412,7 +14412,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1765,
+   "number": 1766,
    "speakers": [
       "Ahto Truu"
    ],
@@ -14449,7 +14449,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1730,
+   "number": 1731,
    "speakers": [
       "Johan Herland"
    ],
@@ -14467,7 +14467,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1903,
+   "number": 1904,
    "speakers": [
       "Niall Douglas"
    ],
@@ -14523,7 +14523,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Live Embedded Event",
-   "number": 2223,
+   "number": 2224,
    "speakers": [],
    "tags": [
       "embedded",
@@ -14559,7 +14559,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Live Embedded Event",
-   "number": 2191,
+   "number": 2192,
    "speakers": [],
    "tags": [
       "embedded",
@@ -14595,7 +14595,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1705,
+   "number": 1706,
    "speakers": [
       "Maciej Norberciak"
    ],
@@ -14670,7 +14670,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ Europe",
-   "number": 2141,
+   "number": 2142,
    "speakers": [
       "Klaus Iglberger"
    ],
@@ -14709,7 +14709,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1906,
+   "number": 1907,
    "speakers": [
       "Kate Gregory"
    ],
@@ -14784,7 +14784,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1878,
+   "number": 1879,
    "speakers": [
       "Alisdair Meredith"
    ],
@@ -14935,7 +14935,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Live Embedded Event",
-   "number": 2182,
+   "number": 2183,
    "speakers": [],
    "tags": [
       "embedded",
@@ -14952,7 +14952,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Pacific C++",
-   "number": 2153,
+   "number": 2154,
    "speakers": [
       "Tom Isaacson"
    ],
@@ -15180,7 +15180,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 2043,
+   "number": 2044,
    "speakers": [
       "Victor Ciura"
    ],
@@ -15351,7 +15351,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ Europe",
-   "number": 2114,
+   "number": 2115,
    "speakers": [
       "Andrei Alexandrescu"
    ],
@@ -15389,7 +15389,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1703,
+   "number": 1704,
    "speakers": [
       "Filip Olszewski",
       "Piotr Pietron"
@@ -15617,7 +15617,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1739,
+   "number": 1740,
    "speakers": [
       "Diego Rodriguez-Losada"
    ],
@@ -15654,7 +15654,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1918,
+   "number": 1919,
    "speakers": [
       "Stephen Kelly"
    ],
@@ -15691,7 +15691,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Italian C++ Conference",
-   "number": 1979,
+   "number": 1980,
    "speakers": [
       "Walter E. Brown"
    ],
@@ -15918,7 +15918,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1660,
+   "number": 1661,
    "speakers": [
       "Mateusz Brzeszcz"
    ],
@@ -15936,7 +15936,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1724,
+   "number": 1725,
    "speakers": [
       "Andrei Alexandrescu"
    ],
@@ -15972,7 +15972,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1892,
+   "number": 1893,
    "speakers": [
       "Victor Ciura"
    ],
@@ -15990,7 +15990,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1807,
+   "number": 1808,
    "speakers": [
       "Detlef Vollmann"
    ],
@@ -16008,7 +16008,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1714,
+   "number": 1715,
    "speakers": [
       "Bernhard Merkle"
    ],
@@ -16064,7 +16064,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ Europe",
-   "number": 2123,
+   "number": 2124,
    "speakers": [],
    "tags": [
       "c++",
@@ -16157,7 +16157,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Core C++",
-   "number": 2073,
+   "number": 2074,
    "speakers": [
       "Bryce Adelstein-Lelbach"
    ],
@@ -16176,7 +16176,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1883,
+   "number": 1884,
    "speakers": [
       "Victor Zverovich"
    ],
@@ -16403,7 +16403,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Live Embedded Event",
-   "number": 2222,
+   "number": 2223,
    "speakers": [],
    "tags": [
       "embedded",
@@ -16458,7 +16458,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ Europe",
-   "number": 2112,
+   "number": 2113,
    "speakers": [
       "Arno Schoedl"
    ],
@@ -16477,7 +16477,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 2012,
+   "number": 2013,
    "speakers": [
       "Arno Schoedl"
    ],
@@ -16515,7 +16515,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1884,
+   "number": 1885,
    "speakers": [
       "Paul Grenyer"
    ],
@@ -16704,7 +16704,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 2052,
+   "number": 2053,
    "speakers": [
       "Pavel Novikov"
    ],
@@ -16780,7 +16780,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1785,
+   "number": 1786,
    "speakers": [
       "Phil Nash"
    ],
@@ -16892,7 +16892,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1763,
+   "number": 1764,
    "speakers": [
       "Austin Bingham"
    ],
@@ -16966,7 +16966,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ Europe",
-   "number": 2110,
+   "number": 2111,
    "speakers": [
       "Alexandru Bolboaca"
    ],
@@ -16985,7 +16985,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ Europe",
-   "number": 2120,
+   "number": 2121,
    "speakers": [
       "Alexandru Bolboaca"
    ],
@@ -17457,7 +17457,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Core C++",
-   "number": 2093,
+   "number": 2094,
    "speakers": [
       "Adi Shavit"
    ],
@@ -17533,7 +17533,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1625,
+   "number": 1626,
    "speakers": [
       "Sean Parent"
    ],
@@ -17551,7 +17551,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Pacific C++",
-   "number": 2157,
+   "number": 2158,
    "speakers": [
       "Sean Parent"
    ],
@@ -17742,7 +17742,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1700,
+   "number": 1701,
    "speakers": [
       "Iulia Stirb"
    ],
@@ -17779,7 +17779,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1628,
+   "number": 1629,
    "speakers": [
       "Adam Badura"
    ],
@@ -17835,7 +17835,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Live Embedded Event",
-   "number": 2189,
+   "number": 2190,
    "speakers": [],
    "tags": [
       "embedded",
@@ -17852,7 +17852,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1601,
+   "number": 1602,
    "speakers": [
       "Bjorn Rabenstein"
    ],
@@ -17889,7 +17889,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1922,
+   "number": 1923,
    "speakers": [
       "Dom Davis"
    ],
@@ -17962,7 +17962,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1863,
+   "number": 1864,
    "speakers": [
       "Supriya Srivatsa"
    ],
@@ -17980,7 +17980,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1606,
+   "number": 1607,
    "speakers": [
       "Florin Patan"
    ],
@@ -18055,7 +18055,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Live Embedded Event",
-   "number": 2197,
+   "number": 2198,
    "speakers": [],
    "tags": [
       "embedded",
@@ -18072,7 +18072,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1905,
+   "number": 1906,
    "speakers": [
       "Michael Wong"
    ],
@@ -18127,7 +18127,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1790,
+   "number": 1791,
    "speakers": [],
    "tags": [
       "live",
@@ -18143,7 +18143,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1834,
+   "number": 1835,
    "speakers": [],
    "tags": [
       "live",
@@ -18246,7 +18246,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1841,
+   "number": 1842,
    "speakers": [
       "Vigneshwer Dhinakaran"
    ],
@@ -18264,7 +18264,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1828,
+   "number": 1829,
    "speakers": [
       "Vigneshwer Dhinakaran"
    ],
@@ -18433,7 +18433,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1662,
+   "number": 1663,
    "speakers": [
       "Oleksii Pilkevych"
    ],
@@ -18451,7 +18451,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1915,
+   "number": 1916,
    "speakers": [
       "George Corney"
    ],
@@ -18489,7 +18489,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1874,
+   "number": 1875,
    "speakers": [
       "Peter Bindels",
       "Simon Brand"
@@ -18508,7 +18508,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1860,
+   "number": 1861,
    "speakers": [
       "Gail Ollis"
    ],
@@ -18526,7 +18526,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1864,
+   "number": 1865,
    "speakers": [
       "Anthony Williams"
    ],
@@ -18544,7 +18544,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1847,
+   "number": 1848,
    "speakers": [
       "Michael Wong"
    ],
@@ -18620,7 +18620,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Core C++",
-   "number": 2084,
+   "number": 2085,
    "speakers": [
       "Nimrod Sapir"
    ],
@@ -18774,7 +18774,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1849,
+   "number": 1850,
    "speakers": [
       "Vittorio Romeo"
    ],
@@ -18811,7 +18811,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1776,
+   "number": 1777,
    "speakers": [
       "Steven Simpson"
    ],
@@ -18848,7 +18848,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Italian C++ Conference",
-   "number": 1977,
+   "number": 1978,
    "speakers": [
       "Marcos Rojas"
    ],
@@ -18943,7 +18943,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1658,
+   "number": 1659,
    "speakers": [
       "Arletta Jasonek"
    ],
@@ -18999,7 +18999,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1850,
+   "number": 1851,
    "speakers": [
       "Alisdair Meredith"
    ],
@@ -19074,7 +19074,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1858,
+   "number": 1859,
    "speakers": [
       "Andy Balaam",
       "CB Bailey"
@@ -19093,7 +19093,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Live Embedded Event",
-   "number": 2199,
+   "number": 2200,
    "speakers": [],
    "tags": [
       "embedded",
@@ -19110,7 +19110,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Live Embedded Event",
-   "number": 2221,
+   "number": 2222,
    "speakers": [],
    "tags": [
       "embedded",
@@ -19146,7 +19146,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1602,
+   "number": 1603,
    "speakers": [
       "Krzysztof Drys"
    ],
@@ -19183,7 +19183,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1871,
+   "number": 1872,
    "speakers": [
       "Andy Balaam"
    ],
@@ -19201,7 +19201,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 2049,
+   "number": 2050,
    "speakers": [
       "Stephan Dollberg"
    ],
@@ -19220,7 +19220,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1806,
+   "number": 1807,
    "speakers": [
       "Steve Holden"
    ],
@@ -19238,7 +19238,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 2024,
+   "number": 2025,
    "speakers": [
       "Herb Sutter"
    ],
@@ -19257,7 +19257,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1741,
+   "number": 1742,
    "speakers": [
       "Raphael Meyer"
    ],
@@ -19350,7 +19350,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1632,
+   "number": 1633,
    "speakers": [
       "Artur Suchwalko"
    ],
@@ -19368,7 +19368,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1715,
+   "number": 1716,
    "speakers": [
       "Frances Buontempo"
    ],
@@ -19442,7 +19442,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Live Embedded Event",
-   "number": 2178,
+   "number": 2179,
    "speakers": [],
    "tags": [
       "embedded",
@@ -19478,7 +19478,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Live Embedded Event",
-   "number": 2220,
+   "number": 2221,
    "speakers": [],
    "tags": [
       "embedded",
@@ -19514,7 +19514,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Core C++",
-   "number": 2078,
+   "number": 2079,
    "speakers": [
       "Nimrod Sapir"
    ],
@@ -19533,7 +19533,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 2029,
+   "number": 2030,
    "speakers": [
       "Fred Tingaud"
    ],
@@ -19571,7 +19571,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1919,
+   "number": 1920,
    "speakers": [
       "Christopher Di Bella"
    ],
@@ -19646,7 +19646,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Italian C++ Conference",
-   "number": 1974,
+   "number": 1975,
    "speakers": [
       "Sandor Dargo"
    ],
@@ -19703,7 +19703,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1751,
+   "number": 1752,
    "speakers": [
       "Andy Balaam"
    ],
@@ -19778,7 +19778,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1928,
+   "number": 1929,
    "speakers": [
       "Simon Brand"
    ],
@@ -19796,7 +19796,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 1986,
+   "number": 1987,
    "speakers": [
       "Simon Brand"
    ],
@@ -20044,7 +20044,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 2008,
+   "number": 2009,
    "speakers": [
       "Yuri Minaev"
    ],
@@ -20101,7 +20101,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1794,
+   "number": 1795,
    "speakers": [
       "Jonathan Muller"
    ],
@@ -20195,7 +20195,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1824,
+   "number": 1825,
    "speakers": [
       "Dom Davis"
    ],
@@ -20232,7 +20232,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Pacific C++",
-   "number": 2163,
+   "number": 2164,
    "speakers": [
       "James Mitchell"
    ],
@@ -20251,7 +20251,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Live Embedded Event",
-   "number": 2174,
+   "number": 2175,
    "speakers": [],
    "tags": [
       "embedded",
@@ -20268,7 +20268,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1880,
+   "number": 1881,
    "speakers": [
       "Titus Winters"
    ],
@@ -20419,7 +20419,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Core C++",
-   "number": 2106,
+   "number": 2107,
    "speakers": [
       "Tamir Bahar"
    ],
@@ -20457,7 +20457,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1885,
+   "number": 1886,
    "speakers": [
       "Mateusz Pusz"
    ],
@@ -20570,7 +20570,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1784,
+   "number": 1785,
    "speakers": [
       "Vittorio Romeo"
    ],
@@ -20588,7 +20588,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1937,
+   "number": 1938,
    "speakers": [
       "Barney Dellar"
    ],
@@ -20606,7 +20606,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 1995,
+   "number": 1996,
    "speakers": [
       "Barney Dellar"
    ],
@@ -20644,7 +20644,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1732,
+   "number": 1733,
    "speakers": [
       "J. Daniel Garcia"
    ],
@@ -20681,7 +20681,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 2016,
+   "number": 2017,
    "speakers": [
       "A.J. Orians"
    ],
@@ -20700,7 +20700,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1770,
+   "number": 1771,
    "speakers": [
       "Matthew Dodkins"
    ],
@@ -20756,7 +20756,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Core C++",
-   "number": 2087,
+   "number": 2088,
    "speakers": [
       "Timur Doumler"
    ],
@@ -20813,7 +20813,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Italian C++ Conference",
-   "number": 1970,
+   "number": 1971,
    "speakers": [
       "Yuri Minaev"
    ],
@@ -20890,7 +20890,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Live Embedded Event",
-   "number": 2179,
+   "number": 2180,
    "speakers": [],
    "tags": [
       "embedded",
@@ -20983,7 +20983,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1886,
+   "number": 1887,
    "speakers": [
       "Neil Horlock"
    ],
@@ -21077,7 +21077,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ Day",
-   "number": 1951,
+   "number": 1952,
    "speakers": [
       "Marco Arena",
       "Matti Verasani"
@@ -21097,7 +21097,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ Europe",
-   "number": 2138,
+   "number": 2139,
    "speakers": [
       "interview"
    ],
@@ -21116,7 +21116,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ Europe",
-   "number": 2126,
+   "number": 2127,
    "speakers": [
       "interview"
    ],
@@ -21173,7 +21173,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ Europe",
-   "number": 2134,
+   "number": 2135,
    "speakers": [
       "interview"
    ],
@@ -21211,7 +21211,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ Europe",
-   "number": 2128,
+   "number": 2129,
    "speakers": [
       "interview"
    ],
@@ -21230,7 +21230,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ Europe",
-   "number": 2136,
+   "number": 2137,
    "speakers": [
       "interview"
    ],
@@ -21249,7 +21249,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ Europe",
-   "number": 2137,
+   "number": 2138,
    "speakers": [
       "interview"
    ],
@@ -21268,7 +21268,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ Europe",
-   "number": 2130,
+   "number": 2131,
    "speakers": [
       "interview"
    ],
@@ -21287,7 +21287,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ Europe",
-   "number": 2132,
+   "number": 2133,
    "speakers": [
       "interview"
    ],
@@ -21306,7 +21306,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Core C++",
-   "number": 2077,
+   "number": 2078,
    "speakers": [
       "interview"
    ],
@@ -21344,7 +21344,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Italian C++ Conference",
-   "number": 1959,
+   "number": 1960,
    "speakers": [
       "interview"
    ],
@@ -21363,7 +21363,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Live Embedded Event",
-   "number": 2170,
+   "number": 2171,
    "speakers": [],
    "tags": [
       "embedded",
@@ -21417,7 +21417,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1772,
+   "number": 1773,
    "speakers": [
       "Seb Rose"
    ],
@@ -21474,7 +21474,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Pacific C++",
-   "number": 2159,
+   "number": 2160,
    "speakers": [
       "Christopher Di Bella"
    ],
@@ -21493,7 +21493,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Live Embedded Event",
-   "number": 2219,
+   "number": 2220,
    "speakers": [],
    "tags": [
       "embedded",
@@ -21528,7 +21528,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Live Embedded Event",
-   "number": 2204,
+   "number": 2205,
    "speakers": [],
    "tags": [
       "embedded",
@@ -21545,7 +21545,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Live Embedded Event",
-   "number": 2233,
+   "number": 2234,
    "speakers": [],
    "tags": [
       "embedded",
@@ -21562,7 +21562,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1704,
+   "number": 1705,
    "speakers": [
       "Xavier Bonaventura"
    ],
@@ -21657,7 +21657,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Live Embedded Event",
-   "number": 2232,
+   "number": 2233,
    "speakers": [],
    "tags": [
       "embedded",
@@ -21674,7 +21674,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1688,
+   "number": 1689,
    "speakers": [
       "Michal Pawlik"
    ],
@@ -21749,7 +21749,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1791,
+   "number": 1792,
    "speakers": [
       "Giuseppe D'Angelo"
    ],
@@ -21767,7 +21767,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Live Embedded Event",
-   "number": 2231,
+   "number": 2232,
    "speakers": [],
    "tags": [
       "embedded",
@@ -21995,7 +21995,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1609,
+   "number": 1610,
    "speakers": [
       "Lukasz Olczyk"
    ],
@@ -22070,7 +22070,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1889,
+   "number": 1890,
    "speakers": [
       "Jim Hague"
    ],
@@ -22088,7 +22088,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1887,
+   "number": 1888,
    "speakers": [
       "Dom Davis"
    ],
@@ -22106,7 +22106,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Live Embedded Event",
-   "number": 2218,
+   "number": 2219,
    "speakers": [],
    "tags": [
       "embedded",
@@ -22123,7 +22123,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1649,
+   "number": 1650,
    "speakers": [
       "Sambath Logakrishnan"
    ],
@@ -22159,7 +22159,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1852,
+   "number": 1853,
    "speakers": [
       "Filip Van Laenen"
    ],
@@ -22216,7 +22216,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ Europe",
-   "number": 2121,
+   "number": 2122,
    "speakers": [
       "Bjorn Andrist"
    ],
@@ -22254,7 +22254,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1740,
+   "number": 1741,
    "speakers": [
       "Abraham Marin Perez"
    ],
@@ -22272,7 +22272,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1817,
+   "number": 1818,
    "speakers": [
       "Hadi Hariri"
    ],
@@ -22328,7 +22328,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Core C++",
-   "number": 2076,
+   "number": 2077,
    "speakers": [
       "Andreas Fertig"
    ],
@@ -22366,7 +22366,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 2028,
+   "number": 2029,
    "speakers": [
       "Kevlin Henney"
    ],
@@ -22499,7 +22499,7 @@
    "language": "hebrew",
    "level": 0,
    "meeting": "Core C++",
-   "number": 2104,
+   "number": 2105,
    "speakers": [
       "Amir Kotler"
    ],
@@ -22616,7 +22616,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 2053,
+   "number": 2054,
    "speakers": [
       "Ansel Sermersheim",
       "Barbara Geller"
@@ -22655,7 +22655,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1757,
+   "number": 1758,
    "speakers": [
       "Arne Mertz"
    ],
@@ -22673,7 +22673,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1936,
+   "number": 1937,
    "speakers": [
       "Arne Mertz"
    ],
@@ -22691,7 +22691,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 1994,
+   "number": 1995,
    "speakers": [
       "Arne Mertz"
    ],
@@ -22748,7 +22748,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1723,
+   "number": 1724,
    "speakers": [
       "Felix Petriconi"
    ],
@@ -22766,7 +22766,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Core C++",
-   "number": 2063,
+   "number": 2064,
    "speakers": [
       "Saar Raz"
    ],
@@ -22785,7 +22785,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Live Embedded Event",
-   "number": 2217,
+   "number": 2218,
    "speakers": [],
    "tags": [
       "embedded",
@@ -22916,7 +22916,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ Day",
-   "number": 1946,
+   "number": 1947,
    "speakers": [
       "Alberto Bignotti"
    ],
@@ -23070,7 +23070,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Italian C++ Conference",
-   "number": 1961,
+   "number": 1962,
    "speakers": [
       "Walter E. Brown"
    ],
@@ -23165,7 +23165,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Live Embedded Event",
-   "number": 2216,
+   "number": 2217,
    "speakers": [],
    "tags": [
       "embedded",
@@ -23182,7 +23182,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1831,
+   "number": 1832,
    "speakers": [
       "Greg Law"
    ],
@@ -23200,7 +23200,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1938,
+   "number": 1939,
    "speakers": [
       "Kevlin Henney"
    ],
@@ -23218,7 +23218,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 1996,
+   "number": 1997,
    "speakers": [
       "Kevlin Henney"
    ],
@@ -23237,7 +23237,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 2015,
+   "number": 2016,
    "speakers": [
       "Sy Brand"
    ],
@@ -23294,7 +23294,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1774,
+   "number": 1775,
    "speakers": [
       "Petr Kudriavtsev"
    ],
@@ -23312,7 +23312,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Pacific C++",
-   "number": 2147,
+   "number": 2148,
    "speakers": [
       "Chandler Carruth"
    ],
@@ -23387,7 +23387,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1762,
+   "number": 1763,
    "speakers": [
       "John Lakos"
    ],
@@ -23557,7 +23557,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1752,
+   "number": 1753,
    "speakers": [
       "Timur Doumler"
    ],
@@ -23632,7 +23632,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Pacific C++",
-   "number": 2152,
+   "number": 2153,
    "speakers": [
       "Carl Cook"
    ],
@@ -23689,7 +23689,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ Europe",
-   "number": 2125,
+   "number": 2126,
    "speakers": [
       "Jason McGuiness"
    ],
@@ -23708,7 +23708,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1896,
+   "number": 1897,
    "speakers": [
       "Giorgio Zoppi"
    ],
@@ -23726,7 +23726,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Italian C++ Conference",
-   "number": 1965,
+   "number": 1966,
    "speakers": [
       "Franco Diaspro"
    ],
@@ -23818,7 +23818,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1771,
+   "number": 1772,
    "speakers": [
       "Pedro Ferriera"
    ],
@@ -23931,7 +23931,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1882,
+   "number": 1883,
    "speakers": [
       "Marshall Clow"
    ],
@@ -24062,7 +24062,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1674,
+   "number": 1675,
    "speakers": [
       "Michal Bartkowiak"
    ],
@@ -24137,7 +24137,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1746,
+   "number": 1747,
    "speakers": [
       "Russ Miles"
    ],
@@ -24212,7 +24212,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1727,
+   "number": 1728,
    "speakers": [
       "Jamie Allsop"
    ],
@@ -24249,7 +24249,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1779,
+   "number": 1780,
    "speakers": [
       "Charles Bailey"
    ],
@@ -24591,7 +24591,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1744,
+   "number": 1745,
    "speakers": [
       "Louis Dionne"
    ],
@@ -24628,7 +24628,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ Europe",
-   "number": 2115,
+   "number": 2116,
    "speakers": [
       "Mike Ritchie"
    ],
@@ -24647,7 +24647,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Live Embedded Event",
-   "number": 2186,
+   "number": 2187,
    "speakers": [],
    "tags": [
       "embedded",
@@ -24740,7 +24740,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Live Embedded Event",
-   "number": 2193,
+   "number": 2194,
    "speakers": [],
    "tags": [
       "embedded",
@@ -24757,7 +24757,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1782,
+   "number": 1783,
    "speakers": [
       "Elliot Goodrich"
    ],
@@ -24906,7 +24906,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1811,
+   "number": 1812,
    "speakers": [
       "Peter Sommerlad"
    ],
@@ -25000,7 +25000,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1789,
+   "number": 1790,
    "speakers": [
       "Odin Holmes"
    ],
@@ -25170,7 +25170,7 @@
    "language": "hebrew",
    "level": 0,
    "meeting": "Core C++",
-   "number": 2105,
+   "number": 2106,
    "speakers": [
       "Muhammad Zahalqa"
    ],
@@ -25283,7 +25283,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1671,
+   "number": 1672,
    "speakers": [
       "Bjorn Fahller"
    ],
@@ -25377,7 +25377,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ Europe",
-   "number": 2109,
+   "number": 2110,
    "speakers": [
       "Marius Bancila"
    ],
@@ -25415,7 +25415,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Core C++",
-   "number": 2082,
+   "number": 2083,
    "speakers": [
       "Bryce Adelstein-Lelbach"
    ],
@@ -25491,7 +25491,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1786,
+   "number": 1787,
    "speakers": [
       "Niall Douglas"
    ],
@@ -25509,7 +25509,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1875,
+   "number": 1876,
    "speakers": [
       "Chris Oldwood"
    ],
@@ -25565,7 +25565,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1840,
+   "number": 1841,
    "speakers": [
       "Chris Oldwood"
    ],
@@ -25583,7 +25583,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1902,
+   "number": 1903,
    "speakers": [
       "Jonathan Pallant"
    ],
@@ -25601,7 +25601,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1866,
+   "number": 1867,
    "speakers": [
       "Greg Law"
    ],
@@ -25675,7 +25675,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Italian C++ Conference",
-   "number": 1956,
+   "number": 1957,
    "speakers": [
       "Ivan Cukic"
    ],
@@ -25998,7 +25998,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1650,
+   "number": 1651,
    "speakers": [
       "Chiel Douwes"
    ],
@@ -26054,7 +26054,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Italian C++ Conference",
-   "number": 1960,
+   "number": 1961,
    "speakers": [
       "Conor Hoekstra"
    ],
@@ -26206,7 +26206,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 2022,
+   "number": 2023,
    "speakers": [
       "Kate Gregory"
    ],
@@ -26244,7 +26244,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1857,
+   "number": 1858,
    "speakers": [
       "Marshall Clow"
    ],
@@ -26319,7 +26319,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1633,
+   "number": 1634,
    "speakers": [
       "Piotr Migdal"
    ],
@@ -26413,7 +26413,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1910,
+   "number": 1911,
    "speakers": [
       "Viktor Kirilov"
    ],
@@ -26431,7 +26431,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Live Embedded Event",
-   "number": 2172,
+   "number": 2173,
    "speakers": [],
    "tags": [
       "embedded",
@@ -26448,7 +26448,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1675,
+   "number": 1676,
    "speakers": [
       "Piotr Osiewicz"
    ],
@@ -26561,7 +26561,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1940,
+   "number": 1941,
    "speakers": [
       "Niels Dekker"
    ],
@@ -26579,7 +26579,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 1998,
+   "number": 1999,
    "speakers": [
       "Niels Dekker"
    ],
@@ -26655,7 +26655,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1797,
+   "number": 1798,
    "speakers": [
       "Roger Orr"
    ],
@@ -26748,7 +26748,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Core C++",
-   "number": 2101,
+   "number": 2102,
    "speakers": [
       "Alex Cohn"
    ],
@@ -26767,7 +26767,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 2032,
+   "number": 2033,
    "speakers": [
       "Jon Kalb"
    ],
@@ -26805,7 +26805,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 2041,
+   "number": 2042,
    "speakers": [
       "Sy Brand"
    ],
@@ -26958,7 +26958,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1927,
+   "number": 1928,
    "speakers": [
       "Kate Gregory"
    ],
@@ -26976,7 +26976,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 1985,
+   "number": 1986,
    "speakers": [
       "Kate Gregory"
    ],
@@ -27033,7 +27033,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Live Embedded Event",
-   "number": 2215,
+   "number": 2216,
    "speakers": [],
    "tags": [
       "embedded",
@@ -27126,7 +27126,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Live Embedded Event",
-   "number": 2195,
+   "number": 2196,
    "speakers": [],
    "tags": [
       "embedded",
@@ -27162,7 +27162,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Live Embedded Event",
-   "number": 2214,
+   "number": 2215,
    "speakers": [],
    "tags": [
       "embedded",
@@ -27217,7 +27217,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Core C++",
-   "number": 2099,
+   "number": 2100,
    "speakers": [
       "Ofek Shilon"
    ],
@@ -27255,7 +27255,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1869,
+   "number": 1870,
    "speakers": [
       "Hubert Matthews"
    ],
@@ -27445,7 +27445,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ Day",
-   "number": 1947,
+   "number": 1948,
    "speakers": [
       "Michele Mischitelli"
    ],
@@ -27521,7 +27521,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Core C++",
-   "number": 2095,
+   "number": 2096,
    "speakers": [
       "Inbal Levi"
    ],
@@ -27559,7 +27559,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1812,
+   "number": 1813,
    "speakers": [
       "J. Daniel Garcia"
    ],
@@ -27771,7 +27771,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1768,
+   "number": 1769,
    "speakers": [
       "Dom Davis"
    ],
@@ -28001,7 +28001,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Live Embedded Event",
-   "number": 2177,
+   "number": 2178,
    "speakers": [],
    "tags": [
       "embedded",
@@ -28094,7 +28094,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Italian C++ Conference",
-   "number": 1975,
+   "number": 1976,
    "speakers": [
       "Marek Krajewski"
    ],
@@ -28227,7 +28227,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Pacific C++",
-   "number": 2164,
+   "number": 2165,
    "speakers": [
       "Klemens Morgenstern"
    ],
@@ -28246,7 +28246,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Pacific C++",
-   "number": 2156,
+   "number": 2157,
    "speakers": [
       "Sarah Smith"
    ],
@@ -28341,7 +28341,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1657,
+   "number": 1658,
    "speakers": [
       "Remigiusz Michulka"
    ],
@@ -28684,7 +28684,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1655,
+   "number": 1656,
    "speakers": [
       "Andrzej Krzemienski"
    ],
@@ -28759,7 +28759,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1818,
+   "number": 1819,
    "speakers": [
       "Kevlin Henney"
    ],
@@ -28777,7 +28777,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Live Embedded Event",
-   "number": 2181,
+   "number": 2182,
    "speakers": [],
    "tags": [
       "embedded",
@@ -28963,7 +28963,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1900,
+   "number": 1901,
    "speakers": [
       "Bjorn Fahller"
    ],
@@ -28981,7 +28981,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1930,
+   "number": 1931,
    "speakers": [
       "Bjorn Fahller"
    ],
@@ -28999,7 +28999,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 1988,
+   "number": 1989,
    "speakers": [
       "Bjorn Fahller"
    ],
@@ -29056,7 +29056,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1672,
+   "number": 1673,
    "speakers": [
       "Tereza Iofciu"
    ],
@@ -29093,7 +29093,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1717,
+   "number": 1718,
    "speakers": [
       "John Lakos"
    ],
@@ -29264,7 +29264,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1608,
+   "number": 1609,
    "speakers": [
       "Brandon Rhodes"
    ],
@@ -29377,7 +29377,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 2007,
+   "number": 2008,
    "speakers": [
       "Clare Macrae"
    ],
@@ -29396,7 +29396,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1934,
+   "number": 1935,
    "speakers": [
       "Clare Macrae"
    ],
@@ -29414,7 +29414,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 1992,
+   "number": 1993,
    "speakers": [
       "Clare Macrae"
    ],
@@ -29509,7 +29509,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1702,
+   "number": 1703,
    "speakers": [
       "Daniel Aronsson"
    ],
@@ -29584,7 +29584,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 2044,
+   "number": 2045,
    "speakers": [
       "Arno Schoedl"
    ],
@@ -29641,7 +29641,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1856,
+   "number": 1857,
    "speakers": [
       "Ivan Cukic"
    ],
@@ -29792,7 +29792,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1809,
+   "number": 1810,
    "speakers": [
       "Hubert Matthews"
    ],
@@ -30000,7 +30000,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 2010,
+   "number": 2011,
    "speakers": [
       "Arnaud Desitter"
    ],
@@ -30019,7 +30019,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1636,
+   "number": 1637,
    "speakers": [
       "Lukasz Daniluk"
    ],
@@ -30056,7 +30056,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1644,
+   "number": 1645,
    "speakers": [
       "Piotr Staniow"
    ],
@@ -30074,7 +30074,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1619,
+   "number": 1620,
    "speakers": [
       "Stephen Kelly"
    ],
@@ -30092,7 +30092,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ Europe",
-   "number": 2139,
+   "number": 2140,
    "speakers": [
       "Alex Bolboaca"
    ],
@@ -30148,7 +30148,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Italian C++ Conference",
-   "number": 1971,
+   "number": 1972,
    "speakers": [
       "Clare Macrae"
    ],
@@ -30167,7 +30167,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 2051,
+   "number": 2052,
    "speakers": [
       "Clare Macrae"
    ],
@@ -30319,7 +30319,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1916,
+   "number": 1917,
    "speakers": [
       "Victor Ciura"
    ],
@@ -30412,7 +30412,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1766,
+   "number": 1767,
    "speakers": [
       "Dirk Haun"
    ],
@@ -30430,7 +30430,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1656,
+   "number": 1657,
    "speakers": [
       "Tomasz Skowronski"
    ],
@@ -30448,7 +30448,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Pacific C++",
-   "number": 2150,
+   "number": 2151,
    "speakers": [
       "Jason Turner"
    ],
@@ -30524,7 +30524,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 2030,
+   "number": 2031,
    "speakers": [
       "Mateusz Pusz"
    ],
@@ -30543,7 +30543,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1677,
+   "number": 1678,
    "speakers": [
       "Mateusz Pusz"
    ],
@@ -30580,7 +30580,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Live Embedded Event",
-   "number": 2198,
+   "number": 2199,
    "speakers": [],
    "tags": [
       "embedded",
@@ -30635,7 +30635,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1641,
+   "number": 1642,
    "speakers": [
       "Grzegorz Latuszek"
    ],
@@ -30747,7 +30747,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Live Embedded Event",
-   "number": 2213,
+   "number": 2214,
    "speakers": [],
    "tags": [
       "embedded",
@@ -30783,7 +30783,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1793,
+   "number": 1794,
    "speakers": [
       "Louis Dionne"
    ],
@@ -30839,7 +30839,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1907,
+   "number": 1908,
    "speakers": [
       "Peter Sommerlad"
    ],
@@ -31028,7 +31028,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1799,
+   "number": 1800,
    "speakers": [
       "Andy Balaam"
    ],
@@ -31046,7 +31046,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Live Embedded Event",
-   "number": 2212,
+   "number": 2213,
    "speakers": [],
    "tags": [
       "embedded",
@@ -31063,7 +31063,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1865,
+   "number": 1866,
    "speakers": [
       "Eoin Woods"
    ],
@@ -31176,7 +31176,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Live Embedded Event",
-   "number": 2211,
+   "number": 2212,
    "speakers": [],
    "tags": [
       "embedded",
@@ -31193,7 +31193,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Live Embedded Event",
-   "number": 2210,
+   "number": 2211,
    "speakers": [],
    "tags": [
       "embedded",
@@ -31265,7 +31265,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 2031,
+   "number": 2032,
    "speakers": [
       "Pavel Novikov"
    ],
@@ -31284,7 +31284,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1742,
+   "number": 1743,
    "speakers": [
       "Michel Grootjans"
    ],
@@ -31340,7 +31340,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1690,
+   "number": 1691,
    "speakers": [
       "Kamil Witecki"
    ],
@@ -31472,7 +31472,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1830,
+   "number": 1831,
    "speakers": [
       "Kate Gregory"
    ],
@@ -31490,7 +31490,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Pacific C++",
-   "number": 2165,
+   "number": 2166,
    "speakers": [
       "Kate Gregory"
    ],
@@ -31509,7 +31509,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1642,
+   "number": 1643,
    "speakers": [
       "Zbigniew Skowron"
    ],
@@ -31546,7 +31546,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1635,
+   "number": 1636,
    "speakers": [
       "Michal Pawlik"
    ],
@@ -31564,7 +31564,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1614,
+   "number": 1615,
    "speakers": [
       "Marek Stoj"
    ],
@@ -31657,7 +31657,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1855,
+   "number": 1856,
    "speakers": [
       "Jez Higgins"
    ],
@@ -31732,7 +31732,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1836,
+   "number": 1837,
    "speakers": [
       "Seb Rose"
    ],
@@ -31750,7 +31750,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1634,
+   "number": 1635,
    "speakers": [
       "Tomasz Melcer"
    ],
@@ -31768,7 +31768,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 2050,
+   "number": 2051,
    "speakers": [
       "Mateusz Pusz"
    ],
@@ -31787,7 +31787,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1663,
+   "number": 1664,
    "speakers": [
       "Christian Barra"
    ],
@@ -31824,7 +31824,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1897,
+   "number": 1898,
    "speakers": [
       "Eberhard Grather"
    ],
@@ -31974,7 +31974,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 2034,
+   "number": 2035,
    "speakers": [
       "Max Langhof"
    ],
@@ -31993,7 +31993,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 2011,
+   "number": 2012,
    "speakers": [
       "Guy Davidson"
    ],
@@ -32067,7 +32067,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1942,
+   "number": 1943,
    "speakers": [
       "Paul Williams"
    ],
@@ -32085,7 +32085,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 2000,
+   "number": 2001,
    "speakers": [
       "Paul Williams"
    ],
@@ -32104,7 +32104,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1607,
+   "number": 1608,
    "speakers": [
       "Damian Skrzypczak"
    ],
@@ -32161,7 +32161,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Live Embedded Event",
-   "number": 2209,
+   "number": 2210,
    "speakers": [],
    "tags": [
       "embedded",
@@ -32254,7 +32254,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Live Embedded Event",
-   "number": 2208,
+   "number": 2209,
    "speakers": [],
    "tags": [
       "embedded",
@@ -32309,7 +32309,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1764,
+   "number": 1765,
    "speakers": [
       "Robert Smallshire"
    ],
@@ -32346,7 +32346,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Live Embedded Event",
-   "number": 2187,
+   "number": 2188,
    "speakers": [],
    "tags": [
       "embedded",
@@ -32363,7 +32363,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Live Embedded Event",
-   "number": 2190,
+   "number": 2191,
    "speakers": [],
    "tags": [
       "embedded",
@@ -32475,7 +32475,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1668,
+   "number": 1669,
    "speakers": [
       "Victor Ciura"
    ],
@@ -32625,7 +32625,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1734,
+   "number": 1735,
    "speakers": [
       "Marshall Clow"
    ],
@@ -32738,7 +32738,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1667,
+   "number": 1668,
    "speakers": [
       "Piotr Padlewski"
    ],
@@ -32850,7 +32850,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 2045,
+   "number": 2046,
    "speakers": [
       "Kevlin Henney"
    ],
@@ -32907,7 +32907,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 2017,
+   "number": 2018,
    "speakers": [
       "Dawid Zalewski"
    ],
@@ -32962,7 +32962,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Pacific C++",
-   "number": 2160,
+   "number": 2161,
    "speakers": [
       "Toby Allsopp"
    ],
@@ -33057,7 +33057,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1707,
+   "number": 1708,
    "speakers": [
       "Kamil Witecki"
    ],
@@ -33114,7 +33114,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1801,
+   "number": 1802,
    "speakers": [
       "Phil Nash"
    ],
@@ -33189,7 +33189,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1898,
+   "number": 1899,
    "speakers": [
       "Jean-Michael Celerier"
    ],
@@ -33264,7 +33264,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1832,
+   "number": 1833,
    "speakers": [
       "Benjamin Misell"
    ],
@@ -33320,7 +33320,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1890,
+   "number": 1891,
    "speakers": [
       "Andreas Weis"
    ],
@@ -33338,7 +33338,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1599,
+   "number": 1600,
    "speakers": [
       "Andreas Weis"
    ],
@@ -33413,7 +33413,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ Day",
-   "number": 1952,
+   "number": 1953,
    "speakers": [
       "Gianluca Padovani"
    ],
@@ -33451,7 +33451,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1876,
+   "number": 1877,
    "speakers": [
       "Christopher Simons",
       "Frances Buontempo"
@@ -33489,7 +33489,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ Europe",
-   "number": 2133,
+   "number": 2134,
    "speakers": [
       "Peter Hilton"
    ],
@@ -33906,7 +33906,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1859,
+   "number": 1860,
    "speakers": [
       "Patricia Aas"
    ],
@@ -33981,7 +33981,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1754,
+   "number": 1755,
    "speakers": [
       "Brad Chamberlain"
    ],
@@ -33999,7 +33999,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1643,
+   "number": 1644,
    "speakers": [
       "Borislav Stanimirov"
    ],
@@ -34017,7 +34017,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1804,
+   "number": 1805,
    "speakers": [
       "Valentin Galea"
    ],
@@ -34073,7 +34073,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Core C++",
-   "number": 2060,
+   "number": 2061,
    "speakers": [
       "Jason Turner"
    ],
@@ -34186,7 +34186,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Core C++",
-   "number": 2061,
+   "number": 2062,
    "speakers": [
       "Bryce Adelstein-Lelbach"
    ],
@@ -34262,7 +34262,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ Europe",
-   "number": 2140,
+   "number": 2141,
    "speakers": [
       "Arno Schoedl"
    ],
@@ -34281,7 +34281,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1756,
+   "number": 1757,
    "speakers": [
       "Hubert Matthews"
    ],
@@ -34337,7 +34337,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Italian C++ Conference",
-   "number": 1955,
+   "number": 1956,
    "speakers": [
       "Fabio Fracassi"
    ],
@@ -34432,7 +34432,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1891,
+   "number": 1892,
    "speakers": [
       "Andy Thomason"
    ],
@@ -34450,7 +34450,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1822,
+   "number": 1823,
    "speakers": [
       "Jim Hague"
    ],
@@ -34658,7 +34658,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1881,
+   "number": 1882,
    "speakers": [
       "Phil Nash"
    ],
@@ -34676,7 +34676,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1909,
+   "number": 1910,
    "speakers": [
       "Phil Nash"
    ],
@@ -34694,7 +34694,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Core C++",
-   "number": 2079,
+   "number": 2080,
    "speakers": [
       "Phil Nash"
    ],
@@ -34751,7 +34751,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1749,
+   "number": 1750,
    "speakers": [
       "Marshall Clow"
    ],
@@ -34788,7 +34788,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1737,
+   "number": 1738,
    "speakers": [
       "Charles Bailey"
    ],
@@ -34826,7 +34826,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1775,
+   "number": 1776,
    "speakers": [
       "Burkhard Kloss"
    ],
@@ -34920,7 +34920,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1829,
+   "number": 1830,
    "speakers": [
       "Luca Minudel"
    ],
@@ -34975,7 +34975,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1944,
+   "number": 1945,
    "speakers": [
       "Heiko Frederik Bloch"
    ],
@@ -34993,7 +34993,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 2002,
+   "number": 2003,
    "speakers": [
       "Heiko Frederik Bloch"
    ],
@@ -35012,7 +35012,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1925,
+   "number": 1926,
    "speakers": [
       "Kevlin Henney"
    ],
@@ -35030,7 +35030,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 1983,
+   "number": 1984,
    "speakers": [
       "Kevlin Henney"
    ],
@@ -35088,7 +35088,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 2035,
+   "number": 2036,
    "speakers": [
       "Shachar Langbeheim"
    ],
@@ -35164,7 +35164,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1617,
+   "number": 1618,
    "speakers": [
       "Viktor Kirilov"
    ],
@@ -35182,7 +35182,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1618,
+   "number": 1619,
    "speakers": [
       "Viktor Kirilov"
    ],
@@ -35257,7 +35257,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1823,
+   "number": 1824,
    "speakers": [
       "Alisdair Meredith"
    ],
@@ -35312,7 +35312,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1899,
+   "number": 1900,
    "speakers": [
       "Luca Sas"
    ],
@@ -35408,7 +35408,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1689,
+   "number": 1690,
    "speakers": [
       "Borislav Stanimirov"
    ],
@@ -35426,7 +35426,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 2042,
+   "number": 2043,
    "speakers": [
       "Tina Ulbrich"
    ],
@@ -35445,7 +35445,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1597,
+   "number": 1598,
    "speakers": [
       "Serhiy Kostyshyn"
    ],
@@ -35482,7 +35482,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Core C++",
-   "number": 2103,
+   "number": 2104,
    "speakers": [
       "Dvir Yitzchaki"
    ],
@@ -35577,7 +35577,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1767,
+   "number": 1768,
    "speakers": [
       "Greg Law"
    ],
@@ -35595,7 +35595,7 @@
    "language": "hebrew",
    "level": 0,
    "meeting": "Core C++",
-   "number": 2094,
+   "number": 2095,
    "speakers": [
       "Dafna Mordechai"
    ],
@@ -35843,7 +35843,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1820,
+   "number": 1821,
    "speakers": [
       "Jon Jagger"
    ],
@@ -36071,7 +36071,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Italian C++ Conference",
-   "number": 1969,
+   "number": 1970,
    "speakers": [
       "Victor Ciura"
    ],
@@ -36109,7 +36109,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1939,
+   "number": 1940,
    "speakers": [
       "Louise Brown"
    ],
@@ -36127,7 +36127,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 1997,
+   "number": 1998,
    "speakers": [
       "Louise Brown"
    ],
@@ -36203,7 +36203,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 2059,
+   "number": 2060,
    "speakers": [
       "Sandor Dargo"
    ],
@@ -36259,7 +36259,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1819,
+   "number": 1820,
    "speakers": [
       "Lisa Lippincott"
    ],
@@ -36372,7 +36372,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1901,
+   "number": 1902,
    "speakers": [
       "Mathieu Ropert"
    ],
@@ -36409,7 +36409,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1721,
+   "number": 1722,
    "speakers": [
       "Jon Jagger"
    ],
@@ -36427,7 +36427,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1894,
+   "number": 1895,
    "speakers": [
       "Supriya Srivatsa"
    ],
@@ -36634,7 +36634,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Live Embedded Event",
-   "number": 2206,
+   "number": 2207,
    "speakers": [],
    "tags": [
       "embedded",
@@ -36726,7 +36726,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1622,
+   "number": 1623,
    "speakers": [
       "Felix Petriconi"
    ],
@@ -36744,7 +36744,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1838,
+   "number": 1839,
    "speakers": [
       "Felix Petriconi"
    ],
@@ -36781,7 +36781,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1839,
+   "number": 1840,
    "speakers": [
       "Jonathan Wakely",
       "Marshall Clow"
@@ -36838,7 +36838,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 2037,
+   "number": 2038,
    "speakers": [
       "Richard Fabian"
    ],
@@ -36894,7 +36894,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1604,
+   "number": 1605,
    "speakers": [
       "Oleksii Pilkevych"
    ],
@@ -36949,7 +36949,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1697,
+   "number": 1698,
    "speakers": [
       "Mateusz Nowak"
    ],
@@ -36985,7 +36985,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1753,
+   "number": 1754,
    "speakers": [
       "Kevlin Henney"
    ],
@@ -37117,7 +37117,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1792,
+   "number": 1793,
    "speakers": [
       "Herb Sutter"
    ],
@@ -37247,7 +37247,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1796,
+   "number": 1797,
    "speakers": [
       "Florian Gilcher"
    ],
@@ -37265,7 +37265,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Core C++",
-   "number": 2089,
+   "number": 2090,
    "speakers": [
       "Bjarne Stroustrup"
    ],
@@ -37284,7 +37284,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1623,
+   "number": 1624,
    "speakers": [
       "Kamil Witecki"
    ],
@@ -37340,7 +37340,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Pacific C++",
-   "number": 2168,
+   "number": 2169,
    "speakers": [
       "James McNellis"
    ],
@@ -37456,7 +37456,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ Europe",
-   "number": 2127,
+   "number": 2128,
    "speakers": [
       "Augustin Popa",
       "Elizabeth Morrow"
@@ -37476,7 +37476,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1842,
+   "number": 1843,
    "speakers": [
       "Duygu Cakmak",
       "Guy Davidson"
@@ -37535,7 +37535,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ Europe",
-   "number": 2111,
+   "number": 2112,
    "speakers": [
       "Jose Daniel Garcia"
    ],
@@ -37593,7 +37593,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Live Embedded Event",
-   "number": 2207,
+   "number": 2208,
    "speakers": [],
    "tags": [
       "embedded",
@@ -37686,7 +37686,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1695,
+   "number": 1696,
    "speakers": [
       "Ian Oliver"
    ],
@@ -37780,7 +37780,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1844,
+   "number": 1845,
    "speakers": [
       "Frances Buontempo"
    ],
@@ -37837,7 +37837,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Live Embedded Event",
-   "number": 2196,
+   "number": 2197,
    "speakers": [],
    "tags": [
       "embedded",
@@ -37949,7 +37949,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1837,
+   "number": 1838,
    "speakers": [
       "Bjorn Fahller"
    ],
@@ -38043,7 +38043,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Pacific C++",
-   "number": 2155,
+   "number": 2156,
    "speakers": [
       "Nick Sarten"
    ],
@@ -38253,7 +38253,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1653,
+   "number": 1654,
    "speakers": [
       "Ansel Sermersheim",
       "Barbara Geller"
@@ -38272,7 +38272,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 2021,
+   "number": 2022,
    "speakers": [
       "Sandor Dargo"
    ],
@@ -38346,7 +38346,7 @@
    "language": "hebrew",
    "level": 0,
    "meeting": "Core C++",
-   "number": 2107,
+   "number": 2108,
    "speakers": [
       "Amir Kirsh",
       "Amit Barzilay"
@@ -38422,7 +38422,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Core C++",
-   "number": 2072,
+   "number": 2073,
    "speakers": [
       "Dan Saks"
    ],
@@ -38460,7 +38460,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Live Embedded Event",
-   "number": 2205,
+   "number": 2206,
    "speakers": [],
    "tags": [
       "embedded",
@@ -38477,7 +38477,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ Day",
-   "number": 1948,
+   "number": 1949,
    "speakers": [
       "Kris van Rens"
    ],
@@ -38763,7 +38763,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1710,
+   "number": 1711,
    "speakers": [
       "Adam Zadrozny"
    ],
@@ -38917,7 +38917,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Pacific C++",
-   "number": 2151,
+   "number": 2152,
    "speakers": [
       "Christian Blume"
    ],
@@ -38936,7 +38936,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1712,
+   "number": 1713,
    "speakers": [
       "Schalk Cronje"
    ],
@@ -38954,7 +38954,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1783,
+   "number": 1784,
    "speakers": [
       "Bjorn Fahller"
    ],
@@ -38991,7 +38991,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1719,
+   "number": 1720,
    "speakers": [
       "Peter Sommerlad"
    ],
@@ -39009,7 +39009,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 2056,
+   "number": 2057,
    "speakers": [
       "Dominic Poschko"
    ],
@@ -39274,7 +39274,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 2027,
+   "number": 2028,
    "speakers": [
       "Juan Pedro Bolivar Puente"
    ],
@@ -39426,7 +39426,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Core C++",
-   "number": 2090,
+   "number": 2091,
    "speakers": [
       "Shachar Langbeheim"
    ],
@@ -39482,7 +39482,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1620,
+   "number": 1621,
    "speakers": [
       "Sambath Logakrishnan"
    ],
@@ -39500,7 +39500,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1605,
+   "number": 1606,
    "speakers": [
       "Michal Pomykala"
    ],
@@ -39518,7 +39518,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Core C++",
-   "number": 2065,
+   "number": 2066,
    "speakers": [
       "Inbal Levi"
    ],
@@ -39537,7 +39537,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1725,
+   "number": 1726,
    "speakers": [
       "Peter Sommerlad"
    ],
@@ -39555,7 +39555,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1935,
+   "number": 1936,
    "speakers": [
       "Odin Holmes"
    ],
@@ -39573,7 +39573,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 1993,
+   "number": 1994,
    "speakers": [
       "Odin Holmes"
    ],
@@ -39592,7 +39592,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1716,
+   "number": 1717,
    "speakers": [
       "Chris Oldwood"
    ],
@@ -39744,7 +39744,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Italian C++ Conference",
-   "number": 1968,
+   "number": 1969,
    "speakers": [
       "Paolo Severini"
    ],
@@ -39763,7 +39763,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ Day",
-   "number": 1950,
+   "number": 1951,
    "speakers": [
       "Lorenzo Veneri"
    ],
@@ -39782,7 +39782,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Live Embedded Event",
-   "number": 2188,
+   "number": 2189,
    "speakers": [],
    "tags": [
       "embedded",
@@ -39799,7 +39799,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Italian C++ Conference",
-   "number": 1967,
+   "number": 1968,
    "speakers": [
       "Sean Parent"
    ],
@@ -39818,7 +39818,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Italian C++ Conference",
-   "number": 1953,
+   "number": 1954,
    "speakers": [
       "Nicolai Josuttis"
    ],
@@ -39856,7 +39856,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Core C++",
-   "number": 2088,
+   "number": 2089,
    "speakers": [
       "Adi Shavit"
    ],
@@ -39875,7 +39875,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 2054,
+   "number": 2055,
    "speakers": [
       "Phil Nash"
    ],
@@ -39913,7 +39913,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1713,
+   "number": 1714,
    "speakers": [
       "Guy Davidson"
    ],
@@ -39988,7 +39988,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1646,
+   "number": 1647,
    "speakers": [
       "Ulrich Drepper"
    ],
@@ -40006,7 +40006,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1870,
+   "number": 1871,
    "speakers": [
       "Ahto Truu"
    ],
@@ -40041,7 +40041,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++IndiaCon",
-   "number": 2143,
+   "number": 2144,
    "speakers": [
       "Bryce Adelstein-Lelbach"
    ],
@@ -40213,7 +40213,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1868,
+   "number": 1869,
    "speakers": [
       "Kate Gregory"
    ],
@@ -40231,7 +40231,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1692,
+   "number": 1693,
    "speakers": [
       "Bjorn Fahller"
    ],
@@ -40249,7 +40249,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1908,
+   "number": 1909,
    "speakers": [
       "Kevlin Henney"
    ],
@@ -40267,7 +40267,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1694,
+   "number": 1695,
    "speakers": [
       "Gabriela Limonta"
    ],
@@ -40304,7 +40304,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1726,
+   "number": 1727,
    "speakers": [
       "Slawomir Zborowski"
    ],
@@ -40322,7 +40322,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1929,
+   "number": 1930,
    "speakers": [
       "Matt Godbolt"
    ],
@@ -40340,7 +40340,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 1987,
+   "number": 1988,
    "speakers": [
       "Matt Godbolt"
    ],
@@ -40397,7 +40397,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1645,
+   "number": 1646,
    "speakers": [
       "Adi Shavit"
    ],
@@ -40415,7 +40415,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1924,
+   "number": 1925,
    "speakers": [
       "Adi Shavit"
    ],
@@ -40433,7 +40433,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 1982,
+   "number": 1983,
    "speakers": [
       "Adi Shavit"
    ],
@@ -40452,7 +40452,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1630,
+   "number": 1631,
    "speakers": [
       "Odin Holmes"
    ],
@@ -40470,7 +40470,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1631,
+   "number": 1632,
    "speakers": [
       "Odin Holmes"
    ],
@@ -40754,7 +40754,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1827,
+   "number": 1828,
    "speakers": [
       "Gail Ollis"
    ],
@@ -40943,7 +40943,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1661,
+   "number": 1662,
    "speakers": [
       "Brandon Rhodes"
    ],
@@ -40980,7 +40980,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1659,
+   "number": 1660,
    "speakers": [
       "Lukasz Kucharski"
    ],
@@ -40998,7 +40998,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1600,
+   "number": 1601,
    "speakers": [
       "Mateusz Nowak"
    ],
@@ -41035,7 +41035,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Core C++",
-   "number": 2075,
+   "number": 2076,
    "speakers": [
       "Meir Komar"
    ],
@@ -41073,7 +41073,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Core C++",
-   "number": 2071,
+   "number": 2072,
    "speakers": [
       "Miri Kogan"
    ],
@@ -41086,13 +41086,29 @@
    "title": "Who includes me?",
    "video": "https://youtube.com/watch?v=iZIYNnRPjU8"
 },{
+   "duration": 221,
+   "edition": "2017",
+   "identifier": "code::dive-2017-42",
+   "language": "english",
+   "level": 0,
+   "meeting": "code::dive",
+   "number": 1593,
+   "speakers": [],
+   "tags": [
+      "lightning",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/Se9AEznM8TI/0.jpg",
+   "title": "who the f**k is eric? by odin and the nerds",
+   "video": "https://youtube.com/watch?v=Se9AEznM8TI"
+},{
    "duration": 4129,
    "edition": "2018",
    "identifier": "code::dive-2018-46",
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1638,
+   "number": 1639,
    "speakers": [
       "Bartosz Milewski"
    ],
@@ -41148,7 +41164,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 2014,
+   "number": 2015,
    "speakers": [
       "Nicolai Josuttis"
    ],
@@ -41224,7 +41240,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Live Embedded Event",
-   "number": 2236,
+   "number": 2237,
    "speakers": [],
    "tags": [
       "embedded",
@@ -41279,7 +41295,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1681,
+   "number": 1682,
    "speakers": [
       "Sambath Logakrishnan"
    ],
@@ -41297,7 +41313,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1913,
+   "number": 1914,
    "speakers": [
       "Roger Orr"
    ],
@@ -41353,7 +41369,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1729,
+   "number": 1730,
    "speakers": [
       "Guy Bolton King"
    ],
@@ -41390,7 +41406,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1943,
+   "number": 1944,
    "speakers": [
       "Matt Godbolt"
    ],
@@ -41408,7 +41424,7 @@
    "language": "english",
    "level": 0,
    "meeting": "C++ on sea",
-   "number": 2001,
+   "number": 2002,
    "speakers": [
       "Matt Godbolt"
    ],
@@ -41483,7 +41499,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1805,
+   "number": 1806,
    "speakers": [
       "Jeffrey Mendelsohn"
    ],
@@ -41520,7 +41536,7 @@
    "language": "hebrew",
    "level": 0,
    "meeting": "Core C++",
-   "number": 2091,
+   "number": 2092,
    "speakers": [
       "Avi Lachmish"
    ],
@@ -41651,7 +41667,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1758,
+   "number": 1759,
    "speakers": [
       "Guy Davidson"
    ],
@@ -41726,7 +41742,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1735,
+   "number": 1736,
    "speakers": [
       "David R MacIver"
    ],
@@ -41744,7 +41760,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Italian C++ Conference",
-   "number": 1964,
+   "number": 1965,
    "speakers": [
       "Larry Bank"
    ],
@@ -41839,7 +41855,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Live Embedded Event",
-   "number": 2235,
+   "number": 2236,
    "speakers": [],
    "tags": [
       "embedded",
@@ -41856,7 +41872,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Live Embedded Event",
-   "number": 2234,
+   "number": 2235,
    "speakers": [],
    "tags": [
       "embedded",
@@ -41930,7 +41946,7 @@
    "language": "english",
    "level": 0,
    "meeting": "code::dive",
-   "number": 1682,
+   "number": 1683,
    "speakers": [
       "Adrian Peret"
    ],
@@ -41967,7 +41983,7 @@
    "language": "english",
    "level": 0,
    "meeting": "Live Embedded Event",
-   "number": 2202,
+   "number": 2203,
    "speakers": [],
    "tags": [
       "embedded",
@@ -41984,7 +42000,7 @@
    "language": "english",
    "level": 0,
    "meeting": "accu",
-   "number": 1846,
+   "number": 1847,
    "speakers": [
       "Vittorio Romeo"
    ],
