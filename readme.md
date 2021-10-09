@@ -6,13 +6,11 @@ license: Boost
 
 -------------------------------------------------------------------------------
 
-# what is it
+## What is it
 
-This is a list of talks about C++ and/or related subjects I compiled 
-from the playlists and schedules of a number of C++ (and related) conferences.
+This is a list of talks about C++ or related subjects I compiled 
+from the playlists of a number of C++ (and related) conferences.
 Suggestions for other conferences to be included are welcome.
-I apologize for the (probably many) inaccuracies and omissions.
-Feel free to suggest corrections.
 
 I don't pretend to be a front-end developer, so 
 beside the simple web page (https://wovo.github.io/ctl/) the list
@@ -22,29 +20,27 @@ If you create you own interface, let me know!
 
 -------------------------------------------------------------------------------
 
-## details
+## Conferences
 
-The main source I used was 
-https://isocpp.org/wiki/faq/conferences-worldwide
-which has links to playlists for most conferences.
-I created this list with a combination of Python scripts
-and manual corrections. This mostly seems to work now.
-In the process, I converted all text to ascii (sorry speakers...).
+The conferences I included so far are:
+- accu 2016-2021
+- BoostCon 2010-2011
+- C++ Day 2020
+- C++ Europe 2018-2020
+- C++ on sea 2019-2021
+- C++IndiaCon 2021
+- C++Now 2012-2021
+- code::dive 2014-2020
+- Core C++ 2019-2021
+- CppCon 2014-2020
+- Italian C++ Conference 2020-2021
+- Meeting C++ 2014-2020
+- Meeting Embedded 2018-2020
+- Pacific C++ 2017-2018
 
-The conferences I included so fare are:
-- accu (spring) 2016-2019 (from the program page)
-- accu (autumn) 2019
-- c++now 2010-2019, 2021
-- code-dive 2014-2020 (from the program page)
-- meeting-c++ 2014-2020
-- meeting-embedded 2018, 2020
-- cppcon 2014-2020
-- c++-on-sea 19-20 
-- cpp-india 2021
-- pacific-c++ 2017, 2018
-- Core C++
-- CPPP
-- cpp europe 
+-------------------------------------------------------------------------------
+
+## Tags
 
 The talks have tags, but this is still rudimentary.
 I used or plan to use these tags:
@@ -62,6 +58,10 @@ I used or plan to use these tags:
 - compilation, jit
 - quality, naming, testing
 
+-------------------------------------------------------------------------------
+
+## Level
+
 There is a field to rate the talk for the experience level of the intended
 audience, but this has not been done yet (all are at 0, which means unknown).
 The intended levels are:
@@ -78,16 +78,14 @@ The intended levels are:
 
 -------------------------------------------------------------------------------
 
-## to do list
+## Credits
 
-- https://liveembededevent.virtualconference.com/#/event
-- 2021 
-- expand/standardize abbreviated first names
-- check twice the same youtube url (0xbad - doens't check conference name?)
-- accu again, note the lightning's
-- FOSDEM (lots of talks, maybe not so interesting?)
-- embo++, Core Hard, C++ Day, ADC++ (no playlists?)
-- http://cpptalksindex.xyz/
+- This effort was triggered by an [r/cpp](https://www.reddit.com/r/cpp)
+[post](https://www.reddit.com/r/cpp/comments/j5s6lw/an_index_for_c_conferences/)
+by u/Ethiraric on reddit/c++
+about his [talks list](http://cpptalksindex.xyz/).
+- The main source of conference playlists I used was 
+https://isocpp.org/wiki/faq/conferences-worldwide.
 
 
 
