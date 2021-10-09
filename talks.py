@@ -26,8 +26,6 @@
 # add some trivia (top nr of talks, nr of minutes)
 # FOSDEM (lots of talks, but maybe not so interesting?)
 # embo++, ADC++ (no playlists?)
-# https://corehard.io/videos - most are not english..
-# C++ in title -> c++ tag
 #
 # more tags: units, naming
 # how to record tags??
@@ -68,9 +66,8 @@ replacements = {
    "ż": "z",      "′": "'",      "Ç": "C",      "À": "A",      "©": "(C)",
    "≤": "=<",     "Ó": "O",      "⬆️": "^",      "È": "E",      "ì": "i",
    "→": "->",     "λ": "lambda", "ï": "i",      "ò": "o",      "∞": "lemniscate",
-   "𝐂": "C",      "á": "a",      "́": "",
-   "æ": "ae",
-   "x": "x",
+   "𝐂": "C",      "á": "a",      "́": "",        "æ": "ae",     "➠": "",
+   "\u0308": "",
    "x": "x",
    "x": "x",
    "x": "x",
@@ -476,9 +473,9 @@ must_total_replace = [
    [ "On 'simple' Optimizations - Chandler Carruth - Secret Lightning Talks - Meeting C++ 2016",
         "Chandler Carruth : On 'simple' Optimizations - Secret Lightning Talks - Meeting C++ 2016" ],
    [ "Kate Gregory - It's Complicated - Meeting C++ 2017 Keynote",
-        "It's Complicated - Kate Gregory" ],   
+        "It's Complicated - Kate Gregory - Keynote" ],   
    [ "Wouter van Ooijen - Embedded & C++ - Meeting 2017 Keynote",
-        "Embedded & C++ - Wouter van Ooijen" ],   
+        "Embedded & C++ - Wouter van Ooijen - Keynote" ],   
    [ "Jens Weller - Programming in a different domain - Meeting C++ 2017",
         "Programming in a different domain - Jens Weller" ],   
    [ "The need for a package manager interface - Mathieu Ropert - Lightningtalks Meeting C++ 2017",
@@ -617,7 +614,7 @@ def sanitize_raw_title( s, meeting, edition ):
    # hopeless cases
    # do this first, so the matches are not affected by 
    # changes in later manipulations (like remove noise)
-   print( "before total replace [%s]" % s )
+   print( "   before total replace [%s]" % s )
    for a, b in must_total_replace:
       if s == a:
          s = b
@@ -824,6 +821,7 @@ def sanitize_speaker( s ):
       s = s.replace( a, "" ).strip()
    if s.endswith( "-" ): s = s[ : -1 ].strip()
    if s.startswith( "-" ): s = s[ 1 : ].strip()
+   s = s.lstrip( " ." )
    for a, b in speaker_replacements:
       if s == a: 
          s = b           
@@ -889,7 +887,7 @@ def sanitize_title( s ):
    for c in "'\"":
       if s.startswith( c ) and s.endswith( c ):
          s = s[ 1 : -1 ]
-   s = s.strip( " :")   
+   s = s.strip( " :").lstrip( " ." ).strip()
    
    return s
 
@@ -974,6 +972,36 @@ def split_cc( meeting, edition, s ):
    print( "   split_cc [%s]" % s )
    
    speakers, title = s.rsplit( "::", 1 )
+   
+   return speakers, title
+
+   
+# ===========================================================================
+
+def split_tds( meeting, edition, s ):   
+   # title. speaker
+   print( "   split_tds [%s]" % s )
+
+   s = s.strip( ". " )   
+   x = s.find( "." )
+   if x < 0: x = s.find( "," )
+   
+   title, speakers = s[ : x ], s[ x : ]
+   
+   return speakers, title
+
+   
+# ===========================================================================
+
+def split_sdt( meeting, edition, s ):   
+   # speaker. title
+   print( "   split_sdt [%s]" % s )
+   
+   s = s.strip( ". " )
+   x = s.find( "." )
+   if x < 0: x = s.find( "," )
+   
+   speakers, title = s[ : x ], s[ x : ]
    
    return speakers, title
 
@@ -1171,6 +1199,14 @@ def split_speakers_and_title( meeting, edition, s, splitter ):
       "Lightning Talk:",
       "at CppEurope 2020, Bucharest",
       "CppCon",
+      "C++ CoreHard Spring 2017",
+      "CoreHard Autumn 2016",
+      "CoreHard Autumn 2017",
+      "CoreHard Spring 2017",
+      "C++ CoreHard Autumn 2018",
+      "CoreHard Spring 2018",
+      "CoreHard Autumn 2019",
+      "CoreHard Spring 2019",
       "2013 ", # C++Now
       "2016", # also C++Now
    ]:
@@ -1178,7 +1214,7 @@ def split_speakers_and_title( meeting, edition, s, splitter ):
          
    # C++Now 2014 omits the speakers
    s = s.strip()
-   print( [s] )
+   print( "   missing speakers [%s]" % s )
    for a, b in missing_speakers:
       if s == a:
          s = "%s : %s" % ( b, a )
@@ -1220,7 +1256,7 @@ def add_talk(
    level = 0
    tags = []
    
-   if 1: print( "add_talk", nr, s )
+   if 1: print( "   add_talk", nr, s )
 
    for marker, marked_language in [
       [ "[ITA]", "italian" ],
@@ -1287,6 +1323,9 @@ def add_talk(
          '+' : "c++",
          'e' : "embedded",
       }[ c ] )   
+      
+   if title.lower().find( "c++" ) and not "c++" in tags:
+      tags.append( "c++" )
       
    id = "%s-%s-%d " % ( meeting, edition, nr )
    print( "%s : %s \"%s\" " % ( id, speakers, title ) )
@@ -1464,6 +1503,25 @@ playlists = [
    ]], [ "Live Embedded Event", [ # checked, but no speakers :(
       [ "2020", [[ "PLn7YTy5_SF4_1ZLsQ29ZGpjZo7aNoLBIt", split_lee, "oe"  ]]],
       [ "2021", [[ "PLn7YTy5_SF4-FRyY-5zwsKuTCOBRUkY_h", split_lee, "oe"  ]]],
+   ]], [ "corehard", [ 
+      [ "2017", [[ "XWn4_Vu7rUM",                        split_sdt, "l+"  ],
+                 [ "TX6aw2NtgVw",                        split_sdt, "l+"  ],
+                 [ "7wqpeVs6usY",                        split_sdt, "l+"  ]]],
+      [ "2018", [[ "5U8eN1h2_w0",                        split_ts,  "l+"  ],
+                 [ "pqpoGJSlrbw",                        split_ts,  "l+"  ],
+                 [ "unWsb-u4ors",                        split_ts,  "l+"  ],
+                 [ "mIuqlsxAz0M",                        split_ts,  "l+"  ],
+                 [ "GcfqHT4RtWc",                        split_sdt, "l+"  ],
+                 [ "560l4b3i4ew",                        split_sdt, "l+"  ],
+                 [ "OY_mS2e4XTk",                        split_sdt, "l+"  ]]],
+      [ "2019", [[ "s9vBk5CxFyY",                        split_tds, "l+"  ],
+                 [ "nqf53MlnMpo",                        split_tds, "l+"  ],
+                 [ "N8i2VITM4Pw",                        split_tds, "l+"  ],
+                 [ "tp9ZoQ6HJM4",                        split_tds, "l+"  ],
+                 [ "EeEjgT4OJ3E",                        split_tds, "l+"  ],
+                 [ "Vv3cz28Un3Y",                        split_tds, "l+"  ],
+                 [ "hcgL8QBmh2I",                        split_tds, "l+"  ],
+                 [ "4QO9FyH0KIY",                        split_tds, "l+"  ]]],
    ]], [ "", [
    ]],      
 ]

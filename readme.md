@@ -24,7 +24,7 @@ If you create you own interface, let me know!
 
 ## Conferences
 
-The conferences I included so far are:
+Conferences I included so far are:
 - accu 2016-2021
 - BoostCon 2010-2011
 - C++ Day 2020
@@ -34,6 +34,7 @@ The conferences I included so far are:
 - C++Now 2012-2021
 - code::dive 2014-2020
 - Core C++ 2019-2021
+- corehard 2015-2019 (the english talks)
 - CppCon 2014-2020
 - Italian C++ Conference 2020-2021
 - Meeting C++ 2014-2020
