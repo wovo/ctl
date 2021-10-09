@@ -55,12 +55,12 @@ I used or plan to use these tags:
 - c++, c, java, javscript, python, assembler
 - c++11, c++14, c++17, c++20
 - standard, evolution
-- embedded, latency, freestanding, unit
+- hardware, embedded, latency, freestanding, unit
 - git, make, cmake
 - exception, template, concept, constexpr, lambda, volatile, int
 - stl, container, algorithm
 - procedural, oo, functional
-- compilation, jit
+- compilation, jit, emulation, retro
 - quality, naming, testing
 
 -------------------------------------------------------------------------------

@@ -26,10 +26,16 @@
 # add some trivia (top nr of talks, nr of minutes)
 # FOSDEM (lots of talks, but maybe not so interesting?)
 # embo++, ADC++ (no playlists?)
+# Meetup Modena/Online 2021 - all italian?
+# code::dive 2016 conference – Chandler Carruth – Panel-style extended Q&A / AmA
+# Core C++ 2019 :: Rafi Wiener :: Interview Question
+# itCppCon20 - The Silicon Valley coding interview (Nicolo Valigi)
+# Welcome (Marco Arena) + 'WARNING: std::find is broken
 #
 # more tags: units, naming
 # how to record tags??
 # tag 'time travel': units
+# When Should You Give Two Things the Same Name?: naming, quality
 #
 # ===========================================================================
 
@@ -67,7 +73,9 @@ replacements = {
    "≤": "=<",     "Ó": "O",      "⬆️": "^",      "È": "E",      "ì": "i",
    "→": "->",     "λ": "lambda", "ï": "i",      "ò": "o",      "∞": "lemniscate",
    "𝐂": "C",      "á": "a",      "́": "",        "æ": "ae",     "➠": "",
-   "\u0308": "",
+   "\u0308": "",  "à": "a",
+   "x": "x",
+   "x": "x",
    "x": "x",
    "x": "x",
    "x": "x",
@@ -455,6 +463,14 @@ missing_speakers = [
      "Niek J. Bouman" ],  
    [ "'Emulating the Nintendo 3DS: Generative & Declarative Programming in Action'",
      "Tony Wasserka" ],  
+   [ "Selected C++11 Template Toffees From sqlpp11 (Part1)",
+     "Roland Bock" ],
+   [ "Selected C++11 Template Toffees From sqlpp11 (Part2)",
+     "Roland Bock" ],
+   [ "Selected C++11 Template Toffees From sqlpp11 (Part3)",
+     "Roland Bock" ],
+   [ "Selected C++11 Template Toffees From sqlpp11 (Part4)",
+     "Roland Bock" ],
    [ "",
      "" ],  
    [ "",
@@ -564,10 +580,10 @@ must_total_replace = [
         "Arvid Gerstmann - Fastbuild - Lightningtalks Meeting C++ 2017" ],   
    [ "C++Now 2017: John McFarlane 'Composite Arithmetic Types Are > the + of Their Parts",
         "C++Now 2017: John McFarlane 'Composite Arithmetic Types Are > the + of Their Parts'" ],   
-   [ "",
-        "" ],    
-   [ "",
-        "" ],    
+   [ "code::dive conference 2014 - Damian Czernous Model - View - Whatever MVW",
+        "Damian Czernous : Model - View - Whatever MVW" ],    
+   [ "[IoT & Edge Computing] Zephyr, retour d'experience sur une des fondation de Stimio SDK",
+        "[IoT & Edge Computing][FRE] Zephyr, retour d'experience sur une des fondation de Stimio SDK" ],    
    [ "",
         "" ],    
    [ "",
@@ -758,8 +774,6 @@ speaker_replacements = [
    [ "Arthur ODwyer",                "Arthur O'Dwyer" ],
    [ "Josuttis",                     "Nicolai Josuttis" ],
    [ "Walter E Brown",               "Walter E. Brown" ],
-   [ "Verasani",                     "Verasani" ], # no full name on their sheets :(
-   [ "Tondelli",                     "Tondelli" ],
    [ "T. Grue",                      "Tony Grue" ],
    [ "S. Kabbes",                    "Steven Kabbes" ],
    [ "McKenney",                     "Paul E. McKenney" ],
@@ -798,6 +812,15 @@ speaker_replacements = [
    [ "G. Nishanov",                  "Gor Nishanov" ],
    [ "Gaby Dos Reis",                "Gabriel Dos Reis" ],
    [ "J Daniel Garcia",              "J. Daniel Garcia" ],
+   [ "Wouter Van Ooijen",            "Wouter van Ooijen" ],
+   [ "Verasani",                     "Matti Verasani" ],
+   [ "Tondelli",                     "Eric Tondelli" ],
+   [ "Yury Solodkyy",                "Yuriy Solodkyy" ],
+   [ "Vicente Botet",                "Vicente J. Botet Escriba" ],
+   [ "Paul Bendixen",                "Paul M. Bendixen" ],
+   [ "Dr. Kenneth Holmqvist",        "Kenneth Holmqvist" ],
+   [ "Prof. Jurgen Mottok",          "Jurgen Mottok" ],
+   [ "",                             "" ],
    [ "",                             "" ],
    [ "",                             "" ],
    [ "",                             "" ],
@@ -1207,6 +1230,7 @@ def split_speakers_and_title( meeting, edition, s, splitter ):
       "CoreHard Spring 2018",
       "CoreHard Autumn 2019",
       "CoreHard Spring 2019",
+      "[MUC++]",
       "2013 ", # C++Now
       "2016", # also C++Now
    ]:
@@ -1239,7 +1263,7 @@ def split_speakers_and_title( meeting, edition, s, splitter ):
    speakers = speakers.replace( "&", "," )
    speakers = speakers.replace( " and ", "," )
    speakers = list( map( sanitize_speaker, speakers.split( "," )))
-   speakers_eliminate = [ "", "panel", "various", "unknown" ]
+   speakers_eliminate = [ "", "panel", "various", "unknown", "interview" ]
    speakers = list( filter( lambda x : not x in speakers_eliminate, speakers ))
    speakers = sorted( speakers )
    
@@ -1252,15 +1276,16 @@ def add_talk(
    talks, meeting, edition, youtube_id, nr, v, splitter, tags_string 
 ):
    s = sanitize_raw_title( v.title, meeting, edition )    
-   language = "english"               
+   language = "English"               
    level = 0
    tags = []
    
    if 1: print( "   add_talk", nr, s )
 
    for marker, marked_language in [
-      [ "[ITA]", "italian" ],
-      [ "[HEB]", "hebrew" ]
+      [ "[ITA]", "Italian" ],
+      [ "[HEB]", "Hebrew" ],
+      [ "[FRE]", "French" ]
    ]:
       if marker in s:
          s = s.replace( marker, "" )
@@ -1371,6 +1396,9 @@ excluded_talks = [
    "",
    "",
    "",
+   "",
+   "",
+   "",
 ]   
 
 def use_nr( nr, nr1, nr2 ):
@@ -1407,10 +1435,10 @@ def add_playlist( talks, meeting, edition, playlists, nr1, nr2 ):
 # ===========================================================================
 
 playlists = [
-   [ "BoostCon", [ # checked 
+   [ "BoostCon", [ 
       [ "2010", [[ "PL_AKIMJc4roVg67uMOpzEpsYTolMvhxho", split_st,  "l+"  ]]],
       [ "2011", [[ "PL_AKIMJc4roWHqe9Wt6AwYS6rpE2P0Rqh", split_st,  "l+"  ]]],
-   ]], [ "C++Now", [ # checked 
+   ]], [ "C++Now", [ 
       [ "2012", [[ "PL_AKIMJc4roWXECUOVFsSTn6zs-145shM", split_st,  "l+"  ]]],
       [ "2013", [[ "PL_AKIMJc4roWzZsLGGhWbCAgr8l_Hr978", split_st,  "l+"  ]]],
       [ "2014", [[ "PL_AKIMJc4roXG7rOmqsb_wDG1btCzhS8F", split_ts,  "l+"  ]]],
@@ -1420,7 +1448,7 @@ playlists = [
       [ "2018", [[ "PL_AKIMJc4roVSbTTfHReQTl1dc9ms0lWH", split_sqt, "l+"  ]]],
       [ "2019", [[ "PL_AKIMJc4roW3jQgghyouFoX15m84YYB0", split_sqt, "l+"  ]]],
       [ "2021", [[ "PL_AKIMJc4roXvFWuYzTL7Xe7j4qukOXPq", split_ts,  "o+"  ]]],
-   ]], [ "Meeting C++", [ # checked
+   ]], [ "Meeting C++", [ 
       [ "2014", [[ "PLRyNF2Y6sca0Luy-3XreR2l2aQ7Hf5ODl", split_ts,  "l+"  ]]],
       [ "2015", [[ "PLRyNF2Y6sca0UKKZ2PTSwF3WrDjABQdcL", split_ts,  "l+"  ]]],
       [ "2016", [[ "PLRyNF2Y6sca06lulacjysyu8RIwfKgYoY", split_ts,  "l+"  ]]],
@@ -1429,10 +1457,10 @@ playlists = [
       [ "2019", [[ "PLRyNF2Y6sca27wjBvjc5yg3F1QqZgazKb", split_ts,  "l+"  ],
                  [ "PLRyNF2Y6sca1nKqNGjafqpTke8RmvZIji", split_ts,  "l+"  ]]],
       [ "2020", [[ "PLRyNF2Y6sca0hXu0FG-5SP3lTI-g7srMW", split_st,  "o+"  ]]],
-   ]], [ "Meeting Embedded", [ # checked
+   ]], [ "Meeting Embedded", [ 
       [ "2018", [[ "PLRyNF2Y6sca0eWtRoUIOW_5wVcghtm9rI", split_ts,  "le"  ]]],
       [ "2020", [[ "PLRyNF2Y6sca3HLKGGixEdBhYHNf0Z0ZPe", split_st,  "oe"  ]]],     
-   ]], [ "CppCon", [ # checked
+   ]], [ "CppCon", [ 
       [ "2014", [[ "PLHTh1InhhwT7esTl1bRitiizeEnksGU7J", split_sqt, "l+"  ]]],
       [ "2015", [[ "PLHTh1InhhwT75gykhs7pqcR_uSiG601oh", split_sqt, "l+"  ]]],
       [ "2016", [[ "PLHTh1InhhwT7J5jl4vAhO1WvGHUUFgUQH", split_sqt, "l+"  ]]],
@@ -1440,7 +1468,7 @@ playlists = [
       [ "2018", [[ "PLHTh1InhhwT6V9RVdFRoCG_Pm5udDxG1c", split_sqt, "l+"  ]]],
       [ "2019", [[ "PLHTh1InhhwT6KhvViwRiTR7I5s09dLCSw", split_sqt, "l+"  ]]],
       [ "2020", [[ "PLHTh1InhhwT6VxYHtoWIvOup9gz0p95Qr", split_ts,  "o+"  ]]],
-   ]], [ "code::dive", [ # checked
+   ]], [ "code::dive", [ 
       [ "2014", [[ "PLK3T2dt6T1fcZswWn2HbWpRHprPHyJ4wZ", split_st,  "l"   ]]],
       [ "2015", [[ "PLK3T2dt6T1fc-Duvq7ZXz0ZQFcSgVKyl4", split_st,  "l"   ]]],
       [ "2016", [[ "PLK3T2dt6T1fe_K81rfIBdGPfbMlLqeHBT", split_st,  "l"   ]]],
@@ -1449,7 +1477,7 @@ playlists = [
       [ "2018", [[ "PLK3T2dt6T1fd6PILMU2lg7K6pWnUKl34S", split_ts,  "l"   ]]],
       [ "2019", [[ "PLK3T2dt6T1fd65u8sx01jRrp9aVquXIpN", split_ts,  "l"   ]]],
       [ "2020", [[ "PLK3T2dt6T1feBLbwORz3dBdCylfe0lBlR", split_ts,  "o"   ]]],
-   ]], [ "accu", [ # checked
+   ]], [ "accu", [ 
       [ "2016", [[ "PL9hrFapz4dsObkSjgBlyFl-aotNvk2GeP", split_ts,  "l"  ],
                  [ "PL9hrFapz4dsNx2fwGFwj8NtPzQr2SexTv", split_ts,  "l"  ],
                  [ "PL9hrFapz4dsM1B9bI8VmEE4JJlR0m-dvo", split_ts,  "l"  ],
@@ -1471,12 +1499,12 @@ playlists = [
                  [ "PL5XXu3X6L7jvWwbkUgMyGpA6VyqGrHbdv", split_ts,  "o"  ],
                  [ "PL5XXu3X6L7jvWwbkUgMyGpA6VyqGrHbdv", split_ts,  "o"  ],
                  [ "PL5XXu3X6L7juIhIykfhFmjyl4D5Tvjvdh", split_ts,  "o"  ]]],
-   ]], [ "C++ Day", [ # checked
+   ]], [ "C++ Day", [ 
       [ "2020", [[ "PLsCm1Hs016LX6l97Royt5DSYy7V05nZmS", split_par, "o+"  ]]],
    ]], [ "Italian C++ Conference", [ # checked
       [ "2020", [[ "PLsCm1Hs016LWIjOrEftUA42ZwxsF30vZB", split_par, "o+"  ]]],
       [ "2021", [[ "PLsCm1Hs016LV9BRKIqrNWEXfa5ggpiyki", split_par, "o+"  ]]],
-   ]], [ "C++ on sea", [ # checked
+   ]], [ "C++ on sea", [ 
       [ "2019", [[ "PL5XXu3X6L7jtk7-GIVq3-bkKDKDtoagj4", split_ts,  "l+"  ],
                  [ "PL5XXu3X6L7jvWwbkUgMyGpA6VyqGrHbdv", split_ts,  "l+"  ],
                  [ "PL5XXu3X6L7juIhIykfhFmjyl4D5Tvjvdh", split_ts,  "l+"  ]]],
@@ -1486,18 +1514,18 @@ playlists = [
                  [ "PL5XXu3X6L7jtcXY9Ilpv7WhDS6lEo1hBz", split_ts,  "o+"  ]]],
       [ "2021", [[ "PL5XXu3X6L7jsIaVI82HXU3p2yRz2kVDZf", split_ts,  "o+"  ],
                  [ "PL5XXu3X6L7jtLi9qqEAfVfcas5inGLbk9", split_ts,  "o+"  ]]],
-   ]], [ "Core C++", [ #  cheched
+   ]], [ "Core C++", [ 
       [ "2019", [[ "PLn4wYlDYx4bszUM8uUJi55czMYuilXfaR", split_cc,  "l+"  ]]],
       [ "2021", [[ "PLn4wYlDYx4bt5jDwyOleg6J4kTtAu2rU5", split_cc,  "l+"  ]]],
-   ]], [ "C++ Europe", [ # checked
+   ]], [ "C++ Europe", [ 
       [ "2018", [[ "PLKkbEnCSP7sfCuSYTm7gh0leP-HzN7O35", split_st,  "l+"  ]]],
       [ "2019", [[ "PLKkbEnCSP7sezU3eY8f7NrbJp5g4Kfurl", split_st,  "l+"  ]]],
       [ "2020", [[ "PLKkbEnCSP7sek-bn-Ae-b16aa7y_mc2EH", split_st,  "o+"  ]]],
-   ]], [ "C++IndiaCon", [ # checked
+   ]], [ "C++IndiaCon", [ 
       [ "2021", [[ "PLZ3iYBI9Conj6Vbm0KZhDAYOiXPVfSfip", split_by,  "o+"  ]]],
    ]], [ "CPPP", [ 
       # no playlist
-   ]], [ "Pacific C++", [ # checked
+   ]], [ "Pacific C++", [ 
       [ "2017", [[ "PLd4OrpVodmxUf6WsIJhb2KvYaq9RBuIr3", split_sqt, "l+"  ]]],
       [ "2018", [[ "PLd4OrpVodmxUCBpzlkPYsiP9hOtLFpAjk", split_sqt, "l+"  ]]],
    ]], [ "Live Embedded Event", [ # checked, but no speakers :(
@@ -1522,6 +1550,8 @@ playlists = [
                  [ "Vv3cz28Un3Y",                        split_tds, "l+"  ],
                  [ "hcgL8QBmh2I",                        split_tds, "l+"  ],
                  [ "4QO9FyH0KIY",                        split_tds, "l+"  ]]],
+   ]], [ "MUC++", [ 
+      [ "",      [[ "PLOqQEh8zIeoBH4gOJM9uZveUMW-uNmty8", split_st, "l+"  ]]],
    ]], [ "", [
    ]],      
 ]

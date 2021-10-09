@@ -14,10 +14,12 @@ var meetings = [
    "Live Embedded Event",
    "Meeting C++",
    "Meeting Embedded",
+   "MUC++",
    "Pacific C++"
 ]
 
 var editions = [
+   "",
    "2010",
    "2011",
    "2012",
@@ -33,9 +35,10 @@ var editions = [
 ]
 
 var languages = [
-   "english",
-   "hebrew",
-   "italian"
+   "English",
+   "French",
+   "Hebrew",
+   "Italian"
 ]
 
 var speakers = [
@@ -86,9 +89,11 @@ var speakers = [
    "Andras Kucsma",
    "Andre Bergner",
    "Andreas Fertig",
+   "Andreas Heindl",
    "Andreas Pasternak",
    "Andreas Rein",
    "Andreas Reischuck",
+   "Andreas Sommer",
    "Andreas Weis",
    "Andrei Alexandrescu",
    "Andrei Zlate-Podani",
@@ -97,6 +102,7 @@ var speakers = [
    "Andrew Paxie",
    "Andrew Sutton",
    "Andrew Twyman",
+   "Andrii Shyshkalov",
    "Andrii Sydorchuk",
    "Andrzej Krzemienski",
    "Andy Balaam",
@@ -153,6 +159,7 @@ var speakers = [
    "Ben Smith",
    "Benjamin Misell",
    "Benoit Le Calvez",
+   "Bernd Biechele",
    "Bernhard Merkle",
    "Bill Hoffman",
    "Billy Baker",
@@ -201,7 +208,7 @@ var speakers = [
    "Conor Hoekstra",
    "Dafna Mordechai",
    "Daisy Hollman",
-   "Damian Czernous Model",
+   "Damian Czernous",
    "Damian Dechev",
    "Damian Skrzypczak",
    "Dan Quinlan",
@@ -276,6 +283,7 @@ var speakers = [
    "Eoin Woods",
    "Eran Gilad",
    "Eric Niebler",
+   "Eric Tondelli",
    "Erik Smith",
    "Erik Valkering",
    "Erika Sweet",
@@ -292,11 +300,13 @@ var speakers = [
    "Filip Wojcik",
    "Filipp Gelman",
    "Florian Gilcher",
+   "Florian Hauser",
    "Florin Patan",
    "Frances Buontempo",
    "Franco Diaspro",
    "Frank Birbacher",
    "Frank Grimm",
+   "Frank Mertens",
    "Fred Tingaud",
    "Gabor Horvath",
    "Gabor Marton",
@@ -356,7 +366,6 @@ var speakers = [
    "Ilja Honkonen",
    "Ilya Burylov",
    "Inbal Levi",
-   "interview",
    "Iulia Stirb",
    "Ivan Cukic",
    "Ivica Bogosavljevic",
@@ -412,6 +421,7 @@ var speakers = [
    "John Farrier",
    "John Hinke",
    "John 'JT' Thomas",
+   "John Kalb",
    "John Lakos",
    "John McFarlane",
    "John Melas",
@@ -435,15 +445,18 @@ var speakers = [
    "Jose Daniel Garcia",
    "Joshua Berne",
    "Juan Manuel Martinez Caamano",
+   "Juan Pedro Bolivar",
    "Juan Pedro Bolivar Puente",
    "Juanpe Bolivar",
    "Julia Reid",
    "Julian Smith",
    "Julian Storer",
+   "Jurgen Mottok",
    "Jussi Pakkanen",
    "Justin Campbell",
    "Justin Gottschlich",
    "Justin Lebar",
+   "Kai Wolf",
    "Kamil Subzda",
    "Kamil Szatkowski",
    "Kamil Witecki",
@@ -454,6 +467,7 @@ var speakers = [
    "Kate Gregory",
    "Ken Smith",
    "Ken Sykes",
+   "Kenneth Holmqvist",
    "Kenny Kerr",
    "Keno Fischer",
    "Kevin Carpenter",
@@ -513,6 +527,7 @@ var speakers = [
    "Manu Sanchez",
    "Manuel Klimek",
    "Manuel Sanchez",
+   "Marc Anton Bohm von Thenen",
    "Marc Eaddy",
    "Marc Goodner",
    "Marc Gregoire",
@@ -554,12 +569,14 @@ var speakers = [
    "Matt Hargett",
    "Matt Kulukundis",
    "Matt P. Dziubinski",
+   "Matthaus Brandl",
    "Matthew Anderson",
    "Matthew Bentley",
    "Matthew Butler",
    "Matthew Dodkins",
    "Matthew Fleming",
    "Matthias Bilger",
+   "Matthias Dorfel",
    "Matthias Gehre",
    "Matthias Hesse",
    "Matthias Vallentin",
@@ -570,7 +587,9 @@ var speakers = [
    "Meir Komar",
    "Menelaos Karavelas",
    "Michael Caisse",
+   "Michael Dorner",
    "Michael Gopshtein",
+   "Michael Krasnyk",
    "Michael Park",
    "Michael Peeri",
    "Michael Price",
@@ -646,12 +665,12 @@ var speakers = [
    "Patrick Niedzielski",
    "Patrik Huber",
    "Patryk Malek",
-   "Paul Bendixen",
    "Paul E. McKenney",
    "Paul Fultz II",
    "Paul Grenyer",
    "Paul Khuong",
    "Paul Kirth",
+   "Paul M. Bendixen",
    "Paul McKenney",
    "Paul Targosz",
    "Paul Williams",
@@ -705,11 +724,13 @@ var speakers = [
    "Richard Thompson",
    "Rishi Wani",
    "Rob Stewart",
+   "Robert Haas",
    "Robert Irving",
    "Robert Leahy",
    "Robert Matusewicz",
    "Robert Ramey",
    "Robert Schumacher",
+   "Robert Seilbeck",
    "Robert Smallshire",
    "Robert Stewart",
    "Robin Kuzmin",
@@ -732,6 +753,7 @@ var speakers = [
    "Samy Al Bahra",
    "Samy Bahra",
    "Sandor Dargo",
+   "Sandro Andrade",
    "Sara Chipps",
    "Sarah Smith",
    "Saurabh Joshi",
@@ -765,6 +787,8 @@ var speakers = [
    "Staffan Tjernstrom",
    "Stanislaw J. Dobrowolski",
    "Stanley Lippman",
+   "Stefan Asbeck",
+   "Stefan Rohe",
    "Stefanus DuToit",
    "Stephan Dollberg",
    "Stephan Lavavej",
@@ -798,6 +822,7 @@ var speakers = [
    "Teresa Johnson",
    "Tereza Iofciu",
    "Thiago Macieira",
+   "Thomas Deniffel",
    "Thomas Guest",
    "Thomas Heller",
    "Thomas Sundberg",
@@ -809,6 +834,7 @@ var speakers = [
    "Timur Doumler",
    "Tina Ulbrich",
    "Titus Winters",
+   "Tobias Fuchs",
    "Tobias Hunger",
    "Tobias Loew",
    "Toby Allsopp",
@@ -819,7 +845,6 @@ var speakers = [
    "Tomasz Kapela",
    "Tomasz Melcer",
    "Tomasz Skowronski",
-   "Tondelli",
    "Tony Grue",
    "Tony Van Eerd",
    "Tony Wasserka",
@@ -832,10 +857,9 @@ var speakers = [
    "Valentin Ziegler",
    "Vassil Vassilev",
    "Venkat Subramaniam",
-   "Verasani",
-   "Vicente Botet",
    "Vicente J. Botet Escriba",
    "Victor Ciura",
+   "Victor Moreno",
    "Victor Zverovich",
    "Vigneshwer Dhinakaran",
    "Viktor Kirilov",
@@ -855,7 +879,6 @@ var speakers = [
    "William Kennedy",
    "Wouter van Oijen",
    "Wouter van Ooijen",
-   "Wouter Van Ooijen",
    "Xavier Bonaventura",
    "Yehezkel Bernat",
    "Yossi Moalem",
@@ -863,7 +886,6 @@ var speakers = [
    "Yuri Minaev",
    "Yuri Valentini",
    "Yuriy Solodkyy",
-   "Yury Solodkyy",
    "Zach Laine",
    "Zachary Laine",
    "Zaika Antoun",
@@ -876,2154 +898,2205 @@ var speakers = [
 ]
 
 var titles = [
-   "Time Travel Debugging...",
-   "Leaving The Dark Side - Developing a C++ Based Medical Device",
-   "Developing a Linux driver in Rust for ARM",
-   "Declarative thinking, declarative practice",
-   "Developing C++ @ Facebook scale",
-   "Practical Aspects of Microservice Architecture",
-   "Update on C++ Core Guidelines Lifetime Analysis",
-   "Surfacing Composition",
-   "Qt as a C++ Framework: History, Present State and Future",
-   "The Intellectual Ascent to Agda",
-   "Augmented Reality - The State of Play",
-   "constrain yourself",
-   "An alternative design for C++20 customization points",
-   "Sphinx won't bite you! Documenting Python code",
-   "Less Code = More Software",
-   "Better Code",
-   "When C++ wants to meet Java",
-   "C++ atomics, from basic to advanced.  What do they really do?",
-   "IoC++ - A IoC framework for C++",
-   "The Current State of (free) Static Analysis",
-   "Back to Basics: The Abstract Machine",
-   "Building Modules",
-   "The Hitchhiker's Guide to Faster Builds - Part 1 of 2",
-   "7 reasons to move your C++ code to Visual Studio 2017",
-   "Best practices when accessing Big Data or any other data!",
-   "Not Leaving Performance On The Jump Table",
-   "'Mostly Invalid': flat_map, Exception Guarantees, and the STL",
-   "Requirement: Creativity",
-   "You can run but you can't hide from it: Edge cloud is here, now!",
-   "Call: A Library that Will Change the Way You Think about Function Invocations (1 of 2)",
-   "Easy High Constancy",
-   "Rebuilding Boost Date-Time for C++11",
-   "The Nightmare of Move Semantics for Trivial Classes",
-   "How to do practical Data Science? From real-world examples (...)",
-   "Safe and Sane C++ Types",
-   "Tales of C, the 6502 and the BBC (with added python)",
-   "ASoC: Audio on an embedded board",
-   "Back to the future",
-   "How eSIM can help industrialisation",
-   "Practical C++11: What I Learned Adding C++11 Support to ODB",
-   "Writing Standard Library Compliant Data Structures and Algorithms",
-   "Parallel Programming using Charm++",
-   "An Approach to Dealing with Reference Types in the Generic Programming Paradigm",
-   "Exceptional C++",
-   "Assume Worst Intent (Designing for the Abusive Ex)",
-   "Best Practices for Concurrency",
-   "The fantastic four coding patterns of Continuous Delivery",
-   "Better CTAD for C++20",
-   "A New Open Source Virtual File System - running on Windows in User mode!",
-   "Making Allocators Work, Part II",
-   "Generic programming of Generic Spaces: Compile-Time Geometric Algebra with C++11",
-   "C++ Today: The beast is back",
-   "C++20 - My Favourite Code Examples",
-   "Modern techniques for keeping your code DRY",
-   "Design Patterns in Modern C++",
-   "WebAssembly for non-beginners",
-   "The Jai Programming Language and What Can We Learn From It",
-   "Efficient data aggregation with Fenwick trees",
-   "string_view",
-   "The Fiber Library",
-   "std variant and the power of pattern matching",
-   "Fewer bugs",
-   "Using tasks to simplify concurrency in modern C++",
-   "The Hitchhiker's Guide to Faster Builds",
-   "Equivalence in cross-compilation compiler warnings",
-   "Using Modern CMake Patterns to Enforce a Good Modular Design",
-   "Abseil's Open Source Hashtables: 2 Years In",
-   "The Unexceptional Exceptions",
-   "Functional Programming for the Web with Elm",
-   "Extending and Wrapping C and C++ with Python",
-   "Modern Linux C++ debugging tools - under the covers",
-   "Seeing the bigger picture -- part I",
-   "Helping Developers to Help Each Other",
-   "Plain Threads are the GOTO of todays computing",
-   "STL Algorithms - why you should use them, and how to write your own",
-   "A Little Order: Delving into the STL sorting algorithms",
-   "Quickly testing legacy code",
-   "C++11 Library Design",
-   "The Continuing Saga of the Lock-free Queue: Part 3 of N",
-   "Postmodern C++",
-   "Initialization in modern C++",
-   "Meta Polymorphism",
-   "C++ Cryptozoology - A Compendium of Cryptic Characters",
-   "How I learned to Stop Worrying and Love the C++ Type System",
-   "10 years of Poco C++ Libraries",
-   "Using Deep Learning to hunt Optical Counterparts to (...)",
-   "Learning and teaching modern C++",
-   "and , the View From Inside",
-   "Toward Native XML Processing Using Multi-paradigm Design in C++",
-   "List",
-   "High Performance C++ Concurrent Transactional Data Structures",
-   "Black-box performance analysis",
-   "Sweating the Small Stuff: Brace Initialization, Unions and Enums",
-   "Better Code: Relationships",
-   "Algorithms from a Compiler Developer's Toolbox",
-   "Debugging with LLVM XRay",
-   "Programming in a different domain",
-   "Secure Coding Best Practices",
-   "Correct by Construction: APIs That Are Easy to Use and Hard to Misuse",
-   "What's New in Visual C++ 2015 and Future Directions",
-   "Using Spirit V2: Qi and Karma",
-   "UI prototyping and development for multiple devices in C++",
-   "This is why we can('t) have nice things",
-   "Parallelizing the Standard Algorithms Library",
-   "Hello World From Scratch",
-   "Exceptional Performance",
-   "C++20 Coroutines: Introduction",
-   "yomm2: Fast, Orthogonal, Open Methods in a Library",
-   "What Has My Compiler Done for Me Lately? Unbolting the Compiler's Lid",
-   "Bootstrapped by Boost",
-   "Clean(er) Code for Large Scale Legacy Applications",
-   "Datum: A Compact Bitwise Copyable Variant Type",
-   "Practical Memory Pool Based Allocators For Modern C++",
-   "Defensive Programming Done Right, Part II",
-   "C++ Metaprogramming: A Paradigm Shift",
-   "What C++ is and what it will become",
-   "Why and How to Roll Your Own std::function Implementation",
-   "Unicode in C++",
-   "SOLID, Revisited",
-   "Writing Good C++14... By Default",
-   "Thinking outside of the framework",
-   "WebThings : Your IoT with privacy by design",
-   "Oh No! More Modern CMake",
-   "Algorithm Intuition (part 2 of 2)",
-   "Generic Programming with Concepts Lite, Part I",
-   "A generic binary tree: why grow your own?",
-   "Diagnose your Golang App anytime anywhere!",
-   "Better C++14 reflections",
-   "Functional programming in C++",
-   "CPU design effects",
-   "A Physical Units Library For the Next C++",
-   "Diversity & Inclusivity in Tech",
-   "The ABI challenge",
-   "How does Git actually work?",
-   "C++20 in Breadth",
-   "C++ Mixins: Customization Through Compile Time Composition",
-   "What is the basic interface? (part 2 of 2)",
-   "Functional Data Structures in C++",
-   "array_ref: Multidimensional Array References for the C++ Standard Library",
-   "Building microservices with Rust",
-   "Haskell Design Patterns for Genericity & Asynchronous Behavior",
-   "A Letter to My Descendents",
-   "Grill the C++ Committee with Jon Kalb",
-   "hardware aided computing",
-   "Logic Paradigm for C++",
-   "Preconditions, Postconditions, Invariants: How They Help Write Robust Programs",
-   "Range Algorithms, Views and Actions: A Comprehensive Guide",
-   "Fantastic Algorithms and Where To Find Them",
-   "Spirit.Qi in the Real World",
-   "Rainbow Six Siege: Quest for Performance",
-   "C++20: C++ at 40",
-   "The Best Parts of C++",
-   "Generic Programming And the Boost Graph Library",
-   "What is the basic interface? (part 1 of 2)",
-   "Boostache Exposed : the internals of Boost's template engine",
-   "Unwinding the Stack: Exploring How C++ Exceptions Work on Windows",
-   "Founding C++ User Groups",
-   "FPGA and open hardware",
-   "The taming of the Software: C++, embedded... and more",
-   "Using Freestanding C++ for C++17 in Shellcode, UEFI, Embedded & Unikernels",
-   "C++ Standard Library",
-   "Keep your code sane with clang-tidy",
-   "A look at C++ through the glasses of a language tool",
-   "Asynchronous Programming Using the Boost.MetaStateMachine and the Upcoming Asynchrnonous Library",
-   "Dealing with aliasing using contracts",
-   "The Badlands of C++: Professional Game Development",
-   "There and Back Again: An Incremental C++ Modules Design",
-   "Spectre",
-   "C++ vs C the embedded perspective",
-   "Closing the Gap between Rust and C++ Using Principles of Static Analysis",
-   "CPU optimized data structures - more fun with assembler",
-   "Modern C++ testing with Catch2",
-   "Introduction to Qt 3D",
-   "MicroEJ, un environnement virtualise pour l'embarque",
-   "Modern Template Metaprogramming: A Compendium, Part I",
-   "New standards to the rescue: the view through an IDE's glasses",
-   "High Performance Code 201: Hybrid Data Structures",
-   "Techniques for Overloading any_invocable",
-   "Colonies, performance and why you should care",
-   "ODB, Advanced Weapons and Tactics",
-   "Automatic Hybrid MPI+OpenMP Code Generation",
-   "Debugging using an exact recording of a program's execution",
-   "Move-only types can save the API",
-   "Introducing CHAP: A program to clarify dynamic memory usage in un-instrumented cores",
-   "Software Engineer in the Machine Learning world",
-   "When you hit 'Error: memory is not aligned.'",
-   "C++ ecosystem: the renaissance edition",
-   "std::shared_ptr/T/",
-   "Fuzz or lose...",
-   "A Tour of Deep Learning With C++",
-   "Backporting to the Future",
-   "Automatic Task-based Code Generation for High Performance DSEL",
-   "Removing Metaprogramming From C++, Part 1 of N: constexpr Function Params",
-   "Easy Binary Compatible C++ Interfaces Across Compilers",
-   "A variant of recursive decent parsing",
-   "Nim - First natively compiled language w/ hot code-reloading at runtime",
-   "STL Algorithms - How to Use Them and How to Write Your Own",
-   "Local ('Arena') Memory Allocators",
-   "Pragmatic Type Erasure: Solving OOP Problems w/ Elegant Design Pattern",
-   "C++ in the Audio Industry",
-   "the asynchronous library",
-   "Assertions of Competence",
-   "The Shapes of Multi-Dimensional Arrays",
-   "Exploration of C++20 Meta Programming",
-   "A Semi Compile/Run-time Map with (Nearly) Zero Overhead Lookup",
-   "The Dawn of a New Error",
-   "Rich Code for Tiny Computers: A Simple Commodore 64 Game in C++17",
-   "#Hashing ( Hashing Values )",
-   "C++ Concepts for ill-posed Inverse-Problems - David Frank",
-   "The Nightmare of Initialization in C++",
-   "Algorithm Design For Values Distributed In Time",
-   "The Speed Game: Automated Trading Systems in C++",
-   "The Julia Language and C++: The Perfect Marriage?",
-   "What Do We Mean When We Say Nothing At All?",
-   "STL Algorithms as Expressions",
-   "Practical Patterns with the Networking TS",
-   "Source Instrumentation for Monitoring C++ in Production",
-   "Named Arguments from Scratch",
-   "Upgrade from 'permissive C++' to 'modern C++' with Visual Studio",
-   "aa-scan3 - an AppArmor profiles generator",
-   "FourCCs Done Right",
-   "How to write more reliable code",
-   "Latest & Greatest in Visual Studio for C++ developers",
-   "Captioning and Translating C++ Videos- Part 2 of 2",
-   "Architecture is (not) everything",
-   "Compile-time programming and reflection in C++20 and beyond",
-   "C++17 in Breadth (part 1 of 2)",
-   "CMake: One Tool To Build Them All",
-   "Generic Binding",
-   "Live Lock-Free or Deadlock (Practical Lock-free Programming) (PART 2)",
-   "Template meta-programming: Why you must get it",
-   "Obfuscation and beyond: securing your binary",
-   "Coroutines - the future of future (and more)",
-   "GSL ad hoc overview",
-   "Heterogeneous Programming in C++ with SYCL 2020",
-   "interview with Jose Daniel Garcia",
-   "Expression Templates: Past, Present, Future (PART 2)",
-   "Convergent Evolution",
-   "Live Compiler Development with Cross-Platform Tooling",
-   "C++ metaprogramming: a paradigm shift",
-   "Heterogeneous Programming in C++ today",
-   "Using Spirit X3 to Write Parsers",
-   "Virtual assistants - our journey from extensive (...)",
-   "Compile-time tools supporting generic programming in C++",
-   "C++ Insights: How stuff works, Lambdas and more!",
-   "New Build System for New C++",
-   "A Few Gentle Rules (*) but One in Particular",
-   "Creating intuitive APIs",
-   "How C++ Debuggers work",
-   "clang-useful: Building useful tools with LLVM and clang for fun and profit",
-   "Futures Without Type Erasure",
-   "Reflections: Compile-time Introspection of Source Code",
-   "Designing and Implementing a new Allocator model",
-   "What Everyone Should Know About How Amazing Compilers Are",
-   "Practical TMP: A C++17 Compile Time Register Machine",
-   "Taming the performance Beast",
-   "Thin LTO",
-   "C++ Dependency Management: from Package Consumption to Project Development",
-   "Grill The Committee",
-   "CopperSpice: The Next Generation of Signals",
-   "the 6th event",
-   "Fun with structured bindings - Tim van Deurzen",
-   "How I Code and Why",
-   "Class Template Argument Deduction: A New Abstraction",
-   "Implementation of a multithreaded compile-time ECS in C++14",
-   "Building Software Capital: How to write the highest quality code and why",
-   "The CPU Cache: Instruction Re-Ordering Made Obvious",
-   "Rethinking the Way We Do Templates in C++ even more",
-   "Boost.Asio and Boost.Serialization, Part II",
-   "HTTP 2 - The feature of www",
-   "Back to Basics: Test-driven Development",
-   "C++, QML and static reflection",
-   "Value Semantics and Range Algorithms - Composability and Efficiency",
-   "Boost.Geometry takes on the globe",
-   "interview with Alex Bolboaca",
-   "Boost Units Library for Correct Code",
-   "Instantiations Must Go!",
-   "Software Engineering Is About Tradeoffs",
-   "AI in Healthcare",
-   "interview with Augustin Popa & Elizabeth Morrow",
-   "Modern special function register abstraction",
-   "Design Patterns for Hardware Packet Processing on FPGAs",
-   "The Rule of Seven (Plus or Minus Two): Modern C++ Boilerplate",
-   "Lessons Learned Developing the C++11 Standard Library",
-   "C++ Past vs. Future",
-   "Concurrency and Parallelism in C++17 and C++20/23",
-   "Monotron - a 1980s style home computer written in Rust",
-   "The Plan for Tomorrow: Extension Points in C++ Applications",
-   "The C++17 Parallel Algorithms Library and Beyond",
-   "boost.tmp: Your DSL for Metaprogramming - Part 2 of 2",
-   "Goodbye metaprogramming, and hello functional",
-   "Effective CMake",
-   "FPGA for software developers",
-   "C++ Modules: The State of The Union",
-   "Weak Interfaces -> Weak Defences: The Bane of Implicit Conversion in Function Calls",
-   "Keeping Your CI-CD Pipeline as Fast as it Needs to Be",
-   "How to pass (my) candidate screening",
-   "Story of autonomous drone racing",
-   "C++ based mobile application",
-   "Linear programming made easy with Boost Proto",
-   "SG14 (the GameDev & low latency ISO C++ working group)",
-   "When Should You Give Two Things the Same Name?",
-   "C++17 Features",
-   "The Continuing Future of C++ Concurrency",
-   "Is C++ really a highperformance language?",
-   "Safe Numerics",
-   "Back to Basics: Const as a Promise",
-   "Algorithm Intuition",
-   "Making Sense Of Microservices",
-   "Go Get Better (Go Programming Language)",
-   "Generators, Coroutines and Other Brain Unrolling Sweetness",
-   "Mastering the Cell Broadband Engine via a Boost-based library",
-   "Fun with Type Erasure: Implementing a Value Wrapper for Polymorphic Types",
-   "A Retrospective from My Perspective",
-   "Compile Time Regular Expressions with A Deterministic Finite Automaton",
-   "Tools to Ease Cross-Platform C++ Development @ CppEurope 2020",
-   "Beyond Sanitizers...",
-   "There is a new future",
-   "Open Source at Balena",
-   "How to make your data structures wait-free for reads",
-   "From embedded Linux boat sensors to the cloud, a data journey",
-   "Better Tools in Your Clang Toolbox",
-   "Secure Coding Best Practices: Your First Line Is The Last Line Of Defense (2 of 2)",
-   "GPU programming with modern C++",
-   "Boostache",
-   "interview with Klaus Iglberger",
-   "Random numbers are hard - Andreas Weis",
-   "Don't Try This at Work -- Low Level Threading with C++11",
-   "Metaprogramming Applied to Numerical Problems",
-   "Return Value Optimization: Harder Than It Looks",
-   "Alchemical Code Rejuvenation",
-   "The Ethics of Software - some practical considerations",
-   "Networking TS Workshop (part 1 of 2)",
-   "Developing Blockchain Software",
-   "Meta Monads",
-   "Behaviour-Driven Development, BDD, with Cucumber",
-   "TMI on UDLs: Mechanics, Uses, and Abuses of User-Defined Literals",
-   "Consistent Comparison in C++20",
-   "Generalized Full Duplex Messaging",
-   "Standardese",
-   "Parsing C++ with GCC plugins",
-   "Instruction Re-ordering Everywhere: The C++ 'As-If' Rule and the Role of Sequence",
-   "Stdfwd - Forward Declarations for C++ Standard Library",
-   "C++ ecosystem: For better, for worse",
-   "Enough string_view to Hang Ourselves",
-   "Introducing the Ranges TS",
-   "The evolving search for modern APIs in Boost",
-   "STL Features And Implementation Techniques",
-   "Towards Heterogeneous Programming in C++",
-   "Surprises in Object Lifetime",
-   "Common Webapp Vulnerabilities and What to Do About Them",
-   "Binary compatibility for library developers",
-   "C++20 Coroutines: Asynchronity reimagined",
-   "Clang Automated Refactoring for everyone with clangmetatool",
-   "Debugging Linux C++",
-   "Combining Modern C++ and Lua",
-   "Expression Templates: Past, Present, Future (PART 3)",
-   "Friendship in Service of Testing",
-   "who the f**k is eric? by odin and the nerds",
-   "Lambda Functions",
-   "C++17 - The Best Features",
-   "Simplicity: Not Just For Beginners",
-   "An Interesting Lock-free Queue - Part 2 of N",
-   "Linux User/Kernel ABI: the realities of how C and C++ programs really talk to the OS",
-   "Everyday Efficiency: In-Place Construction (Back to Basics?)",
-   "What C++ Programmers Need to Know about Header <random>",
-   "The Three Little Dots and the Big Bad Lambdas",
-   "Intro &  LEE 2020",
-   "Asynchronous C++ Programming",
-   "An Introduction to the Proposed Coroutine Support for C++",
-   "Come Stream with Me",
-   "Inference in C++: The big picture",
-   "Bringing the power of C++ to the web",
-   "Writing Fast Code I",
-   "Yomm11: Open Multi-Methods for C++11",
-   "Type punning done right",
-   "Interoperable AI: ONNX & ONNXRuntime in C++",
-   "Identifying Monoids: Exploiting Compositional Structure in Code",
-   "Status quo: clang-tidy & AddressSanitizer on Windows",
-   "The life changing magic of tidying up - Tina Ulbrich",
-   "Don't do what I did",
-   "Making C++ Code Beautiful",
-   "The Holy Grail!? A Persistent Hash-Array-Mapped Trie for C++",
-   "Introduction to C++ Coroutines",
-   "Fighting Git Workflows",
-   "How we reason about procedural programs",
-   "Audio in standard C++' -",
-   "C++ Conferences",
-   "The Hitchhiker's Guide to Faster Builds - Part 2 of 2",
-   "The case for Vendored Builds",
-   "Type punning in modern C++",
-   "A Unifying Abstraction for Async in C++",
-   "View - Whatever MVW",
-   "Functional Reactive Programming - Cleanly Abstracted Interactivity",
-   "Viewing The World Through Array-Shaped Glasses",
-   "Taking Template Classes Further with Opaque Types & Generic NTTPs",
-   "Lessons Learned From An Embedded RTPS in Modern C++",
-   "Low-Latency Trading: Micro-Optimisations and the Impact of Compliers",
-   "Low Level Threading with C++11",
-   "The Dawn Of A New Error",
-   "Introducing Microsoft's New Open Source Fuzzing Platform",
-   "Anchored metadata",
-   "Sane and Safe C++ Class Types",
-   "What a View! Building Your Own (Lazy) Range Adaptors (part 1 of 2)",
-   "Making C++ easier, faster, safer (part 2)",
-   "Pattern Matching: A Sneak Peek",
-   "This Videogame Programmer Used the STL and You Will Never Guess What Happened Next",
-   "Error Handling is Cancelling Operations",
-   "A linear algebra library for C++23",
-   "These 10 tricks that only library implementors know!",
-   "Making New Friends",
-   "How C++20 changes the way we write code",
-   "C/C++ Memory Model",
-   "Generic Conversion & Segmentation for Ranges: A Solution for Unicode",
-   "odeint -- Solving ordinary differential equations in C++",
-   "Template Normal Programming (part 2 of 2)",
-   "A Relaxed Guide to memory_order_relaxed",
-   "C++ Concepts 'Lite' in Practice",
-   "Why and How To Add Scripting",
-   "Compiling Multi-Million Line C++ Code Bases Effortlessly with the Meson Build System",
-   "Ranges for distributed and asynchronous systems",
-   "A Taste of Julia",
-   "Building a Tech Community in the East from (almost) Nothing",
-   "Boost.Geometry: an introduction to geographic computation",
-   "C++ Performance in Practice: Align, Vectorise, Cache, Jump!",
-   "Concepts and Contracts: When, What, and How",
-   "What You see",
-   "Clean code in Go",
-   "QtCreator",
-   "How Kotlin makes your Java code better",
-   "Optimizing Embedded Hard Real-Time Code in C++",
-   "Speeding up code with C++17 Polymorphic Memory Resources",
-   "Deconstructing the OS: The devil's In the side effects",
-   "Concepts, Type Traits and Specialization",
-   "My Little *this Deduction: Friendship is ... Uniform?",
-   "Hello World from Scratch",
-   "C++ Atomics...",
-   "JavaScript can get faster, WebAssembly can get even faster",
-   "PMRs for performance in C++17/20",
-   "Higher-order functions and 'function_ref",
-   "An Allocator is a Handle to a Heap",
-   "The C++20 Firehose Talk",
-   "Bridging Languages Cross-Platform...",
-   "C++17 coroutines for app and library developers",
-   "The Blaze High Performance Math Library",
-   "Constant Fun",
-   "Rust: Hack Without Fear!",
-   "A Critical Look at the Coding Standards Landscape",
-   "A Browse Through ES",
-   "Thoughts on a more powerful and simpler C++ (5 of N)",
-   "Git, CMake, Conan - How to ship and reuse our C++ projects",
-   "C++ Development with Visual Studio Code",
-   "Become a GDB Power User",
-   "StringViews, StringViews everywhere!",
-   "Boost.Generic: Concepts without Concepts",
-   "Taskflow: A Heterogeneous Task Graph Programming System with Control Flow",
-   "Cross-Platform Apps with Dropbox's Djinni...",
-   "Boost.Units",
-   "Finally Executors for C++",
-   "Introducing RTEMS, a serious real-time OS",
-   "Mastering Git's index",
-   "Deeply Embedded C++",
-   "Design for Cost VS Cost of Design",
-   "Fast Conversion From UTF-8 with C++, DFAs, and SSE Intrinsics",
-   "The Hidden Secrets of Move Semantics",
-   "Range-Based Text Formatting For a Future Range-Based Standard Library",
-   "GDB - A Lot More Than You Knew",
-   "20 years of extending C++: What can we learn?",
-   "Time Travel: Applying Gradual Typing to Time Types with Clang's LibTooling",
-   "What do you mean by 'cache friendly'?",
-   "Grill the Committee",
-   "What's new about fake news?",
-   "C++ Programming for the Heap-Deprived",
-   "Data-oriented design in practice",
-   "noexcept considered harmful ???",
-   "Why don't the cool kids like OOP? - Jon Kalb",
-   "The Implementation of Value Types",
-   "Concepts driven design",
-   "Software Transaction Memory, For Reals",
-   "Expression Templates for Efficient, Generic Finance Code",
-   "Freestanding C++ - Past, Present, and Future",
-   "Building a C++ Reflection System",
-   "What happened to...: Deprecated and Removed Features of C++",
-   "Understanding Boost.Build",
-   "Almost Unlimited Modern C++ in Kernel-Mode Applications",
-   "Why in heaven is there no dependency management for C++?",
-   "Building Modern Native Applications with Gradle",
-   "Multithreading is the answer. What was the question? Part II",
-   "Docker Based C++ Dependency and Build Management",
-   "Homogenous Variadic Functions -  A Lightning-Library Approach in ~11.54 sec/LOC",
-   "Volatile none of the things",
-   "Considerations for choosing the parallel computing",
-   "Microsoft w/ C++ to Deliver Office Across Different Platforms, Part I",
-   "Free your functions!",
-   "Why I should run my applications in containers (or, at least, consider doing it)?",
-   "Cyclomatic Complexity pmccabe as a Refactor Aid",
-   "Effective Qt",
-   "Back to Basics: Exceptions",
-   "The MLIR Framework: A Brief Introduction to Deep Learning Compilers",
-   "How I Learned to Stop Worrying About Generics and Love Go",
-   "Linear Algebra for the Standard C++ Library",
-   "C++17 key features",
-   "static_if in C++14",
-   "No raw loops with no OS",
-   "Lock-free by Example: Towards an Interesting Lock-free MPMC Queue",
-   "Another fundamental shift in Parallelism Paradigm?",
-   "API & ABI Versioning...",
-   "Finding hard to find bugs with Address Sanitizer",
-   "SICP Cover Demystified",
-   "Things not to do in Python",
-   "Building finite-element matrix expressions with Boost Proto and the Eigen library",
-   "My Least Favorite Anti-Pattern",
-   "Multithreading is the answer. What was the question? Part I",
-   "Plenary: Neighborhoods Banding Together: Reasoning Globally about Programs",
-   "Boostache Exposed - the internals of Boost's template engine",
-   "Tuning C++: Benchmarks, and CPUs, and Compilers! Oh My!",
-   "Reflection in C++ Next",
-   "The Networking TS in Practice: Patterns for Real World Problems",
-   "Understanding value categories in C++",
-   "Expression Templates - Past, Present, Future (PART 1)",
-   "A First Look at Proto-0x",
-   "Burnout",
-   "Writing cache friendly C++",
-   "Spectre: Secrets, Side-Channels, Sandboxes, and Security",
-   "Raising the abstraction level",
-   "Boost.Compute: A library for GPU/parallel computing",
-   "Missing Optimizations on Node-based Containers",
-   "How Ubisoft Develops Games for Multicore - Before and After C++11",
-   "Recreational C++",
-   "Dependency management in C++",
-   "What Do You Mean?",
-   "TDD is not about testing - C++ version",
-   "3D Face Tracking and Reconstruction using Modern C++",
-   "Grill the C++ committee -  Discussion",
-   "Developing C++ @ Facebook Scale",
-   "Getting Jiggy with Proto - Hands-on Tutorial on C++ EDSL Design",
-   "Back to Basics: Templates (part 1 of 2)",
-   "Comunicazione real-time con WebRTC in C++",
-   "Compile Time Regular Expressions",
-   "Hate yourself? Keep using Python 2",
-   "Form an Israeli C++ National Body",
-   "Reflection Techniques in C++",
-   "Template Metaprogramming: Type Traits (part 2 of 2)",
-   "Lambda? You Keep Using that Letter",
-   "C++ Dependency Management the Meson Way",
-   "The C++20 Standard Library: Beyond Ranges",
-   "Exploring C++17 and beyond",
-   "Memory Tagging and how it improves C/C++ memory safety",
-   "Delivering software that is secure & usable - who's job is it?",
-   "Time Programming Fundamentals",
-   "The Future of C++ Parallel and Concurrency Safety Guidelines",
-   "Initialisation in modern C++",
-   "Next generation unit testing using static reflection",
-   "The Set of Natural Code",
-   "STL Algorithms in Action",
-   "Type Based Template Metaprogramming is Not Dead",
-   "Why C++ for Large Scale Systems?",
-   "Runtime Polymorphism: Back to the Basics",
-   "Improving Sense of Smell Low-Level Debugging",
-   "Two new C++ libraries for atmospheric research",
-   "The C++ Type System Is Your Friend",
-   "Comfort Zone",
-   "A Practical Approach to Error Handling",
-   "Read, Copy, Update, then what? RCU for non-kernel programmers",
-   "Back to Basics: Virtual Dispatch and its Alternatives",
-   "Lambdas from First Principles: A Whirlwind Tour of C++",
-   "Back to Basics: Pointers and Memory",
-   "Without Warning: Keeping the Noise Down in Legacy Code Builds",
-   "Parallel Computing Visualization",
-   "Making Allocators Work, Part I",
-   "Implementing a Modern C++ MQTT Client for Embedded Devices",
-   "Effective Qt ( edition)",
-   "Our first game using UE4 and C++",
-   "Developing embedded IOT device code using micropython: is this reasonable choice?",
-   "Breadcrumbs won't help: how not to get lost in a lambda forest",
-   "The MAME story: From C to Modern C++",
-   "C++: How I learned to stop worrying and love metaprogramming",
-   "constexpr: Introduction",
-   "If You're Happy and You Know It (Inside the Mind of a Developer)",
-   "Learning and Teaching Modern C++",
-   "CopperSpice: A Pure C++ GUI Library",
-   "Haskell taketh away: limiting side effects for parallel programming",
-   "Value Proposition: Allocator-Aware (AA) Software",
-   "Cpu Caches and Why You Care",
-   "C++ and Memory: Between Correctness and Performance",
-   "Exception-Safe Code, Part I",
-   "From Functions to Coroutines",
-   "Introduction to brigand",
-   "Using Functional Programming Patterns...",
-   "5G programmable world",
-   "An Overview of C++11/14, Part II",
-   "Ownership model in C++ and beyond",
-   "What is an ABI and Why is Breaking it a Problem?",
-   "Classes With Many Fields",
-   "0xBADC0DE",
-   "Lambdas - uses and abuses",
-   "Adventures in SIMD-Thinking",
-   "C++ Mixins",
-   "Keep it Small",
-   "Parallelism on Ranges: Should We?",
-   "Modern generic programming using the Tick and Fit libraries",
-   "C++ as a 'Live at Head' Language",
-   "await 2.0: Stackless Resumable Functions",
-   "Advanced Unit Testing in C & C++",
-   "Basic Web Applications Security",
-   "Reasoning with function signatures",
-   "Distributed Mutual Exclusion using Proposed Boost.AFIO",
-   "Microsoft w/ C++ to Deliver Office Across Different Platforms, Part II",
-   "Funqual: user-defined statically-checked call graph constraints in C++",
-   "Building Better Worlds: Developing a Procedural City Tool for Alien...",
-   "Operator Overloading: History, Principles and Practice",
-   "C++ Metaprogramming: evolution and future direction",
-   "Anatomy of a Smart Pointer",
-   "Octopus: A Policy-Driven Framework for CFD Simulations",
-   "What Neighborhoods Owe Each Other: Rights, Duties, Immunities & Disabilities of Functions & Objects",
-   "Extrema:  Correctly Calculating min and max",
-   "Designing A Feature That Doesn't Fit",
-   "Awaiting for the ranges: C++17",
-   "Retiring the Singleton Pattern",
-   "Rcpp: Seamless R and C++ Integration",
-   "So, you inherited a large code base...",
-   "DNS at 30",
-   "Considerations for choosing the parallel computing strategy",
-   "Range-based text formatting",
-   "Modern C++ in Embedded Systems",
-   "Can software developers draw pictures?",
-   "Writing better embedded Software",
-   "interview with speakers",
-   "How to mock in the 21st century",
-   "How C++20 Changes the Way We Write Code",
-   "A modern database interface for C++",
-   "An allocator model for std2",
-   "Big Projects, and CMake, and Git, Oh My!",
-   "Parallel Design Patterns and Stream Parallelism",
-   "Option(al) is not a failure",
-   "My Thoughts on Large Code Base Change Ripple Management in C++",
-   "C++17 : The Biggest Traps",
-   "A Crash Course in Open Source Licensing",
-   "Benchmarking in C++",
-   "C++ Coroutines - a negative overhead abstraction",
-   "std::allocator...",
-   "Inside a static analyzer: type system",
-   "Mocking Framworks considered, harmful?!",
-   "SECURYZR LIGHT   The solution to fit with the design-for-security methodology",
-   "Back to Basics: Concurrency",
-   "Dashboards to the Rescue",
-   "Concurrency in Rust",
-   "Better Code: Concurrency",
-   "Plenary: The Beauty and Power of 'Primitive' C++",
-   "Can AI replace programmers?",
-   "Boost.Graph for Beginners",
-   "ConceptClang: An Implementation Model for C++ Concepts",
-   "The Performance Price of Dynamic Memory in C++",
-   "Reflection",
-   "Non-conforming C++: the Secrets the Committee Is Hiding From You",
-   "Back to Basics: The Structure of a Program",
-   "Large-Scale C++: Advanced Levelization Techniques, Part II",
-   "Asynchronous IO Using Boost.Asio",
-   "Preparing the C++11 Library AFIO for Boost Peer Review",
-   "Modules are Coming",
-   "The View from a Standard Library Implementor",
-   "A Test a Day Keeps Your Manager Away!",
-   "Going Multiplatform with Kotlin",
-   "Modules in C++",
-   "Adventures In Updating A Legacy Codebase",
-   "A Framework for RAD Spirit",
-   "Embedded Android in real life",
-   "Using Boost.Coroutine to untangle a state machine",
-   "C++20: An (Almost) Complete Overview",
-   "A Simple GUI Programming Setup for Beginners",
-   "A Zephyr Overview of C++11 (Part I)",
-   "Undefined Behavior is Not an Error",
-   "JavaScript from C++ developer perspective",
-   "Asynchronous IO with Boost.Asio",
-   "Template Normal Programming (part 1 of 2)",
-   "The Seniority Trap",
-   "Converting to C++20 Modules",
-   "Nothing is better than copy or move",
-   "Now What? A vignette in three parts",
-   "Rethinking the Way We Do Templates in C++",
-   "Improving Readability With Class Template Argument Deduction",
-   "Building efficient I/O intensive applications with Seastar",
-   "High-Radix Concurrent C++",
-   "Using Concepts: C++ Design in a Concept World (part 2 of 2)",
-   "Rethinking Exceptions",
-   "map[Code, Performance] myMCU{?}",
-   "Game engine using STD C++ 11",
-   "Understanding Lvalues and Rvalues",
-   "C++17, is it great or just OK...",
-   "Big Data Analytics in Telecommunication",
-   "Character Encodings Hate Us All",
-   "CUDA Kernels with C++",
-   "When C++ Style Guides Contradict",
-   "Defensive Programming Done Right, Part I",
-   "C++ Modules and Large-Scale Development",
-   "The performance Addict's Toolbox",
-   "Better C++ Ranges",
-   "Good Concepts",
-   "Modern C++ Design (part 1 of 2)",
-   "Pimp my Log()",
-   "Redux Architecture",
-   "Polymorphism A La Carte",
-   "Zero-allocation & no type erasure futures",
-   "The Hitchhikers guide to faster builds",
-   "Chandler Carruth - -style extended Q&A / AmA",
-   "(...) How to work effectively being remote",
-   "Multithreading 101: Concurrency Primitives From Scratch",
-   "Racing The File System",
-   "C++11: New Tools for Class and Library Authors",
-   "Designing OSTree based embedded Linux systems",
-   "Learn Programming, then Learn how to Be a Programmer",
-   "Using Trompeloeil, a mocking framework for modern C++",
-   "From Iterators To Ranges - The Upcoming Evolution Of the Standard Library",
-   "The many faces of Number -- String conversions",
-   "GNU/Linux ou Android comme système d'exploitation embarque ?",
-   "A Food pairing device, with offline AI and edge computing",
-   "Modern C++ in Embedded Systems - The Saga Continues",
-   "Les outils open source pour les FPGA",
-   "DynaMix: A New Take on Polymorphism",
-   "We stopped teaching C",
-   "Concepts Lite: Constraining Templates with Predicates",
-   "Introduction to Bazel to build C++ and Python",
-   "How Compilers Reason About Exceptions",
-   "Running Zephyr and Linux on the same SoC: making both worlds live together !",
-   "A Deep Dive into 2 Cross-Platform Mobile Apps Written in C++",
-   "Functions Want To Be Free",
-   "Expression Templates Everywhere with C++14 and Yap",
-   "Practical constexpr",
-   "Software is feeding the World",
-   "Enforce Inform Ignore Assume - Gradual Adoption of Contracts In Production Code",
-   "Survey of Multi-Threaded Programming Support in C++11 and Boost",
-   "Boosting MPL with Haskell elements",
-   "Boosting Libraries for TR2",
-   "SW compatibility, plan it or face eventual consequences",
-   "Reducing Template Compilation Overhead, Using  C++11, 14, 17, and 20.",
-   "Designing C++ portable SIMD support",
-   "Asynchronous, yet readable, code",
-   "Site Reliability Engineering",
-   "Welcome To The Time Zone",
-   "The Problem with 'Cutting Edge C++",
-   "Interconnection security - SS7 and diameter",
-   "Generic programming for structure-aware algorithms",
-   "Thinking Outside the Synchronisation Quadrant",
-   "Contracts programming after C++17",
-   "C++ and Persistent Memory Technologies, Like Intel's 3D-XPoint",
-   "The Basics of Lock-free Programming",
-   "Lightning Strikes!",
-   "The Anatomy of an Exploit",
-   "CMake + Conan: 3 Years Later",
-   "Testing Battle.net (before deploying to millions of players)",
-   "C++20 Text Formatting",
-   "C++ for cross-platform VR",
-   "De-fragmenting C++: Making Exceptions and RTTI More Affordable and Usable",
-   "Reader-Writer Lock versus Mutex",
-   "If You Can't Open It, You Don't Own It",
-   "The Quiet Little Gem in Modern C++: <system_error>",
-   "A lock-free concurrent toolkit for hazard pointers",
-   "Avoiding Disasters with Strongly Typed C++",
-   "Designing (New) C++ Hardware",
-   "Coroutines: what can't they do?",
-   "Thinking Portable: How and why to make your C++ cross platform",
-   "A Glimpse of Trygve: From Class-oriented Programming to Real OO",
-   "Algorithmic and microarchitecture optimizations of C++ applications",
-   "std::accumulate: Exploring an Algorithmic Empire",
-   "Standardizing the Data Distribution Service (DDS) API for Modern C++",
-   "Look ma, 'update DB to HTML5 using C++', no hands!",
-   "Practical Functional Programming in C++",
-   "The C++ rvalue lifetime disaster @ CppEurope2020",
-   "Large-Scale C++: Advanced Levelization Techniques, Part I",
-   "Taming dynamic memory - An introduction to custom allocators in C++",
-   "Embedded Domain Specific Languages for Embedded Bare Metal Projects",
-   "Smart Output Iterators",
-   "It's People! Code is made out of people!",
-   "Mach7: The Design and Evolution of a Pattern Matching Library for C++",
-   "Type-safe configuration library",
-   "Variadic expansion in examples",
-   "Pruning Error Messages From Your C++ Template Code",
-   "Portable yet thin OS abstractions",
-   "Maintainability and Refactoring Impact of Higher-Level Design Features",
-   "Yocto is not (only) BitBake",
-   "Developing an embedded application for the IoT",
-   "Code samples that actually compile",
-   "Always generate all your serialization code",
-   "Tailored static tooling using Clang: Clazy",
-   "A quick view into a compiler",
-   "Standardised Coroutine Concurrency in Python 3",
-   "Phoenix V3 -- An Overview",
-   "C++ Core Guidelines - Modernize your C++ Code Base",
-   "Modern CMake for modular design",
-   "When Python Practices Go Wrong",
-   "C++ Puzzlers",
-   "Writing Great Libraries: 89 Easy Steps",
-   "Functional Error and Optional-value Handling with STX",
-   "Property-Based Declarative Containers",
-   "An Overview of C++11/14, Part I",
-   "Navigating the development and evolution of a library",
-   "Rethinking Pointers",
-   "Structured bindings uncovered",
-   "The strange details of std::string at Facebook",
-   "Type Deduction in C++14",
-   "The ongoing design and evolution of cyber-dojo",
-   "Preprocessor-aware Automated Refactoring",
-   "constexpr: Applications",
-   "Value Semantics: It ain't about the syntax!, Part I",
-   "The Landscape and Exciting New Future of Safe Reclamation for High Performance",
-   "Ranges for the Standard Library",
-   "Dealing with software dependencies",
-   "Regex in C++11 and Boost",
-   "What Belongs In The C++ Standard Library?",
-   "Higher-order functions and function_ref",
-   "Fundamentals of Type-Dependent Code Reuse in C++",
-   "Can we make a faster linked list?",
-   "Value Semantics: It ain't about the syntax!, Part II",
-   "Metaparse -- Compile-time parsing with template metaprogramming",
-   "Back to Basics: Lambdas from Scratch",
-   "Iterators May Stay",
-   "179 range algorithms in less than an hour",
-   "True parallelism, with no concept of threads",
-   "The Many Variants of std::variant",
-   "Drinking from the Fire Hose: Keeping up with the evolving landscape of C++",
-   "Mastering the IoT with C++ and JavaScript",
-   "Thread-safe Observer Pattern - You're doing it wrong",
-   "What Belongs in the C++ Standard Library",
-   "A C++14 Dependency Injection Library",
-   "Functional Programming, a pragmatic approach",
-   "What belongs in the C++ Standard Library",
-   "Performance analysis and optimization of C++ standard libraries",
-   "Programming with C++ Constraints: Background, Utility, and Gotchas",
-   "Modules are coming",
-   "interview with Hartmut Kaiser and Scott Meyers",
-   "Techniques for mocking in C++",
-   "A bird's-eye view of template C++",
-   "How to get rid of Obsession?",
-   "When a Microsecond Is an Eternity: High Performance Trading Systems in C++",
-   "Visualize Template Instantiations - Understand your Template Bugs",
-   "Secure Coding Best Practices: Your First Line Is The Last Line Of Defense (1 of 2)",
-   "Agile the hard(ware) way",
-   "Counting Nanoseconds Microbenchmarking C++ Code",
-   "The Incredible Shrinking Standard",
-   "The memory model in C++",
-   "Writing A Python Interpreter for Fun & Profit",
-   "ThinLTO Whole Program Optimization",
-   "Make Classes Great Again! (Using Concepts for Customization Points)",
-   "Intro to TDD and BDD",
-   "Pointless Pointers - How to make our interfaces efficient?",
-   "Boost.Text: Fixing std::string, and Adding Unicode to Standard C++ (part 2)",
-   "Coroutine TS a new way of thinking",
-   "The C++20 firehose talk",
-   "Introduction to Modern C++ Techniques (Part I)",
-   "OOP Is Dead, Long Live Data-oriented Design",
-   "Azure Sphere",
-   "Turning MQTT v5 inside out",
-   "Is Parallel Programming still hard? PART 1 of 2",
-   "Yocto Cooker, a meta-buildtool for Yocto Project",
-   "CI Your Presentation for Fun and Profit",
-   "Hierarchy of C++ needs - Boris Schaling",
-   "What I Talk about When I Talk about Cross Platform Development",
-   "10 Core Guidelines You Need to Start Using Now",
-   "Flowz: towards an EDSL for digital signal processing",
-   "Hook: The C++ library you were waiting for",
-   "Ustring -- A Modern Alternative to std::string",
-   "How to Teach C++ and Influence a Generation",
-   "Create your own Refactoring Tool in Clang",
-   "Naivety of Creating Cross-Platform, Modern C++ Libraries...",
-   "Generic Programming in C++: A Real-World Example",
-   "Sqlpp11, An EDSL For Type-Safe SQL In C++11",
-   "The Woos and Woes of Open-Source FPGA-Tools: A journey",
-   "Back to Basics: Design Patterns",
-   "Let's make a web match-3 game in C++14",
-   "Designing value classes for modern C++",
-   "C++ Constants",
-   "Lock-Free Programming (or, Juggling Razor Blades), Part I",
-   "Recent developments and future outlook of Qt",
-   "The Story of CyberDojo (so far)",
-   "Agent based class design",
-   "Product types for C++20?",
-   "Monitoring: Turning Noise into Signal",
-   "The Best Type Traits that C++ Doesn't Have",
-   "Modern User Interfaces for C++",
-   "Practical Type Erasure: A boost::any Based Configuration Framework",
-   "Time Travel Debugging",
-   "Expected- An exception-friendly Error Monad",
-   "Contracts for Dependable C++",
-   "Towards Painless Testing",
-   "Modern Template Metaprogramming: A Compendium, Part II",
-   "An Adventure in Race Conditions",
-   "Modern C++ API Design: From Rvalue-References to Type Design",
-   "Understanding and mastering C++'s complexities",
-   "Dynamic C++",
-   "Memory and C++ debugging at Electronic Arts",
-   "Design Journeys with Skoot, a Peer Oriented Generic Networking Library",
-   "Speed Is Found In The Minds of People",
-   "Implementation of a component-based entity system in modern C++",
-   "Back to Basics: Templates (part 2 of 2)",
-   "The worst feature of modern C++: default behaviour",
-   "C++ SIMD parallelism with Intel Cilk Plus and OpenMP 4.0",
-   "Delegate this! Designing with delegates in modern C++",
-   "Simplest Strong Typing instead of Language Proposal ( P0109 )",
-   "Small is beautiful: Techniques to minimise memory footprint",
-   "The missing piece of the continuous integration puzzle",
-   "C/C++ is very similar to Java/JavaScript",
-   "Writing Performant C++ Code",
-   "completion T : Improving the future T with monads",
-   "Cross plattform C++ development is challenging",
-   "Thinking in coroutines",
-   "Initializer Lists Are Broken, Let's Fix Them",
-   "Semantic Sugar: Tips for Effective Template Library APIs",
-   "Technical documentation is a backup so make sure it works @ CppEurope",
-   "Great C++ is_trivial",
-   "Behind the Scenes of a C++ Build System",
-   "Debug C++ Without Running",
-   "C++ libraries for daily use @ CppEurope 2020",
-   "Composite Arithmetic Types Are > the + of Their Parts",
-   "State Machines Battlefield - Naive vs STL vs Boost",
-   "Want fast C++? Know your hardware!",
-   "Modern C++ Testing with Catch2",
-   "boost.tmp: your DSL for Metaprogramming",
-   "Property based testing in C++",
-   "test_resource: the pmr detective",
-   "The Bad Big Wolf Meets Riding Hood Little Red",
-   "The Audacity of Chapel: Scalable Parallel Programming Done Right",
-   "Procedural Programming: It's Back? It Never Went Away",
-   "Refactoring hacked",
-   "Numerical Differentiation ++",
-   "Tracking DDR ECC issues on a standalone application",
-   "Gamgee: A C++14 library for genomics data processing and analysis",
-   "Pessimistic Programming",
-   "The next big Thing",
-   "A View to a View",
-   "C++ Concepts and Ranges",
-   "Accu Overload",
-   "C++: Fast and Small - What are the Costs of Language Features",
-   "Extending clang-tidy in the Present and in the Future",
-   "What Else Has My Compiler Done For Me Lately?",
-   "C++17 - the upcoming revolution",
-   "C++20 Ranges: Code Expressively with Ranges",
-   "Customization points that suck less",
-   "Back to Basics: Understanding Value Categories",
-   "Macchina a Stati Finiti con il Functor Pattern",
-   "Design Patterns in the 21st Century",
-   "The C++ Rvalue Lifetime Disaster",
-   "Intro to Functional Programming in C++",
-   "Windows, MacOS and Web: Lessons from Cross-platform Development @ think-cell",
-   "Taming dynamic memory",
-   "WG21-SG14: The Story So Far",
-   "A system for resource deadlock prevention using intrusive dynamic analysis",
-   "Modern Design Patterns with Modern C++",
-   "New C++ features for writing DSLs",
-   "A <chrono> Tutorial",
-   "Quick Game Development with C++11 / C++14",
-   "Software Visualization: The humane solution",
-   "Library Approaches for Strong Type Aliases",
-   "A deep dive into the Gilded Rose",
-   "Bayesian Computation for Deep Learning in Modern C++",
-   "Functional Programming in C++",
-   "Leak-Freedom in C++... By Default.",
-   "Automatic C++ source code generation with clang",
-   "A Short Life span<> For a Regular Mess",
-   "Objects vs Values: Value Oriented Programming in an Object Oriented World",
-   "yet another paradigm shift (yaps) -- (A Meta4 model of concurrency)",
-   "Compile-time reflection, Serialization and ORM",
-   "Some Things C++ Does Right",
-   "C++ Community Organizers",
-   "Using Types Effectively",
-   "No more coffee breaks - reducing C/C++ project compilation time",
-   "Patterns and Techniques Used in the Houdini 3D Graphics Application",
-   "Future C++1x proposals",
-   "Parallelism in Modern C++",
-   "Effective replacement of dynamic polymorphism with std::variant",
-   "Back to Basics: Algebraic Data Types",
-   "Value semantics: It ain't about the syntax!",
-   "Getting type name at compile time",
-   "Atomic's memory orders, what for?",
-   "C++ as Assembly 2.0 - Hello Nim",
-   "Virtual Tables OR The Overhead Of Magic",
-   "The Surprising Costs of void() (and Other Not-Quite-Innocuous Evils)",
-   "Motivated reasoning",
-   "Structure aware fuzzing",
-   "High Performance Graphics and Text Rendering on the GPU",
-   "Device Tree: hardware description for everybody!",
-   "Go: Optimizing For Correctness",
-   "Latency Observability",
-   "Back to Basics: Exception Handling and Exception Safety",
-   "Standard Slam",
-   "The art of keeping your project from falling apart",
-   "The Worst Best Practices",
-   "Building safe & Secure embedded systems by means of hypervisor approach",
-   "Class Template Argument Deduction in C++17",
-   "How to Write Well-Behaved Value Wrappers",
-   "Local (Arena) Memory Allocators Part 1",
-   "A trusted trip in the cloud - working with trusted hardware (...)",
-   "Cache Optimized Hash Tables",
-   "C++ on its way to exascale and beyond",
-   "Refactoring Superpowers: Make Your C++ IDE Do Your Work, Faster and More Safely",
-   "Creating Debian-Based Embedded Systems using Debos",
-   "A Tutorial Introduction to C++11/14 - Part II",
-   "Details Matter",
-   "Overloading - Niel Waldren",
-   "A perfect async RPC Framework?",
-   "Using C++20 Ranges Effectively",
-   "Local (arena) Memory Allocators",
-   "Clean Integral Code",
-   "Meet the Authors",
-   "Points of Order",
-   "Implementing C++ Semantics in Python",
-   "Experience from Feature Toggling Platform (...)",
-   "Bringing Clang-tidy Magic to Visual Studio C++ Developers",
-   "ConceptClang: Theoretical Advances with Full C++ Concepts",
-   "Augmented reality dev journey",
-   "Don't package your libraries, write packagable libraries!",
-   "How to Herd 1,000 Libraries",
-   "Implementing A Modern C++ MQTT Client for Embedded Devices",
-   "Engineering Software Integral Types",
-   "Become A Game Developer In 5 Minutes Or Less",
-   "Ensuring Exception Safety Through Testing",
-   "Passwords. Are. Not. Hard!",
-   "C++20: The small things",
-   "Some Programming Myths Revisited",
-   "Rise of the State Machines",
-   "Agent-based class design - a step towards betters customizations points",
-   "Learning (and teaching) modern C++ - Challenges and Resources",
-   "On the road to a trusted boot chain on STM32MP1 series",
-   "An Overview of Program Optimization Techniques",
-   "Implementing 'static' control flow in C++14",
-   "Meaningful casts",
-   "Diving into a large, legacy code::base as a youngster",
-   "C++ Community Surveys",
-   "Distributed parametric optimization with the Geneva library",
-   "Modern Software Needs Embedded Modern C++ Programming",
-   "Hunting the mammoth in the modern age",
-   "MPark.Patterns: Pattern Matching in C++",
-   "Destructor Case Studies: Best Practices for Safe and Efficient Teardown",
-   "Unicode Strings: Why the Implementation Matters",
-   "Programming with less effort in C++...",
-   "Latest and Greatest from the Visual Studio Family for C++ Developers",
-   "Metaprogramming in C++14",
-   "Conjuguer modèles ouverts et propriete intellectuelle dans l'embarque",
-   "Demystifying Floating Point",
-   "Image Signal Processing (ISP) Drivers & How to Merge One Upstream",
-   "Combining C++17 Features",
-   "C++14: Through the Looking Glass",
-   "Asynchronous Programming in Modern C++",
-   "Is your Agile agile?",
-   "Low Latency GPGPU - Matheus Vitti Santos",
-   "The Design of a New C++ Build Toolchain",
-   "2020: The Year of Sanitizers?",
-   "Smart References: There and Back Again",
-   "Words Of Power",
-   "Asynchronous programming with ranges",
-   "Writing Good C++14",
-   "No lightsaber is needed to break the Wookey",
-   "Reactive Stream Processing in Industrial IoT using DDS and Rx.cpp",
-   "Ladon -- A Distributed State-Machine Framework",
-   "C++ Catastrophes: A Poem",
-   "Objects? No Thanks!",
-   "API & ABI versioning",
-   "Choosing the Right Integer Types in C and C++",
-   "Creating Boost.Asio extensions",
-   "The Quest For A Better Crash",
-   "C++ is NOT a Hammer",
-   "Closing Message",
-   "Modern C++ Design (part 2 of 2)",
-   "Optimizing Generic Algorithms",
-   "C++ is like Javascript",
-   "How to answer 'why will yours succeed, when X, Y, and Z have failed?'",
-   "Mix Tests and Production Code With Doctest...",
-   "Lockfree Programming Part 2: Data Structures",
-   "The need for a package manager interface",
-   "Machine Learning with Python Case Study",
-   "Atomics, Locks, and Tasks (part 1 of 2)",
-   "Secure Coding Best Practices - Threat Hunting",
-   "Phantastic Code Smells and where to find them",
-   "Stop Teaching C",
-   "Grill the Committee!",
-   "Using C++ to Connect to Web Services",
-   "An Introduction to C++ Coroutines",
-   "I'm falling in love with Globals",
-   "Examining applications that do not terminate on std::bad_alloc",
-   "Security vulnerability tracking tools in Buildroot",
-   "The C++ Reflection TS",
-   "Call: A Library that Will Change the Way You Think about Function Invocations (2 of 2)",
-   "Matchine: Pattern Matching for Open Sum Types",
-   "Regular Types and why do I care?",
-   "Trivially Relocatable",
-   "Interactive C++ in a Jupyter Notebook Using Modules for Incremental Compilation",
-   "CNL: A Compositional Numeric Library",
-   "Haskell -- The Pseudocode Language for C++ Template Metaprogramming (Part 1)",
-   "GoLand Tips & Tricks",
-   "interview with Clare Macrae",
-   "a small tool to browse your backtraces",
-   "Algorithm Intuition (part 1 of 2)",
-   "From STL to Ranges: Using Ranges Effectively",
-   "Modern C++ as Concurrent Assembly",
-   "Moving Faster: Everyday Efficiency in Modern C++",
-   "C++ Test-driven Development",
-   "Common-sense acceleration of your MLOC build",
-   "Locally Atomic Capabilities and How to Count Them",
-   "Getting Allocators out of Our Way",
-   "Concurrent Code - Test It! - How?",
-   "Enhanced Support for Value Semantics in C++17",
-   "Writing Fast Code II",
-   "Three years of Rust - A look around",
-   "C++ Committee's Library Evolution Working Group",
-   "Objection! A language lawyer story",
-   "C++ Use in High Performance Computing Within DOE: Past and Future",
-   "A Tutorial Introduction to C++11 & 14 Part 1",
-   "Make It Fixable: Preparing for Security Vulnerability Reports",
-   "Support for Embedded Programming in C++11 and C++14",
-   "Numerical Weather Prediction: Facing the Future with C++",
-   "Optimizing the Emergent Structures of C++",
-   "Pattern Matching: Match Me If You Can",
-   "Higher-order functions in Modern C++: existing techniques and function_ref",
-   "Understanding Optimizers: Helping the Compiler Help You",
-   "Making Games Start Fast: A Story About Concurrency",
-   "Modern Template Techniques",
-   "C++ Testing Techniques, Tips and Tricks @ CppEurope 2020",
-   "From Parsing to sema: Making Sense of Syntax Trees",
-   "A Discussion of Selected Vienna-Libraries for Computational Science",
-   "A Whirlwind Overview of C++11",
-   "Understanding compiler optimization",
-   "What does it mean to trust your boot process?",
-   "What Programmers Should Know About Memory Allocation",
-   "Undefined Behavior in C++: What is it, and why do you care?",
-   "Working on modular projects with Git",
-   "C++ Templates Revised",
-   "Secure by Design - Security Principles for the Working Architect",
-   "Build Everything From Source: A Case Study in Fear",
-   "The Mathematical Underpinnings of Promises in C++",
-   "C++ 20 Overview: The Big Four",
-   "The Truth of a Procedure",
-   "Customization Points That Suck Less",
-   "Hands-On With Abseil",
-   "Fuzzing Class Interfaces for Generating and Running Tests with libFuzzer",
-   "What is Telco Cloud",
-   "Debugging memory corruptions in C++",
-   "Code Reviews - Why, what and how",
-   "40 Years Of Evolution from Functions to Coroutines",
-   "Building IoT solutions using Contiki-NG and AWS",
-   "Undefined Behavior in  (part 1 of 2)",
-   "C++17 in Breadth (part 2 of 2)",
-   "fixed_point",
-   "Programming with Contracts in C++20",
-   "Deep C Diving - Fast and Scalable Text Interfaces at the Bottom",
-   "Resilience patterns in practice",
-   "interview with C++ Committee's Library Evolution Working Group",
-   "Local ('arena') memory allocator",
-   "Real time 101",
-   "What are hash trees? and why you should care",
-   "SSD lifetime, data integrity and real-time: compromises and lessons learned",
-   "Turtles! Hill climbing! Hammers! Paper bags!",
-   "Spread the LOVE for IoT - How I created a full day IoT workshop",
-   "Test Driven C++",
-   "Intel's C++ STM Compiler and Transactional Language Constructs for C++",
-   "A Visions For std2",
-   "Standardizing Linux Boot process for RISC-V platforms",
-   "A C++14 approach to dates and times",
-   "Linux dynamic library versioning",
-   "Abusing Your Memory Model for Fun and Profit",
-   "Concept Based Testing",
-   "Distributed applications are easy. Just read the fine print",
-   "Preconditions, postconditions, invariants - how they (...)",
-   "Declarative Control Flow",
-   "Modernizing Legacy C++ Code",
-   "Catch [^]: Unicode for C++23",
-   "Space adventures",
-   "Disambiguation: The Black Technology",
-   "Functional programming: functors and monads",
-   "What is the basic interface?",
-   "Overloading: The Bane of All Higher-Order Functions",
-   "Compile time regular expressions",
-   "Embracing Standard C++ for the Windows Runtime",
-   "What did I learn teaching C++ to beginners",
-   "Boundary Conditions",
-   "Striving for ultimate low latency",
-   "A review of C++ 11/14 only Boost libraries - Fiber, AFIO, DI and APIBind",
-   "C++11 library components to make a scientist happy",
-   "Oh The Humanity!",
-   "Cross-Platform Pitfalls and How to Avoid Them",
-   "Back to Basics: Move Semantics",
-   "Applied WebAssembly: Compiling and Running C++ in Your Web Browser",
-   "Executors in C++",
-   "Oo Considered Harmful",
-   "Functional reactive programming in C++",
-   "Efficient GPU Programming with Modern C++",
-   "Using VV = merge_t(std::variant, std::vector);",
-   "Answering a Question From My Talk...",
-   "RaftLib: Simpler Parallel Programming",
-   "Behind the scenes of upgrading a static analyzer to C++20",
-   "Let's Move",
-   "libcppa -- Designing an Actor Semantic for C++11",
-   "C++ in Huge AAA Games",
-   "Efficiency with Algorithms, Performance with Data Structures",
-   "What Every C++ Programmer Should Know About Modern Compilers",
-   "The C++ Memory Model",
-   "Migration of C++ Libraries to C++14",
-   "How to make Augmented Reality with Qt/QML and OpenCV ?",
-   "Two years of libcamera: are complex cameras now easy?",
-   "Haxe: An understated powerhouse for software development",
-   "Safe Numerics Library",
-   "A Multithreaded,Transaction-Based Locking Strategy for Containers",
-   "The Power of Reflection with Facebook's Thrift",
-   "Windows Native API",
-   "cppreference.com: documenting C++ one edit at a time",
-   "The Exception Situation",
-   "Interactive, Introspected C++ at CERN",
-   "C++ STL best and worst performance features and how to learn from them",
-   "Generic Programming",
-   "The most important API design principle",
-   "Practical C++17",
-   "Kotlin/Native - Embracing existing ecosystems",
-   "Be your own Threatbuster!",
-   "Scheme Lisp: Feel the Cool",
-   "Go: Concurrency Design",
-   "Things I learned from the static analyzer",
-   "Techniques in Flexible Header-Only C++ Network Library Implementations",
-   "Boosting knowledge sharing",
-   "Meta++: Language Support for Advanced Generative Programming",
-   "Making Your Library More Reliable with Fuzzing",
-   "Lessons in Sustainability...",
-   "Enum to string using metaprogramming - Daniel Gavrila",
-   "Data-arithmetic optimization of embedded applications",
-   "The Networking TS in Practice: Testable, Composable Asynchronous I/O in C++",
-   "Ranges and Iterators for numerical problems",
-   "A C++ Approach to Physical Units",
-   "Creating an Incremental Architecture for your System",
-   "Naked coroutines live (with networking)",
-   "Complecting Made Easy",
-   "Teach Your Computer to Code FizzBuzz",
-   "Functional Programming: data",
-   "50 shades of C++",
-   "Back to Basics: Class Layout",
-   "Embedded: Customizing Dynamic Memory Management in C++",
-   "Executors for C++ - A Long Story ...",
-   "Gradual typing of production applications",
-   "Don't constexpr All the Things",
-   "Integrating generators EDSL's for Spirit X3 (WIP)",
-   "Qt's moc and QMetaObject reflection",
-   "C++ Coroutines: Under the covers",
-   "Introducing Parallelism to the Ranges TS",
-   "C++: Engineers Wanted, Programmers not so Much",
-   "Value Semantics: It aint about the syntax!",
-   "Using weakly ordered C++ atomics correctly",
-   "Local ('Arena') Memory Allocators (part 1 of 2)",
-   "Lock-free by Example",
-   "Code Analysis++",
-   "How bad is Meta-Programming still today?",
-   "Argot: Simplifying Variants, Tuples, and Futures",
-   "Product Types for C++2x",
-   "Howling at the Moon: Lua for C++ Programmers",
-   "How to: Colony",
-   "Introduction to C++ python extensions and embedding Python in C++ Apps",
-   "Zephyr, retour d'experience sur une des fondation de Stimio SDK",
-   "ADL: introduction in name taxonomy, customization points and use cases",
-   "C++11: High-Level Threading",
-   "The Complete Guide to 'return x;'",
-   "JSR-385: Learning from the $125 Million Mars Climate Orbiter Mistake",
-   "Thread-safe and Thread-neutral Bags",
-   "Swift Driven Development",
-   "Mongrel Monads, Dirty, Dirty, Dirty",
-   "Hypercritical C++ Code Review",
-   "Transactional Memory in Practice",
-   "Back To Basics: Lambda Expressions",
-   "The Smart Pointers I Wish I Had",
-   "Seven Languages in 90 Minutes",
-   "Comma Chameleon",
-   "Multithreading Using Lockless Lists and RCU",
-   "Object-relational mapping with ODB and Boost",
-   "folly::Function: A Non-copyable Alternative to std::function",
-   "More Modern CMake",
-   "Experimental comparison...",
-   "Current trends in the C++ Community",
-   "The Effective Structured Data Marshalling/Demarshalling Through Boost.Fusion",
-   "Simplest Safe Integers",
-   "Programming challenges in converting R to C++",
-   "Leveraging Modern C++ in Quantitative Finance",
-   "How to use correctly the const qualifier?",
-   "How We Used To Be",
-   "Design Patterns for Low-Level Real-Time Rendering",
-   "Macro-Free Testing With C++20",
-   "Multi-Precision Arithmetic for Cryptology in C++, at Run-Time and at Compile-Time",
-   "Embarcadero Case Study: Bringing CLANG/LLVM To Windows",
-   "Back to Basics: Smart Pointers",
-   "I have to make a confession - Simon Renger",
-   "Game Audio Programming in C++",
-   "Crafting EDSL In C++ using Metaprogramming, Operator Overloading, & Lambda Expressions",
-   "Using Units, Qantities, and Dimensions in C++14",
-   "The C++20 Standard Library - Beyond Ranges",
-   "Getting customized runtime hardware details at compile-time for (...)",
-   "Iron Man vs Pony",
-   "Consistent architecture diagrams for C++ projects",
-   "Where do you want to put the comma?",
-   "Understanding U-Boot Falcon Mode and adding support for new boards",
-   "Iterators and Ranges: Comparing C++ to D to Rust",
-   "Designing XML API for Modern C++",
-   "The Story of Villagers, Marbles and Oh, A Blockchain",
-   "Spirit: History and Evolution",
-   "Reuse bill",
-   "Allocators in C++11",
-   "Making Iterators, Views and Containers Easier to Write with Boost.STLInterfaces",
-   "Faces of undefined behavior",
-   "Generating OpenCL/CUDA source code from C++ expressions in VexCL",
-   "Time brings all things to pass",
-   "Fishbowl  - Working on Large Code Bases",
-   "EA's Secret Weapon: Packages and Modules",
-   "Introduction from co-organizers",
-   "Calling Functions: A Tutorial",
-   "boost.tmp: Your DSL for /*Metaprogramming*/ all the things",
-   "Cryptography for Programmers",
-   "Networking TS Workshop (part 2 of 2)",
-   "A Quantum Data Structure For Classical Computers",
-   "Using the Groovy Ecosystem for Rapid Development on the JVM",
-   "The Finer Points of Parameter Packs",
-   "Lessons Learned",
-   "Compiled C++ Coding Standards",
-   "Impact on maintainability and refactoring for higher-level design features",
-   "Compile Fast, Run Faster, Scale Forever: A Look into the sol2 Lua Library",
-   "No Touchy! A Case Study of Software Architecture with Immutable Objects",
-   "C++ Modules & Large-Scale Development",
-   "Bringing Business Logic Back to C++",
-   "Argument Passing, Core Guidelines, and Aliasing",
-   "Object-Oriented Programming in Modern C++",
-   "The Committee Experience",
-   "constexpr ALL the things!",
-   "Better Code: Data Structures",
-   "How to understand million-line C++ projects",
-   "C++ Class Natures",
-   "Halide: A Language for Fast, Portable Computation on Images and Tensors",
-   "When warnings become errors. A case-study of latent bugs (...)",
-   "Small Lie in Big O",
-   "C++ Package Manager",
-   "Programming in the Large With C++ 20",
-   "An inspiring introduction to template metaprogramming",
-   "Undefined Behavior in  (part 2 of 2)",
-   "East const but constexpr West",
-   "Talking to Typelists",
-   "Experiences in Teaching Modern C++ to Beginners",
-   "PipeWire: the new adaptable multimedia service, now ready for automotive",
-   "Beyond the Issaquah Challenge: High-Performance Scalable Complex Updates",
-   "Better mutual exclusion on the filesystem using Boost.AFIO",
-   "Sweep-Line Algorithm for Voronoi Diagrams",
-   "Introduction to C++ AMP (GPGPU Computing)",
-   "On C++, Javascript and WebSockets",
-   "Role of Product Manager",
-   "Specialising Linear Algebra for Geometry",
-   "Constructing Generic Algorithms: Principles and Practice",
-   "Documenting C++ Using the Right Tools",
-   "Plenary: Performance Matters",
-   "Multiplatform C++",
-   "Nano-coroutines to the Rescue! (Using Coroutines TS, of Course)",
-   "Using Concepts: C++ Design in a Concept World (part 1 of 2)",
-   "Functional C++ For Fun And Profit",
-   "Read and write considered harmful",
-   "Let's make a telegram bot with C++",
-   "Metaprogramming for the brave",
-   "Type Punning in C++17: Avoiding Pun-defined Behavior",
-   "Costless Software Abstractions for Parallel Architectures",
-   "Implementing a Domain Specific Embedded Language with Boost Proto",
-   "Designing for Efficient Cache Usage",
-   "Web | C++' (different) VIDEO AVAILABLE WITH IN SYNC SLIDES",
-   "Crazy Code, Crazy Coders",
-   "From security to performance to GPU programming...",
-   "From Iterators to Ranges: The Upcoming Evolution Of the STL",
-   "Which Machine Am I Coding To?",
-   "Optimising a small real-world C++ application",
-   "Cloud Native C++: Modern architecture for (...)",
-   "Tools from the C++ Ecosystem to save a leg",
-   "M-PIN Authentication in Vehicle Tracking",
-   "Os Matters",
-   "The Ongoing Saga of ISO-C++ Executors",
-   "(R)evolution of C++",
-   "The Research Software Engineer - a new career path in academia",
-   "Improving Performance and Maintainability in Modern C++",
-   "Empirically Measuring, & Reducing, C++'s Accidental Complexity",
-   "Deploying C++ modules to 100s of millions of lines of code",
-   "Understanding Compiler Optimization",
-   "The speed of concurrency (is lock-free faster?)",
-   "Typing types at type level - Matthis Kruse",
-   "Design Patterns for Handling/Reporting Errors in C++ - Parallel Algorithms & Executors",
-   "Type to string conversions, and vice-versa",
-   "HPX: A C++11 parallel runtime system",
-   "Fun with (user-defined) attributes",
-   "Critical Code analysis with Observer Pattern",
-   "Value Semantics and Concepts-based Polymorphism",
-   "I Just Wanted a Random Integer!",
-   "Refactoring Superpowers",
-   "hop: A Language to Design Function-Overload-Sets",
-   "Optimizing compilation times with Templates",
-   "Go for DevOps, Go for microservices, and what Go is (...)",
-   "Pruning Error Messages From C++ Template Code",
-   "The C++ rvalue lifetime disaster",
-   "Executors: The Art of Generating Composable APIs",
-   "Practical Type Erasure",
-   "Templator: Demo of a nice tool...",
-   "C++ template metaprogramming, a practical approach",
-   "Bringing clang-tidy magic to Visual Studio C++ Developers",
-   "Rpath and binary reuse",
-   "Contract Programming: What, Why, and How?",
-   "Structure and Interpretation of Computer Programs: SICP",
-   "C++ programming in a parallel world @ CppEurope 2020",
-   "Exception-Safe Code, Part II",
-   "How Python Wins New Friends",
-   "Thriving in a crowded and changing world: C++ 2006-2020",
-   "Exception-Safe Coding in C++ (Part II)",
-   "Cross Platform GUID Association with Types",
-   "Structured Bindings demystified",
-   "Promises in C++: The Universal Glue for Asynchronous Programs",
-   "Save $$ Testing Code the Playback-Based Way",
-   "What about lambdas",
-   "C++ Function Templates: How Do They Really Work?",
-   "C++ in Elvenland",
-   "Inside Spirit X3: Redesigning Boost.Spirit for C++11",
-   "Fast numerical computation in C++: Expression Templates",
-   "Pipes: How Plumbing Can Make Your C++ Code More Expressive",
-   "It's Complicated",
-   "Conan, a C and C++ package manager for developers",
-   "Learn Robotics with C++ in 1 Hour",
-   "Is std::function really the best we can do?",
-   "Allocator-Aware (AA) Software",
-   "The Concepts of concepts",
-   "Applying functional programming in code design",
-   "C++ Memory Model Meets High-Update-Rate Data Structures",
-   "Designated Initializers: Remembering Every Struct Member in Declaration Order Is Hard",
-   "C++ Component Extensions for WinRT",
-   "The C++ ABI From the Ground Up",
-   "(Ab)using C++17",
-   "embeddr - C with Abstractions",
-   "Virtual assembly for web application",
-   "Impostor Syndrome",
-   "How to Design C++ Implementations of Complex Combinatorial Algorithms",
-   "Reduce: From functional programming to C++17 Fold expressions",
-   "Higher Order Functions for ordinary developers",
-   "Mocking C++",
-   "interview with Marius Bancila",
-   "Low Latency C++ for Fun and Profit",
-   "Generic Programming with Concepts Lite, Part II",
-   "Here's my number; call me, maybe. Callbacks in a multithreaded world",
-   "Representing Memory Mapped Devices as Objects",
-   "LauncherOne rocket with C++ engine",
-   "Programming utilities for Unix-like systems in Python",
-   "Building a Coroutine based Job System without Standard Library",
-   "Pimpl idiom, multiple Inheritance and facet pattern",
-   "Why iterators got it all wrong",
-   "Solving World Problems with Fusion",
-   "Embind and Emscripten: Blending C++11, JavaScript, and the Web Browser",
-   "#include <os>: from bootloader to REST API with the new C++",
-   "How to Write a Custom Allocator",
-   "Object-Oriented Program: Best Practices",
-   "AI: Actual Intelligence",
-   "From Algorithm to Generic, Parallel Code",
-   "Easier said than done. Self-organized teams",
-   "10 Techniques to Understand Code You Don't Know",
-   "Writing a cache-friendly C++ code",
-   "Biicode, a C/C++ dependency manager with a hosting service",
-   "Large-Scale Refactoring @ Google",
-   "A Zephyr Overview of C++11 (Part II)",
-   "Take your microservices to the next level with gRPC",
-   "Clang Concepts",
-   "An Agile (hi)story",
-   "OPC UA, La norme d'interoperabilite securisee pour l'Industrie 4.0 et l'IoT",
-   "The Forgotten Art of Structured Programming",
-   "My Four Year Bug",
-   "Tools from the C++ eco-system to save a leg",
-   "Polymorphic Task   2017",
-   "Algorithms and Iterators for Multidimensional Arrays",
-   "Proper Inheritance (part 2 of 2)",
-   "Garbage In, Garbage Out: Arguing about Undefined Behavior...",
-   "interview with Rafi Wiener ::  Question",
-   "The hidden languages of C++",
-   "Test Driven C++ with Catch",
-   "Large Scale C++ with Modules: What You Should Know",
-   "Converting a State Machine to a C++ 20 Coroutine",
-   "Beyond the Floating Point Computations - What's New, What's Useful?",
-   "Decision Fatigue and coding guidelines",
-   "interview with C++ Standards Committee Fireside Chat",
-   "Modern C++ Design reloaded",
-   "It's DNS, Jim, but not as we know it",
-   "The Perils of Strict Aliasing",
-   "Multitype Pool: fixed type allocation",
-   "Functional Design Explained",
-   "The evolving search for effective C++",
-   "Software development - learning to walk again",
-   "Multicore Synchronization: The Lesser-Known Primitives",
-   "Finding Bugs with Clang at Compile and Run Time",
-   "Alices adventures in Template Land",
-   "Benchmarking C++ - From video games to algorithmic trading",
-   "Calling Functions",
-   "Using Spirit X3, Part I",
-   "All the Default's Are Backwards",
-   "Tacit DSL All the Things",
-   "Dynamic Polymorphism with Metaclasses and Code Injection",
-   "Boost statechart visualisation - Antons Jelkins",
-   "Taking the Plunge Towards CMake in Boost",
-   "An introduction to Kotlin by example",
-   "Writing a C++20 Module",
-   "dynamic_cast From Scratch",
-   "How to manage your distributed electronic architecture?",
-   "Faster Code Through Parallelism on CPUs and GPUs",
-   "Concepts vs Typeclasses vs Traits vs Protocols",
-   "Using build2, C++ Build Toolchain",
-   "Embedded Linux 'from scratch' in 45 minutes... on Risc-V",
-   "There is a Better Future",
-   "Rapid Prototyping in C++",
-   "Better embedded library interfaces with modern C++",
-   "Proper Inheritance (part 1 of 2)",
-   "Functional Programming - Technical reasons to adapt",
-   "Agility at scale with LeSS",
-   "A C++ MQTT Message Broker for the Enterprise",
-   "C++17's std::pmr Comes With a Cost",
-   "Option(al) Is Not a Failure",
-   "Back to Basics: Move Semantics (part 1 of 2)",
-   "Mix tests and production code with doctest (...)",
-   "An implementer's view of Boost.SIMD",
-   "Lesson to Learn   2017",
-   "Axiomatic Programming: From Euclidean Deductions to C++ Templates and Beyond",
-   "Dr Module and Sister #include",
-   "Bringing Clang and C++ to GPUs: An Open-Source, CUDA-Compatible GPU C++ Compiler",
-   "CPU-Friendly Code",
-   "Pulling Visitors",
-   "Polymorphism with Unions",
-   "Expect the expected",
-   "Lock-free programming with modern C++",
-   "Introduction to Azure Sphere",
-   "What are FPGAs and How Do They Work",
-   "Introduction to encryption for embedded Linux developers",
-   "Improving Performance Through Compiler Switches...",
-   "Qt event loop, networking and I/O API",
-   "GPU processing of V4L2 live video on NVIDIA Jetson with CUDA",
-   "Exception-Safe Code, Part III",
-   "A Short Life span For a Regular Mess",
-   "Data Structure Visualizers in Visual Studio 2010",
-   "Welcome (Marco Arena) +  'WARNING: std::find is broken'",
-   "Alignment in C++: Use, Limitations, and Extension",
-   "C++14 version of Boost.MSM-eUML",
    "From Functional to Parallel: Stochastic Modeling in C++",
-   "tuple<>: What's New and How it Works",
-   "Meta: Thoughts on generative C++",
-   "Compile-time contract checking with nn",
-   "Boost.Dispatch -- Generalized Tag Dispatching Infrastructure Library",
-   "Are You Ready for IPv6?",
-   "Making Fast Incremental Compiler for Huge Codebase",
-   "Combined Short Talks",
-   "Machine learning and image processing",
-   "OO Considered Harmful",
-   "Teaching old compilers new tricks",
-   "Variable Templates and Compile-Time Computation with C++14",
-   "pinned_vector",
-   "Adventures in SIMD-Thinking (part 1 of 2)",
-   "Touring the Tips of the Week Series",
-   "Introduction to proposed std::expected",
-   "Effective Practices for Engineering Teams",
-   "Organizational Leadership with Modern C++",
-   "Just-in-Time Compilation: The Next Big Thing?",
-   "Implementing Physical Units Library for C++",
-   "A short story about...",
-   "Test-Drive Performance",
-   "Esoteric Data Structures and Where to Find Them",
-   "functional: What's New, And Proper Usage",
-   "Mocking Frameworks considered harmful",
-   "What did C++ do for Transactional Memory?",
-   "Effective Code Review",
-   "interview with Peter Hilton",
-   "The Projucer: Live coding with C++ and the LLVM JIT engine",
-   "Total War: how AI can deliver entertainment.",
-   "The stand up",
-   "Migrating a C++03 library to C++11 case study: Wt 4",
-   "lemniscate C++++++...",
-   "Is Parallel Programming still hard? PART 2 of 2",
-   "High performance data structures in boost",
-   "Retour d'experience sur l'IoT: cas concret dans la location de materiel de TP",
-   "When dependency hell freezes over",
-   "DevOps transformation - It's not just an R&D thing",
-   "Cache consistency and the C++ memory model: writing code to (...)",
-   "How to make a large C++-code base manageable",
-   "Simplifying control flow",
-   "The C++ Execution Model",
-   "Easy to Use, Hard to Misuse: Declarative Style in C++",
-   "Type-safe state machines with C++17 std::variant",
-   "Utilize your CPU power",
-   "Regular Expressions in C++, Present and Future",
-   "We've Always Been at War with East Constia",
-   "An easy to use RPC framework implemented in C++11/14",
-   "Reducing Memory Allocations in a Large C++ Application",
-   "Simplicity: not just for beginners",
-   "Intro to Rust",
-   "The Tragedy of the value based architecture",
-   "The Asynchronous C++ Parallel Programming Model",
-   "Policy-based design in C++20",
-   "Formatting floating-point numbers",
-   "Hacker's guide to Web Assembly",
-   "Memory mapped storage",
-   "I just wanted to point to something!",
-   "The Internet of Things",
-   "Developing EDSL's for Boost.Spirit",
-   "Boost Your Program's Health by Adding Fibers to your Coroutine",
-   "Managing C++ Build Complexity Using Cuppa: A SCons-based Build System",
-   "Are you Open enough to Innovate? ;)",
-   "Return Values Take A Closure Walk",
-   "Value Semantics: Fast, Safe, and Correct by Default",
-   "An Overview of the Linux and Userspace Graphics Stack",
-   "boost.tmp: Your DSL for Metaprogramming - Part 1 of 2",
-   "clang-tidy: write your own linting tool",
-   "The Future of Accelerator Programming in C++",
-   "Parsing C++",
-   "Bluff your way in x64 assembler",
-   "Evolving array_view and string_view for safe C++ code",
-   "Monolithic Delivery",
-   "Make your programs more reliable with Fuzzing",
-   "The New Old Thing, of Fun with Lambdas",
-   "Everything You Ever Wanted to Know about DLLs",
-   "Three Cool Things about D",
-   "Ryppl -- A New Platform for Boost Development",
-   "Multithreading is the answer. What is the question? (part 2 of 2)",
-   "Adventures in SIMD-Thinking (part 2 of 2)",
-   "How to call C libraries from C++",
-   "How bananas could save your project. Understanding UX",
-   "Monoids, Monads, and Applicative Functors: Repeated Software Patterns",
-   "BDE Libraries, An Orientation",
-   "Boost.Text: Fixing std::string, and Adding Unicode to Standard C++ (part 1)",
-   "Concepts As She Is Spoke",
-   "Interactive Metaprogramming Shell based on Clang",
-   "Better Code with C++ Attributes",
-   "Metaprogramming in C++",
-   "Cross-Platform Mobile App Development with Visual C++",
-   "Making Testing C++ Binaries Practical @ Facebook Scale: A CI Story",
-   "Template Shenanigans",
-   "Improve your C++ with inspirations from other languages",
-   "Fun with Boost.Hana",
-   "C++ Concepts",
-   "Design and Evolution of cyber-dojo",
-   "Threading dos and don'ts",
-   "The Many Shades of reference_wrapper",
-   "Building conversational voice bots - lessons learned",
-   "C++20 STL Features: One Year of Development on GitHub",
-   "A CTO's guide to Modern C++",
-   "Device Tree overlays and U-boot extension board management",
-   "The fastest template metaprogramming in the West",
-   "C++ Today: The Beast is Back",
-   "Boost.Process: Process management in C++",
-   "Concurrency in cloud applications",
-   "Doxygen to DoxyPress...",
-   "Reader-Writer Lock versus Mutex - Understanding a Lost Bet",
-   "switchAny: A Practical Exercise in Template Metaprogramming",
-   "What is a Good Code",
-   "Get Off My Thread: Techniques for Moving Work to Background Threads",
-   "Implementing tuple in C++17",
-   "Dragging C++ into the Modern era",
-   "OpenMP for better high-level parallelism, not just for High Performance Computing",
-   "Introduction to RAUC",
-   "DevOps is not only for IT players!",
-   "Non-Allocating std::future/promise",
-   "The Shape of a Program",
-   "The Holy Grail! A Hash Array Mapped Trie for C++",
-   "The Design of the C++ Runtime for AWS Lambda",
-   "Exploring C++17 and Beyond",
-   "Variations on variants",
-   "C++20: the small things",
-   "boost::string_ref",
-   "How to write a programming language",
-   "Snakes Into Snake Oil - What Blockchains Are And Why They're Terrible",
-   "IoT. Building machine vision system...",
-   "Template Metaprogramming: Type Traits (part 1 of 2)",
-   "Modern C++ Safety and Security At 20",
-   "Advanced Tools for Better Productivity",
-   "The Dawn of a new Error",
-   "ODB, an ORM for C++(11)",
-   "The Detection Idiom - a simpler way to SFINAE",
-   "Understanding &&",
-   "Making C++ and the STL Work in the Linux / Windows Kernels",
-   "There Are No Zero-cost Abstractions",
-   "interview with Manuel Benche",
-   "Latest and Greatest in the Visual Studio Family for C++ Developers 2018",
-   "Using Spirit X3, Part II",
-   "WebAssembly: an overview",
-   "Modules the beginner's guide",
-   "Building and Extending the Iterator Hierarchy in a Modern, Multicore World",
-   "Core principles and creating lightweight design",
-   "5 Things I figured out while ...   2017",
-   "A refresher on the floating-point computations and the standard library.",
-   "A little order",
-   "Advanced Levelization Techniques (part 1 of 3)",
-   "Fun with Tuples",
-   "C++20 Coroutines: Generators, and Brain Unrolling Sweetness",
-   "Audio in standard C++",
-   "Enough x86 Assembly to Be Dangerous",
-   "HPX: A C++ Runtime System For Parallel And Distributed Computing",
-   "Functional Geometry: Producing Pure Spaces",
-   "Cloud Business Solution Increasing Supply Chain Profitability",
-   "Choosing the correct vectorization method",
-   "Behind Enemy Lines - Reverse Engineering C++ in Modern Ages",
-   "Numbers",
-   "'for_each_argument' explained and expanded",
-   "Beware of C++17",
-   "Nbdl: A library that uses metaprogramming... A lot",
-   "C++ API & ABI versioning",
-   "The Networking TS from Scratch: I/O Objects",
-   "AAAARGH!? Adopting Almost Always Auto Reinforces Good Habits!?",
-   "Diving into SWUpdate: adding new platform support with Yocto/OE",
-   "10 Techniques to Understand Existing Code",
-   "C++ Integer Promotion is Completely Broken",
-   "A modern, scalable risk system architecture",
-   "Modern C++ tips & trics",
-   "Secure C++ Programming",
-   "Build for everyday programmers and why should they care",
-   "Hey C, This Is What Performance Looks like",
-   "Practical Techniques for Improving C++ Build Times",
-   "Surveying the C++ Community",
-   "Seventeenification: Porting sqlpp11 to C++17",
-   "Sitting Considered Deadly",
-   "Effective Remote C++ Development with Codespaces",
-   "The life-changing magic of tidying up",
-   "Extending C++ with Co-Array semantics",
-   "The cell as a computer: Turing complete and massively parallel",
-   "C++ on the Edge – Machine Learning + Microcontrollers + C++",
-   "C++ on the Web: Ponies for developers without pwn'ing users",
-   "Parallelizing the C++ Standard Template Library",
-   "function_ref",
-   "Better C++ using Machine Learning on Large Projects",
-   "std::launder",
-   "Concepts: The Future of Generic Programming (the future is here)",
-   "C/C++ vs Security!",
-   "When Paradigms Collide",
-   "Data oriented design in practice",
-   "Parallelizing the Standard Template Library",
-   "Compile-Time/Run-Time Functional Programming in C++",
-   "C++, Abstract Algebra and Practical Applications",
-   "C++ Tool Support: Where We Are and Where We Are Heading",
-   "Emotional Code",
-   "What's new in Visual Studio Code for C++ development",
-   "Text Formatting For a Future Range-Based Standard Library",
-   "Undefined behaviour is awesome!",
-   "Who includes me?",
-   "Rolling Your Own Circuit Simulator",
-   "Concepts -  Evolution or Revolution",
-   "Just-in-Time Compilation",
-   "Functional C++ for Fun and Profit",
-   "How to Write a Heap Memory Profiler",
-   "Overloading the Member Access Operator",
-   "interview with The Silicon Valley coding  (Nicolo Valigi)",
-   "Postcards from the Cross-platform Frontier",
-   "Typegrind - Type preserving heap profiler for C++",
-   "Video Rendering on Frontend and Backend",
-   "Code review",
-   "Can I change my organisation?",
-   "Simple hand written parsers",
-   "Lightweight 2D graphics with io2d",
-   "Quickly and Effectively Testing Legacy C++ Code with Approval Tests",
-   "Dealing with function failures in C++",
-   "Cross-platform C++ development is challenging - let tools help!",
-   "How to Cook a Chicken",
-   "Refactoring C++ legacy code through pure functions @ CppEurope 2020",
-   "Embedded & C++",
-   "The Clacks in Discworld and Roundworld",
-   "Intel® Graphics Technology for general purpose computing",
-   "Structure and Interpretation of Test Cases",
-   "Competitive Advantage with D",
-   "What's My Object?",
-   "C++: Unexpected Behaviour",
-   "Undefined behaviour in the STL",
-   "Game Engine API Design",
-   "Thinking outside the synchronisation quadrant",
-   "Technical Specifications & C++17",
-   "Undefined Behavior and Compiler Optimizations",
-   "Design And Implementation Of DBMS Asynchronous Client Library",
-   "How Embedded Developers work from home using labgrid",
-   "Microcontrollers in Micro-increments A Test-driven C++ Workflow",
-   "SPMD Programming Using C++ and ISPC",
-   "WG21-SG14 - Making C++ better for games, embedded and financial developers",
-   "Atomics, Locks, and Tasks (part 2 of 2)",
-   "The Evolution of C++ Past, Present and Future",
-   "An Overview on Encryption in C++",
-   "Metaprogramming for dummies",
-   "Reactive Equations",
-   "Transducers: from Clojure to C++",
-   "Bitmaps! Or 'Images and Animations Without Linking External Libraries'",
-   "Hardening Your Code",
-   "IIFE in C++ for Performance and Safety",
-   "Writing a reflection engine from scratch",
-   "Generative Programming in Action: Emulating the 3DS",
-   "Diet for your Templates - Reducing Code Bloat in Your Templated Library",
-   "Bringing Clean Code to large scale legacy Applications",
-   "Multi-Threading With C++11 and Boost",
-   "Building C++ Modules",
-   "Testdriven C++ with Catch",
-   "How C++ Debuggers Work",
-   "These aren't the COM Objects you're looking for",
-   "Contract use: Past, Present, and Future",
-   "The Rough Road Towards Upgrading to C++ Modules",
-   "Choosing hardware components : A software guy's point of view.",
-   "Go forth with C++ - Jacek Sandomierz",
-   "A Test of Strength",
-   "Words of Wisdom",
-   "opt-viewer: Inspecting compiler optimizations in high-level code",
-   "C++20 Coroutines: What's next?",
-   "Lifetime analysis for everyone",
-   "Future of communications...",
-   "Fancy Pointers for Fun and Profit",
-   "Objects? No thanks!",
-   "Putting Coroutines to Work with the Windows Runtime",
-   "These two ints have different types. A Data Oriented Design story",
-   "A story about vectorisation and compiler bug report",
-   "Two practical applications of the Brigand TMP library",
-   "Why and How we fixed std::thread by std::jthread",
-   "Compiler Explorer: Behind The Scenes",
-   "From Iterators To Ranges - The Upcoming Evolution Of the Std Lib",
-   "You Can Do Better than std::unordered_map: New Improvements to Hash Table Performance",
-   "Eoliennes Connectees",
-   "Emscripten and asm.js: C++'s role in the modern web",
-   "Simulating the Universe Using Modern C++",
-   "A modern formatting library for C++",
-   "Concurrency, Parallelism and Coroutines",
-   "A Complete Overview on Boost.Jam and Boost.Build",
-   "The better parts",
-   "Asynchronous Computation in C++",
-   "How you can make a Boost C++ Library",
-   "Static Analysis and C++: More Than Lint",
-   "Lakos'20: The 'Dam' Book is Done!",
-   "Monads in Chains",
-   "What I Wish They Told Me - Part 2 of 2",
-   "What to Expect from a Next-Generation C++ Build System",
-   "Open is Good - yomm2: Fast, Orthogonal Open Methods",
-   "EDSL Infinity Wars: Mainstreaming Symbolic Computation",
-   "What We've Learned From the C++ Community",
-   "Arguments over Arguments",
-   "Metaprogramming with Boost.Hana: Unifying Boost.Fusion and Boost.MPL",
-   "Integrating Docker containers in Yocto",
-   "Boost.Asio and Boost.Serialization, Part I",
-   "Local ('Arena') Memory Allocators (part 2 of 2)",
-   "Async sequences and algorithms to compose them",
-   "Elsewhere Memory (C++20 Abstract Machine) + Virtual Memory",
-   "Machine learning - when big data is not enough",
-   "Make Friends with the Clang Static Analysis Tools",
-   "Reducing OS noise using offload driver",
-   "LLVM: A Modern, Open C++ Toolchain",
-   "Ways to Handle Non-blocking Returns in Message-passing Programs...",
-   "Variants: Past, Present, and Future",
-   "Safe bool idiom",
-   "Rethinking Strings",
-   "Scaling with C++11",
-   "Splash screen for Embedded Linux 101: How to customize your boot sequence",
-   "Deep Learning with C++",
-   "Continuous Integration of C/C++ Apps for IoT Devices",
-   "Concurrency TS Editor's Report",
-   "Machine Learning for a rescue",
-   "Writing robust code",
-   "Parametric Expressions: A Proposed Language Feature",
-   "Exhuming 'Castlequest'",
-   "Benchmarking C++ Code",
-   "Statistical scientific programming OO patterns: accumulators",
-   "Partially-formed Objects for fun and profit",
-   "No Sane Compiler Would Optimize Atomics",
-   "Associative containers - Jean Guegant",
-   "Type-safe Programming",
-   "Back to Basics: Unit Tests",
-   "Emulating the Nintendo 3DS: Generative & Declarative Programming in Action",
-   "C++ Metaprogramming: Journey from simple to insanity and back",
-   "Async... oh, wait",
-   "Applied Hierarchical Reuse: Capitalizing on Bloomberg's Foundation Libraries",
-   "Local (Arena) Allocators Part II",
-   "How to test static_assert?",
-   "std::optional and the m word",
-   "Production use of Boost.Test",
-   "Threads and Locks must Go",
-   "The Static Initialization Order Fiasco",
-   "Why algebraic data types are important",
-   "Optimization Tips - Mo' Hustle Mo' Problems",
-   "TDD/BDD and DI",
-   "Accept No Visitors",
-   "An Alternate Smart Pointer Hierarchy",
-   "lambda Demystified",
-   "Frozen data structures in C++14",
-   "Hacker's guide to Rust Programming",
-   "Managarm: A Fully Asynchronous OS Based on Modern C++",
-   "Generic Parallel Programming",
-   "Testing the Limits of Allocator Awareness",
-   "Practical Cross-Platform Mobile C++ Development",
-   "Programming with C++ Modules: Guide for the Working",
-   "C++20 Ranges in Practice",
-   "Mise à jour : les bonnes questions à se poser",
-   "C++ Code Smells",
-   "History of Time: Asynchronous C++",
-   "C++20: All the small things",
-   "Dealing with Embedded Limitations",
-   "Diversity and Inclusion   2017",
-   "De-fragmenting C++: Making exceptions more affordable and usable",
-   "Comparison is not simple, but it can be simpler",
-   "On 'simple' Optimizations",
-   "Would 'reserve'/'upgrade'/'downgrade' Methods Improve 'std::shared_mutex'?",
-   "Conan, le gestionnaire de paquets C/C++",
-   "C++ Modules",
-   "Fortransformers: A Field Study",
-   "Modern C++ Interfaces...",
-   "Secure boot in embedded Linux systems",
-   "The most valuable values",
-   "An Overview of Standard Ranges",
-   "Decomposing a Problem for Parallel Execution",
-   "Implementing variant Visitation Using Lambdas",
-   "Thoughts on Metaclasses",
-   "Command Line Parser Library   2017",
-   "Trusting your Raspberry Pi - An introduction to the TPM and IoT",
-   "constexpr ALL the Things!",
-   "LLVM C/C++ compiler frontend in Java",
-   "Beware of C++",
-   "105 STL Algorithms in Less Than an Hour",
-   "Type safe C++ - LOL! :-)",
-   "A vision for C++20, and std2 (part 3 of 3)",
-   "Rethinking Usage of C++ Templates",
-   "C++0x Progress and Status",
-   "CppComponents- A Modern Portable C++11 Component System",
-   "Sooner rather than later",
-   "Writing games in very modern C++",
-   "Refactoring C++ with Clang",
-   "Why C++0x is the Awesomest Language for Network Programming",
-   "C++11's Quiet Little Gem: <system_error>",
-   "Range-Based Text Formatting - For a Future Range-Based Standard Library",
-   "3 things they didn't tell you about Agile",
-   "C++ Hardware Register Access",
-   "Consistently Inconsistent",
-   "Modern embedded APIs...",
-   "Undefined behavoiur",
-   "The Proposed Boost B-tree Library",
-   "Introduction to gRPC",
-   "Build all the things with Spack: a package manager for more than C++",
-   "Expression Templates Revisited",
-   "Pragmatic Unit Testing in C++",
-   "Coroutines and C++ DSLs for Human Scale Concurrency",
-   "C++11 use in Qt5: Challanges and Solutions",
-   "Python as C++'s limiting case",
-   "Lightweight Object Persistence With Relocatable Heaps in Modern C++",
-   "Value-oriented design in an object-oriented system",
-   "All the defaults are backwards - Phil Nash",
-   "C++17 - The Good and the Ugly",
-   "Regular Types and Why Do I Care ?",
-   "Asynchrony and Coroutines",
-   "Declarative Thinking, Declarative Practice",
-   "Faster Complex Numbers",
-   "No raw std::thread! - Live Tweet Analysis in C++",
-   "Elegant Filesystem Interactions in Python using pathlib",
-   "Work Stealing",
-   "Abstraction by the rule of 10 - Guy Davidson",
-   "Clang Static Analysis",
-   "An Overview of Transport Layer Security (TLS) Protocol Version 1.3",
-   "Welcome +  Let's Move-The Hidden Features and Traps of C++ Move Semantics",
-   "A Possible Future of Embedded Software Development",
-   "Surveying the Community - What Could Possibly Go Wrong",
-   "A lock-free concurrency toolkit for deferred reclamation and optimistic speculation",
-   "C++ Multi-dimensional Arrays...",
-   "Woes of Scope Guards and Unique_Resource - 5+ years in the making",
-   "C++20 Lambdas: Familiar Template Syntax",
-   "Quickly Testing Qt Desktop Applications with Approval Tests",
-   "How to build architecture of your system",
-   "C++ in Open Source Robotics",
-   "Design Rationale for the chrono Library",
-   "Exception-Safe Coding in C++ (Part I)",
-   "Exceptions Demystified",
-   "extern c: Talking to C Programmers about C++",
-   "Taskflow: A Parallel and Heterogeneous Task Programming System Using Modern C++",
-   "Variadic and Variable Templates in C++14",
-   "How to Evolve Your Way Out of a Paper Bag",
-   "Optimally Shooting Furry Balls out of Vulkanoes",
-   "Frictionless Allocators",
-   "C++: lambda Demystified",
-   "Seeing the bigger picture part II",
-   "Your CPU is binary",
-   "Threads and Shared Variables in C++0x",
-   "Clean Coders Hate (...) When You Use These (...) Tricks",
-   "Building for the Best of Us: Design and Development with Kids in Mind",
-   "Enhancing STL containers",
-   "Better Algorithm Intuition",
-   "A State of Compile Time Regular Expressions",
-   "The Distributed Version Control Revolution",
-   "Back to Basics: Move Semantics (part 2 of 2)",
-   "C++ on small micro controllers",
-   "Fastware",
-   "Towards contract programming in C++",
-   "C++11 Multithreading done right?",
-   "A new look at TMP",
-   "So You Think You Know How to Work With Concepts?",
-   "Practical (?) Applications of Reflection",
-   "What boost could learn from QT",
-   "How C++20 Can Simplify std::tuple",
-   "Standardizing a linear algebra library",
-   "The beast is becoming functional",
-   "Mobile Edge Clouds...",
-   "The One-Decade Task: Putting std::atomic in CUDA.",
-   "How to Write Effective Documentation for C++ Libraries...",
-   "Beyond C++17",
-   "The Untapped Potential of Software Visualization",
-   "More GDB wizardry and 8 other essential Linux application debugging tools",
-   "Serialization in C++ has never been easier! But wait, there's more",
-   "Variadic Templates in C++11 / C++14 - An Introduction",
-   "How bad is meta-programming still today?",
-   "Fresh Paint",
-   "Hourglass Interfaces for C++ APIs",
-   "From nothing to too much: growing a tech community in the East of England",
-   "A Crash Course in Unicode for C++ Developers",
-   "Designing APIs for performance",
-   "Progress on Contract Support for C++17",
-   "Red teaming in Poland - test cases",
-   "Continuable asynchronous programming with allocation aware futures",
-   "Interactive C++: Meet Jupyter / Cling",
-   "High Frequency Trading and Ultra Low Latency development techniques",
-   "An inspiring introduction into Template Meta Programming",
-   "SYCL building blocks for C++ libraries",
-   "HPX and GPU parallelized STL",
-   "C++ Insights: How Stuff Works, Lambdas and More!",
-   "AsyncIO and Music",
-   "Should I care about CPU cache?",
-   "Embedded Systems 101",
-   "UEFI Applications With Modern C++",
-   "Birth of Study Group 14...",
-   "C++20 Concepts: The Base Classes of Generic Programming? or Not?",
-   "C++11/14/17 atomics and memory model...",
-   "Boost.Asio and Boost.Serialization: Design Patterns for Object Transmission",
-   "Advanced Levelization Techniques (part 2 of 3)",
-   "Driving Into the Future With Modern C++: A Look at Adaptive Autosar",
-   "Thinking Asynchronously: Designing Applications with Boost.Asio",
-   "Benchmarking C++, From video games to algorithmic trading",
-   "Contract Programming in C++(20) (part 1 of 2)",
-   "Contract Programming in C++(20) (part 2 of 2)",
-   "The Numerical Template Toolbox for High Performance Computing",
-   "The Optimization of a Boost.Asio-based Networking Server",
    "Taming Dynamic Memory - An Introduction to Custom Allocators",
-   "MPL11: A New Metaprogramming Library for C++11",
-   "Moving Boost to Git",
-   "Git, CMake, Conan: How to Ship and Reuse our C++ Projects",
-   "Implementing 'variant' visitation using lambdas",
-   "Dependency Injection - a 25-dollar term for a 5-cent concept",
-   "Faster than memcpy",
-   "Practical Performance Practices",
-   "How to Refactor Millions of Line of Code Without Alienating your Colleagues",
-   "Product Security, From the dark side to the light",
-   "Fun with C11 generic selection expression",
-   "Welcome Words",
-   "Simple, Extensible Pattern Matching in C++14",
-   "Multithreading is the answer. What is the question? (part 1 of 2)",
-   "Beyond C++17 (Part 2 of N)",
-   "Implementing a web game in C++14",
-   "How to initialize x from expression y",
-   "What is Open Source, and Why Should You Care?",
-   "How we switched to C++11 at SolidFire and how it worked out",
-   "Lifetime and Usage of Global, Thread-local, and Static Data",
-   "Haskell -- The Pseudocode Language for C++ Template Metaprogramming (Part 2)",
-   "Writing Libraries is Terrible",
-   "Sane and Safe C++ Classes",
-   "These Aren't the COM Objects You're Looking For",
-   "sqlpp11, An SQL Library Worthy Of Modern C++",
-   "Turning Particle-Astro-Physicist-Hackers into Software Engineers",
-   "Function default arguments: Slingshot or Shotgun?",
-   "Live Lock-Free or Deadlock (Practical Lock-free Programming) (PART 1)",
-   "Exceptions Under the Spotlight",
-   "Waltzing with Branches",
-   "Mobile App Development for Multiple Platforms with Visual C++,",
-   "UT - C++20 Unit Testing Framework",
-   "Building an Intuition for Composition",
-   "Dynamic, Recursive, Heterogeneous Types in Statically-Typed Languages",
-   "Analyzing Configuration of Cellular Networks at Nokia with (...)",
-   "Expect the Expected",
-   "What's new in Visual Studio IDE for C++ Developers",
-   "constexpr: C++ At Compile Time",
-   "One Friend Ain't Enough",
-   "C++20 String Formatting Library: An Overview and Use with Custom Types",
-   "Proper Inheritance",
-   "Designing Concurrent C++ Applications",
-   "Goals for Better Code - Implement Complete Types",
-   "Safe Software for Autonomous Mobility With Modern C++",
-   "The Life of a CPU Instruction",
-   "Jami on i.MX6: bring fully distributed & secure comm. capabilities to embedded products",
-   "Data-Oriented Design for Object-Oriented Programmers",
-   "Why you should (...) compiling your code into web assembly",
-   "C++20: What's in it for you?",
-   "Is this available?",
-   "The Landscape of Parallelism",
-   "Introduction to Modern C++ Techniques (Part II)",
-   "C++ in Space Plasma Model Development",
-   "Embrace No-Paradigm Programming!",
-   "C++20 Language Features for a new Library",
-   "Universal Function Call Syntax in C++20",
-   "Easy::Jit: A Just-in-Time compilation library for C++",
-   "Web | C++' SLIDES FIXED",
-   "Strong types for strong interfaces",
-   "Finding Nemo, or Evolution of a for Loop",
-   "A thorough look into spatial mapping with HoloLens",
-   "ThinLTO: Scalable and Incremental Link-Time Optimization",
-   "Postmodern Immutable Data Structures",
-   "Refactor your codebase with Clang tooling",
-   "Introduction to Undodb",
-   "Breaking Dependencies: The SOLID Principles",
-   "C++11/14 at Scale: What Have We Learned?",
-   "C++ on GPUs done right?",
-   "Infiltrating a Code Base: Moving Toward a Better C",
-   "Collaborative C++ Development with Visual Studio Code",
-   "The core C++ guidelines for safer Code",
-   "Socializing with {fmt}",
-   "Lock-Free Programming (or, Juggling Razor Blades), Part II",
-   "Compile-time 'reparsing'",
-   "The State of Package Management in C++",
-   "What a View! Building Your Own (Lazy) Range Adaptors (part 2 of 2)",
-   "What's New In The C++14 Library",
-   "Debugging and Profiling C++ Template Metaprograms",
-   "The C++20 Synchronization Library",
+   "interview with Marius Bancila",
+   "Boostache Exposed : the internals of Boost's template engine",
+   "The Shape of a Program",
+   "Fortransformers: A Field Study",
+   "'Controlling Overload Resolution with SFINAE' (Lightning Talk)",
    "generic-programming-with-concepts",
-   "Type Traits - what are they and why should I use them?",
-   "Good FIFOs Make Good Thread Neighbors",
-   "Sorting in less than O(n log n): Generalizing and optimizing radix sort",
-   "Removing Undefined behavior from integer operations: The bounded::integer library",
-   "Practical SIMD acceleration with Boost.SIMD",
+   "Parallel Computing Visualization",
+   "The Quiet Little Gem in Modern C++: <system_error>",
+   "Back to Basics: Concurrency",
+   "Mach7: The Design and Evolution of a Pattern Matching Library for C++",
+   "An inspiring introduction to template metaprogramming",
+   "C++ Function Templates: How Do They Really Work?",
+   "The beast is becoming functional",
+   "Better CTAD for C++20",
+   "The missing piece of the continuous integration puzzle",
+   "Towards contract programming in C++",
+   "What are FPGAs and How Do They Work",
+   "Proper Inheritance",
+   "Taming dynamic memory - An introduction to custom allocators in C++",
+   "Can I change my organisation?",
+   "Understanding U-Boot Falcon Mode and adding support for new boards",
+   "WebAssembly for non-beginners",
+   "Migrating a C++03 library to C++11 case study: Wt 4",
+   "Intel® Graphics Technology for general purpose computing",
+   "Dynamic Polymorphism with Metaclasses and Code Injection",
+   "Elsewhere Memory (C++20 Abstract Machine) + Virtual Memory",
+   "A Deep Dive into 2 Cross-Platform Mobile Apps Written in C++",
+   "WebThings : Your IoT with privacy by design",
+   "string_view",
+   "Back To Basics: Lambda Expressions",
+   "Don't package your libraries, write packagable libraries!",
+   "More Modern CMake",
+   "Associative containers - Jean Guegant",
+   "Visualize Template Instantiations - Understand your Template Bugs",
+   "Practical Type Erasure: A boost::any Based Configuration Framework",
+   "Captioning and Translating C++ Videos- Part 2 of 2",
+   "Objects? No Thanks!",
+   "Dealing with function failures in C++",
+   "C++17 in Breadth (part 2 of 2)",
+   "Diving into a large, legacy code::base as a youngster",
+   "'The Static Initialization Order Fiasco' (Virtual)",
+   "Concepts vs Typeclasses vs Traits vs Protocols",
+   "C++ on GPUs done right?",
+   "No raw loops with no OS",
+   "Designing C++ portable SIMD support",
+   "Continuous Integration of C/C++ Apps for IoT Devices",
+   "Secure boot in embedded Linux systems",
+   "A New Open Source Virtual File System - running on Windows in User mode!",
+   "C/C++ vs Security!",
+   "Boostache",
+   "Make It Fixable: Preparing for Security Vulnerability Reports",
+   "Memory Tagging and how it improves C/C++ memory safety",
+   "Disambiguation: The Black Technology",
+   "C++ ecosystem: For better, for worse",
+   "hop: A Language to Design Function-Overload-Sets",
+   "a small tool to browse your backtraces",
+   "Rainbow Six Siege: Quest for Performance",
+   "Functional Design Explained",
+   "C++ on the Web: Ponies for developers without pwn'ing users",
+   "Modern C++ Design reloaded",
+   "JavaScript from C++ developer perspective",
+   "SYCL building blocks for C++ libraries",
+   "C++11's Quiet Little Gem: <system_error>",
+   "Simple, Extensible Pattern Matching in C++14",
+   "Automatic Hybrid MPI+OpenMP Code Generation",
+   "Back to Basics: Class Layout",
+   "Building and Extending the Iterator Hierarchy in a Modern, Multicore World",
+   "The Ethics of Software - some practical considerations",
+   "Generic programming of Generic Spaces: Compile-Time Geometric Algebra with C++11",
+   "Combining Modern C++ and Lua",
+   "Design for Cost VS Cost of Design",
+   "C++ is like Javascript",
+   "Testdriven C++ with Catch",
+   "Now What? A vignette in three parts",
+   "On C++, Javascript and WebSockets",
+   "Value Semantics: It ain't about the syntax!, Part II",
+   "Colonies, performance and why you should care",
+   "An Overview of the Linux and Userspace Graphics Stack",
+   "Live Compiler Development with Cross-Platform Tooling",
+   "Volatile none of the things",
+   "Applied Hierarchical Reuse: Capitalizing on Bloomberg's Foundation Libraries",
+   "Introducing the Ranges TS",
+   "CMake + Conan: 3 Years Later",
+   "Just-in-Time Compilation: The Next Big Thing?",
+   "Higher-order functions and 'function_ref",
+   "Easy to Use, Hard to Misuse: Declarative Style in C++",
+   "C++ Development with Visual Studio Code",
+   "Taming dynamic memory",
+   "Simulating the Universe Using Modern C++",
+   "Secure Coding Best Practices: Your First Line Is The Last Line Of Defense (1 of 2)",
+   "Enum to string using metaprogramming - Daniel Gavrila",
+   "Developing EDSL's for Boost.Spirit",
+   "Cache Optimized Hash Tables",
+   "constexpr ALL the things!",
+   "'Quickly & Effectively Testing Legacy C++ Code with Approval Tests' (Virtual)",
+   "Effective Code Review",
+   "Boost.Process: Process management in C++",
+   "Functional Programming for the Web with Elm",
+   "GPU processing of V4L2 live video on NVIDIA Jetson with CUDA",
+   "Getting Allocators out of Our Way",
+   "Decomposing a Problem for Parallel Execution",
+   "Writing Good C++14... By Default",
+   "Why C++0x is the Awesomest Language for Network Programming",
+   "Building microservices with Rust",
+   "Comfort Zone",
+   "Memory mapped storage",
+   "await 2.0: Stackless Resumable Functions",
+   "Template Magic For Beginners",
+   "Stop Teaching C",
+   "Rethinking Pointers",
+   "Functional Programming: data",
+   "Return Values Take A Closure Walk",
+   "Macchina a Stati Finiti con il Functor Pattern",
+   "Introducing RTEMS, a serious real-time OS",
+   "Inference in C++: The big picture",
+   "Random numbers are hard - Andreas Weis",
+   "Infiltrating a Code Base: Moving Toward a Better C",
+   "Better Code",
+   "C++ on the Edge – Machine Learning + Microcontrollers + C++",
+   "Benchmarking C++ Code",
+   "Template Metaprogramming: Type Traits (part 1 of 2)",
+   "C++20 Coroutines: Introduction",
+   "How eSIM can help industrialisation",
+   "Naked coroutines live (with networking)",
+   "Building Modules",
+   "How to pass (my) candidate screening",
+   "Design Patterns for Handling/Reporting Errors in C++ - Parallel Algorithms & Executors",
+   "Practical (?) Applications of Reflection",
+   "High Performance Graphics and Text Rendering on the GPU",
+   "Implementing 'static' control flow in C++14",
+   "Generators, Coroutines and Other Brain Unrolling Sweetness",
+   "SSD lifetime, data integrity and real-time: compromises and lessons learned",
+   "Go Get Better (Go Programming Language)",
+   "Learn Robotics with C++ in 1 Hour",
+   "A Tutorial Introduction to C++11 & 14 Part 1",
+   "Hello World from Scratch",
+   "C++ Concepts",
+   "Rethinking Strings",
+   "De-fragmenting C++: Making exceptions more affordable and usable",
+   "The Surprising Costs of void() (and Other Not-Quite-Innocuous Evils)",
+   "What boost could learn from QT",
+   "An Overview of Program Optimization Techniques",
+   "The C++20 firehose talk",
+   "Back to Basics: Templates (part 2 of 2)",
+   "Software Engineering Is About Tradeoffs",
+   "Refactoring Superpowers: Make Your C++ IDE Do Your Work, Faster and More Safely",
+   "Introduction to C++ python extensions and embedding Python in C++ Apps",
+   "'Scaling development of a large C++ project: Chromium' (Part 1)",
+   "Modern embedded APIs...",
+   "Linux dynamic library versioning",
+   "What C++ is and what it will become",
+   "Modern C++ as Concurrent Assembly",
+   "Optimally Shooting Furry Balls out of Vulkanoes",
+   "Atomic's memory orders, what for?",
+   "Simple hand written parsers",
+   "A Discussion of Selected Vienna-Libraries for Computational Science",
+   "Mastering the IoT with C++ and JavaScript",
+   "Cryptography for Programmers",
+   "Hello World From Scratch",
+   "Boost.Graph for Beginners",
+   "Introduction to Modern C++ Techniques (Part II)",
+   "There Are No Zero-cost Abstractions",
+   "Modern Design Patterns with Modern C++",
+   "Exploring C++17 and Beyond",
+   "std::allocator...",
+   "Generalized Full Duplex Messaging",
+   "My Little *this Deduction: Friendship is ... Uniform?",
+   "Asynchronous Computation in C++",
+   "A Framework for RAD Spirit",
+   "Big Projects, and CMake, and Git, Oh My!",
    "A Multi-threaded, Transaction-Based Locking Strategy for Containers",
-   "An Introduction to C++20's Concepts",
-   "How to Apply Engineering Practices to Embedded Software Development",
-   "An Asio Based Flash XML Server",
-   "My Little Optimizer: Undefined Behavior is Magic",
-   "Faster Delivery of Large C/C++ Projects with...",
-   "What I Wish They Told Me - Part 1 of 2",
-   "Sanitize your C++ code",
-   "Computer Architecture, C++, and High Performance",
-   "The Science of Unit Tests",
-   "Embedded rust on the beagleboard X15",
-   "Code Samples That Compile Even More Easily",
-   "What Could Possibly Go Wrong?: A Tale of Expectations and Exceptions",
+   "No lightsaber is needed to break the Wookey",
+   "The next big Thing",
+   "The Complete Guide to 'return x;'",
+   "Algorithm Design For Values Distributed In Time",
+   "105 STL Algorithms in Less Than an Hour",
+   "Return Value Optimization: Harder Than It Looks",
+   "From Iterators To Ranges - The Upcoming Evolution Of the Standard Library",
+   "Designing XML API for Modern C++",
+   "Common-sense acceleration of your MLOC build",
+   "From embedded Linux boat sensors to the cloud, a data journey",
+   "'The Construction and Use of C++ Algorithms' (Virtual)",
+   "Compile Time Regular Expressions with A Deterministic Finite Automaton",
+   "Simplest Strong Typing instead of Language Proposal ( P0109 )",
+   "A Multithreaded,Transaction-Based Locking Strategy for Containers",
+   "Boost.Units",
+   "The memory model in C++",
+   "EDSL Infinity Wars: Mainstreaming Symbolic Computation",
+   "The Clacks in Discworld and Roundworld",
+   "DynaMix: A New Take on Polymorphism",
+   "Modern C++ tips & trics",
+   "Tacit DSL All the Things",
+   "Support for Embedded Programming in C++11 and C++14",
+   "Modules are coming",
+   "Reactive Stream Processing in Industrial IoT using DDS and Rx.cpp",
+   "C++20: the small things",
+   "Concurrent Code - Test It! - How?",
+   "Boost.Asio and Boost.Serialization: Design Patterns for Object Transmission",
+   "Agent-based class design - a step towards betters customizations points",
+   "Functions Want To Be Free",
+   "Calling Functions",
+   "The Woos and Woes of Open-Source FPGA-Tools: A journey",
+   "The Mathematical Underpinnings of Promises in C++",
+   "Practical C++11: What I Learned Adding C++11 Support to ODB",
    "Making C++ easier, faster and safer (part 1)",
-   "The hidden rules of world-class C++ code",
+   "Who includes me?",
+   "Making C++ and the STL Work in the Linux / Windows Kernels",
+   "Game Audio Programming in C++",
+   "Range Algorithms, Views and Actions: A Comprehensive Guide",
+   "functional: What's New, And Proper Usage",
+   "The C++ Execution Model",
+   "who the f**k is eric? by odin and the nerds",
+   "C++17 - The Best Features",
+   "What about lambdas",
+   "A Test of Strength",
+   "The Committee Experience",
+   "Bringing clang-tidy magic to Visual Studio C++ Developers",
+   "Practical Cross-Platform Mobile C++ Development",
+   "Come Stream with Me",
+   "Doxygen to DoxyPress...",
+   "How to Refactor Millions of Line of Code Without Alienating your Colleagues",
+   "Writing A Python Interpreter for Fun & Profit",
+   "The Untapped Potential of Software Visualization",
+   "Getting customized runtime hardware details at compile-time for (...)",
+   "An Agile (hi)story",
+   "Serialization in C++ has never been easier! But wait, there's more",
+   "Using VV = merge_t(std::variant, std::vector);",
+   "What's new in Visual Studio Code for C++ development",
+   "Practical TMP: A C++17 Compile Time Register Machine",
+   "The fantastic four coding patterns of Continuous Delivery",
+   "Named Arguments from Scratch",
+   "Production use of Boost.Test",
+   "Contract use: Past, Present, and Future",
+   "Refactoring C++ with Clang",
+   "Product types for C++20?",
+   "Reactive Equations",
+   "Monotron - a 1980s style home computer written in Rust",
+   "test_resource: the pmr detective",
+   "Generic Parallel Programming",
+   "Design Patterns in the 21st Century",
+   "Dragging C++ into the Modern era",
+   "Concepts driven design",
+   "Parallelizing the C++ Standard Template Library",
+   "Monolithic Delivery",
+   "Avoiding Disasters with Strongly Typed C++",
+   "Demystifying Floating Point",
+   "Macro-Free Testing With C++20",
+   "High-Radix Concurrent C++",
+   "Writing robust code",
+   "Python as C++'s limiting case",
+   "How to make your data structures wait-free for reads",
+   "Lock-free by Example: Towards an Interesting Lock-free MPMC Queue",
+   "Selected C++11 Template Toffees From sqlpp11 (Part3)",
+   "Improving Performance Through Compiler Switches...",
+   "AI: Actual Intelligence",
+   "Modules are Coming",
+   "Mocking Frameworks considered harmful",
+   "Lifetime analysis for everyone",
+   "interview with speakers",
+   "Fun with Type Erasure: Implementing a Value Wrapper for Polymorphic Types",
+   "'My Least Favorite Anti-Pattern' (Virtual)",
+   "Bridging Languages Cross-Platform...",
+   "Spirit: History and Evolution",
+   "Microsoft w/ C++ to Deliver Office Across Different Platforms, Part II",
+   "Object-Oriented Program: Best Practices",
+   "Allocator-Aware (AA) Software",
+   "Testing the Limits of Allocator Awareness",
+   "Racing The File System",
+   "The Problem with 'Cutting Edge C++",
+   "The One-Decade Task: Putting std::atomic in CUDA.",
+   "Introduction to Qt 3D",
+   "Clang Static Analysis",
+   "Contract Programming in C++(20) (part 1 of 2)",
+   "How Python Wins New Friends",
+   "Why I should run my applications in containers (or, at least, consider doing it)?",
    "Is Boost Broken?",
-   "What the committee did next!",
-   "Project managing in Data Science teams",
-   "Containers in Boost",
-   "Co- and Contra-: Adding a Little Variance",
+   "Standardised Coroutine Concurrency in Python 3",
+   "Postcards from the Cross-platform Frontier",
+   "A little order",
+   "Using C++20 Ranges Effectively",
+   "Lock-Free Programming (or, Juggling Razor Blades), Part II",
+   "Yomm11: Open Multi-Methods for C++11",
+   "Cross-Platform Mobile App Development with Visual C++",
+   "C++ 20 Overview: The Big Four",
+   "Lockfree Programming Part 2: Data Structures",
+   "All the defaults are backwards - Phil Nash",
+   "Optimizing the Emergent Structures of C++",
+   "ThinLTO Whole Program Optimization",
+   "Transducers: from Clojure to C++",
+   "Scaling with C++11",
+   "Structure and Interpretation of Test Cases",
+   "Type to string conversions, and vice-versa",
+   "Functional Data Structures in C++",
+   "Adventures In Updating A Legacy Codebase",
+   "OPC UA, La norme d'interoperabilite securisee pour l'Industrie 4.0 et l'IoT",
+   "constexpr: Applications",
+   "Augmented reality dev journey",
+   "Dynamic C++",
+   "Developing C++ @ Facebook scale",
+   "C++ Cryptozoology - A Compendium of Cryptic Characters",
+   "The Seniority Trap",
+   "Surveying the Community - What Could Possibly Go Wrong",
+   "If You're Happy and You Know It (Inside the Mind of a Developer)",
+   "Using Trompeloeil, a mocking framework for modern C++",
+   "Better C++ using Machine Learning on Large Projects",
+   "C++ Modules: The State of The Union",
+   "Undefined Behavior in C++: What is it, and why do you care?",
+   "Classes With Many Fields",
+   "array_ref: Multidimensional Array References for the C++ Standard Library",
+   "Declarative Control Flow",
+   "Generic Programming",
+   "A system for resource deadlock prevention using intrusive dynamic analysis",
+   "Introduction to Undodb",
+   "Tuning C++: Benchmarks, and CPUs, and Compilers! Oh My!",
+   "IoT. Building machine vision system...",
+   "'Calling Functions: A Tutorial' (Virtual)",
+   "Speeding up code with C++17 Polymorphic Memory Resources",
+   "boost.tmp: your DSL for Metaprogramming",
+   "Competitive Advantage with D",
+   "Pruning Error Messages From C++ Template Code",
+   "Statistical scientific programming OO patterns: accumulators",
+   "The Nightmare of Initialization in C++",
+   "Behind the Scenes of a C++ Build System",
+   "C++20: What's in it for you?",
+   "Lambdas from First Principles: A Whirlwind Tour of C++",
+   "Go for DevOps, Go for microservices, and what Go is (...)",
+   "Two new C++ libraries for atmospheric research",
+   "Back to the future",
+   "C++ Code Smells",
+   "Work Stealing",
+   "UI prototyping and development for multiple devices in C++",
+   "Modern C++ in Embedded Systems - The Saga Continues",
+   "Parsing C++ with GCC plugins",
+   "What's New In The C++14 Library",
+   "Faster Complex Numbers",
+   "Compile Fast, Run Faster, Scale Forever: A Look into the sol2 Lua Library",
+   "I have to make a confession - Simon Renger",
+   "Web | C++' (different) VIDEO AVAILABLE WITH IN SYNC SLIDES",
+   "C++11/14/17 atomics and memory model...",
+   "What's new in Visual Studio IDE for C++ Developers",
+   "Keep it Small",
+   "Rich Code for Tiny Computers: A Simple Commodore 64 Game in C++17",
+   "Small is beautiful: Techniques to minimise memory footprint",
+   "Seeing the bigger picture part II",
+   "C++20: The small things",
+   "A C++ MQTT Message Broker for the Enterprise",
+   "Software Transaction Memory, For Reals",
+   "AsyncIO and Music",
+   "Building a Tech Community in the East from (almost) Nothing",
+   "Elegant Filesystem Interactions in Python using pathlib",
+   "Boost Your Program's Health by Adding Fibers to your Coroutine",
+   "Embedded Systems 101",
+   "Details Matter",
+   "Docker Based C++ Dependency and Build Management",
+   "Lessons Learned Developing the C++11 Standard Library",
+   "A trusted trip in the cloud - working with trusted hardware (...)",
+   "Consistent architecture diagrams for C++ projects",
+   "When Should You Give Two Things the Same Name?",
+   "An Introduction to the Proposed Coroutine Support for C++",
+   "Cross-platform C++ development is challenging - let tools help!",
+   "Good FIFOs Make Good Thread Neighbors",
+   "Phoenix V3 -- An Overview",
+   "Objection! A language lawyer story",
+   "Writing Good C++14",
+   "The Fiber Library",
+   "Large-Scale C++: Advanced Levelization Techniques, Part I",
+   "Undefined Behavior and Compiler Optimizations",
+   "Pimpl idiom, multiple Inheritance and facet pattern",
+   "Monads in Chains",
    "There Is A Better Future",
-   "my favorite C++ feature  - Meeting C++",
-   "Naming is Hard: Let's Do Better",
-   "AST Construction with the Universal Tree",
+   "std::optional and the m word",
+   "Coroutine TS a new way of thinking",
+   "#Hashing ( Hashing Values )",
+   "C++ Programming for the Heap-Deprived",
+   "Applied WebAssembly: Compiling and Running C++ in Your Web Browser",
+   "Redux Architecture",
+   "Test Driven C++ with Catch",
+   "Modern techniques for keeping your code DRY",
+   "Go: Concurrency Design",
+   "C++ Puzzlers",
+   "Esoteric Data Structures and Where to Find Them",
+   "BDE Libraries, An Orientation",
+   "Answering a Question From My Talk...",
+   "C++ Atomics...",
+   "Enhancing STL containers",
+   "Impostor Syndrome",
+   "Is Parallel Programming still hard? PART 2 of 2",
    "If I Had My 'Druthers: A Proposal for Improving the Containers in C++2x",
-   "Introduction to Vector Parallelism",
-   "Fastbuild",
-   "Coroutines, Fibers and Threads, Oh My",
-   "Using Compile-time Code Generation to build an LLVM IR Pattern Matcher",
-   "Ranges v3 and microcontrollers, a revolution",
-   "Neural networks interactively - right in your browser!",
+   "The View from a Standard Library Implementor",
+   "A Physical Units Library For the Next C++",
+   "Reader-Writer Lock versus Mutex",
+   "Compile-Time/Run-Time Functional Programming in C++",
+   "Matchine: Pattern Matching for Open Sum Types",
+   "Turning Particle-Astro-Physicist-Hackers into Software Engineers",
+   "A Quantum Data Structure For Classical Computers",
+   "Implementing A Modern C++ MQTT Client for Embedded Devices",
+   "Words of Wisdom",
+   "Introduction to C++ Coroutines",
+   "10 Techniques to Understand Existing Code",
+   "STL Algorithms - How to Use Them and How to Write Your Own",
+   "How C++20 changes the way we write code",
+   "Functional Programming in C++",
+   "Status quo: clang-tidy & AddressSanitizer on Windows",
+   "Threading dos and don'ts",
+   "extern c: Talking to C Programmers about C++",
+   "Contract Programming in C++(20) (part 2 of 2)",
+   "Programming with Contracts in C++20",
+   "Fastware",
+   "5 Things I figured out while ...   2017",
+   "Fast Conversion From UTF-8 with C++, DFAs, and SSE Intrinsics",
+   "Hate yourself? Keep using Python 2",
+   "Rethinking the Way We Do Templates in C++ even more",
+   "The CPU Cache: Instruction Re-Ordering Made Obvious",
+   "Boost.Dispatch -- Generalized Tag Dispatching Infrastructure Library",
+   "How to Design C++ Implementations of Complex Combinatorial Algorithms",
    "Ai4Prod: the ecosystem to bring AI in production through C++",
-   "The 'Detection idiom:' A Better Way to SFINAE",
-   "Where C++17 is going",
-   "Types Don't Know #",
-   "Structured logging",
-   "Boost.TMP: Your DSL for Metaprogramming",
-   "Next Generation Debugging",
-   "What I Talk About When I Talk About Cross Platform Development",
+   "The Networking TS from Scratch: I/O Objects",
+   "Back to Basics: Move Semantics (part 1 of 2)",
+   "C++20 STL Features: One Year of Development on GitHub",
+   "Meta Monads",
+   "Async... oh, wait",
+   "Phantastic Code Smells and where to find them",
+   "Back to Basics: Design Patterns",
+   "Adventures in SIMD-Thinking (part 2 of 2)",
+   "What I Wish They Told Me - Part 2 of 2",
+   "The Hitchhiker's Guide to Faster Builds - Part 1 of 2",
+   "Reflection in C++ Next",
+   "Pessimistic Programming",
+   "Character Encodings Hate Us All",
+   "Heterogeneous Programming in C++ with SYCL 2020",
+   "AAAARGH!? Adopting Almost Always Auto Reinforces Good Habits!?",
+   "An Approach to Dealing with Reference Types in the Generic Programming Paradigm",
+   "Fantastic Algorithms and Where To Find Them",
+   "Functional Reactive Programming - Cleanly Abstracted Interactivity",
+   "Virtual assembly for web application",
+   "The Future of C++ Parallel and Concurrency Safety Guidelines",
+   "Choosing the Right Integer Types in C and C++",
+   "ODB, an ORM for C++(11)",
+   "Beyond C++17 (Part 2 of N)",
+   "When dependency hell freezes over",
+   "Open is Good - yomm2: Fast, Orthogonal Open Methods",
+   "The stand up",
+   "Abseil's Open Source Hashtables: 2 Years In",
+   "Expression Templates Everywhere with C++14 and Yap",
+   "FPGA and open hardware",
+   "Techniques in Flexible Header-Only C++ Network Library Implementations",
+   "Pointless Pointers - How to make our interfaces efficient?",
+   "Comma Chameleon",
+   "Customization points that suck less",
+   "The Evolution of C++ Past, Present and Future",
+   "Lock-free programming with modern C++",
+   "Formatting floating-point numbers",
+   "Lessons Learned From An Embedded RTPS in Modern C++",
+   "Comunicazione real-time con WebRTC in C++",
+   "The Audacity of Chapel: Scalable Parallel Programming Done Right",
+   "Expression Templates for Efficient, Generic Finance Code",
+   "Using the Groovy Ecosystem for Rapid Development on the JVM",
+   "Selected C++11 Template Toffees From sqlpp11 (Part1)",
+   "Call: A Library that Will Change the Way You Think about Function Invocations (1 of 2)",
+   "From nothing to too much: growing a tech community in the East of England",
+   "Hands-On With Abseil",
+   "An Alternate Smart Pointer Hierarchy",
+   "Conan, a C and C++ package manager for developers",
+   "The C++ ABI From the Ground Up",
+   "Refactor your codebase with Clang tooling",
+   "Designing OSTree based embedded Linux systems",
+   "Machine Learning with Python Case Study",
+   "Latest and Greatest from the Visual Studio Family for C++ Developers",
+   "MPark.Patterns: Pattern Matching in C++",
+   "Frictionless Allocators",
+   "Welcome (Marco Arena) +  'WARNING: std::find is broken'",
+   "Multiplatform C++",
+   "STL Algorithms as Expressions",
+   "Writing Fast Code II",
+   "GPU programming with modern C++",
+   "Future of communications...",
+   "Preconditions, postconditions, invariants - how they (...)",
+   "Modern C++ Design (part 2 of 2)",
+   "Intro to Rust",
+   "Variadic and Variable Templates in C++14",
+   "Breaking Dependencies: The SOLID Principles",
+   "interview with Rafi Wiener ::  Question",
+   "Boost Units Library for Correct Code",
+   "It's Complicated",
+   "Developing Blockchain Software",
+   "Two practical applications of the Brigand TMP library",
+   "Designing A Feature That Doesn't Fit",
+   "Striving for ultimate low latency",
+   "Oo Considered Harmful",
+   "Co- and Contra-: Adding a Little Variance",
+   "A lock-free concurrent toolkit for hazard pointers",
+   "DevOps is not only for IT players!",
+   "I Just Wanted a Random Integer!",
+   "Rapid Prototyping in C++",
+   "Undefined behaviour is awesome!",
+   "Networking TS Workshop (part 2 of 2)",
+   "Embedded: Customizing Dynamic Memory Management in C++",
+   "Property-Based Declarative Containers",
+   "Go forth with C++ - Jacek Sandomierz",
+   "The C++20 Standard Library: Beyond Ranges",
+   "Red teaming in Poland - test cases",
+   "Data oriented design in practice",
+   "Introduction to gRPC",
+   "An alternative design for C++20 customization points",
+   "Thread-safe Observer Pattern - You're doing it wrong",
+   "Structure aware fuzzing",
+   "Zephyr, retour d'experience sur une des fondation de Stimio SDK",
+   "The C++20 Firehose Talk",
+   "Consistent Comparison in C++20",
+   "Exceptions Demystified",
+   "Linux User/Kernel ABI: the realities of how C and C++ programs really talk to the OS",
+   "Using Compile-time Code Generation to build an LLVM IR Pattern Matcher",
+   "Integrating Docker containers in Yocto",
+   "An Overview of Transport Layer Security (TLS) Protocol Version 1.3",
+   "The Concepts of concepts",
+   "How to Herd 1,000 Libraries",
+   "constexpr: Introduction",
+   "Data-oriented design in practice",
+   "Non-Allocating std::future/promise",
+   "These two ints have different types. A Data Oriented Design story",
+   "C++ Coroutines: Under the covers",
+   "Back to Basics: Understanding Value Categories",
+   "Compile time regular expressions",
+   "LLVM: A Modern, Open C++ Toolchain",
+   "Points of Order",
+   "C++ Committee's Library Evolution Working Group",
+   "Initialisation in modern C++",
+   "Nbdl: A library that uses metaprogramming... A lot",
+   "boost.tmp: Your DSL for Metaprogramming - Part 1 of 2",
+   "Resilience patterns in practice",
+   "Microsoft w/ C++ to Deliver Office Across Different Platforms, Part I",
+   "Goals for Better Code - Implement Complete Types",
+   "'The Abilities of Good Code' (Lightning Talk)",
+   "New standards to the rescue: the view through an IDE's glasses",
+   "Source Instrumentation for Monitoring C++ in Production",
+   "How we reason about procedural programs",
+   "C++20 Coroutines: Asynchronity reimagined",
+   "Back to Basics: Templates (part 1 of 2)",
+   "Should I care about CPU cache?",
+   "C++20 Concepts: The Base Classes of Generic Programming? or Not?",
+   "Practical SIMD acceleration with Boost.SIMD",
+   "Lessons Learned",
+   "Plenary: The Beauty and Power of 'Primitive' C++",
+   "Alchemical Code Rejuvenation",
+   "Identifying Monoids: Exploiting Compositional Structure in Code",
+   "GNU/Linux ou Android comme système d'exploitation embarque ?",
+   "C++: Fast and Small - What are the Costs of Language Features",
+   "A look at C++ through the glasses of a language tool",
+   "Understanding Boost.Build",
+   "Designing (New) C++ Hardware",
+   "Generic Conversion & Segmentation for Ranges: A Solution for Unicode",
+   "On 'simple' Optimizations",
+   "Structure and Interpretation of Computer Programs: SICP",
+   "Asynchronous, yet readable, code",
+   "C++: lambda Demystified",
+   "An easy to use RPC framework implemented in C++11/14",
+   "Weak Interfaces -> Weak Defences: The Bane of Implicit Conversion in Function Calls",
+   "Making Games Start Fast: A Story About Concurrency",
+   "Ryppl -- A New Platform for Boost Development",
+   "Executors in C++",
+   "MicroEJ, un environnement virtualise pour l'embarque",
+   "C++20 - My Favourite Code Examples",
+   "Better mutual exclusion on the filesystem using Boost.AFIO",
+   "Debugging with LLVM XRay",
+   "Thread-safe and Thread-neutral Bags",
+   "Why you should (...) compiling your code into web assembly",
+   "C++, Abstract Algebra and Practical Applications",
+   "Back to Basics: Virtual Dispatch and its Alternatives",
+   "The Quest For A Better Crash",
+   "The Point of Views: Multidimensional Ranges for HPC",
+   "Cross-Platform Pitfalls and How to Avoid Them",
+   "Snakes Into Snake Oil - What Blockchains Are And Why They're Terrible",
+   "C++ programming in a parallel world @ CppEurope 2020",
+   "Dynamic, Recursive, Heterogeneous Types in Statically-Typed Languages",
+   "The Optimization of a Boost.Asio-based Networking Server",
+   "A thorough look into spatial mapping with HoloLens",
+   "Fuzz or lose...",
+   "Unicode Strings: Why the Implementation Matters",
+   "C++ in Space Plasma Model Development",
+   "Trusting your Raspberry Pi - An introduction to the TPM and IoT",
+   "Sphinx won't bite you! Documenting Python code",
+   "Concept Based Testing",
+   "The Design of a New C++ Build Toolchain",
+   "Lambdas - uses and abuses",
+   "HTTP 2 - The feature of www",
+   "Oh The Humanity!",
+   "Effective Qt",
+   "Speed Is Found In The Minds of People",
+   "Recent developments and future outlook of Qt",
+   "Embarcadero Case Study: Bringing CLANG/LLVM To Windows",
+   "Templator: Demo of a nice tool...",
+   "The Projucer: Live coding with C++ and the LLVM JIT engine",
+   "C++: Engineers Wanted, Programmers not so Much",
+   "The Tragedy of the value based architecture",
+   "RaftLib: Simpler Parallel Programming",
+   "C++ Insights: How stuff works, Lambdas and more!",
+   "Lightweight Object Persistence With Relocatable Heaps in Modern C++",
+   "Executors for C++ - A Long Story ...",
+   "How to Evolve Your Way Out of a Paper Bag",
+   "Asynchronous Programming in Modern C++",
+   "Exception-Safe Coding in C++ (Part I)",
+   "What the committee did next!",
+   "Introduction to Vector Parallelism",
+   "Web | C++' SLIDES FIXED",
+   "How to Write a Heap Memory Profiler",
+   "The case for Vendored Builds",
+   "So, you inherited a large code base...",
+   "Understanding value categories in C++",
+   "A Practical Approach to Error Handling",
+   "Introduction from co-organizers",
+   "C++ Concepts for ill-posed Inverse-Problems - David Frank",
+   "Ownership model in C++ and beyond",
+   "Motivated reasoning",
+   "Fresh Paint",
+   "Making Sense Of Microservices",
+   "Exceptional Performance",
+   "C++ Test-driven Development",
+   "Boost.Geometry: an introduction to geographic computation",
+   "C++ Mixins: Customization Through Compile Time Composition",
+   "Pragmatic Unit Testing in C++",
+   "Back to Basics: The Structure of a Program",
+   "Taking the Plunge Towards CMake in Boost",
+   "Machine Learning for a rescue",
+   "Clean(er) Code for Large Scale Legacy Applications",
+   "C++ Past vs. Future",
+   "Beyond C++17",
+   "Are you Open enough to Innovate? ;)",
+   "Retour d'experience sur l'IoT: cas concret dans la location de materiel de TP",
+   "Embedded Domain Specific Languages for Embedded Bare Metal Projects",
+   "The ongoing design and evolution of cyber-dojo",
+   "Beyond Sanitizers...",
+   "Customization Points That Suck Less",
+   "C++ Metaprogramming: evolution and future direction",
+   "Effective Practices for Engineering Teams",
+   "Introduction to C++ AMP (GPGPU Computing)",
+   "C/C++ Memory Model",
+   "Things not to do in Python",
+   "C++ SIMD parallelism with Intel Cilk Plus and OpenMP 4.0",
+   "Local (Arena) Memory Allocators Part 1",
+   "Advanced Levelization Techniques (part 1 of 3)",
+   "Techniques for mocking in C++",
+   "An inspiring introduction into Template Meta Programming",
    "Wishful Thinking",
+   "Surveying the C++ Community",
+   "A Test a Day Keeps Your Manager Away!",
+   "Introduction to Bazel to build C++ and Python",
+   "How to understand million-line C++ projects",
+   "noexcept considered harmful ???",
+   "C++ ecosystem: the renaissance edition",
+   "The life-changing magic of tidying up",
+   "Rolling Your Own Circuit Simulator",
+   "This Videogame Programmer Used the STL and You Will Never Guess What Happened Next",
+   "Emotional Code",
+   "Lock-free by Example",
+   "tuple<>: What's New and How it Works",
+   "Numerical Weather Prediction: Facing the Future with C++",
+   "Creating Boost.Asio extensions",
+   "C++11 was only the beginning",
+   "An Interesting Lock-free Queue - Part 2 of N",
+   "Test Driven C++",
+   "Using Boost.Coroutine to untangle a state machine",
+   "Postmodern C++",
+   "Structured bindings uncovered",
+   "Strong types for strong interfaces",
+   "Getting Jiggy with Proto - Hands-on Tutorial on C++ EDSL Design",
+   "The Story of Villagers, Marbles and Oh, A Blockchain",
+   "Quickly testing legacy code",
+   "A First Look at Proto-0x",
+   "Windows, MacOS and Web: Lessons from Cross-platform Development @ think-cell",
+   "The MLIR Framework: A Brief Introduction to Deep Learning Compilers",
+   "Selected C++11 Template Toffees From sqlpp11 (Part4)",
+   "Embrace No-Paradigm Programming!",
+   "Where C++17 is going",
+   "Threads and Locks must Go",
+   "Agent based class design",
+   "ConceptClang: Theoretical Advances with Full C++ Concepts",
+   "Everyday Efficiency: In-Place Construction (Back to Basics?)",
+   "Multithreading is the answer. What is the question? (part 2 of 2)",
+   "Datum: A Compact Bitwise Copyable Variant Type",
+   "Writing a reflection engine from scratch",
+   "An Overview of Standard Ranges",
+   "Modern C++ Testing with Catch2",
+   "Building Better Worlds: Developing a Procedural City Tool for Alien...",
+   "Implementing 'variant' visitation using lambdas",
+   "C++11 Multithreading done right?",
+   "Regex in C++11 and Boost",
+   "Reducing OS noise using offload driver",
+   "Coroutines and C++ DSLs for Human Scale Concurrency",
+   "Mocking Framworks considered, harmful?!",
+   "Embind and Emscripten: Blending C++11, JavaScript, and the Web Browser",
+   "clang-useful: Building useful tools with LLVM and clang for fun and profit",
+   "Beware of C++17",
+   "Obfuscation and beyond: securing your binary",
+   "Exception-Safe Code, Part III",
+   "#include <os>: from bootloader to REST API with the new C++",
+   "C++17 key features",
+   "How to Write Well-Behaved Value Wrappers",
+   "Cross-Platform Apps with Dropbox's Djinni...",
+   "Iron Man vs Pony",
+   "Algorithm Intuition (part 1 of 2)",
+   "SOLID, Revisited",
+   "The Static Initialization Order Fiasco",
+   "Generative Programming in Action: Emulating the 3DS",
+   "Concepts: The Future of Generic Programming (the future is here)",
+   "Modules in C++",
+   "Boost.Asio and Boost.Serialization, Part II",
+   "My Least Favorite Anti-Pattern",
+   "Introduction to brigand",
+   "The most important API design principle",
+   "Lightning Strikes!",
+   "Lesson to Learn   2017",
+   "Ranges v3 and microcontrollers, a revolution",
+   "Expression Templates - Past, Present, Future (PART 1)",
+   "The Networking TS in Practice: Patterns for Real World Problems",
+   "When you hit 'Error: memory is not aligned.'",
+   "Alices adventures in Template Land",
+   "Hierarchy of C++ needs - Boris Schaling",
+   "Generic Binding",
+   "A Letter to My Descendents",
+   "Embedded Android in real life",
+   "Low-Latency Trading: Micro-Optimisations and the Impact of Compliers",
+   "Founding C++ User Groups",
+   "The Badlands of C++: Professional Game Development",
+   "Biicode, a C/C++ dependency manager with a hosting service",
+   "What I Talk about When I Talk about Cross Platform Development",
+   "The need for a package manager interface",
+   "Meta Polymorphism",
+   "A Simple GUI Programming Setup for Beginners",
+   "Things I learned from the static analyzer",
+   "Pipes: How Plumbing Can Make Your C++ Code More Expressive",
+   "C++ Dependency Management the Meson Way",
+   "Thinking in coroutines",
+   "Plenary: Performance Matters",
+   "Practical Techniques for Improving C++ Build Times",
+   "The Set of Natural Code",
+   "Kotlin/Native - Embracing existing ecosystems",
+   "Making Allocators Work, Part II",
+   "What belongs in the C++ Standard Library",
+   "Metaparse -- Compile-time parsing with template metaprogramming",
+   "Toward Native XML Processing Using Multi-paradigm Design in C++",
+   "Representing Memory Mapped Devices as Objects",
+   "Text Formatting For a Future Range-Based Standard Library",
+   "10 years of Poco C++ Libraries",
+   "SECURYZR LIGHT   The solution to fit with the design-for-security methodology",
+   "Eye tracking in code reviews",
+   "Exploring C++17 and beyond",
+   "Be your own Threatbuster!",
+   "How to answer 'why will yours succeed, when X, Y, and Z have failed?'",
+   "Why algebraic data types are important",
+   "List",
+   "Typing types at type level - Matthis Kruse",
+   "A Retrospective from My Perspective",
+   "cppreference.com: documenting C++ one edit at a time",
+   "Three years of Rust - A look around",
+   "Seven Languages in 90 Minutes",
+   "What is Telco Cloud",
+   "Spectre: Secrets, Side-Channels, Sandboxes, and Security",
+   "Asynchronous Programming Using the Boost.MetaStateMachine and the Upcoming Asynchrnonous Library",
+   "The art of keeping your project from falling apart",
+   "Latest & Greatest in Visual Studio for C++ developers",
+   "Fishbowl  - Working on Large Code Bases",
+   "Abstraction by the rule of 10 - Guy Davidson",
+   "StringViews, StringViews everywhere!",
+   "and , the View From Inside",
+   "Compile-time reflection, Serialization and ORM",
+   "lemniscate C++++++...",
+   "PMRs for performance in C++17/20",
+   "Faster Delivery of Large C/C++ Projects with...",
+   "'EMF4CPP Generating Ecore Models for C++' (C++ Lightning Talk)",
+   "C++ atomics, from basic to advanced.  What do they really do?",
+   "Executors: The Art of Generating Composable APIs",
+   "Building conversational voice bots - lessons learned",
+   "The Proposed Boost B-tree Library",
+   "Leveraging the range based for loop",
+   "Multithreading 101: Concurrency Primitives From Scratch",
+   "C++ based mobile application",
+   "C++20 Coroutines: Generators, and Brain Unrolling Sweetness",
+   "Neural networks interactively - right in your browser!",
+   "C++ Multi-dimensional Arrays...",
+   "Beware of C++",
+   "Improving Readability With Class Template Argument Deduction",
+   "aa-scan3 - an AppArmor profiles generator",
+   "Is Parallel Programming still hard? PART 1 of 2",
+   "How Kotlin makes your Java code better",
+   "A Little Order: Delving into the STL sorting algorithms",
+   "Local (arena) Memory Allocators",
+   "Hacker's guide to Rust Programming",
+   "Rcpp: Seamless R and C++ Integration",
+   "Here's my number; call me, maybe. Callbacks in a multithreaded world",
+   "C++ Modules",
+   "Form an Israeli C++ National Body",
+   "Reducing Memory Allocations in a Large C++ Application",
+   "The MAME story: From C to Modern C++",
+   "On the road to a trusted boot chain on STM32MP1 series",
+   "Object-relational mapping with ODB and Boost",
+   "Safe and Sane C++ Types",
+   "Adventures in SIMD-Thinking",
+   "Refactoring Superpowers",
+   "C++ metaprogramming: a paradigm shift",
+   "Almost Unlimited Modern C++ in Kernel-Mode Applications",
+   "Using Spirit X3, Part I",
+   "Distributed Mutual Exclusion using Proposed Boost.AFIO",
+   "JSR-385: Learning from the $125 Million Mars Climate Orbiter Mistake",
+   "ConceptClang: An Implementation Model for C++ Concepts",
+   "Concurrency TS Editor's Report",
+   "Meta: Thoughts on generative C++",
+   "Lifetime and Usage of Global, Thread-local, and Static Data",
+   "The Continuing Saga of the Lock-free Queue: Part 3 of N",
+   "Why and How To Add Scripting",
+   "Using C++ to Connect to Web Services",
+   "Oh No! More Modern CMake",
+   "Eye tracking / reading",
+   "10 Core Guidelines You Need to Start Using Now",
+   "C++ and Memory: Between Correctness and Performance",
+   "C++20: All the small things",
+   "interview with Klaus Iglberger",
+   "Which Machine Am I Coding To?",
+   "The evolving search for modern APIs in Boost",
+   "Back to Basics: Test-driven Development",
+   "Functional C++ for Fun and Profit",
+   "How to: Colony",
+   "(Ab)using C++17",
+   "Microcontrollers in Micro-increments A Test-driven C++ Workflow",
+   "How to call C libraries from C++",
+   "Welcome +  Let's Move-The Hidden Features and Traps of C++ Move Semantics",
+   "C++ as Assembly 2.0 - Hello Nim",
+   "The fastest template metaprogramming in the West",
+   "A story about vectorisation and compiler bug report",
+   "Functional programming in C++",
+   "Free your functions!",
+   "Goodbye metaprogramming, and hello functional",
+   "A variant of recursive decent parsing",
+   "Introduction to Azure Sphere",
+   "Audio in standard C++' -",
+   "dynamic_cast From Scratch",
+   "How to Teach C++ and Influence a Generation",
+   "Birth of Study Group 14...",
+   "Update on C++ Core Guidelines Lifetime Analysis",
+   "The performance Addict's Toolbox",
+   "How C++20 Changes the Way We Write Code",
+   "Hook: The C++ library you were waiting for",
+   "Empirically Measuring, & Reducing, C++'s Accidental Complexity",
+   "Option(al) Is Not a Failure",
+   "Qt event loop, networking and I/O API",
+   "C++0x Progress and Status",
+   "Deep Learning with C++",
+   "The Dawn of a new Error",
+   "The Forgotten Art of Structured Programming",
+   "Numerical Differentiation ++",
+   "Project managing in Data Science teams",
+   "SW compatibility, plan it or face eventual consequences",
+   "Using Concepts: C++ Design in a Concept World (part 1 of 2)",
+   "Solving World Problems with Fusion",
+   "Navigating the development and evolution of a library",
+   "Sane and Safe C++ Class Types",
+   "Design Journeys with Skoot, a Peer Oriented Generic Networking Library",
+   "constexpr: C++ At Compile Time",
+   "The Incredible Shrinking Standard",
+   "Don't do what I did",
+   "I just wanted to point to something!",
+   "Qt as a C++ Framework: History, Present State and Future",
+   "Tales of C, the 6502 and the BBC (with added python)",
+   "Black-box performance analysis",
+   "Modern C++ Interfaces...",
+   "C++ Standard Library",
+   "What a View! Building Your Own (Lazy) Range Adaptors (part 1 of 2)",
+   "MPL11: A New Metaprogramming Library for C++11",
+   "Hardening Your Code",
+   "C++ Metaprogramming: Journey from simple to insanity and back",
+   "A Whirlwind Overview of C++11",
+   "Boost.Compute: A library for GPU/parallel computing",
+   "Structured Bindings demystified",
+   "C++20 Lambdas: Familiar Template Syntax",
+   "Delivering software that is secure & usable - who's job is it?",
+   "Lambda? You Keep Using that Letter",
+   "Diversity and Inclusion   2017",
+   "Class Template Argument Deduction in C++17",
+   "C++ Templates Revised",
+   "Let's make a telegram bot with C++",
+   "OO Considered Harmful",
+   "Device Tree: hardware description for everybody!",
+   "Pimp my Log()",
+   "Range-based text formatting",
+   "Towards Heterogeneous Programming in C++",
+   "The Many Variants of std::variant",
+   "History of Time: Asynchronous C++",
+   "Threads and Shared Variables in C++0x",
+   "What I Wish They Told Me - Part 1 of 2",
+   "Effective dependency management with CMake",
+   "Time Programming Fundamentals",
+   "C++20 String Formatting Library: An Overview and Use with Custom Types",
+   "Boosting MPL with Haskell elements",
+   "Security vulnerability tracking tools in Buildroot",
+   "Asynchronous IO with Boost.Asio",
+   "From STL to Ranges: Using Ranges Effectively",
+   "Benchmarking in C++",
+   "C++17 : The Biggest Traps",
+   "Correct by Construction: APIs That Are Easy to Use and Hard to Misuse",
+   "Grill the Committee",
+   "Refactoring hacked",
+   "Thinking outside the synchronisation quadrant",
+   "Maintainability and Refactoring Impact of Higher-Level Design Features",
+   "C++ is NOT a Hammer",
+   "Back to Basics: Move Semantics",
+   "Emulating the Nintendo 3DS: Generative & Declarative Programming in Action",
+   "How to build architecture of your system",
+   "Turtles! Hill climbing! Hammers! Paper bags!",
+   "HPX: A C++11 parallel runtime system",
+   "A Tutorial Introduction to C++11/14 - Part II",
+   "The Rough Road Towards Upgrading to C++ Modules",
+   "Multithreading is the answer. What is the question? (part 1 of 2)",
+   "Implementing C++ Semantics in Python",
+   "Developing an embedded application for the IoT",
+   "Ranges and Iterators for numerical problems",
+   "OpenMP for better high-level parallelism, not just for High Performance Computing",
+   "Async sequences and algorithms to compose them",
+   "Parallel Programming using Charm++",
+   "API & ABI versioning",
+   "Clean Integral Code",
+   "What Has My Compiler Done for Me Lately? Unbolting the Compiler's Lid",
+   "Promises in C++: The Universal Glue for Asynchronous Programs",
+   "Improving Sense of Smell Low-Level Debugging",
+   "Making Your Library More Reliable with Fuzzing",
+   "Higher Order Functions for ordinary developers",
+   "ThinLTO: Scalable and Incremental Link-Time Optimization",
+   "Freestanding C++ - Past, Present, and Future",
+   "Architecture is (not) everything",
+   "How to test static_assert?",
+   "Programming utilities for Unix-like systems in Python",
+   "The Dawn Of A New Error",
+   "Mocking C++",
+   "These 10 tricks that only library implementors know!",
+   "Design Rationale for the chrono Library",
+   "Embedded Linux 'from scratch' in 45 minutes... on Risc-V",
+   "Time Travel: Applying Gradual Typing to Time Types with Clang's LibTooling",
+   "Proper Inheritance (part 2 of 2)",
+   "Role of Product Manager",
+   "Bringing Business Logic Back to C++",
+   "Arguments over Arguments",
+   "Asynchronous C++ Programming",
+   "Leak-Freedom in C++... By Default.",
+   "Game engine using STD C++ 11",
+   "High Performance Code 201: Hybrid Data Structures",
+   "A lock-free concurrency toolkit for deferred reclamation and optimistic speculation",
+   "A Relaxed Guide to memory_order_relaxed",
+   "C++17, is it great or just OK...",
+   "C++ Community Surveys",
+   "Calling Functions: A Tutorial",
+   "Clang Automated Refactoring for everyone with clangmetatool",
+   "Expression Templates: Past, Present, Future (PART 2)",
+   "Read, Copy, Update, then what? RCU for non-kernel programmers",
+   "New Build System for New C++",
+   "The C++20 Standard Library - Beyond Ranges",
+   "Integrating generators EDSL's for Spirit X3 (WIP)",
+   "The C++ Type System Is Your Friend",
+   "Gamgee: A C++14 library for genomics data processing and analysis",
+   "Crafting EDSL In C++ using Metaprogramming, Operator Overloading, & Lambda Expressions",
+   "Writing Node.js/Electron native C++ addons for beginners",
+   "Machine learning and image processing",
+   "Distributed applications are easy. Just read the fine print",
+   "Fun with (user-defined) attributes",
+   "Survey of Multi-Threaded Programming Support in C++11 and Boost",
+   "Exhuming 'Castlequest'",
+   "Exception-Safe Code, Part I",
+   "Coroutines, Fibers and Threads, Oh My",
+   "Collaborative C++ Development with Visual Studio Code",
+   "Rethinking Exceptions",
+   "Design Patterns for Hardware Packet Processing on FPGAs",
+   "A generic binary tree: why grow your own?",
+   "Drinking from the Fire Hose: Keeping up with the evolving landscape of C++",
+   "Some Programming Myths Revisited",
+   "Expertise Research in Software Engineering C/C++ Code Reviews",
+   "Ranges for distributed and asynchronous systems",
+   "Common Webapp Vulnerabilities and What to Do About Them",
+   "Designing for Efficient Cache Usage",
+   "Accept No Visitors",
+   "Using build2, C++ Build Toolchain",
+   "A linear algebra library for C++23",
+   "Making Testing C++ Binaries Practical @ Facebook Scale: A CI Story",
+   "std::launder",
+   "C++ and Persistent Memory Technologies, Like Intel's 3D-XPoint",
+   "Naivety of Creating Cross-Platform, Modern C++ Libraries...",
+   "What Else Has My Compiler Done For Me Lately?",
+   "map[Code, Performance] myMCU{?}",
+   "Efficiency with Algorithms, Performance with Data Structures",
+   "Modern Software Needs Embedded Modern C++ Programming",
+   "Requirement: Creativity",
+   "How C++20 Can Simplify std::tuple",
+   "Real time 101",
+   "Higher-order functions and function_ref",
+   "The Hidden Secrets of Move Semantics",
+   "What Programmers Should Know About Memory Allocation",
+   "Always generate all your serialization code",
+   "Pruning Error Messages From Your C++ Template Code",
+   "Constant Fun",
+   "Logic Paradigm for C++",
+   "Using Types Effectively",
+   "'Mostly Invalid': flat_map, Exception Guarantees, and the STL",
+   "fixed_point",
+   "Software Engineer in the Machine Learning world",
+   "Data-Oriented Design for Object-Oriented Programmers",
+   "Fun with Tuples",
+   "Algorithms from a Compiler Developer's Toolbox",
+   "Teaching old compilers new tricks",
+   "Thriving in a crowded and changing world: C++ 2006-2020",
+   "Lightweight 2D graphics with io2d",
+   "Automatic C++ source code generation with clang",
+   "Safe Numerics",
+   "Hunting the mammoth in the modern age",
+   "Words Of Power",
+   "Unicode in C++",
+   "Coroutines - the future of future (and more)",
+   "ADL: introduction in name taxonomy, customization points and use cases",
+   "Mobile App Development for Multiple Platforms with Visual C++,",
+   "Code review",
+   "Dependency management in C++",
+   "The New Old Thing, of Fun with Lambdas",
+   "interview with Alex Bolboaca",
+   "A modern formatting library for C++",
+   "Call: A Library that Will Change the Way You Think about Function Invocations (2 of 2)",
+   "Implementing tuple in C++17",
+   "Save $$ Testing Code the Playback-Based Way",
+   "How to make Augmented Reality with Qt/QML and OpenCV ?",
+   "An Overview on Encryption in C++",
+   "Modernizing Legacy C++ Code",
+   "Faster Code Through Parallelism on CPUs and GPUs",
+   "Generic programming for structure-aware algorithms",
+   "A Tour of Deep Learning With C++",
+   "Software development - learning to walk again",
+   "The Life of a CPU Instruction",
+   "Why and How we fixed std::thread by std::jthread",
+   "C++ Concepts 'Lite' in Practice",
+   "Parallel Design Patterns and Stream Parallelism",
+   "The Detection Idiom - a simpler way to SFINAE",
+   "'Property Bindings in C++11' (Lightning Talk)",
+   "Enhanced Support for Value Semantics in C++17",
+   "Compiler Explorer: Behind The Scenes",
+   "Secure Coding Best Practices: Your First Line Is The Last Line Of Defense (2 of 2)",
+   "JavaScript can get faster, WebAssembly can get even faster",
+   "Converting to C++20 Modules",
+   "A Unifying Abstraction for Async in C++",
+   "Utilize your CPU power",
+   "Multitype Pool: fixed type allocation",
+   "C++ Today: The Beast is Back",
+   "Hypercritical C++ Code Review",
+   "Writing a cache-friendly C++ code",
+   "Big Data Analytics in Telecommunication",
+   "Emscripten and asm.js: C++'s role in the modern web",
+   "When Paradigms Collide",
+   "Rethinking the Way We Do Templates in C++",
+   "DNS at 30",
+   "Our first game using UE4 and C++",
+   "Tools from the C++ Ecosystem to save a leg",
+   "Is your Agile agile?",
+   "A short story about...",
+   "Video Rendering on Frontend and Backend",
+   "From Algorithm to Generic, Parallel Code",
+   "Compile-time 'reparsing'",
+   "Variadic expansion in examples",
+   "Parallelizing the Standard Algorithms Library",
+   "Agile the hard(ware) way",
+   "Learn Programming, then Learn how to Be a Programmer",
+   "Runtime Polymorphism: Back to the Basics",
+   "Eoliennes Connectees",
+   "C++20 in Breadth",
+   "CMake: One Tool To Build Them All",
+   "Effective Qt ( edition)",
+   "Template meta-programming: Why you must get it",
+   "QtCreator",
+   "My Four Year Bug",
+   "Metaprogramming for the brave",
+   "C++11 Library Design",
+   "Parsing C++",
+   "The Hitchhiker's Guide to Faster Builds",
+   "folly::Function: A Non-copyable Alternative to std::function",
+   "A refresher on the floating-point computations and the standard library.",
+   "C++ STL best and worst performance features and how to learn from them",
+   "An Overview of C++11/14, Part I",
+   "Range-Based Text Formatting - For a Future Range-Based Standard Library",
+   "Small Lie in Big O",
+   "Functional reactive programming in C++",
+   "Procedural Programming: It's Back? It Never Went Away",
+   "Agent Based Class Design",
+   "Type-safe state machines with C++17 std::variant",
+   "C++ Constants",
+   "Zero-allocation & no type erasure futures",
+   "The Blaze High Performance Math Library",
+   "Implementing MOF based Modeling Languages with C++ and Qt",
+   "A quick view into a compiler",
+   "Ustring -- A Modern Alternative to std::string",
+   "Declarative thinking, declarative practice",
+   "Extending C++ with Co-Array semantics",
+   "hardware aided computing",
+   "What Do We Mean When We Say Nothing At All?",
+   "Taming the performance Beast",
+   "C++ in Open Source Robotics",
+   "Game Engine API Design",
+   "Better C++14 reflections",
+   "Class Template Argument Deduction: A New Abstraction",
+   "Thin LTO",
+   "Understanding and mastering C++'s complexities",
+   "Back to Basics: Exception Handling and Exception Safety",
+   "Bayesian Computation for Deep Learning in Modern C++",
+   "Stdfwd - Forward Declarations for C++ Standard Library",
+   "Why don't the cool kids like OOP? - Jon Kalb",
+   "Option(al) is not a failure",
+   "Experimental comparison...",
+   "Fun with Boost.Hana",
+   "Preconditions, Postconditions, Invariants: How They Help Write Robust Programs",
+   "Reader-Writer Lock versus Mutex - Understanding a Lost Bet",
+   "Distributed parametric optimization with the Geneva library",
+   "Modern C++ testing with Catch2",
+   "Extrema:  Correctly Calculating min and max",
+   "All the Default's Are Backwards",
+   "C++11: New Tools for Class and Library Authors",
+   "Local ('arena') memory allocator",
+   "Data Structure Visualizers in Visual Studio 2010",
+   "C++ vs C the embedded perspective",
+   "Debug C++ Without Running",
+   "Costless Software Abstractions for Parallel Architectures",
+   "Programming with C++ Constraints: Background, Utility, and Gotchas",
+   "Let's Move",
+   "Parallelism in Modern C++",
+   "CUDA Kernels with C++",
+   "'Black Box Optimization of Compile Times' (C++ Lightning Talk)",
+   "Parallelism on Ranges: Should We?",
+   "Secure C++ Programming",
+   "Programming with C++ Modules: Guide for the Working",
+   "Creating Debian-Based Embedded Systems using Debos",
+   "the 6th event",
+   "Low Latency GPGPU - Matheus Vitti Santos",
+   "Is this available?",
+   "Don't constexpr All the Things",
+   "Secure Coding Best Practices",
+   "The Asynchronous C++ Parallel Programming Model",
+   "Make your programs more reliable with Fuzzing",
+   "Introducing Parallelism to the Ranges TS",
+   "Better Code: Concurrency",
+   "Quick Game Development with C++11 / C++14",
+   "Combined Short Talks",
+   "Better Tools in Your Clang Toolbox",
+   "Argot: Simplifying Variants, Tuples, and Futures",
+   "Universal Function Call Syntax in C++20",
+   "What C++ Programmers Need to Know about Header <random>",
+   "A Zephyr Overview of C++11 (Part I)",
+   "Three Cool Things about D",
+   "Monitoring: Turning Noise into Signal",
+   "Running Zephyr and Linux on the same SoC: making both worlds live together !",
+   "Advanced Levelization Techniques (part 2 of 3)",
+   "Don't Try This at Work -- Low Level Threading with C++11",
+   "GoLand Tips & Tricks",
+   "Assertions of Competence",
+   "Taskflow: A Heterogeneous Task Graph Programming System with Control Flow",
+   "Value semantics: It ain't about the syntax!",
+   "interview with Augustin Popa & Elizabeth Morrow",
+   "Interactive C++ in a Jupyter Notebook Using Modules for Incremental Compilation",
+   "Moving Faster: Everyday Efficiency in Modern C++",
+   "Partially-formed Objects for fun and profit",
+   "What Do You Mean?",
+   "Rise of the State Machines",
+   "TDD/BDD and DI",
+   "Bringing Clang-tidy Magic to Visual Studio C++ Developers",
+   "Simplest Safe Integers",
+   "When a Microsecond Is an Eternity: High Performance Trading Systems in C++",
+   "yet another paradigm shift (yaps) -- (A Meta4 model of concurrency)",
+   "Haskell -- The Pseudocode Language for C++ Template Metaprogramming (Part 1)",
+   "WG21-SG14: The Story So Far",
+   "Modern CMake for modular design",
+   "Why iterators got it all wrong",
+   "TMI on UDLs: Mechanics, Uses, and Abuses of User-Defined Literals",
+   "Examining applications that do not terminate on std::bad_alloc",
+   "Time Travel Debugging...",
+   "Meet the Authors",
+   "A new look at TMP",
+   "Diving into SWUpdate: adding new platform support with Yocto/OE",
+   "Local ('Arena') Memory Allocators (part 2 of 2)",
+   "Networking TS Workshop (part 1 of 2)",
+   "What's New in Visual C++ 2015 and Future Directions",
+   "Why in heaven is there no dependency management for C++?",
+   "Refactoring C++ legacy code through pure functions @ CppEurope 2020",
+   "A <chrono> Tutorial",
+   "When C++ Style Guides Contradict",
+   "Thoughts on a more powerful and simpler C++ (5 of N)",
+   "Writing Standard Library Compliant Data Structures and Algorithms",
+   "Seeing the bigger picture -- part I",
+   "Managarm: A Fully Asynchronous OS Based on Modern C++",
+   "C++ Use in High Performance Computing Within DOE: Past and Future",
+   "Pattern Matching: A Sneak Peek",
+   "How to do practical Data Science? From real-world examples (...)",
+   "Conjuguer modèles ouverts et propriete intellectuelle dans l'embarque",
+   "(...) How to work effectively being remote",
+   "Plenary: Neighborhoods Banding Together: Reasoning Globally about Programs",
+   "Iterators and Ranges: Comparing C++ to D to Rust",
+   "The Distributed Version Control Revolution",
+   "Parametric Expressions: A Proposed Language Feature",
+   "Concepts and Contracts: When, What, and How",
+   "Making Iterators, Views and Containers Easier to Write with Boost.STLInterfaces",
+   "HPX: A C++ Runtime System For Parallel And Distributed Computing",
+   "We've Always Been at War with East Constia",
+   "my favorite C++ feature  - Meeting C++",
+   "(R)evolution of C++",
+   "Practical Patterns with the Networking TS",
+   "Implementing a Modern C++ MQTT Client for Embedded Devices",
+   "The Jai Programming Language and What Can We Learn From It",
+   "constrain yourself",
+   "Finding hard to find bugs with Address Sanitizer",
+   "The Numerical Template Toolbox for High Performance Computing",
+   "Mastering the Cell Broadband Engine via a Boost-based library",
+   "Fuzzing Class Interfaces for Generating and Running Tests with libFuzzer",
+   "SPMD Programming Using C++ and ISPC",
+   "How to get rid of Obsession?",
+   "Object-Oriented Programming in Modern C++",
+   "What happened to...: Deprecated and Removed Features of C++",
+   "Argument Passing, Core Guidelines, and Aliasing",
+   "Constructing Generic Algorithms: Principles and Practice",
+   "Impact on maintainability and refactoring for higher-level design features",
+   "Crazy Code, Crazy Coders",
+   "sqlpp11, An SQL Library Worthy Of Modern C++",
+   "The Worst Best Practices",
+   "Semantic Sugar: Tips for Effective Template Library APIs",
+   "Creating intuitive APIs",
+   "How We Used To Be",
+   "The cell as a computer: Turing complete and massively parallel",
+   "Modern C++ Safety and Security At 20",
+   "An allocator model for std2",
+   "Building Software Capital: How to write the highest quality code and why",
+   "Preprocessor-aware Automated Refactoring",
+   "The Anatomy of an Exploit",
+   "Deeply Embedded C++",
+   "C++ as a 'Live at Head' Language",
+   "Thinking Outside the Synchronisation Quadrant",
+   "C++14 version of Boost.MSM-eUML",
+   "What is a Good Code",
+   "Concepts, Type Traits and Specialization",
+   "Hey C, This Is What Performance Looks like",
+   "Inside Spirit X3: Redesigning Boost.Spirit for C++11",
+   "Woes of Scope Guards and Unique_Resource - 5+ years in the making",
+   "C++ Catastrophes: A Poem",
+   "The strange details of std::string at Facebook",
+   "There is a new future",
+   "The taming of the Software: C++, embedded... and more",
+   "Building a C++ Reflection System",
+   "How bad is meta-programming still today?",
+   "Effective Remote C++ Development with Codespaces",
+   "Anchored metadata",
+   "Dealing with Embedded Limitations",
+   "PipeWire: the new adaptable multimedia service, now ready for automotive",
+   "C++, QML and static reflection",
+   "Standardizing the Data Distribution Service (DDS) API for Modern C++",
+   "SG14 (the GameDev & low latency ISO C++ working group)",
+   "C++ for cross-platform VR",
+   "Command Line Parser Library   2017",
+   "The 'Detection idiom:' A Better Way to SFINAE",
+   "pinned_vector",
+   "Faces of undefined behavior",
+   "Clean code in Go",
+   "The life changing magic of tidying up - Tina Ulbrich",
+   "What is the basic interface?",
+   "Boost.Geometry takes on the globe",
+   "C++ Component Extensions for WinRT",
+   "Ladon -- A Distributed State-Machine Framework",
+   "Raising the abstraction level",
+   "Introduction to encryption for embedded Linux developers",
+   "Variadic Templates in C++11 / C++14 - An Introduction",
+   "Passwords. Are. Not. Hard!",
+   "Standardese",
+   "Best practices when accessing Big Data or any other data!",
+   "Counting Nanoseconds Microbenchmarking C++ Code",
+   "Introduction to Modern C++ Techniques (Part I)",
+   "C++20 Language Features for a new Library",
+   "Modern User Interfaces for C++",
+   "Automatic Task-based Code Generation for High Performance DSEL",
+   "interview with Manuel Benche",
+   "From security to performance to GPU programming...",
+   "Rust: Hack Without Fear!",
+   "AST Construction with the Universal Tree",
+   "C++11: High-Level Threading",
+   "Contract Programming: What, Why, and How?",
+   "Surfacing Composition",
+   "Modern Template Techniques",
+   "Instantiations Must Go!",
+   "Implementing a web game in C++14",
+   "Just-in-Time Compilation",
+   "interview with Clare Macrae",
+   "Secure by Design - Security Principles for the Working Architect",
+   "Understanding Optimizers: Helping the Compiler Help You",
+   "Efficient data aggregation with Fenwick trees",
+   "Back to Basics: Pointers and Memory",
+   "Reflection",
+   "boost::string_ref",
+   "Static Analysis and C++: More Than Lint",
+   "Code samples that actually compile",
+   "Les outils open source pour les FPGA",
+   "C++ on small micro controllers",
+   "C++ libraries for daily use @ CppEurope 2020",
+   "Interconnection security - SS7 and diameter",
+   "A Browse Through ES",
+   "Where do you want to put the comma?",
+   "Extending and Wrapping C and C++ with Python",
+   "Using weakly ordered C++ atomics correctly",
+   "A Short Life span For a Regular Mess",
+   "Modern Template Metaprogramming: A Compendium, Part I",
+   "Is std::function really the best we can do?",
+   "Using tasks to simplify concurrency in modern C++",
+   "Space adventures",
+   "Structured logging",
+   "The Exception Situation",
+   "What We've Learned From the C++ Community",
+   "Large-Scale Refactoring @ Google",
+   "How to use correctly the const qualifier?",
+   "Value Semantics and Concepts-based Polymorphism",
+   "We stopped teaching C",
+   "Your CPU is binary",
+   "The Research Software Engineer - a new career path in academia",
+   "Concurrency, Parallelism and Coroutines",
+   "Inside a static analyzer: type system",
+   "Meaningful casts",
+   "3 things they didn't tell you about Agile",
+   "Bitmaps! Or 'Images and Animations Without Linking External Libraries'",
+   "Creating an Incremental Architecture for your System",
+   "I'm falling in love with Globals",
+   "Value Semantics and Range Algorithms - Composability and Efficiency",
+   "Moving Boost to Git",
+   "How I learned to Stop Worrying and Love the C++ Type System",
+   "Going Multiplatform with Kotlin",
+   "Hacker's guide to Web Assembly",
+   "Building safe & Secure embedded systems by means of hypervisor approach",
+   "UEFI Applications With Modern C++",
+   "How to make a large C++-code base manageable",
+   "The Unexceptional Exceptions",
+   "Boost statechart visualisation - Antons Jelkins",
+   "50 shades of C++",
+   "The C++17 Parallel Algorithms Library and Beyond",
+   "Abusing Your Memory Model for Fun and Profit",
+   "The Speed Game: Automated Trading Systems in C++",
+   "How I Code and Why",
+   "Without Warning: Keeping the Noise Down in Legacy Code Builds",
+   "Value-oriented design in an object-oriented system",
+   "Pragmatic Type Erasure: Solving OOP Problems w/ Elegant Design Pattern",
+   "The C++ Memory Model",
+   "What do you mean by 'cache friendly'?",
+   "Value Semantics: Fast, Safe, and Correct by Default",
+   "Analyzing Configuration of Cellular Networks at Nokia with (...)",
+   "Embracing Standard C++ for the Windows Runtime",
+   "When Python Practices Go Wrong",
+   "Intro to TDD and BDD",
+   "Designing and Implementing a new Allocator model",
+   "Polymorphic Task   2017",
+   "Making C++ Code Beautiful",
+   "What is Open Source, and Why Should You Care?",
+   "C++ Dependency Management: from Package Consumption to Project Development",
+   "Writing Fast Code I",
+   "IIFE in C++ for Performance and Safety",
+   "C++20 Text Formatting",
+   "C++ Modules and Large-Scale Development",
+   "'How custom gdb commands help in C++ development' (Lightning Talk)",
+   "More GDB wizardry and 8 other essential Linux application debugging tools",
+   "Learning (and teaching) modern C++ - Challenges and Resources",
+   "Evolving array_view and string_view for safe C++ code",
+   "Ranges for the Standard Library",
+   "Compile-time tools supporting generic programming in C++",
+   "Debugging memory corruptions in C++",
+   "Undefined Behavior is Not an Error",
+   "Removing Metaprogramming From C++, Part 1 of N: constexpr Function Params",
+   "the asynchronous library",
+   "Would 'reserve'/'upgrade'/'downgrade' Methods Improve 'std::shared_mutex'?",
+   "Haxe: An understated powerhouse for software development",
+   "Destructor Case Studies: Best Practices for Safe and Efficient Teardown",
+   "retpoline",
+   "Regular Types and Why Do I Care ?",
+   "Design Patterns for Low-Level Real-Time Rendering",
+   "Are You Ready for IPv6?",
+   "Sane and Safe C++ Classes",
+   "Turning MQTT v5 inside out",
+   "Unwinding the Stack: Exploring How C++ Exceptions Work on Windows",
+   "Not Leaving Performance On The Jump Table",
+   "Cyclomatic Complexity pmccabe as a Refactor Aid",
+   "Writing cache friendly C++",
+   "boost.tmp: Your DSL for /*Metaprogramming*/ all the things",
+   "Typegrind - Type preserving heap profiler for C++",
+   "Data-arithmetic optimization of embedded applications",
+   "How bananas could save your project. Understanding UX",
+   "EOS Software development for additive manufacturing",
+   "Build for everyday programmers and why should they care",
+   "C++ Conferences",
+   "Time brings all things to pass",
+   "The worst feature of modern C++: default behaviour",
+   "These aren't the COM Objects you're looking for",
+   "Reflections: Compile-time Introspection of Source Code",
+   "Functional Programming - Technical reasons to adapt",
+   "Augmented Reality - The State of Play",
+   "The Smart Pointers I Wish I Had",
+   "Go: Optimizing For Correctness",
+   "C++ Modules & Large-Scale Development",
+   "Safe bool idiom",
+   "A Short Life span<> For a Regular Mess",
+   "You can run but you can't hide from it: Edge cloud is here, now!",
+   "Thinking outside of the framework",
+   "Algorithm Intuition (part 2 of 2)",
+   "What Could Possibly Go Wrong?: A Tale of Expectations and Exceptions",
+   "The many faces of Number -- String conversions",
+   "'Swizzling' (Lightning Talk)",
+   "Behind Enemy Lines - Reverse Engineering C++ in Modern Ages",
+   "Thinking Portable: How and why to make your C++ cross platform",
+   "Exceptional C++",
+   "Tailored static tooling using Clang: Clazy",
+   "Recreational C++",
+   "Product Types for C++2x",
+   "What does it mean to trust your boot process?",
+   "Composite Arithmetic Types Are > the + of Their Parts",
+   "std::shared_ptr/T/",
+   "Considerations for choosing the parallel computing strategy",
+   "Learning and Teaching Modern C++",
+   "Reflection Techniques in C++",
+   "How to Apply Engineering Practices to Embedded Software Development",
+   "C++ template metaprogramming, a practical approach",
+   "Regular Types and why do I care?",
+   "Modern C++ Design (part 1 of 2)",
+   "Seventeenification: Porting sqlpp11 to C++17",
+   "These Aren't the COM Objects You're Looking For",
+   "clang-tidy: write your own linting tool",
+   "Future C++1x proposals",
+   "179 range algorithms in less than an hour",
+   "Removing Undefined behavior from integer operations: The bounded::integer library",
+   "Enough x86 Assembly to Be Dangerous",
+   "Numbers",
+   "Writing a C++20 Module",
+   "Splash screen for Embedded Linux 101: How to customize your boot sequence",
+   "Extending clang-tidy in the Present and in the Future",
+   "Variable Templates and Compile-Time Computation with C++14",
+   "Writing better embedded Software",
+   "Fundamentals of Type-Dependent Code Reuse in C++",
+   "Welcome Words",
+   "It's DNS, Jim, but not as we know it",
+   "Overloading the Member Access Operator",
+   "DevOps transformation - It's not just an R&D thing",
+   "Intro &  LEE 2020",
+   "The Landscape and Exciting New Future of Safe Reclamation for High Performance",
+   "Dealing with aliasing using contracts",
+   "Back to Basics: Smart Pointers",
+   "Modern Template Metaprogramming: A Compendium, Part II",
+   "The Continuing Future of C++ Concurrency",
+   "Asynchronous IO Using Boost.Asio",
+   "Better embedded library interfaces with modern C++",
+   "Debugging Linux C++",
+   "It's People! Code is made out of people!",
+   "Yocto Cooker, a meta-buildtool for Yocto Project",
+   "Defensive Programming Done Right, Part II",
+   "Using Concepts: C++ Design in a Concept World (part 2 of 2)",
+   "Sanitize your C++ code",
+   "Taskflow: A Parallel and Heterogeneous Task Programming System Using Modern C++",
+   "Time Travel Debugging",
+   "Implementation of a multithreaded compile-time ECS in C++14",
+   "'An array of problems. An array of solutions' (Virtual)",
+   "Patterns and Techniques Used in the Houdini 3D Graphics Application",
+   "5G programmable world",
+   "TDD is not about testing - C++ version",
+   "What Everyone Should Know About How Amazing Compilers Are",
+   "What I Talk About When I Talk About Cross Platform Development",
+   "Value Semantics: It ain't about the syntax!, Part I",
+   "Engineering Software Integral Types",
+   "Practical Type Erasure",
+   "There is a Better Future",
+   "Reduce: From functional programming to C++17 Fold expressions",
+   "Interactive C++: Meet Jupyter / Cling",
+   "Defensive Programming Done Right, Part I",
+   "Type Punning in C++17: Avoiding Pun-defined Behavior",
+   "Helping Developers to Help Each Other",
+   "Lock-Free Programming (or, Juggling Razor Blades), Part I",
+   "Local (Arena) Allocators Part II",
+   "Value Semantics: It aint about the syntax!",
+   "C++ Tool Support: Where We Are and Where We Are Heading",
+   "The Best Type Traits that C++ Doesn't Have",
+   "Working on modular projects with Git",
+   "Simplicity: not just for beginners",
+   "Atomics, Locks, and Tasks (part 2 of 2)",
+   "Low Latency C++ for Fun and Profit",
+   "The Networking TS in Practice: Testable, Composable Asynchronous I/O in C++",
+   "Using Spirit X3 to Write Parsers",
+   "Less Code = More Software",
    "How Profile-Guided Optimization Makes Your Code Faster Without Any Code Changes",
-   "The Lifecycle of an A/B Test"
+   "'Simplicity Not Just for Beginners' (Part 1)",
+   "static_if in C++14",
+   "Programming in a different domain",
+   "Instruction Re-ordering Everywhere: The C++ 'As-If' Rule and the Role of Sequence",
+   "Standardizing a linear algebra library",
+   "Introduction to RAUC",
+   "The most valuable values",
+   "Template Normal Programming (part 2 of 2)",
+   "The Three Little Dots and the Big Bad Lambdas",
+   "Bringing the power of C++ to the web",
+   "Metaprogramming in C++",
+   "Better Algorithm Intuition",
+   "Selected C++11 Template Toffees From sqlpp11 (Part2)",
+   "Boosting knowledge sharing",
+   "The better parts",
+   "An introduction to Kotlin by example",
+   "Library Approaches for Strong Type Aliases",
+   "My Thoughts on Large Code Base Change Ripple Management in C++",
+   "Want fast C++? Know your hardware!",
+   "Designing Multithreaded Code for Scalability",
+   "Welcome To The Time Zone",
+   "The Science of Unit Tests",
+   "Low Level Threading with C++11",
+   "Contracts programming after C++17",
+   "What did I learn teaching C++ to beginners",
+   "10 Techniques to Understand Code You Don't Know",
+   "Fast numerical computation in C++: Expression Templates",
+   "Read and write considered harmful",
+   "Locally Atomic Capabilities and How to Count Them",
+   "Closing Message",
+   "Consistently Inconsistent",
+   "Cross Platform GUID Association with Types",
+   "yomm2: Fast, Orthogonal, Open Methods in a Library",
+   "Building IoT solutions using Contiki-NG and AWS",
+   "'Include C++' (C++ Lightning Talk)",
+   "What is an ABI and Why is Breaking it a Problem?",
+   "Site Reliability Engineering",
+   "Ensuring Exception Safety Through Testing",
+   "Making New Friends",
+   "C++ Coroutines - a negative overhead abstraction",
+   "The Perils of Strict Aliasing",
+   "Proper Inheritance (part 1 of 2)",
+   "Fancy Pointers for Fun and Profit",
+   "Making C++ easier, faster, safer (part 2)",
+   "Declarative Thinking, Declarative Practice",
+   "Modern C++ in Embedded Systems",
+   "Leveraging Modern C++ in Quantitative Finance",
+   "Socializing with {fmt}",
+   "From Iterators To Ranges - The Upcoming Evolution Of the Std Lib",
+   "Generic Programming in C++: A Real-World Example",
+   "Template Shenanigans",
+   "Containers in Boost",
+   "Practical Functional Programming in C++",
+   "Everything You Ever Wanted to Know about DLLs",
+   "Optimizing Embedded Hard Real-Time Code in C++",
+   "A vision for C++20, and std2 (part 3 of 3)",
+   "Teach Your Computer to Code FizzBuzz",
+   "De-fragmenting C++: Making Exceptions and RTTI More Affordable and Usable",
+   "Upgrade from 'permissive C++' to 'modern C++' with Visual Studio",
+   "Standardizing Linux Boot process for RISC-V platforms",
+   "Memory and C++ debugging at Electronic Arts",
+   "Fewer bugs",
+   "Polymorphism A La Carte",
+   "Frozen data structures in C++14",
+   "Comparison is not simple, but it can be simpler",
+   "Bluff your way in x64 assembler",
+   "Compile-time contract checking with nn",
+   "Improving Performance and Maintainability in Modern C++",
+   "Create your own Refactoring Tool in Clang",
+   "Is C++ really a highperformance language?",
+   "A deep dive into the Gilded Rose",
+   "FourCCs Done Right",
+   "Embrace No Paradigm Programming!",
+   "Template Normal Programming (part 1 of 2)",
+   "Anatomy of a Smart Pointer",
+   "Atomics, Locks, and Tasks (part 1 of 2)",
+   "Standard Slam",
+   "Git, CMake, Conan: How to Ship and Reuse our C++ Projects",
+   "Using Modern CMake Patterns to Enforce a Good Modular Design",
+   "C++ in Elvenland",
+   "Local ('Arena') Memory Allocators (part 1 of 2)",
+   "How to mock in the 21st century",
+   "Waltzing with Branches",
+   "Cloud Business Solution Increasing Supply Chain Profitability",
+   "Next generation unit testing using static reflection",
+   "C/C++ is very similar to Java/JavaScript",
+   "Leaving The Dark Side - Developing a C++ Based Medical Device",
+   "The evolving search for effective C++",
+   "Take your microservices to the next level with gRPC",
+   "How to manage your distributed electronic architecture?",
+   "C++20: C++ at 40",
+   "'Scaling development of a large C++ project: Chromium' (Part 2)",
+   "Practical Performance Practices",
+   "Interactive Metaprogramming Shell based on Clang",
+   "Interoperable AI: ONNX & ONNXRuntime in C++",
+   "When C++ wants to meet Java",
+   "Virtual assistants - our journey from extensive (...)",
+   "What You see",
+   "Using Spirit X3, Part II",
+   "A State of Compile Time Regular Expressions",
+   "Designing APIs for performance",
+   "The Holy Grail! A Hash Array Mapped Trie for C++",
+   "The Nightmare of Move Semantics for Trivial Classes",
+   "Sqlpp11, An EDSL For Type-Safe SQL In C++11",
+   "Expression Templates: Past, Present, Future (PART 3)",
+   "The C++20 Synchronization Library",
+   "Deconstructing the OS: The devil's In the side effects",
+   "Range-Based Text Formatting For a Future Range-Based Standard Library",
+   "Linear Algebra for the Standard C++ Library",
+   "Great C++ is_trivial",
+   "Faster than memcpy",
+   "Modules the beginner's guide",
+   "Programming in the Large With C++ 20",
+   "Asynchronous programming with ranges",
+   "Multi-Precision Arithmetic for Cryptology in C++, at Run-Time and at Compile-Time",
+   "GDB - A Lot More Than You Knew",
+   "Function default arguments: Slingshot or Shotgun?",
+   "Boundary Conditions",
+   "Bringing Clang and C++ to GPUs: An Open-Source, CUDA-Compatible GPU C++ Compiler",
+   "Back to Basics: Const as a Promise",
+   "CPU optimized data structures - more fun with assembler",
+   "Spectre",
+   "The Power of Reflection with Facebook's Thrift",
+   "C++17's std::pmr Comes With a Cost",
+   "The Implementation of Value Types",
+   "Diagnose your Golang App anytime anywhere!",
+   "Advanced Tools for Better Productivity",
+   "Initialization in modern C++",
+   "Naming is Hard: Let's Do Better",
+   "The Best Parts of C++",
+   "interview with The Silicon Valley coding  (Nicolo Valigi)",
+   "Sorting in less than O(n log n): Generalizing and optimizing radix sort",
+   "Basic Web Applications Security",
+   "What Belongs in the C++ Standard Library",
+   "Type punning in modern C++",
+   "True parallelism, with no concept of threads",
+   "Back to Basics: Exceptions",
+   "Developing C++ @ Facebook Scale",
+   "Another fundamental shift in Parallelism Paradigm?",
+   "Applying functional programming in code design",
+   "Simplicity: Not Just For Beginners",
+   "Concurrency in Rust",
+   "Value Proposition: Allocator-Aware (AA) Software",
+   "Dashboards to the Rescue",
+   "Safe Software for Autonomous Mobility With Modern C++",
+   "Variations on variants",
+   "A CTO's guide to Modern C++",
+   "CopperSpice: The Next Generation of Signals",
+   "Smart References: There and Back Again",
+   "So You Think You Know How to Work With Concepts?",
+   "Machine learning - when big data is not enough",
+   "Haskell taketh away: limiting side effects for parallel programming",
+   "Best Practices for Concurrency",
+   "Mongrel Monads, Dirty, Dirty, Dirty",
+   "Chandler Carruth - -style extended Q&A / AmA",
+   "Higher-order functions in Modern C++: existing techniques and function_ref",
+   "Generic Programming with Concepts Lite, Part I",
+   "An implementer's view of Boost.SIMD",
+   "C++: How I learned to stop worrying and love metaprogramming",
+   "Debugging using an exact recording of a program's execution",
+   "The C++ Reflection TS",
+   "No more coffee breaks - reducing C/C++ project compilation time",
+   "The Current State of (free) Static Analysis",
+   "'The Complete Guide to return x;' (Virtual)",
+   "Improve your C++ with inspirations from other languages",
+   "C++ Integer Promotion is Completely Broken",
+   "New C++ features for writing DSLs",
+   "How bad is Meta-Programming still today?",
+   "The hidden rules of world-class C++ code",
+   "Surprises in Object Lifetime",
+   "Concepts As She Is Spoke",
+   "Enforce Inform Ignore Assume - Gradual Adoption of Contracts In Production Code",
+   "Adventures in SIMD-Thinking (part 1 of 2)",
+   "Yocto is not (only) BitBake",
+   "From Iterators to Ranges: The Upcoming Evolution Of the STL",
+   "Boosting Libraries for TR2",
+   "Become A Game Developer In 5 Minutes Or Less",
+   "East const but constexpr West",
+   "std variant and the power of pattern matching",
+   "Beyond the Issaquah Challenge: High-Performance Scalable Complex Updates",
+   "C++ Package Manager",
+   "When warnings become errors. A case-study of latent bugs (...)",
+   "High Performance C++ Concurrent Transactional Data Structures",
+   "Pattern Matching: Match Me If You Can",
+   "Intel's C++ STM Compiler and Transactional Language Constructs for C++",
+   "My Little Optimizer: Undefined Behavior is Magic",
+   "Optimizing compilation times with Templates",
+   "Building finite-element matrix expressions with Boost Proto and the Eigen library",
+   "Multithreading is the answer. What was the question? Part I",
+   "The Story of CyberDojo (so far)",
+   "'The cost of simple programs' (C++ Beginner's Lightning Talk)",
+   "Pulling Visitors",
+   "C++11 library components to make a scientist happy",
+   "What is the basic interface? (part 1 of 2)",
+   "How to write more reliable code",
+   "Understanding &&",
+   "A C++14 Dependency Injection Library",
+   "Type Based Template Metaprogramming is Not Dead",
+   "Specialising Linear Algebra for Geometry",
+   "Back to Basics: Unit Tests",
+   "Core principles and creating lightweight design",
+   "C++ Concepts and Ranges",
+   "Concepts Lite: Constraining Templates with Predicates",
+   "Nothing is better than copy or move",
+   "WG21-SG14 - Making C++ better for games, embedded and financial developers",
+   "Current trends in the C++ Community",
+   "Multiple Interface Class Inheritance and Name Hiding",
+   "An Introduction to C++20's Concepts",
+   "40 Years Of Evolution from Functions to Coroutines",
+   "Boostache Exposed - the internals of Boost's template engine",
+   "Advanced Unit Testing in C & C++",
+   "Sweating the Small Stuff: Brace Initialization, Unions and Enums",
+   "The Many Shades of reference_wrapper",
+   "Awaiting for the ranges: C++17",
+   "'Design Patterns in C++ Done Right' (Lightning Talk)",
+   "Bootstrapped by Boost",
+   "Compiled C++ Coding Standards",
+   "Easy::Jit: A Just-in-Time compilation library for C++",
+   "Flowz: towards an EDSL for digital signal processing",
+   "A modern, scalable risk system architecture",
+   "High performance data structures in boost",
+   "What's new about fake news?",
+   "switchAny: A Practical Exercise in Template Metaprogramming",
+   "Lambda Functions",
+   "How to initialize x from expression y",
+   "Lessons in Sustainability...",
+   "A Semi Compile/Run-time Map with (Nearly) Zero Overhead Lookup",
+   "The Rule of Seven (Plus or Minus Two): Modern C++ Boilerplate",
+   "Nano-coroutines to the Rescue! (Using Coroutines TS, of Course)",
+   "Multicore Synchronization: The Lesser-Known Primitives",
+   "Talking to Typelists",
+   "Modern generic programming using the Tick and Fit libraries",
+   "Scheme Lisp: Feel the Cool",
+   "C++ in the Audio Industry",
+   "Expect the Expected",
+   "An Introduction to C++ Coroutines",
+   "function_ref",
+   "Implementing variant Visitation Using Lambdas",
+   "Model - View - Whatever MVW",
+   "Concurrency in cloud applications",
+   "Building a Coroutine based Job System without Standard Library",
+   "C++ Insights: How Stuff Works, Lambdas and More!",
+   "UT - C++20 Unit Testing Framework",
+   "Keep your code sane with clang-tidy",
+   "A C++14 approach to dates and times",
+   "The Landscape of Parallelism",
+   "Embedded rust on the beagleboard X15",
+   "Back to Basics: Algebraic Data Types",
+   "Objects vs Values: Value Oriented Programming in an Object Oriented World",
+   "Using Deep Learning to hunt Optical Counterparts to (...)",
+   "Gradual typing of production applications",
+   "Convergent Evolution",
+   "Tools from the C++ eco-system to save a leg",
+   "Sooner rather than later",
+   "Embedded & C++",
+   "Deep C Diving - Fast and Scalable Text Interfaces at the Bottom",
+   "The State of Package Management in C++",
+   "Boost.TMP: Your DSL for Metaprogramming",
+   "Backporting to the Future",
+   "Reducing Template Compilation Overhead, Using  C++11, 14, 17, and 20.",
+   "Choosing hardware components : A software guy's point of view.",
+   "Axiomatic Programming: From Euclidean Deductions to C++ Templates and Beyond",
+   "Latest and Greatest in the Visual Studio Family for C++ Developers 2018",
+   "Simplifying control flow",
+   "The C++ Rvalue Lifetime Disaster",
+   "Keeping Your CI-CD Pipeline as Fast as it Needs to Be",
+   "Device Tree overlays and U-boot extension board management",
+   "Functional Error and Optional-value Handling with STX",
+   "'Diagnosing Memory Leaks' (C++ Lightning Talk)",
+   "'Metaprogramming in C++' (Virtual)",
+   "Back to Basics: The Abstract Machine",
+   "Implementation of a component-based entity system in modern C++",
+   "interview with Peter Hilton",
+   "Preparing the C++11 Library AFIO for Boost Peer Review",
+   "The Effective Structured Data Marshalling/Demarshalling Through Boost.Fusion",
+   "Understanding Lvalues and Rvalues",
+   "Missing Optimizations on Node-based Containers",
+   "You Can Do Better than std::unordered_map: New Improvements to Hash Table Performance",
+   "The Dawn of a New Error",
+   "How we switched to C++11 at SolidFire and how it worked out",
+   "Dependency Injection - a 25-dollar term for a 5-cent concept",
+   "C++20: An (Almost) Complete Overview",
+   "Critical Code analysis with Observer Pattern",
+   "Type-safe configuration library",
+   "Polymorphism with Unions",
+   "The Intellectual Ascent to Agda",
+   "Software Visualization: The humane solution",
+   "Getting type name at compile time",
+   "A Glimpse of Trygve: From Class-oriented Programming to Real OO",
+   "What a View! Building Your Own (Lazy) Range Adaptors (part 2 of 2)",
+   "Type safe C++ - LOL! :-)",
+   "Design And Implementation Of DBMS Asynchronous Client Library",
+   "C++ on its way to exascale and beyond",
+   "How to Write a Custom Allocator",
+   "Haskell Design Patterns for Genericity & Asynchronous Behavior",
+   "Optimizing Generic Algorithms",
+   "WebAssembly: an overview",
+   "LLVM C/C++ compiler frontend in Java",
+   "Viewing The World Through Array-Shaped Glasses",
+   "The Hitchhikers guide to faster builds",
+   "Live Lock-Free or Deadlock (Practical Lock-free Programming) (PART 2)",
+   "Organizational Leadership with Modern C++",
+   "The Julia Language and C++: The Perfect Marriage?",
+   "CI Your Presentation for Fun and Profit",
+   "Sweep-Line Algorithm for Voronoi Diagrams",
+   "Dr Module and Sister #include",
+   "STL Algorithms - why you should use them, and how to write your own",
+   "CPU-Friendly Code",
+   "Dealing with software dependencies",
+   "Considerations for choosing the parallel computing",
+   "Local ('Arena') Memory Allocators",
+   "Monoids, Monads, and Applicative Functors: Repeated Software Patterns",
+   "Good Concepts",
+   "C++11/14 at Scale: What Have We Learned?",
+   "Git, CMake, Conan - How to ship and reuse our C++ projects",
+   "Trivially Relocatable",
+   "Latency Observability",
+   "Designated Initializers: Remembering Every Struct Member in Declaration Order Is Hard",
+   "A bird's-eye view of template C++",
+   "Generic Programming with Concepts Lite, Part II",
+   "Sitting Considered Deadly",
+   "An Asio Based Flash XML Server",
+   "Build all the things with Spack: a package manager for more than C++",
+   "C++11 use in Qt5: Challanges and Solutions",
+   "Next Generation Debugging",
+   "Hourglass Interfaces for C++ APIs",
+   "Become a GDB Power User",
+   "ASoC: Audio on an embedded board",
+   "A modern database interface for C++",
+   "CPU design effects",
+   "Two years of libcamera: are complex cameras now easy?",
+   "Objects? No thanks!",
+   "If You Can't Open It, You Don't Own It",
+   "C++ Core Guidelines - Safer C++",
+   "The Shapes of Multi-Dimensional Arrays",
+   "How I Learned to Stop Worrying About Generics and Love Go",
+   "Boost.Text: Fixing std::string, and Adding Unicode to Standard C++ (part 1)",
+   "embeddr - C with Abstractions",
+   "Type Deduction in C++14",
+   "Smart Output Iterators",
+   "AI in Healthcare",
+   "Ways to Handle Non-blocking Returns in Message-passing Programs...",
+   "Experience from Feature Toggling Platform (...)",
+   "Allocators in C++11",
+   "Mise a jour : les bonnes questions a se poser",
+   "Decision Fatigue and coding guidelines",
+   "What Neighborhoods Owe Each Other: Rights, Duties, Immunities & Disabilities of Functions & Objects",
+   "Friendship in Service of Testing",
+   "Plain Threads are the GOTO of todays computing",
+   "Understanding Compiler Optimization",
+   "Compile-time programming and reflection in C++20 and beyond",
+   "Quickly Testing Qt Desktop Applications with Approval Tests",
+   "Grill the C++ Committee with Jon Kalb",
+   "Asynchrony and Coroutines",
+   "Rpath and binary reuse",
+   "C++ Class Natures",
+   "How Embedded Developers work from home using labgrid",
+   "Reuse bill",
+   "A Food pairing device, with offline AI and edge computing",
+   "The Finer Points of Parameter Packs",
+   "Computer Architecture, C++, and High Performance",
+   "Diversity & Inclusivity in Tech",
+   "An Adventure in Race Conditions",
+   "Introduction to proposed std::expected",
+   "How Compilers Reason About Exceptions",
+   "'Print C++ Like It's Python' (Lightning Talk)",
+   "interview with Jose Daniel Garcia",
+   "Boost.Generic: Concepts without Concepts",
+   "Virtual Tables OR The Overhead Of Magic",
+   "Futures Without Type Erasure",
+   "Techniques for Overloading any_invocable",
+   "Meta++: Language Support for Advanced Generative Programming",
+   "Migration of C++ Libraries to C++14",
+   "std::accumulate: Exploring an Algorithmic Empire",
+   "C++17 Features",
+   "Metaprogramming Applied to Numerical Problems",
+   "No Touchy! A Case Study of Software Architecture with Immutable Objects",
+   "Taking Template Classes Further with Opaque Types & Generic NTTPs",
+   "A Crash Course in Open Source Licensing",
+   "Exception-Safe Code, Part II",
+   "'sizeof' (C++ Beginner's Lightning Talk)",
+   "Alignment in C++: Use, Limitations, and Extension",
+   "C++ Core Guidelines - Modernize your C++ Code Base",
+   "Funqual: user-defined statically-checked call graph constraints in C++",
+   "C++ Build Systems",
+   "Functional Geometry: Producing Pure Spaces",
+   "Exploration of C++20 Meta Programming",
+   "Jami on i.MX6: bring fully distributed & secure comm. capabilities to embedded products",
+   "Documenting C++ Using the Right Tools",
+   "C++ Today: The beast is back",
+   "A Possible Future of Embedded Software Development",
+   "Code Analysis++",
+   "How Ubisoft Develops Games for Multicore - Before and After C++11",
+   "interview with C++ Committee's Library Evolution Working Group",
+   "Heterogeneous Programming in C++ today",
+   "FPGA for software developers",
+   "Fastbuild",
+   "Building C++ Modules",
+   "LauncherOne rocket with C++ engine",
+   "C++ Performance in Practice: Align, Vectorise, Cache, Jump!",
+   "Rebuilding Boost Date-Time for C++11",
+   "C++14: Through the Looking Glass",
+   "3D Face Tracking and Reconstruction using Modern C++",
+   "Better Code: Relationships",
+   "The C++ rvalue lifetime disaster @ CppEurope2020",
+   "Reasoning with function signatures",
+   "What Every C++ Programmer Should Know About Modern Compilers",
+   "Metaprogramming with Boost.Hana: Unifying Boost.Fusion and Boost.MPL",
+   "C++17 - the upcoming revolution",
+   "Make Friends with the Clang Static Analysis Tools",
+   "Live Lock-Free or Deadlock (Practical Lock-free Programming) (PART 1)",
+   "What Belongs In The C++ Standard Library?",
+   "C++: Unexpected Behaviour",
+   "Building an Intuition for Composition",
+   "From Functions to Coroutines",
+   "Practical C++17",
+   "An Overview of C++11/14, Part II",
+   "The Performance Price of Dynamic Memory in C++",
+   "Grill the Committee!",
+   "Deploying C++ modules to 100s of millions of lines of code",
+   "Easy Binary Compatible C++ Interfaces Across Compilers",
+   "odeint -- Solving ordinary differential equations in C++",
+   "Intro to Functional Programming in C++",
+   "Overloading: The Bane of All Higher-Order Functions",
+   "Large-Scale C++: Advanced Levelization Techniques, Part II",
+   "Catch [^]: Unicode for C++23",
+   "C++20 Coroutines: What's next?",
+   "Exceptions Under the Spotlight",
+   "STL Features And Implementation Techniques",
+   "Audio in standard C++",
+   "Algorithmic and microarchitecture optimizations of C++ applications",
+   "C++ Memory Model Meets High-Update-Rate Data Structures",
+   "Combining C++17 Features",
+   "Rethinking Usage of C++ Templates",
+   "CNL: A Compositional Numeric Library",
+   "Why and How to Roll Your Own std::function Implementation",
+   "libcppa -- Designing an Actor Semantic for C++11",
+   "Grill The Committee",
+   "'Empirical Unit Testing' (Virtual)",
+   "Agility at scale with LeSS",
+   "A View to a View",
+   "The Plan for Tomorrow: Extension Points in C++ Applications",
+   "Managing C++ Build Complexity Using Cuppa: A SCons-based Build System",
+   "The Holy Grail!? A Persistent Hash-Array-Mapped Trie for C++",
+   "Introducing Microsoft's New Open Source Fuzzing Platform",
+   "Make Classes Great Again! (Using Concepts for Customization Points)",
+   "EA's Secret Weapon: Packages and Modules",
+   "Qt's moc and QMetaObject reflection",
+   "A Zephyr Overview of C++11 (Part II)",
+   "Making Allocators Work, Part I",
+   "Interactive, Introspected C++ at CERN",
+   "Secure Coding Best Practices - Threat Hunting",
+   "Generating OpenCL/CUDA source code from C++ expressions in VexCL",
+   "Behind the scenes of upgrading a static analyzer to C++20",
+   "Binary compatibility for library developers",
+   "The Design of the C++ Runtime for AWS Lambda",
+   "Enough string_view to Hang Ourselves",
+   "Cpu Caches and Why You Care",
+   "A Taste of Julia",
+   "lambda Demystified",
+   "Implementing a Domain Specific Embedded Language with Boost Proto",
+   "Let's make a web match-3 game in C++14",
+   "Learning and teaching modern C++",
+   "Exception-Safe Coding in C++ (Part II)",
+   "The Future of Accelerator Programming in C++",
+   "Cloud Native C++: Modern architecture for (...)",
+   "Beyond the Floating Point Computations - What's New, What's Useful?",
+   "Move-only types can save the API",
+   "Effective CMake",
+   "Conan, le gestionnaire de paquets C/C++",
+   "Building Modern Native Applications with Gradle",
+   "CppComponents- A Modern Portable C++11 Component System",
+   "Writing Great Libraries: 89 Easy Steps",
+   "Building efficient I/O intensive applications with Seastar",
+   "Image Signal Processing (ISP) Drivers & How to Merge One Upstream",
+   "Practical Memory Pool Based Allocators For Modern C++",
+   "Closing the Gap between Rust and C++ Using Principles of Static Analysis",
+   "Progress on Contract Support for C++17",
+   "Undefined behaviour in the STL",
+   "Mix Tests and Production Code With Doctest...",
+   "Benchmarking C++ - From video games to algorithmic trading",
+   "Modern special function register abstraction",
+   "Contracts for Dependable C++",
+   "Coroutines: what can't they do?",
+   "Safe Numerics Library",
+   "Concurrency and Parallelism in C++17 and C++20/23",
+   "Spirit.Qi in the Real World",
+   "Finally Executors for C++",
+   "Equivalence in cross-compilation compiler warnings",
+   "How C++ Debuggers work",
+   "Template Metaprogramming: Type Traits (part 2 of 2)",
+   "The speed of concurrency (is lock-free faster?)",
+   "Back to Basics: Move Semantics (part 2 of 2)",
+   "The Bad Big Wolf Meets Riding Hood Little Red",
+   "C++17 - The Good and the Ugly",
+   "Can we make a faster linked list?",
+   "Assume Worst Intent (Designing for the Abusive Ex)",
+   "Story of autonomous drone racing",
+   "Os Matters",
+   "Modern C++ API Design: From Rvalue-References to Type Design",
+   "Touring the Tips of the Week Series",
+   "C++ API & ABI versioning",
+   "Technical Specifications & C++17",
+   "The hidden languages of C++",
+   "A Complete Overview on Boost.Jam and Boost.Build",
+   "Grill the C++ committee -  Discussion",
+   "Thoughts on Metaclasses",
+   "Understanding compiler optimization",
+   "C++17 coroutines for app and library developers",
+   "Designing Concurrent C++ Applications",
+   "Fun with structured bindings - Tim van Deurzen",
+   "Variants: Past, Present, and Future",
+   "The Truth of a Procedure",
+   "Introducing CHAP: A program to clarify dynamic memory usage in un-instrumented cores",
+   "Lakos'20: The 'Dam' Book is Done!",
+   "2020: The Year of Sanitizers?",
+   "The Hitchhiker's Guide to Faster Builds - Part 2 of 2",
+   "Generic Programming And the Boost Graph Library",
+   "Complecting Made Easy",
+   "Total War: how AI can deliver entertainment.",
+   "interview with C++ Standards Committee Fireside Chat",
+   "Clang Concepts",
+   "Towards Painless Testing",
+   "Windows Native API",
+   "Linear programming made easy with Boost Proto",
+   "C++17 in Breadth (part 1 of 2)",
+   "Effective replacement of dynamic polymorphism with std::variant",
+   "0xBADC0DE",
+   "Build Everything From Source: A Case Study in Fear",
+   "Product Security, From the dark side to the light",
+   "A C++ Approach to Physical Units",
+   "C++ Testing Techniques, Tips and Tricks @ CppEurope 2020",
+   "Postmodern Immutable Data Structures",
+   "Type-safe Programming",
+   "Behaviour-Driven Development, BDD, with Cucumber",
+   "Retiring the Singleton Pattern",
+   "Designing value classes for modern C++",
+   "Practical constexpr",
+   "Swift Driven Development",
+   "Iterators May Stay",
+   "Mix tests and production code with doctest (...)",
+   "How to Cook a Chicken",
+   "Breadcrumbs won't help: how not to get lost in a lambda forest",
+   "Garbage In, Garbage Out: Arguing about Undefined Behavior...",
+   "A Critical Look at the Coding Standards Landscape",
+   "Regular Expressions in C++, Present and Future",
+   "Better C++ Ranges",
+   "Making Fast Incremental Compiler for Huge Codebase",
+   "Open Source at Balena",
+   "Types Don't Know #",
+   "Boost.Asio and Boost.Serialization, Part I",
+   "Functional Programming, a pragmatic approach",
+   "Octopus: A Policy-Driven Framework for CFD Simulations",
+   "How does Git actually work?",
+   "How C++ Debuggers Work",
+   "Practical Aspects of Microservice Architecture",
+   "C++20 Ranges: Code Expressively with Ranges",
+   "completion T : Improving the future T with monads",
+   "Multi-Threading With C++11 and Boost",
+   "C++20 Ranges in Practice",
+   "A perfect async RPC Framework?",
+   "Undefined Behavior in  (part 1 of 2)",
+   "Bringing Clean Code to large scale legacy Applications",
+   "Mobile Edge Clouds...",
+   "Large Scale C++ with Modules: What You Should Know",
+   "Using Spirit V2: Qi and Karma",
+   "This is why we can('t) have nice things",
+   "IoC++ - A IoC framework for C++",
+   "Mastering Git's index",
+   "OOP Is Dead, Long Live Data-oriented Design",
+   "An Allocator is a Handle to a Heap",
+   "Benchmarking C++, From video games to algorithmic trading",
+   "Portable yet thin OS abstractions",
+   "C++ Metaprogramming: A Paradigm Shift",
+   "Putting Coroutines to Work with the Windows Runtime",
+   "Delegate this! Designing with delegates in modern C++",
+   "C++ in Huge AAA Games",
+   "Why C++ for Large Scale Systems?",
+   "Algorithm Intuition",
+   "Finding Bugs with Clang at Compile and Run Time",
+   "What is the basic interface? (part 2 of 2)",
+   "Using Functional Programming Patterns...",
+   "'for_each_argument' explained and expanded",
+   "ODB, Advanced Weapons and Tactics",
+   "Code Reviews - Why, what and how",
+   "There and Back Again: An Incremental C++ Modules Design",
+   "STL Algorithms in Action",
+   "Writing Performant C++ Code",
+   "Look ma, 'update DB to HTML5 using C++', no hands!",
+   "20 years of extending C++: What can we learn?",
+   "Test-Drive Performance",
+   "Clean Coders Hate (...) When You Use These (...) Tricks",
+   "Using Units, Qantities, and Dimensions in C++14",
+   "C++ Mixins",
+   "How you can make a Boost C++ Library",
+   "boost.tmp: Your DSL for Metaprogramming - Part 2 of 2",
+   "Non-conforming C++: the Secrets the Committee Is Hiding From You",
+   "Expression Templates Revisited",
+   "A Visions For std2",
+   "Expect the expected",
+   "Compiling Multi-Million Line C++ Code Bases Effortlessly with the Meson Build System",
+   "State Machines Battlefield - Naive vs STL vs Boost",
+   "Design and Evolution of cyber-dojo",
+   "Spread the LOVE for IoT - How I created a full day IoT workshop",
+   "'Variations on Variant' (Virtual)",
+   "Metaprogramming for dummies",
+   "Building for the Best of Us: Design and Development with Kids in Mind",
+   "C++ Hardware Register Access",
+   "Accu Overload",
+   "SICP Cover Demystified",
+   "Undefined behavoiur",
+   "Writing Libraries is Terrible",
+   "Fighting Git Workflows",
+   "Azure Sphere",
+   "Functional programming: functors and monads",
+   "Continuable asynchronous programming with allocation aware futures",
+   "Optimization Tips - Mo' Hustle Mo' Problems",
+   "Choosing the correct vectorization method",
+   "What to Expect from a Next-Generation C++ Build System",
+   "Transactional Memory in Practice",
+   "C++ Community Organizers",
+   "Homogenous Variadic Functions -  A Lightning-Library Approach in ~11.54 sec/LOC",
+   "Get Off My Thread: Techniques for Moving Work to Background Threads",
+   "Algorithms and Iterators for Multidimensional Arrays",
+   "How to write a programming language",
+   "HPX and GPU parallelized STL",
+   "What are hash trees? and why you should care",
+   "From Parsing to sema: Making Sense of Syntax Trees",
+   "Experiences in Teaching Modern C++ to Beginners",
+   "Testing Battle.net (before deploying to millions of players)",
+   "Property based testing in C++",
+   "Multithreading Using Lockless Lists and RCU",
+   "Debugging and Profiling C++ Template Metaprograms",
+   "Cache consistency and the C++ memory model: writing code to (...)",
+   "The ABI challenge",
+   "The Ongoing Saga of ISO-C++ Executors",
+   "Operator Overloading: History, Principles and Practice",
+   "The Internet of Things",
+   "Easy High Constancy",
+   "The Lifecycle of an A/B Test",
+   "Overloading - Niel Waldren",
+   "Programming challenges in converting R to C++",
+   "Finding Nemo, or Evolution of a for Loop",
+   "Back to Basics: Lambdas from Scratch",
+   "Technical documentation is a backup so make sure it works @ CppEurope",
+   "What's My Object?",
+   "Howling at the Moon: Lua for C++ Programmers",
+   "Cross plattform C++ development is challenging",
+   "Policy-based design in C++20",
+   "Burnout",
+   "M-PIN Authentication in Vehicle Tracking",
+   "The core C++ guidelines for safer Code",
+   "Fun with C11 generic selection expression",
+   "Initializer Lists Are Broken, Let's Fix Them",
+   "Type punning done right",
+   "Quickly and Effectively Testing Legacy C++ Code with Approval Tests",
+   "A review of C++ 11/14 only Boost libraries - Fiber, AFIO, DI and APIBind",
+   "Better Code: Data Structures",
+   "Better Code with C++ Attributes",
+   "'Almost no raw loops' (C++ Beginner's Lightning Talk)",
+   "The C++ rvalue lifetime disaster",
+   "Easier said than done. Self-organized teams",
+   "Parallelizing the Standard Template Library",
+   "Driving Into the Future With Modern C++: A Look at Adaptive Autosar",
+   "Implementing Physical Units Library for C++",
+   "Can AI replace programmers?",
+   "Undefined Behavior in  (part 2 of 2)",
+   "Functional C++ For Fun And Profit",
+   "Halide: A Language for Fast, Portable Computation on Images and Tensors",
+   "No Sane Compiler Would Optimize Atomics",
+   "Tools to Ease Cross-Platform C++ Development @ CppEurope 2020",
+   "Haskell -- The Pseudocode Language for C++ Template Metaprogramming (Part 2)",
+   "A Crash Course in Unicode for C++ Developers",
+   "Design Patterns in Modern C++",
+   "Converting a State Machine to a C++ 20 Coroutine",
+   "Tracking DDR ECC issues on a standalone application",
+   "'Developing PHP Extensions with PHP CPP' (Lightning Talk)",
+   "Writing games in very modern C++",
+   "Diet for your Templates - Reducing Code Bloat in Your Templated Library",
+   "constexpr ALL the Things!",
+   "High Frequency Trading and Ultra Low Latency development techniques",
+   "Modern Linux C++ debugging tools - under the covers",
+   "Thinking Asynchronously: Designing Applications with Boost.Asio",
+   "Expected- An exception-friendly Error Monad",
+   "Performance analysis and optimization of C++ standard libraries",
+   "Concepts -  Evolution or Revolution",
+   "Error Handling is Cancelling Operations",
+   "interview with Hartmut Kaiser and Scott Meyers",
+   "One Friend Ain't Enough",
+   "Software is feeding the World",
+   "Using Freestanding C++ for C++17 in Shellcode, UEFI, Embedded & Unikernels",
+   "How to Write Effective Documentation for C++ Libraries...",
+   "Compile Time Regular Expressions",
+   "API & ABI Versioning...",
+   "Developing a Linux driver in Rust for ARM",
+   "The Basics of Lock-free Programming",
+   "Developing embedded IOT device code using micropython: is this reasonable choice?",
+   "Efficient GPU Programming with Modern C++",
+   "What did C++ do for Transactional Memory?",
+   "Boost.Text: Fixing std::string, and Adding Unicode to Standard C++ (part 2)",
+   "7 reasons to move your C++ code to Visual Studio 2017",
+   "Metaprogramming in C++14",
+   "CopperSpice: A Pure C++ GUI Library",
+   "Optimising a small real-world C++ application",
+   "Code Samples That Compile Even More Easily",
+   "Multithreading is the answer. What was the question? Part II",
+   "A Few Gentle Rules (*) but One in Particular",
+   "Some Things C++ Does Right",
+   "Nim - First natively compiled language w/ hot code-reloading at runtime",
+   "No raw std::thread! - Live Tweet Analysis in C++",
+   "GSL ad hoc overview",
+   "Programming with less effort in C++...",
+   "Type Traits - what are they and why should I use them?",
+   "'A Question of Ownership' (C++ Beginner's Lightning Talk)",
+   "Can software developers draw pictures?",
+   "opt-viewer: Inspecting compiler optimizations in high-level code"
 ]
 
 var tags = [
@@ -3057,7 +3130,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1008,
@@ -3077,7 +3150,227 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
+   },
+   {
+          number: 2300,
+      identifier: "MUC++--44",
+         meeting: "MUC++",
+         edition: "",
+           title: "'A Question of Ownership' (C++ Beginner's Lightning Talk)",
+        speakers: [
+                     "Roland Bock"
+                  ],
+           video: "https://youtube.com/watch?v=5V1_Tf9sFHA",
+       thumbnail: "http://img.youtube.com/vi/5V1_Tf9sFHA/0.jpg",
+        duration: 525,
+            tags: [
+                     "c++",
+                     "lightning",
+                     "live"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2287,
+      identifier: "MUC++--31",
+         meeting: "MUC++",
+         edition: "",
+           title: "'Almost no raw loops' (C++ Beginner's Lightning Talk)",
+        speakers: [
+                     "Klaus Iglberger"
+                  ],
+           video: "https://youtube.com/watch?v=hSAQTcH6QyY",
+       thumbnail: "http://img.youtube.com/vi/hSAQTcH6QyY/0.jpg",
+        duration: 590,
+            tags: [
+                     "c++",
+                     "lightning",
+                     "live"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2262,
+      identifier: "MUC++--6",
+         meeting: "MUC++",
+         edition: "",
+           title: "'An array of problems. An array of solutions' (Virtual)",
+        speakers: [
+                     "Joel Falcou"
+                  ],
+           video: "https://youtube.com/watch?v=IwBG_JjfcIA",
+       thumbnail: "http://img.youtube.com/vi/IwBG_JjfcIA/0.jpg",
+        duration: 5563,
+            tags: [
+                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2280,
+      identifier: "MUC++--24",
+         meeting: "MUC++",
+         edition: "",
+           title: "'Black Box Optimization of Compile Times' (C++ Lightning Talk)",
+        speakers: [
+                     "Stefan Asbeck"
+                  ],
+           video: "https://youtube.com/watch?v=fvs6UDq0LP0",
+       thumbnail: "http://img.youtube.com/vi/fvs6UDq0LP0/0.jpg",
+        duration: 738,
+            tags: [
+                     "c++",
+                     "lightning",
+                     "live"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2258,
+      identifier: "MUC++--2",
+         meeting: "MUC++",
+         edition: "",
+           title: "'Calling Functions: A Tutorial' (Virtual)",
+        speakers: [
+                     "Klaus Iglberger"
+                  ],
+           video: "https://youtube.com/watch?v=B9RT5sVunmk",
+       thumbnail: "http://img.youtube.com/vi/B9RT5sVunmk/0.jpg",
+        duration: 5026,
+            tags: [
+                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2306,
+      identifier: "MUC++--50",
+         meeting: "MUC++",
+         edition: "",
+           title: "'Controlling Overload Resolution with SFINAE' (Lightning Talk)",
+        speakers: [
+                     "Matthaus Brandl"
+                  ],
+           video: "https://youtube.com/watch?v=-XY0FaZmH8c",
+       thumbnail: "http://img.youtube.com/vi/-XY0FaZmH8c/0.jpg",
+        duration: 224,
+            tags: [
+                     "c++",
+                     "lightning",
+                     "live"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2296,
+      identifier: "MUC++--40",
+         meeting: "MUC++",
+         edition: "",
+           title: "'Design Patterns in C++ Done Right' (Lightning Talk)",
+        speakers: [
+                     "Miro Knejp"
+                  ],
+           video: "https://youtube.com/watch?v=jrnQ9FC5kOg",
+       thumbnail: "http://img.youtube.com/vi/jrnQ9FC5kOg/0.jpg",
+        duration: 257,
+            tags: [
+                     "c++",
+                     "lightning",
+                     "live"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2291,
+      identifier: "MUC++--35",
+         meeting: "MUC++",
+         edition: "",
+           title: "'Developing PHP Extensions with PHP CPP' (Lightning Talk)",
+        speakers: [
+                     "Robert Haas"
+                  ],
+           video: "https://youtube.com/watch?v=_XbQVx5LFIU",
+       thumbnail: "http://img.youtube.com/vi/_XbQVx5LFIU/0.jpg",
+        duration: 332,
+            tags: [
+                     "c++",
+                     "lightning",
+                     "live"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2279,
+      identifier: "MUC++--23",
+         meeting: "MUC++",
+         edition: "",
+           title: "'Diagnosing Memory Leaks' (C++ Lightning Talk)",
+        speakers: [
+                     "Robert Seilbeck"
+                  ],
+           video: "https://youtube.com/watch?v=jsvW6XacKRg",
+       thumbnail: "http://img.youtube.com/vi/jsvW6XacKRg/0.jpg",
+        duration: 503,
+            tags: [
+                     "c++",
+                     "lightning",
+                     "live"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2278,
+      identifier: "MUC++--22",
+         meeting: "MUC++",
+         edition: "",
+           title: "'EMF4CPP Generating Ecore Models for C++' (C++ Lightning Talk)",
+        speakers: [
+                     "Matthias Dorfel"
+                  ],
+           video: "https://youtube.com/watch?v=tKM8-paCVyw",
+       thumbnail: "http://img.youtube.com/vi/tKM8-paCVyw/0.jpg",
+        duration: 1246,
+            tags: [
+                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2260,
+      identifier: "MUC++--4",
+         meeting: "MUC++",
+         edition: "",
+           title: "'Empirical Unit Testing' (Virtual)",
+        speakers: [
+                     "Dave Steffen"
+                  ],
+           video: "https://youtube.com/watch?v=Ohd2zMgnPlE",
+       thumbnail: "http://img.youtube.com/vi/Ohd2zMgnPlE/0.jpg",
+        duration: 4297,
+            tags: [
+                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
    },
    {
           number: 936,
@@ -3097,7 +3390,67 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
+   },
+   {
+          number: 2295,
+      identifier: "MUC++--39",
+         meeting: "MUC++",
+         edition: "",
+           title: "'How custom gdb commands help in C++ development' (Lightning Talk)",
+        speakers: [
+                     "Michael Krasnyk"
+                  ],
+           video: "https://youtube.com/watch?v=QtTYXE1wSVs",
+       thumbnail: "http://img.youtube.com/vi/QtTYXE1wSVs/0.jpg",
+        duration: 361,
+            tags: [
+                     "c++",
+                     "lightning",
+                     "live"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2269,
+      identifier: "MUC++--13",
+         meeting: "MUC++",
+         edition: "",
+           title: "'Include C++' (C++ Lightning Talk)",
+        speakers: [
+                     "Victor Moreno"
+                  ],
+           video: "https://youtube.com/watch?v=r23ErUGt9mo",
+       thumbnail: "http://img.youtube.com/vi/r23ErUGt9mo/0.jpg",
+        duration: 634,
+            tags: [
+                     "c++",
+                     "lightning",
+                     "live"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2257,
+      identifier: "MUC++--1",
+         meeting: "MUC++",
+         edition: "",
+           title: "'Metaprogramming in C++' (Virtual)",
+        speakers: [
+                     "Andrew Sutton"
+                  ],
+           video: "https://youtube.com/watch?v=reYByJIEcIo",
+       thumbnail: "http://img.youtube.com/vi/reYByJIEcIo/0.jpg",
+        duration: 5350,
+            tags: [
+                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
    },
    {
           number: 1347,
@@ -3117,7 +3470,307 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
+   },
+   {
+          number: 2263,
+      identifier: "MUC++--7",
+         meeting: "MUC++",
+         edition: "",
+           title: "'My Least Favorite Anti-Pattern' (Virtual)",
+        speakers: [
+                     "Conor Hoekstra"
+                  ],
+           video: "https://youtube.com/watch?v=VV9vwFsaQ6U",
+       thumbnail: "http://img.youtube.com/vi/VV9vwFsaQ6U/0.jpg",
+        duration: 4718,
+            tags: [
+                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2305,
+      identifier: "MUC++--49",
+         meeting: "MUC++",
+         edition: "",
+           title: "'Print C++ Like It's Python' (Lightning Talk)",
+        speakers: [
+                     "Michael Dorner"
+                  ],
+           video: "https://youtube.com/watch?v=9V42buwzlzI",
+       thumbnail: "http://img.youtube.com/vi/9V42buwzlzI/0.jpg",
+        duration: 177,
+            tags: [
+                     "c++",
+                     "lightning",
+                     "live"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2294,
+      identifier: "MUC++--38",
+         meeting: "MUC++",
+         edition: "",
+           title: "'Property Bindings in C++11' (Lightning Talk)",
+        speakers: [
+                     "Frank Mertens"
+                  ],
+           video: "https://youtube.com/watch?v=_Dt5mXNp6rY",
+       thumbnail: "http://img.youtube.com/vi/_Dt5mXNp6rY/0.jpg",
+        duration: 544,
+            tags: [
+                     "c++",
+                     "lightning",
+                     "live"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2259,
+      identifier: "MUC++--3",
+         meeting: "MUC++",
+         edition: "",
+           title: "'Quickly & Effectively Testing Legacy C++ Code with Approval Tests' (Virtual)",
+        speakers: [
+                     "Clare Macrae"
+                  ],
+           video: "https://youtube.com/watch?v=vtWnqqSUzrY",
+       thumbnail: "http://img.youtube.com/vi/vtWnqqSUzrY/0.jpg",
+        duration: 4634,
+            tags: [
+                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2284,
+      identifier: "MUC++--28",
+         meeting: "MUC++",
+         edition: "",
+           title: "'Scaling development of a large C++ project: Chromium' (Part 1)",
+        speakers: [
+                     "Andrii Shyshkalov"
+                  ],
+           video: "https://youtube.com/watch?v=2Tsy_lJU21g",
+       thumbnail: "http://img.youtube.com/vi/2Tsy_lJU21g/0.jpg",
+        duration: 2582,
+            tags: [
+                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2283,
+      identifier: "MUC++--27",
+         meeting: "MUC++",
+         edition: "",
+           title: "'Scaling development of a large C++ project: Chromium' (Part 2)",
+        speakers: [
+                     "Andrii Shyshkalov"
+                  ],
+           video: "https://youtube.com/watch?v=SNGDfJyFoCY",
+       thumbnail: "http://img.youtube.com/vi/SNGDfJyFoCY/0.jpg",
+        duration: 3184,
+            tags: [
+                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2290,
+      identifier: "MUC++--34",
+         meeting: "MUC++",
+         edition: "",
+           title: "'Simplicity Not Just for Beginners' (Part 1)",
+        speakers: [
+                     "Kate Gregory"
+                  ],
+           video: "https://youtube.com/watch?v=JewFqo9-C3o",
+       thumbnail: "http://img.youtube.com/vi/JewFqo9-C3o/0.jpg",
+        duration: 2487,
+            tags: [
+                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2298,
+      identifier: "MUC++--42",
+         meeting: "MUC++",
+         edition: "",
+           title: "'sizeof' (C++ Beginner's Lightning Talk)",
+        speakers: [
+                     "Xavier Bonaventura"
+                  ],
+           video: "https://youtube.com/watch?v=BWdX6yXFj_Y",
+       thumbnail: "http://img.youtube.com/vi/BWdX6yXFj_Y/0.jpg",
+        duration: 353,
+            tags: [
+                     "c++",
+                     "lightning",
+                     "live"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2292,
+      identifier: "MUC++--36",
+         meeting: "MUC++",
+         edition: "",
+           title: "'Swizzling' (Lightning Talk)",
+        speakers: [
+                     "Stefan Rohe"
+                  ],
+           video: "https://youtube.com/watch?v=x4V_vQBJQrw",
+       thumbnail: "http://img.youtube.com/vi/x4V_vQBJQrw/0.jpg",
+        duration: 347,
+            tags: [
+                     "c++",
+                     "lightning",
+                     "live"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2304,
+      identifier: "MUC++--48",
+         meeting: "MUC++",
+         edition: "",
+           title: "'The Abilities of Good Code' (Lightning Talk)",
+        speakers: [
+                     "Andreas Sommer"
+                  ],
+           video: "https://youtube.com/watch?v=cahJaHLwdio",
+       thumbnail: "http://img.youtube.com/vi/cahJaHLwdio/0.jpg",
+        duration: 332,
+            tags: [
+                     "c++",
+                     "lightning",
+                     "live"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2265,
+      identifier: "MUC++--9",
+         meeting: "MUC++",
+         edition: "",
+           title: "'The Complete Guide to return x;' (Virtual)",
+        speakers: [
+                     "Arthur O'Dwyer"
+                  ],
+           video: "https://youtube.com/watch?v=80TXwV_sdCY",
+       thumbnail: "http://img.youtube.com/vi/80TXwV_sdCY/0.jpg",
+        duration: 6212,
+            tags: [
+                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2264,
+      identifier: "MUC++--8",
+         meeting: "MUC++",
+         edition: "",
+           title: "'The Construction and Use of C++ Algorithms' (Virtual)",
+        speakers: [
+                     "Ben Deane"
+                  ],
+           video: "https://youtube.com/watch?v=jCfbyjAyAKU",
+       thumbnail: "http://img.youtube.com/vi/jCfbyjAyAKU/0.jpg",
+        duration: 6192,
+            tags: [
+                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2285,
+      identifier: "MUC++--29",
+         meeting: "MUC++",
+         edition: "",
+           title: "'The cost of simple programs' (C++ Beginner's Lightning Talk)",
+        speakers: [
+                     "Lukas Bergdoll"
+                  ],
+           video: "https://youtube.com/watch?v=gkYkEHHyQlE",
+       thumbnail: "http://img.youtube.com/vi/gkYkEHHyQlE/0.jpg",
+        duration: 414,
+            tags: [
+                     "c++",
+                     "lightning",
+                     "live"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2266,
+      identifier: "MUC++--10",
+         meeting: "MUC++",
+         edition: "",
+           title: "'The Static Initialization Order Fiasco' (Virtual)",
+        speakers: [
+                     "Jonathan Muller"
+                  ],
+           video: "https://youtube.com/watch?v=dlTrziwQU-w",
+       thumbnail: "http://img.youtube.com/vi/dlTrziwQU-w/0.jpg",
+        duration: 3726,
+            tags: [
+                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2261,
+      identifier: "MUC++--5",
+         meeting: "MUC++",
+         edition: "",
+           title: "'Variations on Variant' (Virtual)",
+        speakers: [
+                     "Roi Barkan"
+                  ],
+           video: "https://youtube.com/watch?v=hEoeVAfslmg",
+       thumbnail: "http://img.youtube.com/vi/hEoeVAfslmg/0.jpg",
+        duration: 4531,
+            tags: [
+                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
    },
    {
           number: 1611,
@@ -3138,7 +3791,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 272,
@@ -3158,7 +3811,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1535,
@@ -3178,7 +3831,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 163,
@@ -3198,7 +3851,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 868,
@@ -3218,7 +3871,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1152,
@@ -3238,7 +3891,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1854,
@@ -3258,7 +3911,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1344,
@@ -3278,7 +3931,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 507,
@@ -3298,7 +3951,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1216,
@@ -3318,7 +3971,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1801,
@@ -3338,7 +3991,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2069,
@@ -3358,7 +4011,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 704,
@@ -3378,7 +4031,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1403,
@@ -3398,7 +4051,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1614,
@@ -3418,7 +4071,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 944,
@@ -3438,7 +4091,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1396,
@@ -3458,7 +4111,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 595,
@@ -3478,7 +4131,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 661,
@@ -3498,7 +4151,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1496,
@@ -3519,7 +4172,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1640,
@@ -3539,7 +4192,27 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
+   },
+   {
+          number: 2288,
+      identifier: "MUC++--32",
+         meeting: "MUC++",
+         edition: "",
+           title: "7 reasons to move your C++ code to Visual Studio 2017",
+        speakers: [
+                     "Steve Carroll"
+                  ],
+           video: "https://youtube.com/watch?v=BAVihHzZks0",
+       thumbnail: "http://img.youtube.com/vi/BAVihHzZks0/0.jpg",
+        duration: 5483,
+            tags: [
+                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
    },
    {
           number: 1048,
@@ -3559,7 +4232,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1974,
@@ -3579,7 +4252,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1788,
@@ -3599,7 +4272,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1322,
@@ -3619,7 +4292,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1077,
@@ -3639,7 +4312,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 977,
@@ -3659,7 +4332,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 215,
@@ -3679,7 +4352,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 42,
@@ -3699,7 +4372,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 973,
@@ -3719,7 +4392,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 412,
@@ -3739,7 +4412,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1365,
@@ -3759,7 +4432,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 787,
@@ -3779,7 +4452,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 846,
@@ -3800,7 +4473,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2034,
@@ -3820,7 +4493,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 105,
@@ -3840,7 +4513,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 453,
@@ -3860,7 +4533,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 126,
@@ -3880,7 +4553,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2231,
@@ -3901,7 +4574,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 13,
@@ -3922,7 +4595,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 370,
@@ -3942,7 +4615,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1712,
@@ -3962,7 +4635,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2071,
@@ -3982,7 +4655,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1934,
@@ -4002,7 +4675,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1992,
@@ -4022,7 +4695,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 684,
@@ -4042,7 +4715,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1194,
@@ -4062,7 +4735,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1022,
@@ -4084,7 +4757,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 571,
@@ -4104,7 +4777,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 281,
@@ -4124,7 +4797,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1746,
@@ -4144,7 +4817,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1028,
@@ -4164,7 +4837,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1110,
@@ -4184,7 +4857,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1889,
@@ -4204,7 +4877,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1438,
@@ -4224,7 +4897,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 362,
@@ -4244,7 +4917,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 674,
@@ -4264,7 +4937,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1922,
@@ -4284,7 +4957,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 510,
@@ -4304,7 +4977,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1400,
@@ -4324,7 +4997,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 781,
@@ -4345,7 +5018,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1967,
@@ -4365,7 +5038,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 312,
@@ -4385,7 +5058,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1803,
@@ -4405,7 +5078,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 617,
@@ -4425,7 +5098,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2007,
@@ -4445,7 +5118,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1431,
@@ -4466,7 +5139,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2005,
@@ -4486,7 +5159,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 195,
@@ -4506,7 +5179,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1240,
@@ -4526,7 +5199,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1680,
@@ -4546,7 +5219,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1341,
@@ -4566,7 +5239,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 619,
@@ -4586,7 +5259,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 464,
@@ -4606,7 +5279,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 551,
@@ -4626,7 +5299,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1303,
@@ -4646,7 +5319,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2041,
@@ -4666,7 +5339,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 102,
@@ -4686,7 +5359,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1721,
@@ -4706,7 +5379,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1162,
@@ -4726,7 +5399,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1749,
@@ -4746,7 +5419,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1577,
@@ -4766,7 +5439,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1177,
@@ -4786,7 +5459,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1649,
@@ -4806,7 +5479,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 142,
@@ -4826,7 +5499,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 147,
@@ -4846,7 +5519,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1336,
@@ -4867,7 +5540,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 616,
@@ -4887,7 +5560,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 331,
@@ -4907,7 +5580,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 301,
@@ -4927,7 +5600,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 285,
@@ -4947,7 +5620,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 56,
@@ -4967,7 +5640,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 120,
@@ -4987,7 +5660,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 119,
@@ -5007,7 +5680,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2185,
@@ -5028,7 +5701,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1005,
@@ -5048,7 +5721,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1313,
@@ -5068,7 +5741,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 756,
@@ -5088,7 +5761,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1306,
@@ -5109,7 +5782,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 883,
@@ -5129,7 +5802,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 739,
@@ -5149,7 +5822,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1308,
@@ -5169,7 +5842,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1083,
@@ -5189,7 +5862,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1084,
@@ -5209,7 +5882,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 650,
@@ -5229,7 +5902,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 900,
@@ -5249,7 +5922,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 424,
@@ -5269,7 +5942,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1458,
@@ -5289,7 +5962,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1456,
@@ -5309,7 +5982,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 875,
@@ -5329,7 +6002,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1136,
@@ -5349,7 +6022,27 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
+   },
+   {
+          number: 2299,
+      identifier: "MUC++--43",
+         meeting: "MUC++",
+         edition: "",
+           title: "Agent Based Class Design",
+        speakers: [
+                     "Odin Holmes"
+                  ],
+           video: "https://youtube.com/watch?v=_C66Dr7uTQ8",
+       thumbnail: "http://img.youtube.com/vi/_C66Dr7uTQ8/0.jpg",
+        duration: 3255,
+            tags: [
+                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
    },
    {
           number: 2114,
@@ -5369,7 +6062,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1697,
@@ -5389,7 +6082,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1530,
@@ -5409,7 +6102,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1670,
@@ -5429,7 +6122,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1973,
@@ -5438,8 +6131,8 @@ const talks = [
          edition: "2021",
            title: "Ai4Prod: the ecosystem to bring AI in production through C++",
         speakers: [
-                     "Tondelli",
-                     "Verasani"
+                     "Eric Tondelli",
+                     "Matti Verasani"
                   ],
            video: "https://youtube.com/watch?v=J0trdQCLZ5A",
        thumbnail: "http://img.youtube.com/vi/J0trdQCLZ5A/0.jpg",
@@ -5450,7 +6143,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1778,
@@ -5470,7 +6163,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1814,
@@ -5490,7 +6183,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1070,
@@ -5510,7 +6203,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 402,
@@ -5530,7 +6223,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1376,
@@ -5550,7 +6243,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1377,
@@ -5570,7 +6263,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2026,
@@ -5590,7 +6283,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 618,
@@ -5610,7 +6303,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 419,
@@ -5630,7 +6323,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 698,
@@ -5650,7 +6343,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 103,
@@ -5670,7 +6363,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2059,
@@ -5690,7 +6383,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 747,
@@ -5710,7 +6403,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1915,
@@ -5730,7 +6423,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 92,
@@ -5750,7 +6443,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1102,
@@ -5770,7 +6463,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 550,
@@ -5790,7 +6483,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1855,
@@ -5810,7 +6503,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1699,
@@ -5830,7 +6523,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 315,
@@ -5850,7 +6543,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1251,
@@ -5870,7 +6563,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1109,
@@ -5890,7 +6583,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 401,
@@ -5910,7 +6603,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1548,
@@ -5930,7 +6623,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 307,
@@ -5950,7 +6643,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2,
@@ -5970,7 +6663,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 279,
@@ -5990,7 +6683,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 564,
@@ -6010,7 +6703,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 628,
@@ -6030,7 +6723,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1567,
@@ -6050,7 +6743,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 255,
@@ -6070,7 +6763,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 526,
@@ -6090,7 +6783,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2021,
@@ -6110,7 +6803,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1756,
@@ -6130,7 +6823,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2149,
@@ -6150,7 +6843,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 878,
@@ -6170,7 +6863,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 877,
@@ -6190,7 +6883,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1760,
@@ -6210,7 +6903,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1297,
@@ -6230,7 +6923,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2204,
@@ -6251,7 +6944,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2195,
@@ -6272,7 +6965,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 210,
@@ -6292,7 +6985,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 961,
@@ -6312,7 +7005,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1710,
@@ -6332,7 +7025,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 809,
@@ -6352,7 +7045,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1874,
@@ -6372,7 +7065,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 404,
@@ -6392,7 +7085,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 862,
@@ -6412,7 +7105,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 460,
@@ -6432,7 +7125,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 638,
@@ -6452,7 +7145,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1151,
@@ -6472,7 +7165,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 107,
@@ -6492,7 +7185,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1283,
@@ -6512,7 +7205,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 969,
@@ -6532,7 +7225,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1576,
@@ -6552,7 +7245,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1613,
@@ -6572,7 +7265,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 27,
@@ -6592,7 +7285,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 342,
@@ -6612,7 +7305,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2101,
@@ -6632,7 +7325,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2067,
@@ -6652,7 +7345,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 225,
@@ -6673,7 +7366,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2201,
@@ -6694,7 +7387,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 815,
@@ -6714,7 +7407,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 753,
@@ -6734,7 +7427,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1896,
@@ -6754,7 +7447,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 19,
@@ -6774,7 +7467,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 793,
@@ -6794,7 +7487,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1702,
@@ -6814,7 +7507,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 722,
@@ -6834,7 +7527,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 870,
@@ -6854,7 +7547,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 569,
@@ -6874,7 +7567,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1062,
@@ -6894,7 +7587,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1355,
@@ -6914,7 +7607,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 160,
@@ -6934,7 +7627,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2242,
@@ -6954,7 +7647,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1541,
@@ -6974,7 +7667,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 538,
@@ -6994,7 +7687,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1665,
@@ -7014,7 +7707,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1751,
@@ -7034,7 +7727,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1351,
@@ -7054,7 +7747,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1352,
@@ -7074,7 +7767,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1868,
@@ -7094,7 +7787,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 408,
@@ -7114,7 +7807,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1638,
@@ -7134,7 +7827,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1564,
@@ -7155,7 +7848,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1779,
@@ -7175,7 +7868,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 36,
@@ -7196,7 +7889,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 481,
@@ -7216,7 +7909,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1205,
@@ -7236,7 +7929,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 788,
@@ -7256,7 +7949,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 534,
@@ -7276,7 +7969,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 132,
@@ -7296,7 +7989,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2177,
@@ -7317,7 +8010,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1410,
@@ -7337,7 +8030,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1386,
@@ -7357,7 +8050,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1446,
@@ -7377,7 +8070,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1302,
@@ -7397,7 +8090,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1426,
@@ -7417,7 +8110,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1363,
@@ -7437,7 +8130,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1444,
@@ -7457,7 +8150,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1411,
@@ -7478,7 +8171,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1364,
@@ -7498,7 +8191,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1428,
@@ -7518,7 +8211,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1298,
@@ -7538,7 +8231,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1299,
@@ -7558,7 +8251,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1401,
@@ -7578,7 +8271,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1357,
@@ -7598,7 +8291,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1430,
@@ -7618,7 +8311,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1395,
@@ -7638,7 +8331,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1397,
@@ -7658,7 +8351,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1304,
@@ -7678,7 +8371,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1381,
@@ -7698,7 +8391,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1382,
@@ -7718,7 +8411,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1316,
@@ -7738,7 +8431,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1416,
@@ -7758,7 +8451,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1290,
@@ -7778,7 +8471,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 181,
@@ -7800,7 +8493,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2162,
@@ -7820,7 +8513,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1652,
@@ -7840,7 +8533,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1979,
@@ -7860,7 +8553,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1030,
@@ -7880,7 +8573,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1852,
@@ -7901,7 +8594,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1469,
@@ -7921,7 +8614,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1734,
@@ -7941,7 +8634,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2119,
@@ -7961,7 +8654,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2086,
@@ -7981,7 +8674,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1288,
@@ -8001,7 +8694,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2048,
@@ -8021,7 +8714,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2163,
@@ -8041,7 +8734,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 962,
@@ -8061,7 +8754,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 666,
@@ -8081,7 +8774,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1729,
@@ -8101,7 +8794,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 703,
@@ -8121,7 +8814,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1918,
@@ -8141,7 +8834,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 714,
@@ -8161,7 +8854,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1694,
@@ -8181,7 +8874,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 445,
@@ -8201,7 +8894,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1273,
@@ -8222,7 +8915,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 663,
@@ -8242,7 +8935,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 213,
@@ -8262,7 +8955,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1515,
@@ -8282,7 +8975,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1325,
@@ -8302,7 +8995,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 207,
@@ -8322,7 +9015,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1521,
@@ -8342,7 +9035,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 887,
@@ -8362,7 +9055,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1284,
@@ -8382,7 +9075,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 374,
@@ -8402,7 +9095,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1873,
@@ -8411,7 +9104,7 @@ const talks = [
          edition: "2019",
            title: "Better embedded library interfaces with modern C++",
         speakers: [
-                     "Wouter Van Ooijen"
+                     "Wouter van Ooijen"
                   ],
            video: "https://youtube.com/watch?v=ArRuPzN7JXs",
        thumbnail: "http://img.youtube.com/vi/ArRuPzN7JXs/0.jpg",
@@ -8422,7 +9115,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1007,
@@ -8442,7 +9135,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1246,
@@ -8462,7 +9155,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 131,
@@ -8482,7 +9175,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2247,
@@ -8502,7 +9195,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 319,
@@ -8522,7 +9215,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 366,
@@ -8542,7 +9235,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 898,
@@ -8562,7 +9255,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2047,
@@ -8582,7 +9275,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1016,
@@ -8602,7 +9295,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1501,
@@ -8622,7 +9315,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 197,
@@ -8642,7 +9335,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 178,
@@ -8662,7 +9355,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 114,
@@ -8682,7 +9375,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 983,
@@ -8703,7 +9396,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2058,
@@ -8723,7 +9416,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1667,
@@ -8743,7 +9436,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1748,
@@ -8763,7 +9456,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 750,
@@ -8783,7 +9476,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 946,
@@ -8803,7 +9496,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1153,
@@ -8823,7 +9516,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 853,
@@ -8843,7 +9536,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 852,
@@ -8863,7 +9556,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 93,
@@ -8884,7 +9577,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 188,
@@ -8904,7 +9597,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 109,
@@ -8925,7 +9618,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 23,
@@ -8945,7 +9638,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 524,
@@ -8965,7 +9658,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2117,
@@ -8986,7 +9679,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 90,
@@ -9006,7 +9699,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 18,
@@ -9026,7 +9719,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 316,
@@ -9046,7 +9739,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 317,
@@ -9066,7 +9759,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1924,
@@ -9086,7 +9779,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1982,
@@ -9106,7 +9799,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 329,
@@ -9126,7 +9819,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 691,
@@ -9146,7 +9839,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1595,
@@ -9166,7 +9859,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1596,
@@ -9186,7 +9879,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 24,
@@ -9206,7 +9899,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 508,
@@ -9226,7 +9919,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 797,
@@ -9246,7 +9939,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 193,
@@ -9266,7 +9959,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 954,
@@ -9286,7 +9979,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1617,
@@ -9306,7 +9999,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 80,
@@ -9326,7 +10019,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 124,
@@ -9346,7 +10039,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1921,
@@ -9366,7 +10059,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 596,
@@ -9386,7 +10079,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 702,
@@ -9406,7 +10099,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1391,
@@ -9426,7 +10119,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 967,
@@ -9447,7 +10140,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1625,
@@ -9467,7 +10160,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1051,
@@ -9487,7 +10180,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 636,
@@ -9507,7 +10200,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1150,
@@ -9527,7 +10220,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 689,
@@ -9547,7 +10240,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 725,
@@ -9567,7 +10260,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1478,
@@ -9587,7 +10280,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1466,
@@ -9607,7 +10300,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1677,
@@ -9627,7 +10320,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 686,
@@ -9647,7 +10340,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1414,
@@ -9667,7 +10360,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1804,
@@ -9687,7 +10380,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 768,
@@ -9707,7 +10400,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1407,
@@ -9727,7 +10420,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1066,
@@ -9747,7 +10440,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1112,
@@ -9767,7 +10460,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1161,
@@ -9787,7 +10480,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1671,
@@ -9807,7 +10500,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2087,
@@ -9827,7 +10520,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 101,
@@ -9847,7 +10540,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1167,
@@ -9867,7 +10560,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2184,
@@ -9888,7 +10581,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1588,
@@ -9908,7 +10601,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1844,
@@ -9928,7 +10621,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1349,
@@ -9948,7 +10641,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2176,
@@ -9969,7 +10662,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1064,
@@ -9989,7 +10682,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 735,
@@ -10009,7 +10702,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2098,
@@ -10029,7 +10722,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1599,
@@ -10048,7 +10741,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1178,
@@ -10068,7 +10761,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1827,
@@ -10087,7 +10780,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1086,
@@ -10107,7 +10800,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1674,
@@ -10126,7 +10819,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1115,
@@ -10146,7 +10839,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 928,
@@ -10166,7 +10859,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1580,
@@ -10185,7 +10878,27 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
+   },
+   {
+          number: 2277,
+      identifier: "MUC++--21",
+         meeting: "MUC++",
+         edition: "",
+           title: "C++ Build Systems",
+        speakers: [
+                     "Thomas Deniffel"
+                  ],
+           video: "https://youtube.com/watch?v=9eajOX1xZ4I",
+       thumbnail: "http://img.youtube.com/vi/9eajOX1xZ4I/0.jpg",
+        duration: 5460,
+            tags: [
+                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
    },
    {
           number: 1946,
@@ -10204,7 +10917,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2004,
@@ -10224,7 +10937,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 738,
@@ -10244,7 +10957,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1655,
@@ -10263,7 +10976,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1440,
@@ -10283,7 +10996,7 @@ const talks = [
                      "panel"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1454,
@@ -10303,7 +11016,7 @@ const talks = [
                      "panel"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1470,
@@ -10323,7 +11036,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 76,
@@ -10343,7 +11056,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1485,
@@ -10362,7 +11075,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1739,
@@ -10381,7 +11094,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 668,
@@ -10401,7 +11114,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 742,
@@ -10421,7 +11134,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 818,
@@ -10441,7 +11154,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 371,
@@ -10461,7 +11174,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 294,
@@ -10481,7 +11194,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1762,
@@ -10500,7 +11213,27 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
+   },
+   {
+          number: 2297,
+      identifier: "MUC++--41",
+         meeting: "MUC++",
+         edition: "",
+           title: "C++ Core Guidelines - Safer C++",
+        speakers: [
+                     "Peter Sommerlad"
+                  ],
+           video: "https://youtube.com/watch?v=RcPX7rhS5Lg",
+       thumbnail: "http://img.youtube.com/vi/RcPX7rhS5Lg/0.jpg",
+        duration: 5224,
+            tags: [
+                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
    },
    {
           number: 951,
@@ -10520,7 +11253,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1071,
@@ -10540,7 +11273,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1597,
@@ -10559,7 +11292,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1477,
@@ -10579,7 +11312,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1226,
@@ -10599,7 +11332,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 347,
@@ -10619,7 +11352,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 407,
@@ -10639,7 +11372,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1096,
@@ -10659,7 +11392,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1964,
@@ -10679,7 +11412,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1905,
@@ -10698,7 +11431,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2084,
@@ -10718,7 +11451,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2014,
@@ -10738,7 +11471,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 907,
@@ -10758,7 +11491,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1250,
@@ -10778,7 +11511,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1933,
@@ -10797,7 +11530,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1991,
@@ -10817,7 +11550,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 806,
@@ -10837,7 +11570,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1244,
@@ -10857,7 +11590,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 802,
@@ -10877,7 +11610,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 981,
@@ -10898,7 +11631,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 151,
@@ -10918,7 +11651,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 901,
@@ -10938,7 +11671,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 477,
@@ -10958,7 +11691,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1878,
@@ -10977,7 +11710,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2109,
@@ -10997,7 +11730,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1942,
@@ -11016,7 +11749,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2000,
@@ -11036,7 +11769,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2068,
@@ -11056,7 +11789,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2132,
@@ -11076,7 +11809,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 826,
@@ -11096,7 +11829,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 203,
@@ -11116,7 +11849,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 894,
@@ -11136,7 +11869,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 560,
@@ -11156,7 +11889,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 982,
@@ -11176,7 +11909,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 671,
@@ -11196,7 +11929,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 313,
@@ -11216,7 +11949,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1279,
@@ -11236,7 +11969,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 343,
@@ -11256,7 +11989,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1816,
@@ -11275,7 +12008,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1880,
@@ -11294,7 +12027,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1036,
@@ -11314,7 +12047,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 895,
@@ -11334,7 +12067,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 519,
@@ -11354,7 +12087,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 537,
@@ -11374,7 +12107,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 536,
@@ -11394,7 +12127,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2103,
@@ -11414,7 +12147,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 933,
@@ -11434,7 +12167,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 804,
@@ -11454,7 +12187,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2159,
@@ -11474,7 +12207,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 258,
@@ -11494,7 +12227,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2063,
@@ -11514,7 +12247,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2130,
@@ -11534,7 +12267,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 814,
@@ -11554,7 +12287,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 492,
@@ -11574,7 +12307,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 991,
@@ -11594,7 +12327,7 @@ const talks = [
                      "panel"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2019,
@@ -11614,7 +12347,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1538,
@@ -11633,7 +12366,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1156,
@@ -11653,7 +12386,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1796,
@@ -11672,7 +12405,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 829,
@@ -11692,7 +12425,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2136,
@@ -11712,7 +12445,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 566,
@@ -11732,7 +12465,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1834,
@@ -11751,7 +12484,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2143,
@@ -11771,7 +12504,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 242,
@@ -11791,7 +12524,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 128,
@@ -11811,7 +12544,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1512,
@@ -11830,7 +12563,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1073,
@@ -11850,7 +12583,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 701,
@@ -11870,7 +12603,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 38,
@@ -11890,7 +12623,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 489,
@@ -11910,7 +12643,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 146,
@@ -11930,7 +12663,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 499,
@@ -11950,7 +12683,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 106,
@@ -11970,7 +12703,27 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
+   },
+   {
+          number: 2274,
+      identifier: "MUC++--18",
+         meeting: "MUC++",
+         edition: "",
+           title: "C++11 was only the beginning",
+        speakers: [
+                     "Mateusz Pusz"
+                  ],
+           video: "https://youtube.com/watch?v=bDdmjxB_m1k",
+       thumbnail: "http://img.youtube.com/vi/bDdmjxB_m1k/0.jpg",
+        duration: 6299,
+            tags: [
+                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
    },
    {
           number: 261,
@@ -11990,7 +12743,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 415,
@@ -12011,7 +12764,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 979,
@@ -12031,7 +12784,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 52,
@@ -12051,7 +12804,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 71,
@@ -12071,7 +12824,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 223,
@@ -12091,7 +12844,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 133,
@@ -12111,7 +12864,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1811,
@@ -12130,7 +12883,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2123,
@@ -12150,7 +12903,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1500,
@@ -12169,7 +12922,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1932,
@@ -12188,7 +12941,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1990,
@@ -12208,7 +12961,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 211,
@@ -12228,7 +12981,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 262,
@@ -12248,7 +13001,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 993,
@@ -12268,7 +13021,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 999,
@@ -12288,7 +13041,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2093,
@@ -12308,7 +13061,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 320,
@@ -12328,7 +13081,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1513,
@@ -12347,7 +13100,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2049,
@@ -12367,7 +13120,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2146,
@@ -12387,7 +13140,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1687,
@@ -12406,7 +13159,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1686,
@@ -12425,7 +13178,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1685,
@@ -12444,7 +13197,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1688,
@@ -12463,7 +13216,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 392,
@@ -12483,7 +13236,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1473,
@@ -12503,7 +13256,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 271,
@@ -12523,7 +13276,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1449,
@@ -12543,7 +13296,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2145,
@@ -12563,7 +13316,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1404,
@@ -12583,7 +13336,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1424,
@@ -12603,7 +13356,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1955,
@@ -12623,7 +13376,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2006,
@@ -12643,7 +13396,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1409,
@@ -12663,7 +13416,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1281,
@@ -12683,7 +13436,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 720,
@@ -12703,7 +13456,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1368,
@@ -12723,7 +13476,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2256,
@@ -12743,7 +13496,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1378,
@@ -12763,7 +13516,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 409,
@@ -12783,7 +13536,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2125,
@@ -12803,7 +13556,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 923,
@@ -12823,7 +13576,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1681,
@@ -12842,7 +13595,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 644,
@@ -12863,7 +13616,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2075,
@@ -12883,7 +13636,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2082,
@@ -12903,7 +13656,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1648,
@@ -12923,7 +13676,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1692,
@@ -12943,7 +13696,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 996,
@@ -12963,7 +13716,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 280,
@@ -12983,7 +13736,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 284,
@@ -13003,7 +13756,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 767,
@@ -13023,7 +13776,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1390,
@@ -13043,7 +13796,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 707,
@@ -13063,7 +13816,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1822,
@@ -13083,7 +13836,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1468,
@@ -13103,7 +13856,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2150,
@@ -13123,7 +13876,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1103,
@@ -13143,7 +13896,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1321,
@@ -13163,7 +13916,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1550,
@@ -13183,7 +13936,7 @@ const talks = [
                      "panel"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1653,
@@ -13203,7 +13956,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2230,
@@ -13224,7 +13977,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 509,
@@ -13244,7 +13997,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1594,
@@ -13264,7 +14017,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2056,
@@ -13284,7 +14037,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 387,
@@ -13304,7 +14057,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2081,
@@ -13324,7 +14077,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 572,
@@ -13344,7 +14097,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1527,
@@ -13365,7 +14118,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 304,
@@ -13385,7 +14138,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1817,
@@ -13405,7 +14158,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1145,
@@ -13425,7 +14178,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 459,
@@ -13445,7 +14198,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1604,
@@ -13465,7 +14218,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1546,
@@ -13485,7 +14238,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 693,
@@ -13505,7 +14258,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1912,
@@ -13525,7 +14278,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1963,
@@ -13546,7 +14299,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1981,
@@ -13566,7 +14319,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1389,
@@ -13586,7 +14339,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1709,
@@ -13606,7 +14359,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1684,
@@ -13627,7 +14380,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 420,
@@ -13647,7 +14400,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 410,
@@ -13667,7 +14420,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1135,
@@ -13687,7 +14440,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1272,
@@ -13707,7 +14460,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 416,
@@ -13727,7 +14480,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1504,
@@ -13747,7 +14500,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 635,
@@ -13767,7 +14520,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2040,
@@ -13787,7 +14540,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1464,
@@ -13807,7 +14560,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1385,
@@ -13827,7 +14580,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 998,
@@ -13847,7 +14600,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1958,
@@ -13867,7 +14620,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 711,
@@ -13887,7 +14640,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2027,
@@ -13907,7 +14660,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 227,
@@ -13927,7 +14680,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1744,
@@ -13947,7 +14700,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2039,
@@ -13967,7 +14720,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 597,
@@ -13987,7 +14740,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1809,
@@ -14007,7 +14760,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 835,
@@ -14027,7 +14780,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 974,
@@ -14047,7 +14800,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 291,
@@ -14067,7 +14820,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 337,
@@ -14087,7 +14840,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 682,
@@ -14107,7 +14860,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2070,
@@ -14127,7 +14880,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 376,
@@ -14147,7 +14900,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 66,
@@ -14167,7 +14920,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 939,
@@ -14187,7 +14940,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1195,
@@ -14207,7 +14960,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1165,
@@ -14227,7 +14980,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 958,
@@ -14247,7 +15000,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 69,
@@ -14268,7 +15021,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1329,
@@ -14288,7 +15041,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1373,
@@ -14308,7 +15061,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1193,
@@ -14328,7 +15081,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 447,
@@ -14348,7 +15101,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 918,
@@ -14368,7 +15121,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 275,
@@ -14388,7 +15141,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 586,
@@ -14408,7 +15161,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1047,
@@ -14428,7 +15181,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1950,
@@ -14448,7 +15201,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "italian"
+        language: "Italian"
    },
    {
           number: 1052,
@@ -14468,7 +15221,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2181,
@@ -14489,7 +15242,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1815,
@@ -14509,7 +15262,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 68,
@@ -14530,7 +15283,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 135,
@@ -14550,7 +15303,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 709,
@@ -14570,7 +15323,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1228,
@@ -14590,7 +15343,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1249,
@@ -14610,7 +15363,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 652,
@@ -14630,7 +15383,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 88,
@@ -14650,7 +15403,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 764,
@@ -14670,7 +15423,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1977,
@@ -14690,7 +15443,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1185,
@@ -14710,7 +15463,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2120,
@@ -14730,7 +15483,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2244,
@@ -14750,7 +15503,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1495,
@@ -14770,7 +15523,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1556,
@@ -14790,7 +15543,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 927,
@@ -14810,7 +15563,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1133,
@@ -14830,7 +15583,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1789,
@@ -14850,7 +15603,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1700,
@@ -14870,7 +15623,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2186,
@@ -14891,7 +15644,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2241,
@@ -14911,7 +15664,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 530,
@@ -14931,7 +15684,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 723,
@@ -14951,7 +15704,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2118,
@@ -14971,7 +15724,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 757,
@@ -14991,7 +15744,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1010,
@@ -15011,7 +15764,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1737,
@@ -15031,7 +15784,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 268,
@@ -15052,7 +15805,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1099,
@@ -15073,7 +15826,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 929,
@@ -15093,7 +15846,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 179,
@@ -15113,7 +15866,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 904,
@@ -15133,7 +15886,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1507,
@@ -15153,7 +15906,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1419,
@@ -15173,7 +15926,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 125,
@@ -15193,7 +15946,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 696,
@@ -15213,7 +15966,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 778,
@@ -15235,7 +15988,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1235,
@@ -15255,7 +16008,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1236,
@@ -15275,7 +16028,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2147,
@@ -15295,7 +16048,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1334,
@@ -15315,7 +16068,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 970,
@@ -15335,7 +16088,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1770,
@@ -15355,7 +16108,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 805,
@@ -15375,7 +16128,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 446,
@@ -15395,7 +16148,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1330,
@@ -15415,7 +16168,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 984,
@@ -15436,7 +16189,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 217,
@@ -15457,7 +16210,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1491,
@@ -15477,7 +16230,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 678,
@@ -15497,7 +16250,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2065,
@@ -15517,7 +16270,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1781,
@@ -15537,7 +16290,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 134,
@@ -15557,7 +16310,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1098,
@@ -15577,7 +16330,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2010,
@@ -15597,7 +16350,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 827,
@@ -15617,7 +16370,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 729,
@@ -15637,7 +16390,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 153,
@@ -15657,7 +16410,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 834,
@@ -15677,7 +16430,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1493,
@@ -15697,7 +16450,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 713,
@@ -15717,7 +16470,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1913,
@@ -15737,7 +16490,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1627,
@@ -15757,7 +16510,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1237,
@@ -15777,7 +16530,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 708,
@@ -15797,7 +16550,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 165,
@@ -15817,7 +16570,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1846,
@@ -15837,7 +16590,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 26,
@@ -15857,7 +16610,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2172,
@@ -15878,7 +16631,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2229,
@@ -15899,7 +16652,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 515,
@@ -15919,7 +16672,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1536,
@@ -15939,7 +16692,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 798,
@@ -15959,7 +16712,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 688,
@@ -15979,7 +16732,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1128,
@@ -15999,7 +16752,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2170,
@@ -16019,7 +16772,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 924,
@@ -16040,7 +16793,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1412,
@@ -16060,7 +16813,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1836,
@@ -16080,7 +16833,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1199,
@@ -16100,7 +16853,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1959,
@@ -16120,7 +16873,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 300,
@@ -16140,7 +16893,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1583,
@@ -16160,7 +16913,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 456,
@@ -16180,7 +16933,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 448,
@@ -16200,7 +16953,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 664,
@@ -16220,7 +16973,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 4,
@@ -16240,7 +16993,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2238,
@@ -16261,7 +17014,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2024,
@@ -16281,7 +17034,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1641,
@@ -16301,7 +17054,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1218,
@@ -16321,7 +17074,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1285,
@@ -16341,7 +17094,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1863,
@@ -16361,7 +17114,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 676,
@@ -16381,7 +17134,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1405,
@@ -16401,7 +17154,7 @@ const talks = [
                      "panel"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1628,
@@ -16421,7 +17174,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 643,
@@ -16442,7 +17195,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 345,
@@ -16462,7 +17215,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1264,
@@ -16482,7 +17235,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1826,
@@ -16502,7 +17255,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1927,
@@ -16522,7 +17275,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1985,
@@ -16542,7 +17295,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2243,
@@ -16562,7 +17315,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 85,
@@ -16582,7 +17335,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1222,
@@ -16602,7 +17355,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 730,
@@ -16622,7 +17375,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 212,
@@ -16642,7 +17395,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2155,
@@ -16662,7 +17415,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2037,
@@ -16682,7 +17435,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 968,
@@ -16702,7 +17455,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 653,
@@ -16722,7 +17475,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1732,
@@ -16742,7 +17495,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 871,
@@ -16762,7 +17515,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1108,
@@ -16782,7 +17535,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2020,
@@ -16802,7 +17555,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 647,
@@ -16822,7 +17575,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 520,
@@ -16842,7 +17595,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 857,
@@ -16862,7 +17615,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 856,
@@ -16882,7 +17635,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1146,
@@ -16902,7 +17655,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1849,
@@ -16922,7 +17675,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 940,
@@ -16942,7 +17695,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 364,
@@ -16962,7 +17715,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1679,
@@ -16982,7 +17735,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 994,
@@ -17002,7 +17755,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1774,
@@ -17022,7 +17775,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 348,
@@ -17042,7 +17795,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2174,
@@ -17063,7 +17816,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 28,
@@ -17083,7 +17836,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1427,
@@ -17103,7 +17856,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2099,
@@ -17123,7 +17876,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1123,
@@ -17143,7 +17896,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1723,
@@ -17163,7 +17916,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 232,
@@ -17183,7 +17936,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 706,
@@ -17203,7 +17956,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 455,
@@ -17223,7 +17976,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1090,
@@ -17243,7 +17996,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1139,
@@ -17263,7 +18016,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 587,
@@ -17283,7 +18036,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2168,
@@ -17303,7 +18056,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1082,
@@ -17323,7 +18076,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 476,
@@ -17343,7 +18096,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2167,
@@ -17363,7 +18116,27 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
+   },
+   {
+          number: 2276,
+      identifier: "MUC++--20",
+         meeting: "MUC++",
+         edition: "",
+           title: "Designing Multithreaded Code for Scalability",
+        speakers: [
+                     "Anthony Williams"
+                  ],
+           video: "https://youtube.com/watch?v=AcgcpAlrnlw",
+       thumbnail: "http://img.youtube.com/vi/AcgcpAlrnlw/0.jpg",
+        duration: 4101,
+            tags: [
+                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
    },
    {
           number: 2228,
@@ -17384,7 +18157,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 497,
@@ -17404,7 +18177,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 155,
@@ -17424,7 +18197,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1354,
@@ -17444,7 +18217,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 205,
@@ -17464,7 +18237,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2227,
@@ -17485,7 +18258,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 528,
@@ -17505,7 +18278,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 989,
@@ -17525,7 +18298,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1078,
@@ -17545,7 +18318,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1590,
@@ -17565,7 +18338,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 190,
@@ -17585,7 +18358,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2226,
@@ -17606,7 +18379,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2225,
@@ -17627,7 +18400,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2202,
@@ -17648,7 +18421,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1575,
@@ -17668,7 +18441,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1589,
@@ -17688,7 +18461,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1666,
@@ -17708,7 +18481,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 224,
@@ -17728,7 +18501,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 170,
@@ -17748,7 +18521,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1582,
@@ -17768,7 +18541,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1719,
@@ -17788,7 +18561,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 44,
@@ -17808,7 +18581,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1799,
@@ -17828,7 +18601,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 599,
@@ -17848,7 +18621,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1630,
@@ -17868,7 +18641,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2193,
@@ -17889,7 +18662,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1761,
@@ -17909,7 +18682,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 354,
@@ -17929,7 +18702,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 226,
@@ -17950,7 +18723,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 469,
@@ -17970,7 +18743,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2097,
@@ -17990,7 +18763,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "hebrew"
+        language: "Hebrew"
    },
    {
           number: 1211,
@@ -18010,7 +18783,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 65,
@@ -18030,7 +18803,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 909,
@@ -18051,7 +18824,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 737,
@@ -18071,7 +18844,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 624,
@@ -18091,7 +18864,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1475,
@@ -18111,7 +18884,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1154,
@@ -18131,7 +18904,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 96,
@@ -18151,7 +18924,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1418,
@@ -18171,7 +18944,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 100,
@@ -18192,7 +18965,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1129,
@@ -18212,7 +18985,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1267,
@@ -18232,7 +19005,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1101,
@@ -18252,7 +19025,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1612,
@@ -18273,7 +19046,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1622,
@@ -18293,7 +19066,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 117,
@@ -18313,7 +19086,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1782,
@@ -18333,7 +19106,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 324,
@@ -18353,7 +19126,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1198,
@@ -18373,7 +19146,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1324,
@@ -18394,7 +19167,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 292,
@@ -18414,7 +19187,27 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
+   },
+   {
+          number: 2309,
+      identifier: "MUC++--53",
+         meeting: "MUC++",
+         edition: "",
+           title: "Effective CMake",
+        speakers: [
+                     "Daniel Pfeifer"
+                  ],
+           video: "https://youtube.com/watch?v=rLopVhns4Zs",
+       thumbnail: "http://img.youtube.com/vi/rLopVhns4Zs/0.jpg",
+        duration: 6586,
+            tags: [
+                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
    },
    {
           number: 1707,
@@ -18434,7 +19227,27 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
+   },
+   {
+          number: 2308,
+      identifier: "MUC++--52",
+         meeting: "MUC++",
+         edition: "",
+           title: "Effective dependency management with CMake",
+        speakers: [
+                     "Kai Wolf"
+                  ],
+           video: "https://youtube.com/watch?v=QayyhI-36os",
+       thumbnail: "http://img.youtube.com/vi/QayyhI-36os/0.jpg",
+        duration: 3734,
+            tags: [
+                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
    },
    {
           number: 1616,
@@ -18454,7 +19267,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 529,
@@ -18474,7 +19287,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1170,
@@ -18494,7 +19307,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1415,
@@ -18514,7 +19327,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1280,
@@ -18534,7 +19347,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1894,
@@ -18554,7 +19367,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 832,
@@ -18574,7 +19387,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1766,
@@ -18594,7 +19407,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1345,
@@ -18614,7 +19427,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1731,
@@ -18634,7 +19447,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1904,
@@ -18654,7 +19467,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 803,
@@ -18674,7 +19487,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 602,
@@ -18694,7 +19507,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2224,
@@ -18715,7 +19528,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 365,
@@ -18735,7 +19548,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2192,
@@ -18756,7 +19569,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 777,
@@ -18777,7 +19590,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1706,
@@ -18797,7 +19610,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1406,
@@ -18817,7 +19630,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 784,
@@ -18838,7 +19651,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 872,
@@ -18858,7 +19671,27 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
+   },
+   {
+          number: 2268,
+      identifier: "MUC++--12",
+         meeting: "MUC++",
+         edition: "",
+           title: "Embrace No Paradigm Programming!",
+        speakers: [
+                     "Klaus Iglberger"
+                  ],
+           video: "https://youtube.com/watch?v=fwXaRH5ffJM",
+       thumbnail: "http://img.youtube.com/vi/fwXaRH5ffJM/0.jpg",
+        duration: 3480,
+            tags: [
+                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
    },
    {
           number: 2142,
@@ -18878,7 +19711,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1044,
@@ -18899,7 +19732,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1907,
@@ -18919,7 +19752,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1463,
@@ -18939,7 +19772,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 836,
@@ -18959,7 +19792,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1265,
@@ -18979,7 +19812,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1879,
@@ -18999,7 +19832,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 685,
@@ -19019,7 +19852,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1114,
@@ -19039,7 +19872,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 965,
@@ -19059,7 +19892,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1224,
@@ -19079,7 +19912,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1118,
@@ -19099,7 +19932,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1197,
@@ -19119,7 +19952,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 754,
@@ -19139,7 +19972,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2183,
@@ -19160,7 +19993,27 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
+   },
+   {
+          number: 2282,
+      identifier: "MUC++--26",
+         meeting: "MUC++",
+         edition: "",
+           title: "EOS Software development for additive manufacturing",
+        speakers: [
+                     "Bernd Biechele"
+                  ],
+           video: "https://youtube.com/watch?v=UMhdu0keAj0",
+       thumbnail: "http://img.youtube.com/vi/UMhdu0keAj0/0.jpg",
+        duration: 1551,
+            tags: [
+                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
    },
    {
           number: 2154,
@@ -19180,7 +20033,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1342,
@@ -19200,7 +20053,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1113,
@@ -19220,7 +20073,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1361,
@@ -19240,7 +20093,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1125,
@@ -19260,7 +20113,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 966,
@@ -19280,7 +20133,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1055,
@@ -19300,7 +20153,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 867,
@@ -19320,7 +20173,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 866,
@@ -19340,7 +20193,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 865,
@@ -19360,7 +20213,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 83,
@@ -19380,7 +20233,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 84,
@@ -19400,7 +20253,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2044,
@@ -19420,7 +20273,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 235,
@@ -19440,7 +20293,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 384,
@@ -19460,7 +20313,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1445,
@@ -19480,7 +20333,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 910,
@@ -19500,7 +20353,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 502,
@@ -19520,7 +20373,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 440,
@@ -19540,7 +20393,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 452,
@@ -19560,7 +20413,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1266,
@@ -19580,7 +20433,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2115,
@@ -19600,7 +20453,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 161,
@@ -19609,7 +20462,7 @@ const talks = [
          edition: "2014",
            title: "Expected- An exception-friendly Error Monad",
         speakers: [
-                     "Vicente Botet"
+                     "Vicente J. Botet Escriba"
                   ],
            video: "https://youtube.com/watch?v=Zdlt1rgYdMQ",
        thumbnail: "http://img.youtube.com/vi/Zdlt1rgYdMQ/0.jpg",
@@ -19620,7 +20473,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1704,
@@ -19641,7 +20494,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 393,
@@ -19661,7 +20514,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1528,
@@ -19683,7 +20536,27 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
+   },
+   {
+          number: 2272,
+      identifier: "MUC++--16",
+         meeting: "MUC++",
+         edition: "",
+           title: "Expertise Research in Software Engineering C/C++ Code Reviews",
+        speakers: [
+                     "Jurgen Mottok"
+                  ],
+           video: "https://youtube.com/watch?v=8S6H4dPw03Q",
+       thumbnail: "http://img.youtube.com/vi/8S6H4dPw03Q/0.jpg",
+        duration: 1589,
+            tags: [
+                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
    },
    {
           number: 1423,
@@ -19703,7 +20576,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 573,
@@ -19723,7 +20596,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1557,
@@ -19743,7 +20616,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 891,
@@ -19763,7 +20636,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 265,
@@ -19783,7 +20656,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1332,
@@ -19803,7 +20676,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 493,
@@ -19823,7 +20696,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 902,
@@ -19843,7 +20716,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 906,
@@ -19863,7 +20736,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1740,
@@ -19883,7 +20756,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 245,
@@ -19903,7 +20776,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1919,
@@ -19923,7 +20796,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 987,
@@ -19943,7 +20816,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1980,
@@ -19963,7 +20836,47 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
+   },
+   {
+          number: 2271,
+      identifier: "MUC++--15",
+         meeting: "MUC++",
+         edition: "",
+           title: "Eye tracking / reading",
+        speakers: [
+                     "Kenneth Holmqvist"
+                  ],
+           video: "https://youtube.com/watch?v=6RJeKt0L9hA",
+       thumbnail: "http://img.youtube.com/vi/6RJeKt0L9hA/0.jpg",
+        duration: 874,
+            tags: [
+                     "c++",
+                     "lightning",
+                     "live"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2270,
+      identifier: "MUC++--14",
+         meeting: "MUC++",
+         edition: "",
+           title: "Eye tracking in code reviews",
+        speakers: [
+                     "Florian Hauser"
+                  ],
+           video: "https://youtube.com/watch?v=6Y9JiWDGq1I",
+       thumbnail: "http://img.youtube.com/vi/6Y9JiWDGq1I/0.jpg",
+        duration: 1409,
+            tags: [
+                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
    },
    {
           number: 1565,
@@ -19983,7 +20896,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 327,
@@ -20003,7 +20916,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1275,
@@ -20023,7 +20936,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 640,
@@ -20043,7 +20956,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 314,
@@ -20063,7 +20976,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1200,
@@ -20083,7 +20996,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 17,
@@ -20103,7 +21016,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 605,
@@ -20123,7 +21036,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1366,
@@ -20143,7 +21056,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 893,
@@ -20163,7 +21076,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1111,
@@ -20183,7 +21096,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1661,
@@ -20203,7 +21116,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1725,
@@ -20223,7 +21136,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1543,
@@ -20243,7 +21156,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1893,
@@ -20263,7 +21176,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1808,
@@ -20283,7 +21196,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1715,
@@ -20303,7 +21216,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 736,
@@ -20323,7 +21236,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 461,
@@ -20343,7 +21256,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2124,
@@ -20363,7 +21276,7 @@ const talks = [
                      "panel"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1081,
@@ -20383,7 +21296,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 216,
@@ -20403,7 +21316,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1119,
@@ -20423,7 +21336,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2074,
@@ -20443,7 +21356,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1884,
@@ -20463,7 +21376,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 353,
@@ -20483,7 +21396,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 844,
@@ -20504,7 +21417,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 462,
@@ -20524,7 +21437,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 540,
@@ -20544,7 +21457,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1574,
@@ -20564,7 +21477,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 656,
@@ -20584,7 +21497,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1339,
@@ -20604,7 +21517,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 55,
@@ -20624,7 +21537,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 473,
@@ -20644,7 +21557,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 231,
@@ -20664,7 +21577,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1301,
@@ -20684,7 +21597,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2223,
@@ -20705,7 +21618,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 978,
@@ -20725,7 +21638,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 763,
@@ -20745,7 +21658,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2113,
@@ -20765,7 +21678,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2013,
@@ -20785,7 +21698,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 532,
@@ -20805,7 +21718,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1885,
@@ -20825,7 +21738,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 332,
@@ -20845,7 +21758,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1117,
@@ -20865,7 +21778,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1287,
@@ -20885,7 +21798,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1256,
@@ -20905,7 +21818,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 655,
@@ -20925,7 +21838,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 273,
@@ -20945,7 +21858,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 204,
@@ -20965,7 +21878,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 744,
@@ -20985,7 +21898,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 97,
@@ -21005,7 +21918,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2053,
@@ -21025,7 +21938,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1126,
@@ -21045,7 +21958,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 615,
@@ -21065,7 +21978,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 585,
@@ -21085,7 +21998,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1786,
@@ -21105,7 +22018,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 159,
@@ -21125,7 +22038,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 917,
@@ -21145,7 +22058,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1457,
@@ -21165,7 +22078,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 175,
@@ -21185,7 +22098,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1490,
@@ -21205,7 +22118,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1764,
@@ -21225,7 +22138,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 8,
@@ -21245,7 +22158,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 523,
@@ -21265,7 +22178,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1539,
@@ -21285,7 +22198,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2111,
@@ -21305,7 +22218,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2121,
@@ -21325,7 +22238,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1537,
@@ -21345,7 +22258,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 646,
@@ -21365,7 +22278,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 972,
@@ -21385,7 +22298,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 169,
@@ -21405,7 +22318,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 570,
@@ -21425,7 +22338,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 914,
@@ -21445,7 +22358,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 198,
@@ -21465,7 +22378,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1516,
@@ -21485,7 +22398,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1255,
@@ -21505,7 +22418,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 49,
@@ -21525,7 +22438,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1525,
@@ -21545,7 +22458,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 356,
@@ -21565,7 +22478,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1120,
@@ -21585,7 +22498,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1459,
@@ -21605,7 +22518,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1164,
@@ -21625,7 +22538,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 321,
@@ -21645,7 +22558,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1058,
@@ -21665,7 +22578,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 791,
@@ -21685,7 +22598,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1068,
@@ -21705,7 +22618,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1024,
@@ -21725,7 +22638,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 318,
@@ -21745,7 +22658,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 486,
@@ -21765,7 +22678,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 359,
@@ -21785,7 +22698,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1320,
@@ -21805,7 +22718,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2094,
@@ -21825,7 +22738,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 511,
@@ -21845,7 +22758,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 29,
@@ -21865,7 +22778,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 491,
@@ -21885,7 +22798,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1626,
@@ -21905,7 +22818,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2158,
@@ -21925,7 +22838,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 11,
@@ -21945,7 +22858,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 522,
@@ -21965,7 +22878,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 72,
@@ -21985,7 +22898,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 137,
@@ -22005,7 +22918,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 880,
@@ -22025,7 +22938,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 879,
@@ -22045,7 +22958,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 172,
@@ -22065,7 +22978,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1429,
@@ -22085,7 +22998,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1371,
@@ -22106,7 +23019,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1701,
@@ -22126,7 +23039,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 43,
@@ -22146,7 +23059,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1629,
@@ -22166,7 +23079,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1257,
@@ -22186,7 +23099,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 352,
@@ -22206,7 +23119,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2190,
@@ -22227,7 +23140,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1602,
@@ -22247,7 +23160,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 755,
@@ -22267,7 +23180,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1923,
@@ -22287,7 +23200,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1566,
@@ -22307,7 +23220,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1562,
@@ -22327,7 +23240,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 148,
@@ -22347,7 +23260,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1864,
@@ -22367,7 +23280,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1607,
@@ -22387,7 +23300,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 556,
@@ -22407,7 +23320,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 298,
@@ -22427,7 +23340,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 256,
@@ -22447,7 +23360,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2198,
@@ -22468,7 +23381,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1906,
@@ -22488,7 +23401,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1591,
@@ -22508,7 +23421,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1296,
@@ -22528,7 +23441,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1791,
@@ -22548,7 +23461,7 @@ const talks = [
                      "panel"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1835,
@@ -22568,7 +23481,7 @@ const talks = [
                      "panel"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 785,
@@ -22588,7 +23501,7 @@ const talks = [
                      "panel"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 913,
@@ -22608,7 +23521,7 @@ const talks = [
                      "panel"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 985,
@@ -22628,7 +23541,7 @@ const talks = [
                      "panel"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1121,
@@ -22648,7 +23561,7 @@ const talks = [
                      "panel"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2248,
@@ -22668,7 +23581,7 @@ const talks = [
                      "panel"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 559,
@@ -22688,7 +23601,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1842,
@@ -22708,7 +23621,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1829,
@@ -22728,7 +23641,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1398,
@@ -22748,7 +23661,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1143,
@@ -22768,7 +23681,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 884,
@@ -22788,7 +23701,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1542,
@@ -22808,7 +23721,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 33,
@@ -22828,7 +23741,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 32,
@@ -22848,7 +23761,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 905,
@@ -22868,7 +23781,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 269,
@@ -22888,7 +23801,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1663,
@@ -22908,7 +23821,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1916,
@@ -22928,7 +23841,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1374,
@@ -22949,7 +23862,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1875,
@@ -22970,7 +23883,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1861,
@@ -22990,7 +23903,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1865,
@@ -23010,7 +23923,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1848,
@@ -23030,7 +23943,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1421,
@@ -23051,7 +23964,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 389,
@@ -23071,7 +23984,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 741,
@@ -23091,7 +24004,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2085,
@@ -23111,7 +24024,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1003,
@@ -23132,7 +24045,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1019,
@@ -23152,7 +24065,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 697,
@@ -23172,7 +24085,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 734,
@@ -23193,7 +24106,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1231,
@@ -23213,7 +24126,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 679,
@@ -23233,7 +24146,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 391,
@@ -23253,7 +24166,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1850,
@@ -23273,7 +24186,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1362,
@@ -23293,7 +24206,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1777,
@@ -23313,7 +24226,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 457,
@@ -23333,7 +24246,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1978,
@@ -23353,7 +24266,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 435,
@@ -23373,7 +24286,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 828,
@@ -23393,7 +24306,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 579,
@@ -23413,7 +24326,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1037,
@@ -23433,7 +24346,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1659,
@@ -23453,7 +24366,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 649,
@@ -23473,7 +24386,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1232,
@@ -23493,7 +24406,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1851,
@@ -23513,7 +24426,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 771,
@@ -23533,7 +24446,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1462,
@@ -23553,7 +24466,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 339,
@@ -23573,7 +24486,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1859,
@@ -23594,7 +24507,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2200,
@@ -23615,7 +24528,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2222,
@@ -23636,7 +24549,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 60,
@@ -23656,7 +24569,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1603,
@@ -23676,7 +24589,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 363,
@@ -23696,7 +24609,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1872,
@@ -23716,7 +24629,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2050,
@@ -23736,7 +24649,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1807,
@@ -23756,7 +24669,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2025,
@@ -23776,7 +24689,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1742,
@@ -23796,7 +24709,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1484,
@@ -23816,7 +24729,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 842,
@@ -23836,7 +24749,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1479,
@@ -23856,7 +24769,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 158,
@@ -23876,7 +24789,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1633,
@@ -23896,7 +24809,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1716,
@@ -23916,7 +24829,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1552,
@@ -23936,7 +24849,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1305,
@@ -23956,7 +24869,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 740,
@@ -23976,7 +24889,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2240,
@@ -23996,7 +24909,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2179,
@@ -24017,7 +24930,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 957,
@@ -24037,7 +24950,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2221,
@@ -24058,7 +24971,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 779,
@@ -24079,7 +24992,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2079,
@@ -24099,7 +25012,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2030,
@@ -24119,7 +25032,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1225,
@@ -24139,7 +25052,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1920,
@@ -24159,7 +25072,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 588,
@@ -24179,7 +25092,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1059,
@@ -24199,7 +25112,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 578,
@@ -24219,7 +25132,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1975,
@@ -24239,7 +25152,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1176,
@@ -24259,7 +25172,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1315,
@@ -24279,7 +25192,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1752,
@@ -24299,7 +25212,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1122,
@@ -24319,7 +25232,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 687,
@@ -24339,7 +25252,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1230,
@@ -24359,7 +25272,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1929,
@@ -24379,7 +25292,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1987,
@@ -24399,7 +25312,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 413,
@@ -24419,7 +25332,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 789,
@@ -24439,7 +25352,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 196,
@@ -24459,7 +25372,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 59,
@@ -24479,7 +25392,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1474,
@@ -24499,7 +25412,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 858,
@@ -24519,7 +25432,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1586,
@@ -24539,7 +25452,27 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
+   },
+   {
+          number: 2302,
+      identifier: "MUC++--46",
+         meeting: "MUC++",
+         edition: "",
+           title: "Howling at the Moon: Lua for C++ Programmers",
+        speakers: [
+                     "Andreas Weis"
+                  ],
+           video: "https://youtube.com/watch?v=tvM8B228dZY",
+       thumbnail: "http://img.youtube.com/vi/tvM8B228dZY/0.jpg",
+        duration: 3104,
+            tags: [
+                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
    },
    {
           number: 251,
@@ -24559,7 +25492,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 115,
@@ -24580,7 +25513,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 78,
@@ -24602,7 +25535,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1499,
@@ -24622,7 +25555,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 552,
@@ -24642,7 +25575,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2009,
@@ -24662,7 +25595,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 745,
@@ -24682,7 +25615,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1065,
@@ -24702,7 +25635,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1795,
@@ -24722,7 +25655,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2164,
@@ -24742,7 +25675,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 395,
@@ -24762,7 +25695,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 322,
@@ -24782,7 +25715,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 403,
@@ -24802,7 +25735,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1375,
@@ -24822,7 +25755,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1825,
@@ -24842,7 +25775,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 201,
@@ -24862,7 +25795,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2175,
@@ -24883,7 +25816,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1881,
@@ -24903,7 +25836,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 890,
@@ -24923,7 +25856,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 233,
@@ -24943,7 +25876,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 592,
@@ -24963,7 +25896,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 236,
@@ -24983,7 +25916,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 593,
@@ -25003,7 +25936,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1001,
@@ -25023,7 +25956,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 288,
@@ -25043,7 +25976,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 70,
@@ -25063,7 +25996,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 234,
@@ -25083,7 +26016,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1076,
@@ -25103,7 +26036,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 591,
@@ -25123,7 +26056,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2107,
@@ -25143,7 +26076,27 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
+   },
+   {
+          number: 2289,
+      identifier: "MUC++--33",
+         meeting: "MUC++",
+         edition: "",
+           title: "Implementing MOF based Modeling Languages with C++ and Qt",
+        speakers: [
+                     "Sandro Andrade"
+                  ],
+           video: "https://youtube.com/watch?v=NW2jSyTC5-s",
+       thumbnail: "http://img.youtube.com/vi/NW2jSyTC5-s/0.jpg",
+        duration: 2828,
+            tags: [
+                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
    },
    {
           number: 372,
@@ -25163,7 +26116,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1886,
@@ -25183,7 +26136,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2255,
@@ -25203,7 +26156,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 250,
@@ -25223,7 +26176,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1785,
@@ -25243,7 +26196,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1938,
@@ -25263,7 +26216,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1996,
@@ -25283,7 +26236,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 629,
@@ -25303,7 +26256,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1733,
@@ -25323,7 +26276,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 992,
@@ -25343,7 +26296,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2017,
@@ -25363,7 +26316,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1771,
@@ -25383,7 +26336,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1333,
@@ -25403,7 +26356,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1319,
@@ -25423,7 +26376,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2088,
@@ -25443,7 +26396,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 672,
@@ -25463,7 +26416,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 341,
@@ -25483,7 +26436,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1971,
@@ -25503,7 +26456,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 110,
@@ -25523,7 +26476,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 15,
@@ -25544,7 +26497,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1041,
@@ -25564,7 +26517,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2180,
@@ -25585,7 +26538,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 921,
@@ -25605,7 +26558,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 35,
@@ -25625,7 +26578,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 533,
@@ -25645,7 +26598,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 443,
@@ -25665,7 +26618,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1887,
@@ -25685,7 +26638,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 156,
@@ -25705,7 +26658,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 494,
@@ -25726,7 +26679,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 86,
@@ -25746,7 +26699,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1568,
@@ -25766,7 +26719,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1952,
@@ -25787,7 +26740,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2139,
@@ -25796,7 +26749,7 @@ const talks = [
          edition: "2020",
            title: "interview with Alex Bolboaca",
         speakers: [
-                     "interview"
+                     
                   ],
            video: "https://youtube.com/watch?v=SCYQNrUydoU",
        thumbnail: "http://img.youtube.com/vi/SCYQNrUydoU/0.jpg",
@@ -25807,7 +26760,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2127,
@@ -25816,7 +26769,7 @@ const talks = [
          edition: "2020",
            title: "interview with Augustin Popa & Elizabeth Morrow",
         speakers: [
-                     "interview"
+                     
                   ],
            video: "https://youtube.com/watch?v=4Iz6-kspnvQ",
        thumbnail: "http://img.youtube.com/vi/4Iz6-kspnvQ/0.jpg",
@@ -25827,7 +26780,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1455,
@@ -25836,7 +26789,7 @@ const talks = [
          edition: "2020",
            title: "interview with C++ Committee's Library Evolution Working Group",
         speakers: [
-                     "interview"
+                     
                   ],
            video: "https://youtube.com/watch?v=Py1eVrJ2S88",
        thumbnail: "http://img.youtube.com/vi/Py1eVrJ2S88/0.jpg",
@@ -25847,7 +26800,7 @@ const talks = [
                      "panel"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1408,
@@ -25856,7 +26809,7 @@ const talks = [
          edition: "2020",
            title: "interview with C++ Standards Committee Fireside Chat",
         speakers: [
-                     "interview"
+                     
                   ],
            video: "https://youtube.com/watch?v=lil4xfpmnF4",
        thumbnail: "http://img.youtube.com/vi/lil4xfpmnF4/0.jpg",
@@ -25867,7 +26820,7 @@ const talks = [
                      "panel"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2135,
@@ -25876,7 +26829,7 @@ const talks = [
          edition: "2020",
            title: "interview with Clare Macrae",
         speakers: [
-                     "interview"
+                     
                   ],
            video: "https://youtube.com/watch?v=u-NAIwImsBM",
        thumbnail: "http://img.youtube.com/vi/u-NAIwImsBM/0.jpg",
@@ -25887,7 +26840,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 478,
@@ -25896,7 +26849,7 @@ const talks = [
          edition: "2014",
            title: "interview with Hartmut Kaiser and Scott Meyers",
         speakers: [
-                     "interview"
+                     
                   ],
            video: "https://youtube.com/watch?v=_a0usu0dMew",
        thumbnail: "http://img.youtube.com/vi/_a0usu0dMew/0.jpg",
@@ -25907,7 +26860,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2129,
@@ -25916,7 +26869,7 @@ const talks = [
          edition: "2020",
            title: "interview with Jose Daniel Garcia",
         speakers: [
-                     "interview"
+                     
                   ],
            video: "https://youtube.com/watch?v=KY53HJ4i5LQ",
        thumbnail: "http://img.youtube.com/vi/KY53HJ4i5LQ/0.jpg",
@@ -25927,7 +26880,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2137,
@@ -25936,7 +26889,7 @@ const talks = [
          edition: "2020",
            title: "interview with Klaus Iglberger",
         speakers: [
-                     "interview"
+                     
                   ],
            video: "https://youtube.com/watch?v=U841JXtHu-M",
        thumbnail: "http://img.youtube.com/vi/U841JXtHu-M/0.jpg",
@@ -25947,7 +26900,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2138,
@@ -25956,7 +26909,7 @@ const talks = [
          edition: "2020",
            title: "interview with Manuel Benche",
         speakers: [
-                     "interview"
+                     
                   ],
            video: "https://youtube.com/watch?v=d2a658ArMhs",
        thumbnail: "http://img.youtube.com/vi/d2a658ArMhs/0.jpg",
@@ -25967,7 +26920,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2131,
@@ -25976,7 +26929,7 @@ const talks = [
          edition: "2020",
            title: "interview with Marius Bancila",
         speakers: [
-                     "interview"
+                     
                   ],
            video: "https://youtube.com/watch?v=ywhe3zyHj7Q",
        thumbnail: "http://img.youtube.com/vi/ywhe3zyHj7Q/0.jpg",
@@ -25987,7 +26940,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2133,
@@ -25996,7 +26949,7 @@ const talks = [
          edition: "2020",
            title: "interview with Peter Hilton",
         speakers: [
-                     "interview"
+                     
                   ],
            video: "https://youtube.com/watch?v=jOkoNCcPbXI",
        thumbnail: "http://img.youtube.com/vi/jOkoNCcPbXI/0.jpg",
@@ -26007,7 +26960,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2078,
@@ -26016,7 +26969,7 @@ const talks = [
          edition: "2019",
            title: "interview with Rafi Wiener ::  Question",
         speakers: [
-                     "interview"
+                     
                   ],
            video: "https://youtube.com/watch?v=jQbbPM9fsAQ",
        thumbnail: "http://img.youtube.com/vi/jQbbPM9fsAQ/0.jpg",
@@ -26027,7 +26980,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 503,
@@ -26036,7 +26989,7 @@ const talks = [
          edition: "2015",
            title: "interview with speakers",
         speakers: [
-                     "interview"
+                     
                   ],
            video: "https://youtube.com/watch?v=NA_L6KXWX88",
        thumbnail: "http://img.youtube.com/vi/NA_L6KXWX88/0.jpg",
@@ -26047,7 +27000,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1960,
@@ -26056,7 +27009,7 @@ const talks = [
          edition: "2020",
            title: "interview with The Silicon Valley coding  (Nicolo Valigi)",
         speakers: [
-                     "interview"
+                     
                   ],
            video: "https://youtube.com/watch?v=vKfXw5VdbB8",
        thumbnail: "http://img.youtube.com/vi/vKfXw5VdbB8/0.jpg",
@@ -26067,7 +27020,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2171,
@@ -26088,7 +27041,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 164,
@@ -26108,7 +27061,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1573,
@@ -26128,7 +27081,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1773,
@@ -26148,7 +27101,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 295,
@@ -26168,7 +27121,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1460,
@@ -26189,7 +27142,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2160,
@@ -26209,7 +27162,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2220,
@@ -26230,7 +27183,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1561,
@@ -26250,7 +27203,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2205,
@@ -26271,7 +27224,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2234,
@@ -26292,7 +27245,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1705,
@@ -26312,7 +27265,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 512,
@@ -26333,7 +27286,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 873,
@@ -26353,7 +27306,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1025,
@@ -26373,7 +27326,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1054,
@@ -26393,7 +27346,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2233,
@@ -26414,7 +27367,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1689,
@@ -26434,7 +27387,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 81,
@@ -26454,7 +27407,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 82,
@@ -26474,7 +27427,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 621,
@@ -26494,7 +27447,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1792,
@@ -26514,7 +27467,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2232,
@@ -26535,7 +27488,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 820,
@@ -26555,7 +27508,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1075,
@@ -26575,7 +27528,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 238,
@@ -26595,7 +27548,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1554,
@@ -26615,7 +27568,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1483,
@@ -26635,7 +27588,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 12,
@@ -26655,7 +27608,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 611,
@@ -26675,7 +27628,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1106,
@@ -26697,7 +27650,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1107,
@@ -26719,7 +27672,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 634,
@@ -26739,7 +27692,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 607,
@@ -26759,7 +27712,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1610,
@@ -26779,7 +27732,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 601,
@@ -26799,7 +27752,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1890,
@@ -26819,7 +27772,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1888,
@@ -26839,7 +27792,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 423,
@@ -26859,7 +27812,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 167,
@@ -26879,7 +27832,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2219,
@@ -26900,7 +27853,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1650,
@@ -26920,7 +27873,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1523,
@@ -26940,7 +27893,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1853,
@@ -26960,7 +27913,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1399,
@@ -26980,7 +27933,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1420,
@@ -27001,7 +27954,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2122,
@@ -27021,7 +27974,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 513,
@@ -27041,7 +27994,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1741,
@@ -27061,7 +28014,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1818,
@@ -27081,7 +28034,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 75,
@@ -27101,7 +28054,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1453,
@@ -27121,7 +28074,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2077,
@@ -27141,7 +28094,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 53,
@@ -27161,7 +28114,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2029,
@@ -27181,7 +28134,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 765,
@@ -27201,7 +28154,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 897,
@@ -27221,7 +28174,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 920,
@@ -27241,7 +28194,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 183,
@@ -27261,7 +28214,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 184,
@@ -27281,7 +28234,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 855,
@@ -27301,7 +28254,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2105,
@@ -27321,7 +28274,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "hebrew"
+        language: "Hebrew"
    },
    {
           number: 1093,
@@ -27342,7 +28295,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1014,
@@ -27363,7 +28316,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1209,
@@ -27384,7 +28337,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1180,
@@ -27404,7 +28357,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 990,
@@ -27424,7 +28377,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2054,
@@ -27445,7 +28398,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 584,
@@ -27465,7 +28418,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1758,
@@ -27485,7 +28438,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1937,
@@ -27505,7 +28458,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1995,
@@ -27525,7 +28478,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 574,
@@ -27545,7 +28498,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1085,
@@ -27565,7 +28518,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1724,
@@ -27585,7 +28538,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2064,
@@ -27605,7 +28558,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2218,
@@ -27626,7 +28579,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 816,
@@ -27646,7 +28599,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 598,
@@ -27666,7 +28619,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 931,
@@ -27686,7 +28639,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 200,
@@ -27706,7 +28659,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 61,
@@ -27726,7 +28679,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1012,
@@ -27746,7 +28699,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1947,
@@ -27766,7 +28719,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 241,
@@ -27786,7 +28739,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 770,
@@ -27806,7 +28759,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1309,
@@ -27826,7 +28779,27 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
+   },
+   {
+          number: 2281,
+      identifier: "MUC++--25",
+         meeting: "MUC++",
+         edition: "",
+           title: "Leveraging the range based for loop",
+        speakers: [
+                     "Matthaus Brandl"
+                  ],
+           video: "https://youtube.com/watch?v=vn5zNmXoWgI",
+       thumbnail: "http://img.youtube.com/vi/vn5zNmXoWgI/0.jpg",
+        duration: 3564,
+            tags: [
+                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
    },
    {
           number: 116,
@@ -27847,7 +28820,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 475,
@@ -27867,7 +28840,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1307,
@@ -27888,7 +28861,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 162,
@@ -27908,7 +28881,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1962,
@@ -27928,7 +28901,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1263,
@@ -27948,7 +28921,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1013,
@@ -27968,7 +28941,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 367,
@@ -27988,7 +28961,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 67,
@@ -28008,7 +28981,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2217,
@@ -28029,7 +29002,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1832,
@@ -28049,7 +29022,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1939,
@@ -28069,7 +29042,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1997,
@@ -28089,7 +29062,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2016,
@@ -28109,7 +29082,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 903,
@@ -28129,7 +29102,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 908,
@@ -28149,7 +29122,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1775,
@@ -28169,7 +29142,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2148,
@@ -28189,7 +29162,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1569,
@@ -28209,7 +29182,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 266,
@@ -28229,7 +29202,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1157,
@@ -28249,7 +29222,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1140,
@@ -28269,7 +29242,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 627,
@@ -28289,7 +29262,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1763,
@@ -28309,7 +29282,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 626,
@@ -28329,7 +29302,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 308,
@@ -28349,7 +29322,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 863,
@@ -28369,7 +29342,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 199,
@@ -28389,7 +29362,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 861,
@@ -28409,7 +29382,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 860,
@@ -28429,7 +29402,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1753,
@@ -28449,7 +29422,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 25,
@@ -28469,7 +29442,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 9,
@@ -28489,7 +29462,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 95,
@@ -28509,7 +29482,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2153,
@@ -28529,7 +29502,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 752,
@@ -28549,7 +29522,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 122,
@@ -28569,7 +29542,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2126,
@@ -28589,7 +29562,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1897,
@@ -28609,7 +29582,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1966,
@@ -28629,7 +29602,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 143,
@@ -28638,7 +29611,7 @@ const talks = [
          edition: "2014",
            title: "Mach7: The Design and Evolution of a Pattern Matching Library for C++",
         speakers: [
-                     "Yury Solodkyy"
+                     "Yuriy Solodkyy"
                   ],
            video: "https://youtube.com/watch?v=OkDS6hmU-w8",
        thumbnail: "http://img.youtube.com/vi/OkDS6hmU-w8/0.jpg",
@@ -28649,7 +29622,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1494,
@@ -28669,7 +29642,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1497,
@@ -28689,7 +29662,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1531,
@@ -28709,7 +29682,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1772,
@@ -28729,7 +29702,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1476,
@@ -28749,7 +29722,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1326,
@@ -28769,7 +29742,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1171,
@@ -28789,7 +29762,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1057,
@@ -28809,7 +29782,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1259,
@@ -28829,7 +29802,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1883,
@@ -28849,7 +29822,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 830,
@@ -28869,7 +29842,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 824,
@@ -28889,7 +29862,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1069,
@@ -28909,7 +29882,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 841,
@@ -28930,7 +29903,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1514,
@@ -28950,7 +29923,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1545,
@@ -28970,7 +29943,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1675,
@@ -28990,7 +29963,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1433,
@@ -29010,7 +29983,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1392,
@@ -29030,7 +30003,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1219,
@@ -29050,7 +30023,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1747,
@@ -29070,7 +30043,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1310,
@@ -29090,7 +30063,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 334,
@@ -29110,7 +30083,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1443,
@@ -29130,7 +30103,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1728,
@@ -29150,7 +30123,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 776,
@@ -29171,7 +30144,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1780,
@@ -29191,7 +30164,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 30,
@@ -29213,7 +30186,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 521,
@@ -29233,7 +30206,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 397,
@@ -29253,7 +30226,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 505,
@@ -29273,7 +30246,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 795,
@@ -29293,7 +30266,7 @@ const talks = [
                      "panel"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 892,
@@ -29313,7 +30286,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 535,
@@ -29333,7 +30306,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1274,
@@ -29353,7 +30326,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 542,
@@ -29373,7 +30346,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 759,
@@ -29393,7 +30366,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1312,
@@ -29413,7 +30386,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1087,
@@ -29433,7 +30406,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 73,
@@ -29454,7 +30427,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 79,
@@ -29475,7 +30448,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 221,
@@ -29495,7 +30468,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 228,
@@ -29515,7 +30488,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1486,
@@ -29535,7 +30508,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1745,
@@ -29555,7 +30528,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 881,
@@ -29575,7 +30548,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2116,
@@ -29595,7 +30568,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2187,
@@ -29616,7 +30589,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 850,
@@ -29636,7 +30609,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 843,
@@ -29656,7 +30629,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1116,
@@ -29676,7 +30649,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 516,
@@ -29696,14 +30669,14 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2194,
       identifier: "Live Embedded Event-2020-25",
          meeting: "Live Embedded Event",
          edition: "2020",
-           title: "Mise à jour : les bonnes questions à se poser",
+           title: "Mise a jour : les bonnes questions a se poser",
         speakers: [
                      
                   ],
@@ -29717,7 +30690,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1783,
@@ -29737,7 +30710,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1572,
@@ -29757,7 +30730,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1174,
@@ -29777,7 +30750,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1032,
@@ -29797,7 +30770,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1526,
@@ -29817,7 +30790,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 270,
@@ -29837,7 +30810,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 549,
@@ -29857,7 +30830,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1127,
@@ -29877,7 +30850,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1812,
@@ -29897,7 +30870,27 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
+   },
+   {
+          number: 1481,
+      identifier: "code::dive-2014-1",
+         meeting: "code::dive",
+         edition: "2014",
+           title: "Model - View - Whatever MVW",
+        speakers: [
+                     "Damian Czernous"
+                  ],
+           video: "https://youtube.com/watch?v=0HxGS_gdCr4",
+       thumbnail: "http://img.youtube.com/vi/0HxGS_gdCr4/0.jpg",
+        duration: 2907,
+            tags: [
+                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
    },
    {
           number: 350,
@@ -29917,7 +30910,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 157,
@@ -29937,7 +30930,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1239,
@@ -29957,7 +30950,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1268,
@@ -29977,7 +30970,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1790,
@@ -29997,7 +30990,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 336,
@@ -30017,7 +31010,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1214,
@@ -30037,7 +31030,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1097,
@@ -30057,7 +31050,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1432,
@@ -30077,7 +31070,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 630,
@@ -30097,7 +31090,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1238,
@@ -30117,7 +31110,27 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
+   },
+   {
+          number: 2301,
+      identifier: "MUC++--45",
+         meeting: "MUC++",
+         edition: "",
+           title: "Modern C++ Testing with Catch2",
+        speakers: [
+                     "Phil Nash"
+                  ],
+           video: "https://youtube.com/watch?v=F_booZzEOWI",
+       thumbnail: "http://img.youtube.com/vi/F_booZzEOWI/0.jpg",
+        duration: 3636,
+            tags: [
+                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
    },
    {
           number: 1517,
@@ -30138,7 +31151,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 623,
@@ -30158,7 +31171,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2106,
@@ -30178,7 +31191,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "hebrew"
+        language: "Hebrew"
    },
    {
           number: 1529,
@@ -30198,7 +31211,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 192,
@@ -30218,7 +31231,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1295,
@@ -30238,7 +31251,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1402,
@@ -30258,7 +31271,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 506,
@@ -30278,7 +31291,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1672,
@@ -30298,7 +31311,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 848,
@@ -30318,7 +31331,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 845,
@@ -30338,7 +31351,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 715,
@@ -30358,7 +31371,27 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
+   },
+   {
+          number: 2273,
+      identifier: "MUC++--17",
+         meeting: "MUC++",
+         edition: "",
+           title: "Modern Template Techniques",
+        speakers: [
+                     "John Kalb"
+                  ],
+           video: "https://youtube.com/watch?v=KiidqvYiBuc",
+       thumbnail: "http://img.youtube.com/vi/KiidqvYiBuc/0.jpg",
+        duration: 5456,
+            tags: [
+                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
    },
    {
           number: 911,
@@ -30378,7 +31411,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2110,
@@ -30398,7 +31431,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 732,
@@ -30418,7 +31451,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2083,
@@ -30438,7 +31471,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 57,
@@ -30458,7 +31491,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 733,
@@ -30478,7 +31511,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 484,
@@ -30498,7 +31531,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1787,
@@ -30518,7 +31551,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1876,
@@ -30538,7 +31571,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 222,
@@ -30558,7 +31591,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1434,
@@ -30578,7 +31611,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1841,
@@ -30598,7 +31631,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1903,
@@ -30618,7 +31651,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1867,
@@ -30638,7 +31671,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 705,
@@ -30658,7 +31691,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1505,
@@ -30678,7 +31711,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1957,
@@ -30698,7 +31731,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 46,
@@ -30718,7 +31751,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 358,
@@ -30738,7 +31771,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1130,
@@ -30758,7 +31791,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 144,
@@ -30778,7 +31811,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1243,
@@ -30798,7 +31831,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 89,
@@ -30818,7 +31851,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 297,
@@ -30838,7 +31871,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 149,
@@ -30858,7 +31891,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 485,
@@ -30878,7 +31911,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 840,
@@ -30898,7 +31931,27 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
+   },
+   {
+          number: 2293,
+      identifier: "MUC++--37",
+         meeting: "MUC++",
+         edition: "",
+           title: "Multiple Interface Class Inheritance and Name Hiding",
+        speakers: [
+                     "Marc Anton Bohm von Thenen"
+                  ],
+           video: "https://youtube.com/watch?v=bHAVKmTyLNs",
+       thumbnail: "http://img.youtube.com/vi/bHAVKmTyLNs/0.jpg",
+        duration: 474,
+            tags: [
+                     "c++",
+                     "lightning",
+                     "live"
+                  ],
+           level: 0,
+        language: "English"
    },
    {
           number: 712,
@@ -30918,7 +31971,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1132,
@@ -30938,7 +31991,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1137,
@@ -30958,7 +32011,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 239,
@@ -30978,7 +32031,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 237,
@@ -30998,7 +32051,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 277,
@@ -31018,7 +32071,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1651,
@@ -31038,7 +32091,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 554,
@@ -31058,7 +32111,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 807,
@@ -31078,7 +32131,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1961,
@@ -31098,7 +32151,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 335,
@@ -31118,7 +32171,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1018,
@@ -31138,7 +32191,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 168,
@@ -31158,7 +32211,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1155,
@@ -31178,7 +32231,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1179,
@@ -31198,7 +32251,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1278,
@@ -31218,7 +32271,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1360,
@@ -31238,7 +32291,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2023,
@@ -31258,7 +32311,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1192,
@@ -31278,7 +32331,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1858,
@@ -31298,7 +32351,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 306,
@@ -31318,7 +32371,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 264,
@@ -31338,7 +32391,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 267,
@@ -31358,7 +32411,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1634,
@@ -31378,7 +32431,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 182,
@@ -31398,7 +32451,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2254,
@@ -31418,7 +32471,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1094,
@@ -31438,7 +32491,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 583,
@@ -31458,7 +32511,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1356,
@@ -31478,7 +32531,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1911,
@@ -31498,7 +32551,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2173,
@@ -31519,7 +32572,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1676,
@@ -31539,7 +32592,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 783,
@@ -31548,7 +32601,7 @@ const talks = [
          edition: "2020",
            title: "No raw loops with no OS",
         speakers: [
-                     "Paul Bendixen"
+                     "Paul M. Bendixen"
                   ],
            video: "https://youtube.com/watch?v=ey4MTtirDxQ",
        thumbnail: "http://img.youtube.com/vi/ey4MTtirDxQ/0.jpg",
@@ -31560,7 +32613,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 302,
@@ -31580,7 +32633,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 259,
@@ -31600,7 +32653,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1002,
@@ -31620,7 +32673,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1447,
@@ -31640,7 +32693,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1941,
@@ -31660,7 +32713,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1999,
@@ -31680,7 +32733,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 121,
@@ -31700,7 +32753,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1311,
@@ -31720,7 +32773,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1450,
@@ -31740,7 +32793,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1798,
@@ -31760,7 +32813,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 54,
@@ -31780,7 +32833,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1570,
@@ -31800,7 +32853,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 451,
@@ -31820,7 +32873,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 173,
@@ -31840,7 +32893,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2102,
@@ -31860,7 +32913,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2033,
@@ -31880,7 +32933,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2251,
@@ -31900,7 +32953,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 20,
@@ -31920,7 +32973,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2042,
@@ -31940,7 +32993,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1367,
@@ -31960,7 +33013,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 495,
@@ -31980,7 +33033,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2246,
@@ -32000,7 +33053,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 150,
@@ -32020,7 +33073,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 831,
@@ -32040,7 +33093,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 94,
@@ -32060,7 +33113,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 47,
@@ -32081,7 +33134,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 718,
@@ -32101,7 +33154,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1928,
@@ -32121,7 +33174,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1986,
@@ -32141,7 +33194,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 555,
@@ -32161,7 +33214,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 980,
@@ -32181,7 +33234,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2216,
@@ -32202,7 +33255,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 463,
@@ -32222,7 +33275,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 769,
@@ -32242,7 +33295,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1452,
@@ -32262,7 +33315,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1248,
@@ -32282,7 +33335,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2196,
@@ -32303,7 +33356,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1241,
@@ -32323,7 +33376,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2215,
@@ -32344,7 +33397,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 50,
@@ -32364,7 +33417,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1215,
@@ -32384,7 +33437,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2100,
@@ -32404,7 +33457,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1067,
@@ -32424,7 +33477,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1870,
@@ -32444,7 +33497,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 859,
@@ -32464,7 +33517,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1184,
@@ -32484,7 +33537,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 48,
@@ -32504,7 +33557,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 721,
@@ -32524,7 +33577,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 130,
@@ -32544,7 +33597,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 349,
@@ -32564,7 +33617,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 670,
@@ -32584,7 +33637,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 919,
@@ -32605,7 +33658,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 333,
@@ -32625,7 +33678,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1948,
@@ -32645,7 +33698,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 751,
@@ -32665,7 +33718,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 91,
@@ -32685,7 +33738,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1258,
@@ -32705,7 +33758,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2096,
@@ -32725,7 +33778,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 625,
@@ -32745,7 +33798,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1813,
@@ -32765,7 +33818,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 113,
@@ -32787,7 +33840,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1015,
@@ -32807,7 +33860,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 439,
@@ -32827,7 +33880,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 922,
@@ -32848,7 +33901,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 838,
@@ -32868,7 +33921,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 202,
@@ -32888,7 +33941,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 380,
@@ -32908,7 +33961,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1212,
@@ -32929,7 +33982,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 34,
@@ -32949,7 +34002,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 762,
@@ -32969,7 +34022,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1769,
@@ -32989,7 +34042,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1314,
@@ -33009,7 +34062,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 398,
@@ -33029,7 +34082,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1186,
@@ -33049,7 +34102,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 305,
@@ -33070,7 +34123,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1217,
@@ -33090,7 +34143,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 710,
@@ -33110,7 +34163,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 40,
@@ -33131,7 +34184,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 796,
@@ -33151,7 +34204,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 548,
@@ -33171,7 +34224,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 681,
@@ -33192,7 +34245,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1437,
@@ -33212,7 +34265,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2178,
@@ -33233,7 +34286,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 480,
@@ -33253,7 +34306,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1436,
@@ -33273,7 +34326,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1422,
@@ -33293,7 +34346,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1393,
@@ -33313,7 +34366,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1976,
@@ -33333,7 +34386,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1581,
@@ -33353,7 +34406,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 400,
@@ -33373,7 +34426,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 683,
@@ -33393,7 +34446,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 594,
@@ -33413,7 +34466,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 427,
@@ -33434,7 +34487,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 822,
@@ -33454,7 +34507,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2165,
@@ -33474,7 +34527,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2157,
@@ -33494,7 +34547,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 286,
@@ -33514,7 +34567,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1141,
@@ -33534,7 +34587,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 276,
@@ -33554,7 +34607,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 287,
@@ -33574,7 +34627,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1658,
@@ -33594,7 +34647,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 108,
@@ -33614,7 +34667,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 645,
@@ -33634,7 +34687,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1142,
@@ -33654,7 +34707,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 651,
@@ -33674,7 +34727,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 792,
@@ -33695,7 +34748,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 849,
@@ -33715,7 +34768,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1417,
@@ -33735,7 +34788,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1169,
@@ -33755,7 +34808,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 220,
@@ -33775,7 +34828,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1029,
@@ -33795,7 +34848,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 22,
@@ -33816,7 +34869,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1175,
@@ -33836,7 +34889,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 442,
@@ -33856,7 +34909,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 821,
@@ -33876,7 +34929,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 145,
@@ -33896,7 +34949,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 869,
@@ -33916,7 +34969,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 786,
@@ -33936,7 +34989,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1656,
@@ -33956,7 +35009,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 430,
@@ -33976,7 +35029,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 139,
@@ -33996,7 +35049,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 244,
@@ -34016,7 +35069,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1819,
@@ -34036,7 +35089,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2182,
@@ -34057,7 +35110,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1544,
@@ -34077,7 +35130,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 568,
@@ -34097,7 +35150,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1,
@@ -34117,7 +35170,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 692,
@@ -34137,7 +35190,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 600,
@@ -34157,7 +35210,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 761,
@@ -34177,7 +35230,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1585,
@@ -34197,7 +35250,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1091,
@@ -34217,7 +35270,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1340,
@@ -34237,7 +35290,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1901,
@@ -34257,7 +35310,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1931,
@@ -34277,7 +35330,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1989,
@@ -34297,7 +35350,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 937,
@@ -34317,7 +35370,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 246,
@@ -34337,7 +35390,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1673,
@@ -34357,7 +35410,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 289,
@@ -34377,7 +35430,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1718,
@@ -34397,7 +35450,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 218,
@@ -34417,7 +35470,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 219,
@@ -34437,7 +35490,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1524,
@@ -34457,7 +35510,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 368,
@@ -34477,7 +35530,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 487,
@@ -34497,7 +35550,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 942,
@@ -34517,7 +35570,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 229,
@@ -34538,7 +35591,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1045,
@@ -34559,7 +35612,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1609,
@@ -34579,7 +35632,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1088,
@@ -34599,7 +35652,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 127,
@@ -34619,7 +35672,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 582,
@@ -34639,7 +35692,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 544,
@@ -34659,7 +35712,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 882,
@@ -34679,7 +35732,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2008,
@@ -34699,7 +35752,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1935,
@@ -34719,7 +35772,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1993,
@@ -34739,7 +35792,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1425,
@@ -34759,7 +35812,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 935,
@@ -34779,7 +35832,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 299,
@@ -34799,7 +35852,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1079,
@@ -34819,7 +35872,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1703,
@@ -34839,7 +35892,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 749,
@@ -34859,7 +35912,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1286,
@@ -34879,7 +35932,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 699,
@@ -34899,7 +35952,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2045,
@@ -34919,7 +35972,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1229,
@@ -34939,7 +35992,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 500,
@@ -34959,7 +36012,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1857,
@@ -34979,7 +36032,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 191,
@@ -34999,7 +36052,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 889,
@@ -35019,7 +36072,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 575,
@@ -35039,7 +36092,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 531,
@@ -35059,7 +36112,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 934,
@@ -35079,7 +36132,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 641,
@@ -35099,7 +36152,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 959,
@@ -35119,7 +36172,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1810,
@@ -35139,7 +36192,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1158,
@@ -35159,7 +36212,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 639,
@@ -35179,7 +36232,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1172,
@@ -35199,7 +36252,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 731,
@@ -35220,7 +36273,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1467,
@@ -35240,7 +36293,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 874,
@@ -35260,7 +36313,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 690,
@@ -35280,7 +36333,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1134,
@@ -35300,7 +36353,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1558,
@@ -35320,7 +36373,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 576,
@@ -35340,7 +36393,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2011,
@@ -35360,7 +36413,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1637,
@@ -35380,7 +36433,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1289,
@@ -35400,7 +36453,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1645,
@@ -35420,7 +36473,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1620,
@@ -35440,7 +36493,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2140,
@@ -35460,7 +36513,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 64,
@@ -35480,7 +36533,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1534,
@@ -35500,7 +36553,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1972,
@@ -35520,7 +36573,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2052,
@@ -35540,7 +36593,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1168,
@@ -35560,7 +36613,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 648,
@@ -35580,7 +36633,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 930,
@@ -35600,7 +36653,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1350,
@@ -35620,7 +36673,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 63,
@@ -35640,7 +36693,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1046,
@@ -35660,7 +36713,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1210,
@@ -35680,7 +36733,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1917,
@@ -35700,7 +36753,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 665,
@@ -35720,7 +36773,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1380,
@@ -35740,7 +36793,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 136,
@@ -35760,7 +36813,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1506,
@@ -35780,7 +36833,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1767,
@@ -35800,7 +36853,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1657,
@@ -35820,7 +36873,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2151,
@@ -35840,7 +36893,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 323,
@@ -35860,7 +36913,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 263,
@@ -35880,7 +36933,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1343,
@@ -35900,7 +36953,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2031,
@@ -35920,7 +36973,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1678,
@@ -35940,7 +36993,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 727,
@@ -35960,7 +37013,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2199,
@@ -35981,7 +37034,27 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
+   },
+   {
+          number: 2267,
+      identifier: "MUC++--11",
+         meeting: "MUC++",
+         edition: "",
+           title: "retpoline",
+        speakers: [
+                     "Lukas Bergdoll"
+                  ],
+           video: "https://youtube.com/watch?v=CkkSj9XdHB4",
+       thumbnail: "http://img.youtube.com/vi/CkkSj9XdHB4/0.jpg",
+        duration: 4580,
+            tags: [
+                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
    },
    {
           number: 1269,
@@ -36001,7 +37074,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 817,
@@ -36021,7 +37094,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1642,
@@ -36041,7 +37114,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 988,
@@ -36061,7 +37134,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 385,
@@ -36081,7 +37154,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1532,
@@ -36101,7 +37174,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 819,
@@ -36121,7 +37194,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 547,
@@ -36141,7 +37214,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2214,
@@ -36162,7 +37235,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 344,
@@ -36182,7 +37255,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1794,
@@ -36202,7 +37275,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 260,
@@ -36222,7 +37295,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 6,
@@ -36242,7 +37315,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1908,
@@ -36262,7 +37335,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 546,
@@ -36282,7 +37355,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1204,
@@ -36302,7 +37375,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1080,
@@ -36322,7 +37395,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1358,
@@ -36342,7 +37415,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 377,
@@ -36362,7 +37435,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1201,
@@ -36382,7 +37455,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 854,
@@ -36402,7 +37475,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1221,
@@ -36422,7 +37495,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 118,
@@ -36442,7 +37515,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1800,
@@ -36462,7 +37535,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2213,
@@ -36483,7 +37556,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1866,
@@ -36503,7 +37576,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 941,
@@ -36523,7 +37596,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 346,
@@ -36543,7 +37616,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 390,
@@ -36563,7 +37636,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1233,
@@ -36583,7 +37656,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1234,
@@ -36603,7 +37676,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2212,
@@ -36624,7 +37697,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2211,
@@ -36645,7 +37718,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1489,
@@ -36665,7 +37738,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1488,
@@ -36685,7 +37758,87 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
+   },
+   {
+          number: 2314,
+      identifier: "MUC++--58",
+         meeting: "MUC++",
+         edition: "",
+           title: "Selected C++11 Template Toffees From sqlpp11 (Part1)",
+        speakers: [
+                     "Roland Bock"
+                  ],
+           video: "https://youtube.com/watch?v=hXnGFYNbmXg",
+       thumbnail: "http://img.youtube.com/vi/hXnGFYNbmXg/0.jpg",
+        duration: 1569,
+            tags: [
+                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2313,
+      identifier: "MUC++--57",
+         meeting: "MUC++",
+         edition: "",
+           title: "Selected C++11 Template Toffees From sqlpp11 (Part2)",
+        speakers: [
+                     "Roland Bock"
+                  ],
+           video: "https://youtube.com/watch?v=WPCV6dvxZ_U",
+       thumbnail: "http://img.youtube.com/vi/WPCV6dvxZ_U/0.jpg",
+        duration: 1799,
+            tags: [
+                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2312,
+      identifier: "MUC++--56",
+         meeting: "MUC++",
+         edition: "",
+           title: "Selected C++11 Template Toffees From sqlpp11 (Part3)",
+        speakers: [
+                     "Roland Bock"
+                  ],
+           video: "https://youtube.com/watch?v=eB7hd_KjTig",
+       thumbnail: "http://img.youtube.com/vi/eB7hd_KjTig/0.jpg",
+        duration: 1799,
+            tags: [
+                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2311,
+      identifier: "MUC++--55",
+         meeting: "MUC++",
+         edition: "",
+           title: "Selected C++11 Template Toffees From sqlpp11 (Part4)",
+        speakers: [
+                     "Roland Bock"
+                  ],
+           video: "https://youtube.com/watch?v=NBfqzcN0_EQ",
+       thumbnail: "http://img.youtube.com/vi/NBfqzcN0_EQ/0.jpg",
+        duration: 313,
+            tags: [
+                     "c++",
+                     "lightning",
+                     "live"
+                  ],
+           level: 0,
+        language: "English"
    },
    {
           number: 426,
@@ -36705,7 +37858,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2032,
@@ -36725,7 +37878,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1743,
@@ -36745,7 +37898,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1149,
@@ -36765,7 +37918,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 580,
@@ -36785,7 +37938,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1691,
@@ -36805,7 +37958,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1465,
@@ -36825,7 +37978,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 252,
@@ -36845,7 +37998,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 916,
@@ -36865,7 +38018,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 471,
@@ -36885,7 +38038,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 422,
@@ -36905,7 +38058,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1187,
@@ -36925,7 +38078,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1831,
@@ -36945,7 +38098,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2166,
@@ -36965,7 +38118,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1643,
@@ -36985,7 +38138,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 794,
@@ -37005,7 +38158,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1636,
@@ -37025,7 +38178,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1615,
@@ -37045,7 +38198,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1331,
@@ -37065,7 +38218,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1553,
@@ -37085,7 +38238,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 355,
@@ -37105,7 +38258,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1276,
@@ -37125,7 +38278,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1856,
@@ -37145,7 +38298,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 421,
@@ -37165,7 +38318,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1181,
@@ -37185,7 +38338,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 680,
@@ -37205,7 +38358,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1837,
@@ -37225,7 +38378,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1635,
@@ -37245,7 +38398,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2051,
@@ -37265,7 +38418,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1664,
@@ -37285,7 +38438,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 811,
@@ -37305,7 +38458,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1898,
@@ -37325,7 +38478,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 428,
@@ -37345,7 +38498,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 98,
@@ -37365,7 +38518,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1292,
@@ -37385,7 +38538,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1461,
@@ -37405,7 +38558,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1510,
@@ -37425,7 +38578,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 282,
@@ -37445,7 +38598,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1203,
@@ -37465,7 +38618,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2035,
@@ -37485,7 +38638,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2012,
@@ -37505,7 +38658,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1191,
@@ -37525,7 +38678,7 @@ const talks = [
                      "panel"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1190,
@@ -37545,7 +38698,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1282,
@@ -37565,7 +38718,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1943,
@@ -37585,7 +38738,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2001,
@@ -37605,7 +38758,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1608,
@@ -37625,7 +38778,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 31,
@@ -37645,7 +38798,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 14,
@@ -37666,7 +38819,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2210,
@@ -37687,7 +38840,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1023,
@@ -37707,7 +38860,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 780,
@@ -37728,7 +38881,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 496,
@@ -37748,7 +38901,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 825,
@@ -37768,7 +38921,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2209,
@@ -37789,7 +38942,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 553,
@@ -37809,7 +38962,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 543,
@@ -37829,7 +38982,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1765,
@@ -37849,7 +39002,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 694,
@@ -37869,7 +39022,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2188,
@@ -37890,7 +39043,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2191,
@@ -37911,7 +39064,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 87,
@@ -37931,7 +39084,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1189,
@@ -37951,7 +39104,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 956,
@@ -37971,7 +39124,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 504,
@@ -37991,7 +39144,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 609,
@@ -38011,7 +39164,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1669,
@@ -38031,7 +39184,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 675,
@@ -38051,7 +39204,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1021,
@@ -38071,7 +39224,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 932,
@@ -38091,7 +39244,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 606,
@@ -38111,7 +39264,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 608,
@@ -38131,7 +39284,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1533,
@@ -38151,7 +39304,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 454,
@@ -38171,7 +39324,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1735,
@@ -38191,7 +39344,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1072,
@@ -38211,7 +39364,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 474,
@@ -38231,7 +39384,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 947,
@@ -38251,7 +39404,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 864,
@@ -38271,7 +39424,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 976,
@@ -38291,7 +39444,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1668,
@@ -38311,7 +39464,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 943,
@@ -38331,7 +39484,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 637,
@@ -38351,7 +39504,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1579,
@@ -38371,7 +39524,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2250,
@@ -38391,7 +39544,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 632,
@@ -38411,7 +39564,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1451,
@@ -38431,7 +39584,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2046,
@@ -38451,7 +39604,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 677,
@@ -38471,7 +39624,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 604,
@@ -38491,7 +39644,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2018,
@@ -38511,7 +39664,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1571,
@@ -38531,7 +39684,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1492,
@@ -38551,7 +39704,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2161,
@@ -38571,7 +39724,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1254,
@@ -38591,7 +39744,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 123,
@@ -38611,7 +39764,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 444,
@@ -38631,7 +39784,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 458,
@@ -38651,7 +39804,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1708,
@@ -38671,7 +39824,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 112,
@@ -38691,7 +39844,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 16,
@@ -38712,7 +39865,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1802,
@@ -38732,7 +39885,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 186,
@@ -38752,7 +39905,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 590,
@@ -38772,7 +39925,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 379,
@@ -38792,7 +39945,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1899,
@@ -38812,7 +39965,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1563,
@@ -38832,7 +39985,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 467,
@@ -38853,7 +40006,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 406,
@@ -38873,7 +40026,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1833,
@@ -38893,7 +40046,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1270,
@@ -38913,7 +40066,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 662,
@@ -38933,7 +40086,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1891,
@@ -38953,7 +40106,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1600,
@@ -38973,7 +40126,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 539,
@@ -38993,7 +40146,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 468,
@@ -39013,7 +40166,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1448,
@@ -39033,7 +40186,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1953,
@@ -39053,7 +40206,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 541,
@@ -39073,7 +40226,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1877,
@@ -39094,7 +40247,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 700,
@@ -39114,7 +40267,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2134,
@@ -39134,7 +40287,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 950,
@@ -39154,7 +40307,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1592,
@@ -39174,7 +40327,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 425,
@@ -39194,7 +40347,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 10,
@@ -39214,7 +40367,27 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
+   },
+   {
+          number: 2307,
+      identifier: "MUC++--51",
+         meeting: "MUC++",
+         edition: "",
+           title: "Template Magic For Beginners",
+        speakers: [
+                     "Roland Bock"
+                  ],
+           video: "https://youtube.com/watch?v=pTeeexTbmHc",
+       thumbnail: "http://img.youtube.com/vi/pTeeexTbmHc/0.jpg",
+        duration: 5462,
+            tags: [
+                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
    },
    {
           number: 527,
@@ -39234,7 +40407,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1383,
@@ -39254,7 +40427,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1384,
@@ -39274,7 +40447,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 995,
@@ -39294,7 +40467,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1000,
@@ -39314,7 +40487,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 766,
@@ -39334,7 +40507,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 938,
@@ -39354,7 +40527,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1394,
@@ -39374,7 +40547,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 925,
@@ -39394,7 +40567,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 799,
@@ -39414,7 +40587,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 375,
@@ -39434,7 +40607,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 490,
@@ -39454,7 +40627,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 176,
@@ -39474,7 +40647,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 975,
@@ -39494,7 +40667,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 290,
@@ -39514,7 +40687,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2245,
@@ -39534,7 +40707,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 293,
@@ -39554,7 +40727,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 561,
@@ -39574,7 +40747,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 394,
@@ -39594,7 +40767,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1860,
@@ -39614,7 +40787,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 728,
@@ -39634,7 +40807,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1173,
@@ -39654,7 +40827,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 498,
@@ -39674,7 +40847,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1755,
@@ -39694,7 +40867,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1644,
@@ -39714,7 +40887,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1805,
@@ -39734,7 +40907,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 3,
@@ -39754,7 +40927,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2239,
@@ -39774,7 +40947,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1337,
@@ -39794,7 +40967,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2061,
@@ -39814,7 +40987,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 326,
@@ -39834,7 +41007,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1560,
@@ -39854,7 +41027,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1063,
@@ -39874,7 +41047,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1348,
@@ -39894,7 +41067,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1227,
@@ -39914,7 +41087,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2062,
@@ -39934,7 +41107,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 488,
@@ -39954,7 +41127,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 386,
@@ -39974,7 +41147,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 411,
@@ -39994,7 +41167,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2249,
@@ -40014,7 +41187,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2141,
@@ -40034,7 +41207,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1757,
@@ -40054,7 +41227,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1004,
@@ -40074,7 +41247,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 716,
@@ -40094,7 +41267,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1956,
@@ -40114,7 +41287,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 378,
@@ -40134,7 +41307,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1372,
@@ -40154,7 +41327,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 719,
@@ -40174,7 +41347,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 610,
@@ -40194,7 +41367,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1892,
@@ -40214,7 +41387,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1823,
@@ -40234,7 +41407,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 833,
@@ -40254,7 +41427,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 433,
@@ -40274,7 +41447,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 432,
@@ -40294,7 +41467,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1034,
@@ -40314,7 +41487,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 328,
@@ -40334,7 +41507,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 775,
@@ -40355,7 +41528,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 253,
@@ -40375,7 +41548,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 953,
@@ -40395,7 +41568,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 717,
@@ -40415,7 +41588,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1318,
@@ -40435,7 +41608,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1882,
@@ -40455,7 +41628,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1910,
@@ -40475,7 +41648,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2080,
@@ -40495,7 +41668,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 257,
@@ -40515,7 +41688,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1359,
@@ -40535,7 +41708,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1750,
@@ -40555,7 +41728,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1738,
@@ -40575,7 +41748,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 243,
@@ -40596,7 +41769,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1776,
@@ -40616,7 +41789,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 986,
@@ -40636,7 +41809,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 479,
@@ -40656,7 +41829,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 563,
@@ -40676,7 +41849,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1026,
@@ -40696,7 +41869,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1830,
@@ -40716,7 +41889,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1578,
@@ -40736,7 +41909,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 249,
@@ -40756,7 +41929,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1945,
@@ -40776,7 +41949,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2003,
@@ -40796,7 +41969,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1926,
@@ -40816,7 +41989,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1984,
@@ -40836,7 +42009,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 171,
@@ -40856,7 +42029,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1388,
@@ -40877,7 +42050,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2036,
@@ -40897,7 +42070,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 657,
@@ -40917,7 +42090,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1387,
@@ -40937,7 +42110,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2252,
@@ -40957,7 +42130,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1618,
@@ -40977,7 +42150,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1619,
@@ -40997,7 +42170,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 673,
@@ -41017,7 +42190,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1183,
@@ -41037,7 +42210,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 309,
@@ -41057,7 +42230,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 839,
@@ -41077,7 +42250,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1824,
@@ -41097,7 +42270,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 111,
@@ -41117,7 +42290,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1502,
@@ -41137,7 +42310,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1900,
@@ -41157,7 +42330,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 330,
@@ -41178,7 +42351,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1223,
@@ -41199,7 +42372,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 525,
@@ -41219,7 +42392,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 748,
@@ -41239,7 +42412,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1690,
@@ -41259,7 +42432,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2043,
@@ -41279,7 +42452,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1598,
@@ -41299,7 +42472,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 997,
@@ -41319,7 +42492,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2104,
@@ -41339,7 +42512,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1413,
@@ -41359,7 +42532,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 381,
@@ -41379,7 +42552,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 274,
@@ -41399,7 +42572,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 567,
@@ -41419,7 +42592,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1768,
@@ -41439,7 +42612,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2095,
@@ -41459,7 +42632,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "hebrew"
+        language: "Hebrew"
    },
    {
           number: 603,
@@ -41479,7 +42652,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 654,
@@ -41499,7 +42672,27 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
+   },
+   {
+          number: 2286,
+      identifier: "MUC++--30",
+         meeting: "MUC++",
+         edition: "",
+           title: "The most valuable values",
+        speakers: [
+                     "Juan Pedro Bolivar"
+                  ],
+           video: "https://youtube.com/watch?v=81ezVx52nd4",
+       thumbnail: "http://img.youtube.com/vi/81ezVx52nd4/0.jpg",
+        duration: 4687,
+            tags: [
+                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
    },
    {
           number: 612,
@@ -41519,7 +42712,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1442,
@@ -41539,7 +42732,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1369,
@@ -41559,7 +42752,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1277,
@@ -41579,7 +42772,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 810,
@@ -41599,7 +42792,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 659,
@@ -41619,7 +42812,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1253,
@@ -41639,7 +42832,27 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
+   },
+   {
+          number: 2275,
+      identifier: "MUC++--19",
+         meeting: "MUC++",
+         edition: "",
+           title: "The Nightmare of Initialization in C++",
+        speakers: [
+                     "Nicolai Josuttis"
+                  ],
+           video: "https://youtube.com/watch?v=MTzUvmREiu0",
+       thumbnail: "http://img.youtube.com/vi/MTzUvmREiu0/0.jpg",
+        duration: 6724,
+            tags: [
+                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
    },
    {
           number: 1124,
@@ -41659,7 +42872,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 7,
@@ -41680,7 +42893,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1327,
@@ -41700,7 +42913,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1821,
@@ -41720,7 +42933,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 405,
@@ -41740,7 +42953,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 141,
@@ -41761,7 +42974,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 631,
@@ -41781,7 +42994,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 431,
@@ -41801,7 +43014,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 812,
@@ -41821,7 +43034,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 383,
@@ -41841,7 +43054,27 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
+   },
+   {
+          number: 2303,
+      identifier: "MUC++--47",
+         meeting: "MUC++",
+         edition: "",
+           title: "The Point of Views: Multidimensional Ranges for HPC",
+        speakers: [
+                     "Tobias Fuchs"
+                  ],
+           video: "https://youtube.com/watch?v=JsGsgRnbIpU",
+       thumbnail: "http://img.youtube.com/vi/JsGsgRnbIpU/0.jpg",
+        duration: 5276,
+            tags: [
+                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
    },
    {
           number: 1011,
@@ -41861,7 +43094,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 325,
@@ -41881,7 +43114,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 99,
@@ -41901,7 +43134,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 37,
@@ -41921,7 +43154,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 466,
@@ -41941,7 +43174,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1970,
@@ -41961,7 +43194,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1095,
@@ -41981,7 +43214,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1940,
@@ -42001,7 +43234,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1998,
@@ -42021,7 +43254,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 382,
@@ -42041,7 +43274,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 206,
@@ -42061,7 +43294,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1439,
@@ -42081,7 +43314,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2060,
@@ -42101,7 +43334,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1520,
@@ -42121,7 +43354,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 310,
@@ -42141,7 +43374,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1820,
@@ -42161,7 +43394,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1435,
@@ -42181,7 +43414,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1294,
@@ -42201,7 +43434,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 577,
@@ -42221,7 +43454,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1061,
@@ -42241,7 +43474,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 613,
@@ -42261,7 +43494,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1902,
@@ -42281,7 +43514,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 772,
@@ -42301,7 +43534,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1722,
@@ -42321,7 +43554,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1895,
@@ -42341,7 +43574,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1053,
@@ -42361,7 +43594,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1441,
@@ -42381,7 +43614,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1522,
@@ -42401,7 +43634,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 622,
@@ -42421,7 +43654,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 545,
@@ -42441,7 +43674,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 373,
@@ -42461,7 +43694,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 660,
@@ -42481,7 +43714,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 952,
@@ -42501,7 +43734,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 351,
@@ -42521,7 +43754,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 396,
@@ -42541,7 +43774,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2207,
@@ -42562,7 +43795,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 438,
@@ -42582,7 +43815,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1587,
@@ -42602,7 +43835,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1038,
@@ -42622,7 +43855,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1353,
@@ -42642,7 +43875,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1623,
@@ -42662,7 +43895,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1839,
@@ -42682,7 +43915,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 633,
@@ -42702,7 +43935,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1840,
@@ -42723,7 +43956,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 695,
@@ -42743,7 +43976,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1196,
@@ -42763,7 +43996,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2038,
@@ -42783,7 +44016,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1518,
@@ -42803,7 +44036,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 724,
@@ -42823,7 +44056,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1605,
@@ -42843,7 +44076,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 39,
@@ -42863,7 +44096,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1559,
@@ -42883,7 +44116,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1698,
@@ -42903,7 +44136,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1549,
@@ -42923,7 +44156,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1754,
@@ -42943,7 +44176,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 185,
@@ -42963,7 +44196,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 760,
@@ -42983,7 +44216,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1147,
@@ -43003,7 +44236,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 726,
@@ -43023,7 +44256,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1379,
@@ -43043,7 +44276,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1188,
@@ -43063,7 +44296,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1793,
@@ -43083,7 +44316,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 104,
@@ -43103,7 +44336,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 230,
@@ -43123,7 +44356,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1487,
@@ -43143,7 +44376,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 658,
@@ -43163,7 +44396,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 45,
@@ -43183,7 +44416,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1511,
@@ -43203,7 +44436,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1797,
@@ -43223,7 +44456,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2090,
@@ -43243,7 +44476,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1624,
@@ -43263,7 +44496,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 915,
@@ -43283,7 +44516,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 669,
@@ -43303,7 +44536,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2169,
@@ -43323,7 +44556,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1100,
@@ -43345,7 +44578,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1317,
@@ -43365,7 +44598,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1328,
@@ -43385,7 +44618,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1144,
@@ -43405,7 +44638,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 620,
@@ -43425,7 +44658,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2128,
@@ -43446,7 +44679,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1843,
@@ -43467,7 +44700,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1252,
@@ -43488,7 +44721,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 41,
@@ -43509,7 +44742,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2112,
@@ -43529,7 +44762,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1009,
@@ -43550,7 +44783,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 303,
@@ -43570,7 +44803,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2208,
@@ -43591,7 +44824,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 964,
@@ -43611,7 +44844,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 955,
@@ -43631,7 +44864,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 399,
@@ -43651,7 +44884,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 642,
@@ -43671,7 +44904,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1696,
@@ -43691,7 +44924,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 888,
@@ -43711,7 +44944,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1060,
@@ -43731,7 +44964,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 782,
@@ -43752,7 +44985,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1027,
@@ -43772,7 +45005,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1845,
@@ -43792,7 +45025,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 189,
@@ -43812,7 +45045,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1020,
@@ -43833,7 +45066,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2197,
@@ -43854,7 +45087,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 278,
@@ -43874,7 +45107,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 180,
@@ -43894,7 +45127,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 614,
@@ -43914,7 +45147,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1163,
@@ -43934,7 +45167,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1335,
@@ -43954,7 +45187,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1838,
@@ -43974,7 +45207,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 58,
@@ -43994,7 +45227,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 963,
@@ -44014,7 +45247,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 194,
@@ -44034,7 +45267,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 296,
@@ -44054,7 +45287,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2156,
@@ -44074,7 +45307,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 214,
@@ -44094,7 +45327,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 790,
@@ -44114,7 +45347,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 743,
@@ -44134,7 +45367,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1202,
@@ -44154,7 +45387,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 851,
@@ -44174,7 +45407,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 311,
@@ -44194,7 +45427,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1159,
@@ -44214,7 +45447,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1160,
@@ -44234,7 +45467,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 140,
@@ -44254,7 +45487,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1260,
@@ -44275,7 +45508,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1654,
@@ -44296,7 +45529,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2022,
@@ -44316,7 +45549,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1551,
@@ -44336,7 +45569,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1547,
@@ -44356,7 +45589,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 154,
@@ -44376,7 +45609,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2108,
@@ -44397,7 +45630,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "hebrew"
+        language: "Hebrew"
    },
    {
           number: 254,
@@ -44417,7 +45650,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 514,
@@ -44437,7 +45670,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1519,
@@ -44457,7 +45690,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2073,
@@ -44477,7 +45710,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1206,
@@ -44497,7 +45730,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2206,
@@ -44518,7 +45751,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1949,
@@ -44538,7 +45771,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 152,
@@ -44558,7 +45791,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 562,
@@ -44578,7 +45811,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 801,
@@ -44598,7 +45831,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1105,
@@ -44619,7 +45852,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 449,
@@ -44639,7 +45872,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1261,
@@ -44659,7 +45892,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2253,
@@ -44679,7 +45912,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1346,
@@ -44699,7 +45932,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 62,
@@ -44719,7 +45952,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1035,
@@ -44739,7 +45972,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 823,
@@ -44759,7 +45992,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 388,
@@ -44779,7 +46012,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1245,
@@ -44799,7 +46032,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 437,
@@ -44819,7 +46052,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 436,
@@ -44839,7 +46072,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1711,
@@ -44859,7 +46092,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1323,
@@ -44879,7 +46112,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1138,
@@ -44900,7 +46133,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1131,
@@ -44920,7 +46153,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 5,
@@ -44940,7 +46173,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 912,
@@ -44960,7 +46193,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 208,
@@ -44981,7 +46214,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 209,
@@ -45002,7 +46235,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2152,
@@ -45022,7 +46255,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1713,
@@ -45042,7 +46275,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1784,
@@ -45062,7 +46295,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1043,
@@ -45082,7 +46315,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1720,
@@ -45102,7 +46335,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2057,
@@ -45122,7 +46355,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1074,
@@ -45142,7 +46375,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 51,
@@ -45162,7 +46395,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 472,
@@ -45182,7 +46415,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 517,
@@ -45202,7 +46435,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 369,
@@ -45222,7 +46455,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1370,
@@ -45242,7 +46475,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 77,
@@ -45262,7 +46495,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 138,
@@ -45282,7 +46515,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1220,
@@ -45302,7 +46535,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1555,
@@ -45322,7 +46555,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 948,
@@ -45342,7 +46575,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 949,
@@ -45362,7 +46595,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 166,
@@ -45382,7 +46615,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2028,
@@ -45402,7 +46635,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 960,
@@ -45422,7 +46655,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 518,
@@ -45442,7 +46675,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 240,
@@ -45462,7 +46695,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1031,
@@ -45482,7 +46715,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 899,
@@ -45502,7 +46735,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1017,
@@ -45522,7 +46755,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 417,
@@ -45542,7 +46775,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2091,
@@ -45562,27 +46795,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
-   },
-   {
-          number: 1481,
-      identifier: "code::dive-2014-1",
-         meeting: "code::dive",
-         edition: "2014",
-           title: "View - Whatever MVW",
-        speakers: [
-                     "Damian Czernous Model"
-                  ],
-           video: "https://youtube.com/watch?v=0HxGS_gdCr4",
-       thumbnail: "http://img.youtube.com/vi/0HxGS_gdCr4/0.jpg",
-        duration: 2907,
-            tags: [
-                     "c++",
-                     "live",
-                     "talk"
-                  ],
-           level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 876,
@@ -45602,7 +46815,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1621,
@@ -45622,7 +46835,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1606,
@@ -45642,7 +46855,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2066,
@@ -45662,7 +46875,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1726,
@@ -45682,7 +46895,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1936,
@@ -45702,7 +46915,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1994,
@@ -45722,7 +46935,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1717,
@@ -45742,7 +46955,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 565,
@@ -45762,7 +46975,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1033,
@@ -45782,7 +46995,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1182,
@@ -45802,7 +47015,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 774,
@@ -45824,7 +47037,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2055,
@@ -45844,7 +47057,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 441,
@@ -45864,7 +47077,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1148,
@@ -45884,7 +47097,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1166,
@@ -45904,7 +47117,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1969,
@@ -45924,7 +47137,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1951,
@@ -45944,7 +47157,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2189,
@@ -45965,7 +47178,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1968,
@@ -45985,7 +47198,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1954,
@@ -46005,7 +47218,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1056,
@@ -46025,7 +47238,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2089,
@@ -46045,7 +47258,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1042,
@@ -46065,7 +47278,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1714,
@@ -46085,7 +47298,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1291,
@@ -46105,7 +47318,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1293,
@@ -46125,7 +47338,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 758,
@@ -46145,7 +47358,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1647,
@@ -46165,7 +47378,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1871,
@@ -46185,7 +47398,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 340,
@@ -46205,7 +47418,7 @@ const talks = [
                      "panel"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2144,
@@ -46225,7 +47438,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 465,
@@ -46245,7 +47458,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 283,
@@ -46265,7 +47478,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 558,
@@ -46285,7 +47498,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1006,
@@ -46305,7 +47518,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1213,
@@ -46326,7 +47539,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 847,
@@ -46346,7 +47559,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1472,
@@ -46366,7 +47579,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1208,
@@ -46386,7 +47599,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1869,
@@ -46406,7 +47619,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1693,
@@ -46426,7 +47639,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1909,
@@ -46446,7 +47659,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1695,
@@ -46466,7 +47679,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 357,
@@ -46486,7 +47699,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1727,
@@ -46506,7 +47719,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1930,
@@ -46526,7 +47739,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1988,
@@ -46546,7 +47759,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1049,
@@ -46566,7 +47779,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1089,
@@ -46586,7 +47799,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1646,
@@ -46606,7 +47819,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1925,
@@ -46626,7 +47839,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1983,
@@ -46646,7 +47859,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1631,
@@ -46666,7 +47879,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1632,
@@ -46686,7 +47899,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1482,
@@ -46706,7 +47919,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 434,
@@ -46726,7 +47939,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 971,
@@ -46746,7 +47959,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1503,
@@ -46766,7 +47979,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 248,
@@ -46786,7 +47999,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1040,
@@ -46806,7 +48019,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1039,
@@ -46826,7 +48039,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 470,
@@ -46846,7 +48059,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1338,
@@ -46868,7 +48081,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 837,
@@ -46888,7 +48101,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1207,
@@ -46908,7 +48121,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1050,
@@ -46929,7 +48142,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1498,
@@ -46949,7 +48162,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1471,
@@ -46969,7 +48182,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1828,
@@ -46989,7 +48202,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 800,
@@ -47009,7 +48222,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 896,
@@ -47030,7 +48243,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1242,
@@ -47050,7 +48263,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 74,
@@ -47070,7 +48283,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1104,
@@ -47090,7 +48303,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1300,
@@ -47110,7 +48323,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1584,
@@ -47130,7 +48343,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 501,
@@ -47150,7 +48363,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 450,
@@ -47170,7 +48383,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1662,
@@ -47190,7 +48403,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 414,
@@ -47210,7 +48423,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1660,
@@ -47230,7 +48443,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1601,
@@ -47250,7 +48463,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 557,
@@ -47270,7 +48483,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2076,
@@ -47290,7 +48503,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1092,
@@ -47310,7 +48523,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2072,
@@ -47330,7 +48543,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1593,
@@ -47350,7 +48563,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1639,
@@ -47370,7 +48583,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 247,
@@ -47390,7 +48603,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1271,
@@ -47410,7 +48623,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2015,
@@ -47430,7 +48643,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1480,
@@ -47450,7 +48663,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 21,
@@ -47470,7 +48683,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 746,
@@ -47490,7 +48703,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2237,
@@ -47511,7 +48724,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 187,
@@ -47531,7 +48744,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 581,
@@ -47551,7 +48764,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1682,
@@ -47571,7 +48784,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1914,
@@ -47591,7 +48804,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 418,
@@ -47611,7 +48824,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 808,
@@ -47631,7 +48844,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1730,
@@ -47651,7 +48864,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1262,
@@ -47671,7 +48884,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1944,
@@ -47691,7 +48904,7 @@ const talks = [
                      "online"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2002,
@@ -47711,7 +48924,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 361,
@@ -47731,7 +48944,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 945,
@@ -47751,7 +48964,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1540,
@@ -47771,7 +48984,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1806,
@@ -47791,7 +49004,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 429,
@@ -47811,7 +49024,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2092,
@@ -47831,7 +49044,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "hebrew"
+        language: "Hebrew"
    },
    {
           number: 813,
@@ -47851,7 +49064,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 589,
@@ -47871,7 +49084,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 773,
@@ -47892,7 +49105,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 667,
@@ -47912,7 +49125,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1508,
@@ -47932,7 +49145,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1509,
@@ -47952,7 +49165,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1759,
@@ -47972,7 +49185,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 885,
@@ -47992,7 +49205,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 886,
@@ -48012,7 +49225,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 926,
@@ -48032,7 +49245,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1736,
@@ -48052,7 +49265,27 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
+   },
+   {
+          number: 2310,
+      identifier: "MUC++--54",
+         meeting: "MUC++",
+         edition: "",
+           title: "Writing Node.js/Electron native C++ addons for beginners",
+        speakers: [
+                     "Andreas Heindl"
+                  ],
+           video: "https://youtube.com/watch?v=A3W8QIDn4Ck",
+       thumbnail: "http://img.youtube.com/vi/A3W8QIDn4Ck/0.jpg",
+        duration: 2592,
+            tags: [
+                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
    },
    {
           number: 1965,
@@ -48072,7 +49305,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 482,
@@ -48092,7 +49325,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 483,
@@ -48112,7 +49345,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1247,
@@ -48132,7 +49365,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 129,
@@ -48152,7 +49385,7 @@ const talks = [
                      "live"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2236,
@@ -48173,7 +49406,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2235,
@@ -48194,7 +49427,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 177,
@@ -48214,7 +49447,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 338,
@@ -48234,7 +49467,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 360,
@@ -48254,7 +49487,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 1683,
@@ -48274,7 +49507,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 174,
@@ -48294,7 +49527,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    },
    {
           number: 2203,
@@ -48315,7 +49548,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "French"
    },
    {
           number: 1847,
@@ -48335,7 +49568,7 @@ const talks = [
                      "talk"
                   ],
            level: 0,
-        language: "english"
+        language: "English"
    }
 ]
 
