@@ -16,17 +16,18 @@
 # same for dislikes
 #
 # notes & todo:
-# talk nr is sometimes wrong
+# talk nr is sometimes 'wrong'
 # show both ctl- and meeting-edition-nr
 # cleanup 'ignores' list (generate)
 # python cleanup
-# full regeneration takes ~ 26m, cache things?
+# full regeneration takes ~ 26m, and sometimes a failure: cache things?
 # log all prints to a log file?
 # one talk in 'panel' that isn't a panel
 # add some trivia (top nr of talks, nr of minutes)
-# https://liveembededevent.virtualconference.com/#/event
-# FOSDEM (lots of talks, maybe not so interesting?)
-# embo++, Core Hard, ADC++ (no playlists?)
+# FOSDEM (lots of talks, but maybe not so interesting?)
+# embo++, ADC++ (no playlists?)
+# https://corehard.io/videos - most are not english..
+# C++ in title -> c++ tag
 #
 # more tags: units, naming
 # how to record tags??
@@ -42,6 +43,13 @@ def time_in_minutes( time ):
 
 def time_as_time( n ):
    return "%d:%02d" % ( n // 60, n % 60 )
+   
+def remove_if_in( list, element ):
+   n = list.find( element )
+   if n > -1: 
+      list = list[ : ]
+      list.remove( element )
+   return list   
    
 def write_to_file( file, text ):
    with open( file, "w" ) as f:
@@ -266,7 +274,7 @@ class talks:
          key = lower_noquotes )      
       self.tags       = sorted( self.tags, 
          key = lower_noquotes )      
-      self.meetings   = sorted( self.meetings, 
+      self.meetings   = sorted( remove_if_in( self.meetings, [ "unknown" ] )
          key = lower_noquotes )      
       self.editions   = sorted( self.editions, 
          key = lower_noquotes )      
@@ -796,7 +804,7 @@ speaker_replacements = [
    [ "D. Rodriguez-Losada Gonzalez", "Diego Rodriguez-Losada" ],
    [ "Fabian Renn Giles",            "Fabian Renn-Giles" ],
    [ "Fran Buontempo",               "Frances Buontempo" ],
-   [ "Feliple Almeida",              "Feliple Magno de Almeida" ],
+   [ "Felipe Almeida",               "Feliple Magno de Almeida" ],
    [ "G. Nishanov",                  "Gor Nishanov" ],
    [ "Gaby Dos Reis",                "Gabriel Dos Reis" ],
    [ "J Daniel Garcia",              "J. Daniel Garcia" ],
@@ -991,6 +999,19 @@ def split_par( meeting, edition, s ):
    
 # ===========================================================================
 
+def split_lee( meeting, edition, s ):   
+   # [stuff] title
+   print( "   split_lee [%s]" % s )
+   
+   if "]" in s:
+      s = s.split( "]" )[ 1 ]
+   speakers, title = "unknown", s
+   
+   return speakers, title
+
+   
+# ===========================================================================
+
 def split_interview( meeting, edition, s ):   
    # interviewee
    print( "   split_interview [%s]" % s )
@@ -1018,7 +1039,7 @@ def find_ignorespaces_ignorecase( s, x ):
 def split_speakers_and_title( meeting, edition, s, splitter ):
    s = s.strip()
    print( "   split_speakers_and_title [%s]" % s )
-   print( 1, splitter )
+   print( "   1", splitter )
    
    s = s.replace( "'s C++Now 2015", " : " )
    
@@ -1048,7 +1069,7 @@ def split_speakers_and_title( meeting, edition, s, splitter ):
       if s == x:
          splitter = split_st   
 
-   print( 2, splitter )
+   print( "   2", splitter )
 
    for x in [
       "[ BoostCon ]",
@@ -1070,7 +1091,7 @@ def split_speakers_and_title( meeting, edition, s, splitter ):
          s = remove_nocase( s, [ x ] )
          splitter = split_ts
          
-   print( 3, splitter )
+   print( "   3", splitter )
    
    for x in [
       "Lightning Talks Meeting C++ 2016 -",
@@ -1086,7 +1107,7 @@ def split_speakers_and_title( meeting, edition, s, splitter ):
          s = s.replace( x, "" )
          splitter = split_st
          
-   print( 4, splitter )
+   print( "   4", splitter )
    
    for x in [
       "Meeting C++ 2014",
@@ -1157,8 +1178,8 @@ def split_speakers_and_title( meeting, edition, s, splitter ):
       "Lightning Talk:",
       "at CppEurope 2020, Bucharest",
       "CppCon",
-      "2016", # also C++Now
       "2013 ", # C++Now
+      "2016", # also C++Now
    ]:
       s = s.replace( x, "" )
          
@@ -1189,7 +1210,7 @@ def split_speakers_and_title( meeting, edition, s, splitter ):
    speakers = speakers.replace( "&", "," )
    speakers = speakers.replace( " and ", "," )
    speakers = list( map( sanitize_speaker, speakers.split( "," )))
-   speakers_eliminate = [ "", "panel", "various" ]
+   speakers_eliminate = [ "", "panel", "various", "unknown" ]
    speakers = list( filter( lambda x : not x in speakers_eliminate, speakers ))
    speakers = sorted( speakers )
    
@@ -1295,7 +1316,7 @@ def add_talk(
    
 # ===========================================================================
       
-talks_to_ignore = [
+excluded_talks = [
    "Meeting C++ 2014 - Survey Session",
    "Meeting C++ 2014 Update & Survey Session",
    "Timelapse of Meeting C++ 2016 beginning",
@@ -1314,7 +1335,7 @@ talks_to_ignore = [
    "Core C++ 2021  Welcome Words",
    "Core C++ 2021 :: Welcome Words :: Dalit Naor",
    "[old version - see below] Quickly testing legacy code - Clare Macrae [C++ on Sea 2019]",
-   "",
+   "On the way of the 2nd edition in 2021 !",
    "",
    "",
    "",
@@ -1335,14 +1356,18 @@ def add_playlist( talks, meeting, edition, playlists, nr1, nr2 ):
    nr = 0
    done = []
    for playlist_id, sp, tg in playlists: 
-      for youtube_id in playlist_ids( playlist_id ):
+      if len( playlist_id ) < 30:
+         nr += 1
+         v = pafy.new( youtube_id )
+         add_talk( talks, meeting, edition, youtube_id, nr, v, sp, tg )
+      else for youtube_id in playlist_ids( playlist_id ):
          nr += 1
          if 0: print( nr, youtube_id, youtube_id in done )
          if not youtube_id in done:
             done.append( youtube_id )
             if use_nr( nr, nr1, nr2 ):
                v = pafy.new( youtube_id )
-               if not v.title in talks_to_ignore:
+               if not v.title in excluded_talks:
                   add_talk( 
                      talks, meeting, edition, youtube_id, nr, v, sp, tg )
                
@@ -1442,9 +1467,11 @@ playlists = [
    ]], [ "Pacific C++", [ # checked
       [ "2017", [[ "PLd4OrpVodmxUf6WsIJhb2KvYaq9RBuIr3", split_sqt, "l+"  ]]],
       [ "2018", [[ "PLd4OrpVodmxUCBpzlkPYsiP9hOtLFpAjk", split_sqt, "l+"  ]]],
-#   ]], [ "Live Embedded Event", [ # tags, but no speakers
-#      [ "2020", [[ "PLn7YTy5_SF4_1ZLsQ29ZGpjZo7aNoLBIt", split_sqb, "oe"  ]]],
-#      [ "2021", [[ "PLn7YTy5_SF4-FRyY-5zwsKuTCOBRUkY_h", split_sqb, "oe"  ]]
+   ]], [ "Live Embedded Event", [ # checked, but no speakers :(
+      [ "2020", [[ "PLn7YTy5_SF4_1ZLsQ29ZGpjZo7aNoLBIt", split_lee, "oe"  ]]],
+      [ "2021", [[ "PLn7YTy5_SF4-FRyY-5zwsKuTCOBRUkY_h", split_lee, "oe"  ]]],
+   ]], [ "unknown", [ # checked
+      [ "2017", [[ "Se9AEznM8TI&t=22s", split_lee,  "l"  ]]],
    ]], [ "", [
    ]],      
 ]
@@ -1566,13 +1593,13 @@ function rewrite(){
    t += "Compiled by Wouter van Ooijen (wouter@voti.nl).<BR>"
    t += "Raw data avaiulable at <A HREF=https://www.github.com/wovo/ctl>"
    t += "www.github.com/wovo/ctl</A>.<P>"
-   t += "This is a list of talks about C++ and related subjects I compiled "
-   t += "from youtube playlists. "
+   t += "This is a list of talks about C++, embedded and related subjects 
+   t += "I compiled from youtube playlists. "
    t += "Suggestions for other conferences to be included are welcome. "
    t += "I apologize for any inaccuracies and omissions. "
    t += "Feel free to supply corrections. "
    t += "For additions, provide youtube playlist(s), but please please "
-   t += "use a consistent title format, like 'speaker(s) : title'."
+   t += "use a consistent title format, like 'speaker, speaker : title'."
    t += "<HR>"
    
    // the checkboxes for meetings, editions, etc.

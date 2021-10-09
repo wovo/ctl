@@ -753,6 +753,23 @@
    "title": "A First Look at Proto-0x",
    "video": "https://youtube.com/watch?v=JF6YM0XzHnE"
 },{
+   "duration": 1818,
+   "edition": "2021",
+   "identifier": "Live Embedded Event-2021-27",
+   "language": "english",
+   "level": 0,
+   "meeting": "Live Embedded Event",
+   "number": 2230,
+   "speakers": [],
+   "tags": [
+      "embedded",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/9NED6ZB9o4k/0.jpg",
+   "title": "A Food pairing device, with offline AI and edge computing",
+   "video": "https://youtube.com/watch?v=9NED6ZB9o4k"
+},{
    "duration": 11017,
    "edition": "2010",
    "identifier": "BoostCon-2010-13",
@@ -1791,6 +1808,23 @@
    "thumbnail": "http://img.youtube.com/vi/hn4jtjbxO14/0.jpg",
    "title": "A Zephyr Overview of C++11 (Part II)",
    "video": "https://youtube.com/watch?v=hn4jtjbxO14"
+},{
+   "duration": 1753,
+   "edition": "2020",
+   "identifier": "Live Embedded Event-2020-16",
+   "language": "english",
+   "level": 0,
+   "meeting": "Live Embedded Event",
+   "number": 2184,
+   "speakers": [],
+   "tags": [
+      "embedded",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/bNELexZkiOM/0.jpg",
+   "title": "aa-scan3 - an AppArmor profiles generator",
+   "video": "https://youtube.com/watch?v=bNELexZkiOM"
 },{
    "duration": 2863,
    "edition": "2016",
@@ -2922,6 +2956,40 @@
    "title": "An Overview of Standard Ranges",
    "video": "https://youtube.com/watch?v=SYLgG7Q5Zws"
 },{
+   "duration": 3959,
+   "edition": "2020",
+   "identifier": "Live Embedded Event-2020-35",
+   "language": "english",
+   "level": 0,
+   "meeting": "Live Embedded Event",
+   "number": 2203,
+   "speakers": [],
+   "tags": [
+      "embedded",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/fuDV9ZmcHPY/0.jpg",
+   "title": "An Overview of the Linux and Userspace Graphics Stack",
+   "video": "https://youtube.com/watch?v=fuDV9ZmcHPY"
+},{
+   "duration": 3413,
+   "edition": "2020",
+   "identifier": "Live Embedded Event-2020-26",
+   "language": "english",
+   "level": 0,
+   "meeting": "Live Embedded Event",
+   "number": 2194,
+   "speakers": [],
+   "tags": [
+      "embedded",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/wGzTpIyP3hU/0.jpg",
+   "title": "An Overview of Transport Layer Security (TLS) Protocol Version 1.3",
+   "video": "https://youtube.com/watch?v=wGzTpIyP3hU"
+},{
    "duration": 4158,
    "edition": "2015",
    "identifier": "C++Now-2015-39",
@@ -3298,6 +3366,23 @@
    "thumbnail": "http://img.youtube.com/vi/1a2ourIQais/0.jpg",
    "title": "array_ref: Multidimensional Array References for the C++ Standard Library",
    "video": "https://youtube.com/watch?v=1a2ourIQais"
+},{
+   "duration": 2558,
+   "edition": "2020",
+   "identifier": "Live Embedded Event-2020-32",
+   "language": "english",
+   "level": 0,
+   "meeting": "Live Embedded Event",
+   "number": 2200,
+   "speakers": [],
+   "tags": [
+      "embedded",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/Xs3-1nWABsU/0.jpg",
+   "title": "ASoC: Audio on an embedded board",
+   "video": "https://youtube.com/watch?v=Xs3-1nWABsU"
 },{
    "duration": 436,
    "edition": "2014",
@@ -3842,6 +3927,23 @@
    "thumbnail": "http://img.youtube.com/vi/vtUQY2dw0mI/0.jpg",
    "title": "Axiomatic Programming: From Euclidean Deductions to C++ Templates and Beyond",
    "video": "https://youtube.com/watch?v=vtUQY2dw0mI"
+},{
+   "duration": 1614,
+   "edition": "2020",
+   "identifier": "Live Embedded Event-2020-8",
+   "language": "english",
+   "level": 0,
+   "meeting": "Live Embedded Event",
+   "number": 2176,
+   "speakers": [],
+   "tags": [
+      "embedded",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/gM7hn6EjPYY/0.jpg",
+   "title": "Azure Sphere",
+   "video": "https://youtube.com/watch?v=gM7hn6EjPYY"
 },{
    "duration": 4215,
    "edition": "2020",
@@ -6226,6 +6328,23 @@
    "title": "Building for the Best of Us: Design and Development with Kids in Mind",
    "video": "https://youtube.com/watch?v=zX0YoCDWGxc"
 },{
+   "duration": 2090,
+   "edition": "2020",
+   "identifier": "Live Embedded Event-2020-15",
+   "language": "english",
+   "level": 0,
+   "meeting": "Live Embedded Event",
+   "number": 2183,
+   "speakers": [],
+   "tags": [
+      "embedded",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/1iK0WmcpNxw/0.jpg",
+   "title": "Building IoT solutions using Contiki-NG and AWS",
+   "video": "https://youtube.com/watch?v=1iK0WmcpNxw"
+},{
    "duration": 4268,
    "edition": "2017",
    "identifier": "code::dive-2017-34",
@@ -6280,6 +6399,23 @@
    "thumbnail": "http://img.youtube.com/vi/L0SHHkBenss/0.jpg",
    "title": "Building Modules",
    "video": "https://youtube.com/watch?v=L0SHHkBenss"
+},{
+   "duration": 1691,
+   "edition": "2020",
+   "identifier": "Live Embedded Event-2020-7",
+   "language": "english",
+   "level": 0,
+   "meeting": "Live Embedded Event",
+   "number": 2175,
+   "speakers": [],
+   "tags": [
+      "embedded",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/m0dvHwsHfq0/0.jpg",
+   "title": "Building safe & Secure embedded systems by means of hypervisor approach",
+   "video": "https://youtube.com/watch?v=m0dvHwsHfq0"
 },{
    "duration": 3578,
    "edition": "2016",
@@ -9320,6 +9456,23 @@
    "title": "Character Encodings Hate Us All",
    "video": "https://youtube.com/watch?v=h5Q3yMIK5XQ"
 },{
+   "duration": 3547,
+   "edition": "2021",
+   "identifier": "Live Embedded Event-2021-26",
+   "language": "english",
+   "level": 0,
+   "meeting": "Live Embedded Event",
+   "number": 2229,
+   "speakers": [],
+   "tags": [
+      "embedded",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/p2vgGUXXQBA/0.jpg",
+   "title": "Choosing hardware components : A software guy's point of view.",
+   "video": "https://youtube.com/watch?v=p2vgGUXXQBA"
+},{
    "duration": 658,
    "edition": "2015",
    "identifier": "Meeting C++-2015-7",
@@ -10489,6 +10642,23 @@
    "title": "Conan, a C and C++ package manager for developers",
    "video": "https://youtube.com/watch?v=xvqH_ck-5Q8"
 },{
+   "duration": 1953,
+   "edition": "2020",
+   "identifier": "Live Embedded Event-2020-12",
+   "language": "english",
+   "level": 0,
+   "meeting": "Live Embedded Event",
+   "number": 2180,
+   "speakers": [],
+   "tags": [
+      "embedded",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/gMvTcMPYiXQ/0.jpg",
+   "title": "Conan, le gestionnaire de paquets C/C++",
+   "video": "https://youtube.com/watch?v=gMvTcMPYiXQ"
+},{
    "duration": 3458,
    "edition": "2018",
    "identifier": "accu-2018-25",
@@ -10826,6 +10996,23 @@
    "thumbnail": "http://img.youtube.com/vi/7_x3LJlnmCs/0.jpg",
    "title": "Concurrent Code - Test It! - How?",
    "video": "https://youtube.com/watch?v=7_x3LJlnmCs"
+},{
+   "duration": 2278,
+   "edition": "2020",
+   "identifier": "Live Embedded Event-2020-17",
+   "language": "english",
+   "level": 0,
+   "meeting": "Live Embedded Event",
+   "number": 2185,
+   "speakers": [],
+   "tags": [
+      "embedded",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/OK9gOB3OYBk/0.jpg",
+   "title": "Conjuguer mod\u00e8les ouverts et propriete intellectuelle dans l'embarque",
+   "video": "https://youtube.com/watch?v=OK9gOB3OYBk"
 },{
    "duration": 2907,
    "edition": "2015",
@@ -11716,6 +11903,40 @@
    "title": "Creating Boost.Asio extensions",
    "video": "https://youtube.com/watch?v=Nkyg11XoAxE"
 },{
+   "duration": 1638,
+   "edition": "2020",
+   "identifier": "Live Embedded Event-2020-3",
+   "language": "english",
+   "level": 0,
+   "meeting": "Live Embedded Event",
+   "number": 2171,
+   "speakers": [],
+   "tags": [
+      "embedded",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/BxH07qGv1gE/0.jpg",
+   "title": "Creating Debian-Based Embedded Systems using Debos",
+   "video": "https://youtube.com/watch?v=BxH07qGv1gE"
+},{
+   "duration": 1908,
+   "edition": "2021",
+   "identifier": "Live Embedded Event-2021-25",
+   "language": "english",
+   "level": 0,
+   "meeting": "Live Embedded Event",
+   "number": 2228,
+   "speakers": [],
+   "tags": [
+      "embedded",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/JA4QOXl_-zM/0.jpg",
+   "title": "Creating Debian-Based Embedded Systems using Debos",
+   "video": "https://youtube.com/watch?v=JA4QOXl_-zM"
+},{
    "duration": 5453,
    "edition": "2015",
    "identifier": "Meeting C++-2015-13",
@@ -12036,6 +12257,23 @@
    "thumbnail": "http://img.youtube.com/vi/oNpu2XKIqPQ/0.jpg",
    "title": "Data Structure Visualizers in Visual Studio 2010",
    "video": "https://youtube.com/watch?v=oNpu2XKIqPQ"
+},{
+   "duration": 1406,
+   "edition": "2021",
+   "identifier": "Live Embedded Event-2021-34",
+   "language": "english",
+   "level": 0,
+   "meeting": "Live Embedded Event",
+   "number": 2237,
+   "speakers": [],
+   "tags": [
+      "embedded",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/yCi7q48txh8/0.jpg",
+   "title": "Data-arithmetic optimization of embedded applications",
+   "video": "https://youtube.com/watch?v=yCi7q48txh8"
 },{
    "duration": 3628,
    "edition": "2020",
@@ -12749,6 +12987,23 @@
    "title": "Design And Implementation Of DBMS Asynchronous Client Library",
    "video": "https://youtube.com/watch?v=-1zbaxuUsMA"
 },{
+   "duration": 1600,
+   "edition": "2020",
+   "identifier": "Live Embedded Event-2020-5",
+   "language": "english",
+   "level": 0,
+   "meeting": "Live Embedded Event",
+   "number": 2173,
+   "speakers": [],
+   "tags": [
+      "embedded",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/hb0XG4DEEcE/0.jpg",
+   "title": "Design for Cost VS Cost of Design",
+   "video": "https://youtube.com/watch?v=hb0XG4DEEcE"
+},{
    "duration": 5400,
    "edition": "2011",
    "identifier": "BoostCon-2011-13",
@@ -13033,6 +13288,23 @@
    "title": "Designing for Efficient Cache Usage",
    "video": "https://youtube.com/watch?v=3-ityWN-FdE"
 },{
+   "duration": 3397,
+   "edition": "2021",
+   "identifier": "Live Embedded Event-2021-24",
+   "language": "english",
+   "level": 0,
+   "meeting": "Live Embedded Event",
+   "number": 2227,
+   "speakers": [],
+   "tags": [
+      "embedded",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/37ZqLfGyhYo/0.jpg",
+   "title": "Designing OSTree based embedded Linux systems",
+   "video": "https://youtube.com/watch?v=37ZqLfGyhYo"
+},{
    "duration": 3613,
    "edition": "2014",
    "identifier": "Meeting C++-2014-22",
@@ -13108,6 +13380,23 @@
    "thumbnail": "http://img.youtube.com/vi/ymmKZRG4iv0/0.jpg",
    "title": "Details Matter",
    "video": "https://youtube.com/watch?v=ymmKZRG4iv0"
+},{
+   "duration": 2740,
+   "edition": "2021",
+   "identifier": "Live Embedded Event-2021-23",
+   "language": "english",
+   "level": 0,
+   "meeting": "Live Embedded Event",
+   "number": 2226,
+   "speakers": [],
+   "tags": [
+      "embedded",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/Ur52kNlIm4c/0.jpg",
+   "title": "Developing a Linux driver in Rust for ARM",
+   "video": "https://youtube.com/watch?v=Ur52kNlIm4c"
 },{
    "duration": 2803,
    "edition": "2015",
@@ -13192,7 +13481,7 @@
    "meeting": "C++Now",
    "number": 190,
    "speakers": [
-      "Felipe Almeida"
+      "Feliple Magno de Almeida"
    ],
    "tags": [
       "c++",
@@ -13202,6 +13491,57 @@
    "thumbnail": "http://img.youtube.com/vi/eLzpnSBJi30/0.jpg",
    "title": "Developing EDSL's for Boost.Spirit",
    "video": "https://youtube.com/watch?v=eLzpnSBJi30"
+},{
+   "duration": 1773,
+   "edition": "2021",
+   "identifier": "Live Embedded Event-2021-22",
+   "language": "english",
+   "level": 0,
+   "meeting": "Live Embedded Event",
+   "number": 2225,
+   "speakers": [],
+   "tags": [
+      "embedded",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/kSIc-qwV_ks/0.jpg",
+   "title": "Developing embedded IOT device code using micropython: is this reasonable choice?",
+   "video": "https://youtube.com/watch?v=kSIc-qwV_ks"
+},{
+   "duration": 1505,
+   "edition": "2021",
+   "identifier": "Live Embedded Event-2021-21",
+   "language": "english",
+   "level": 0,
+   "meeting": "Live Embedded Event",
+   "number": 2224,
+   "speakers": [],
+   "tags": [
+      "embedded",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/cawxqIgcXVM/0.jpg",
+   "title": "Device Tree overlays and U-boot extension board management",
+   "video": "https://youtube.com/watch?v=cawxqIgcXVM"
+},{
+   "duration": 2611,
+   "edition": "2020",
+   "identifier": "Live Embedded Event-2020-33",
+   "language": "english",
+   "level": 0,
+   "meeting": "Live Embedded Event",
+   "number": 2201,
+   "speakers": [],
+   "tags": [
+      "embedded",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/P9tTS46sjYo/0.jpg",
+   "title": "Device Tree: hardware description for everybody!",
+   "video": "https://youtube.com/watch?v=P9tTS46sjYo"
 },{
    "duration": 3694,
    "edition": "2017",
@@ -13404,6 +13744,23 @@
    "thumbnail": "http://img.youtube.com/vi/0C0DSbbKkYM/0.jpg",
    "title": "Diving into a large, legacy code::base as a youngster",
    "video": "https://youtube.com/watch?v=0C0DSbbKkYM"
+},{
+   "duration": 2072,
+   "edition": "2020",
+   "identifier": "Live Embedded Event-2020-24",
+   "language": "english",
+   "level": 0,
+   "meeting": "Live Embedded Event",
+   "number": 2192,
+   "speakers": [],
+   "tags": [
+      "embedded",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/TK10pNb_mzw/0.jpg",
+   "title": "Diving into SWUpdate: adding new platform support with Yocto/OE",
+   "video": "https://youtube.com/watch?v=TK10pNb_mzw"
 },{
    "duration": 5243,
    "edition": "2017",
@@ -14160,6 +14517,23 @@
    "title": "Embedded & C++",
    "video": "https://youtube.com/watch?v=mNPfsUZb3vs"
 },{
+   "duration": 3517,
+   "edition": "2021",
+   "identifier": "Live Embedded Event-2021-20",
+   "language": "english",
+   "level": 0,
+   "meeting": "Live Embedded Event",
+   "number": 2223,
+   "speakers": [],
+   "tags": [
+      "embedded",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/sBUNnUXaB38/0.jpg",
+   "title": "Embedded Android in real life",
+   "video": "https://youtube.com/watch?v=sBUNnUXaB38"
+},{
    "duration": 5337,
    "edition": "2019",
    "identifier": "C++Now-2019-4",
@@ -14178,6 +14552,23 @@
    "thumbnail": "http://img.youtube.com/vi/OkeRijjmoh8/0.jpg",
    "title": "Embedded Domain Specific Languages for Embedded Bare Metal Projects",
    "video": "https://youtube.com/watch?v=OkeRijjmoh8"
+},{
+   "duration": 3956,
+   "edition": "2020",
+   "identifier": "Live Embedded Event-2020-23",
+   "language": "english",
+   "level": 0,
+   "meeting": "Live Embedded Event",
+   "number": 2191,
+   "speakers": [],
+   "tags": [
+      "embedded",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/9mQWtfvyJAw/0.jpg",
+   "title": "Embedded Linux 'from scratch' in 45 minutes... on Risc-V",
+   "video": "https://youtube.com/watch?v=9mQWtfvyJAw"
 },{
    "duration": 1967,
    "edition": "2018",
@@ -14537,6 +14928,23 @@
    "thumbnail": "http://img.youtube.com/vi/qMlTSAHgzV0/0.jpg",
    "title": "Enum to string using metaprogramming - Daniel Gavrila",
    "video": "https://youtube.com/watch?v=qMlTSAHgzV0"
+},{
+   "duration": 2095,
+   "edition": "2020",
+   "identifier": "Live Embedded Event-2020-14",
+   "language": "english",
+   "level": 0,
+   "meeting": "Live Embedded Event",
+   "number": 2182,
+   "speakers": [],
+   "tags": [
+      "embedded",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/qmIEiUvo6aQ/0.jpg",
+   "title": "Eoliennes Connectees",
+   "video": "https://youtube.com/watch?v=qmIEiUvo6aQ"
 },{
    "duration": 2178,
    "edition": "2017",
@@ -15493,7 +15901,7 @@
    "meeting": "CppCon",
    "number": 1111,
    "speakers": [
-      "Diego Rodriguez-Losada Gonzalez"
+      "Diego Rodriguez-Losada"
    ],
    "tags": [
       "c++",
@@ -15988,6 +16396,23 @@
    "thumbnail": "http://img.youtube.com/vi/RrG_A7Ybzo4/0.jpg",
    "title": "From Algorithm to Generic, Parallel Code",
    "video": "https://youtube.com/watch?v=RrG_A7Ybzo4"
+},{
+   "duration": 2480,
+   "edition": "2021",
+   "identifier": "Live Embedded Event-2021-19",
+   "language": "english",
+   "level": 0,
+   "meeting": "Live Embedded Event",
+   "number": 2222,
+   "speakers": [],
+   "tags": [
+      "embedded",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/KiPWsM_dcrE/0.jpg",
+   "title": "From embedded Linux boat sensors to the cloud, a data journey",
+   "video": "https://youtube.com/watch?v=KiPWsM_dcrE"
 },{
    "duration": 3483,
    "edition": "2015",
@@ -17404,6 +17829,23 @@
    "title": "Git, CMake, Conan: How to Ship and Reuse our C++ Projects",
    "video": "https://youtube.com/watch?v=6sWec7b0JIc"
 },{
+   "duration": 3431,
+   "edition": "2020",
+   "identifier": "Live Embedded Event-2020-21",
+   "language": "english",
+   "level": 0,
+   "meeting": "Live Embedded Event",
+   "number": 2189,
+   "speakers": [],
+   "tags": [
+      "embedded",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/4fcCKwWVqYc/0.jpg",
+   "title": "GNU/Linux ou Android comme syst\u00e8me d'exploitation embarque ?",
+   "video": "https://youtube.com/watch?v=4fcCKwWVqYc"
+},{
    "duration": 2952,
    "edition": "2018",
    "identifier": "code::dive-2018-9",
@@ -17606,6 +18048,23 @@
    "thumbnail": "http://img.youtube.com/vi/fH2WBvI8dbk/0.jpg",
    "title": "Goodbye metaprogramming, and hello functional",
    "video": "https://youtube.com/watch?v=fH2WBvI8dbk"
+},{
+   "duration": 2799,
+   "edition": "2020",
+   "identifier": "Live Embedded Event-2020-29",
+   "language": "english",
+   "level": 0,
+   "meeting": "Live Embedded Event",
+   "number": 2197,
+   "speakers": [],
+   "tags": [
+      "embedded",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/EV3DafjteBQ/0.jpg",
+   "title": "GPU processing of V4L2 live video on NVIDIA Jetson with CUDA",
+   "video": "https://youtube.com/watch?v=EV3DafjteBQ"
 },{
    "duration": 5606,
    "edition": "2019",
@@ -18628,6 +19087,40 @@
    "title": "How does Git actually work?",
    "video": "https://youtube.com/watch?v=N0m42TKk_dc"
 },{
+   "duration": 1460,
+   "edition": "2020",
+   "identifier": "Live Embedded Event-2020-31",
+   "language": "english",
+   "level": 0,
+   "meeting": "Live Embedded Event",
+   "number": 2199,
+   "speakers": [],
+   "tags": [
+      "embedded",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/RLFiJI-iSNE/0.jpg",
+   "title": "How Embedded Developers work from home using labgrid",
+   "video": "https://youtube.com/watch?v=RLFiJI-iSNE"
+},{
+   "duration": 2309,
+   "edition": "2021",
+   "identifier": "Live Embedded Event-2021-18",
+   "language": "english",
+   "level": 0,
+   "meeting": "Live Embedded Event",
+   "number": 2221,
+   "speakers": [],
+   "tags": [
+      "embedded",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/LMS3nbqB-_M/0.jpg",
+   "title": "How eSIM can help industrialisation",
+   "video": "https://youtube.com/watch?v=LMS3nbqB-_M"
+},{
    "duration": 6455,
    "edition": "2012",
    "identifier": "C++Now-2012-15",
@@ -18943,6 +19436,23 @@
    "title": "How to initialize x from expression y",
    "video": "https://youtube.com/watch?v=hobFOAehwio"
 },{
+   "duration": 1864,
+   "edition": "2020",
+   "identifier": "Live Embedded Event-2020-10",
+   "language": "english",
+   "level": 0,
+   "meeting": "Live Embedded Event",
+   "number": 2178,
+   "speakers": [],
+   "tags": [
+      "embedded",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/vIrpf4EsN1E/0.jpg",
+   "title": "How to make Augmented Reality with Qt/QML and OpenCV ?",
+   "video": "https://youtube.com/watch?v=vIrpf4EsN1E"
+},{
    "duration": 3975,
    "edition": "2015",
    "identifier": "CppCon-2015-73",
@@ -18961,6 +19471,23 @@
    "thumbnail": "http://img.youtube.com/vi/FtaD0maxwec/0.jpg",
    "title": "How to make your data structures wait-free for reads",
    "video": "https://youtube.com/watch?v=FtaD0maxwec"
+},{
+   "duration": 1739,
+   "edition": "2021",
+   "identifier": "Live Embedded Event-2021-17",
+   "language": "english",
+   "level": 0,
+   "meeting": "Live Embedded Event",
+   "number": 2220,
+   "speakers": [],
+   "tags": [
+      "embedded",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/XsTHpXvHDHM/0.jpg",
+   "title": "How to manage your distributed electronic architecture?",
+   "video": "https://youtube.com/watch?v=XsTHpXvHDHM"
 },{
    "duration": 1174,
    "edition": "2018",
@@ -19718,6 +20245,23 @@
    "title": "I'm falling in love with Globals",
    "video": "https://youtube.com/watch?v=gx3AhbmdzC8"
 },{
+   "duration": 2432,
+   "edition": "2020",
+   "identifier": "Live Embedded Event-2020-6",
+   "language": "english",
+   "level": 0,
+   "meeting": "Live Embedded Event",
+   "number": 2174,
+   "speakers": [],
+   "tags": [
+      "embedded",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/157vKN9mZmc/0.jpg",
+   "title": "Image Signal Processing (ISP) Drivers & How to Merge One Upstream",
+   "video": "https://youtube.com/watch?v=157vKN9mZmc"
+},{
    "duration": 5689,
    "edition": "2019",
    "identifier": "accu-2019-41",
@@ -20340,6 +20884,23 @@
    "title": "Instruction Re-ordering Everywhere: The C++ 'As-If' Rule and the Role of Sequence",
    "video": "https://youtube.com/watch?v=8yUSMJWlEsk"
 },{
+   "duration": 1656,
+   "edition": "2020",
+   "identifier": "Live Embedded Event-2020-11",
+   "language": "english",
+   "level": 0,
+   "meeting": "Live Embedded Event",
+   "number": 2179,
+   "speakers": [],
+   "tags": [
+      "embedded",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/kk6RW2ex3FA/0.jpg",
+   "title": "Integrating Docker containers in Yocto",
+   "video": "https://youtube.com/watch?v=kk6RW2ex3FA"
+},{
    "duration": 2600,
    "edition": "2015",
    "identifier": "CppCon-2015-37",
@@ -20796,6 +21357,23 @@
    "title": "interview with The Silicon Valley coding  (Nicolo Valigi)",
    "video": "https://youtube.com/watch?v=vKfXw5VdbB8"
 },{
+   "duration": 1561,
+   "edition": "2020",
+   "identifier": "Live Embedded Event-2020-2",
+   "language": "english",
+   "level": 0,
+   "meeting": "Live Embedded Event",
+   "number": 2170,
+   "speakers": [],
+   "tags": [
+      "embedded",
+      "keynote",
+      "online"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/f0WX7-FxgEQ/0.jpg",
+   "title": "Intro &  LEE 2020",
+   "video": "https://youtube.com/watch?v=f0WX7-FxgEQ"
+},{
    "duration": 4554,
    "edition": "2014",
    "identifier": "C++Now-2014-34",
@@ -20909,6 +21487,23 @@
    "title": "Introducing Parallelism to the Ranges TS",
    "video": "https://youtube.com/watch?v=0-n7fyQYsVk"
 },{
+   "duration": 3533,
+   "edition": "2021",
+   "identifier": "Live Embedded Event-2021-16",
+   "language": "english",
+   "level": 0,
+   "meeting": "Live Embedded Event",
+   "number": 2219,
+   "speakers": [],
+   "tags": [
+      "embedded",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/orV41cNVQW8/0.jpg",
+   "title": "Introducing RTEMS, a serious real-time OS",
+   "video": "https://youtube.com/watch?v=orV41cNVQW8"
+},{
    "duration": 3646,
    "edition": "2017",
    "identifier": "code::dive-2017-7",
@@ -20926,6 +21521,40 @@
    "thumbnail": "http://img.youtube.com/vi/LNXkPh3Z418/0.jpg",
    "title": "Introducing the Ranges TS",
    "video": "https://youtube.com/watch?v=LNXkPh3Z418"
+},{
+   "duration": 582,
+   "edition": "2021",
+   "identifier": "Live Embedded Event-2021-1",
+   "language": "english",
+   "level": 0,
+   "meeting": "Live Embedded Event",
+   "number": 2204,
+   "speakers": [],
+   "tags": [
+      "embedded",
+      "lightning",
+      "online"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/iGCA-Wsgw4A/0.jpg",
+   "title": "Introduction from co-organizers",
+   "video": "https://youtube.com/watch?v=iGCA-Wsgw4A"
+},{
+   "duration": 2467,
+   "edition": "2021",
+   "identifier": "Live Embedded Event-2021-30",
+   "language": "english",
+   "level": 0,
+   "meeting": "Live Embedded Event",
+   "number": 2233,
+   "speakers": [],
+   "tags": [
+      "embedded",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/y-_sJP1VI3o/0.jpg",
+   "title": "Introduction to Azure Sphere",
+   "video": "https://youtube.com/watch?v=y-_sJP1VI3o"
 },{
    "duration": 3125,
    "edition": "2020",
@@ -21022,6 +21651,23 @@
    "title": "Introduction to C++ python extensions and embedding Python in C++ Apps",
    "video": "https://youtube.com/watch?v=bJq1n4gQFfw"
 },{
+   "duration": 3739,
+   "edition": "2021",
+   "identifier": "Live Embedded Event-2021-29",
+   "language": "english",
+   "level": 0,
+   "meeting": "Live Embedded Event",
+   "number": 2232,
+   "speakers": [],
+   "tags": [
+      "embedded",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/daKNJkllk3Q/0.jpg",
+   "title": "Introduction to encryption for embedded Linux developers",
+   "video": "https://youtube.com/watch?v=daKNJkllk3Q"
+},{
    "duration": 1866,
    "edition": "2019",
    "identifier": "code::dive-2019-36",
@@ -21114,6 +21760,23 @@
    "thumbnail": "http://img.youtube.com/vi/1S_AVHaVsLA/0.jpg",
    "title": "Introduction to Qt 3D",
    "video": "https://youtube.com/watch?v=1S_AVHaVsLA"
+},{
+   "duration": 1574,
+   "edition": "2021",
+   "identifier": "Live Embedded Event-2021-28",
+   "language": "english",
+   "level": 0,
+   "meeting": "Live Embedded Event",
+   "number": 2231,
+   "speakers": [],
+   "tags": [
+      "embedded",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/lEWG3eiOss0/0.jpg",
+   "title": "Introduction to RAUC",
+   "video": "https://youtube.com/watch?v=lEWG3eiOss0"
 },{
    "duration": 850,
    "edition": "2014",
@@ -21436,6 +22099,23 @@
    "thumbnail": "http://img.youtube.com/vi/jiJesVwkXPw/0.jpg",
    "title": "It's People! Code is made out of people!",
    "video": "https://youtube.com/watch?v=jiJesVwkXPw"
+},{
+   "duration": 1327,
+   "edition": "2021",
+   "identifier": "Live Embedded Event-2021-15",
+   "language": "english",
+   "level": 0,
+   "meeting": "Live Embedded Event",
+   "number": 2218,
+   "speakers": [],
+   "tags": [
+      "embedded",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/fzyhyqJI0oY/0.jpg",
+   "title": "Jami on i.MX6: bring fully distributed & secure comm. capabilities to embedded products",
+   "video": "https://youtube.com/watch?v=fzyhyqJI0oY"
 },{
    "duration": 761,
    "edition": "2018",
@@ -22099,6 +22779,23 @@
    "title": "lemniscate C++++++...",
    "video": "https://youtube.com/watch?v=IW57niwMP0k"
 },{
+   "duration": 1979,
+   "edition": "2021",
+   "identifier": "Live Embedded Event-2021-14",
+   "language": "english",
+   "level": 0,
+   "meeting": "Live Embedded Event",
+   "number": 2217,
+   "speakers": [],
+   "tags": [
+      "embedded",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/OvCs7IX3TGY/0.jpg",
+   "title": "Les outils open source pour les FPGA",
+   "video": "https://youtube.com/watch?v=OvCs7IX3TGY"
+},{
    "duration": 349,
    "edition": "2014",
    "identifier": "CppCon-2014-32",
@@ -22461,6 +23158,23 @@
    "thumbnail": "http://img.youtube.com/vi/gPfm8sTk080/0.jpg",
    "title": "Linear programming made easy with Boost Proto",
    "video": "https://youtube.com/watch?v=gPfm8sTk080"
+},{
+   "duration": 2354,
+   "edition": "2021",
+   "identifier": "Live Embedded Event-2021-13",
+   "language": "english",
+   "level": 0,
+   "meeting": "Live Embedded Event",
+   "number": 2216,
+   "speakers": [],
+   "tags": [
+      "embedded",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/-sb8q4pOCPM/0.jpg",
+   "title": "Linux dynamic library versioning",
+   "video": "https://youtube.com/watch?v=-sb8q4pOCPM"
 },{
    "duration": 5145,
    "edition": "2018",
@@ -23927,6 +24641,23 @@
    "title": "Microcontrollers in Micro-increments A Test-driven C++ Workflow",
    "video": "https://youtube.com/watch?v=YMwE_OSQDXk"
 },{
+   "duration": 2478,
+   "edition": "2020",
+   "identifier": "Live Embedded Event-2020-18",
+   "language": "english",
+   "level": 0,
+   "meeting": "Live Embedded Event",
+   "number": 2186,
+   "speakers": [],
+   "tags": [
+      "embedded",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/4OokA0M2OE0/0.jpg",
+   "title": "MicroEJ, un environnement virtualise pour l'embarque",
+   "video": "https://youtube.com/watch?v=4OokA0M2OE0"
+},{
    "duration": 3571,
    "edition": "2014",
    "identifier": "CppCon-2014-66",
@@ -24002,6 +24733,23 @@
    "thumbnail": "http://img.youtube.com/vi/idPThkw2p6c/0.jpg",
    "title": "Migration of C++ Libraries to C++14",
    "video": "https://youtube.com/watch?v=idPThkw2p6c"
+},{
+   "duration": 3420,
+   "edition": "2020",
+   "identifier": "Live Embedded Event-2020-25",
+   "language": "english",
+   "level": 0,
+   "meeting": "Live Embedded Event",
+   "number": 2193,
+   "speakers": [],
+   "tags": [
+      "embedded",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/sUxdABhobSU/0.jpg",
+   "title": "Mise \u00e0 jour : les bonnes questions \u00e0 se poser",
+   "video": "https://youtube.com/watch?v=sUxdABhobSU"
 },{
    "duration": 807,
    "edition": "2017",
@@ -25677,6 +26425,23 @@
    "title": "Nim - First natively compiled language w/ hot code-reloading at runtime",
    "video": "https://youtube.com/watch?v=7WgCt0Wooeo"
 },{
+   "duration": 2554,
+   "edition": "2020",
+   "identifier": "Live Embedded Event-2020-4",
+   "language": "english",
+   "level": 0,
+   "meeting": "Live Embedded Event",
+   "number": 2172,
+   "speakers": [],
+   "tags": [
+      "embedded",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/nr5SnI4zZqU/0.jpg",
+   "title": "No lightsaber is needed to break the Wookey",
+   "video": "https://youtube.com/watch?v=nr5SnI4zZqU"
+},{
    "duration": 3140,
    "edition": "2019",
    "identifier": "code::dive-2019-23",
@@ -26262,6 +27027,23 @@
    "title": "On 'simple' Optimizations",
    "video": "https://youtube.com/watch?v=s4wnuiCwTGU"
 },{
+   "duration": 1764,
+   "edition": "2021",
+   "identifier": "Live Embedded Event-2021-12",
+   "language": "english",
+   "level": 0,
+   "meeting": "Live Embedded Event",
+   "number": 2215,
+   "speakers": [],
+   "tags": [
+      "embedded",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/Oeu7i5DjFK4/0.jpg",
+   "title": "On the road to a trusted boot chain on STM32MP1 series",
+   "video": "https://youtube.com/watch?v=Oeu7i5DjFK4"
+},{
    "duration": 371,
    "edition": "2021",
    "identifier": "C++Now-2021-54",
@@ -26338,6 +27120,23 @@
    "title": "OOP Is Dead, Long Live Data-oriented Design",
    "video": "https://youtube.com/watch?v=yy8jQgmhbAU"
 },{
+   "duration": 2737,
+   "edition": "2020",
+   "identifier": "Live Embedded Event-2020-27",
+   "language": "english",
+   "level": 0,
+   "meeting": "Live Embedded Event",
+   "number": 2195,
+   "speakers": [],
+   "tags": [
+      "embedded",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/ZXFSDRmM9mI/0.jpg",
+   "title": "OPC UA, La norme d'interoperabilite securisee pour l'Industrie 4.0 et l'IoT",
+   "video": "https://youtube.com/watch?v=ZXFSDRmM9mI"
+},{
    "duration": 1908,
    "edition": "2018",
    "identifier": "CppCon-2018-57",
@@ -26356,6 +27155,23 @@
    "thumbnail": "http://img.youtube.com/vi/xkxo0lah51s/0.jpg",
    "title": "Open is Good - yomm2: Fast, Orthogonal Open Methods",
    "video": "https://youtube.com/watch?v=xkxo0lah51s"
+},{
+   "duration": 2671,
+   "edition": "2021",
+   "identifier": "Live Embedded Event-2021-11",
+   "language": "english",
+   "level": 0,
+   "meeting": "Live Embedded Event",
+   "number": 2214,
+   "speakers": [],
+   "tags": [
+      "embedded",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/72Iq0uoWRy4/0.jpg",
+   "title": "Open Source at Balena",
+   "video": "https://youtube.com/watch?v=72Iq0uoWRy4"
 },{
    "duration": 3262,
    "edition": "2012",
@@ -27179,6 +27995,23 @@
    "title": "Pipes: How Plumbing Can Make Your C++ Code More Expressive",
    "video": "https://youtube.com/watch?v=oYEpf5A2qrE"
 },{
+   "duration": 2594,
+   "edition": "2020",
+   "identifier": "Live Embedded Event-2020-9",
+   "language": "english",
+   "level": 0,
+   "meeting": "Live Embedded Event",
+   "number": 2177,
+   "speakers": [],
+   "tags": [
+      "embedded",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/9A9PYBdfyfM/0.jpg",
+   "title": "PipeWire: the new adaptable multimedia service, now ready for automotive",
+   "video": "https://youtube.com/watch?v=9A9PYBdfyfM"
+},{
    "duration": 5256,
    "edition": "2014",
    "identifier": "Meeting C++-2014-4",
@@ -27937,6 +28770,23 @@
    "thumbnail": "http://img.youtube.com/vi/mrY6xrWp3Gs/0.jpg",
    "title": "Procedural Programming: It's Back? It Never Went Away",
    "video": "https://youtube.com/watch?v=mrY6xrWp3Gs"
+},{
+   "duration": 2828,
+   "edition": "2020",
+   "identifier": "Live Embedded Event-2020-13",
+   "language": "english",
+   "level": 0,
+   "meeting": "Live Embedded Event",
+   "number": 2181,
+   "speakers": [],
+   "tags": [
+      "embedded",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/FJFl2RCc_B8/0.jpg",
+   "title": "Product Security, From the dark side to the light",
+   "video": "https://youtube.com/watch?v=FJFl2RCc_B8"
 },{
    "duration": 4082,
    "edition": "2016",
@@ -29724,6 +30574,23 @@
    "title": "Retiring the Singleton Pattern",
    "video": "https://youtube.com/watch?v=f46jmm7r8Yg"
 },{
+   "duration": 2298,
+   "edition": "2020",
+   "identifier": "Live Embedded Event-2020-30",
+   "language": "english",
+   "level": 0,
+   "meeting": "Live Embedded Event",
+   "number": 2198,
+   "speakers": [],
+   "tags": [
+      "embedded",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/QitapTgoGjI/0.jpg",
+   "title": "Retour d'experience sur l'IoT: cas concret dans la location de materiel de TP",
+   "video": "https://youtube.com/watch?v=QitapTgoGjI"
+},{
    "duration": 1591,
    "edition": "2018",
    "identifier": "CppCon-2018-87",
@@ -29873,6 +30740,23 @@
    "thumbnail": "http://img.youtube.com/vi/3PAly2ECoKE/0.jpg",
    "title": "Rpath and binary reuse",
    "video": "https://youtube.com/watch?v=3PAly2ECoKE"
+},{
+   "duration": 2738,
+   "edition": "2021",
+   "identifier": "Live Embedded Event-2021-10",
+   "language": "english",
+   "level": 0,
+   "meeting": "Live Embedded Event",
+   "number": 2213,
+   "speakers": [],
+   "tags": [
+      "embedded",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/R79bsHpTml4/0.jpg",
+   "title": "Running Zephyr and Linux on the same SoC: making both worlds live together !",
+   "video": "https://youtube.com/watch?v=R79bsHpTml4"
 },{
    "duration": 6091,
    "edition": "2018",
@@ -30156,6 +31040,23 @@
    "title": "Scheme Lisp: Feel the Cool",
    "video": "https://youtube.com/watch?v=tA1clbGDczI"
 },{
+   "duration": 1307,
+   "edition": "2021",
+   "identifier": "Live Embedded Event-2021-9",
+   "language": "english",
+   "level": 0,
+   "meeting": "Live Embedded Event",
+   "number": 2212,
+   "speakers": [],
+   "tags": [
+      "embedded",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/ulHLt3FVE44/0.jpg",
+   "title": "Secure boot in embedded Linux systems",
+   "video": "https://youtube.com/watch?v=ulHLt3FVE44"
+},{
    "duration": 4589,
    "edition": "2019",
    "identifier": "accu-2019-22",
@@ -30268,6 +31169,40 @@
    "thumbnail": "http://img.youtube.com/vi/i0m0FBD-McY/0.jpg",
    "title": "Secure Coding Best Practices: Your First Line Is The Last Line Of Defense (2 of 2)",
    "video": "https://youtube.com/watch?v=i0m0FBD-McY"
+},{
+   "duration": 1492,
+   "edition": "2021",
+   "identifier": "Live Embedded Event-2021-8",
+   "language": "english",
+   "level": 0,
+   "meeting": "Live Embedded Event",
+   "number": 2211,
+   "speakers": [],
+   "tags": [
+      "embedded",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/_YHJAWQchKM/0.jpg",
+   "title": "Security vulnerability tracking tools in Buildroot",
+   "video": "https://youtube.com/watch?v=_YHJAWQchKM"
+},{
+   "duration": 2021,
+   "edition": "2021",
+   "identifier": "Live Embedded Event-2021-7",
+   "language": "english",
+   "level": 0,
+   "meeting": "Live Embedded Event",
+   "number": 2210,
+   "speakers": [],
+   "tags": [
+      "embedded",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/YChhucDQvpI/0.jpg",
+   "title": "SECURYZR LIGHT   The solution to fit with the design-for-security methodology",
+   "video": "https://youtube.com/watch?v=YChhucDQvpI"
 },{
    "duration": 2368,
    "edition": "2014",
@@ -31220,6 +32155,23 @@
    "title": "Spirit: History and Evolution",
    "video": "https://youtube.com/watch?v=be87GqijD30"
 },{
+   "duration": 2190,
+   "edition": "2021",
+   "identifier": "Live Embedded Event-2021-6",
+   "language": "english",
+   "level": 0,
+   "meeting": "Live Embedded Event",
+   "number": 2209,
+   "speakers": [],
+   "tags": [
+      "embedded",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/6yziQuLvyIE/0.jpg",
+   "title": "Splash screen for Embedded Linux 101: How to customize your boot sequence",
+   "video": "https://youtube.com/watch?v=6yziQuLvyIE"
+},{
    "duration": 3491,
    "edition": "2016",
    "identifier": "CppCon-2016-39",
@@ -31296,6 +32248,23 @@
    "title": "sqlpp11, An SQL Library Worthy Of Modern C++",
    "video": "https://youtube.com/watch?v=cJPAjhBm-HQ"
 },{
+   "duration": 1465,
+   "edition": "2021",
+   "identifier": "Live Embedded Event-2021-5",
+   "language": "english",
+   "level": 0,
+   "meeting": "Live Embedded Event",
+   "number": 2208,
+   "speakers": [],
+   "tags": [
+      "embedded",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/l3ZjzoGlX10/0.jpg",
+   "title": "SSD lifetime, data integrity and real-time: compromises and lessons learned",
+   "video": "https://youtube.com/watch?v=l3ZjzoGlX10"
+},{
    "duration": 224,
    "edition": "2016",
    "identifier": "Meeting C++-2016-15",
@@ -31370,6 +32339,40 @@
    "thumbnail": "http://img.youtube.com/vi/cIPmhIiY68U/0.jpg",
    "title": "Standardizing a linear algebra library",
    "video": "https://youtube.com/watch?v=cIPmhIiY68U"
+},{
+   "duration": 2037,
+   "edition": "2020",
+   "identifier": "Live Embedded Event-2020-19",
+   "language": "english",
+   "level": 0,
+   "meeting": "Live Embedded Event",
+   "number": 2187,
+   "speakers": [],
+   "tags": [
+      "embedded",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/WpKeSBItD8M/0.jpg",
+   "title": "Standardizing Linux Boot process for RISC-V platforms",
+   "video": "https://youtube.com/watch?v=WpKeSBItD8M"
+},{
+   "duration": 2037,
+   "edition": "2020",
+   "identifier": "Live Embedded Event-2020-22",
+   "language": "english",
+   "level": 0,
+   "meeting": "Live Embedded Event",
+   "number": 2190,
+   "speakers": [],
+   "tags": [
+      "embedded",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/4UjAVlQkz8s/0.jpg",
+   "title": "Standardizing Linux Boot process for RISC-V platforms",
+   "video": "https://youtube.com/watch?v=4UjAVlQkz8s"
 },{
    "duration": 5520,
    "edition": "2013",
@@ -35625,6 +36628,23 @@
    "title": "The View from a Standard Library Implementor",
    "video": "https://youtube.com/watch?v=JRRN30TFxg0"
 },{
+   "duration": 1969,
+   "edition": "2021",
+   "identifier": "Live Embedded Event-2021-3",
+   "language": "english",
+   "level": 0,
+   "meeting": "Live Embedded Event",
+   "number": 2206,
+   "speakers": [],
+   "tags": [
+      "embedded",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/drCY-CUYqlI/0.jpg",
+   "title": "The Woos and Woes of Open-Source FPGA-Tools: A journey",
+   "video": "https://youtube.com/watch?v=drCY-CUYqlI"
+},{
    "duration": 5353,
    "edition": "2021",
    "identifier": "C++Now-2021-29",
@@ -36567,6 +37587,23 @@
    "title": "Towards Painless Testing",
    "video": "https://youtube.com/watch?v=NVrZjT5lW5o"
 },{
+   "duration": 2027,
+   "edition": "2021",
+   "identifier": "Live Embedded Event-2021-4",
+   "language": "english",
+   "level": 0,
+   "meeting": "Live Embedded Event",
+   "number": 2207,
+   "speakers": [],
+   "tags": [
+      "embedded",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/FZTNgoHEJE0/0.jpg",
+   "title": "Tracking DDR ECC issues on a standalone application",
+   "video": "https://youtube.com/watch?v=FZTNgoHEJE0"
+},{
    "duration": 3783,
    "edition": "2015",
    "identifier": "CppCon-2015-80",
@@ -36793,6 +37830,23 @@
    "thumbnail": "http://img.youtube.com/vi/ky0JdPh_LgE/0.jpg",
    "title": "Two practical applications of the Brigand TMP library",
    "video": "https://youtube.com/watch?v=ky0JdPh_LgE"
+},{
+   "duration": 2960,
+   "edition": "2020",
+   "identifier": "Live Embedded Event-2020-28",
+   "language": "english",
+   "level": 0,
+   "meeting": "Live Embedded Event",
+   "number": 2196,
+   "speakers": [],
+   "tags": [
+      "embedded",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/FV1i59a5T8Y/0.jpg",
+   "title": "Two years of libcamera: are complex cameras now easy?",
+   "video": "https://youtube.com/watch?v=FV1i59a5T8Y"
 },{
    "duration": 2645,
    "edition": "2017",
@@ -37399,6 +38453,23 @@
    "thumbnail": "http://img.youtube.com/vi/8nyq8SNUTSc/0.jpg",
    "title": "Understanding Optimizers: Helping the Compiler Help You",
    "video": "https://youtube.com/watch?v=8nyq8SNUTSc"
+},{
+   "duration": 1359,
+   "edition": "2021",
+   "identifier": "Live Embedded Event-2021-2",
+   "language": "english",
+   "level": 0,
+   "meeting": "Live Embedded Event",
+   "number": 2205,
+   "speakers": [],
+   "tags": [
+      "embedded",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/LFe3x2QMhSo/0.jpg",
+   "title": "Understanding U-Boot Falcon Mode and adding support for new boards",
+   "video": "https://youtube.com/watch?v=LFe3x2QMhSo"
 },{
    "duration": 3340,
    "edition": "2020",
@@ -38704,6 +39775,23 @@
    "thumbnail": "http://img.youtube.com/vi/5M6kVq-p7l0/0.jpg",
    "title": "WebAssembly: an overview",
    "video": "https://youtube.com/watch?v=5M6kVq-p7l0"
+},{
+   "duration": 1954,
+   "edition": "2020",
+   "identifier": "Live Embedded Event-2020-20",
+   "language": "english",
+   "level": 0,
+   "meeting": "Live Embedded Event",
+   "number": 2188,
+   "speakers": [],
+   "tags": [
+      "embedded",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/sa3OXyIibYs/0.jpg",
+   "title": "WebThings : Your IoT with privacy by design",
+   "video": "https://youtube.com/watch?v=sa3OXyIibYs"
 },{
    "duration": 6644,
    "edition": "2021",
@@ -40130,6 +41218,23 @@
    "title": "Why don't the cool kids like OOP? - Jon Kalb",
    "video": "https://youtube.com/watch?v=x1xkb7Cfo6w"
 },{
+   "duration": 2937,
+   "edition": "2021",
+   "identifier": "Live Embedded Event-2021-33",
+   "language": "english",
+   "level": 0,
+   "meeting": "Live Embedded Event",
+   "number": 2236,
+   "speakers": [],
+   "tags": [
+      "embedded",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/zETZEhwmMUo/0.jpg",
+   "title": "Why I should run my applications in containers (or, at least, consider doing it)?",
+   "video": "https://youtube.com/watch?v=zETZEhwmMUo"
+},{
    "duration": 2637,
    "edition": "2015",
    "identifier": "C++Now-2015-16",
@@ -40728,6 +41833,40 @@
    "title": "yet another paradigm shift (yaps) -- (A Meta4 model of concurrency)",
    "video": "https://youtube.com/watch?v=SLLOSAm-OS0"
 },{
+   "duration": 1849,
+   "edition": "2021",
+   "identifier": "Live Embedded Event-2021-32",
+   "language": "english",
+   "level": 0,
+   "meeting": "Live Embedded Event",
+   "number": 2235,
+   "speakers": [],
+   "tags": [
+      "embedded",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/cmDjNyw55-Y/0.jpg",
+   "title": "Yocto Cooker, a meta-buildtool for Yocto Project",
+   "video": "https://youtube.com/watch?v=cmDjNyw55-Y"
+},{
+   "duration": 3176,
+   "edition": "2021",
+   "identifier": "Live Embedded Event-2021-31",
+   "language": "english",
+   "level": 0,
+   "meeting": "Live Embedded Event",
+   "number": 2234,
+   "speakers": [],
+   "tags": [
+      "embedded",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/Hz4Twl066qQ/0.jpg",
+   "title": "Yocto is not (only) BitBake",
+   "video": "https://youtube.com/watch?v=Hz4Twl066qQ"
+},{
    "duration": 5433,
    "edition": "2015",
    "identifier": "C++Now-2015-6",
@@ -40821,6 +41960,23 @@
    "thumbnail": "http://img.youtube.com/vi/gLJrOTFw6J0/0.jpg",
    "title": "Your CPU is binary",
    "video": "https://youtube.com/watch?v=gLJrOTFw6J0"
+},{
+   "duration": 2481,
+   "edition": "2020",
+   "identifier": "Live Embedded Event-2020-34",
+   "language": "english",
+   "level": 0,
+   "meeting": "Live Embedded Event",
+   "number": 2202,
+   "speakers": [],
+   "tags": [
+      "embedded",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/s5yqOTC5yNc/0.jpg",
+   "title": "Zephyr, retour d'experience sur une des fondation de Stimio SDK",
+   "video": "https://youtube.com/watch?v=s5yqOTC5yNc"
 },{
    "duration": 5866,
    "edition": "2018",

@@ -1,5 +1,7 @@
 # CTL : the C++ Talks List 
 
+Front end: https://wovo.github.io/ctl/
+
 Wouter van Ooijen (wouter@voti.nl)
 
 license: Boost
@@ -42,7 +44,9 @@ The conferences I included so far are:
 
 ## Tags
 
-The talks have tags, but this is still rudimentary.
+The talks have tags, but these are inferred 
+from the conference and talk title.
+
 I used or plan to use these tags:
 - conference, meetup
 - talk, keynote, lightning, interview, panel
