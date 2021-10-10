@@ -2,7 +2,7 @@
 #
 # File      : talks.py
 # Part of   : the C++ Talks List (CTL)
-# Copyright : wouter van ooijen 2021
+# Copyright : Wouter van Ooijen 2021
 # repo      : https://www.github.com/wovo/ctl
 #
 # This code is distributed under the Boost Software License, Version 1.0.
@@ -31,6 +31,7 @@
 # Core C++ 2019 :: Rafi Wiener :: Interview Question
 # itCppCon20 - The Silicon Valley coding interview (Nicolo Valigi)
 # Welcome (Marco Arena) + 'WARNING: std::find is broken
+# first write only the fixed text, then full rewrite
 #
 # more tags: units, naming
 # how to record tags??
@@ -813,6 +814,7 @@ speaker_replacements = [
    [ "Gaby Dos Reis",                "Gabriel Dos Reis" ],
    [ "J Daniel Garcia",              "J. Daniel Garcia" ],
    [ "Wouter Van Ooijen",            "Wouter van Ooijen" ],
+   [ "Wouter van Oijen",             "Wouter van Ooijen" ],
    [ "Verasani",                     "Matti Verasani" ],
    [ "Tondelli",                     "Eric Tondelli" ],
    [ "Yury Solodkyy",                "Yuriy Solodkyy" ],
@@ -1528,7 +1530,7 @@ playlists = [
    ]], [ "Pacific C++", [ 
       [ "2017", [[ "PLd4OrpVodmxUf6WsIJhb2KvYaq9RBuIr3", split_sqt, "l+"  ]]],
       [ "2018", [[ "PLd4OrpVodmxUCBpzlkPYsiP9hOtLFpAjk", split_sqt, "l+"  ]]],
-   ]], [ "Live Embedded Event", [ # checked, but no speakers :(
+   ]], [ "Live Embedded Event", [
       [ "2020", [[ "PLn7YTy5_SF4_1ZLsQ29ZGpjZo7aNoLBIt", split_lee, "oe"  ]]],
       [ "2021", [[ "PLn7YTy5_SF4-FRyY-5zwsKuTCOBRUkY_h", split_lee, "oe"  ]]],
    ]], [ "corehard", [ 

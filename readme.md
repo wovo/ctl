@@ -37,6 +37,7 @@ Conferences I included so far are:
 - corehard 2015-2019 (the english talks)
 - CppCon 2014-2020
 - Italian C++ Conference 2020-2021
+- Live Embedded Event 2020-2021
 - Meeting C++ 2014-2020
 - Meeting Embedded 2018-2020
 - Pacific C++ 2017-2018
@@ -85,9 +86,9 @@ The intended levels are:
 
 ## Credits
 
-- This effort was triggered by an [r/cpp](https://www.reddit.com/r/cpp)
+- I got this idea from a [r/cpp](https://www.reddit.com/r/cpp)
 [post](https://www.reddit.com/r/cpp/comments/j5s6lw/an_index_for_c_conferences/)
-by u/Ethiraric on reddit/c++
+by u/Ethiraric on [reddit/c++](https://www.reddit.com/r/cpp/)
 about his [talks list](http://cpptalksindex.xyz/).
 - The main source of conference playlists I used was 
 https://isocpp.org/wiki/faq/conferences-worldwide.
