@@ -32,11 +32,24 @@
 # itCppCon20 - The Silicon Valley coding interview (Nicolo Valigi)
 # Welcome (Marco Arena) + 'WARNING: std::find is broken
 # first write only the fixed text, then full rewrite
+# https://www.youtube.com/c/GotoConferences
+# accept 'direct links' to set tags, like for an author, ctl-nr or conference
+# -> provide URL of that selection
+# eliminate empty edition from the list (or none??) also for speaker??
+# finish going native
+# Meeting, Edition etc. (fix inside Javascript)                                  
+# going native 'panel'? https://www.youtube.com/watch?v=gk5gI2VAdy8
+# add 
 #
 # more tags: units, naming
 # how to record tags??
 # tag 'time travel': units
 # When Should You Give Two Things the Same Name?: naming, quality
+#
+# Great titles and phrases:
+# War is Peace, Freedom is Slavery, Ignorance is Strength, Scrum is Agile (Allen Holub)
+# the agile-industrial complex (Allen Holub?)
+# Errors are just conditionms we refuse to take seriously (Michael Feathers)
 #
 # ===========================================================================
 
@@ -75,7 +88,7 @@ replacements = {
    "→": "->",     "λ": "lambda", "ï": "i",      "ò": "o",      "∞": "lemniscate",
    "𝐂": "C",      "á": "a",      "́": "",        "æ": "ae",     "➠": "",
    "\u0308": "",  "à": "a",
-   "x": "x",
+   "🤖": "",
    "x": "x",
    "x": "x",
    "x": "x",
@@ -104,7 +117,7 @@ def force_ascii( s ):
    return r   
    
 def lower_noquotes( s ):
-   return s.lower().strip().replace( "'", "" )   
+   return s.lower().strip().replace( "'", "" ).replace( '"', '' )   
 
    
 # ===========================================================================
@@ -585,8 +598,8 @@ must_total_replace = [
         "Damian Czernous : Model - View - Whatever MVW" ],    
    [ "[IoT & Edge Computing] Zephyr, retour d'experience sur une des fondation de Stimio SDK",
         "[IoT & Edge Computing][FRE] Zephyr, retour d'experience sur une des fondation de Stimio SDK" ],    
-   [ "",
-        "" ],    
+   [ "Q&A - Monolith to Microservices with Sam Newman and Sven Johann @ GOTO 2020",
+        "Monolith to Microservices @ Sam Newman, Sven Johann" ],    
    [ "",
         "" ],    
    [ "",
@@ -822,10 +835,10 @@ speaker_replacements = [
    [ "Paul Bendixen",                "Paul M. Bendixen" ],
    [ "Dr. Kenneth Holmqvist",        "Kenneth Holmqvist" ],
    [ "Prof. Jurgen Mottok",          "Jurgen Mottok" ],
-   [ "",                             "" ],
-   [ "",                             "" ],
-   [ "",                             "" ],
-   [ "",                             "" ],
+   [ "Uwe",                          "Uwe Friedrichsen" ],
+   [ "Stefan",                       "Stefan Tilkov" ],
+   [ "Erik",                         "Erik Doernenburg" ],
+   [ "Ranganathan 'Ranga' Balashanmugam",    "Ranganathan Balashanmugam" ],
    [ "",                             "" ],
    [ "",                             "" ],
    [ "",                             "" ],
@@ -909,9 +922,9 @@ def sanitize_title( s ):
    if s.startswith( "-" ): s = s[ 1 : ]
    s = s.strip().strip( ": " )
    
-   for c in "'\"":
-      if s.startswith( c ) and s.endswith( c ):
-         s = s[ 1 : -1 ]
+   for c in [ "'", '"' ]:
+      if s.startswith( c ):
+         s = s.replace( c, "", 2 )
    s = s.strip( " :").lstrip( " ." ).strip()
    
    return s
@@ -1076,6 +1089,16 @@ def split_panel( meeting, edition, s ):
    
 # ===========================================================================
 
+def split_goto( meeting, edition, s ):   
+   # @ separated
+   print( "   split_goto [%s]" % s )
+   split = s.split( "@" )
+   
+   return split[ 1 ].strip(), split[ 0 ].strip()
+
+   
+# ===========================================================================
+
 def lowercase_remove_spaces( s ):
    return s.lower().replace( " ", "" )
 
@@ -1233,10 +1256,19 @@ def split_speakers_and_title( meeting, edition, s, splitter ):
       "CoreHard Autumn 2019",
       "CoreHard Spring 2019",
       "[MUC++]",
+      "GoingNative 2012 - Day 1 -",
+      "GoingNative 2012 - Day 2 -",      
+      "(C++ Beginner's Lightning Talk)",
+      "(C++ Lightning Talk)",
+      "(Lightning Talk)",
       "2013 ", # C++Now
       "2016", # also C++Now
    ]:
       s = s.replace( x, "" )
+      
+   # remove "Going Native NN : "   
+   if s.startswith( "GoingNative" ):
+      s = s.split( ":" )[ 1 ]      
          
    # C++Now 2014 omits the speakers
    s = s.strip()
@@ -1251,6 +1283,7 @@ def split_speakers_and_title( meeting, edition, s, splitter ):
       
    s = s.strip()
    if s.endswith( "-" ): s = s[ : -1 ].strip()
+   if s.endswith( "(Virtual)" ): s = s.rsplit( "(" )[ 0 ].strip()
 
    speakers, title = splitter( meeting, edition, s )
    
@@ -1318,14 +1351,17 @@ def add_talk(
          "interview" 
       ] )
       splitter = split_interview      
-      
-   if "panel" in s.lower():
-      if tags == []: tags.append( "panel" )
-      s = remove_nocase( s, [ 
-         "closing panel", 
-         "panel", 
-      ] ) 
-      splitter = split_panel
+   
+   for c in [ "panel", "fireside chat" ]:
+      if c in s.lower():
+         if tags == []: tags.append( "panel" )
+         s = remove_nocase( s, [ 
+            "closing panel", 
+            "panel", 
+            "Interactive : ",            
+            " @ Cindy, Simon, Geeta, James & Mark @ GOTO 2018",
+         ] ) 
+         splitter = split_panel
       
    for x in [ "grill" , "meet the authors" ]:
       if x in s.lower():
@@ -1351,7 +1387,7 @@ def add_talk(
          'e' : "embedded",
       }[ c ] )   
       
-   if title.lower().find( "c++" ) and not "c++" in tags:
+   if title.lower().find( "c++" ) > -1 and not "c++" in tags:
       tags.append( "c++" )
       
    id = "%s-%s-%d " % ( meeting, edition, nr )
@@ -1395,6 +1431,13 @@ excluded_talks = [
    "Core C++ 2021 :: Welcome Words :: Dalit Naor",
    "[old version - see below] Quickly testing legacy code - Clare Macrae [C++ on Sea 2019]",
    "On the way of the 2nd edition in 2021 !",
+   "Top 3 Most Viewed GOTO Chicago Talks • GOTO 2018",
+   "GOTO Amsterdam 2018 Highlights",
+   "GOTO Amsterdam 2019 Highlights",
+   "GOTO Berlin 2018 Highlights",
+   "GOTO Berlin 2019 Highlights",
+   "Top 3 Most Viewed GOTO Berlin Talks • GOTO 2018",
+   "GOTO Copenhagen 2019 Highlights",
    "",
    "",
    "",
@@ -1429,6 +1472,7 @@ def add_playlist( talks, meeting, edition, playlists, nr1, nr2 ):
             done.append( youtube_id )
             if use_nr( nr, nr1, nr2 ):
                v = pafy.new( youtube_id )
+               print( "   maybe exclude [%s]" % v.title )
                if not v.title in excluded_talks:
                   add_talk( 
                      talks, meeting, edition, youtube_id, nr, v, sp, tg )
@@ -1554,6 +1598,28 @@ playlists = [
                  [ "4QO9FyH0KIY",                        split_tds, "l+"  ]]],
    ]], [ "MUC++", [ 
       [ "",      [[ "PLOqQEh8zIeoBH4gOJM9uZveUMW-uNmty8", split_st, "l+"  ]]],
+   ]], [ "Going Native", [
+      [ "2012", [[ "PLGvfHSgImk4aSCKMmnDl8ZXwL2CY6g8lH", split_lee, "l+"  ]]],
+      [ "2013", [[ "PLD0gpuCC5_-kVh4Kvr6DfNJ3cBkxiKw1Q", split_lee,  "l+"  ]]],
+   ]], [ "GOTO Amsterdam", [
+      [ "2018", [[ "PLEx5khR4g7PJzxBWC9c6xx0LghEIxCLwm", split_goto,  "l"  ]]],
+      [ "2019", [[ "PLEx5khR4g7PKT9RvuVyQxJLO8CZUJzNMy", split_goto,  "l"  ]]],
+   ]], [ "GOTO Berlin", [
+      [ "2018", [[ "PLEx5khR4g7PJW7u0GKxRPIQddtu69boT3", split_goto,  "l"  ]]],
+      [ "2019", [[ "PLEx5khR4g7PKMVeAqZdIHRdOwTM1yktD8", split_goto,  "l"  ]]],
+   ]], [ "GOTO Chicago", [
+      [ "2018", [[ "PLEx5khR4g7PKqVew27D3jvMknjxjowoKl", split_goto,  "l"  ]]],
+      [ "2019", [[ "PLEx5khR4g7PLIxNHQ5Ze0Mz6sAXA8vSPE", split_goto,  "l"  ]]],
+      [ "2020", [[ "PLEx5khR4g7PL-JwckuOkkc5cR6X5hn6ug", split_goto,  "l"  ]]],
+   ]], [ "GOTO Copenhagen", [
+      [ "2018", [[ "PLEx5khR4g7PIzxn476GK3Mkk19csZZjeH", split_goto,  "l"  ]]],
+      [ "2019", [[ "PLEx5khR4g7PLHBVGOjNbevChU9DOL3Axj", split_goto,  "l"  ]]],
+   ]], [ "GOTO Oslo", [
+      [ "2018", [[ "PLEx5khR4g7PI57l4MJvLlhOJIKHLKghos", split_goto,  "l"  ]]],
+   ]], [ "GOTOpia", [
+      [ "2020", [[ "PLEx5khR4g7PIiAEHCt6LGMFnzq7JjO8we", split_goto,  "o"  ],
+                 [ "PLEx5khR4g7PI4l8PnLCv9j3PlePzuQPbm", split_goto,  "o"  ]]],
+      [ "2021", [[ "PLEx5khR4g7PI89_ZS_wz5suqCoqFgv-gO", split_goto,  "o"  ]]],
    ]], [ "", [
    ]],      
 ]
@@ -1568,7 +1634,7 @@ def matches( a, b ):
    "compare, ignore spaces and -, treat + and p as same"
    return ( a == "*" ) or \
       ( remove_and_replace( a ).lower() ==
-        remove_and_replace( b ).lower())
+        remove_and_replace( b ).lower()[ 0 : len( remove_and_replace( a ) ) ] )
         
 def match_nr( s ):        
    return None if s == "*" else int( s )
@@ -1592,7 +1658,7 @@ def build( match_meeting, match_edition, match1, match2 ):
 
 javascript_code = """
 
-<BODY onload="rewrite();">
+<BODY onload="startup();">
 <HTML>
 If you keep seeing this message for more than a few seconds, 
 either you must enable javascript, 
@@ -1626,8 +1692,14 @@ function talk_thumbnail( talk ){
 }
 
 function format_duration( n ){
-   return Math.round( n / 60 ).toString() +
-      ":" + ( 100 + Math.round( n % 60 )).toString().slice(-2)
+   var date = new Date(0);
+   date.setSeconds( n ); 
+   var t = date.toISOString().substr(11, 8);
+   n = Math.round( n / ( 24 * 60 * 60 ))
+   if( n > 0 ){
+      t = n.toString() + ":" + t
+   }      
+   return t
 }
 
 function sanitize( s ){
@@ -1658,6 +1730,24 @@ var search_criteria = [
 
 checked_boxes = []
 criteria_fields = []
+
+
+// ==========================================================================
+//
+// handle url parameters
+//
+// ==========================================================================
+
+function startup(){
+   const queryString = window.location.search
+   const urlParams = new URLSearchParams( queryString )
+   for( c of search_criteria ){
+      if( urlParams.has( c ) ){
+         criteria_fields[ sel ] = urlParams.get( c )
+      }
+   }
+   rewrite()
+}
 
 
 // ==========================================================================
@@ -1709,13 +1799,16 @@ function rewrite(){
    // the list of talks
    var n = 0
    var t2 = ""
+   var d = 0
    for( const talk of talks ) { 
       if( include_talk( talk )) {
          n += 1
          t2 += talk_html( talk )
+         d += talk.duration
       }   
    }
-   t += n.toString() + " entries<BR>" + t2
+   t += n.toString() + " entries ("
+   t += format_duration( d ) + ")<BR>" + t2
   
    t += "</BODY></HTML>"
    document.open()

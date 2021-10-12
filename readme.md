@@ -36,6 +36,8 @@ Conferences I included so far are:
 - Core C++ 2019-2021
 - corehard 2015-2019 (the english talks)
 - CppCon 2014-2020
+- Going Native 2012-2013
+- GOTO Amsterdam,Berlin,Copenhagen,Chicago,pia 2018-2020                                                        
 - Italian C++ Conference 2020-2021
 - Live Embedded Event 2020-2021
 - Meeting C++ 2014-2020
@@ -92,6 +94,8 @@ by u/Ethiraric on [reddit/c++](https://www.reddit.com/r/cpp/)
 about his [talks list](http://cpptalksindex.xyz/).
 - The main source of conference playlists I used was 
 https://isocpp.org/wiki/faq/conferences-worldwide.
+- The GOTO conferences can be found at
+https://www.youtube.com/c/GotoConferences/playlists.
 
 
 

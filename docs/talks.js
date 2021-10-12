@@ -10,6 +10,13 @@ var meetings = [
    "Core C++",
    "corehard",
    "CppCon",
+   "Going Native",
+   "GOTO Amsterdam",
+   "GOTO Berlin",
+   "GOTO Chicago",
+   "GOTO Copenhagen",
+   "GOTO Oslo",
+   "GOTOpia",
    "Italian C++ Conference",
    "Live Embedded Event",
    "Meeting C++",
@@ -43,24 +50,36 @@ var languages = [
 
 var speakers = [
    "A.J. Orians",
+   "Aaron Bedra",
+   "Aaron Parecki",
    "Abel Sinkovics",
    "Abraham Marin Perez",
    "Adam Badura",
+   "Adam Butler",
+   "Adam Tornhill",
    "Adam Wulkiewicz",
    "Adam Zadrozny",
    "Adi Shavit",
    "Aditya Kumar",
+   "Adrian Cockcroft",
+   "Adrian Hornsby",
    "Adrian Ostrowski",
    "Adrian Peret",
    "Agata Migalska",
    "Agnieszka Szufarska",
    "Agustin Berge",
    "Ahto Truu",
+   "Aimee Covo",
+   "Aino Vonge Corry",
    "Alan Bucior",
    "Alan Talbot",
+   "Albert Gorski",
    "Alberto Barbati",
    "Alberto Bignotti",
+   "Alberto Brandolini",
    "Ale Contenti",
+   "Alejandro Lujan",
+   "Alena Hall",
    "Alessandro Vergani",
    "Alex Allain",
    "Alex Bolboaca",
@@ -68,10 +87,12 @@ var speakers = [
    "Alex Cohn",
    "Alex Crichton",
    "Alex Dathskovsky",
+   "Alex Ellis",
    "Alex Fabijanic",
    "Alex Olivas",
    "Alex Reinking",
    "Alex Voronov",
+   "Alexander Condello",
    "Alexander Maslennikov",
    "Alexander Radchenko",
    "Alexander van der Grinten",
@@ -81,11 +102,16 @@ var speakers = [
    "Ali Cehreli",
    "Alisdair Meredith",
    "Allan Deutsch",
+   "Allard Buijze",
+   "Allen Day",
+   "Allen Holub",
    "Alon Zakai",
    "Amir Kirsh",
    "Amir Kotler",
    "Amit Barzilay",
+   "Ana-Maria Mihalceanu",
    "Anastasia Kazakova",
+   "Anders Toxboe",
    "Andras Kucsma",
    "Andre Bergner",
    "Andreas Fertig",
@@ -107,11 +133,17 @@ var speakers = [
    "Andrzej Krzemienski",
    "Andy Balaam",
    "Andy Bond",
+   "Andy Cirillo",
    "Andy Thomason",
    "Andy Webber",
+   "Angel Rivera",
+   "Angela Dugan",
    "Aniruddha Gokhale",
+   "Anita Sengupta",
+   "Anjana Vakil",
    "Ankit Asthana",
    "Ankur Satle",
+   "Anna Urbaniak",
    "Anna-Jayne Metcalfe",
    "Ansel Sermersheim",
    "Anthony Williams",
@@ -119,7 +151,9 @@ var speakers = [
    "Anton Bikineev",
    "Antonio Mallia",
    "Antony Polukhin",
+   "Anu Srivastava",
    "Arletta Jasonek",
+   "Armin Pasalic",
    "Arnaud Desitter",
    "Arne Mertz",
    "Arno Lepisk",
@@ -127,17 +161,26 @@ var speakers = [
    "Arseniy Zaostrovnykh",
    "Arthur O'Dwyer",
    "Artur Laksberg",
+   "Artur Margonari",
    "Artur Suchwalko",
+   "Arun Gupta",
    "Arvid Gerstmann",
    "Arvid Norberg",
    "Asaf Helfer",
+   "Ashley Williams",
+   "Asim Hussain",
+   "Aslak Hellesøy",
    "Attila Feher",
    "Augustin Popa",
    "Aurelien Regat-Barrel",
    "Austin Bingham",
+   "Austin Parker",
+   "Avdi Grimm",
    "Avi Kivity",
    "Avi Lachmish",
+   "Ayesha Mazumdar",
    "Ayman Shoukry",
+   "B. Wilcock",
    "Barbara Geller",
    "Barnabas Bagyi",
    "Barney Dellar",
@@ -150,23 +193,31 @@ var speakers = [
    "Bartosz Milewski",
    "Bartosz Papis",
    "Bartosz Szurgot",
+   "Baruch Sadogursky",
    "Basit Ayantunde",
    "Bat-Ulzii Luvsanbat",
    "Beman Dawes",
+   "Ben Darnell",
    "Ben Deane",
    "Ben Huckvale",
    "Ben Saks",
    "Ben Smith",
    "Benjamin Misell",
+   "Benjamin Mitchell",
    "Benoit Le Calvez",
    "Bernd Biechele",
+   "Bernd Rucker",
    "Bernhard Merkle",
+   "Bert Jan Schrijver",
+   "Betty Enyonam Kumahor",
    "Bill Hoffman",
    "Billy Baker",
    "Bjarne Stroustrup",
    "Bjorn Andrist",
    "Bjorn Fahller",
    "Bjorn Rabenstein",
+   "Blazej Kubiak",
+   "Boaz Ziniman",
    "Bob Steagall",
    "Boguslaw Cyganek",
    "Bojan Nikolic",
@@ -177,12 +228,23 @@ var speakers = [
    "Bowie Owens",
    "Brad Chamberlain",
    "Brandon Rhodes",
+   "Brendan Burns",
+   "Brendan O'Leary",
+   "Bret Fisher",
    "Brett Hall",
    "Brian Ruth",
+   "Bridget Kromhout",
+   "Bruce Lawson",
    "Bryce Adelstein-Lelbach",
    "Burkhard Kloss",
+   "C. Hees",
+   "Cameron Stewart",
    "Carl Cook",
+   "Casey Rosenthal",
+   "Catherine Swetel",
    "CB Bailey",
+   "Cedric Hurst",
+   "Cees van Wijk",
    "Cem Bassoy",
    "Chad Austin",
    "Chandler Carruth",
@@ -190,47 +252,78 @@ var speakers = [
    "Charles Bay",
    "Cheinan Marks",
    "Chiel Douwes",
+   "Chris Anderson",
+   "Chris Atherton",
+   "Chris Corriere",
    "Chris Di Bella",
+   "Chris Matts",
+   "Chris Munns",
    "Chris Oldwood",
+   "Chris Philipps",
+   "Chris Richardson",
    "Chris Uzdavinis",
    "Christiaan Pretorius",
    "Christian Barra",
    "Christian Blume",
+   "Christian E. Bruun",
    "Christian Hofmann",
+   "Christof Leng",
    "Christoph Wanzke",
+   "Christoph Windheuser",
    "Christophe Henry",
    "Christopher Di Bella",
    "Christopher Kohlhoff",
    "Christopher Simons",
    "Clare Macrae",
+   "Claudio Perrone",
    "Cliff Green",
    "Clinton Jefferey",
    "Conor Hoekstra",
+   "Courtney Hemphill",
+   "Courtney Nash",
+   "Crystal Hirschorn",
+   "D. Mitrovic",
    "Dafna Mordechai",
    "Daisy Hollman",
    "Damian Czernous",
    "Damian Dechev",
    "Damian Skrzypczak",
+   "Damien Murphy",
+   "Dan Callahan",
+   "Dan North",
    "Dan Quinlan",
    "Dan Saks",
    "Danial Bourgeois",
    "Daniel Aronsson",
+   "Daniel Bornkessel",
+   "Daniel Bryant",
    "Daniel Dilts",
+   "Daniel H Steinberg",
    "Daniel Hanson",
    "Daniel J H",
    "Daniel James",
    "Daniel Jasper",
    "Daniel Kozar",
+   "Daniel Lebrero Berna",
    "Daniel Manzaneque",
    "Daniel Moth",
    "Daniel Nikpayuk",
    "Daniel Penning",
    "Daniel Pfeifer",
    "Daniel Ruoso",
+   "Daniel Stenberg",
+   "Daniel Terhorst-North",
    "Daniela Engert",
    "Danila Kutenin",
+   "Danny Lange",
+   "Dariusz Kuc",
+   "Darrel Miller",
    "Dave Abrahams",
+   "Dave Farley",
+   "Dave Karow",
+   "Dave McAllister",
    "Dave Steffen",
+   "Dave Thomas",
    "Daveed Vandevoorde",
    "David Gross",
    "David Millington",
@@ -241,23 +334,32 @@ var speakers = [
    "David Sankel",
    "David Schwartz",
    "David Stone",
+   "Davis Sawyer",
    "Dawid Borycki",
    "Dawid Pilarski",
    "Dawid Zalewski",
    "Dean Michael Berris",
+   "Dean Wampler",
+   "Debbie O'Brien",
    "Deli Zhang",
    "Denis Blank",
+   "Denis Rosa",
    "Denis Yaroshevskiy",
+   "Denise Yu",
    "Deniz Bahadir",
    "Dennis Demidov",
+   "Derek Ferguson",
    "Detlef Vollmann",
+   "Devon Estes",
    "Devon Richards",
    "Didier Verna",
    "Diego Franco",
    "Diego Perini",
    "Diego Rodriguez-Losada",
    "Dietmar Kuhl",
+   "Dina Sierralta",
    "Dirk Haun",
+   "Divya Sasidharan",
    "Dmitri Nesteruk",
    "Dmitry Kandalov",
    "Dmitry Kozhevnikov",
@@ -267,34 +369,58 @@ var speakers = [
    "Dom Davis",
    "Dominic Poschko",
    "Dominic Robinson",
+   "Dominica DeGrandis",
    "Dominik Charousset",
    "Dori Exterman",
+   "Doug Lenat",
    "Douglas Crockford",
    "Duygu Cakmak",
    "Dvir Yitzchaki",
+   "Dylan Beattie",
+   "E. Boyle",
+   "Eamonn Boyle",
    "Eberhard Grather",
+   "Eberhard Wolff",
    "Eddie Elizondo",
    "Edouard Alligand",
    "Eduardo Madrid",
    "Egor Bredikhin",
+   "Eleanor Saitta",
+   "Eli Schutze Ramirez",
    "Elizabeth Morrow",
+   "Ellen Korbes",
+   "Ellen Shapiro",
    "Elliot Goodrich",
+   "Em Grasmeder",
    "Emery Berger",
+   "Ender Yuksel",
    "Eoin Woods",
    "Eran Gilad",
+   "Eric Bottard",
+   "Eric Johnson",
    "Eric Niebler",
    "Eric Tondelli",
+   "Erik Doernenburg",
+   "Erik Meijer",
    "Erik Smith",
+   "Erik St. Martin",
    "Erik Valkering",
    "Erika Sweet",
+   "Erwin de Gier",
+   "Eugene Petrenko",
+   "Evan Sutter",
+   "Evelina Gabasova",
    "Ewelina Wyspianska",
    "Fabian Renn-Giles",
    "Fabio Fracassi",
+   "Fabio Pereira",
+   "Fahran Wallace",
    "Fedor Pikus",
    "Feliple Magno de Almeida",
    "Felix Petriconi",
    "Fergus Cooper",
    "Fernando Sanchez Moya",
+   "Feynman Liang",
    "Filip Olszewski",
    "Filip Van Laenen",
    "Filip Wojcik",
@@ -302,12 +428,20 @@ var speakers = [
    "Florian Gilcher",
    "Florian Hauser",
    "Florin Patan",
+   "France Wang",
    "Frances Buontempo",
+   "Francesc Campoy",
+   "Francesco Mondora",
+   "Francis Potter",
    "Franco Diaspro",
    "Frank Birbacher",
+   "Frank Buschmann",
    "Frank Grimm",
    "Frank Mertens",
+   "Frans van Buul",
+   "Franziska Hinkelmann",
    "Fred Tingaud",
+   "G. Gilmour",
    "Gabor Horvath",
    "Gabor Marton",
    "Gabor Megyaszai",
@@ -316,82 +450,121 @@ var speakers = [
    "Gabriela Limonta",
    "Gail Ollis",
    "Gal Zaban",
+   "Garrett Smith",
+   "Garth Gilmour",
+   "Gary Crawford",
    "Gasper Azman",
    "Gen Ashley",
    "Gennadiy Rozental",
    "Georg Zitzlsberger",
    "George Corney",
+   "Georges Saab",
+   "Georgina McFadyen",
    "Gianluca Padovani",
    "Giannis Gonidelis",
    "Gilang Hamidy",
    "Giorgio Zoppi",
    "Giovanni Asproni",
+   "Gitte Klitgaard",
    "Giuseppe D'Angelo",
+   "Gojko Adzic",
    "Gor Nishanov",
    "Goran Arandjelovic",
    "Gordon Brown",
    "Gordon Woodhull",
+   "Graeme Rocher",
+   "Graham Brooks",
    "Grant Mercer",
    "Greg Law",
    "Greg Miller",
    "Greg Ravikovich",
    "Grigory Demchenko",
+   "Grygoriy Gonchar",
    "Grzegorz Golawski",
    "Grzegorz Latuszek",
+   "Guen Prawiroatmodjo",
    "Gunter Obiltschnig",
    "Guntram Berti",
    "Guy Bolton King",
    "Guy Davidson",
    "Guy Somberg",
+   "Gwen Shapira",
    "Gwendolyn Hunt",
    "Gynvael Coldwind",
    "H. Carter Edwards",
    "Hadi Hariri",
    "Haggai Eran",
    "Hana Dusikova",
+   "Hannes Lowette",
    "Hannes Sowa",
    "Hans Boehm",
    "Harishankar Singh",
    "Hartmut Kaiser",
+   "Heather Gray",
+   "Heidi Helfand",
+   "Heidi Waterhouse",
    "Heiko Frederik Bloch",
    "Hendrik Niemeyer",
+   "Henning Jacobs",
+   "Henry Coles",
    "Herb Sutter",
+   "Hillel Wayne",
+   "Ho Ming Li",
+   "Holly Cummins",
    "Honey Sukesan",
    "Howard Hinnant",
    "Hubert Matthews",
+   "Huyen Tue Dao",
    "Hyrum Wright",
    "Ian Bell",
+   "Ian Crosby",
    "Ian Oliver",
    "Igor Vorobtsov",
    "Ilja Honkonen",
    "Ilya Burylov",
    "Inbal Levi",
+   "Ioanitescu",
    "Iulia Stirb",
    "Ivan Cukic",
    "Ivica Bogosavljevic",
    "Izabela Krupa",
+   "J. Alvarez",
    "J. Daniel Garcia",
+   "J. Szubryt",
    "Jacek Bochenek",
    "Jackie Kay",
+   "Jacob Ideskog",
    "Jacob Potter",
+   "Jacob Sherson",
+   "Jaideep Bansal",
    "Jaime Alonso",
    "Jakob Schweisshelm",
    "Jakub Beranek",
    "Jakub Derda",
    "Jakub Janczyk",
    "Jakub Staron",
+   "James Beswick",
    "James Cain",
+   "James Governor",
+   "James Lewis",
    "James McNellis",
    "James Mitchell",
    "James Pascoe",
    "Jamie Allsop",
+   "Jamie Dobson",
    "Jan Babst",
+   "Jan Bosch",
+   "Jan Janke",
+   "Jana Petkanic",
    "Jared Hoberock",
    "Jaroslaw Palka",
+   "Jason Cahoon",
    "Jason Jurecka",
    "Jason Lucas",
    "Jason McGuiness",
    "Jason Rice",
+   "Jason Smith",
+   "Jason Taylor",
    "Jason Turner",
    "Jean-Louis Leroy",
    "Jean-Marc Gratien",
@@ -399,7 +572,9 @@ var speakers = [
    "Jean-Thierry Lapreste",
    "JeanHeyd Meneide",
    "Jeff Garland",
+   "Jeff Hodges",
    "Jeff Preshing",
+   "Jeff Smith",
    "Jeff Trull",
    "Jeffrey Mendelsohn",
    "Jens Weller",
@@ -407,14 +582,32 @@ var speakers = [
    "Jeremy Murphy",
    "Jeremy Siek",
    "Jeroen Habraken",
+   "Jeroen van Megchelen",
+   "Jerôme Petazzoni",
+   "Jesper Boeg",
+   "Jesse Butler",
+   "Jessica Ellis",
+   "Jessica Greene",
+   "Jessica Kerr",
+   "Jessica Pointing",
+   "Jessie Frazelle",
    "Jez Higgins",
    "JF Bastien",
+   "Jiaqi Liu",
+   "Jill Wetzler",
    "Jim Coplien",
    "Jim Hague",
+   "Jim Manico",
+   "JJ Qi",
    "Jody Hagins",
+   "Joe Armstrong",
    "Joel de Guzman",
    "Joel Falcou",
+   "Joep Weijers",
    "Johan Herland",
+   "Johan Janssen",
+   "Johan Stokking",
+   "Johannes Stern",
    "Johm Wyman",
    "John Bandela",
    "John Dubchak",
@@ -423,14 +616,17 @@ var speakers = [
    "John 'JT' Thomas",
    "John Kalb",
    "John Lakos",
+   "John Le Drew",
    "John McFarlane",
    "John Melas",
+   "John Napier",
    "John R. Bandela",
    "John Regehr",
    "John Wiegley",
    "Jon Cohen",
    "Jon Jagger",
    "Jon Kalb",
+   "Jon Skeet",
    "Jonathan Beard",
    "Jonathan Boccara",
    "Jonathan Caves",
@@ -439,18 +635,27 @@ var speakers = [
    "Jonathan O'Connor",
    "Jonathan Pallant",
    "Jonathan Wakely",
+   "Jordan Hendricks",
    "Jordi Mola",
    "Jorg Brown",
    "Jorn Bunk",
    "Jose Daniel Garcia",
+   "Jose Paumard",
+   "Josh Humphries",
+   "Josh Long",
    "Joshua Berne",
    "Juan Manuel Martinez Caamano",
    "Juan Pedro Bolivar",
    "Juan Pedro Bolivar Puente",
    "Juanpe Bolivar",
+   "Juergen Hoeller",
    "Julia Reid",
    "Julian Smith",
    "Julian Storer",
+   "Julie Lerman",
+   "Julien Simon",
+   "Juliet Hougland",
+   "Julius Volz",
    "Jurgen Mottok",
    "Jussi Pakkanen",
    "Justin Campbell",
@@ -464,10 +669,22 @@ var speakers = [
    "Karl Rupp",
    "Karol Przybylski",
    "Karsten Ahnert",
+   "Kasun Indrasiri",
    "Kate Gregory",
+   "Kate Wardin",
+   "Katharina Fey",
+   "Katharine Jarmul",
+   "Katherine Kirk",
+   "Katherine Stanley",
+   "Kaz Sato",
+   "Keith Adams",
+   "Kelley Robinson",
+   "Ken Mugrage",
    "Ken Smith",
    "Ken Sykes",
+   "Kenneth Harris II",
    "Kenneth Holmqvist",
+   "Kenny Bastani",
    "Kenny Kerr",
    "Keno Fischer",
    "Kevin Carpenter",
@@ -475,33 +692,53 @@ var speakers = [
    "Kevin P. Fleming",
    "Kevlin Henney",
    "Khaled Hamidouche",
+   "Kief Morris",
    "Kiki de Rooij",
+   "Kim Antelo",
    "Kirit Saelensminde",
+   "Kirk Pepperdine",
    "Kirk Shoop",
    "Kirs Jusiak",
    "Klaus Iglberger",
    "Klemens Morgenstern",
+   "Koen Bos",
+   "Kolton Andrus",
    "Konrad Grochowski",
    "Kostas Kyrimis",
    "Kostya Serebryany",
+   "Kresten Krab Thorup",
    "Kris Jusiak",
    "Kris van Rens",
+   "Kristian Løken Wille",
    "Kristof Kerekes",
    "Krzysztof Drys",
+   "Krzysztof Kudrynski",
    "Krzysztof Paprocki",
+   "Kyle Kingsbury",
    "Kyle Lutz",
+   "L. Boonstra",
    "Larisse Voufo",
    "Larry Bank",
    "Lars Knoll",
    "Lawrence Crowl",
    "Laxmikant Kale",
+   "Leif Nixon",
+   "Lena Reinhard",
    "Lenny Maiorani",
    "Leor Zolman",
+   "Lieven Vandersypen",
    "lightning talks",
+   "Ligtenberg",
+   "Lin Clark",
+   "Linda Liukas",
+   "Linda Rising",
    "Lionel Lacassagne",
    "Lisa Lippincott",
+   "Liz Keogh",
+   "Liz Rice",
    "Loic Joly",
    "Lorenzo Veneri",
+   "Lorna Jane Mitchell",
    "Louis Dionne",
    "Louise Brown",
    "Louise Poubel",
@@ -519,6 +756,9 @@ var speakers = [
    "Lukasz Skomra",
    "Lukasz Ziobron",
    "Luna Kirkby",
+   "Lynn Langit",
+   "M. Feigal",
+   "Maarten Mulders",
    "Maciej Mazur",
    "Maciej Norberciak",
    "Maciej Trojniarz",
@@ -528,6 +768,7 @@ var speakers = [
    "Manuel Klimek",
    "Manuel Sanchez",
    "Marc Anton Bohm von Thenen",
+   "Marc Cohen",
    "Marc Eaddy",
    "Marc Goodner",
    "Marc Gregoire",
@@ -536,7 +777,9 @@ var speakers = [
    "Marcin Copik",
    "Marcin Grzebieluch",
    "Marco Arena",
+   "Marco Gercke",
    "Marco Magdy",
+   "Marcos Maia",
    "Marcos Rojas",
    "Marek Krajewski",
    "Marek Stoj",
@@ -546,29 +789,45 @@ var speakers = [
    "Marius Feilhauer",
    "Mariusz Gil",
    "Mariusz Rozycki",
+   "Mark Coleman",
    "Mark Elendt",
+   "Mark Heckler",
    "Mark Hoemmen",
    "Mark Isaacson",
    "Mark Mutz",
+   "Mark Rendle",
+   "Mark West",
    "Mark Zeren",
    "Markus Goetz",
+   "Markus Volter",
+   "Markus Wittwer",
    "Marshall Clow",
+   "Martin Gravråk",
+   "Martin Schwalbe Lohmann",
    "Martin Smarda",
+   "Martin Thompson",
    "Martin Troxler",
+   "Martin Woolley",
    "Martina Angela Sasse",
    "Mateusz Brzeszcz",
    "Mateusz Dyminski",
    "Mateusz Nowak",
    "Mateusz Pusz",
    "Mathias Gaunard",
+   "Mathias Verraes",
    "Mathieu Nayrolles",
    "Mathieu Ropert",
    "Matt Bentley",
+   "Matt Brunt",
    "Matt Calabrese",
+   "Matt Danforth",
+   "Matt Fewer",
    "Matt Godbolt",
    "Matt Hargett",
+   "Matt Jones",
    "Matt Kulukundis",
    "Matt P. Dziubinski",
+   "Matt Stratton",
    "Matthaus Brandl",
    "Matthew Anderson",
    "Matthew Bentley",
@@ -582,14 +841,19 @@ var speakers = [
    "Matthias Vallentin",
    "Matti Verasani",
    "Maurice Kalinowski",
+   "Maurice Naftalin",
    "Mauricio Carneiro",
    "Max Langhof",
    "Meir Komar",
    "Menelaos Karavelas",
+   "Michael Brunton-Spall",
    "Michael Caisse",
    "Michael Dorner",
+   "Michael Feathers",
    "Michael Gopshtein",
+   "Michael Irwin",
    "Michael Krasnyk",
+   "Michael Nygard",
    "Michael Park",
    "Michael Peeri",
    "Michael Price",
@@ -606,60 +870,92 @@ var speakers = [
    "Michal Pawlik",
    "Michal Pomykala",
    "Michel Grootjans",
+   "Michele Angioni",
    "Michele Mischitelli",
+   "Mikael Vidstedt",
+   "Mike Amundsen",
+   "Mike Elsmore",
    "Mike Ritchie",
    "Mike Shah",
+   "Miko Pawlikowski",
    "Milian Wolff",
    "Milosz Warzecha",
    "Miodrag Milanovic",
    "Miri Kogan",
    "Miro Knejp",
    "Misha Shalem",
+   "Mitescu",
+   "Monica Lent",
    "Morris Hafner",
+   "Morten Birk",
+   "Mourad Sidky",
    "Muhammad Zahalqa",
+   "Murray Thom",
+   "Naomi Ceder",
    "Nat Goodspeed",
    "Natalia Oskina",
+   "Natasha Friis Saxberg",
+   "Nate Barbettini",
    "Nate Kohl",
    "Nathan Myers",
    "Nathan Sidwell",
    "Neil Horlock",
    "Neil MacIntosh",
+   "Nell Watson",
    "Nevin Liber",
    "Niall Douglas",
    "Nicholas Ormrod",
    "Nick Sarten",
    "Nick Uhlenhuth",
+   "Nicki Watt",
    "Nicola Gigante",
    "Nicolai Behmann",
    "Nicolai Josuttis",
    "Nicolas Fleury",
+   "Nicolas Frankel",
+   "Nicolas Goutay",
    "Nicolas Guillemot",
    "Nicolas Lazareff",
+   "Nicole Bryan",
    "Nicole Mazzuca",
    "Niek J. Bouman",
    "Niels Dekker",
+   "Niels Hallenberg",
+   "Niels Harre",
+   "Niket Patel",
    "Nikita Chumakov",
    "Niko Matsakis",
    "Nikolai Wuttke",
+   "Nikolas Burk",
    "Nikos Athanasiou",
    "Nikunj Gupta",
    "Nimrod Sapir",
    "Nir Friedman",
+   "Noel Rappin",
+   "Nora Jones",
    "Norbert Kraft",
    "Odin Holmes",
    "Ofek Shilon",
+   "Olaf Zschiedrich",
+   "Oleg Selajev",
    "Oleh Fedorenko",
    "Oleksandr Bacherikov",
    "Oleksii Pilkevych",
+   "Olga Hall",
+   "Oliver Drotbohm",
    "Olivia Quinet",
    "Olivier Giroux",
    "Olivier Goffart",
+   "Olivier Rikken",
+   "Oosterwijk",
    "Pablo Colapinto",
    "Pablo Halpern",
    "Pablo Ribalta",
+   "Paige Bailey",
    "Paolo Severini",
    "Patrice Roy",
    "Patricia Aas",
+   "Patrick Kua",
    "Patrick Marsch",
    "Patrick Mihelich",
    "Patrick Niedzielski",
@@ -674,6 +970,7 @@ var speakers = [
    "Paul McKenney",
    "Paul Targosz",
    "Paul Williams",
+   "Paulien van Alst",
    "Pavel Novikov",
    "Pavel Yosifovich",
    "Pawel Labuz",
@@ -686,11 +983,19 @@ var speakers = [
    "Peter Gottschling",
    "Peter Hilton",
    "Peter Muldoon",
+   "Peter Pezaris",
+   "Peter Piekarczyk",
+   "Peter Sbarski",
    "Peter Sommerlad",
    "Peter Steinbach",
    "Petr Kudriavtsev",
+   "Phil Hofmann",
    "Phil Miller",
    "Phil Nash",
+   "Phil Winder",
+   "Phil Zimmermann",
+   "Philipp Krenn",
+   "Philippe De Ryck",
    "Pierre-Henri Symoneaux",
    "Piotr Gaczkowski",
    "Piotr Kozlowski",
@@ -703,20 +1008,37 @@ var speakers = [
    "Piotr Staniow",
    "Piotr Wasilewski",
    "Piotr Wygocki",
+   "PJ Hagerty",
+   "Poul Jørgen Jennum",
+   "Pragmatic Dave Thomas",
    "Pramod Gupta",
+   "Priyanka Vergadia",
    "Przemyslaw Bida",
    "Przemyslaw Szufarski",
    "Quentin Duval",
+   "Radu Weiss",
+   "Rafael Winterhalter",
    "Rafal Legiedz",
    "Rafal Lojek",
    "Rafal Pasek",
+   "Rahul Lahiri",
    "Rainer Grimm",
+   "Rajiv Shah",
    "Ramprasad Venkataraman",
+   "Randy Shoup",
+   "Ranganathan Balashanmugam",
    "Raphael Meyer",
+   "Rashid Mohammad",
+   "Ray Tsang",
+   "Rebecca Miller-Webster",
+   "Rebecca Nugent",
+   "Rebecca Parsons",
    "Reka Kovacs",
    "Remigiusz Michulka",
    "Rian Quinn",
+   "Ricardo Garcia",
    "Richard Fabian",
+   "Richard Feldman",
    "Richard Powell",
    "Richard Saunders",
    "Richard Smith",
@@ -724,44 +1046,71 @@ var speakers = [
    "Richard Thompson",
    "Rishi Wani",
    "Rob Stewart",
+   "Robert Crowe",
    "Robert Haas",
    "Robert Irving",
+   "Robert Kubis",
    "Robert Leahy",
    "Robert Matusewicz",
+   "Robert Metzger",
    "Robert Ramey",
    "Robert Schumacher",
    "Robert Seilbeck",
    "Robert Smallshire",
    "Robert Stewart",
    "Robin Kuzmin",
+   "Robin Moffatt",
+   "Rod Johnson",
    "Roel Standaert",
    "Roger Orr",
    "Roi Barkan",
    "Roland Bock",
    "Roland Grinis",
+   "Roman Elizarov",
    "Roman Siromakha",
+   "Ron Bodkin",
    "Rong Lu",
+   "Ronnie Mitra",
    "Rosemary Francis",
    "Roshan Naik",
+   "Roy Osherove",
+   "Roy van Rijn",
    "Ruediger Berlich",
    "Russ Miles",
+   "Russ Olsen",
    "Ryan Dougherty",
    "Ryan Newton",
+   "Ryan Pierce",
+   "S. v. Beelen",
    "Saar Raz",
+   "Safia Abdalla",
+   "Sam Aaron",
+   "Sam Newman",
    "Sambath Logakrishnan",
    "Samy Al Bahara",
    "Samy Al Bahra",
    "Samy Bahra",
+   "Sander Hoogendoorn",
+   "Sander Mak",
    "Sandor Dargo",
    "Sandro Andrade",
+   "Sandro Mancuso",
+   "Sara Caldwell",
    "Sara Chipps",
    "Sarah Smith",
+   "Sarah Wells",
+   "Sarbhukan",
+   "Sasa Juric",
+   "Sascha Mollering",
    "Saurabh Joshi",
    "Schalk Cronje",
+   "Scott Helme",
+   "Scott M Stark",
    "Scott McMillan",
    "Scott Meyers",
    "Scott Schurr",
    "Scott Wardle",
+   "Sean McQuillan",
    "Sean Middleditch",
    "Sean Parent",
    "Seb Rose",
@@ -770,6 +1119,7 @@ var speakers = [
    "Sebastian Redl",
    "Sebastian Schaetz",
    "Sebastian Theophil",
+   "Sebastien Goasguen",
    "Serge Guelton",
    "Sergei Khandrikov",
    "Sergei Sadovnikov",
@@ -777,29 +1127,40 @@ var speakers = [
    "Sergey Nepomnyachiy",
    "Sergey Zubkov",
    "Serhiy Kostyshyn",
+   "Seth Thomson",
+   "Seth Vargo",
    "Shachar Langbeheim",
    "Shachar Shemesh",
    "Sherri Shulman",
    "Shy Shalom",
    "Silke Holtmanns",
    "Simon Brand",
+   "Simon Brown",
+   "Simon Wardley",
+   "Sir Tim Berners-Lee",
    "Slawomir Zborowski",
    "Staffan Tjernstrom",
    "Stanislaw J. Dobrowolski",
    "Stanley Lippman",
    "Stefan Asbeck",
+   "Stefan Judis",
    "Stefan Rohe",
+   "Stefan Rudnitzki",
+   "Stefan Tilkov",
    "Stefanus DuToit",
    "Stephan Dollberg",
    "Stephan Lavavej",
    "Stephan T. Lavavej",
+   "Stephanie Crater",
    "Stephen Dewhurst",
    "Stephen Kelly",
+   "Stephen Magill",
    "Stephen Spann",
    "Steve Carroll",
    "Steve Downey",
    "Steve Gates",
    "Steve Holden",
+   "Steve Smith",
    "Steven Breitstein",
    "Steven Kabbes",
    "Steven Pigeon",
@@ -807,10 +1168,13 @@ var speakers = [
    "Steven Simpson",
    "Steven Watanabe",
    "Stoyan Nikolov",
+   "Stuart Langridge",
    "Sumant Tambe",
    "Sumit Kumar",
    "Sunny Chatterjee",
    "Supriya Srivatsa",
+   "Susanne Kaiser",
+   "Sven Johann",
    "Sven Over",
    "Sy Brand",
    "Sylvain Jubertie",
@@ -824,23 +1188,33 @@ var speakers = [
    "Thiago Macieira",
    "Thomas Deniffel",
    "Thomas Guest",
+   "Thomas Hejlsberg",
    "Thomas Heller",
    "Thomas Sundberg",
    "Tiago Quintino",
+   "Tiberiu Covaci",
+   "Tim Berglund",
    "Tim Boddy",
+   "Tim Duckett",
    "Tim Haines",
    "Tim Shen",
+   "Tim v Baarsen",
    "Timo van der Kuil",
    "Timur Doumler",
    "Tina Ulbrich",
    "Titus Winters",
+   "TJ VanToll",
+   "Tjeerd In't Veen",
    "Tobias Fuchs",
    "Tobias Hunger",
    "Tobias Loew",
    "Toby Allsopp",
+   "Tod Golding",
    "Todd Gamblin",
+   "Todd Montgomery",
    "Tom Isaacson",
    "Tom Poole",
+   "Tomas Petricek",
    "Tomasz Kaczmarzyk",
    "Tomasz Kapela",
    "Tomasz Melcer",
@@ -849,14 +1223,21 @@ var speakers = [
    "Tony Van Eerd",
    "Tony Wasserka",
    "Travis Gockel",
+   "Travis Spencer",
+   "Trisha Gee",
    "Tristan Brindle",
    "Tsung-Wei Huang",
    "Uberto Barbini",
+   "Ulf Wiger",
    "Ulrich Drepper",
+   "Uri Goldshtein",
+   "Uwe Friedrichsen",
+   "Vagif Abilov",
    "Valentin Galea",
    "Valentin Ziegler",
    "Vassil Vassilev",
    "Venkat Subramaniam",
+   "Venky Ganti",
    "Vicente J. Botet Escriba",
    "Victor Ciura",
    "Victor Moreno",
@@ -875,16 +1256,23 @@ var speakers = [
    "Vladimir Vukadinovic",
    "Walter E. Brown",
    "Walther Zwart",
+   "Welcome to a New Age of Refereeing in 7 Minutes",
+   "Wendy Mackay",
+   "Willem Meints",
    "William Clements",
    "William Kennedy",
+   "Woody Zuill",
    "Wouter van Ooijen",
    "Xavier Bonaventura",
+   "Yashvier Kosaraju",
    "Yehezkel Bernat",
    "Yossi Moalem",
+   "Yu Ling Cheng",
    "Yu Qi",
    "Yuri Minaev",
    "Yuri Valentini",
    "Yuriy Solodkyy",
+   "Yury Nino",
    "Zach Laine",
    "Zachary Laine",
    "Zaika Antoun",
@@ -892,2210 +1280,2711 @@ var speakers = [
    "Zbigniew Piecuch",
    "Zbigniew Skowron",
    "Zhihao Yuan",
+   "Zoe Rose",
    "Zoltan Porkolab",
    "Zsolt Parragi"
 ]
 
 var titles = [
-   "Deploying C++ modules to 100s of millions of lines of code",
-   "Product Security, From the dark side to the light",
-   "Secure Coding Best Practices - Threat Hunting",
-   "C++: How I learned to stop worrying and love metaprogramming",
-   "Don't package your libraries, write packagable libraries!",
-   "Go: Concurrency Design",
-   "Bringing Clang and C++ to GPUs: An Open-Source, CUDA-Compatible GPU C++ Compiler",
-   "Functional Programming for the Web with Elm",
-   "DNS at 30",
-   "The case for Vendored Builds",
-   "Refactoring Superpowers",
-   "Role of Product Manager",
-   "Boosting MPL with Haskell elements",
-   "Using VV = merge_t(std::variant, std::vector);",
-   "Exploring C++17 and beyond",
-   "Ladon -- A Distributed State-Machine Framework",
-   "The most valuable values",
-   "Conan, a C and C++ package manager for developers",
-   "C++ for cross-platform VR",
-   "Be your own Threatbuster!",
-   "Assume Worst Intent (Designing for the Abusive Ex)",
-   "Trusting your Raspberry Pi - An introduction to the TPM and IoT",
-   "Expected- An exception-friendly Error Monad",
-   "Procedural Programming: It's Back? It Never Went Away",
-   "Simplifying control flow",
-   "Embedded: Customizing Dynamic Memory Management in C++",
-   "Understanding Optimizers: Helping the Compiler Help You",
-   "Polymorphic Task   2017",
-   "Concurrency, Parallelism and Coroutines",
-   "Consistently Inconsistent",
-   "Continuous Integration of C/C++ Apps for IoT Devices",
-   "Breaking Dependencies: The SOLID Principles",
-   "boost::string_ref",
-   "Reduce: From functional programming to C++17 Fold expressions",
-   "Designing A Feature That Doesn't Fit",
-   "Naked coroutines live (with networking)",
-   "Clean Integral Code",
-   "Ensuring Exception Safety Through Testing",
-   "Building efficient I/O intensive applications with Seastar",
-   "'The Construction and Use of C++ Algorithms' (Virtual)",
-   "The Smart Pointers I Wish I Had",
-   "Next generation unit testing using static reflection",
-   "MPL11: A New Metaprogramming Library for C++11",
-   "Grill the C++ committee -  Discussion",
-   "Tacit DSL All the Things",
-   "C++ Core Guidelines - Safer C++",
-   "C++11/14 at Scale: What Have We Learned?",
-   "Space adventures",
-   "Multithreading 101: Concurrency Primitives From Scratch",
-   "Implementing A Modern C++ MQTT Client for Embedded Devices",
-   "Large-Scale Refactoring @ Google",
-   "It's Complicated",
-   "Meta: Thoughts on generative C++",
-   "Non-Allocating std::future/promise",
-   "Behind the Scenes of a C++ Build System",
-   "Building and Extending the Iterator Hierarchy in a Modern, Multicore World",
-   "The C++ rvalue lifetime disaster @ CppEurope2020",
-   "The One-Decade Task: Putting std::atomic in CUDA.",
-   "Experimental comparison...",
-   "Why and How to Roll Your Own std::function Implementation",
-   "Examining applications that do not terminate on std::bad_alloc",
-   "The C++ Rvalue Lifetime Disaster",
-   "Mocking Frameworks considered harmful",
-   "C++ Constants",
-   "Parallelizing the C++ Standard Template Library",
-   "Clean code in Go",
-   "Who includes me?",
-   "Debugging memory corruptions in C++",
-   "Haskell Design Patterns for Genericity & Asynchronous Behavior",
-   "Time Travel Debugging...",
-   "The ongoing design and evolution of cyber-dojo",
-   "Decision Fatigue and coding guidelines",
-   "Containers in Boost",
-   "An implementer's view of Boost.SIMD",
-   "Learning (and teaching) modern C++ - Challenges and Resources",
-   "Structured Bindings demystified",
-   "Go: Optimizing For Correctness",
-   "Catch [^]: Unicode for C++23",
-   "'Metaprogramming in C++' (Virtual)",
-   "How Ubisoft Develops Games for Multicore - Before and After C++11",
-   "Patterns and Techniques Used in the Houdini 3D Graphics Application",
-   "Code samples that actually compile",
-   "'Print C++ Like It's Python' (Lightning Talk)",
-   "Diet for your Templates - Reducing Code Bloat in Your Templated Library",
-   "Lessons Learned",
-   "Fast Conversion From UTF-8 with C++, DFAs, and SSE Intrinsics",
-   "Reflection",
-   "10 Techniques to Understand Code You Don't Know",
-   "Dynamic Polymorphism with Metaclasses and Code Injection",
-   "Tools to Ease Cross-Platform C++ Development @ CppEurope 2020",
-   "Surfacing Composition",
-   "Toward Native XML Processing Using Multi-paradigm Design in C++",
-   "All the defaults are backwards - Phil Nash",
-   "Back to Basics: Move Semantics (part 2 of 2)",
-   "Variable Templates and Compile-Time Computation with C++14",
-   "Future of communications...",
-   "Ranges for distributed and asynchronous systems",
-   "The Hitchhiker's Guide to Faster Builds - Part 2 of 2",
-   "Better CTAD for C++20",
-   "The C++20 Standard Library - Beyond Ranges",
-   "Crafting EDSL In C++ using Metaprogramming, Operator Overloading, & Lambda Expressions",
-   "std::accumulate: Exploring an Algorithmic Empire",
-   "Thinking outside of the framework",
-   "Implementing 'variant' visitation using lambdas",
-   "A Critical Look at the Coding Standards Landscape",
-   "How to Refactor Millions of Line of Code Without Alienating your Colleagues",
-   "Generic Conversion & Segmentation for Ranges: A Solution for Unicode",
-   "Expect the expected",
-   "Adventures In Updating A Legacy Codebase",
-   "Virtual assistants - our journey from extensive (...)",
-   "Delivering software that is secure & usable - who's job is it?",
-   "completion T : Improving the future T with monads",
-   "Frictionless Allocators",
-   "Building an Intuition for Composition",
-   "Functional Data Structures in C++",
-   "Exhuming 'Castlequest'",
-   "Lessons Learned From An Embedded RTPS in Modern C++",
-   "Hello World From Scratch",
-   "Boost.Text: Fixing std::string, and Adding Unicode to Standard C++ (part 2)",
-   "The Incredible Shrinking Standard",
-   "Redux Architecture",
-   "A modern, scalable risk system architecture",
-   "Concepts Lite: Constraining Templates with Predicates",
-   "A C++ Approach to Physical Units",
-   "Clean(er) Code for Large Scale Legacy Applications",
-   "A C++ MQTT Message Broker for the Enterprise",
-   "Intel® Graphics Technology for general purpose computing",
-   "(R)evolution of C++",
-   "Modern special function register abstraction",
-   "Welcome (Marco Arena) +  'WARNING: std::find is broken'",
-   "The Proposed Boost B-tree Library",
-   "Expression Templates: Past, Present, Future (PART 2)",
-   "Applying functional programming in code design",
-   "When warnings become errors. A case-study of latent bugs (...)",
-   "'Black Box Optimization of Compile Times' (C++ Lightning Talk)",
-   "Total War: how AI can deliver entertainment.",
-   "C++20 Coroutines: Asynchronity reimagined",
-   "Oh No! More Modern CMake",
-   "Code Reviews - Why, what and how",
-   "Type-safe state machines with C++17 std::variant",
-   "Using Spirit V2: Qi and Karma",
-   "C++ Insights: How stuff works, Lambdas and more!",
-   "Range-Based Text Formatting - For a Future Range-Based Standard Library",
-   "Solving World Problems with Fusion",
-   "Distributed Mutual Exclusion using Proposed Boost.AFIO",
-   "Lock-free by Example",
-   "HTTP 2 - The feature of www",
-   "Sweep-Line Algorithm for Voronoi Diagrams",
-   "std::launder",
-   "Algorithm Intuition (part 1 of 2)",
-   "Value Semantics: Fast, Safe, and Correct by Default",
-   "What I Wish They Told Me - Part 2 of 2",
-   "Modules are coming",
-   "Parallel Computing Visualization",
-   "Better Code with C++ Attributes",
-   "Modern Linux C++ debugging tools - under the covers",
-   "clang-tidy: write your own linting tool",
-   "Structure and Interpretation of Test Cases",
-   "Don't do what I did",
-   "'The cost of simple programs' (C++ Beginner's Lightning Talk)",
-   "New C++ features for writing DSLs",
-   "Compiler Explorer: Behind The Scenes",
-   "How eSIM can help industrialisation",
-   "A Framework for RAD Spirit",
-   "A Complete Overview on Boost.Jam and Boost.Build",
-   "A modern database interface for C++",
-   "Simplest Safe Integers",
-   "ADL: introduction in name taxonomy, customization points and use cases",
-   "Practical Cross-Platform Mobile C++ Development",
-   "Multithreading is the answer. What is the question? (part 1 of 2)",
-   "Haskell -- The Pseudocode Language for C++ Template Metaprogramming (Part 1)",
-   "An Overview of Transport Layer Security (TLS) Protocol Version 1.3",
-   "An easy to use RPC framework implemented in C++11/14",
-   "Obfuscation and beyond: securing your binary",
-   "Object-relational mapping with ODB and Boost",
-   "Crazy Code, Crazy Coders",
-   "Why don't the cool kids like OOP? - Jon Kalb",
-   "sqlpp11, An SQL Library Worthy Of Modern C++",
-   "Hypercritical C++ Code Review",
-   "Building IoT solutions using Contiki-NG and AWS",
-   "'Developing PHP Extensions with PHP CPP' (Lightning Talk)",
-   "Instruction Re-ordering Everywhere: The C++ 'As-If' Rule and the Role of Sequence",
-   "Preprocessor-aware Automated Refactoring",
-   "M-PIN Authentication in Vehicle Tracking",
-   "Howling at the Moon: Lua for C++ Programmers",
-   "What You see",
-   "Extrema:  Correctly Calculating min and max",
-   "Back to the future",
-   "Qt as a C++ Framework: History, Present State and Future",
-   "The Set of Natural Code",
-   "A Retrospective from My Perspective",
-   "Ownership model in C++ and beyond",
-   "interview with Marius Bancila",
-   "Using Freestanding C++ for C++17 in Shellcode, UEFI, Embedded & Unikernels",
-   "Tales of C, the 6502 and the BBC (with added python)",
-   "50 shades of C++",
-   "The Hitchhiker's Guide to Faster Builds - Part 1 of 2",
-   "interview with Rafi Wiener ::  Question",
-   "Back to Basics: Move Semantics",
-   "Cross Platform GUID Association with Types",
-   "Behind the scenes of upgrading a static analyzer to C++20",
-   "Back to Basics: The Structure of a Program",
-   "10 Techniques to Understand Existing Code",
-   "A generic binary tree: why grow your own?",
-   "A refresher on the floating-point computations and the standard library.",
-   "When C++ wants to meet Java",
-   "Impostor Syndrome",
-   "Linux User/Kernel ABI: the realities of how C and C++ programs really talk to the OS",
-   "Removing Metaprogramming From C++, Part 1 of N: constexpr Function Params",
-   "Test-Drive Performance",
-   "GSL ad hoc overview",
-   "Learning and teaching modern C++",
-   "An Introduction to the Proposed Coroutine Support for C++",
-   "Compile time regular expressions",
-   "Declarative Thinking, Declarative Practice",
-   "Class Template Argument Deduction in C++17",
-   "Non-conforming C++: the Secrets the Committee Is Hiding From You",
-   "The Holy Grail!? A Persistent Hash-Array-Mapped Trie for C++",
-   "C++ STL best and worst performance features and how to learn from them",
-   "Is Boost Broken?",
-   "Value Semantics: It aint about the syntax!",
-   "Leveraging the range based for loop",
-   "Effective dependency management with CMake",
-   "Modern Template Techniques",
-   "Grill the C++ Committee with Jon Kalb",
-   "A Letter to My Descendents",
-   "fixed_point",
-   "Metaprogramming in C++",
-   "Building Software Capital: How to write the highest quality code and why",
-   "The Current State of (free) Static Analysis",
-   "Introduction to encryption for embedded Linux developers",
-   "C++17 in Breadth (part 1 of 2)",
-   "How We Used To Be",
-   "Creating an Incremental Architecture for your System",
-   "What Everyone Should Know About How Amazing Compilers Are",
-   "Programming with C++ Constraints: Background, Utility, and Gotchas",
-   "Converting to C++20 Modules",
-   "Making Sense Of Microservices",
-   "Dealing with software dependencies",
-   "Phantastic Code Smells and where to find them",
-   "An Adventure in Race Conditions",
-   "Higher-order functions and 'function_ref",
-   "Algorithms and Iterators for Multidimensional Arrays",
-   "Finding hard to find bugs with Address Sanitizer",
-   "Kotlin/Native - Embracing existing ecosystems",
-   "Statistical scientific programming OO patterns: accumulators",
-   "Considerations for choosing the parallel computing strategy",
-   "Getting type name at compile time",
-   "The Story of Villagers, Marbles and Oh, A Blockchain",
-   "Hierarchy of C++ needs - Boris Schaling",
-   "Exceptional C++",
-   "Dashboards to the Rescue",
-   "Optimizing the Emergent Structures of C++",
-   "There and Back Again: An Incremental C++ Modules Design",
-   "Threads and Locks must Go",
-   "EOS Software development for additive manufacturing",
-   "The Tragedy of the value based architecture",
-   "Yocto Cooker, a meta-buildtool for Yocto Project",
-   "Jami on i.MX6: bring fully distributed & secure comm. capabilities to embedded products",
-   "Algorithms from a Compiler Developer's Toolbox",
-   "C++ Concepts and Ranges",
-   "The Unexceptional Exceptions",
-   "Defensive Programming Done Right, Part II",
-   "Multicore Synchronization: The Lesser-Known Primitives",
-   "PMRs for performance in C++17/20",
-   "Reader-Writer Lock versus Mutex",
-   "Advanced Tools for Better Productivity",
-   "Grill The Committee",
-   "Windows, MacOS and Web: Lessons from Cross-platform Development @ think-cell",
-   "EA's Secret Weapon: Packages and Modules",
-   "C++ Standard Library",
-   "Eye tracking in code reviews",
-   "C++ Community Organizers",
-   "Common Webapp Vulnerabilities and What to Do About Them",
-   "Why in heaven is there no dependency management for C++?",
-   "Concurrency in Rust",
-   "There Are No Zero-cost Abstractions",
-   "'Scaling development of a large C++ project: Chromium' (Part 1)",
-   "ThinLTO Whole Program Optimization",
-   "Character Encodings Hate Us All",
-   "Asynchronous, yet readable, code",
-   "Exceptions Under the Spotlight",
-   "What I Talk About When I Talk About Cross Platform Development",
-   "WebThings : Your IoT with privacy by design",
-   "From STL to Ranges: Using Ranges Effectively",
-   "Type Punning in C++17: Avoiding Pun-defined Behavior",
-   "The core C++ guidelines for safer Code",
-   "The taming of the Software: C++, embedded... and more",
-   "Boost.Asio and Boost.Serialization, Part II",
-   "Introduction to C++ AMP (GPGPU Computing)",
-   "Developing embedded IOT device code using micropython: is this reasonable choice?",
-   "C++ Today: The Beast is Back",
-   "What Belongs In The C++ Standard Library?",
-   "Details Matter",
-   "Smart Output Iterators",
-   "Understanding compiler optimization",
-   "Better C++ Ranges",
-   "C++17, is it great or just OK...",
-   "A Zephyr Overview of C++11 (Part I)",
-   "Build Everything From Source: A Case Study in Fear",
-   "Turning Particle-Astro-Physicist-Hackers into Software Engineers",
-   "Taking the Plunge Towards CMake in Boost",
-   "Creating Debian-Based Embedded Systems using Debos",
-   "C++: Engineers Wanted, Programmers not so Much",
-   "The Effective Structured Data Marshalling/Demarshalling Through Boost.Fusion",
-   "0xBADC0DE",
-   "Enforce Inform Ignore Assume - Gradual Adoption of Contracts In Production Code",
-   "constexpr ALL the things!",
-   "Cloud Native C++: Modern architecture for (...)",
-   "Quickly and Effectively Testing Legacy C++ Code with Approval Tests",
-   "Best Practices for Concurrency",
-   "Back to Basics: The Abstract Machine",
-   "Compile-time tools supporting generic programming in C++",
-   "Sweating the Small Stuff: Brace Initialization, Unions and Enums",
-   "C++ Puzzlers",
-   "Mocking Framworks considered, harmful?!",
-   "Reasoning with function signatures",
-   "Mix tests and production code with doctest (...)",
-   "ODB, Advanced Weapons and Tactics",
-   "Easy::Jit: A Just-in-Time compilation library for C++",
-   "Sphinx won't bite you! Documenting Python code",
-   "Functional C++ For Fun And Profit",
-   "Type punning done right",
-   "Developing Blockchain Software",
-   "Back to Basics: Design Patterns",
-   "Accu Overload",
-   "Grill the Committee",
-   "Oh The Humanity!",
-   "Hello World from Scratch",
-   "C++ Mixins: Customization Through Compile Time Composition",
-   "Extending C++ with Co-Array semantics",
-   "How to mock in the 21st century",
-   "Networking TS Workshop (part 1 of 2)",
-   "Agility at scale with LeSS",
-   "DevOps is not only for IT players!",
-   "The Many Shades of reference_wrapper",
-   "Datum: A Compact Bitwise Copyable Variant Type",
-   "Expression Templates Everywhere with C++14 and Yap",
-   "Building Better Worlds: Developing a Procedural City Tool for Alien...",
-   "Parallelism in Modern C++",
-   "Lambdas from First Principles: A Whirlwind Tour of C++",
-   "The C++17 Parallel Algorithms Library and Beyond",
-   "The Bad Big Wolf Meets Riding Hood Little Red",
-   "Reactive Equations",
-   "We stopped teaching C",
-   "Scaling with C++11",
-   "Just-in-Time Compilation",
-   "Practical Type Erasure",
-   "Understanding value categories in C++",
-   "Using Concepts: C++ Design in a Concept World (part 2 of 2)",
-   "Code Analysis++",
-   "Implementing a Domain Specific Embedded Language with Boost Proto",
-   "'EMF4CPP Generating Ecore Models for C++' (C++ Lightning Talk)",
-   "What to Expect from a Next-Generation C++ Build System",
-   "Make Classes Great Again! (Using Concepts for Customization Points)",
-   "Type-safe Programming",
-   "Writing better embedded Software",
-   "Making Testing C++ Binaries Practical @ Facebook Scale: A CI Story",
-   "Using Spirit X3 to Write Parsers",
-   "std::shared_ptr/T/",
-   "Tools from the C++ Ecosystem to save a leg",
-   "No raw loops with no OS",
-   "Multiplatform C++",
-   "Three years of Rust - A look around",
-   "Embrace No-Paradigm Programming!",
-   "Read and write considered harmful",
-   "Software development - learning to walk again",
-   "Asynchronous Computation in C++",
-   "How to make Augmented Reality with Qt/QML and OpenCV ?",
-   "The Shape of a Program",
-   "What is the basic interface?",
-   "Lakos'20: The 'Dam' Book is Done!",
-   "Qt's moc and QMetaObject reflection",
-   "interview with The Silicon Valley coding  (Nicolo Valigi)",
-   "Embedded Android in real life",
-   "Effective Code Review",
-   "Dr Module and Sister #include",
-   "Type Deduction in C++14",
-   "Free your functions!",
-   "Effective replacement of dynamic polymorphism with std::variant",
-   "Boost Units Library for Correct Code",
-   "Easy to Use, Hard to Misuse: Declarative Style in C++",
-   "What did C++ do for Transactional Memory?",
-   "I just wanted to point to something!",
-   "The Internet of Things",
-   "The Hidden Secrets of Move Semantics",
-   "How to make your data structures wait-free for reads",
-   "Answering a Question From My Talk...",
-   "Regular Types and Why Do I Care ?",
-   "Introduction to brigand",
-   "A lock-free concurrent toolkit for hazard pointers",
-   "Functional reactive programming in C++",
-   "Creating Boost.Asio extensions",
-   "A little order",
-   "Automatic C++ source code generation with clang",
-   "A quick view into a compiler",
-   "The Nightmare of Move Semantics for Trivial Classes",
-   "Racing The File System",
-   "Practical Patterns with the Networking TS",
-   "C++20: The small things",
-   "C++ Integer Promotion is Completely Broken",
-   "Rethinking Exceptions",
-   "Macro-Free Testing With C++20",
-   "Embarcadero Case Study: Bringing CLANG/LLVM To Windows",
-   "Two practical applications of the Brigand TMP library",
-   "Pimp my Log()",
-   "Flowz: towards an EDSL for digital signal processing",
-   "Combining C++17 Features",
-   "Augmented reality dev journey",
-   "Security vulnerability tracking tools in Buildroot",
-   "Property-Based Declarative Containers",
-   "'Diagnosing Memory Leaks' (C++ Lightning Talk)",
-   "Using Concepts: C++ Design in a Concept World (part 1 of 2)",
-   "Secure Coding Best Practices",
-   "Introducing CHAP: A program to clarify dynamic memory usage in un-instrumented cores",
-   "179 range algorithms in less than an hour",
-   "The C++ ABI From the Ground Up",
-   "Implementing Physical Units Library for C++",
-   "An Overview of C++11/14, Part II",
-   "Things I learned from the static analyzer",
-   "SECURYZR LIGHT   The solution to fit with the design-for-security methodology",
-   "Lock-Free Programming (or, Juggling Razor Blades), Part I",
-   "Finding Nemo, or Evolution of a for Loop",
-   "Birth of Study Group 14...",
-   "There Is A Better Future",
-   "Designing Multithreaded Code for Scalability",
-   "Linear Algebra for the Standard C++ Library",
-   "Words of Wisdom",
-   "Introducing Microsoft's New Open Source Fuzzing Platform",
-   "Making New Friends",
-   "Pulling Visitors",
-   "Socializing with {fmt}",
-   "EDSL Infinity Wars: Mainstreaming Symbolic Computation",
-   "Async... oh, wait",
-   "Let's make a telegram bot with C++",
-   "Cross-Platform Apps with Dropbox's Djinni...",
-   "Going Multiplatform with Kotlin",
-   "my favorite C++ feature  - Meeting C++",
-   "High performance data structures in boost",
-   "Collaborative C++ Development with Visual Studio Code",
-   "Undefined behaviour in the STL",
-   "A Short Life span<> For a Regular Mess",
-   "Argument Passing, Core Guidelines, and Aliasing",
-   "Sooner rather than later",
-   "Agile the hard(ware) way",
-   "DynaMix: A New Take on Polymorphism",
-   "Enough x86 Assembly to Be Dangerous",
-   "How to manage your distributed electronic architecture?",
-   "Back to Basics: Const as a Promise",
-   "A New Open Source Virtual File System - running on Windows in User mode!",
-   "HPX: A C++11 parallel runtime system",
-   "Boundary Conditions",
-   "Inside Spirit X3: Redesigning Boost.Spirit for C++11",
-   "Proper Inheritance (part 2 of 2)",
-   "Fantastic Algorithms and Where To Find Them",
-   "Using Types Effectively",
-   "Diversity and Inclusion   2017",
-   "Wishful Thinking",
-   "Burnout",
-   "Pruning Error Messages From Your C++ Template Code",
-   "An Overview of Standard Ranges",
-   "'Empirical Unit Testing' (Virtual)",
-   "Os Matters",
-   "How we reason about procedural programs",
-   "Undefined Behavior in  (part 1 of 2)",
-   "A Glimpse of Trygve: From Class-oriented Programming to Real OO",
-   "De-fragmenting C++: Making Exceptions and RTTI More Affordable and Usable",
-   "Structured bindings uncovered",
-   "Command Line Parser Library   2017",
-   "Hacker's guide to Web Assembly",
-   "Homogenous Variadic Functions -  A Lightning-Library Approach in ~11.54 sec/LOC",
-   "Coroutines and C++ DSLs for Human Scale Concurrency",
-   "This Videogame Programmer Used the STL and You Will Never Guess What Happened Next",
-   "A perfect async RPC Framework?",
-   "The Three Little Dots and the Big Bad Lambdas",
-   "Learning and Teaching Modern C++",
-   "cppreference.com: documenting C++ one edit at a time",
-   "Mastering the Cell Broadband Engine via a Boost-based library",
-   "Make your programs more reliable with Fuzzing",
-   "opt-viewer: Inspecting compiler optimizations in high-level code",
-   "How C++20 changes the way we write code",
-   "Leveraging Modern C++ in Quantitative Finance",
-   "Multithreading is the answer. What was the question? Part II",
-   "Colonies, performance and why you should care",
-   "Fastware",
-   "C++ Modules & Large-Scale Development",
-   "C/C++ vs Security!",
-   "The C++ Memory Model",
-   "Awaiting for the ranges: C++17",
-   "Designing Concurrent C++ Applications",
-   "Beware of C++",
-   "Choosing the correct vectorization method",
-   "A Taste of Julia",
-   "Implementing 'static' control flow in C++14",
-   "Plenary: The Beauty and Power of 'Primitive' C++",
-   "Monolithic Delivery",
-   "Parallel Design Patterns and Stream Parallelism",
-   "No raw std::thread! - Live Tweet Analysis in C++",
-   "Property based testing in C++",
-   "Automatic Hybrid MPI+OpenMP Code Generation",
-   "Nano-coroutines to the Rescue! (Using Coroutines TS, of Course)",
-   "A Simple GUI Programming Setup for Beginners",
-   "Dragging C++ into the Modern era",
-   "Variadic and Variable Templates in C++14",
-   "Surprises in Object Lifetime",
-   "Seeing the bigger picture -- part I",
-   "Image Signal Processing (ISP) Drivers & How to Merge One Upstream",
-   "Fast numerical computation in C++: Expression Templates",
-   "Bringing clang-tidy magic to Visual Studio C++ Developers",
-   "Introduction to C++ Coroutines",
-   "C++ Code Smells",
-   "Writing Libraries is Terrible",
-   "QtCreator",
-   "An Approach to Dealing with Reference Types in the Generic Programming Paradigm",
-   "boost.tmp: Your DSL for Metaprogramming - Part 1 of 2",
-   "Fuzzing Class Interfaces for Generating and Running Tests with libFuzzer",
-   "Exceptions Demystified",
-   "When dependency hell freezes over",
-   "Parallelizing the Standard Template Library",
-   "C++20 Ranges: Code Expressively with Ranges",
-   "Rethinking the Way We Do Templates in C++ even more",
-   "Design Patterns for Handling/Reporting Errors in C++ - Parallel Algorithms & Executors",
-   "C++20 Coroutines: What's next?",
-   "Red teaming in Poland - test cases",
-   "AI in Healthcare",
-   "How C++ Debuggers work",
-   "Error Handling is Cancelling Operations",
-   "Ai4Prod: the ecosystem to bring AI in production through C++",
-   "Diving into a large, legacy code::base as a youngster",
-   "The Ongoing Saga of ISO-C++ Executors",
-   "SSD lifetime, data integrity and real-time: compromises and lessons learned",
-   "Back To Basics: Lambda Expressions",
-   "Better Code",
-   "Typing types at type level - Matthis Kruse",
-   "Seven Languages in 90 Minutes",
-   "What's My Object?",
-   "Undefined behaviour is awesome!",
-   "Driving Into the Future With Modern C++: A Look at Adaptive Autosar",
-   "Value Semantics: It ain't about the syntax!, Part II",
-   "Secure C++ Programming",
-   "Hardening Your Code",
-   "Hunting the mammoth in the modern age",
-   "What C++ Programmers Need to Know about Header <random>",
-   "5G programmable world",
-   "Better Algorithm Intuition",
-   "Striving for ultimate low latency",
-   "Regex in C++11 and Boost",
-   "Critical Code analysis with Observer Pattern",
-   "Yomm11: Open Multi-Methods for C++11",
-   "Expression Templates - Past, Present, Future (PART 1)",
-   "Beyond Sanitizers...",
-   "Bridging Languages Cross-Platform...",
-   "The Detection Idiom - a simpler way to SFINAE",
-   "Turtles! Hill climbing! Hammers! Paper bags!",
-   "Emotional Code",
-   "Project managing in Data Science teams",
-   "Web | C++' SLIDES FIXED",
-   "Designing APIs for performance",
-   "Read, Copy, Update, then what? RCU for non-kernel programmers",
-   "Understanding &&",
-   "Fun with Tuples",
-   "Migrating a C++03 library to C++11 case study: Wt 4",
-   "Understanding U-Boot Falcon Mode and adding support for new boards",
-   "Parallelizing the Standard Algorithms Library",
-   "C++ Concepts for ill-posed Inverse-Problems - David Frank",
-   "Great C++ is_trivial",
-   "Time brings all things to pass",
-   "CPU design effects",
-   "Calling Functions: A Tutorial",
-   "Oo Considered Harmful",
-   "How bad is meta-programming still today?",
-   "Meaningful casts",
-   "Swift Driven Development",
-   "STL Algorithms - How to Use Them and How to Write Your Own",
-   "Building conversational voice bots - lessons learned",
-   "Some Things C++ Does Right",
-   "Captioning and Translating C++ Videos- Part 2 of 2",
-   "C++ in Open Source Robotics",
-   "When Should You Give Two Things the Same Name?",
-   "Not Leaving Performance On The Jump Table",
-   "Template Shenanigans",
-   "Teaching old compilers new tricks",
-   "Emscripten and asm.js: C++'s role in the modern web",
-   "Story of autonomous drone racing",
-   "Octopus: A Policy-Driven Framework for CFD Simulations",
-   "The Research Software Engineer - a new career path in academia",
-   "hop: A Language to Design Function-Overload-Sets",
-   "Template Magic For Beginners",
-   "Can I change my organisation?",
-   "Multithreading is the answer. What was the question? Part I",
-   "Fastbuild",
-   "A First Look at Proto-0x",
-   "Thinking outside the synchronisation quadrant",
-   "map[Code, Performance] myMCU{?}",
    "Device Tree overlays and U-boot extension board management",
-   "Thread-safe and Thread-neutral Bags",
-   "Evolving array_view and string_view for safe C++ code",
-   "SG14 (the GameDev & low latency ISO C++ working group)",
-   "Boosting Libraries for TR2",
-   "Halide: A Language for Fast, Portable Computation on Images and Tensors",
-   "Software Engineer in the Machine Learning world",
-   "Library Approaches for Strong Type Aliases",
-   "Coroutine TS a new way of thinking",
-   "clang-useful: Building useful tools with LLVM and clang for fun and profit",
-   "Pattern Matching: A Sneak Peek",
-   "Things not to do in Python",
-   "Higher-order functions and function_ref",
-   "What We've Learned From the C++ Community",
-   "interview with Peter Hilton",
-   "Experience from Feature Toggling Platform (...)",
-   "Technical documentation is a backup so make sure it works @ CppEurope",
-   "Fancy Pointers for Fun and Profit",
-   "Where do you want to put the comma?",
-   "Experiences in Teaching Modern C++ to Beginners",
-   "Variants: Past, Present, and Future",
-   "Disambiguation: The Black Technology",
-   "Simplicity: Not Just For Beginners",
-   "Programming with less effort in C++...",
-   "What is the basic interface? (part 2 of 2)",
-   "What belongs in the C++ Standard Library",
-   "The Julia Language and C++: The Perfect Marriage?",
-   "Making C++ and the STL Work in the Linux / Windows Kernels",
-   "Designing for Efficient Cache Usage",
-   "Initializer Lists Are Broken, Let's Fix Them",
-   "Compile-time programming and reflection in C++20 and beyond",
-   "C++ in Huge AAA Games",
-   "Ryppl -- A New Platform for Boost Development",
-   "Points of Order",
-   "C++ Coroutines: Under the covers",
-   "A Possible Future of Embedded Software Development",
-   "Programming utilities for Unix-like systems in Python",
-   "Fighting Git Workflows",
-   "The Rough Road Towards Upgrading to C++ Modules",
-   "High Performance Code 201: Hybrid Data Structures",
-   "Functional Programming - Technical reasons to adapt",
-   "Template meta-programming: Why you must get it",
-   "Modernizing Legacy C++ Code",
-   "Refactoring C++ with Clang",
-   "UEFI Applications With Modern C++",
-   "Fundamentals of Type-Dependent Code Reuse in C++",
-   "Identifying Monoids: Exploiting Compositional Structure in Code",
-   "The Concepts of concepts",
-   "Generic Parallel Programming",
-   "Data oriented design in practice",
-   "What happened to...: Deprecated and Removed Features of C++",
-   "East const but constexpr West",
-   "C++ Modules and Large-Scale Development",
-   "Smart References: There and Back Again",
-   "How Compilers Reason About Exceptions",
-   "Practical Aspects of Microservice Architecture",
-   "AI: Actual Intelligence",
-   "Types Don't Know #",
-   "Text Formatting For a Future Range-Based Standard Library",
-   "Understanding Lvalues and Rvalues",
-   "Thoughts on Metaclasses",
-   "The Speed Game: Automated Trading Systems in C++",
-   "Building a C++ Reflection System",
-   "Understanding Boost.Build",
-   "Lock-free programming with modern C++",
-   "Retiring the Singleton Pattern",
-   "Raising the abstraction level",
-   "Using tasks to simplify concurrency in modern C++",
-   "Postmodern C++",
-   "Rich Code for Tiny Computers: A Simple Commodore 64 Game in C++17",
-   "JavaScript can get faster, WebAssembly can get even faster",
-   "Template Metaprogramming: Type Traits (part 1 of 2)",
-   "C++ Memory Model Meets High-Update-Rate Data Structures",
-   "OOP Is Dead, Long Live Data-oriented Design",
-   "Function default arguments: Slingshot or Shotgun?",
-   "High Performance Graphics and Text Rendering on the GPU",
-   "Initialization in modern C++",
-   "Serialization in C++ has never been easier! But wait, there's more",
-   "The Woos and Woes of Open-Source FPGA-Tools: A journey",
-   "Variadic Templates in C++11 / C++14 - An Introduction",
-   "Writing a reflection engine from scratch",
-   "Runtime Polymorphism: Back to the Basics",
-   "Writing Good C++14",
-   "From embedded Linux boat sensors to the cloud, a data journey",
-   "Selected C++11 Template Toffees From sqlpp11 (Part2)",
-   "Practical SIMD acceleration with Boost.SIMD",
-   "The Story of CyberDojo (so far)",
-   "Zephyr, retour d'experience sur une des fondation de Stimio SDK",
-   "C++20 Ranges in Practice",
-   "extern c: Talking to C Programmers about C++",
-   "Emulating the Nintendo 3DS: Generative & Declarative Programming in Action",
-   "Why I should run my applications in containers (or, at least, consider doing it)?",
-   "GPU processing of V4L2 live video on NVIDIA Jetson with CUDA",
-   "Interoperable AI: ONNX & ONNXRuntime in C++",
-   "Video Rendering on Frontend and Backend",
-   "My Four Year Bug",
-   "'The Abilities of Good Code' (Lightning Talk)",
-   "Organizational Leadership with Modern C++",
-   "Intro &  LEE 2020",
-   "Modern Template Metaprogramming: A Compendium, Part II",
-   "Towards Heterogeneous Programming in C++",
-   "Snakes Into Snake Oil - What Blockchains Are And Why They're Terrible",
-   "Developing a Linux driver in Rust for ARM",
-   "One Friend Ain't Enough",
-   "Bluff your way in x64 assembler",
-   "Debugging with LLVM XRay",
-   "Quickly Testing Qt Desktop Applications with Approval Tests",
-   "Safe Numerics",
-   "Clean Coders Hate (...) When You Use These (...) Tricks",
-   "Testdriven C++ with Catch",
-   "What is Telco Cloud",
-   "Open Source at Balena",
-   "Back to Basics: Templates (part 2 of 2)",
-   "Sane and Safe C++ Class Types",
-   "The Networking TS from Scratch: I/O Objects",
-   "Cache consistency and the C++ memory model: writing code to (...)",
-   "C++ Metaprogramming: A Paradigm Shift",
-   "AST Construction with the Universal Tree",
-   "These two ints have different types. A Data Oriented Design story",
-   "Sitting Considered Deadly",
-   "These 10 tricks that only library implementors know!",
-   "Standardese",
-   "Leaving The Dark Side - Developing a C++ Based Medical Device",
-   "Selected C++11 Template Toffees From sqlpp11 (Part1)",
-   "Boost.TMP: Your DSL for Metaprogramming",
-   "Call: A Library that Will Change the Way You Think about Function Invocations (1 of 2)",
-   "yomm2: Fast, Orthogonal, Open Methods in a Library",
-   "C++ is NOT a Hammer",
-   "interview with Alex Bolboaca",
-   "Better Code: Concurrency",
-   "Using C++20 Ranges Effectively",
-   "Taking Template Classes Further with Opaque Types & Generic NTTPs",
-   "Drinking from the Fire Hose: Keeping up with the evolving landscape of C++",
-   "I have to make a confession - Simon Renger",
-   "No more coffee breaks - reducing C/C++ project compilation time",
-   "C++, QML and static reflection",
-   "From Parsing to sema: Making Sense of Syntax Trees",
+   "Making Chaos Engineering Boring: Debunking Myths Hampering Adoption",
+   "Event-Driven Microservices, the Sense, the Non-sense and a Way Forward",
+   "A Multithreaded,Transaction-Based Locking Strategy for Containers",
    "The ABI challenge",
-   "The MLIR Framework: A Brief Introduction to Deep Learning Compilers",
-   "Spread the LOVE for IoT - How I created a full day IoT workshop",
-   "Numerical Differentiation ++",
-   "How Profile-Guided Optimization Makes Your Code Faster Without Any Code Changes",
-   "C++ Core Guidelines - Modernize your C++ Code Base",
-   "'How custom gdb commands help in C++ development' (Lightning Talk)",
-   "A short story about...",
-   "Come Stream with Me",
-   "Seventeenification: Porting sqlpp11 to C++17",
-   "Safe bool idiom",
-   "Pessimistic Programming",
-   "C++ metaprogramming: a paradigm shift",
-   "Specialising Linear Algebra for Geometry",
-   "A State of Compile Time Regular Expressions",
-   "What C++ is and what it will become",
-   "The Finer Points of Parameter Packs",
-   "lambda Demystified",
-   "Exception-Safe Code, Part II",
-   "C++ Hardware Register Access",
-   "StringViews, StringViews everywhere!",
-   "Executors for C++ - A Long Story ...",
-   "Heterogeneous Programming in C++ today",
-   "Faster than memcpy",
-   "Concepts vs Typeclasses vs Traits vs Protocols",
-   "The Basics of Lock-free Programming",
-   "A Short Life span For a Regular Mess",
-   "If I Had My 'Druthers: A Proposal for Improving the Containers in C++2x",
-   "Rethinking Pointers",
-   "Gamgee: A C++14 library for genomics data processing and analysis",
-   "Templator: Demo of a nice tool...",
-   "C++ Mixins",
-   "Closing the Gap between Rust and C++ Using Principles of Static Analysis",
-   "Improve your C++ with inspirations from other languages",
-   "Using Compile-time Code Generation to build an LLVM IR Pattern Matcher",
-   "interview with Jose Daniel Garcia",
-   "Freestanding C++ - Past, Present, and Future",
-   "Data-oriented design in practice",
-   "Exploring C++17 and Beyond",
-   "constexpr: C++ At Compile Time",
-   "What Else Has My Compiler Done For Me Lately?",
-   "Integrating Docker containers in Yocto",
-   "Getting Jiggy with Proto - Hands-on Tutorial on C++ EDSL Design",
-   "Anatomy of a Smart Pointer",
-   "Cyclomatic Complexity pmccabe as a Refactor Aid",
-   "Boost.Text: Fixing std::string, and Adding Unicode to Standard C++ (part 1)",
-   "Utilize your CPU power",
-   "Hey C, This Is What Performance Looks like",
-   "Can AI replace programmers?",
+   "C++ is NOT a Hammer",
+   "Objects vs Values: Value Oriented Programming in an Object Oriented World",
+   "Deprecating Simplicity 3.0",
+   "Boost your API Development with GraphQL & Prisma",
+   "Frictionless Allocators",
+   "How to Write Effective Documentation for C++ Libraries...",
+   "The Quest For A Better Crash",
    "Standardised Coroutine Concurrency in Python 3",
-   "Thinking Asynchronously: Designing Applications with Boost.Asio",
-   "How to Evolve Your Way Out of a Paper Bag",
-   "Counting Nanoseconds Microbenchmarking C++ Code",
-   "Designing OSTree based embedded Linux systems",
-   "Beyond the Floating Point Computations - What's New, What's Useful?",
-   "Touring the Tips of the Week Series",
-   "Abseil's Open Source Hashtables: 2 Years In",
-   "Techniques for Overloading any_invocable",
-   "Proper Inheritance",
-   "Advanced Levelization Techniques (part 1 of 3)",
-   "Fun with Boost.Hana",
-   "Writing robust code",
-   "How to initialize x from expression y",
-   "constexpr: Introduction",
-   "Design for Cost VS Cost of Design",
-   "Ways to Handle Non-blocking Returns in Message-passing Programs...",
-   "Making Allocators Work, Part I",
-   "Linux dynamic library versioning",
-   "Policy-based design in C++20",
-   "C++ Concepts",
-   "Writing Good C++14... By Default",
-   "CPU optimized data structures - more fun with assembler",
-   "Secure boot in embedded Linux systems",
-   "Migration of C++ Libraries to C++14",
-   "How bad is Meta-Programming still today?",
-   "std variant and the power of pattern matching",
-   "What Neighborhoods Owe Each Other: Rights, Duties, Immunities & Disabilities of Functions & Objects",
-   "Undefined Behavior in  (part 2 of 2)",
-   "Welcome Words",
-   "Building for the Best of Us: Design and Development with Kids in Mind",
-   "Cloud Business Solution Increasing Supply Chain Profitability",
-   "Lifetime analysis for everyone",
-   "Programming in the Large With C++ 20",
-   "What a View! Building Your Own (Lazy) Range Adaptors (part 1 of 2)",
-   "What are hash trees? and why you should care",
-   "How to use correctly the const qualifier?",
-   "Efficient GPU Programming with Modern C++",
-   "DevOps transformation - It's not just an R&D thing",
-   "These aren't the COM Objects you're looking for",
-   "Software Visualization: The humane solution",
-   "Dependency management in C++",
-   "C++ template metaprogramming, a practical approach",
-   "Bringing Clean Code to large scale legacy Applications",
-   "C++, Abstract Algebra and Practical Applications",
-   "Eye tracking / reading",
-   "Functional programming in C++",
-   "TMI on UDLs: Mechanics, Uses, and Abuses of User-Defined Literals",
-   "The Power of Reflection with Facebook's Thrift",
-   "Improving Readability With Class Template Argument Deduction",
-   "Test Driven C++ with Catch",
-   "Initialisation in modern C++",
-   "Hate yourself? Keep using Python 2",
-   "The Fiber Library",
-   "A Relaxed Guide to memory_order_relaxed",
-   "Secure by Design - Security Principles for the Working Architect",
-   "If You Can't Open It, You Don't Own It",
-   "Modern C++ Interfaces...",
-   "New Build System for New C++",
-   "Embedded & C++",
-   "Lambda? You Keep Using that Letter",
-   "The performance Addict's Toolbox",
-   "Now What? A vignette in three parts",
-   "Using C++ to Connect to Web Services",
-   "Unicode in C++",
-   "Composite Arithmetic Types Are > the + of Their Parts",
-   "C++ libraries for daily use @ CppEurope 2020",
-   "Selected C++11 Template Toffees From sqlpp11 (Part3)",
-   "The Numerical Template Toolbox for High Performance Computing",
-   "Large-Scale C++: Advanced Levelization Techniques, Part II",
-   "Software is feeding the World",
-   "Faster Complex Numbers",
-   "Better Code: Relationships",
-   "Good Concepts",
-   "Standard Slam",
-   "interview with Clare Macrae",
-   "Local (Arena) Memory Allocators Part 1",
-   "Functional Geometry: Producing Pure Spaces",
-   "Site Reliability Engineering",
-   "Considerations for choosing the parallel computing",
-   "static_if in C++14",
-   "Implementing a web game in C++14",
-   "Rethinking Usage of C++ Templates",
-   "The Ethics of Software - some practical considerations",
-   "Making C++ easier, faster, safer (part 2)",
-   "Future C++1x proposals",
-   "Visualize Template Instantiations - Understand your Template Bugs",
-   "Diversity & Inclusivity in Tech",
-   "20 years of extending C++: What can we learn?",
-   "C++ on its way to exascale and beyond",
-   "Frozen data structures in C++14",
-   "generic-programming-with-concepts",
-   "Dynamic C++",
-   "Haxe: An understated powerhouse for software development",
-   "Strong types for strong interfaces",
-   "'Almost no raw loops' (C++ Beginner's Lightning Talk)",
-   "A system for resource deadlock prevention using intrusive dynamic analysis",
-   "Pruning Error Messages From C++ Template Code",
-   "#include <os>: from bootloader to REST API with the new C++",
-   "How to pass (my) candidate screening",
+   "Effective Practices for Engineering Teams",
+   "Things not to do in Python",
+   "clang-useful: Building useful tools with LLVM and clang for fun and profit",
+   "Responsible AI for Engineers",
+   "Azure Sphere",
+   "Enough x86 Assembly to Be Dangerous",
+   "Exhuming 'Castlequest'",
+   "Easy Binary Compatible C++ Interfaces Across Compilers",
+   "Is All Executable Code Added to a Container Image at Build Time? (Q2)",
+   "What Do We Mean When We Say Nothing At All?",
    "Lesson to Learn   2017",
-   "Core principles and creating lightweight design",
-   "Monitoring: Turning Noise into Signal",
-   "Getting customized runtime hardware details at compile-time for (...)",
-   "function_ref",
-   "Recreational C++",
-   "10 years of Poco C++ Libraries",
-   "Stop Teaching C",
-   "Fewer bugs",
-   "Boost statechart visualisation - Antons Jelkins",
-   "Benchmarking C++ Code",
-   "I Just Wanted a Random Integer!",
-   "Programming with Contracts in C++20",
-   "'Design Patterns in C++ Done Right' (Lightning Talk)",
-   "libcppa -- Designing an Actor Semantic for C++11",
-   "A deep dive into the Gilded Rose",
-   "std::allocator...",
-   "Modern embedded APIs...",
-   "The Optimization of a Boost.Asio-based Networking Server",
    "Using Units, Qantities, and Dimensions in C++14",
-   "A Test a Day Keeps Your Manager Away!",
-   "List",
-   "Exception-Safe Coding in C++ (Part I)",
-   "C++ Modules",
-   "A Discussion of Selected Vienna-Libraries for Computational Science",
-   "Fishbowl  - Working on Large Code Bases",
-   "Named Arguments from Scratch",
-   "Alices adventures in Template Land",
-   "ConceptClang: An Implementation Model for C++ Concepts",
-   "MPark.Patterns: Pattern Matching in C++",
-   "State Machines Battlefield - Naive vs STL vs Boost",
-   "Algorithm Intuition",
-   "C++ Dependency Management the Meson Way",
-   "Elegant Filesystem Interactions in Python using pathlib",
-   "Update on C++ Core Guidelines Lifetime Analysis",
-   "Introduction to Qt 3D",
-   "CUDA Kernels with C++",
-   "Safe Numerics Library",
-   "There is a new future",
-   "7 reasons to move your C++ code to Visual Studio 2017",
-   "Modern Template Metaprogramming: A Compendium, Part I",
-   "Refactoring Superpowers: Make Your C++ IDE Do Your Work, Faster and More Safely",
-   "Progress on Contract Support for C++17",
-   "How does Git actually work?",
-   "The Continuing Future of C++ Concurrency",
-   "Formatting floating-point numbers",
-   "Allocators in C++11",
-   "Work Stealing",
-   "Another fundamental shift in Parallelism Paradigm?",
-   "Parsing C++",
-   "Sane and Safe C++ Classes",
-   "Using Spirit X3, Part I",
-   "Design Patterns for Hardware Packet Processing on FPGAs",
-   "Practical Techniques for Improving C++ Build Times",
-   "Optimizing Embedded Hard Real-Time Code in C++",
-   "If You're Happy and You Know It (Inside the Mind of a Developer)",
+   "Atomic's memory orders, what for?",
+   "Metaparse -- Compile-time parsing with template metaprogramming",
+   "Undefined Behavior in  (part 2 of 2)",
+   "Monoids, Monads, and Applicative Functors: Repeated Software Patterns",
+   "tuple<>: What's New and How it Works",
+   "Build a Q&A Bot with DeepLearning4J",
+   "Human-Computer Partnerships",
+   "Swearing, Nudity and Other Vulnerable Positions",
+   "Using Functional Programming Patterns...",
+   "How to test static_assert?",
+   "Functional Reactive Programming - Cleanly Abstracted Interactivity",
+   "Experimental comparison...",
+   "Microcontrollers in Micro-increments A Test-driven C++ Workflow",
+   "Introduction to Stateful Stream Processing with Apache Flink",
+   "Why you don't see Blockchain in your Everyday Life...yet",
+   "An inspiring introduction into Template Meta Programming",
+   "Why I love Kubernetes Failure Stories and You Should Too",
+   "Practical C++11: What I Learned Adding C++11 Support to ODB",
+   "Value Semantics: Fast, Safe, and Correct by Default",
+   "LLVM: A Modern, Open C++ Toolchain",
+   "Parallel Design Patterns and Stream Parallelism",
+   "Computers are Stupid: Protecting 'AI' from Itself",
+   "Writing robust code",
+   "Making Microservices Micro with Istio and Kubernetes",
+   "The most important API design principle",
+   "Strong types for strong interfaces",
+   "Sqlpp11, An EDSL For Type-Safe SQL In C++11",
+   "Sitting Considered Deadly",
+   "C++11 use in Qt5: Challanges and Solutions",
+   "The Badlands of C++: Professional Game Development",
+   "Compiler Explorer: Behind The Scenes",
+   "Deprecating Simplicity",
+   "Chandler Carruth - -style extended Q&A / AmA",
+   "Seventeenification: Porting sqlpp11 to C++17",
+   "Modern embedded APIs...",
+   "Who includes me?",
+   "Making Mutants Work for You",
+   "Practical Cross-Platform Mobile C++ Development",
+   "Software development - learning to walk again",
+   "Code samples that actually compile",
+   "Function default arguments: Slingshot or Shotgun?",
+   "Calling Functions: A Tutorial",
+   "The Shapes of Multi-Dimensional Arrays",
+   "The Ethics of Software - some practical considerations",
+   "C++11's Quiet Little Gem: <system_error>",
+   "The taming of the Software: C++, embedded... and more",
+   "map[Code, Performance] myMCU{?}",
    "Benchmarking C++, From video games to algorithmic trading",
+   "Motivated reasoning",
+   "0xBADC0DE",
+   "GameDays: Practice Thoughtful Chaos Engineering",
+   "Battle of the Circuit Breakers: Resilience4J vs Istio",
+   "Expression Templates: Past, Present, Future (PART 3)",
+   "Secure boot in embedded Linux systems",
+   "C++20 Ranges: Code Expressively with Ranges",
+   "Inside Fresh Paint - A C++ + XAML + DirectX Windows Store App",
+   "Refactoring Trust on Your Team",
+   "interview with Hartmut Kaiser and Scott Meyers",
+   "Abstraction by the rule of 10 - Guy Davidson",
+   "40 Jenkins Features & Plugins You Wished You had Known about Before!",
+   "Artificial Intelligence Reloaded - AI Apps in the Industry",
+   "Yocto Cooker, a meta-buildtool for Yocto Project",
+   "Writing a reflection engine from scratch",
+   "Concepts: The Future of Generic Programming (the future is here)",
+   "How to do practical Data Science? From real-world examples (...)",
+   "SYCL building blocks for C++ libraries",
+   "Building IoT solutions using Contiki-NG and AWS",
+   "Organization: A Tool for Software Architects",
+   "How Software can be Thought of as a Force for Good",
+   "Local (Arena) Memory Allocators Part 1",
+   "Algorithms from a Compiler Developer's Toolbox",
+   "Asynchronous Computation in C++",
+   "Governing Agile Delivery",
+   "Another fundamental shift in Parallelism Paradigm?",
+   "What Do You Mean?",
+   "Introduction to C++ AMP (GPGPU Computing)",
+   "Nano-coroutines to the Rescue! (Using Coroutines TS, of Course)",
+   "Great C++ is_trivial",
+   "How We Used To Be",
+   "IoT Compute at the Edge with AWS Greengrass",
+   "Serverless: Five Key Things you need to Know",
+   "Correct by Construction: APIs That Are Easy to Use and Hard to Misuse",
+   "The Design of a New C++ Build Toolchain",
+   "Putting Coroutines to Work with the Windows Runtime",
+   "A Possible Future of Embedded Software Development",
+   "Effective CMake",
+   "Scaling with C++11",
+   "Concepts As She Is Spoke",
+   "OOP Is Dead, Long Live Data-oriented Design",
+   "Multi-Threading With C++11 and Boost",
+   "Low Latency GPGPU - Matheus Vitti Santos",
+   "Large-Scale C++: Advanced Levelization Techniques, Part I",
+   "Practical API Design",
+   "Designing XML API for Modern C++",
+   "No Return: Beyond Transactions in Code and Life",
+   "You Really Don't Need All that JavaScript, I Promise",
+   "Can software developers draw pictures?",
+   "Touring the Tips of the Week Series",
+   "From nothing to too much: growing a tech community in the East of England",
+   "What the committee did next!",
+   "How to answer 'why will yours succeed, when X, Y, and Z have failed?'",
+   "Typegrind - Type preserving heap profiler for C++",
+   "You Really Don't Need All That JavaScript, I Promise",
+   "The core C++ guidelines for safer Code",
+   "The Future of the Web",
+   "A linear algebra library for C++23",
+   "Pragmatic Type Erasure: Solving OOP Problems w/ Elegant Design Pattern",
+   "Multithreading is the answer. What is the question? (part 1 of 2)",
+   "Undefined behaviour is awesome!",
+   "JavaScript can get faster, WebAssembly can get even faster",
+   "Generic Programming And the Boost Graph Library",
+   "The World after Microservice Migration w/ Service Mesh & Contract Testing",
+   "Ranges and Iterators for numerical problems",
+   "Evolving array_view and string_view for safe C++ code",
+   "Good Enough Architecture",
+   "What We Left Behind - 10 Valuable Skills From The 1990s",
+   "Cloud Native is about Culture, not Containers",
+   "C++: Engineers Wanted, Programmers not so Much",
+   "All The World's A Staging Server",
+   "Deeply Embedded C++",
+   "Can Quantum Computing Help to Unlock the Secrets of the Universe?",
+   "Data Structure Visualizers in Visual Studio 2010",
+   "Generators, Coroutines and Other Brain Unrolling Sweetness",
+   "Are Your Builds Running Separately from Your Production Cluster? (Q1)",
+   "A Browse Through ES",
+   "What is an ABI and Why is Breaking it a Problem?",
+   "The Promise and Limitations of AI",
+   "Phoenix V3 -- An Overview",
+   "The Power of Reflection with Facebook's Thrift",
+   "Asynchronous IO with Boost.Asio",
+   "C++14: Through the Looking Glass",
+   "Contract Programming: What, Why, and How?",
+   "Metaprogramming for dummies",
+   "Faces of undefined behavior",
+   "Unwinding the Stack: Exploring How C++ Exceptions Work on Windows",
+   "Collaborative C++ Development with Visual Studio Code",
+   "Local ('Arena') Memory Allocators",
+   "Welcome (Marco Arena) +  'WARNING: std::find is broken'",
+   "Async sequences and algorithms to compose them",
+   "Testing Battle.net (before deploying to millions of players)",
+   "What are hash trees? and why you should care",
+   "The Networking TS in Practice: Testable, Composable Asynchronous I/O in C++",
+   "Upgrade from 'permissive C++' to 'modern C++' with Visual Studio",
+   "A system for resource deadlock prevention using intrusive dynamic analysis",
+   "Fueling the Quantum Application Era with the Cloud",
+   "Seeing the bigger picture -- part I",
+   "Don't Walk Away from Complexity, Run",
+   "Efficiency with Algorithms, Performance with Data Structures",
+   "UT - C++20 Unit Testing Framework",
+   "Test Driven C++ with Catch",
+   "Data-Oriented Design for Object-Oriented Programmers",
+   "Designing APIs for 150 Million Orders",
+   "Burnout",
+   "Static Analysis and C++: More Than Lint",
+   "Less Code = More Software",
+   "Implementing C++ Semantics in Python",
+   "Template Metaprogramming: Type Traits (part 2 of 2)",
+   "Modern C++ tips & trics",
+   "cppreference.com: documenting C++ one edit at a time",
+   "Software Is Details",
+   "Using Spirit X3 to Write Parsers",
+   "Politics & Hierarchy: How We Create It & How to Stop",
+   "Thinking Outside the Synchronisation Quadrant",
+   "From (Big) Data Mess to Data as an Innovation Enabler",
+   "The Science of Unit Tests",
+   "Numerical Weather Prediction: Facing the Future with C++",
+   "Clean Integral Code",
+   "Lifetime and Usage of Global, Thread-local, and Static Data",
+   "20 years of extending C++: What can we learn?",
+   "sqlpp11, An SQL Library Worthy Of Modern C++",
+   "Enforce Inform Ignore Assume - Gradual Adoption of Contracts In Production Code",
+   "Monolith Decomposition Patterns",
+   "A Physical Units Library For the Next C++",
+   "C++20: All the small things",
+   "An Engineer's Guide To Burnout And How To Hack It",
+   "GoLand Tips & Tricks",
+   "Introduction to RAUC",
+   "An inspiring introduction to template metaprogramming",
+   "Rolling Your Own Circuit Simulator",
+   "Monitoring: Turning Noise into Signal",
+   "How to Refactor Millions of Line of Code Without Alienating your Colleagues",
+   "How I learned to Stop Worrying and Love the C++ Type System",
+   "Parallelizing the C++ Standard Template Library",
+   "Introduction to C++ Coroutines",
+   "Building efficient I/O intensive applications with Seastar",
+   "Inside a static analyzer: type system",
+   "Inference in C++: The big picture",
+   "interview with Peter Hilton",
+   "10 years of Poco C++ Libraries",
+   "Nullable Reference Types in C# 8",
+   "Undefined Behavior in C++: What is it, and why do you care?",
+   "Threads and Locks must Go",
+   "Use Voice Recognition with Alexa to Control Your Home",
+   "Linear Algebra for the Standard C++ Library",
+   "Free your functions!",
+   "STL Algorithms - How to Use Them and How to Write Your Own",
+   "Building a Blockchain in Erlang",
+   "The Mathematical Underpinnings of Promises in C++",
+   "Compile-time tools supporting generic programming in C++",
+   "Making Sense Of Microservices",
+   "RaftLib: Simpler Parallel Programming",
+   "Leveraging Serverless in Full-stack Development",
+   "Back to Basics: Class Layout",
+   "Simplest Safe Integers",
+   "Product Types for C++2x",
+   "Extending and Wrapping C and C++ with Python",
+   "Breaking Language Barriers with AI",
+   "My Little *this Deduction: Friendship is ... Uniform?",
+   "Intel's C++ STM Compiler and Transactional Language Constructs for C++",
+   "Welcome to Serverless 2.0",
+   "C++11 Library Design",
+   "EA's Secret Weapon: Packages and Modules",
+   "Writing A Python Interpreter for Fun & Profit",
+   "Herb Sutter",
+   "The Future is Istio",
+   "Embedded Systems 101",
+   "Leadership During Chaos",
+   "QtCreator",
+   "Smart References: There and Back Again",
+   "TMI on UDLs: Mechanics, Uses, and Abuses of User-Defined Literals",
+   "Thinking in coroutines",
+   "Work Stealing",
+   "Don't Try This at Work -- Low Level Threading with C++11",
+   "Latest and Greatest from the Visual Studio Family for C++ Developers",
+   "Gradual typing of production applications",
+   "Thinking Fast and Slow",
+   "Dr Module and Sister #include",
+   "Embedded Application Development (for Web Developers)",
+   "Fireside Chat About OAuth 2.0 @ Aaron Parecki & Eric Johnson @ GOTO 2021",
+   "The next big Thing",
+   "Interactive, Introspected C++ at CERN",
+   "#include <os>: from bootloader to REST API with the new C++",
+   "DevSecOps, Containers & Shift-Left, are those just Buzzwords?",
+   "Diving into SWUpdate: adding new platform support with Yocto/OE",
+   "Clean Coders Hate (...) When You Use These (...) Tricks",
+   "Intel® Graphics Technology for general purpose computing",
+   "ODB, Advanced Weapons and Tactics",
+   "Axiomatic Programming: From Euclidean Deductions to C++ Templates and Beyond",
+   "Cache consistency and the C++ memory model: writing code to (...)",
+   "Modules are coming",
+   "Welcome Ale Contenti, VC11 and Beyond with Steve Teixeira and Tarek Madkour",
+   "Augmented Reality and Machine Learning Cooperation on Mobile",
+   "Meta Polymorphism",
+   "Why in heaven is there no dependency management for C++?",
+   "3D Face Tracking and Reconstruction using Modern C++",
+   "Applying functional programming in code design",
+   "A Tutorial Introduction to C++11/14 - Part II",
+   "Writing Libraries is Terrible",
+   "Back to Basics: Lambdas from Scratch",
+   "Helping Developers to Help Each Other",
+   "A Cartoon Quest: New Adventures for WebAssembly",
+   "Investigation and Creation of Software",
+   "Regex in C++11 and Boost",
+   "Undefined Behavior and Compiler Optimizations",
+   "Functional Programming, a pragmatic approach",
+   "The evolving search for effective C++",
+   "Expression Templates for Efficient, Generic Finance Code",
+   "Type-safe configuration library",
+   "Boost.Units",
+   "C++ Multi-dimensional Arrays...",
+   "Emulating the Nintendo 3DS: Generative & Declarative Programming in Action",
+   "Programming with C++ Modules: Guide for the Working",
+   "John Deere Operations Center Development Journey & Ecosystems",
+   "Introduction to Quantum Computing",
+   "Rust: Hack Without Fear!",
+   "Scaling development of a large C++ project: Chromium (Part 2)",
+   "Variations on Variant",
+   "Experience Report - Teaching Kids to Code for 10 Years",
+   "LauncherOne rocket with C++ engine",
+   "Depression and Burnout: the Hardest Refactor I've ever done",
+   "Threads and shared variables",
+   "Build Agility with Design Sprints",
+   "Scaling up an iOS Codebase",
+   "OO Considered Harmful",
+   "7 reasons to move your C++ code to Visual Studio 2017",
+   "How Python Wins New Friends",
+   "The C++ Reflection TS",
+   "A Crash Course in Open Source Licensing",
+   "Value-oriented design in an object-oriented system",
+   "Memory and C++ debugging at Electronic Arts",
+   "Iterators May Stay",
+   "Migration of C++ Libraries to C++14",
+   "Transactional Memory in Practice",
+   "Using Kubernetes for Machine Learning Frameworks",
+   "Clean code in Go",
+   "Building a Tech Community in the East from (almost) Nothing",
+   "Hardening Your Code",
+   "OAuth and OpenID Connect in Plain English",
+   "Introduction to Azure Sphere",
+   "The C++20 Firehose Talk",
+   "Macro-Free Testing With C++20",
+   "Beyond C++17 (Part 2 of N)",
+   "Multithreading is the answer. What was the question? Part II",
+   "CPU optimized data structures - more fun with assembler",
+   "How to build architecture of your system",
+   "Interoperable AI: ONNX & ONNXRuntime in C++",
+   "Embracing Standard C++ for the Windows Runtime",
+   "Engineering Software Integral Types",
+   "The missing piece of the continuous integration puzzle",
+   "Coworking Spaces - a Journey through the Concepts",
+   "Why and How we fixed std::thread by std::jthread",
+   "The Hitchhiker's Guide to Faster Builds",
+   "A New Open Source Virtual File System - running on Windows in User mode!",
+   "Testdriven C++ with Catch",
+   "A Practical-ish Introduction to Data Science",
+   "Programming with Contracts in C++20",
+   "How Profile-Guided Optimization Makes Your Code Faster Without Any Code Changes",
+   "Uncoupling",
+   "Let's make a web match-3 game in C++14",
+   "Simplicity Not Just for Beginners (Part 1)",
+   "Founding C++ User Groups",
+   "Five Cloud Services Every Developer Should Know",
+   "Getting Jiggy with Proto - Hands-on Tutorial on C++ EDSL Design",
+   "AAAARGH!? Adopting Almost Always Auto Reinforces Good Habits!?",
+   "Prioritizing Technical Debt as if Time and Money Matters",
+   "Boost Units Library for Correct Code",
+   "Classes With Many Fields",
+   "5 Things I figured out while ...   2017",
+   "Goodbye metaprogramming, and hello functional",
+   "Taskflow: A Heterogeneous Task Graph Programming System with Control Flow",
+   "Implementing tuple in C++17",
+   "C++ Performance in Practice: Align, Vectorise, Cache, Jump!",
+   "Audio in standard C++' -",
+   "Mostly Invalid: flat_map, Exception Guarantees, and the STL",
+   "Unicode in C++",
+   "A Food pairing device, with offline AI and edge computing",
+   "Programming in the Large With C++ 20",
+   "Delivering AI on Code: Live Demo of source{d}",
+   "EMF4CPP Generating Ecore Models for C++",
+   "Variations on variants",
+   "3 Common Pitfalls in Microservice Integration & How to Avoid Them",
+   "Modern C++ as Concurrent Assembly",
+   "Hacker's guide to Web Assembly",
+   "What We've Learned From the C++ Community",
+   "Easy::Jit: A Just-in-Time compilation library for C++",
+   "An Approach to Dealing with Reference Types in the Generic Programming Paradigm",
+   "Waltzing with Branches",
+   "Initialisation in modern C++",
+   "What's New In The C++14 Library",
+   "Writing a C++20 Module",
+   "Moving Fast At Scale",
+   "Compiled C++ Coding Standards",
+   "Eye tracking in code reviews",
+   "C++ in Huge AAA Games",
+   "Modern User Interfaces for C++",
+   "C++20 Coroutines: Introduction",
+   "C++ template metaprogramming, a practical approach",
+   "How to make your data structures wait-free for reads",
+   "STL Algorithms in Action",
+   "Deliver Results, Not Just Releases",
+   "Taking Back 'Software Engineering'",
+   "Go for DevOps, Go for microservices, and what Go is (...)",
+   "I'm falling in love with Globals",
+   "Lock-Free Programming (or, Juggling Razor Blades), Part II",
+   "C++ for cross-platform VR",
+   "Impostor Syndrome",
+   "Java Current and Future",
+   "ODB, an ORM for C++(11)",
+   "What does it mean to trust your boot process?",
+   "Policy-based design in C++20",
+   "(Deep) Learning to Fly",
+   "SSL/TLS for Mortals",
+   "An Introduction to the Proposed Coroutine Support for C++",
+   "Comparison is not simple, but it can be simpler",
    "constexpr ALL the Things!",
-   "Why algebraic data types are important",
-   "Preparing the C++11 Library AFIO for Boost Peer Review",
-   "Range Algorithms, Views and Actions: A Comprehensive Guide",
-   "Towards Painless Testing",
-   "'Variations on Variant' (Virtual)",
-   "C++ is like Javascript",
-   "Dependency Injection - a 25-dollar term for a 5-cent concept",
+   "Why iterators got it all wrong",
+   "Using build2, C++ Build Toolchain",
+   "Qt as a C++ Framework: History, Present State and Future",
+   "Five Things Every Developer Should Know about Software Architecture",
+   "Bringing Magic To Microservice Architecture Development",
+   "Code + AI: Will Robots Take Our Coding Jobs? ML Applied to Programming",
+   "Developing embedded IOT device code using micropython: is this reasonable choice?",
+   "Practical Cloud Native: What Works, What Doesn't",
+   "Keep your code sane with clang-tidy",
+   "Get Off My Thread: Techniques for Moving Work to Background Threads",
+   "Thinking outside the synchronisation quadrant",
+   "Boost.Graph for Beginners",
+   "The View from a Standard Library Implementor",
+   "Agility at scale with LeSS",
+   "The Set of Natural Code",
+   "Expect the expected",
+   "Introduction to Micronaut",
+   "Boost.Asio and Boost.Serialization, Part II",
+   "Disambiguation: The Black Technology",
+   "CI Your Presentation for Fun and Profit",
+   "Behaviour-Driven Development, BDD, with Cucumber",
+   "Fortransformers: A Field Study",
+   "Generic Programming with Concepts Lite, Part I",
+   "Persuasive Design",
+   "Back to Basics: Move Semantics (part 1 of 2)",
+   "Linux dynamic library versioning",
+   "Is std::function really the best we can do?",
+   "Simplest Strong Typing instead of Language Proposal ( P0109 )",
+   "Declarative thinking, declarative practice",
+   "What did I learn teaching C++ to beginners",
+   "Compile Time Regular Expressions with A Deterministic Finite Automaton",
+   "Refactoring hacked",
+   "Programming utilities for Unix-like systems in Python",
+   "A Quantum Computing Lab Tour at D-Wave",
+   "The Dawn of a New Error",
+   "Magic & secrets",
+   "Type punning done right",
+   "Software Engineer in the Machine Learning world",
+   "Game Engine API Design",
+   "Modern CMake for modular design",
+   "From Flying Cars to Humans on Mars",
+   "Visualize Template Instantiations - Understand your Template Bugs",
+   "Consistent Comparison in C++20",
+   "The Shape of a Program",
+   "Implementing A Modern C++ MQTT Client for Embedded Devices",
+   "Web | C++' SLIDES FIXED",
+   "What is a Good Code",
+   "Back to Basics: Pointers and Memory",
    "What's new about fake news?",
    "Practical Memory Pool Based Allocators For Modern C++",
-   "The many faces of Number -- String conversions",
-   "Modern techniques for keeping your code DRY",
-   "The Implementation of Value Types",
-   "Speeding up code with C++17 Polymorphic Memory Resources",
-   "Compiling Multi-Million Line C++ Code Bases Effortlessly with the Meson Build System",
-   "Reducing Template Compilation Overhead, Using  C++11, 14, 17, and 20.",
-   "Introduction to Modern C++ Techniques (Part I)",
-   "What is Open Source, and Why Should You Care?",
-   "Modern C++ Design reloaded",
-   "UT - C++20 Unit Testing Framework",
-   "Efficient data aggregation with Fenwick trees",
-   "Calling Functions",
-   "C++ SIMD parallelism with Intel Cilk Plus and OpenMP 4.0",
-   "Latest and Greatest from the Visual Studio Family for C++ Developers",
-   "noexcept considered harmful ???",
-   "Create your own Refactoring Tool in Clang",
-   "Gradual typing of production applications",
-   "Finding Bugs with Clang at Compile and Run Time",
-   "The Quest For A Better Crash",
-   "Reuse bill",
-   "C++17 Features",
-   "Overloading the Member Access Operator",
-   "OO Considered Harmful",
-   "When a Microsecond Is an Eternity: High Performance Trading Systems in C++",
-   "Become a GDB Power User",
-   "std::optional and the m word",
-   "Spirit.Qi in the Real World",
-   "Asynchronous Programming in Modern C++",
-   "C++ in the Audio Industry",
-   "Executors: The Art of Generating Composable APIs",
-   "How Kotlin makes your Java code better",
-   "Interactive C++: Meet Jupyter / Cling",
-   "Expression Templates Revisited",
-   "Multithreading is the answer. What is the question? (part 2 of 2)",
-   "GDB - A Lot More Than You Knew",
-   "Game Engine API Design",
-   "Designing XML API for Modern C++",
-   "Type Based Template Metaprogramming is Not Dead",
-   "Without Warning: Keeping the Noise Down in Legacy Code Builds",
-   "C++ Use in High Performance Computing Within DOE: Past and Future",
-   "Implementation of a component-based entity system in modern C++",
-   "Extending clang-tidy in the Present and in the Future",
-   "Why and How we fixed std::thread by std::jthread",
-   "Effective Qt ( edition)",
-   "Lambda Functions",
-   "The art of keeping your project from falling apart",
-   "Haskell -- The Pseudocode Language for C++ Template Metaprogramming (Part 2)",
-   "Rcpp: Seamless R and C++ Integration",
-   "Make Friends with the Clang Static Analysis Tools",
-   "Co- and Contra-: Adding a Little Variance",
-   "Competitive Advantage with D",
-   "Advanced Levelization Techniques (part 2 of 3)",
-   "How to answer 'why will yours succeed, when X, Y, and Z have failed?'",
-   "Lightning Strikes!",
-   "Semantic Sugar: Tips for Effective Template Library APIs",
-   "Survey of Multi-Threaded Programming Support in C++11 and Boost",
-   "Making Iterators, Views and Containers Easier to Write with Boost.STLInterfaces",
-   "The State of Package Management in C++",
-   "The Networking TS in Practice: Testable, Composable Asynchronous I/O in C++",
-   "STL Algorithms - why you should use them, and how to write your own",
-   "An alternative design for C++20 customization points",
-   "Choosing the Right Integer Types in C and C++",
-   "Back to Basics: Exception Handling and Exception Safety",
-   "The Clacks in Discworld and Roundworld",
-   "Atomic's memory orders, what for?",
-   "await 2.0: Stackless Resumable Functions",
-   "Boostache Exposed : the internals of Boost's template engine",
-   "Thoughts on a more powerful and simpler C++ (5 of N)",
-   "The Anatomy of an Exploit",
-   "OpenMP for better high-level parallelism, not just for High Performance Computing",
-   "C++17's std::pmr Comes With a Cost",
-   "Rapid Prototyping in C++",
-   "CopperSpice: A Pure C++ GUI Library",
-   "Microsoft w/ C++ to Deliver Office Across Different Platforms, Part I",
-   "C++ in Space Plasma Model Development",
-   "Dealing with Embedded Limitations",
-   "From Algorithm to Generic, Parallel Code",
-   "What's New in Visual C++ 2015 and Future Directions",
-   "C++ Package Manager",
-   "C++ Metaprogramming: Journey from simple to insanity and back",
-   "Infiltrating a Code Base: Moving Toward a Better C",
-   "C++ Dependency Management: from Package Consumption to Project Development",
-   "Leak-Freedom in C++... By Default.",
-   "Turning MQTT v5 inside out",
-   "Backporting to the Future",
-   "C++ atomics, from basic to advanced.  What do they really do?",
-   "C++ Function Templates: How Do They Really Work?",
-   "The Badlands of C++: Professional Game Development",
-   "C++ Build Systems",
-   "Complecting Made Easy",
-   "Boost.Dispatch -- Generalized Tag Dispatching Infrastructure Library",
-   "The Truth of a Procedure",
-   "constrain yourself",
-   "'Mostly Invalid': flat_map, Exception Guarantees, and the STL",
-   "Designing and Implementing a new Allocator model",
-   "Argot: Simplifying Variants, Tuples, and Futures",
-   "Design Patterns for Low-Level Real-Time Rendering",
-   "Arguments over Arguments",
-   "Undefined Behavior and Compiler Optimizations",
-   "API & ABI Versioning...",
-   "Asynchrony and Coroutines",
-   "'sizeof' (C++ Beginner's Lightning Talk)",
-   "Bringing Clang-tidy Magic to Visual Studio C++ Developers",
-   "Consistent architecture diagrams for C++ projects",
-   "Preconditions, postconditions, invariants - how they (...)",
-   "Binary compatibility for library developers",
-   "An Overview of Program Optimization Techniques",
-   "aa-scan3 - an AppArmor profiles generator",
-   "Intel's C++ STM Compiler and Transactional Language Constructs for C++",
-   "105 STL Algorithms in Less Than an Hour",
-   "Functional Error and Optional-value Handling with STX",
-   "The hidden languages of C++",
-   "Using Functional Programming Patterns...",
-   "Less Code = More Software",
-   "C++ Insights: How Stuff Works, Lambdas and More!",
-   "Continuable asynchronous programming with allocation aware futures",
-   "Thinking Portable: How and why to make your C++ cross platform",
-   "Debugging using an exact recording of a program's execution",
-   "Git, CMake, Conan: How to Ship and Reuse our C++ Projects",
-   "Retour d'experience sur l'IoT: cas concret dans la location de materiel de TP",
-   "Static Analysis and C++: More Than Lint",
-   "Les outils open source pour les FPGA",
-   "Web | C++' (different) VIDEO AVAILABLE WITH IN SYNC SLIDES",
-   "Plenary: Neighborhoods Banding Together: Reasoning Globally about Programs",
-   "SW compatibility, plan it or face eventual consequences",
-   "Contract Programming: What, Why, and How?",
-   "Debugging Linux C++",
-   "What a View! Building Your Own (Lazy) Range Adaptors (part 2 of 2)",
-   "Can we make a faster linked list?",
-   "Writing games in very modern C++",
-   "A look at C++ through the glasses of a language tool",
-   "The Evolution of C++ Past, Present and Future",
-   "How to build architecture of your system",
-   "2020: The Year of Sanitizers?",
-   "Customization points that suck less",
-   "C++ Programming for the Heap-Deprived",
-   "Implementation of a multithreaded compile-time ECS in C++14",
-   "Modules are Coming",
-   "'Quickly & Effectively Testing Legacy C++ Code with Approval Tests' (Virtual)",
-   "'Simplicity Not Just for Beginners' (Part 1)",
-   "Compile Fast, Run Faster, Scale Forever: A Look into the sol2 Lua Library",
-   "Empirically Measuring, & Reducing, C++'s Accidental Complexity",
-   "Spirit: History and Evolution",
-   "Anchored metadata",
-   "Two new C++ libraries for atmospheric research",
-   "The C++ Execution Model",
-   "Designing (New) C++ Hardware",
-   "Device Tree: hardware description for everybody!",
-   "What boost could learn from QT",
-   "The MAME story: From C to Modern C++",
-   "C++ Component Extensions for WinRT",
-   "Matchine: Pattern Matching for Open Sum Types",
-   "Programming with C++ Modules: Guide for the Working",
-   "Generative Programming in Action: Emulating the 3DS",
-   "Thinking Outside the Synchronisation Quadrant",
-   "Atomics, Locks, and Tasks (part 1 of 2)",
-   "The Complete Guide to 'return x;'",
-   "Modern C++ API Design: From Rvalue-References to Type Design",
-   "How to Write a Heap Memory Profiler",
-   "Comfort Zone",
-   "Postmodern Immutable Data Structures",
-   "The Landscape of Parallelism",
-   "Recent developments and future outlook of Qt",
-   "An Agile (hi)story",
-   "Always generate all your serialization code",
-   "The C++ Type System Is Your Friend",
-   "constexpr: Applications",
-   "The Future of Accelerator Programming in C++",
-   "'Include C++' (C++ Lightning Talk)",
-   "Intro to TDD and BDD",
-   "C++ Conferences",
-   "Clang Static Analysis",
-   "Deeply Embedded C++",
-   "Adventures in SIMD-Thinking (part 2 of 2)",
-   "The Dawn of a New Error",
-   "What did I learn teaching C++ to beginners",
-   "Option(al) is not a failure",
-   "Variadic expansion in examples",
-   "Modern C++ Safety and Security At 20",
-   "Documenting C++ Using the Right Tools",
-   "Conan, le gestionnaire de paquets C/C++",
-   "Intro to Rust",
-   "Dynamic, Recursive, Heterogeneous Types in Statically-Typed Languages",
-   "TDD is not about testing - C++ version",
-   "Introduction to Azure Sphere",
-   "The Performance Price of Dynamic Memory in C++",
-   "No Touchy! A Case Study of Software Architecture with Immutable Objects",
-   "Functional programming: functors and monads",
-   "Software Transaction Memory, For Reals",
-   "The Blaze High Performance Math Library",
-   "Best practices when accessing Big Data or any other data!",
-   "The missing piece of the continuous integration puzzle",
-   "Diving into SWUpdate: adding new platform support with Yocto/OE",
-   "Code review",
-   "Plain Threads are the GOTO of todays computing",
-   "functional: What's New, And Proper Usage",
-   "Writing Performant C++ Code",
-   "Look ma, 'update DB to HTML5 using C++', no hands!",
-   "A Deep Dive into 2 Cross-Platform Mobile Apps Written in C++",
-   "Implementing a Modern C++ MQTT Client for Embedded Devices",
-   "WebAssembly for non-beginners",
-   "Numerical Weather Prediction: Facing the Future with C++",
-   "Class Template Argument Deduction: A New Abstraction",
-   "Engineering Software Integral Types",
-   "Funqual: user-defined statically-checked call graph constraints in C++",
-   "Practical C++11: What I Learned Adding C++11 Support to ODB",
-   "Practical Functional Programming in C++",
-   "'A Question of Ownership' (C++ Beginner's Lightning Talk)",
-   "Delegate this! Designing with delegates in modern C++",
-   "Memory and C++ debugging at Electronic Arts",
-   "Simulating the Universe Using Modern C++",
-   "Modern C++ Design (part 2 of 2)",
-   "C++20: C++ at 40",
-   "Finally Executors for C++",
-   "Optimising a small real-world C++ application",
-   "Object-Oriented Program: Best Practices",
-   "Mix Tests and Production Code With Doctest...",
-   "Model - View - Whatever MVW",
-   "Customization Points That Suck Less",
-   "C++ Testing Techniques, Tips and Tricks @ CppEurope 2020",
-   "Reducing OS noise using offload driver",
-   "Black-box performance analysis",
-   "The Seniority Trap",
-   "Fortransformers: A Field Study",
-   "Embedded Systems 101",
-   "Making Games Start Fast: A Story About Concurrency",
-   "Promises in C++: The Universal Glue for Asynchronous Programs",
-   "A Tutorial Introduction to C++11 & 14 Part 1",
-   "Writing a cache-friendly C++ code",
-   "What's new in Visual Studio Code for C++ development",
-   "C++20 Coroutines: Introduction",
-   "Why C++0x is the Awesomest Language for Network Programming",
-   "Easy Binary Compatible C++ Interfaces Across Compilers",
-   "Introduction to Modern C++ Techniques (Part II)",
-   "Compile-time reflection, Serialization and ORM",
-   "Fun with Type Erasure: Implementing a Value Wrapper for Polymorphic Types",
-   "Naming is Hard: Let's Do Better",
-   "Managing C++ Build Complexity Using Cuppa: A SCons-based Build System",
-   "Using Deep Learning to hunt Optical Counterparts to (...)",
-   "Enum to string using metaprogramming - Daniel Gavrila",
-   "Phoenix V3 -- An Overview",
-   "Design and Evolution of cyber-dojo",
-   "Networking TS Workshop (part 2 of 2)",
-   "Boosting knowledge sharing",
-   "Better mutual exclusion on the filesystem using Boost.AFIO",
-   "Data-arithmetic optimization of embedded applications",
-   "C/C++ is very similar to Java/JavaScript",
-   "Compile-time contract checking with nn",
-   "What I Talk about When I Talk about Cross Platform Development",
-   "Faster Code Through Parallelism on CPUs and GPUs",
-   "Object-Oriented Programming in Modern C++",
-   "Mocking C++",
-   "Design Patterns in the 21st Century",
-   "Destructor Case Studies: Best Practices for Safe and Efficient Teardown",
-   "Effective Practices for Engineering Teams",
-   "C++ Committee's Library Evolution Working Group",
-   "Tools from the C++ eco-system to save a leg",
-   "Is this available?",
-   "C++ on the Web: Ponies for developers without pwn'ing users",
-   "What is the basic interface? (part 1 of 2)",
-   "C++ Tool Support: Where We Are and Where We Are Heading",
-   "An Introduction to C++ Coroutines",
-   "Almost Unlimited Modern C++ in Kernel-Mode Applications",
-   "Choosing hardware components : A software guy's point of view.",
-   "Boost.Generic: Concepts without Concepts",
-   "Refactor your codebase with Clang tooling",
-   "Asynchronous programming with ranges",
-   "Axiomatic Programming: From Euclidean Deductions to C++ Templates and Beyond",
-   "Modern CMake for modular design",
-   "interview with Klaus Iglberger",
-   "The worst feature of modern C++: default behaviour",
-   "How C++ Debuggers Work",
-   "a small tool to browse your backtraces",
-   "'An array of problems. An array of solutions' (Virtual)",
-   "C++ Coroutines - a negative overhead abstraction",
-   "array_ref: Multidimensional Array References for the C++ Standard Library",
-   "When Python Practices Go Wrong",
-   "Test Driven C++",
-   "Universal Function Call Syntax in C++20",
-   "Mastering the IoT with C++ and JavaScript",
-   "What does it mean to trust your boot process?",
-   "Cpu Caches and Why You Care",
-   "UI prototyping and development for multiple devices in C++",
-   "Multi-Precision Arithmetic for Cryptology in C++, at Run-Time and at Compile-Time",
-   "More Modern CMake",
-   "The Design of the C++ Runtime for AWS Lambda",
-   "Structure aware fuzzing",
-   "Expression Templates: Past, Present, Future (PART 3)",
-   "The Plan for Tomorrow: Extension Points in C++ Applications",
-   "Thread-safe Observer Pattern - You're doing it wrong",
-   "Practical constexpr",
-   "LLVM: A Modern, Open C++ Toolchain",
-   "GPU programming with modern C++",
-   "Functional Programming, a pragmatic approach",
-   "The CPU Cache: Instruction Re-Ordering Made Obvious",
-   "Abstraction by the rule of 10 - Guy Davidson",
-   "Nim - First natively compiled language w/ hot code-reloading at runtime",
-   "How I Learned to Stop Worrying About Generics and Love Go",
-   "WG21-SG14: The Story So Far",
-   "Would 'reserve'/'upgrade'/'downgrade' Methods Improve 'std::shared_mutex'?",
-   "C++ in Elvenland",
-   "Inside a static analyzer: type system",
-   "Reactive Stream Processing in Industrial IoT using DDS and Rx.cpp",
-   "Parallel Programming using Charm++",
-   "Making Allocators Work, Part II",
-   "Welcome To The Time Zone",
-   "Template Metaprogramming: Type Traits (part 2 of 2)",
-   "Splash screen for Embedded Linux 101: How to customize your boot sequence",
-   "Using the Groovy Ecosystem for Rapid Development on the JVM",
-   "Cross-Platform Mobile App Development with Visual C++",
-   "C++20: An (Almost) Complete Overview",
-   "Type Traits - what are they and why should I use them?",
-   "Learn Robotics with C++ in 1 Hour",
-   "The Distributed Version Control Revolution",
-   "C++11's Quiet Little Gem: <system_error>",
-   "Modern Design Patterns with Modern C++",
-   "Is std::function really the best we can do?",
-   "Tuning C++: Benchmarks, and CPUs, and Compilers! Oh My!",
-   "Meta Monads",
-   "Moving Faster: Everyday Efficiency in Modern C++",
-   "API & ABI versioning",
-   "'Scaling development of a large C++ project: Chromium' (Part 2)",
-   "Building safe & Secure embedded systems by means of hypervisor approach",
-   "How I Code and Why",
-   "Implementing MOF based Modeling Languages with C++ and Qt",
-   "Agent based class design",
-   "Talking to Typelists",
-   "Beyond C++17",
-   "What do you mean by 'cache friendly'?",
-   "Low Latency C++ for Fun and Profit",
-   "Rebuilding Boost Date-Time for C++11",
-   "Automatic Task-based Code Generation for High Performance DSEL",
-   "CppComponents- A Modern Portable C++11 Component System",
-   "C++11: High-Level Threading",
-   "'The Complete Guide to return x;' (Virtual)",
-   "Costless Software Abstractions for Parallel Architectures",
-   "What Programmers Should Know About Memory Allocation",
-   "Should I care about CPU cache?",
-   "Accept No Visitors",
-   "The cell as a computer: Turing complete and massively parallel",
-   "Azure Sphere",
-   "Generic Programming with Concepts Lite, Part I",
-   "Practical (?) Applications of Reflection",
-   "Reflection in C++ Next",
-   "Don't Try This at Work -- Low Level Threading with C++11",
-   "From nothing to too much: growing a tech community in the East of England",
-   "A Multithreaded,Transaction-Based Locking Strategy for Containers",
-   "Is Parallel Programming still hard? PART 1 of 2",
-   "Big Data Analytics in Telecommunication",
-   "An allocator model for std2",
-   "A thorough look into spatial mapping with HoloLens",
-   "Design Patterns in Modern C++",
-   "C++ Metaprogramming: evolution and future direction",
-   "Combined Short Talks",
-   "Embedded rust on the beagleboard X15",
-   "Return Value Optimization: Harder Than It Looks",
-   "C++0x Progress and Status",
-   "Alignment in C++: Use, Limitations, and Extension",
-   "C++ on the Edge – Machine Learning + Microcontrollers + C++",
-   "Multitype Pool: fixed type allocation",
-   "The 'Detection idiom:' A Better Way to SFINAE",
-   "Making Your Library More Reliable with Fuzzing",
-   "Concurrent Code - Test It! - How?",
-   "Async sequences and algorithms to compose them",
-   "CNL: A Compositional Numeric Library",
-   "Thriving in a crowded and changing world: C++ 2006-2020",
-   "10 Core Guidelines You Need to Start Using Now",
-   "How to Cook a Chicken",
-   "C++17 : The Biggest Traps",
-   "The Jai Programming Language and What Can We Learn From It",
-   "Overloading: The Bane of All Higher-Order Functions",
-   "Building a Tech Community in the East from (almost) Nothing",
-   "Garbage In, Garbage Out: Arguing about Undefined Behavior...",
-   "Fuzz or lose...",
-   "Preconditions, Postconditions, Invariants: How They Help Write Robust Programs",
-   "Where C++17 is going",
-   "A Physical Units Library For the Next C++",
-   "pinned_vector",
-   "C++11 Library Design",
-   "Exception-Safe Code, Part III",
-   "Embedded Domain Specific Languages for Embedded Bare Metal Projects",
-   "Rise of the State Machines",
-   "Developing C++ @ Facebook scale",
-   "How to write more reliable code",
-   "Lambdas - uses and abuses",
-   "Embedded Linux 'from scratch' in 45 minutes... on Risc-V",
-   "ODB, an ORM for C++(11)",
-   "Latest and Greatest in the Visual Studio Family for C++ Developers 2018",
-   "A Unifying Abstraction for Async in C++",
-   "Developing EDSL's for Boost.Spirit",
-   "Extending and Wrapping C and C++ with Python",
-   "interview with Augustin Popa & Elizabeth Morrow",
-   "Functions Want To Be Free",
-   "Thinking in coroutines",
-   "Boost.Geometry: an introduction to geographic computation",
-   "Testing Battle.net (before deploying to millions of players)",
-   "How C++20 Can Simplify std::tuple",
-   "C++ vs C the embedded perspective",
-   "Cross plattform C++ development is challenging",
-   "Debug C++ Without Running",
-   "Ustring -- A Modern Alternative to std::string",
-   "Why and How To Add Scripting",
-   "Atomics, Locks, and Tasks (part 2 of 2)",
-   "Back to Basics: Exceptions",
-   "Taming the performance Beast",
-   "Algorithm Design For Values Distributed In Time",
-   "AAAARGH!? Adopting Almost Always Auto Reinforces Good Habits!?",
-   "How C++20 Changes the Way We Write Code",
-   "Lock-Free Programming (or, Juggling Razor Blades), Part II",
-   "Modern generic programming using the Tick and Fit libraries",
-   "An Overview on Encryption in C++",
-   "Design Rationale for the chrono Library",
-   "lemniscate C++++++...",
-   "A Few Gentle Rules (*) but One in Particular",
-   "hardware aided computing",
-   "History of Time: Asynchronous C++",
-   "Using Spirit X3, Part II",
-   "Writing cache friendly C++",
-   "We've Always Been at War with East Constia",
-   "Analyzing Configuration of Cellular Networks at Nokia with (...)",
-   "Debugging and Profiling C++ Template Metaprograms",
-   "I'm falling in love with Globals",
-   "Rpath and binary reuse",
-   "Bringing Business Logic Back to C++",
-   "A Tutorial Introduction to C++11/14 - Part II",
-   "CopperSpice: The Next Generation of Signals",
-   "A C++14 approach to dates and times",
-   "The most important API design principle",
-   "True parallelism, with no concept of threads",
-   "How to Apply Engineering Practices to Embedded Software Development",
-   "Our first game using UE4 and C++",
-   "Interactive Metaprogramming Shell based on Clang",
-   "What's New In The C++14 Library",
-   "Futures Without Type Erasure",
-   "C++11 library components to make a scientist happy",
-   "Is C++ really a highperformance language?",
-   "HPX: A C++ Runtime System For Parallel And Distributed Computing",
-   "Boost.Asio and Boost.Serialization: Design Patterns for Object Transmission",
-   "Elsewhere Memory (C++20 Abstract Machine) + Virtual Memory",
-   "The C++20 Standard Library: Beyond Ranges",
-   "Making Fast Incremental Compiler for Huge Codebase",
-   "Transactional Memory in Practice",
-   "The C++20 Firehose Talk",
-   "The Many Variants of std::variant",
-   "A Tour of Deep Learning With C++",
-   "Writing Node.js/Electron native C++ addons for beginners",
-   "Introduction from co-organizers",
-   "Introducing RTEMS, a serious real-time OS",
-   "A <chrono> Tutorial",
-   "Requirement: Creativity",
-   "The Audacity of Chapel: Scalable Parallel Programming Done Right",
-   "C++17 coroutines for app and library developers",
-   "Deep Learning with C++",
-   "The Asynchronous C++ Parallel Programming Model",
-   "Time Programming Fundamentals",
-   "Software Engineering Is About Tradeoffs",
-   "Generic Programming",
-   "C++20: All the small things",
-   "C++ and Persistent Memory Technologies, Like Intel's 3D-XPoint",
-   "Regular Expressions in C++, Present and Future",
-   "How we switched to C++11 at SolidFire and how it worked out",
-   "Goals for Better Code - Implement Complete Types",
-   "Building a Coroutine based Job System without Standard Library",
-   "Understanding Compiler Optimization",
-   "C++20 - My Favourite Code Examples",
-   "Better Code: Data Structures",
-   "Introducing the Ranges TS",
-   "Trivially Relocatable",
-   "Sqlpp11, An EDSL For Type-Safe SQL In C++11",
-   "How to do practical Data Science? From real-world examples (...)",
-   "Modern C++ in Embedded Systems - The Saga Continues",
-   "Boostache Exposed - the internals of Boost's template engine",
-   "Lockfree Programming Part 2: Data Structures",
-   "The C++ Reflection TS",
-   "Enhancing STL containers",
-   "Small Lie in Big O",
-   "Bayesian Computation for Deep Learning in Modern C++",
-   "C++17 - The Good and the Ugly",
-   "Status quo: clang-tidy & AddressSanitizer on Windows",
-   "Template Normal Programming (part 1 of 2)",
-   "3D Face Tracking and Reconstruction using Modern C++",
-   "What Do You Mean?",
-   "Writing A Python Interpreter for Fun & Profit",
-   "The better parts",
-   "Code Samples That Compile Even More Easily",
-   "Structured logging",
-   "The Forgotten Art of Structured Programming",
-   "Standardizing a linear algebra library",
-   "Modern C++ in Embedded Systems",
-   "Objection! A language lawyer story",
-   "Effective Remote C++ Development with Codespaces",
-   "A Little Order: Delving into the STL sorting algorithms",
-   "How to test static_assert?",
-   "Optimally Shooting Furry Balls out of Vulkanoes",
-   "C++ Templates Revised",
-   "The life-changing magic of tidying up",
-   "Return Values Take A Closure Walk",
-   "Back to Basics: Move Semantics (part 1 of 2)",
-   "Programming in a different domain",
-   "C++11 was only the beginning",
-   "Maintainability and Refactoring Impact of Higher-Level Design Features",
-   "These Aren't the COM Objects You're Looking For",
-   "Asynchronous C++ Programming",
-   "Template Normal Programming (part 2 of 2)",
-   "Introduction to Undodb",
-   "Implementing C++ Semantics in Python",
-   "Putting Coroutines to Work with the Windows Runtime",
-   "Everything You Ever Wanted to Know about DLLs",
-   "Some Programming Myths Revisited",
-   "Decomposing a Problem for Parallel Execution",
-   "Diagnose your Golang App anytime anywhere!",
-   "Form an Israeli C++ National Body",
-   "Want fast C++? Know your hardware!",
-   "C++20 Language Features for a new Library",
-   "Asynchronous IO Using Boost.Asio",
-   "Good FIFOs Make Good Thread Neighbors",
-   "Virtual Tables OR The Overhead Of Magic",
-   "Rainbow Six Siege: Quest for Performance",
-   "A View to a View",
-   "Range-Based Text Formatting For a Future Range-Based Standard Library",
-   "The Nightmare of Initialization in C++",
-   "Variations on variants",
-   "Python as C++'s limiting case",
-   "Naivety of Creating Cross-Platform, Modern C++ Libraries...",
-   "Type safe C++ - LOL! :-)",
-   "What the committee did next!",
-   "Coroutines: what can't they do?",
-   "Getting Allocators out of Our Way",
-   "A trusted trip in the cloud - working with trusted hardware (...)",
-   "A Zephyr Overview of C++11 (Part II)",
-   "Adventures in SIMD-Thinking (part 1 of 2)",
-   "Contract Programming in C++(20) (part 1 of 2)",
-   "Machine Learning with Python Case Study",
-   "Closing Message",
-   "Compile-time 'reparsing'",
-   "Value Semantics and Range Algorithms - Composability and Efficiency",
-   "Local (Arena) Allocators Part II",
-   "Zero-allocation & no type erasure futures",
-   "Augmented Reality - The State of Play",
-   "Representing Memory Mapped Devices as Objects",
-   "Simple, Extensible Pattern Matching in C++14",
-   "Reader-Writer Lock versus Mutex - Understanding a Lost Bet",
-   "You Can Do Better than std::unordered_map: New Improvements to Hash Table Performance",
-   "Low Level Threading with C++11",
-   "Mobile Edge Clouds...",
-   "Compile Time Regular Expressions with A Deterministic Finite Automaton",
-   "Low Latency GPGPU - Matheus Vitti Santos",
-   "SICP Cover Demystified",
-   "C++20 Coroutines: Generators, and Brain Unrolling Sweetness",
-   "A Crash Course in Open Source Licensing",
-   "Speed Is Found In The Minds of People",
-   "Latest & Greatest in Visual Studio for C++ developers",
-   "Unwinding the Stack: Exploring How C++ Exceptions Work on Windows",
-   "C++11: New Tools for Class and Library Authors",
-   "Back to Basics: Class Layout",
-   "Modules in C++",
-   "Using Trompeloeil, a mocking framework for modern C++",
-   "Postcards from the Cross-platform Frontier",
-   "Back to Basics: Algebraic Data Types",
-   "ThinLTO: Scalable and Incremental Link-Time Optimization",
-   "Writing Fast Code II",
-   "Algorithm Intuition (part 2 of 2)",
-   "C++17 key features",
-   "STL Algorithms as Expressions",
-   "Concepts: The Future of Generic Programming (the future is here)",
-   "Mastering Git's index",
-   "C++11 use in Qt5: Challanges and Solutions",
-   "Hook: The C++ library you were waiting for",
-   "A story about vectorisation and compiler bug report",
-   "Modern Software Needs Embedded Modern C++ Programming",
-   "Next Generation Debugging",
-   "Contracts for Dependable C++",
-   "Concepts -  Evolution or Revolution",
-   "Waltzing with Branches",
-   "Building Modules",
-   "Concurrency in cloud applications",
-   "Heterogeneous Programming in C++ with SYCL 2020",
-   "Beyond C++17 (Part 2 of N)",
-   "Architecture is (not) everything",
-   "Technical Specifications & C++17",
-   "Rolling Your Own Circuit Simulator",
-   "Motivated reasoning",
-   "The beast is becoming functional",
-   "C++20 String Formatting Library: An Overview and Use with Custom Types",
-   "How Embedded Developers work from home using labgrid",
-   "Pragmatic Type Erasure: Solving OOP Problems w/ Elegant Design Pattern",
-   "Surveying the Community - What Could Possibly Go Wrong",
-   "Why iterators got it all wrong",
-   "Mach7: The Design and Evolution of a Pattern Matching Library for C++",
-   "From Iterators To Ranges - The Upcoming Evolution Of the Standard Library",
-   "Back to Basics: Unit Tests",
-   "Compiled C++ Coding Standards",
-   "Machine Learning for a rescue",
-   "Here's my number; call me, maybe. Callbacks in a multithreaded world",
-   "Lessons Learned Developing the C++11 Standard Library",
-   "Cross-Platform Pitfalls and How to Avoid Them",
-   "Quick Game Development with C++11 / C++14",
-   "A Semi Compile/Run-time Map with (Nearly) Zero Overhead Lookup",
-   "Creating intuitive APIs",
-   "Efficiency with Algorithms, Performance with Data Structures",
-   "Safe and Sane C++ Types",
-   "The Shapes of Multi-Dimensional Arrays",
-   "Pattern Matching: Match Me If You Can",
-   "Simple hand written parsers",
-   "A Quantum Data Structure For Classical Computers",
-   "Reflection Techniques in C++",
-   "Breadcrumbs won't help: how not to get lost in a lambda forest",
-   "A Crash Course in Unicode for C++ Developers",
-   "GNU/Linux ou Android comme système d'exploitation embarque ?",
-   "Call: A Library that Will Change the Way You Think about Function Invocations (2 of 2)",
-   "Welcome +  Let's Move-The Hidden Features and Traps of C++ Move Semantics",
-   "Random numbers are hard - Andreas Weis",
-   "Agent Based Class Design",
-   "The Science of Unit Tests",
-   "All the Default's Are Backwards",
-   "Building Modern Native Applications with Gradle",
-   "interview with C++ Committee's Library Evolution Working Group",
-   "Computer Architecture, C++, and High Performance",
-   "Refactoring C++ legacy code through pure functions @ CppEurope 2020",
-   "Undefined Behavior in C++: What is it, and why do you care?",
-   "Back to Basics: Virtual Dispatch and its Alternatives",
-   "Boost.Units",
-   "Scheme Lisp: Feel the Cool",
-   "Sorting in less than O(n log n): Generalizing and optimizing radix sort",
-   "Locally Atomic Capabilities and How to Count Them",
-   "Which Machine Am I Coding To?",
-   "C++ Class Natures",
-   "embeddr - C with Abstractions",
-   "Seeing the bigger picture part II",
-   "Generators, Coroutines and Other Brain Unrolling Sweetness",
-   "'The Static Initialization Order Fiasco' (Virtual)",
-   "C++ Development with Visual Studio Code",
-   "The strange details of std::string at Facebook",
-   "A Test of Strength",
-   "This is why we can('t) have nice things",
-   "Just-in-Time Compilation: The Next Big Thing?",
-   "The Projucer: Live coding with C++ and the LLVM JIT engine",
-   "C++ Past vs. Future",
-   "Comunicazione real-time con WebRTC in C++",
-   "A bird's-eye view of template C++",
-   "The Continuing Saga of the Lock-free Queue: Part 3 of N",
-   "#Hashing ( Hashing Values )",
-   "Boost.Process: Process management in C++",
-   "C++ based mobile application",
-   "A Food pairing device, with offline AI and edge computing",
-   "Boost.Graph for Beginners",
-   "Objects? No Thanks!",
-   "Let's Move",
-   "IoT. Building machine vision system...",
-   "The Holy Grail! A Hash Array Mapped Trie for C++",
-   "Managarm: A Fully Asynchronous OS Based on Modern C++",
-   "Portable yet thin OS abstractions",
-   "Instantiations Must Go!",
-   "Optimization Tips - Mo' Hustle Mo' Problems",
-   "Cross-platform C++ development is challenging - let tools help!",
-   "Surveying the C++ Community",
-   "Go forth with C++ - Jacek Sandomierz",
-   "Haskell taketh away: limiting side effects for parallel programming",
-   "Developing an embedded application for the IoT",
-   "Teach Your Computer to Code FizzBuzz",
-   "Yocto is not (only) BitBake",
-   "A modern formatting library for C++",
-   "Value-oriented design in an object-oriented system",
-   "WebAssembly: an overview",
-   "Classes With Many Fields",
-   "Designing C++ portable SIMD support",
-   "Designing value classes for modern C++",
-   "Woes of Scope Guards and Unique_Resource - 5+ years in the making",
-   "Alchemical Code Rejuvenation",
-   "Time Travel: Applying Gradual Typing to Time Types with Clang's LibTooling",
-   "Threads and Shared Variables in C++0x",
-   "How I learned to Stop Worrying and Love the C++ Type System",
-   "Monoids, Monads, and Applicative Functors: Repeated Software Patterns",
-   "Multithreading Using Lockless Lists and RCU",
-   "GoLand Tips & Tricks",
-   "Dealing with function failures in C++",
-   "Equivalence in cross-compilation compiler warnings",
-   "Writing Great Libraries: 89 Easy Steps",
-   "An Allocator is a Handle to a Heap",
-   "Qt event loop, networking and I/O API",
-   "The next big Thing",
-   "The Mathematical Underpinnings of Promises in C++",
-   "Production use of Boost.Test",
-   "Founding C++ User Groups",
-   "Move-only types can save the API",
-   "Lightweight Object Persistence With Relocatable Heaps in Modern C++",
-   "Upgrade from 'permissive C++' to 'modern C++' with Visual Studio",
-   "Boost.Compute: A library for GPU/parallel computing",
-   "Type to string conversions, and vice-versa",
-   "HPX and GPU parallelized STL",
-   "Benchmarking C++ - From video games to algorithmic trading",
-   "and , the View From Inside",
-   "Concept Based Testing",
-   "How to Teach C++ and Influence a Generation",
-   "Friendship in Service of Testing",
-   "Design Journeys with Skoot, a Peer Oriented Generic Networking Library",
-   "Bitmaps! Or 'Images and Animations Without Linking External Libraries'",
-   "The Future of C++ Parallel and Concurrency Safety Guidelines",
-   "C++ Modules: The State of The Union",
-   "Developing C++ @ Facebook Scale",
-   "Writing Fast Code I",
-   "The evolving search for effective C++",
-   "Are You Ready for IPv6?",
-   "There is a Better Future",
-   "Intro to Functional Programming in C++",
-   "When Paradigms Collide",
-   "An inspiring introduction to template metaprogramming",
-   "Audio in standard C++' -",
-   "Embind and Emscripten: Blending C++11, JavaScript, and the Web Browser",
-   "Interactive C++ in a Jupyter Notebook Using Modules for Incremental Compilation",
-   "Improving Sense of Smell Low-Level Debugging",
-   "Dealing with aliasing using contracts",
-   "Microcontrollers in Micro-increments A Test-driven C++ Workflow",
-   "Functional Reactive Programming - Cleanly Abstracted Interactivity",
-   "Type punning in modern C++",
-   "Fun with structured bindings - Tim van Deurzen",
-   "What's new in Visual Studio IDE for C++ Developers",
-   "Why C++ for Large Scale Systems?",
-   "The C++20 firehose talk",
-   "Introduction to Bazel to build C++ and Python",
-   "Local ('Arena') Memory Allocators (part 2 of 2)",
-   "Taming dynamic memory - An introduction to custom allocators in C++",
-   "Time Travel Debugging",
-   "Meta++: Language Support for Advanced Generative Programming",
-   "Rethinking the Way We Do Templates in C++",
-   "The Hitchhikers guide to faster builds",
-   "When C++ Style Guides Contradict",
-   "Exception-Safe Coding in C++ (Part II)",
-   "Data Structure Visualizers in Visual Studio 2010",
-   "High-Radix Concurrent C++",
-   "STL Features And Implementation Techniques",
-   "Boost Your Program's Health by Adding Fibers to your Coroutine",
-   "retpoline",
-   "3 things they didn't tell you about Agile",
-   "Modern C++ Design (part 1 of 2)",
-   "How to: Colony",
-   "Memory Tagging and how it improves C/C++ memory safety",
-   "Conjuguer modèles ouverts et propriete intellectuelle dans l'embarque",
-   "What are FPGAs and How Do They Work",
-   "It's DNS, Jim, but not as we know it",
-   "The life changing magic of tidying up - Tina Ulbrich",
-   "Building C++ Modules",
-   "Expression Templates for Efficient, Generic Finance Code",
-   "Polymorphism with Unions",
-   "ASoC: Audio on an embedded board",
-   "Resilience patterns in practice",
-   "Concurrency TS Editor's Report",
-   "Taming Dynamic Memory - An Introduction to Custom Allocators",
-   "Mise a jour : les bonnes questions a se poser",
-   "A Whirlwind Overview of C++11",
-   "The Worst Best Practices",
-   "Functional Programming: data",
-   "Operator Overloading: History, Principles and Practice",
-   "Viewing The World Through Array-Shaped Glasses",
-   "STL Algorithms in Action",
-   "Make It Fixable: Preparing for Security Vulnerability Reports",
-   "Parametric Expressions: A Proposed Language Feature",
-   "Generic Programming And the Boost Graph Library",
-   "C++: Unexpected Behaviour",
-   "C++: Fast and Small - What are the Costs of Language Features",
-   "Secure Coding Best Practices: Your First Line Is The Last Line Of Defense (1 of 2)",
-   "The need for a package manager interface",
-   "What Every C++ Programmer Should Know About Modern Compilers",
-   "Improving Performance Through Compiler Switches...",
-   "Local ('Arena') Memory Allocators (part 1 of 2)",
-   "The Perils of Strict Aliasing",
-   "C/C++ Memory Model",
-   "Quickly testing legacy code",
-   "Large-Scale C++: Advanced Levelization Techniques, Part I",
-   "Making C++ Code Beautiful",
-   "Easy High Constancy",
-   "Get Off My Thread: Techniques for Moving Work to Background Threads",
-   "Generic Binding",
-   "5 Things I figured out while ...   2017",
-   "Missing Optimizations on Node-based Containers",
-   "My Little Optimizer: Undefined Behavior is Magic",
-   "Converting a State Machine to a C++ 20 Coroutine",
-   "What Could Possibly Go Wrong?: A Tale of Expectations and Exceptions",
-   "Better C++ using Machine Learning on Large Projects",
-   "C++ Multi-dimensional Arrays...",
-   "Interactive, Introspected C++ at CERN",
-   "How you can make a Boost C++ Library",
-   "The C++ rvalue lifetime disaster",
-   "C++ and Memory: Between Correctness and Performance",
-   "Associative containers - Jean Guegant",
-   "Local (arena) Memory Allocators",
-   "Unicode Strings: Why the Implementation Matters",
-   "Logic Paradigm for C++",
-   "Pointless Pointers - How to make our interfaces efficient?",
-   "Exceptional Performance",
-   "TDD/BDD and DI",
-   "Enhanced Support for Value Semantics in C++17",
-   "Current trends in the C++ Community",
-   "Is Parallel Programming still hard? PART 2 of 2",
-   "Microsoft w/ C++ to Deliver Office Across Different Platforms, Part II",
-   "Faster Delivery of Large C/C++ Projects with...",
-   "The Committee Experience",
-   "Better embedded library interfaces with modern C++",
-   "A lock-free concurrency toolkit for deferred reclamation and optimistic speculation",
-   "The Dawn of a new Error",
-   "The evolving search for modern APIs in Boost",
-   "Practical Performance Practices",
-   "folly::Function: A Non-copyable Alternative to std::function",
-   "Mobile App Development for Multiple Platforms with Visual C++,",
-   "Real time 101",
-   "Clang Concepts",
-   "Lifetime and Usage of Global, Thread-local, and Static Data",
-   "Avoiding Disasters with Strongly Typed C++",
-   "the asynchronous library",
-   "Taming dynamic memory",
-   "Convergent Evolution",
-   "Back to Basics: Pointers and Memory",
-   "An Asio Based Flash XML Server",
-   "Local ('arena') memory allocator",
-   "How to make a large C++-code base manageable",
-   "'Controlling Overload Resolution with SFINAE' (Lightning Talk)",
-   "Git, CMake, Conan - How to ship and reuse our C++ projects",
-   "The New Old Thing, of Fun with Lambdas",
-   "C++ Catastrophes: A Poem",
-   "Practical Type Erasure: A boost::any Based Configuration Framework",
-   "Contract use: Past, Present, and Future",
-   "Design And Implementation Of DBMS Asynchronous Client Library",
-   "A linear algebra library for C++23",
-   "What Do We Mean When We Say Nothing At All?",
-   "Machine learning and image processing",
-   "Towards contract programming in C++",
-   "Making C++ easier, faster and safer (part 1)",
-   "Impact on maintainability and refactoring for higher-level design features",
-   "Removing Undefined behavior from integer operations: The bounded::integer library",
-   "Type-safe configuration library",
-   "The Quiet Little Gem in Modern C++: <system_error>",
-   "Nothing is better than copy or move",
-   "C++20 Concepts: The Base Classes of Generic Programming? or Not?",
-   "Mongrel Monads, Dirty, Dirty, Dirty",
-   "Introduction to C++ python extensions and embedding Python in C++ Apps",
-   "Advanced Unit Testing in C & C++",
-   "dynamic_cast From Scratch",
-   "The Networking TS in Practice: Patterns for Real World Problems",
-   "The fastest template metaprogramming in the West",
-   "An Interesting Lock-free Queue - Part 2 of N",
-   "FPGA and open hardware",
-   "Support for Embedded Programming in C++11 and C++14",
-   "Concepts, Type Traits and Specialization",
-   "test_resource: the pmr detective",
-   "Let's make a web match-3 game in C++14",
-   "Memory mapped storage",
-   "Compile-Time/Run-Time Functional Programming in C++",
-   "Adventures in SIMD-Thinking",
-   "The Point of Views: Multidimensional Ranges for HPC",
-   "C++ programming in a parallel world @ CppEurope 2020",
-   "Running Zephyr and Linux on the same SoC: making both worlds live together !",
-   "Common-sense acceleration of your MLOC build",
-   "Neural networks interactively - right in your browser!",
-   "Back to Basics: Test-driven Development",
-   "Understanding and mastering C++'s complexities",
-   "Agent-based class design - a step towards betters customizations points",
-   "Stdfwd - Forward Declarations for C++ Standard Library",
-   "A Visions For std2",
-   "Fun with C11 generic selection expression",
-   "What about lambdas",
-   "Practical C++17",
-   "Embrace No Paradigm Programming!",
-   "Don't constexpr All the Things",
-   "WG21-SG14 - Making C++ better for games, embedded and financial developers",
-   "Pragmatic Unit Testing in C++",
-   "How bananas could save your project. Understanding UX",
-   "Go Get Better (Go Programming Language)",
-   "Implementing tuple in C++17",
-   "Faces of undefined behavior",
-   "Rust: Hack Without Fear!",
-   "Interconnection security - SS7 and diameter",
-   "Hands-On With Abseil",
-   "'Calling Functions: A Tutorial' (Virtual)",
-   "Keep it Small",
-   "Transducers: from Clojure to C++",
-   "Data-Oriented Design for Object-Oriented Programmers",
-   "IoC++ - A IoC framework for C++",
-   "The Intellectual Ascent to Agda",
-   "Generalized Full Duplex Messaging",
-   "How to Herd 1,000 Libraries",
-   "A Multi-threaded, Transaction-Based Locking Strategy for Containers",
-   "Declarative Control Flow",
-   "Concepts driven design",
-   "The stand up",
-   "The Untapped Potential of Software Visualization",
-   "Distributed parametric optimization with the Geneva library",
-   "Metaprogramming for dummies",
-   "Using Modern CMake Patterns to Enforce a Good Modular Design",
-   "Spectre",
-   "Modules the beginner's guide",
-   "Easier said than done. Self-organized teams",
-   "Macchina a Stati Finiti con il Functor Pattern",
-   "Clang Automated Refactoring for everyone with clangmetatool",
-   "How Python Wins New Friends",
-   "How to write a programming language",
-   "Monads in Chains",
-   "C++11 Multithreading done right?",
-   "C++ Test-driven Development",
-   "Small is beautiful: Techniques to minimise memory footprint",
-   "IIFE in C++ for Performance and Safety",
-   "C++ Today: The beast is back",
-   "How to call C libraries from C++",
-   "Higher-order functions in Modern C++: existing techniques and function_ref",
-   "interview with Manuel Benche",
-   "Product Types for C++2x",
-   "Grill the Committee!",
-   "C++20 Text Formatting",
-   "Applied Hierarchical Reuse: Capitalizing on Bloomberg's Foundation Libraries",
-   "Modern C++ as Concurrent Assembly",
-   "Modern C++ Testing with Catch2",
-   "Working on modular projects with Git",
-   "Deep C Diving - Fast and Scalable Text Interfaces at the Bottom",
-   "Undefined Behavior is Not an Error",
-   "Meet the Authors",
-   "On the road to a trusted boot chain on STM32MP1 series",
-   "Goodbye metaprogramming, and hello functional",
-   "Nbdl: A library that uses metaprogramming... A lot",
-   "My Least Favorite Anti-Pattern",
-   "Multi-Threading With C++11 and Boost",
-   "Typegrind - Type preserving heap profiler for C++",
-   "Coroutines, Fibers and Threads, Oh My",
-   "OPC UA, La norme d'interoperabilite securisee pour l'Industrie 4.0 et l'IoT",
-   "The C++20 Synchronization Library",
-   "string_view",
-   "Thin LTO",
-   "Integrating generators EDSL's for Spirit X3 (WIP)",
-   "From Functional to Parallel: Stochastic Modeling in C++",
-   "On 'simple' Optimizations",
-   "C++: lambda Demystified",
-   "Asynchronous IO with Boost.Asio",
-   "MicroEJ, un environnement virtualise pour l'embarque",
-   "Latency Observability",
-   "Compile Time Regular Expressions",
-   "When you hit 'Error: memory is not aligned.'",
-   "Asynchronous Programming Using the Boost.MetaStateMachine and the Upcoming Asynchrnonous Library",
-   "Build for everyday programmers and why should they care",
-   "C++ ecosystem: For better, for worse",
-   "Embracing Standard C++ for the Windows Runtime",
-   "'My Least Favorite Anti-Pattern' (Virtual)",
-   "Audio in standard C++",
-   "Hacker's guide to Rust Programming",
-   "Demystifying Floating Point",
-   "Testing the Limits of Allocator Awareness",
-   "Writing a C++20 Module",
-   "Biicode, a C/C++ dependency manager with a hosting service",
-   "Learn Programming, then Learn how to Be a Programmer",
-   "odeint -- Solving ordinary differential equations in C++",
-   "the 6th event",
-   "High Performance C++ Concurrent Transactional Data Structures",
-   "Plenary: Performance Matters",
-   "From security to performance to GPU programming...",
-   "Why you should (...) compiling your code into web assembly",
-   "Iron Man vs Pony",
-   "Techniques for mocking in C++",
-   "boost.tmp: Your DSL for Metaprogramming - Part 2 of 2",
-   "Words Of Power",
-   "C++ Community Surveys",
-   "'for_each_argument' explained and expanded",
-   "Iterators and Ranges: Comparing C++ to D to Rust",
-   "Source Instrumentation for Monitoring C++ in Production",
-   "Pimpl idiom, multiple Inheritance and facet pattern",
-   "Comparison is not simple, but it can be simpler",
-   "Constructing Generic Algorithms: Principles and Practice",
-   "More GDB wizardry and 8 other essential Linux application debugging tools",
-   "Linear programming made easy with Boost Proto",
-   "Applied WebAssembly: Compiling and Running C++ in Your Web Browser",
-   "CMake: One Tool To Build Them All",
-   "A C++14 Dependency Injection Library",
-   "Regular Types and why do I care?",
-   "Programming challenges in converting R to C++",
-   "C++20: the small things",
-   "How to Design C++ Implementations of Complex Combinatorial Algorithms",
-   "Doxygen to DoxyPress...",
-   "Secure Coding Best Practices: Your First Line Is The Last Line Of Defense (2 of 2)",
-   "An Overview of the Linux and Userspace Graphics Stack",
-   "CMake + Conan: 3 Years Later",
-   "Using Boost.Coroutine to untangle a state machine",
-   "C++11/14/17 atomics and memory model...",
-   "Overloading - Niel Waldren",
-   "Introducing Parallelism to the Ranges TS",
-   "How to Write a Custom Allocator",
-   "The Hitchhiker's Guide to Faster Builds",
-   "Executors in C++",
-   "Tailored static tooling using Clang: Clazy",
-   "Metaprogramming with Boost.Hana: Unifying Boost.Fusion and Boost.MPL",
-   "C++ Concepts 'Lite' in Practice",
-   "Helping Developers to Help Each Other",
-   "Navigating the development and evolution of a library",
-   "Threading dos and don'ts",
-   "Numbers",
-   "Everyday Efficiency: In-Place Construction (Back to Basics?)",
-   "Bringing the power of C++ to the web",
-   "C++ Cryptozoology - A Compendium of Cryptic Characters",
-   "C++20: What's in it for you?",
-   "The memory model in C++",
-   "Behind Enemy Lines - Reverse Engineering C++ in Modern Ages",
-   "Allocator-Aware (AA) Software",
-   "So You Think You Know How to Work With Concepts?",
-   "Building microservices with Rust",
-   "Keep your code sane with clang-tidy",
-   "Become A Game Developer In 5 Minutes Or Less",
-   "The Rule of Seven (Plus or Minus Two): Modern C++ Boilerplate",
-   "The Best Parts of C++",
-   "Generic Programming in C++: A Real-World Example",
-   "Boost.Geometry takes on the globe",
-   "SOLID, Revisited",
-   "What Has My Compiler Done for Me Lately? Unbolting the Compiler's Lid",
-   "Inference in C++: The big picture",
-   "Structure and Interpretation of Computer Programs: SICP",
-   "Two years of libcamera: are complex cameras now easy?",
-   "Functional Programming in C++",
-   "Passwords. Are. Not. Hard!",
-   "Behaviour-Driven Development, BDD, with Cucumber",
-   "Building finite-element matrix expressions with Boost Proto and the Eigen library",
-   "Fun with (user-defined) attributes",
-   "Objects vs Values: Value Oriented Programming in an Object Oriented World",
-   "40 Years Of Evolution from Functions to Coroutines",
-   "An Introduction to C++20's Concepts",
-   "Correct by Construction: APIs That Are Easy to Use and Hard to Misuse",
-   "C++20 STL Features: One Year of Development on GitHub",
-   "interview with speakers",
-   "RaftLib: Simpler Parallel Programming",
-   "Objects? No thanks!",
-   "The Dawn Of A New Error",
-   "Build all the things with Spack: a package manager for more than C++",
-   "C++17 in Breadth (part 2 of 2)",
-   "Hourglass Interfaces for C++ APIs",
-   "C++ API & ABI versioning",
-   "Virtual assembly for web application",
-   "Back to Basics: Concurrency",
-   "Lessons in Sustainability...",
-   "How to Write Well-Behaved Value Wrappers",
-   "(Ab)using C++17",
-   "The Life of a CPU Instruction",
-   "Generic programming of Generic Spaces: Compile-Time Geometric Algebra with C++11",
-   "Combining Modern C++ and Lua",
-   "Reflections: Compile-time Introspection of Source Code",
-   "C++ Atomics...",
-   "Are you Open enough to Innovate? ;)",
-   "Implementing variant Visitation Using Lambdas",
-   "C++ as Assembly 2.0 - Hello Nim",
-   "A review of C++ 11/14 only Boost libraries - Fiber, AFIO, DI and APIBind",
-   "Metaprogramming for the brave",
-   "Assertions of Competence",
-   "Go for DevOps, Go for microservices, and what Go is (...)",
+   "Packaging Applications in a Serverless World!",
    "Boostache",
-   "New standards to the rescue: the view through an IDE's glasses",
-   "Value Semantics and Concepts-based Polymorphism",
-   "CPU-Friendly Code",
-   "Contracts programming after C++17",
-   "An inspiring introduction into Template Meta Programming",
-   "The Problem with 'Cutting Edge C++",
-   "C++14 version of Boost.MSM-eUML",
-   "SYCL building blocks for C++ libraries",
-   "Rethinking Strings",
-   "Tracking DDR ECC issues on a standalone application",
-   "Range-based text formatting",
-   "Exploration of C++20 Meta Programming",
-   "Parsing C++ with GCC plugins",
-   "Generic Programming with Concepts Lite, Part II",
-   "Moving Boost to Git",
-   "The View from a Standard Library Implementor",
-   "C++ 20 Overview: The Big Four",
-   "Eoliennes Connectees",
-   "Three Cool Things about D",
-   "Selected C++11 Template Toffees From sqlpp11 (Part4)",
-   "Proper Inheritance (part 1 of 2)",
-   "Weak Interfaces -> Weak Defences: The Bane of Implicit Conversion in Function Calls",
-   "Ranges and Iterators for numerical problems",
-   "boost.tmp: Your DSL for /*Metaprogramming*/ all the things",
-   "yet another paradigm shift (yaps) -- (A Meta4 model of concurrency)",
-   "Consistent Comparison in C++20",
-   "LLVM C/C++ compiler frontend in Java",
-   "No Sane Compiler Would Optimize Atomics",
-   "Lock-free by Example: Towards an Interesting Lock-free MPMC Queue",
-   "Save $$ Testing Code the Playback-Based Way",
-   "What Belongs in the C++ Standard Library",
-   "CI Your Presentation for Fun and Profit",
-   "Value Semantics: It ain't about the syntax!, Part I",
-   "Concepts and Contracts: When, What, and How",
-   "Can software developers draw pictures?",
-   "Performance analysis and optimization of C++ standard libraries",
-   "Optimizing compilation times with Templates",
-   "AsyncIO and Music",
-   "Declarative thinking, declarative practice",
-   "It's People! Code is made out of people!",
-   "Bootstrapped by Boost",
-   "Product types for C++20?",
-   "Back to Basics: Lambdas from Scratch",
-   "interview with Hartmut Kaiser and Scott Meyers",
-   "The Lifecycle of an A/B Test",
-   "Docker Based C++ Dependency and Build Management",
-   "Abusing Your Memory Model for Fun and Profit",
-   "Modern User Interfaces for C++",
-   "Modern C++ tips & trics",
-   "No lightsaber is needed to break the Wookey",
-   "What is an ABI and Why is Breaking it a Problem?",
-   "Coroutines - the future of future (and more)",
-   "Machine learning - when big data is not enough",
-   "Designated Initializers: Remembering Every Struct Member in Declaration Order Is Hard",
-   "How to get rid of Obsession?",
-   "The hidden rules of world-class C++ code",
-   "Is your Agile agile?",
-   "What is a Good Code",
-   "JavaScript from C++ developer perspective",
-   "boost.tmp: your DSL for Metaprogramming",
-   "Introduction to gRPC",
-   "Fresh Paint",
-   "C++ as a 'Live at Head' Language",
-   "Back to Basics: Templates (part 1 of 2)",
-   "Enough string_view to Hang Ourselves",
-   "Improving Performance and Maintainability in Modern C++",
-   "A new look at TMP",
-   "Local ('Arena') Memory Allocators",
-   "Back to Basics: Understanding Value Categories",
-   "Open is Good - yomm2: Fast, Orthogonal Open Methods",
-   "Expertise Research in Software Engineering C/C++ Code Reviews",
-   "Practical TMP: A C++17 Compile Time Register Machine",
-   "The Best Type Traits that C++ Doesn't Have",
-   "Take your microservices to the next level with gRPC",
-   "How to understand million-line C++ projects",
-   "Keeping Your CI-CD Pipeline as Fast as it Needs to Be",
-   "So, you inherited a large code base...",
-   "Ranges v3 and microcontrollers, a revolution",
-   "JSR-385: Learning from the $125 Million Mars Climate Orbiter Mistake",
-   "FPGA for software developers",
-   "Introduction to RAUC",
-   "Cryptography for Programmers",
-   "Volatile none of the things",
-   "FourCCs Done Right",
-   "From Functions to Coroutines",
-   "The Landscape and Exciting New Future of Safe Reclamation for High Performance",
-   "Concepts As She Is Spoke",
-   "Sanitize your C++ code",
-   "You can run but you can't hide from it: Edge cloud is here, now!",
-   "Meta Polymorphism",
-   "BDE Libraries, An Orientation",
-   "An Overview of C++11/14, Part I",
-   "Basic Web Applications Security",
-   "Pipes: How Plumbing Can Make Your C++ Code More Expressive",
-   "The Surprising Costs of void() (and Other Not-Quite-Innocuous Evils)",
-   "A Browse Through ES",
-   "tuple<>: What's New and How it Works",
-   "Concurrency and Parallelism in C++17 and C++20/23",
-   "Multiple Interface Class Inheritance and Name Hiding",
-   "The Design of a New C++ Build Toolchain",
-   "Functional C++ for Fun and Profit",
-   "Better Tools in Your Clang Toolbox",
-   "High Frequency Trading and Ultra Low Latency development techniques",
-   "Game Audio Programming in C++",
-   "LauncherOne rocket with C++ engine",
-   "Spectre: Secrets, Side-Channels, Sandboxes, and Security",
-   "Safe Software for Autonomous Mobility With Modern C++",
-   "Expect the Expected",
-   "PipeWire: the new adaptable multimedia service, now ready for automotive",
-   "Undefined behavoiur",
-   "An introduction to Kotlin by example",
-   "Algorithmic and microarchitecture optimizations of C++ applications",
-   "C++20 in Breadth",
-   "How to Write Effective Documentation for C++ Libraries...",
-   "A Practical Approach to Error Handling",
-   "Using build2, C++ Build Toolchain",
-   "C++ on small micro controllers",
-   "Partially-formed Objects for fun and profit",
-   "(...) How to work effectively being remote",
-   "Cache Optimized Hash Tables",
-   "Polymorphism A La Carte",
-   "Value semantics: It ain't about the syntax!",
-   "From Iterators to Ranges: The Upcoming Evolution Of the STL",
-   "Distributed applications are easy. Just read the fine print",
-   "Techniques in Flexible Header-Only C++ Network Library Implementations",
-   "Using weakly ordered C++ atomics correctly",
-   "Game engine using STD C++ 11",
-   "Lightweight 2D graphics with io2d",
-   "C++ ecosystem: the renaissance edition",
-   "Live Lock-Free or Deadlock (Practical Lock-free Programming) (PART 1)",
-   "Introduction to proposed std::expected",
-   "Benchmarking in C++",
-   "My Little *this Deduction: Friendship is ... Uniform?",
-   "Exception-Safe Code, Part I",
-   "What I Wish They Told Me - Part 1 of 2",
-   "Higher Order Functions for ordinary developers",
-   "Boost.Asio and Boost.Serialization, Part I",
-   "Beyond the Issaquah Challenge: High-Performance Scalable Complex Updates",
-   "'Property Bindings in C++11' (Lightning Talk)",
-   "Option(al) Is Not a Failure",
-   "From Iterators To Ranges - The Upcoming Evolution Of the Std Lib",
-   "Ranges for the Standard Library",
-   "Monotron - a 1980s style home computer written in Rust",
-   "The fantastic four coding patterns of Continuous Delivery",
-   "Functional Design Explained",
-   "Generic programming for structure-aware algorithms",
-   "Low-Latency Trading: Micro-Optimisations and the Impact of Compliers",
-   "Windows Native API",
-   "An Alternate Smart Pointer Hierarchy",
-   "ConceptClang: Theoretical Advances with Full C++ Concepts",
-   "A variant of recursive decent parsing",
-   "Standardizing Linux Boot process for RISC-V platforms",
-   "Parallelism on Ranges: Should We?",
-   "Optimizing Generic Algorithms",
-   "C++17 - the upcoming revolution",
-   "Large Scale C++ with Modules: What You Should Know",
-   "Generating OpenCL/CUDA source code from C++ expressions in VexCL",
-   "Writing Standard Library Compliant Data Structures and Algorithms",
-   "who the f**k is eric? by odin and the nerds",
-   "Refactoring hacked",
-   "C++ Performance in Practice: Align, Vectorise, Cache, Jump!",
-   "Reducing Memory Allocations in a Large C++ Application",
-   "Live Compiler Development with Cross-Platform Tooling",
-   "'Swizzling' (Lightning Talk)",
-   "C++ on GPUs done right?",
-   "Simplest Strong Typing instead of Language Proposal ( P0109 )",
-   "Back to Basics: Smart Pointers",
-   "Simplicity: not just for beginners",
-   "Effective Qt",
-   "Live Lock-Free or Deadlock (Practical Lock-free Programming) (PART 2)",
-   "Iterators May Stay",
-   "Metaprogramming Applied to Numerical Problems",
-   "A CTO's guide to Modern C++",
-   "Taskflow: A Heterogeneous Task Graph Programming System with Control Flow",
-   "Esoteric Data Structures and Where to Find Them",
-   "Comma Chameleon",
-   "The Exception Situation",
+   "C/C++ vs Security!",
+   "What do you mean by 'cache friendly'?",
+   "Two years of libcamera: are complex cameras now easy?",
+   "Adventures in SIMD-Thinking (part 2 of 2)",
+   "Implementing 'variant' visitation using lambdas",
+   "Choosing the Right Integer Types in C and C++",
+   "Learn Programming, then Learn how to Be a Programmer",
+   "Update on C++ Core Guidelines Lifetime Analysis",
+   "The Point of Views: Multidimensional Ranges for HPC",
+   "Boost Your Program's Health by Adding Fibers to your Coroutine",
+   "Overloading the Member Access Operator",
    "Your CPU is binary",
-   "De-fragmenting C++: Making exceptions more affordable and usable",
-   "Better C++14 reflections",
-   "Modern C++ testing with Catch2",
-   "Standardizing the Data Distribution Service (DDS) API for Modern C++",
-   "C++17 - The Best Features",
-   "Metaparse -- Compile-time parsing with template metaprogramming",
-   "Beware of C++17",
-   "Chandler Carruth - -style extended Q&A / AmA",
-   "The Static Initialization Order Fiasco",
-   "The speed of concurrency (is lock-free faster?)",
-   "Contract Programming in C++(20) (part 2 of 2)",
-   "Constant Fun",
-   "Taskflow: A Parallel and Heterogeneous Task Programming System Using Modern C++",
-   "C++14: Through the Looking Glass",
-   "switchAny: A Practical Exercise in Template Metaprogramming",
-   "On C++, Javascript and WebSockets",
-   "C++20 Lambdas: Familiar Template Syntax",
-   "Big Projects, and CMake, and Git, Oh My!",
-   "Defensive Programming Done Right, Part I",
-   "interview with C++ Standards Committee Fireside Chat",
+   "Modern Continuous Delivery",
+   "Safe Software for Autonomous Mobility With Modern C++",
+   "It's Getting Faster",
+   "Git from the Ground Up",
+   "C++ Memory Model Meets High-Update-Rate Data Structures",
+   "Effective Qt ( edition)",
+   "hop: A Language to Design Function-Overload-Sets",
+   "The most valuable values",
+   "Mix Tests and Production Code With Doctest...",
+   "UX Tips to Avoid Losing Users' Attention",
+   "Call: A Library that Will Change the Way You Think about Function Invocations (2 of 2)",
+   "C++ Concepts and Ranges",
+   "I Just Wanted a Random Integer!",
+   "What Programmers Should Know About Memory Allocation",
+   "The Woos and Woes of Open-Source FPGA-Tools: A journey",
+   "What I Wish They Told Me - Part 1 of 2",
+   "Bash and All That; Why Ancient *NIX Tools Are Still Essential",
+   "Meta Monads",
+   "These two ints have different types. A Data Oriented Design story",
+   "C++17 - The Good and the Ugly",
+   "Embarcadero Case Study: Bringing CLANG/LLVM To Windows",
+   "Zephyr, retour d'experience sur une des fondation de Stimio SDK",
+   "Serverless Beyond the Hype",
+   "Practical Performance Practices",
+   "Maintainability and Refactoring Impact of Higher-Level Design Features",
+   "High Performance Code 201: Hybrid Data Structures",
+   "Generalized Full Duplex Messaging",
+   "Surprises in Object Lifetime",
+   "Character Encodings Hate Us All",
+   "Value Semantics and Concepts-based Polymorphism",
+   "Dungeons, Dragons & Developers",
+   "Objection! A language lawyer story",
+   "Reactive Equations",
+   "De-fragmenting C++: Making Exceptions and RTTI More Affordable and Usable",
+   "Co- and Contra-: Adding a Little Variance",
+   "Higher-order functions in Modern C++: existing techniques and function_ref",
+   "Plenary: Performance Matters",
+   "The C++ Execution Model",
+   "A C++ Approach to Physical Units",
+   "Parametric Expressions: A Proposed Language Feature",
+   "Lambdas from First Principles: A Whirlwind Tour of C++",
+   "Numerical Differentiation ++",
+   "Selected C++11 Template Toffees From sqlpp11 (Part3)",
+   "Deep Learning with C++",
+   "If I Had My 'Druthers: A Proposal for Improving the Containers in C++2x",
+   "How to call C libraries from C++",
+   "C++11 style",
+   "Core principles and creating lightweight design",
+   "Apps, Algorithms & Abstractions",
+   "The fantastic four coding patterns of Continuous Delivery",
+   "Writing Performant C++ Code",
+   "The Development Metrics You Should Use (but Don't)",
+   "MPark.Patterns: Pattern Matching in C++",
+   "Postmodern C++",
+   "Recreational C++",
+   "Boostache Exposed : the internals of Boost's template engine",
+   "C++11 library components to make a scientist happy",
+   "A C++ MQTT Message Broker for the Enterprise",
+   "Fundamentals of Type-Dependent Code Reuse in C++",
+   "Alchemical Code Rejuvenation",
+   "Exploring C++17 and Beyond",
+   "Low Level Threading with C++11",
+   "The Incredible Shrinking Standard",
+   "Future of communications...",
+   "Making C++ Code Beautiful",
+   "40 Years Of Evolution from Functions to Coroutines",
+   "Back to the future",
+   "Breadcrumbs won't help: how not to get lost in a lambda forest",
+   "Hook: The C++ library you were waiting for",
+   "Doxygen to DoxyPress...",
+   "Safe Numerics",
+   "C++ is like Javascript",
+   "Type Deduction in C++14",
+   "functional: What's New, And Proper Usage",
+   "Grill the Committee!",
+   "Practical Type Erasure",
+   "C++ in Elvenland",
+   "interview with Marius Bancila",
+   "Kafka as a Platform: The Ecosystem from the Ground Up",
+   "Universal Function Call Syntax in C++20",
+   "Not Just Events: Developing Asynchronous Microservices",
+   "These aren't the COM Objects you're looking for",
+   "CPU-Friendly Code",
+   "The Importance of Laughter",
+   "A review of C++ 11/14 only Boost libraries - Fiber, AFIO, DI and APIBind",
+   "Cross-Platform Mobile App Development with Visual C++",
+   "Types Don't Know #",
+   "Data Science for Everyone with ISLE",
+   "Using VV = merge_t(std::variant, std::vector);",
+   "Pipes: How Plumbing Can Make Your C++ Code More Expressive",
+   "Get Ready to Rock with Sonic Pi - The Live Coding Music Synth for Everyone",
+   "MPL11: A New Metaprogramming Library for C++11",
+   "Compile Time Regular Expressions",
+   "A Relaxed Guide to memory_order_relaxed",
+   "A Framework for RAD Spirit",
+   "Mastering the Linux Command Line",
+   "Dynamic Reteaming at Fast-Growing Companies",
+   "The Incredibles: Creating an Awesome PO Team",
+   "JavaScript from C++ developer perspective",
+   "Hey C, This Is What Performance Looks like",
+   "Bringing Automation to Web App Hosting and Deployment",
+   "We've Always Been at War with East Constia",
+   "Multitype Pool: fixed type allocation",
+   "Competitive Advantage with D",
+   "C++ Dependency Management: from Package Consumption to Project Development",
+   "Writing Standard Library Compliant Data Structures and Algorithms",
+   "Partially-formed Objects for fun and profit",
+   "Applied Hierarchical Reuse: Capitalizing on Bloomberg's Foundation Libraries",
+   "Hypercritical C++ Code Review",
+   "Mocking Framworks considered, harmful?!",
+   "5G programmable world",
+   "Big Data Analytics in Telecommunication",
+   "Behind Enemy Lines - Reverse Engineering C++ in Modern Ages",
+   "Implementation of a component-based entity system in modern C++",
+   "and , the View From Inside",
+   "Latest and Greatest in the Visual Studio Family for C++ Developers 2018",
+   "Data-oriented design in practice",
+   "Docker Based C++ Dependency and Build Management",
+   "How I Learned to Stop Worrying About Generics and Love Go",
+   "Data-arithmetic optimization of embedded applications",
+   "Data oriented design in practice",
+   "SaaS Deep Dive: Designing and Building Multi-Tenant Solutions",
+   "Swift Driven Development",
+   "You Can Do Better than std::unordered_map: New Improvements to Hash Table Performance",
    "Metaprogramming in C++14",
-   "Effective CMake",
-   "My Thoughts on Large Code Base Change Ripple Management in C++",
-   "SPMD Programming Using C++ and ISPC",
-   "A vision for C++20, and std2 (part 3 of 3)",
+   "aa-scan3 - an AppArmor profiles generator",
+   "Comfort Zone",
+   "Agile the hard(ware) way",
+   "Making Games Start Fast: A Story About Concurrency",
+   "Design Patterns for Handling/Reporting Errors in C++ - Parallel Algorithms & Executors",
+   "Racing Robocars",
+   "Type-safe Programming",
+   "Game engine using STD C++ 11",
+   "From Iterators To Ranges - The Upcoming Evolution Of the Std Lib",
+   "What boost could learn from QT",
+   "Building Better Worlds: Developing a Procedural City Tool for Alien...",
+   "Demystifying Floating Point",
+   "The Future of Accelerator Programming in C++",
+   "Lessons in Sustainability...",
+   "Introducing RTEMS, a serious real-time OS",
+   "A refresher on the floating-point computations and the standard library.",
+   "The Three Little Dots and the Big Bad Lambdas",
+   "Reactive Spring",
+   "C++ based mobile application",
+   "Boost.Compute: A library for GPU/parallel computing",
+   "Phantastic Code Smells and where to find them",
+   "From security to performance to GPU programming...",
+   "Welcome Words",
+   "Introduction to Bazel to build C++ and Python",
+   "SWARMing: Scaling Without A Religious Methodology",
+   "Deprecating Simplicity - Building a New Test Culture",
+   "Automating Processes in Modern Architectures",
+   "Mise a jour : les bonnes questions a se poser",
+   "Git, CMake, Conan: How to Ship and Reuse our C++ Projects",
+   "Introduction to Undodb",
+   "interview with Jose Daniel Garcia",
+   "std::optional and the m word",
+   "Tailored static tooling using Clang: Clazy",
+   "Just-in-Time Compilation",
+   "PSD2, SCA, WTF?",
+   "Using C++ to Connect to Web Services",
+   "It's Complicated",
+   "Building a Telegram Bot with Apache Kafka, Go & ksqlDB",
+   "Object-Oriented Programming in Modern C++",
+   "Proper Inheritance (part 2 of 2)",
+   "The Untapped Potential of Software Visualization",
+   "This Videogame Programmer Used the STL and You Will Never Guess What Happened Next",
+   "What about lambdas",
+   "Optimizing Generic Algorithms",
+   "Boost.Text: Fixing std::string, and Adding Unicode to Standard C++ (part 2)",
+   "The evolving search for modern APIs in Boost",
+   "Secure C++ Programming",
+   "Semantic Sugar: Tips for Effective Template Library APIs",
+   "Cross plattform C++ development is challenging",
+   "How C++20 Changes the Way We Write Code",
+   "The State of Package Management in C++",
+   "Parallel Computing Visualization",
+   "Deep C Diving - Fast and Scalable Text Interfaces at the Bottom",
+   "Your Superpower User Manual",
+   "How Thinking Small is Changing Software Development Big Time",
+   "Create your own Refactoring Tool in Clang",
+   "Howling at the Moon: Lua for C++ Programmers",
+   "Improving Performance and Maintainability in Modern C++",
+   "C++ Modules: The State of The Union",
+   "Refactoring Superpowers",
    "Introduction to Vector Parallelism",
+   "Beyond the Floating Point Computations - What's New, What's Useful?",
+   "Removing Undefined behavior from integer operations: The bounded::integer library",
+   "Asynchronous C++ Programming",
+   "Automatic Task-based Code Generation for High Performance DSEL",
+   "High-Radix Concurrent C++",
+   "Hunting the mammoth in the modern age",
+   "C++14 version of Boost.MSM-eUML",
+   "Rich Code for Tiny Computers: A Simple Commodore 64 Game in C++17",
+   "Talking to Typelists",
+   "The Forgotten Art of Structured Programming",
+   "Back to Basics: Const as a Promise",
+   "Secrets of the Shenandoah Garbage Collector",
+   "Faster Delivery of Large C/C++ Projects with...",
+   "What Everyone Should Know About How Amazing Compilers Are",
+   "C++, QML and static reflection",
+   "Beware of C++",
+   "A lock-free concurrency toolkit for deferred reclamation and optimistic speculation",
+   "Getting customized runtime hardware details at compile-time for (...)",
+   "Why Are Distributed Systems so Hard?",
+   "The MLIR Framework: A Brief Introduction to Deep Learning Compilers",
+   "Recent developments and future outlook of Qt",
+   "Naming is Hard: Let's Do Better",
+   "Cloud Native Java",
+   "How to Write a Custom Allocator",
+   "Exceptions Demystified",
+   "Overloading - Niel Waldren",
+   "Event-based Architecture and Implementations with Kafka and Atom",
+   "embeddr - C with Abstractions",
+   "Back to Basics: Virtual Dispatch and its Alternatives",
+   "How to manage your distributed electronic architecture?",
+   "Mocking Frameworks considered harmful",
+   "The Holy Grail! A Hash Array Mapped Trie for C++",
+   "How to Write a Heap Memory Profiler",
+   "boost.tmp: Your DSL for Metaprogramming - Part 2 of 2",
+   "SSD lifetime, data integrity and real-time: compromises and lessons learned",
+   "Hourglass Interfaces for C++ APIs",
+   "C++ Insights: How stuff works, Lambdas and more!",
+   "FourCCs Done Right",
+   "Trivially Relocatable",
+   "Embarking on Your Security Journey",
+   "Raising a Coder in an Educational Maelstrom: Advice & Lessons Learned",
+   "Fresh Async With Kotlin",
+   "C++ Conferences",
+   "Polymorphic Task   2017",
+   "An Overview of C++11/14, Part I",
+   "Asynchronous, yet readable, code",
+   "How Everyday Technology Can Be Used to Help the Climate",
+   "New C++ features for writing DSLs",
+   "When a Microsecond Is an Eternity: High Performance Trading Systems in C++",
+   "Quantum Computing Q&A",
+   "Range Algorithms, Views and Actions: A Comprehensive Guide",
+   "Microservices Out In the Wild",
+   "The Optimization of a Boost.Asio-based Networking Server",
+   "Metaprogramming Applied to Numerical Problems",
+   "Advanced Levelization Techniques (part 2 of 3)",
+   "Redux Architecture",
+   "Reflections: Compile-time Introspection of Source Code",
+   "C++ Dependency Management the Meson Way",
+   "Introduction to OAuth 2.0 and OpenID Connect",
+   "Implementing a Modern C++ MQTT Client for Embedded Devices",
+   "Data-Driven Engineering",
+   "A Code-Driven Introduction to Reinforcement Learning",
+   "Value Semantics: It ain't about the syntax!, Part I",
+   "Locally Atomic Capabilities and How to Count Them",
+   "Monotron - a 1980s style home computer written in Rust",
+   "Exceptional C++",
+   "Generic programming of Generic Spaces: Compile-Time Geometric Algebra with C++11",
+   "Rethinking Pointers",
+   "Decomposing a Problem for Parallel Execution",
+   "Love Letter to the Computer",
+   "Towards contract programming in C++",
+   "You can run but you can't hide from it: Edge cloud is here, now!",
+   "CNL: A Compositional Numeric Library",
+   "Taskflow: A Parallel and Heterogeneous Task Programming System Using Modern C++",
+   "Building HTTP API SDKs that Really Are a Kit",
+   "Cpu Caches and Why You Care",
+   "C++ Tool Support: Where We Are and Where We Are Heading",
+   "Metaprogramming with Boost.Hana: Unifying Boost.Fusion and Boost.MPL",
+   "Template Metaprogramming: Type Traits (part 1 of 2)",
+   "How C++20 Can Simplify std::tuple",
+   "Cross-Platform Pitfalls and How to Avoid Them",
+   "Technical Specifications & C++17",
+   "Developing C++ @ Facebook Scale",
+   "Procedural Programming: It's Back? It Never Went Away",
+   "Without Data, you're just another Person with Opinions",
+   "Going Multiplatform with Kotlin",
+   "Sorting in less than O(n log n): Generalizing and optimizing radix sort",
+   "The Worst Best Practices",
+   "Dynamic Polymorphism with Metaclasses and Code Injection",
+   "People First Leadership",
+   "Becoming an Empowered Software Developer",
+   "Read and write considered harmful",
+   "Modules are Coming",
+   "Functional Programming in C++",
+   "Obfuscation and beyond: securing your binary",
+   "Spirit: History and Evolution",
+   "The Unexceptional Exceptions",
+   "Benchmarking C++ - From video games to algorithmic trading",
+   "Self-healing, Highly Scalable & Secured Jenkins in the Cloud",
+   "Structured logging",
+   "Viewing The World Through Array-Shaped Glasses",
+   "Why and How To Add Scripting",
+   "Considerations for choosing the parallel computing",
+   "Template Magic For Beginners",
+   "Everything You Ever Wanted to Know about DLLs",
+   "Save $$ Testing Code the Playback-Based Way",
+   "Go forth with C++ - Jacek Sandomierz",
+   "Rcpp: Seamless R and C++ Integration",
+   "C++20 Coroutines: Asynchronity reimagined",
+   "The Story of Villagers, Marbles and Oh, A Blockchain",
+   "The 7 Quests of Resilient Software Design",
+   "East const but constexpr West",
+   "A trusted trip in the cloud - working with trusted hardware (...)",
+   "Scale, Flow and Microservices",
+   "Anchored metadata",
+   "A Quantum Data Structure For Classical Computers",
+   "Leak-Freedom in C++... By Default.",
+   "Boost.Text: Fixing std::string, and Adding Unicode to Standard C++ (part 1)",
+   "Basic Web Applications Security",
+   "Image Signal Processing (ISP) Drivers & How to Merge One Upstream",
+   "Generic Programming",
+   "Open Source at Balena",
+   "Surveying the C++ Community",
+   "Implementing MOF based Modeling Languages with C++ and Qt",
+   "How to Design C++ Implementations of Complex Combinatorial Algorithms",
+   "Ethereum Fundamentals",
+   "Running Zephyr and Linux on the same SoC: making both worlds live together !",
+   "Better mutual exclusion on the filesystem using Boost.AFIO",
+   "Keys to Building Machine Learning Systems",
+   "Moving Fast at Scale",
+   "Black-box performance analysis",
+   "Argument Passing, Core Guidelines, and Aliasing",
+   "Conversation AI, the new User Experience",
+   "New Build System for New C++",
+   "Life After Java 8",
+   "Property based testing in C++",
+   "Composing Bach Chorales Using Deep Learning",
+   "AST Construction with the Universal Tree",
+   "Modules the beginner's guide",
+   "Consistently Inconsistent",
+   "How to be Exceptional in a Technical Due Diligence",
+   "Project managing in Data Science teams",
+   "Supersonic, Subatomic Eclipse MicroProfile",
+   "Learning to Love your Non-functionals",
+   "Continuous Integration of C/C++ Apps for IoT Devices",
+   "An allocator model for std2",
+   "Software Engineering - Development in 100 Years Time",
+   "Boost.Dispatch -- Generalized Tag Dispatching Infrastructure Library",
+   "Understanding Compiler Optimization",
+   "Defensive Programming Done Right, Part I",
+   "Virtual assembly for web application",
+   "From Parsing to sema: Making Sense of Syntax Trees",
+   "History of Time: Asynchronous C++",
+   "STL Algorithms as Expressions",
+   "Overloading: The Bane of All Higher-Order Functions",
+   "The stand up",
+   "HTTP Headers for the Responsible Developer",
+   "Undefined behavoiur",
+   "Functional reactive programming in C++",
+   "The Perils of Strict Aliasing",
+   "Concurrency TS Editor's Report",
+   "Thoughts on a more powerful and simpler C++ (5 of N)",
+   "Experience from Feature Toggling Platform (...)",
+   "The hidden languages of C++",
+   "An Introduction to Bluetooth mesh for Developers",
+   "A Deep Dive into 2 Cross-Platform Mobile Apps Written in C++",
+   "Design Patterns in C++ Done Right",
+   "Support for Embedded Programming in C++11 and C++14",
+   "Amazing Code Reviews: Creating a Superhero Collective",
+   "No Touchy! A Case Study of Software Architecture with Immutable Objects",
+   "Clean(er) Code for Large Scale Legacy Applications",
+   "Bringing the power of C++ to the web",
+   "Expression Templates: Past, Present, Future (PART 2)",
+   "Coroutines - the future of future (and more)",
+   "Concurrency in Rust",
+   "Controlling Overload Resolution with SFINAE",
+   "Racing The File System",
+   "Your Brain on Software Development",
+   "Template Shenanigans",
+   "Let's Get Lazy: Exploring the Real Power of Streams",
+   "Rise of the State Machines",
+   "C++11/14 at Scale: What Have We Learned?",
+   "Creating intuitive APIs",
+   "Spectre: Secrets, Side-Channels, Sandboxes, and Security",
+   "Calendars for Humans - How to Undo the All-day Cram",
+   "Debugging using an exact recording of a program's execution",
+   "Understanding Lvalues and Rvalues",
+   "C++20: the small things",
+   "I Can Sell You Observability, But You Can't Buy It",
+   "C++17, is it great or just OK...",
+   "(...) How to work effectively being remote",
+   "Meaningful casts",
+   "Fuzz or lose...",
+   "Async... oh, wait",
+   "CI/CD is just the Beginning: Optimize Value Creation with Flow Framework",
+   "Sustainable Software Engineering, Building Carbon-Efficient Applications",
+   "Lock-free by Example: Towards an Interesting Lock-free MPMC Queue",
+   "Can I change my organisation?",
+   "Taming Dynamic Memory - An Introduction to Custom Allocators",
+   "Writing Node.js/Electron native C++ addons for beginners",
+   "Role of App Integration in Cloud Native & Microservices Landscape",
+   "Using Concepts: C++ Design in a Concept World (part 1 of 2)",
+   "What's new in Visual Studio Code for C++ development",
+   "Modular Monoliths",
+   "An introduction to Kotlin by example",
+   "Monolithic Delivery",
+   "Incident Analysis Before Chaos Engineering",
+   "Observability for Data Pipelines: Monitoring, Alerting & Tracing Lineage",
+   "Debugging memory corruptions in C++",
+   "Next generation unit testing using static reflection",
+   "Coroutine TS a new way of thinking",
+   "Democratizing Distr. Systems: Kubernetes, Brigade, Metaparticle & Beyond",
+   "Sanitize your C++ code",
+   "What is the basic interface? (part 1 of 2)",
+   "Principles for Developing More Secure Systems",
+   "From the OWASP Top Ten(s) to the OWASP ASVS",
+   "Modern C++ in Embedded Systems - The Saga Continues",
+   "The Asynchronous Enterprise",
+   "libcppa -- Designing an Actor Semantic for C++11",
+   "How To Move Fast Without Breaking Everything",
+   "Let's Move",
+   "Is Team Self-selection the Obvious Choice?",
+   "Developing C++ @ Facebook scale",
+   "STL Features And Implementation Techniques",
+   "Memory Tagging and how it improves C/C++ memory safety",
+   "The worst feature of modern C++: default behaviour",
+   "The Holy Grail!? A Persistent Hash-Array-Mapped Trie for C++",
+   "Clang",
+   "Delivering software that is secure & usable - who's job is it?",
+   "Iron Man vs Pony",
+   "Deep Learning for Developers",
+   "Boundary Conditions",
+   "A vision for C++20, and std2 (part 3 of 3)",
+   "Optimizing compilation times with Templates",
+   "Rust 2018: Access All Areas",
+   "Back to Basics: Understanding Value Categories",
+   "Customization Points That Suck Less",
+   "Learning to Live with Errors",
+   "Variants: Past, Present, and Future",
+   "Algorithms and Iterators for Multidimensional Arrays",
+   "WebAssembly for non-beginners",
+   "Mobile Edge Clouds...",
+   "Identifying Monoids: Exploiting Compositional Structure in Code",
+   "Writing Good C++14... By Default",
+   "Conversational AI Demystified",
+   "The Magic of Music Matching",
+   "Optimizing the Emergent Structures of C++",
+   "string_view",
+   "A Question of Ownership",
+   "Heterogeneous Programming in C++ with SYCL 2020",
+   "When you hit 'Error: memory is not aligned.'",
+   "Surveying the Community - What Could Possibly Go Wrong",
+   "Dragging C++ into the Modern era",
+   "An Interesting Lock-free Queue - Part 2 of N",
+   "What Does THIS Button Do? Serverless and IoT",
+   "What Has My Compiler Done for Me Lately? Unbolting the Compiler's Lid",
+   "Energy and Education Access for Remote Communities",
+   "Production Model Deployment",
+   "Instruction Re-ordering Everywhere: The C++ As-If' Rule and the Role of Sequence'",
+   "Instantiations Must Go!",
+   "I just wanted to point to something!",
+   "Insecure Transit - Microservice",
+   "HPX: A C++ Runtime System For Parallel And Distributed Computing",
+   "Introducing the Ranges TS",
+   "Contracts programming after C++17",
+   "Achieving Functional Programming in Java",
+   "Yocto is not (only) BitBake",
+   "Compile-Time/Run-Time Functional Programming in C++",
+   "Lies, Damned Lies, and Metrics",
+   "How to make a large C++-code base manageable",
+   "Functional Data Structures in C++",
+   "Qt event loop, networking and I/O API",
+   "Polyglot Agile",
+   "Debug C++ Without Running",
+   "Algorithm Intuition (part 2 of 2)",
+   "Mob Programming and the Power of Flow",
+   "Programming in a different domain",
+   "Effective Remote C++ Development with Codespaces",
+   "Functional Programming - Technical reasons to adapt",
+   "Introduction from co-organizers",
+   "Polymorphism with Unions",
+   "Machine Learning for a rescue",
+   "Exception-Safe Code, Part II",
+   "Is Parallel Programming still hard? PART 2 of 2",
+   "Heterogeneous Programming in C++ today",
+   "Augmented reality dev journey",
+   "Turtles! Hill climbing! Hammers! Paper bags!",
+   "Reflection",
+   "Modern C++ testing with Catch2",
+   "Embind and Emscripten: Blending C++11, JavaScript, and the Web Browser",
+   "Spirit.Qi in the Real World",
+   "hardware aided computing",
+   "Advanced Tools for Better Productivity",
+   "switchAny: A Practical Exercise in Template Metaprogramming",
+   "Designing Concurrent C++ Applications",
+   "Where do you want to put the comma?",
+   "Creating Debian-Based Embedded Systems using Debos",
+   "CppComponents- A Modern Portable C++11 Component System",
+   "Don't constexpr All the Things",
+   "Full-stack Reactive Java with Project Reactor & Spring Boot 2",
+   "static_if in C++14",
+   "C++17 coroutines for app and library developers",
+   "Consistent architecture diagrams for C++ projects",
+   "Talking With Tech Leads",
+   "The C++20 firehose talk",
+   "Organizational Leadership with Modern C++",
+   "Building Prediction Pipelines that Rock in the Real World",
+   "Atomics, Locks, and Tasks (part 1 of 2)",
+   "Passwords. Are. Not. Hard!",
+   "C++ on small micro controllers",
+   "OPC UA, La norme d'interoperabilite securisee pour l'Industrie 4.0 et l'IoT",
+   "Internationalization is a Piece of Cake",
+   "A deep dive into the Gilded Rose",
+   "A variant of recursive decent parsing",
+   "The Do's and Don'ts of Error Handling",
+   "Easy High Constancy",
+   "What's New in Visual C++ 2015 and Future Directions",
+   "How we Built Google Tulip Using Serverless Tech & ML",
+   "Rpath and binary reuse",
+   "Unconditional Code",
+   "Documenting C++ Using the Right Tools",
+   "A Zephyr Overview of C++11 (Part I)",
+   "Transducers: from Clojure to C++",
+   "Threading dos and don'ts",
+   "Effective Qt",
+   "An Overview of Standard Ranges",
+   "Let's All just Agree: Achieving Consensus in Blockchain-based Systems",
+   "Reaching Beyond Traditional Boundaries with Clojure",
+   "Modern C++ Design (part 2 of 2)",
+   "Embracing the Future in a Multi-Platform World: A Kotlin Story",
+   "Bringing Clean Code to large scale legacy Applications",
+   "Standardizing a linear algebra library",
+   "Designing value classes for modern C++",
+   "Error Handling is Cancelling Operations",
+   "My Least Favorite Anti-Pattern",
+   "Welcome +  Let's Move-The Hidden Features and Traps of C++ Move Semantics",
+   "Thriving in a crowded and changing world: C++ 2006-2020",
+   "Fastware",
+   "Common Webapp Vulnerabilities and What to Do About Them",
+   "The strange details of std::string at Facebook",
+   "EOS Software development for additive manufacturing",
+   "How to make Augmented Reality with Qt/QML and OpenCV ?",
+   "The Rule of Seven (Plus or Minus Two): Modern C++ Boilerplate",
+   "Benchmarking C++ Code",
+   "Constant Fun",
+   "Grill the C++ Committee with Jon Kalb",
+   "Microsoft w/ C++ to Deliver Office Across Different Platforms, Part I",
+   "Generic Programming with Concepts Lite, Part II",
+   "Seeing the bigger picture part II",
+   "Programming with C++ Constraints: Background, Utility, and Gotchas",
+   "Jepsen 9: A Fsyncing Feeling",
+   "Microsoft w/ C++ to Deliver Office Across Different Platforms, Part II",
+   "Interactive C++ in a Jupyter Notebook Using Modules for Incremental Compilation",
+   "boost.tmp: your DSL for Metaprogramming",
+   "Meta: Thoughts on generative C++",
+   "Include C++",
+   "War is Peace, Freedom is Slavery, Ignorance is Strength, Scrum is Agile",
+   "No raw std::thread! - Live Tweet Analysis in C++",
+   "C++ Templates Revised",
+   "Meta++: Language Support for Advanced Generative Programming",
+   "You're Testing WHAT?",
+   "Generic Parallel Programming",
+   "Safe Numerics Library",
+   "Bringing Clang-tidy Magic to Visual Studio C++ Developers",
+   "Expect the Expected",
+   "Tools to Ease Cross-Platform C++ Development @ CppEurope 2020",
+   "Algorithm Intuition (part 1 of 2)",
+   "OpenMP for better high-level parallelism, not just for High Performance Computing",
+   "The C++17 Parallel Algorithms Library and Beyond",
+   "C++ as a 'Live at Head' Language",
+   "ReasonML: React as a Language and what the Future looks like",
+   "Parsing C++",
+   "Ranges for the Standard Library",
+   "Woes of Scope Guards and Unique_Resource - 5+ years in the making",
+   "Are you Avoiding --privileged? (Q3)",
+   "C++11: High-Level Threading",
+   "Removing Metaprogramming From C++, Part 1 of N: constexpr Function Params",
+   "Fuzzing Class Interfaces for Generating and Running Tests with libFuzzer",
+   "C++ Mixins",
+   "Proper Inheritance",
+   "Back To Basics: Lambda Expressions",
+   "We stopped teaching C",
+   "Functions Want To Be Free",
+   "C++ Today: The beast is back",
+   "Why I Was Wrong About TypeScript",
+   "Surfacing Composition",
+   "Secret Management with Hashicorp's Vault",
+   "There Are No Zero-cost Abstractions",
+   "C++20 Coroutines: Generators, and Brain Unrolling Sweetness",
+   "The C++ Type System Is Your Friend",
+   "Mastering Git's index",
+   "Building Modern Native Applications with Gradle",
+   "What Belongs in the C++ Standard Library",
+   "Space adventures",
+   "Scaling Slack",
+   "Where We're Going, We Don't Need Servers!",
+   "UEFI Applications With Modern C++",
+   "Back to Basics: Move Semantics (part 2 of 2)",
+   "Contract Programming in C++(20) (part 1 of 2)",
+   "Code review",
+   "Functional programming in C++",
+   "C++ Code Smells",
+   "yomm2: Fast, Orthogonal, Open Methods in a Library",
+   "Learning (and teaching) modern C++ - Challenges and Resources",
+   "New standards to the rescue: the view through an IDE's glasses",
+   "Thin LTO",
+   "Increase App Confidence Using CI/CD and Infrastructure as Code",
+   "I have to make a confession - Simon Renger",
+   "Decision Fatigue and coding guidelines",
+   "How to write a programming language",
+   "A story about vectorisation and compiler bug report",
+   "Option(al) is not a failure",
+   "Making C++ and the STL Work in the Linux / Windows Kernels",
+   "Visualizing Cloud Systems",
+   "Cyclomatic Complexity pmccabe as a Refactor Aid",
+   "Creating an Incremental Architecture for your System",
+   "yet another paradigm shift (yaps) -- (A Meta4 model of concurrency)",
+   "Virtual Tables OR The Overhead Of Magic",
+   "Event-Driven Microservices - not (just) about Events!",
+   "Kotlin 4 vs. Scala 3",
+   "So You Think You Know How to Work With Concepts?",
+   "Testing the Limits of Allocator Awareness",
+   "Some Things C++ Does Right",
+   "Cross Platform GUID Association with Types",
+   "C++ API & ABI versioning",
+   "Survey of Multi-Threaded Programming Support in C++11 and Boost",
+   "My Little Optimizer: Undefined Behavior is Magic",
+   "StringViews, StringViews everywhere!",
+   "Building and Extending the Iterator Hierarchy in a Modern, Multicore World",
+   "The Exception Situation",
+   "Building conversational voice bots - lessons learned",
+   "Better Code",
+   "These Aren't the COM Objects You're Looking For",
+   "The Effective Structured Data Marshalling/Demarshalling Through Boost.Fusion",
+   "Value Semantics and Range Algorithms - Composability and Efficiency",
+   "Templator: Demo of a nice tool...",
+   "The Past, Present and Future of Cloud Native API Gateways",
+   "Experiment to Innovate",
+   "Practical SIMD acceleration with Boost.SIMD",
+   "C++, Abstract Algebra and Practical Applications",
+   "Neural networks interactively - right in your browser!",
+   "Modern generic programming using the Tick and Fit libraries",
+   "Hello World From Scratch",
+   "Designing OSTree based embedded Linux systems",
+   "C++ Development with Visual Studio Code",
+   "The Dawn of a new Error",
+   "C++ Community Surveys",
+   "Knowledge is Power: Getting out of Trouble by Understanding Git",
+   "SECURYZR LIGHT   The solution to fit with the design-for-security methodology",
+   "Futures Without Type Erasure",
+   "A Critical Look at the Coding Standards Landscape",
+   "C++17 - The Best Features",
+   "Embedded Linux 'from scratch' in 45 minutes... on Risc-V",
+   "Dealing with aliasing using contracts",
+   "Understanding &&",
+   "Take your microservices to the next level with gRPC",
+   "Crafting EDSL In C++ using Metaprogramming, Operator Overloading, & Lambda Expressions",
+   "Print C++ Like Its Python'",
+   "How C++ Debuggers work",
+   "Type Traits - what are they and why should I use them?",
+   "Leveraging Modern C++ in Quantitative Finance",
+   "Rainbow Six Siege: Quest for Performance",
+   "Allocator-Aware (AA) Software",
+   "Form an Israeli C++ National Body",
+   "Optimising a small real-world C++ application",
+   "Building a C++ Reflection System",
+   "Embedded Domain Specific Languages for Embedded Bare Metal Projects",
+   "High Velocity Development of Microservices",
+   "Reducing Memory Allocations in a Large C++ Application",
+   "Template Normal Programming (part 2 of 2)",
+   "Refactoring C++ legacy code through pure functions @ CppEurope 2020",
+   "Ask us anything",
+   "Building Resilient Frontend Architecture",
+   "The Asynchronous C++ Parallel Programming Model",
+   "Constructing Generic Algorithms: Principles and Practice",
+   "Why and How to Roll Your Own std::function Implementation",
+   "Experiences in Teaching Modern C++ to Beginners",
+   "#Hashing ( Hashing Values )",
+   "C++11 Multithreading done right?",
+   "The Anatomy of an Exploit",
+   "Emscripten and asm.js: C++'s role in the modern web",
+   "High Frequency Trading and Ultra Low Latency development techniques",
+   "Best Practices for Concurrency",
+   "Functional Programming for the Web with Elm",
+   "What did C++ do for Transactional Memory?",
+   "Open is Good - yomm2: Fast, Orthogonal Open Methods",
+   "Oo Considered Harmful",
+   "C++: lambda Demystified",
+   "Understanding Optimizers: Helping the Compiler Help You",
+   "A Practical Approach to Error Handling",
+   "sizeof",
+   "An Allocator is a Handle to a Heap",
+   "Fighting Git Workflows",
+   "A lock-free concurrent toolkit for hazard pointers",
+   "Bluff your way in x64 assembler",
+   "retpoline",
+   "Distributed parametric optimization with the Geneva library",
+   "Metaprogramming in C++",
+   "Expertise Research in Software Engineering C/C++ Code Reviews",
+   "Utilize your CPU power",
+   "Binary compatibility for library developers",
+   "Windows, MacOS and Web: Lessons from Cross-platform Development @ think-cell",
+   "Making Iterators, Views and Containers Easier to Write with Boost.STLInterfaces",
+   "What is the basic interface?",
+   "C++ Integer Promotion is Completely Broken",
+   "Introducing Microsoft's New Open Source Fuzzing Platform",
+   "LINQ for C/C++, Native Rx, Meet Aaron Lahman",
+   "How custom gdb commands help in C++ development",
+   "Creating Boost.Asio extensions",
+   "CERN, from an IT Perspective",
+   "Is Parallel Programming still hard? PART 1 of 2",
+   "Empirical Unit Testing",
+   "Everyday Efficiency: In-Place Construction (Back to Basics?)",
+   "Composite Arithmetic Types Are > the + of Their Parts",
+   "completion T : Improving the future T with monads",
+   "Total War: how AI can deliver entertainment.",
+   "MicroEJ, un environnement virtualise pour l'embarque",
+   "Structure and Interpretation of Test Cases",
+   "PMRs for performance in C++17/20",
+   "A <chrono> Tutorial",
+   "Macchina a Stati Finiti con il Functor Pattern",
+   "Containers From Scratch",
+   "Techniques in Flexible Header-Only C++ Network Library Implementations",
+   "Making C++ easier, faster, safer (part 2)",
+   "Getting Allocators out of Our Way",
+   "Using Concepts: C++ Design in a Concept World (part 2 of 2)",
+   "A Few Gentle Rules (*) but One in Particular",
+   "Esoteric Data Structures and Where to Find Them",
+   "The Dawn Of A New Error",
+   "Lightweight Object Persistence With Relocatable Heaps in Modern C++",
+   "Game Audio Programming in C++",
+   "The Quiet Little Gem in Modern C++: <system_error>",
+   "No more coffee breaks - reducing C/C++ project compilation time",
+   "Concurrency, Parallelism and Coroutines",
+   "It's People! Code is made out of people!",
+   "Biicode, a C/C++ dependency manager with a hosting service",
+   "Embrace No-Paradigm Programming!",
+   "Dino Apps Deserve Love Too!",
+   "Exceptions Under the Spotlight",
+   "Back to Basics: Test-driven Development",
+   "Interconnection security - SS7 and diameter",
+   "Bringing Business Logic Back to C++",
+   "Are Your Secrets Encrypted at Rest and in Transit? (Q5)",
+   "Postcards from the Cross-platform Frontier",
+   "How to write more reliable code",
+   "Modern Template Techniques",
+   "An array of problems. An array of solutions",
+   "From Experimentation to Products: The Production Machine Learning Journey",
+   "Teach Your Computer to Code FizzBuzz",
+   "Databases on Kubernetes: Why You Should Care!",
+   "Why don't the cool kids like OOP? - Jon Kalb",
+   "Legacy Evolution - The Innovation Opportunity!",
+   "Cross-platform C++ development is challenging - let tools help!",
+   "Regular Expressions in C++, Present and Future",
+   "Optimally Shooting Furry Balls out of Vulkanoes",
+   "Undefined Behavior is Not an Error",
+   "Modern C++ Design (part 1 of 2)",
+   "Ai4Prod: the ecosystem to bring AI in production through C++",
+   "Building LPWAN Solutions that last for Years",
+   "CMake: One Tool To Build Them All",
+   "How does Git actually work?",
+   "Design Journeys with Skoot, a Peer Oriented Generic Networking Library",
+   "An Overview of Program Optimization Techniques",
+   "The Many Variants of std::variant",
+   "Augmented Reality - The State of Play",
+   "Using tasks to simplify concurrency in modern C++",
+   "Exception-Safe Coding in C++ (Part I)",
+   "LLVM C/C++ compiler frontend in Java",
+   "Nothing is better than copy or move",
+   "Cryptography for Programmers",
+   "GPU programming with modern C++",
+   "The Story of CyberDojo (so far)",
+   "Maximizing Java Application Performance with GraalVM",
+   "Migrating a C++03 library to C++11 case study: Wt 4",
+   "Faster than memcpy",
+   "Cloud Foundry Container Runtime: BOSH-Powered Kubernetes",
+   "Catch [^]: Unicode for C++23",
+   "Working on modular projects with Git",
+   "Declarative Thinking, Declarative Practice",
+   "Sane and Safe C++ Class Types",
+   "179 range algorithms in less than an hour",
+   "Promises in C++: The Universal Glue for Asynchronous Programs",
+   "Higher Order Functions for ordinary developers",
+   "Requirement: Creativity",
+   "The ongoing design and evolution of cyber-dojo",
+   "C++ at Build 2012, Inside Profile Guided Optimization",
+   "A Test a Day Keeps Your Manager Away!",
+   "Code Reviews - Why, what and how",
+   "Generating OpenCL/CUDA source code from C++ expressions in VexCL",
+   "for_each_argument explained and expanded",
+   "How Google SRE and Developers Work Together",
+   "Improving Performance Through Compiler Switches...",
+   "Improving Business Resiliency with Chaos Engineering",
+   "Be your own Threatbuster!",
+   "Back to Basics: Smart Pointers",
+   "Rethinking the Way We Do Templates in C++ even more",
+   "The Robustness of Go",
+   "Enhanced Support for Value Semantics in C++17",
+   "Fun with C11 generic selection expression",
+   "Content Security Policies: Let's Break Stuff",
+   "What Engineering Managers Should Do (and Why We Don't)",
+   "C++20 STL Features: One Year of Development on GitHub",
+   "Garbage In, Garbage Out: Arguing about Undefined Behavior...",
+   "JSR-385: Learning from the $125 Million Mars Climate Orbiter Mistake",
+   "An implementer's view of Boost.SIMD",
+   "Industrial Applications of Reinforcement Learning",
+   "Range-based text formatting",
+   "When Should You Give Two Things the Same Name?",
+   "Clang Concepts",
+   "Why Aren't You A Data-Driven AI Company Yet?",
+   "The speed of concurrency (is lock-free faster?)",
+   "The Smart Pointers I Wish I Had",
+   "5 Reasons to use Reactive Programming if you are not eBay",
+   "Deliver Results, Not Just Releases: Control & Observability in CD",
+   "Eoliennes Connectees",
+   "An Average Working Day on Visionary NASA Projects",
+   "Solving World Problems with Fusion",
+   "Batching vs. Streaming - Scale & Process Millions of Measurements a Second",
+   "How to Apply Engineering Practices to Embedded Software Development",
+   "AppSec: From the OWASP Top Ten(s) to the OWASP ASVS",
+   "Back to Basics: Design Patterns",
+   "Patterns and Techniques Used in the Houdini 3D Graphics Application",
+   "Variadic Templates in C++11 / C++14 - An Introduction",
+   "Is this available?",
+   "What's new in Visual Studio IDE for C++ Developers",
+   "Attitude of Iteration",
+   "Principles of Play 2.0",
+   "The life-changing magic of tidying up",
+   "Optimizing Performance of Stateful Apps for Globally Distributed Users",
+   "Design for Cost VS Cost of Design",
+   "Kotlin Flows and Channels for Android",
+   "constexpr: Applications",
+   "Modern Linux C++ debugging tools - under the covers",
+   "Make It Fixable: Preparing for Security Vulnerability Reports",
+   "Applied WebAssembly: Compiling and Running C++ in Your Web Browser",
+   "CUDA Kernels with C++",
+   "Millisecond Full Stack Acceptance Tests",
+   "Pointless Pointers - How to make our interfaces efficient?",
+   "Refactoring C++ with Clang",
+   "Emotional Code",
+   "Breaking Things on Purpose",
+   "WG21-SG14: The Story So Far",
+   "Dealing with function failures in C++",
+   "DevUX: Improving Developer-Designer Collaboration",
+   "Kubernetes: Crossing the Chasm",
+   "Exploring C++17 and beyond",
+   "A Little Order: Delving into the STL sorting algorithms",
+   "Building Software Capital: How to write the highest quality code and why",
+   "Seven Languages in 90 Minutes",
+   "Building Secure React Applications",
+   "Adopt GraphQL without Writing any Backend Code",
+   "Lockfree Programming Part 2: Data Structures",
+   "Effective Code Review",
+   "Source Instrumentation for Monitoring C++ in Production",
+   "Towards Heterogeneous Programming in C++",
+   "Good FIFOs Make Good Thread Neighbors",
+   "Real time 101",
+   "Reactive Systems",
+   "PipeWire: the new adaptable multimedia service, now ready for automotive",
+   "Building safe & Secure embedded systems by means of hypervisor approach",
+   "Fun with Boost.Hana",
+   "Code Analysis++",
+   "Destructor Case Studies: Best Practices for Safe and Efficient Teardown",
+   "The cell as a computer: Turing complete and massively parallel",
+   "Cross-Platform Apps with Dropbox's Djinni...",
+   "Plenary: The Beauty and Power of 'Primitive' C++",
+   "Moving Faster: Everyday Efficiency in Modern C++",
+   "No lightsaber is needed to break the Wookey",
+   "The Surprising Costs of void() (and Other Not-Quite-Innocuous Evils)",
+   "Product Security, From the dark side to the light",
+   "The memory model in C++",
+   "Diagnose your Golang App anytime anywhere!",
+   "boost.tmp: Your DSL for /*Metaprogramming*/ all the things",
+   "Simplification and Automation in Java: Yesterday, Today and Tomorrow",
+   "Structure aware fuzzing",
+   "Impact on maintainability and refactoring for higher-level design features",
+   "Good Enough Architecture Part 2",
+   "Reader-Writer Lock versus Mutex - Understanding a Lost Bet",
+   "A Tour of Deep Learning With C++",
+   "Allocators in C++11",
+   "Integrating Docker containers in Yocto",
+   "Monolith to Microservices",
+   "The Julia Language and C++: The Perfect Marriage?",
+   "FPGA and open hardware",
+   "Re-architecting 2-tier to 3-tier",
+   "How to Teach C++ and Influence a Generation",
+   "clang-tidy: write your own linting tool",
+   "C++ Hardware Register Access",
+   "C++ Metaprogramming: A Paradigm Shift",
+   "Typing types at type level - Matthis Kruse",
+   "Enabling Teams to Embrace Change",
+   "Tools from the C++ eco-system to save a leg",
+   "Practical Quantum Computing with D-Wave",
+   "Haskell -- The Pseudocode Language for C++ Template Metaprogramming (Part 2)",
+   "Finding hard to find bugs with Address Sanitizer",
+   "dynamic_cast From Scratch",
+   "Using Types Effectively",
+   "Designing A Feature That Doesn't Fit",
+   "Kotlin/Native: The Good, The Bad, and the Ugly",
+   "Securing APIs and Microservices with OAuth and OpenID Connect",
+   "Backporting to the Future",
+   "Using C++20 Ranges Effectively",
+   "C++ - the Newest Old Language",
+   "Agent based class design",
+   "Functional Geometry: Producing Pure Spaces",
+   "Optimization Tips - Mo' Hustle Mo' Problems",
+   "Zero-allocation & no type erasure futures",
+   "The Static Initialization Order Fiasco",
+   "Initialization in modern C++",
+   "The Hidden Secrets of Move Semantics",
+   "Time Travel Debugging",
+   "What Every C++ Programmer Should Know About Modern Compilers",
+   "The Distributed Version Control Revolution",
+   "Memory Efficient Java",
+   "Black Box Optimization of Compile Times",
+   "Why algebraic data types are important",
+   "How to Cook a Chicken",
+   "The hidden rules of world-class C++ code",
+   "C++ as Assembly 2.0 - Hello Nim",
+   "If You're Happy and You Know It (Inside the Mind of a Developer)",
+   "High Performance Graphics and Text Rendering on the GPU",
+   "Compiling Multi-Million Line C++ Code Bases Effortlessly with the Meson Build System",
+   "How to Evolve Your Way Out of a Paper Bag",
+   "Designated Initializers: Remembering Every Struct Member in Declaration Order Is Hard",
+   "interview with Manuel Benche",
+   "Intro to Empirical Software Engineering: What We Know We Don't Know",
+   "The Landscape of Parallelism",
+   "Ownership model in C++ and beyond",
+   "Compile-time programming and reflection in C++20 and beyond",
+   "Fastbuild",
+   "C++ and Memory: Between Correctness and Performance",
+   "On the road to a trusted boot chain on STM32MP1 series",
+   "What belongs in the C++ Standard Library",
+   "Assertions of Competence",
+   "A Short Life span For a Regular Mess",
+   "Splash screen for Embedded Linux 101: How to customize your boot sequence",
+   "AI/ML, Quantum Comp. & 5G - Opportunities, Challenges & Impact on Society",
+   "Quickly Testing Qt Desktop Applications with Approval Tests",
+   "Learn Robotics with C++ in 1 Hour",
+   "C++ Coroutines - a negative overhead abstraction",
+   "HPX and GPU parallelized STL",
+   "C++ Metaprogramming: Journey from simple to insanity and back",
+   "Deploying C++ modules to 100s of millions of lines of code",
+   "DynaMix: A New Take on Polymorphism",
+   "HTTP/3 is next Generation HTTP. Is it QUIC enough?",
+   "Adventures in SIMD-Thinking",
+   "Large-Scale Refactoring @ Google",
+   "Why Business Cases are Toxic",
+   "test_resource: the pmr detective",
+   "Why you should (...) compiling your code into web assembly",
+   "Implementing Physical Units Library for C++",
+   "Concepts, Type Traits and Specialization",
+   "Crafting the Core - Why and How We Built the Core Banking System",
+   "Exception-Safe Code, Part III",
+   "Upgrade Time: Choose Java 11 or the 'other' one...Kotlin",
+   "Building for the Best of Us: Design and Development with Kids in Mind",
+   "Make Classes Great Again! (Using Concepts for Customization Points)",
+   "A modern formatting library for C++",
+   "Software Visualization: The humane solution",
+   "What happened to...: Deprecated and Removed Features of C++",
+   "C++ Coroutines: Under the covers",
+   "Explore your Microservices Architecture with Graph Theory & Network Science",
+   "Reflection Techniques in C++",
+   "Easier said than done. Self-organized teams",
+   "C++20 - My Favourite Code Examples",
+   "std variant and the power of pattern matching",
+   "CPU design effects",
+   "Back to Basics: Templates (part 2 of 2)",
+   "Reuse bill",
+   "One Friend Ain't Enough",
+   "Mastering the IoT with C++ and JavaScript",
+   "The New Old Thing, of Fun with Lambdas",
+   "Low-Latency Trading: Micro-Optimisations and the Impact of Compliers",
+   "A Taste of Julia",
+   "The 5 Pillars of Collaborative Product Ownership",
+   "Cache Optimized Hash Tables",
+   "odeint -- Solving ordinary differential equations in C++",
+   "Runtime Polymorphism: Back to the Basics",
+   "Rethinking the Way We Do Templates in C++",
+   "Life After Business Objects - Confessions of an OOP Veteran",
+   "When C++ Style Guides Contradict",
+   "Writing Good C++14",
+   "The C++ rvalue lifetime disaster @ CppEurope2020",
+   "Equivalence in cross-compilation compiler warnings",
+   "Why I should run my applications in containers (or, at least, consider doing it)?",
+   "Modern C++ Interfaces...",
+   "Some Programming Myths Revisited",
+   "Distributed Data Stores on Kubernetes",
+   "Balancing Choreography and Orchestration",
+   "From Iterators to Ranges: The Upcoming Evolution Of the STL",
+   "C++ Class Natures",
+   "C++17 key features",
+   "Secure Coding Best Practices: Your First Line Is The Last Line Of Defense (1 of 2)",
+   "Extrema:  Correctly Calculating min and max",
+   "Using Spirit X3, Part I",
+   "ConceptClang: An Implementation Model for C++ Concepts",
+   "Library Approaches for Strong Type Aliases",
+   "The Intellectual Ascent to Agda",
+   "Datum: A Compact Bitwise Copyable Variant Type",
+   "Towards Painless Testing",
+   "Software Transaction Memory, For Reals",
+   "The Performance Price of Dynamic Memory in C++",
+   "constexpr: Introduction",
+   "Multithreading is the answer. What was the question? Part I",
+   "Leaving The Dark Side - Developing a C++ Based Medical Device",
+   "Named Arguments from Scratch",
+   "CQRS & Event Sourcing Apps with Axon & Pivotal Cloud Foundry",
+   "Technical documentation is a backup so make sure it works @ CppEurope",
+   "Hybrid Intelligence: First Rate Humans, Not Second Class Robots",
+   "A Visions For std2",
+   "Big Projects, and CMake, and Git, Oh My!",
+   "The Speed Game: Automated Trading Systems in C++",
+   "Future C++1x proposals",
+   "All the Default's Are Backwards",
+   "lambda Demystified",
+   "Time Travel: Applying Gradual Typing to Time Types with Clang's LibTooling",
+   "fixed_point",
+   "Effective dependency management with CMake",
+   "Integrating generators EDSL's for Spirit X3 (WIP)",
+   "Using Spirit V2: Qi and Karma",
+   "C++20: An (Almost) Complete Overview",
+   "Lifetime analysis for everyone",
+   "GraalVM: Run Programs Faster Anywhere",
+   "Moving Boost to Git",
+   "Understanding value categories in C++",
+   "Non-Allocating std::future/promise",
+   "Come Stream with Me",
+   "Hands-On With Abseil",
+   "Mongrel Monads, Dirty, Dirty, Dirty",
+   "Expression Templates Revisited",
+   "Techniques for Overloading any_invocable",
+   "Parallel Programming using Charm++",
+   "Monads in Chains",
+   "GDB - A Lot More Than You Knew",
+   "Modern C++ API Design: From Rvalue-References to Type Design",
+   "Hierarchy of C++ needs - Boris Schaling",
+   "C++ in Open Source Robotics",
+   "Hacker's guide to Rust Programming",
+   "Developing PHP Extensions with PHP CPP",
+   "Quantum Computing",
+   "Tacit DSL All the Things",
+   "Facts You May Not Know About Kotlin",
+   "Colonies, performance and why you should care",
+   "Command Line Parser Library   2017",
+   "A modern, scalable risk system architecture",
+   "What a View! Building Your Own (Lazy) Range Adaptors (part 1 of 2)",
+   "Generic programming for structure-aware algorithms",
+   "Functional C++ for Fun and Profit",
+   "STL Algorithms - why you should use them, and how to write your own",
+   "Reasoning with function signatures",
+   "Designing APIs for performance",
+   "extern c: Talking to C Programmers about C++",
+   "From Functions to Coroutines",
+   "Safe and Sane C++ Types",
+   "The C++ Memory Model",
+   "Simulating the Universe Using Modern C++",
+   "UI prototyping and development for multiple devices in C++",
+   "EDSL Infinity Wars: Mainstreaming Symbolic Computation",
+   "The Soul of Erlang and Elixir",
+   "Two new C++ libraries for atmospheric research",
+   "Pruning Error Messages From C++ Template Code",
+   "HTML: How to Make Loveliness",
+   "C++20: What's in it for you?",
+   "Here's my number; call me, maybe. Callbacks in a multithreaded world",
+   "Formatting floating-point numbers",
+   "How bad is Meta-Programming still today?",
+   "More Modern CMake",
+   "Efficient GPU Programming with Modern C++",
+   "Building Distributed Systems with Kubernetes",
+   "How Microteams Change the Way We Collaborate. Again",
+   "Tuning C++: Benchmarks, and CPUs, and Compilers! Oh My!",
+   "The Numerical Template Toolbox for High Performance Computing",
+   "Fast by Default: Near Instant Load Times at Scale with GatsbyJS",
+   "PopcornFlow: If Change is Hard, Make it Continuous",
+   "50 shades of C++",
+   "Answering a Question From My Talk...",
+   "A new look at TMP",
+   "Making New Friends",
+   "Mocking C++",
+   "Behind the scenes of upgrading a static analyzer to C++20",
+   "SW compatibility, plan it or face eventual consequences",
+   "HORRORLARITY",
+   "ThinLTO Whole Program Optimization",
+   "Asynchronous Programming in Modern C++",
+   "SOLID, Revisited",
+   "who the f**k is eric? by odin and the nerds",
+   "The Continuing Future of C++ Concurrency",
+   "Rapid Java Innovation",
+   "Platform Engineering as a (Community) Service",
+   "Go Get Better (Go Programming Language)",
+   "Introduction to brigand",
+   "Using weakly ordered C++ atomics correctly",
+   "Live Hacking Session Part 1",
+   "Why C++ for Large Scale Systems?",
+   "Standardizing the Data Distribution Service (DDS) API for Modern C++",
+   "10 Core Guidelines You Need to Start Using Now",
+   "C/C++ is very similar to Java/JavaScript",
+   "WebAssembly Beyond the Browser",
+   "Lambda Functions",
+   "Thinking Portable: How and why to make your C++ cross platform",
+   "Local ('Arena') Memory Allocators (part 2 of 2)",
+   "Are You Keeping Hosts Up to Date with the Latest Security Releases? (Q4)",
+   "Counting Nanoseconds Microbenchmarking C++ Code",
+   "ASoC: Audio on an embedded board",
+   "AI: Actual Intelligence",
+   "The Landscape and Exciting New Future of Safe Reclamation for High Performance",
+   "Functional Programming in 40 Minutes",
+   "Advanced Feature Flagging: It's All About The Data",
+   "Faster Code Through Parallelism on CPUs and GPUs",
+   "Atomics, Locks, and Tasks (part 2 of 2)",
+   "WebAssembly: an overview",
+   "Serverless 2.0: Get started with the PLONK Stack",
+   "interview with Rafi Wiener ::  Question",
+   "Undefined Behavior in  (part 1 of 2)",
+   "The Construction and Use of C++ Algorithms",
+   "The Basics of Lock-free Programming",
+   "Ryppl -- A New Platform for Boost Development",
+   "Event Storage in Axon Server - How does it work?",
+   "Modernizing Legacy C++ Code",
+   "Building a Coroutine based Job System without Standard Library",
+   "Contract use: Past, Present, and Future",
+   "Not Leaving Performance On The Jump Table",
+   "Modern C++ Design reloaded",
+   "How to: Colony",
+   "Smart Output Iterators",
+   "The Design of the C++ Runtime for AWS Lambda",
+   "What I Talk About When I Talk About Cross Platform Development",
+   "folly::Function: A Non-copyable Alternative to std::function",
+   "Automatic Hybrid MPI+OpenMP Code Generation",
+   "Breaking Black-box AI",
+   "Coroutines, Fibers and Threads, Oh My",
+   "Exception-Safe Code, Part I",
+   "Boosting MPL with Haskell elements",
+   "Managarm: A Fully Asynchronous OS Based on Modern C++",
+   "True parallelism, with no concept of threads",
+   "Abusing Your Memory Model for Fun and Profit",
+   "Algorithm Design For Values Distributed In Time",
+   "Introduction to OpenAPI",
+   "How C++ Debuggers Work",
+   "The Bad Big Wolf Meets Riding Hood Little Red",
+   "Best practices when accessing Big Data or any other data!",
+   "C++20 Coroutines: What's next?",
+   "Machine Ethics",
+   "C++ ecosystem: the renaissance edition",
+   "An Overview of Transport Layer Security (TLS) Protocol Version 1.3",
+   "Serialization in C++ has never been easier! But wait, there's more",
+   "Kickstarting Your Azure Pipeline with Templates",
+   "Design and Evolution of cyber-dojo",
+   "Contracts for Dependable C++",
+   "The History of Berlin (Special Appearance)",
+   "Design Compact Deep Learning Models: Small is the New Big",
+   "The One-Decade Task: Putting std::atomic in CUDA.",
+   "AsyncIO and Music",
+   "Code Samples That Compile Even More Easily",
+   "The beast is becoming functional",
+   "Exception-Safe Coding in C++ (Part II)",
+   "Reader-Writer Lock versus Mutex",
+   "Elegant Filesystem Interactions in Python using pathlib",
+   "lemniscate C++++++...",
+   "Live Lock-Free or Deadlock (Practical Lock-free Programming) (PART 2)",
+   "Putting Your Security on the Wire",
+   "A short story about...",
+   "Troubleshooting Tiered Tragedy: A Peek Into Failure",
+   "Embrace No Paradigm Programming!",
+   "Preconditions, Postconditions, Invariants: How They Help Write Robust Programs",
+   "Interactive C++: Meet Jupyter / Cling",
+   "Drinking from the Fire Hose: Keeping up with the evolving landscape of C++",
+   "What Technical Leads Can Learn from Great General Managers",
+   "Retiring the Singleton Pattern",
+   "Confusion in the Land of the Serverless",
+   "C++17 - the upcoming revolution",
+   "Practical End-to-End Container Security at Scale",
+   "Accu Overload",
+   "A look at C++ through the glasses of a language tool",
+   "Local ('Arena') Memory Allocators (part 1 of 2)",
+   "Azure Serverless for Developers",
+   "The Best Type Traits that C++ Doesn't Have",
+   "The many faces of Number -- String conversions",
+   "Networking TS Workshop (part 1 of 2)",
+   "Local ('arena') memory allocator",
+   "Live Hacking Session Part 2",
+   "Good Enough Architecture Part 1",
+   "Now What? A vignette in three parts",
+   "Improve your C++ with inspirations from other languages",
+   "Local (arena) Memory Allocators",
+   "Design And Implementation Of DBMS Asynchronous Client Library",
+   "Better Algorithm Intuition",
+   "Frozen data structures in C++14",
+   "Building Evolutionary Infrastructure",
+   "Local (Arena) Allocators Part II",
+   "std::shared_ptr/T/",
+   "C++ Constants",
+   "A Zephyr Overview of C++11 (Part II)",
+   "Developing a Linux driver in Rust for ARM",
+   "Structured bindings uncovered",
+   "Words of Wisdom",
+   "Parsing C++ with GCC plugins",
+   "Fun with Tuples",
+   "Considerations for choosing the parallel computing strategy",
+   "Beyond C++17",
+   "Easy to Use, Hard to Misuse: Declarative Style in C++",
+   "How to initialize x from expression y",
+   "These 10 tricks that only library implementors know!",
+   "Compile-time 'reparsing'",
+   "Practical (?) Applications of Reflection",
+   "Dynamic C++",
+   "Specialising Linear Algebra for Geometry",
+   "C++ Component Extensions for WinRT",
+   "Lock-free programming with modern C++",
+   "Better embedded library interfaces with modern C++",
+   "Is C++ really a highperformance language?",
+   "C++ Puzzlers",
+   "How to Become a Great Software Architect",
+   "Standardese",
+   "Functional Programming: data",
+   "What You see",
+   "What I Wish They Told Me - Part 2 of 2",
+   "An easy to use RPC framework implemented in C++11/14",
+   "Anatomy of a Smart Pointer",
+   "The Evolution of C++ Past, Present and Future",
+   "std::allocator...",
+   "Walter Bright and Andrei Alexandrescu - D Programming Language",
+   "Nim - First natively compiled language w/ hot code-reloading at runtime",
+   "Generic Programming in C++: A Real-World Example",
+   "Type Based Template Metaprogramming is Not Dead",
+   "Role of Product Manager",
+   "Striving for ultimate low latency",
+   "Securing the JVM",
+   "Boosting knowledge sharing",
+   "An Asio Based Flash XML Server",
+   "Managing C++ Build Complexity Using Cuppa: A SCons-based Build System",
+   "On the Road to Artificial General Intelligence",
+   "Embedded & C++",
+   "Techniques for mocking in C++",
+   "Unicode Strings: Why the Implementation Matters",
+   "Fresh Paint",
+   "When Python Practices Go Wrong",
+   "Old Is the New New",
+   "Associative containers - Jean Guegant",
+   "Talking with Tech Leads",
+   "Machine Learning: Alchemy for the Modern Computer Scientist",
+   "Better Code with C++ Attributes",
+   "Bridging Languages Cross-Platform...",
+   "DevOps transformation - It's not just an R&D thing",
+   "How to Preserve Privacy on a Blockchain",
+   "C++ Build Systems",
+   "Understanding and mastering C++'s complexities",
+   "Friendship in Service of Testing",
+   "The Problem with 'Cutting Edge C++",
+   "Thinking Like a Data Scientist",
+   "interview with Augustin Popa & Elizabeth Morrow",
+   "Application Security at High Velocity",
+   "Generic Conversion & Segmentation for Ranges: A Solution for Unicode",
+   "Simplicity: not just for beginners",
+   "No raw loops with no OS",
+   "Return Value Optimization: Harder Than It Looks",
+   "Keep it Clean: Why Bad Data Ruins Projects and How to Fix it",
+   "C++20 in Breadth",
+   "Linux User/Kernel ABI: the realities of how C and C++ programs really talk to the OS",
+   "Rapid Prototyping in C++",
+   "The life changing magic of tidying up - Tina Ulbrich",
+   "Type punning in modern C++",
+   "C++ on GPUs done right?",
+   "Read, Copy, Update, then what? RCU for non-kernel programmers",
+   "Enhancing STL containers",
+   "Multi-Precision Arithmetic for Cryptology in C++, at Run-Time and at Compile-Time",
+   "From embedded Linux boat sensors to the cloud, a data journey",
+   "Lessons Learned",
+   "Practical constexpr",
+   "Applied AI: Real-World Use Cases for Microsoft's Azure Cognitive Services",
+   "Mastering the Cell Broadband Engine via a Boost-based library",
+   "The Future of Sustainable Transportation",
+   "Structure and Interpretation of Computer Programs: SICP",
+   "Naked coroutines live (with networking)",
+   "Computer Architecture, C++, and High Performance",
+   "The Nightmare of Move Semantics for Trivial Classes",
+   "Let's make a telegram bot with C++",
+   "TDD/BDD and DI",
+   "Test Driven C++",
+   "Critical Code analysis with Observer Pattern",
+   "Fast numerical computation in C++: Expression Templates",
+   "Variadic expansion in examples",
+   "Go: Concurrency Design",
+   "Practical Functional Programming in C++",
+   "Can AI replace programmers?",
+   "Why Open Source Firmware is Important",
+   "Toward Native XML Processing Using Multi-paradigm Design in C++",
+   "Thinking Asynchronously",
+   "Functional C++ For Fun And Profit",
+   "Can You Prevent Container Drift? (Q6)",
+   "Did We(b Development) Lose the Right Direction?",
+   "Boostache Exposed - the internals of Boost's template engine",
+   "The Current State of (free) Static Analysis",
+   "Is your Agile agile?",
+   "Conan, le gestionnaire de paquets C/C++",
+   "Move-only types can save the API",
+   "Fun with Type Erasure: Implementing a Value Wrapper for Polymorphic Types",
+   "Infiltrating a Code Base: Moving Toward a Better C",
+   "C++20 String Formatting Library: An Overview and Use with Custom Types",
+   "Empirically Measuring, & Reducing, C++'s Accidental Complexity",
+   "An Overview on Encryption in C++",
+   "Going Serverless with VueJS",
+   "Modern Design Patterns with Modern C++",
+   "Concepts and Contracts: When, What, and How",
+   "A Unifying Abstraction for Async in C++",
+   "GOTO 2019",
+   "High performance data structures in boost",
+   "The cost of simple programs",
+   "Preconditions, postconditions, invariants - how they (...)",
+   "C++20 Text Formatting",
+   "A Tutorial Introduction to C++11 & 14 Part 1",
+   "Socializing with {fmt}",
+   "Lock-free by Example",
+   "Why You Need a Software Delivery Machine",
+   "A Beginner's Guide to eBPF Programming with Go",
+   "Diversity and Inclusion   2017",
+   "Thread-safe and Thread-neutral Bags",
+   "Meet the Authors",
+   "What I Talk about When I Talk about Cross Platform Development",
+   "All the defaults are backwards - Phil Nash",
+   "Getting to Grips with Kubernetes RBAC",
+   "my favorite C++ feature  - Meeting C++",
+   "The Automation Challenge: Kubernetes Operators vs Helm Charts",
+   "A Complete Overview on Boost.Jam and Boost.Build",
+   "rand() Considered Harmful",
+   "Log Analytics: Understanding Complex Systems at Scale",
+   "Using the Groovy Ecosystem for Rapid Development on the JVM",
+   "When warnings become errors. A case-study of latent bugs (...)",
+   "Turning MQTT v5 inside out",
+   "Processing Streaming Data with KSQL",
+   "Combined Short Talks",
+   "A State of Compile Time Regular Expressions",
+   "Deep Learning in Medicine",
+   "Disrupting QA - Emerging Trends in Code Quality Automation",
+   "C++11 was only the beginning",
+   "Site Reliability Engineering at Google",
+   "Using Boost.Coroutine to untangle a state machine",
+   "Preprocessor-aware Automated Refactoring",
+   "My Four Year Bug",
+   "A C++14 approach to dates and times",
+   "the asynchronous library",
+   "How to understand million-line C++ projects",
+   "Enum to string using metaprogramming - Daniel Gavrila",
+   "Reducing OS noise using offload driver",
+   "Taming dynamic memory",
+   "Using Open Source Observability with Lambda",
+   "Rebuilding Boost Date-Time for C++11",
+   "Alexa, Let's Build a Serverless Skill",
+   "Inside Spirit X3: Redesigning Boost.Spirit for C++11",
+   "Small is beautiful: Techniques to minimise memory footprint",
+   "Frugal Innovation",
+   "DevOps is not only for IT players!",
+   "Diversity & Inclusivity in Tech",
+   "Don't package your libraries, write packagable libraries!",
+   "What C++ Programmers Need to Know about Header <random>",
+   "Modern C++ Safety and Security At 20",
+   "Comunicazione real-time con WebRTC in C++",
+   "There and Back Again: An Incremental C++ Modules Design",
+   "Designing Features for Mature Systems: Lessons Learned from Manta",
+   "Cluster Consensus: when Aeron met Raft",
+   "Pimp my Log()",
+   "Points of Order",
+   "Architecture is (not) everything",
+   "A C++14 Dependency Injection Library",
+   "Value Proposition: Allocator-Aware (AA) Software",
+   "Template meta-programming: Why you must get it",
+   "Large Scale C++ with Modules: What You Should Know",
+   "What C++ is and what it will become",
+   "a small tool to browse your backtraces",
+   "A Short Life span<> For a Regular Mess",
+   "C++ Standard Library",
+   "The Hitchhiker's Guide to Faster Builds - Part 2 of 2",
+   "Adventures In Updating A Legacy Codebase",
+   "Continuable asynchronous programming with allocation aware futures",
+   "Pimpl idiom, multiple Inheritance and facet pattern",
+   "Executors: The Art of Generating Composable APIs",
+   "Keeping Up with Java",
+   "Flowz: towards an EDSL for digital signal processing",
+   "Discovering RESTful Web Microservices: A Traveler's Guide",
+   "Beyond AI",
+   "Regular Types and why do I care?",
+   "Gamgee: A C++14 library for genomics data processing and analysis",
+   "Swizzling",
+   "The C++20 Synchronization Library",
+   "Parallelism in Modern C++",
+   "C++20: C++ at 40",
+   "The Internet of Things",
+   "C++ Cryptozoology - A Compendium of Cryptic Characters",
+   "Practical Aspects of Microservice Architecture",
+   "Writing Fast Code II",
+   "Polymorphism A La Carte",
+   "Test-Drive Performance",
+   "How bad is meta-programming still today?",
+   "Modern techniques for keeping your code DRY",
+   "Latest & Greatest in Visual Studio for C++ developers",
+   "Better Tools in Your Clang Toolbox",
+   "The Detection Idiom - a simpler way to SFINAE",
+   "await 2.0: Stackless Resumable Functions",
+   "How to Build a Self-driving RC Car",
+   "Type safe C++ - LOL! :-)",
+   "C++ Test-driven Development",
+   "Quickly & Effectively Testing Legacy C++ Code with Approval Tests",
+   "Kotlin/Native - Embracing existing ecosystems",
+   "VC11 Auto-Vectorizer, C++ NOW, Lang.NEXT",
+   "C++ metaprogramming: a paradigm shift",
+   "A Case For Outside-In Design",
+   "Bootiful GraphQL with Kotlin",
+   "The Many Shades of reference_wrapper",
+   "What Else Has My Compiler Done For Me Lately?",
+   "Better CTAD for C++20",
+   "WG21-SG14 - Making C++ better for games, embedded and financial developers",
+   "The better parts",
+   "Back to Basics: Algebraic Data Types",
+   "A modern database interface for C++",
+   "The Complete Guide to return x;",
+   "From Functional to Parallel: Stochastic Modeling in C++",
+   "Making Testing C++ Binaries Practical @ Facebook Scale: A CI Story",
+   "Oh The Humanity!",
+   "Understanding U-Boot Falcon Mode and adding support for new boards",
+   "C++ Atomics...",
+   "Regular Types and Why Do I Care ?",
+   "Making Fast Incremental Compiler for Huge Codebase",
+   "Building C++ Modules",
+   "Raising the abstraction level",
+   "Linear programming made easy with Boost Proto",
+   "Postmodern Immutable Data Structures",
+   "boost.tmp: Your DSL for Metaprogramming - Part 1 of 2",
+   "C++ Modules & Large-Scale Development",
+   "Real Time Investment Alerts using Apache Kafka at ING Bank",
+   "Faster Complex Numbers",
+   "Asynchrony and Coroutines",
+   "Learning and teaching modern C++",
+   "Writing games in very modern C++",
+   "Selected C++11 Template Toffees From sqlpp11 (Part4)",
+   "C++20 Language Features for a new Library",
+   "Dealing with software dependencies",
+   "The C++20 Standard Library - Beyond Ranges",
+   "A thorough look into spatial mapping with HoloLens",
+   "Tales of C, the 6502 and the BBC (with added python)",
+   "Iterators and Ranges: Comparing C++ to D to Rust",
+   "Practical Techniques for Improving C++ Build Times",
+   "The Abilities of Good Code",
+   "Customization points that suck less",
+   "Arguments over Arguments",
+   "C++ atomics, from basic to advanced.  What do they really do?",
+   "An Introduction to C++ Coroutines",
+   "Adventures in SIMD-Thinking (part 1 of 2)",
+   "When Paradigms Collide",
+   "Boost.Asio and Boost.Serialization: Design Patterns for Object Transmission",
+   "Machine Learning with Python Case Study",
+   "Bitmaps! Or 'Images and Animations Without Linking External Libraries'",
+   "Grill the C++ committee -  Discussion",
+   "Les outils open source pour les FPGA",
+   "Portable yet thin OS abstractions",
+   "Refactoring Superpowers: Make Your C++ IDE Do Your Work, Faster and More Safely",
+   "Developing Blockchain Software",
+   "Turning Particle-Astro-Physicist-Hackers into Software Engineers",
+   "Making Your Library More Reliable with Fuzzing",
+   "What Belongs In The C++ Standard Library?",
+   "Machine learning - when big data is not enough",
+   "A Retrospective from My Perspective",
+   "Ladon -- A Distributed State-Machine Framework",
+   "Programming with less effort in C++...",
+   "Property-Based Declarative Containers",
+   "Back to Basics: Concurrency",
+   "Let's Make It Easy",
+   "Lightweight 2D graphics with io2d",
+   "How bananas could save your project. Understanding UX",
+   "pinned_vector",
+   "generic-programming-with-concepts",
+   "Implementing a Domain Specific Embedded Language with Boost Proto",
+   "Looking Back to Look Forward",
+   "Advanced Unit Testing in C & C++",
+   "Streaming with Structure",
+   "Embedded rust on the beagleboard X15",
+   "A CTO's guide to Modern C++",
+   "C++17 in Breadth (part 1 of 2)",
+   "Intro &  LEE 2020",
+   "interview with Alex Bolboaca",
+   "The CPU Cache: Instruction Re-Ordering Made Obvious",
+   "GPU processing of V4L2 live video on NVIDIA Jetson with CUDA",
+   "Efficient data aggregation with Fenwick trees",
+   "A Discussion of Selected Vienna-Libraries for Computational Science",
+   "Google Sheets for Developers",
+   "The Proposed Boost B-tree Library",
+   "Modern Template Metaprogramming: A Compendium, Part I",
+   "Security & Trust in a Microservices World",
+   "Software Engineering Is About Tradeoffs",
+   "A perfect async RPC Framework?",
+   "How Business Is The Key To Making The World A Happier Place",
+   "Upgrade Time: Choose Java 11+ or the 'Other' One...Kotlin",
+   "C++17 Features",
+   "Finding Nemo, or Evolution of a for Loop",
+   "Using Modern CMake Patterns to Enforce a Good Modular Design",
+   "C++ Past vs. Future",
+   "Small Lie in Big O",
+   "Defensive Programming Done Right, Part II",
+   "It's DNS, Jim, but not as we know it",
+   "Property Bindings in C++11",
+   "The Future of Security",
+   "A Glimpse of Trygve: From Class-oriented Programming to Real OO",
+   "Building Modules",
+   "Teaching old compilers new tricks",
+   "Lessons Learned From An Embedded RTPS in Modern C++",
+   "Red teaming in Poland - test cases",
+   "Plenary: Neighborhoods Banding Together: Reasoning Globally about Programs",
+   "constexpr ALL the things!",
+   "Object-Oriented Program: Best Practices",
+   "The DiRT on Chaos Engineering at Google",
+   "Time brings all things to pass",
+   "Build Everything From Source: A Case Study in Fear",
+   "Distributed Mutual Exclusion using Proposed Boost.AFIO",
+   "The Research Software Engineer - a new career path in academia",
+   "Concepts Lite: Constraining Templates with Predicates",
+   "Concepts -  Evolution or Revolution",
+   "Back to Basics: Unit Tests",
+   "Ranges for distributed and asynchronous systems",
+   "What to Expect from a Next-Generation C++ Build System",
+   "Fast Conversion From UTF-8 with C++, DFAs, and SSE Intrinsics",
+   "WebThings : Your IoT with privacy by design",
+   "Closing Message",
+   "C++ on the Edge – Machine Learning + Microcontrollers + C++",
+   "The C++ ABI From the Ground Up",
+   "Secure Coding Best Practices: Your First Line Is The Last Line Of Defense (2 of 2)",
+   "Introducing Parallelism to the Ranges TS",
+   "the 6th event",
+   "Containers in Boost",
+   "Microservice Message Routing on Kubernetes",
+   "C++ Catastrophes: A Poem",
+   "ConceptClang: Theoretical Advances with Full C++ Concepts",
+   "Ustring -- A Modern Alternative to std::string",
+   "Beware of C++17",
+   "Finally Executors for C++",
+   "The Implementation of Value Types",
+   "The Grand Challenge and Promise of Quantum Computing",
+   "Finding Bugs with Clang at Compile and Run Time",
+   "Should I care about CPU cache?",
+   "Machine Learning on Source Code",
+   "Gradually Adopt GraphQL Without Writing any Backend Code",
+   "Matchine: Pattern Matching for Open Sum Types",
+   "Time Programming Fundamentals",
+   "The Jai Programming Language and What Can We Learn From It",
+   "Better Code: Data Structures",
+   "Data Driven Observability & Incident Response",
+   "Structured Bindings demystified",
+   "Build your own Language: Why & How?",
+   "Declarative Control Flow",
+   "Homogenous Variadic Functions -  A Lightning-Library Approach in ~11.54 sec/LOC",
+   "Abseil's Open Source Hashtables: 2 Years In",
+   "Expression Templates - Past, Present, Future (PART 1)",
+   "TensorFlow Lite: Accelerate your Android and iOS App with AI",
+   "Nbdl: A library that uses metaprogramming... A lot",
+   "Functional Design Explained",
+   "Server Driven UI on Mobile",
+   "Introduction to encryption for embedded Linux developers",
+   "C++ Use in High Performance Computing Within DOE: Past and Future",
+   "Modern special function register abstraction",
+   "Template Normal Programming (part 1 of 2)",
+   "What is the basic interface? (part 2 of 2)",
+   "Intro to TDD and BDD",
+   "C++ Modules and Large-Scale Development",
+   "Writing Great Libraries: 89 Easy Steps",
+   "Halide: A Language for Fast, Portable Computation on Images and Tensors",
+   "Blockchain in Healthcare",
+   "Mix tests and production code with doctest (...)",
+   "function_ref",
+   "Agent Based Class Design",
+   "Ways to Handle Non-blocking Returns in Message-passing Programs...",
+   "Augmented Reality, Beyond Virtual Objects Floating in Physical Space",
+   "Concurrency in cloud applications",
+   "Class Template Argument Deduction in C++17",
+   "SG14 (the GameDev & low latency ISO C++ working group)",
+   "Just-in-Time Compilation: The Next Big Thing?",
+   "The importance of being native",
+   "Back to Basics: Move Semantics",
+   "Words Of Power",
+   "Jami on i.MX6: bring fully distributed & secure comm. capabilities to embedded products",
+   "Spread the LOVE for IoT - How I created a full day IoT workshop",
+   "The Language of Programming",
+   "Boost.Generic: Concepts without Concepts",
+   "Simplifying control flow",
+   "Next Generation Debugging",
+   "ADL: introduction in name taxonomy, customization points and use cases",
+   "Type Punning in C++17: Avoiding Pun-defined Behavior",
+   "Boost.Process: Process management in C++",
+   "IIFE in C++ for Performance and Safety",
+   "Optimizing Embedded Hard Real-Time Code in C++",
+   "interview with Klaus Iglberger",
+   "How Ubisoft Develops Games for Multicore - Before and After C++11",
+   "Modern C++ in Embedded Systems",
+   "Boost.TMP: Your DSL for Metaprogramming",
+   "Elsewhere Memory (C++20 Abstract Machine) + Virtual Memory",
+   "Boost statechart visualisation - Antons Jelkins",
+   "Multithreading is the answer. What is the question? (part 2 of 2)",
+   "Design Patterns in the 21st Century",
+   "3 things they didn't tell you about Agile",
+   "C++ Today: The Beast is Back",
+   "Compile time regular expressions",
+   "Using Deep Learning to hunt Optical Counterparts to (...)",
+   "Alignment in C++: Use, Limitations, and Extension",
+   "C++0x Progress and Status",
+   "Tools from the C++ Ecosystem to save a leg",
+   "Mobile App Development for Multiple Platforms with Visual C++,",
+   "Bootstrapped by Boost",
+   "Kubernetes-ize your Java Application",
+   "Beyond the Issaquah Challenge: High-Performance Scalable Complex Updates",
+   "How Beauteous Technology is! O Brave New World",
+   "Converting to C++20 Modules",
+   "An Agile (hi)story",
+   "Improving Sense of Smell Low-Level Debugging",
+   "C++ on the Web: Ponies for developers without pwn'ing users",
+   "Building finite-element matrix expressions with Boost Proto and the Eigen library",
+   "Grill the Committee",
+   "An Alternate Smart Pointer Hierarchy",
+   "Pulling Visitors",
+   "Interactive Metaprogramming Shell based on Clang",
+   "Hate yourself? Keep using Python 2",
+   "interview with speakers",
+   "If You Can't Open It, You Don't Own It",
+   "Serverless Architectural Patterns and Best Practices",
+   "Complecting Made Easy",
+   "Multicore Synchronization: The Lesser-Known Primitives",
+   "Fun with structured bindings - Tim van Deurzen",
+   "List",
+   "Value semantics: It ain't about the syntax!",
+   "Refactor your codebase with Clang tooling",
+   "Attitude Determines Altitude: Engineering Yourself & Your Teams",
+   "interview with C++ Committee's Library Evolution Working Group",
+   "Using Spirit X3, Part II",
+   "BDE Libraries, An Orientation",
+   "Tracking DDR ECC issues on a standalone application",
+   "Designing and Implementing a new Allocator model",
+   "Multithreading 101: Concurrency Primitives From Scratch",
+   "C++ 20 Overview: The Big Four",
+   "The Nightmare of Initialization in C++",
+   "50.000 Orange Stickies Later",
+   "Random numbers are hard - Andreas Weis",
+   "C++ Package Manager",
+   "Introduction to C++ python extensions and embedding Python in C++ Apps",
+   "105 STL Algorithms in Less Than an Hour",
+   "Rethinking Usage of C++ Templates",
+   "A bird's-eye view of template C++",
+   "Software Architecture in the Age of Things",
+   "Diagnosing Memory Leaks",
+   "So, you inherited a large code base...",
+   "Lakos'20: The 'Dam' Book is Done!",
+   "Ray: A System for Distributed Applications",
+   "Boost.Geometry takes on the globe",
+   "C++ Concepts",
+   "Serverless Tales from the Trenches",
+   "Kotlin: Dissecting the stdlib",
+   "Serverless is the Abstraction We Deserve",
+   "Intro to Rust",
+   "Coroutines and C++ DSLs for Human Scale Concurrency",
+   "Wishful Thinking",
+   "Keep it Small",
+   "Haskell Design Patterns for Genericity & Asynchronous Behavior",
+   "Simplicity: Not Just For Beginners",
+   "How to Build a Consultancy People Enjoy Working for",
+   "Class Template Argument Deduction: A New Abstraction",
+   "std::launder",
+   "CopperSpice: The Next Generation of Signals",
+   "C++ Standards Committee Fireside Chat",
+   "Hello World from Scratch",
+   "C++ Metaprogramming: evolution and future direction",
+   "Type-safe state machines with C++17 std::variant",
+   "Developing an embedded application for the IoT",
+   "Parallelizing the Standard Template Library",
+   "Writing a cache-friendly C++ code",
+   "Dynamic Non-Events",
+   "Building a 'Backend-less' URL Shortener",
+   "Design Patterns for Hardware Packet Processing on FPGAs",
+   "Better Code: Relationships",
+   "Haskell -- The Pseudocode Language for C++ Template Metaprogramming (Part 1)",
+   "Statistical scientific programming OO patterns: accumulators",
+   "Speeding up code with C++17 Polymorphic Memory Resources",
+   "Networking TS Workshop (part 2 of 2)",
+   "The Story of a Product Startup from a Founder's Perspective",
+   "C++ in the Audio Industry",
+   "Advanced Levelization Techniques (part 1 of 3)",
+   "The Networking TS in Practice: Patterns for Real World Problems",
+   "Understanding Boost.Build",
+   "Conan, a C and C++ package manager for developers",
+   "Introduction to gRPC",
+   "Concepts vs Typeclasses vs Traits vs Protocols",
+   "Choosing the correct vectorization method",
+   "Boost.Asio and Boost.Serialization, Part I",
+   "C++ Insights: How Stuff Works, Lambdas and More!",
+   "Safe bool idiom",
+   "Compile Fast, Run Faster, Scale Forever: A Look into the sol2 Lua Library",
+   "Boosting Libraries for TR2",
+   "Dependency Injection - a 25-dollar term for a 5-cent concept",
+   "From Algorithm to Generic, Parallel Code",
+   "Story of autonomous drone racing",
+   "Server-side Kotlin with Coroutines",
+   "C++ Community Organizers",
+   "Driving Into the Future With Modern C++: A Look at Adaptive Autosar",
+   "The performance Addict's Toolbox",
+   "HTTP 2 - The feature of www",
+   "Re-engineering Inclusion",
+   "Using Freestanding C++ for C++17 in Shellcode, UEFI, Embedded & Unikernels",
+   "A Simple GUI Programming Setup for Beginners",
+   "Scheme Lisp: Feel the Cool",
+   "Common API Security Pitfalls",
+   "Reduce: From functional programming to C++17 Fold expressions",
+   "GSL ad hoc overview",
+   "C++ libraries for daily use @ CppEurope 2020",
+   "interview with Clare Macrae",
+   "Making It Count: Quality is NOT an Option",
+   "Making Allocators Work, Part II",
+   "With Age Comes Wisdom: Lessons Learned in 15 Years of Building Software",
+   "std::accumulate: Exploring an Algorithmic Empire",
+   "An alternative design for C++20 customization points",
+   "Enough string_view to Hang Ourselves",
+   "Range-Based Text Formatting - For a Future Range-Based Standard Library",
+   "Examining applications that do not terminate on std::bad_alloc",
+   "Machine learning and image processing",
+   "A Test of Strength",
+   "Next-Generation Programming: Rust & Elm",
+   "The Development Metrics You Should Use (But Don't)",
+   "Extending clang-tidy in the Present and in the Future",
+   "Sooner rather than later",
+   "Simple, Extensible Pattern Matching in C++14",
+   "15 Years of Spring: Evolving a Java Application Framework",
+   "C++ Core Guidelines - Modernize your C++ Code Base",
+   "The Continuing Saga of the Lock-free Queue: Part 3 of N",
+   "Debugging Linux C++",
+   "The fastest template metaprogramming in the West",
+   "Eye tracking / reading",
+   "Behind the Scenes of a C++ Build System",
+   "Building an Intuition for Composition",
+   "Quickly and Effectively Testing Legacy C++ Code with Approval Tests",
+   "The C++20 Standard Library: Beyond Ranges",
+   "constrain yourself",
+   "A Microservices Journey",
+   "Modern Software Needs Embedded Modern C++ Programming",
+   "Weak Interfaces -> Weak Defences: The Bane of Implicit Conversion in Function Calls",
+   "Extending C++ with Co-Array semantics",
+   "The Seniority Trap",
+   "Implementing 'static' control flow in C++14",
+   "Learning and Teaching Modern C++",
+   "Fireside Chat: Brave New World of Software",
+   "Taking the Plunge Towards CMake in Boost",
+   "Undefined behaviour in the STL",
+   "SICP Cover Demystified",
+   "Fantastic Algorithms and Where To Find Them",
+   "Closing the Gap between Rust and C++ Using Principles of Static Analysis",
+   "The Database Unbundled: Commit Logs in an Age of Microservices",
+   "Building microservices with Rust",
+   "IoT. Building machine vision system...",
+   "The Life of a CPU Instruction",
+   "How we reason about procedural programs",
+   "Don't Get Blamed for Your Choices",
+   "Standard Slam",
+   "When C++ wants to meet Java",
+   "GraphQL Anywhere - Our Journey With GraphQL Mesh & Schema Stitching",
+   "Introducing CHAP: A program to clarify dynamic memory usage in un-instrumented cores",
+   "Pattern Matching: A Sneak Peek",
+   "Model - View - Whatever MVW",
+   "C++ Mixins: Customization Through Compile Time Composition",
+   "How to Hack OAuth",
+   "An Overview of C++11/14, Part II",
+   "AI in Healthcare",
+   "Call: A Library that Will Change the Way You Think about Function Invocations (1 of 2)",
+   "Habits of Efficient Developers",
+   "Variadic and Variable Templates in C++14",
+   "Bjarne Stroustrup - The Essence of C++: With Examples in C++84, C++98, C++11, and C++14",
+   "Sweep-Line Algorithm for Voronoi Diagrams",
+   "There Is A Better Future",
+   "Live Compiler Development with Cross-Platform Tooling",
+   "Cloud Business Solution Increasing Supply Chain Profitability",
+   "Functional Error and Optional-value Handling with STX",
+   "A Crash Course in Unicode for C++ Developers",
+   "M-PIN Authentication in Vehicle Tracking",
+   "Functional programming: functors and monads",
+   "C++: Unexpected Behaviour",
+   "How to Herd 1,000 Libraries",
+   "How to use correctly the const qualifier?",
+   "#ToyFail",
+   "Multiplatform C++",
+   "Embedded Android in real life",
+   "Where Does the Real World End - The Blurring of the Physical & Digital",
+   "Can we make a faster linked list?",
+   "Become A Game Developer In 5 Minutes Or Less",
+   "How to Lead through Turbulence w/ Compassion & Confidence",
+   "10 Techniques to Understand Existing Code",
+   "Site Reliability Engineering",
+   "Windows Native API",
+   "Stop Punching Yourself in the Face",
+   "Contract Programming in C++(20) (part 2 of 2)",
+   "Logic Paradigm for C++",
+   "C++ programming in a parallel world @ CppEurope 2020",
+   "Concurrency and Parallelism in C++17 and C++20/23",
+   "2FA in 2020 and Beyond",
+   "Boost.Geometry: an introduction to geographic computation",
+   "Mach7: The Design and Evolution of a Pattern Matching Library for C++",
+   "What is Open Source, and Why Should You Care?",
+   "Software is feeding the World",
+   "Product types for C++20?",
+   "Python as C++'s limiting case",
+   "Comma Chameleon",
+   "True Continuous Improvement with Toyota Kata",
+   "A concept design for C++",
+   "Better Code: Concurrency",
+   "Analyzing Pwned Passwords with Apache Spark",
+   "The Complete Guide to 'return x;'",
+   "The Best Parts of C++",
+   "Live Kubernetes Debugging with the Elastic Stack",
+   "The Pragmatic Programmer 20 Years Later",
+   "Simple hand written parsers",
+   "Cloud Native C++: Modern architecture for (...)",
+   "How Embedded Developers work from home using labgrid",
+   "Practical Type Erasure: A boost::any Based Configuration Framework",
+   "Awaiting for the ranges: C++17",
+   "HTTP/3 Is Next Generation HTTP. Is It QUIC Enough?",
+   "How Java & Scala are Imitating Functional Languages",
+   "Back to Basics: Exceptions",
+   "Accept No Visitors",
+   "Compile-time reflection, Serialization and ORM",
+   "Taming the performance Beast",
+   "How C++20 changes the way we write code",
+   "Designing (New) C++ Hardware",
+   "Non-conforming C++: the Secrets the Committee Is Hiding From You",
+   "An Introduction to JVM Performance",
+   "Haskell taketh away: limiting side effects for parallel programming",
+   "Value Semantics: It ain't about the syntax!, Part II",
+   "Using Compile-time Code Generation to build an LLVM IR Pattern Matcher",
+   "C++ Committee's Library Evolution Working Group",
+   "Build for everyday programmers and why should they care",
+   "Asynchronous IO Using Boost.Asio",
+   "Object-relational mapping with ODB and Boost",
+   "Writing Fast Code I",
+   "Thread-safe Observer Pattern - You're doing it wrong",
+   "C++ and Persistent Memory Technologies, Like Intel's 3D-XPoint",
+   "SPMD Programming Using C++ and ISPC",
+   "Introduction to Modern C++ Techniques (Part II)",
+   "Option(al) Is Not a Failure",
+   "Breaking Dependencies: The SOLID Principles",
+   "Computer Science - A Guide for the Perplexed",
+   "Introducing Casablanca - A Modern C++ API for Connected Computing",
+   "C++ Concepts Lite' in Practice'",
+   "Why Your Private Cloud is Probably a Bad Idea",
+   "C++ on its way to exascale and beyond",
+   "The Hitchhiker's Guide to Faster Builds - Part 1 of 2",
+   "The 'Detection idiom:' A Better Way to SFINAE",
+   "The Networking TS from Scratch: I/O Objects",
+   "Mind as Code - Mindfulness for Developers and Knowledge Workers",
+   "C++11: New Tools for Class and Library Authors",
+   "Become a GDB Power User",
+   "Fancy Pointers for Fun and Profit",
+   "Functional Programming with Kotlin",
+   "Initializer Lists Are Broken, Let's Fix Them",
+   "Journeys To Cloud Native Architecture: Sun, Sea & Emergencies",
+   "GNU/Linux ou Android comme système d'exploitation embarque ?",
+   "From Tic Tac Toe to AlphaGo: Playing Games with AI",
+   "Going Docker, Swarm and Kubernetes Production Like a Pro",
+   "Modules in C++",
+   "The Fiber Library",
+   "C++ Programming for the Heap-Deprived",
+   "Vue and You",
+   "An Overview of the Linux and Userspace Graphics Stack",
+   "Designing Multithreaded Code for Scalability",
+   "Git, CMake, Conan - How to ship and reuse our C++ projects",
+   "Back to Basics: The Abstract Machine",
+   "Stop Teaching C",
+   "The Blaze High Performance Math Library",
+   "Intro to Functional Programming in C++",
+   "Go: Optimizing For Correctness",
+   "Responsible AI for Business Leaders",
+   "What is Telco Cloud",
+   "Progressive Delivery: Patterns & Benefits of Decoupling Deploy from Release",
+   "Pessimistic Programming",
+   "API & ABI Versioning...",
+   "An Introduction to C++20's Concepts",
+   "Introduction to Qt 3D",
+   "Distributed applications are easy. Just read the fine print",
+   "Build all the things with Spack: a package manager for more than C++",
+   "Missing Optimizations on Node-based Containers",
+   "Our first game using UE4 and C++",
+   "Combining Modern C++ and Lua",
+   "The Different Perspectives needed for Self-organization",
+   "Risks in Systems Design: Chaos Engineering in Apps & Cloud Security",
+   "Assume Worst Intent (Designing for the Abusive Ex)",
+   "Exceptional Performance",
+   "How to get rid of Obsession?",
+   "Os Matters",
+   "Alices adventures in Template Land",
+   "Memory mapped storage",
+   "The need for a package manager interface",
+   "Design For The Utopia You Want, Not The Dystopia You're In",
+   "Introduction to proposed std::expected",
+   "Secure Coding Best Practices",
+   "Yomm11: Open Multi-Methods for C++11",
+   "Temporal Modelling",
+   "The C++ Rvalue Lifetime Disaster",
+   "Make Friends with the Clang Static Analysis Tools",
+   "Parallelizing the Standard Algorithms Library",
+   "Three years of Rust - A look around",
+   "Thoughts on Metaclasses",
+   "What a View! Building Your Own (Lazy) Range Adaptors (part 2 of 2)",
+   "Objects? No thanks!",
+   "Don't do what I did",
+   "GraphQL, gRPC and REST, Oh My! A Method for Unified API Design",
+   "Proper Inheritance (part 1 of 2)",
+   "opt-viewer: Inspecting compiler optimizations in high-level code",
+   "The Future of Machine Learning & JavaScript",
+   "When dependency hell freezes over",
+   "Building an Accessibility Culture",
+   "How to mock in the 21st century",
+   "Asynchronous Programming Using the Boost.MetaStateMachine and the Upcoming Asynchrnonous Library",
+   "Pattern Matching: Match Me If You Can",
+   "A TypeScript Fan's KotlinJS Adventures",
+   "Secure by Design - Security Principles for the Working Architect",
+   "Static if I had a hammer",
+   "Standardizing Linux Boot process for RISC-V platforms",
+   "Concept Based Testing",
+   "Software Automation in a Polyglot Stack",
+   "Stdfwd - Forward Declarations for C++ Standard Library",
+   "Making Allocators Work, Part I",
+   "API & ABI versioning",
+   "2020: The Year of Sanitizers?",
+   "Using Trompeloeil, a mocking framework for modern C++",
+   "Rust Async Programming in 2018",
+   "Troubleshooting & Debugging Microservices in Kubernetes",
+   "Implementation of a multithreaded compile-time ECS in C++14",
+   "Pruning Error Messages From Your C++ Template Code",
+   "The Power of Event-Driven Systems without Burning your Hands or Budgets",
+   "From Iterators To Ranges - The Upcoming Evolution Of the Standard Library",
+   "The Tragedy of the value based architecture",
+   "Rethinking Exceptions",
+   "Think like a Hacker",
+   "Oh No! More Modern CMake",
+   "Reducing Template Compilation Overhead, Using  C++11, 14, 17, and 20.",
+   "The case for Vendored Builds",
+   "Which Machine Am I Coding To?",
+   "How eSIM can help industrialisation",
+   "Secure Coding Best Practices - Threat Hunting",
+   "Benchmarking in C++",
+   "Grill The Committee",
+   "#DigitalNudge - The Hidden Forces that Shape our Digital Decisions",
+   "interview with The Silicon Valley coding  (Nicolo Valigi)",
+   "What are FPGAs and How Do They Work",
+   "Design Rationale for the chrono Library",
+   "Real-world Reactive Programming in Java: The Definitive Guide",
+   "Preparing the C++11 Library AFIO for Boost Peer Review",
+   "(Ab)using C++17",
+   "Developing EDSL's for Boost.Spirit",
+   "Interaction Protocols: It's All About Good Manners",
+   "Modern Template Metaprogramming: A Compendium, Part II",
+   "Observability, Distributed Tracing & the Complex World",
+   "Writing cache friendly C++",
+   "Fight, Flight, or Freeze - Releasing Organizational Trauma",
+   "Combining Chaos, Observability & Resilience to get Chaos Engineering",
+   "Threads and Shared Variables in C++0x",
+   "Modern C++ Testing with Catch2",
+   "A Veterans Guide To Transitioning Android Teams Into Kotlin",
+   "Practical Patterns with the Networking TS",
+   "Beyond Microservices: Streams, State and Scalability",
+   "There is a Better Future",
+   "Ranges v3 and microcontrollers, a revolution",
+   "Lambdas - uses and abuses",
+   "Lessons Learned Developing the C++11 Standard Library",
+   "Algorithm Intuition",
+   "Qt's moc and QMetaObject reflection",
+   "The Ongoing Saga of ISO-C++ Executors",
+   "Understanding compiler optimization",
+   "The Science of Sleep",
+   "Designing for Efficient Cache Usage",
+   "A View to a View",
+   "C++ Core Guidelines - Safer C++",
+   "An Introduction to Systems & Service Monitoring with Prometheus",
+   "Does Agile Make Us Less Secure?",
+   "C++ Testing Techniques, Tips and Tricks @ CppEurope 2020",
+   "Without Warning: Keeping the Noise Down in Legacy Code Builds",
+   "Concepts driven design",
+   "Better C++ using Machine Learning on Large Projects",
+   "How you can make a Boost C++ Library",
+   "Things I learned from the static analyzer",
+   "Implementing variant Visitation Using Lambdas",
+   "Selected C++11 Template Toffees From sqlpp11 (Part1)",
+   "Accelerated Learning: How Agile Can Help You?",
+   "Lock-Free Programming (or, Juggling Razor Blades), Part I",
+   "Fewer bugs",
+   "Bringing clang-tidy magic to Visual Studio C++ Developers",
+   "The Evolution of Threat Models for Secure Communication Products",
+   "High Performance C++ Concurrent Transactional Data Structures",
+   "Cloud Native Communication Patterns with gRPC",
+   "Dependency management in C++",
+   "C++20 Lambdas: Familiar Template Syntax",
+   "Speed Is Found In The Minds of People",
+   "Almost no raw loops",
+   "The Audacity of Chapel: Scalable Parallel Programming Done Right",
+   "Accelerating Machine Learning DevOps with Kubeflow",
    "Deconstructing the OS: The devil's In the side effects",
-   "Value Proposition: Allocator-Aware (AA) Software"
+   "Expression Templates Everywhere with C++14 and Yap",
+   "The Truth of a Procedure",
+   "array_ref: Multidimensional Array References for the C++ Standard Library",
+   "High Cost Tests and High Value Tests",
+   "IoC++ - A IoC framework for C++",
+   "Futurology for Developers",
+   "Time Travel Debugging...",
+   "FPGA for software developers",
+   "Beyond Sanitizers...",
+   "From STL to Ranges: Using Ranges Effectively",
+   "Freestanding C++ - Past, Present, and Future",
+   "Secrets of Effective Communication You Can Learn (from my Failures!)",
+   "Diet for your Templates - Reducing Code Bloat in Your Templated Library",
+   "Captioning and Translating C++ Videos- Part 2 of 2",
+   "Web | C++' (different) VIDEO AVAILABLE WITH IN SYNC SLIDES",
+   "What Neighborhoods Owe Each Other: Rights, Duties, Immunities & Disabilities of Functions & Objects",
+   "Naivety of Creating Cross-Platform, Modern C++ Libraries...",
+   "Type to string conversions, and vice-versa",
+   "Design Patterns in Modern C++",
+   "C++: How I learned to stop worrying and love metaprogramming",
+   "SOLID Elixir",
+   "How Compilers Reason About Exceptions",
+   "Automatic C++ source code generation with clang",
+   "A generic binary tree: why grow your own?",
+   "Trusting your Raspberry Pi - An introduction to the TPM and IoT",
+   "A Letter to My Descendents",
+   "No Sane Compiler Would Optimize Atomics",
+   "Variable Templates and Compile-Time Computation with C++14",
+   "Quickly testing legacy code",
+   "Prerequisites for Chaos Engineering",
+   "Quick Game Development with C++11 / C++14",
+   "Conjuguer modèles ouverts et propriete intellectuelle dans l'embarque",
+   "Expected- An exception-friendly Error Monad",
+   "The art of keeping your project from falling apart",
+   "Back to Basics: Exception Handling and Exception Safety",
+   "Going Static in a Dynamic World with Hasura and Nuxt.js",
+   "Production use of Boost.Test",
+   "boost::string_ref",
+   "Sane and Safe C++ Classes",
+   "Resilience patterns in practice",
+   "Pragmatic Event-Driven Microservices",
+   "Parallelism on Ranges: Should We?",
+   "Taking Template Classes Further with Opaque Types & Generic NTTPs",
+   "(R)evolution of C++",
+   "Live Lock-Free or Deadlock (Practical Lock-free Programming) (PART 1)",
+   "More GDB wizardry and 8 other essential Linux application debugging tools",
+   "Scaling development of a large C++ project: Chromium (Part 1)",
+   "Two practical applications of the Brigand TMP library",
+   "Always generate all your serialization code",
+   "Progress on Contract Support for C++17",
+   "Taking Security Seriously",
+   "Current trends in the C++ Community",
+   "Sales & Tech - Our Differences Make the Difference",
+   "Clang Static Analysis",
+   "Audio in standard C++",
+   "Adopting gRPC: Overcoming Team and Technical Hurdles",
+   "Low Latency C++ for Fun and Profit",
+   "C++ Concepts for ill-posed Inverse-Problems - David Frank",
+   "This is why we can('t) have nice things",
+   "ThinLTO: Scalable and Incremental Link-Time Optimization",
+   "C++11/14/17 atomics and memory model...",
+   "Programming challenges in converting R to C++",
+   "Goals for Better Code - Implement Complete Types",
+   "Lambda? You Keep Using that Letter",
+   "Welcome To The Time Zone",
+   "Octopus: A Policy-Driven Framework for CFD Simulations",
+   "Compile-time contract checking with nn",
+   "Reactive Stream Processing in Industrial IoT using DDS and Rx.cpp",
+   "Would 'reserve'/'upgrade'/'downgrade' Methods Improve 'std::shared_mutex'?",
+   "Taking Machine Learning from Research to Production",
+   "Generative Programming in Action: Emulating the 3DS",
+   "noexcept considered harmful ???",
+   "Return Values Take A Closure Walk",
+   "Avoiding Disasters with Strongly Typed C++",
+   "Back to Basics: Templates (part 1 of 2)",
+   "Text Formatting For a Future Range-Based Standard Library",
+   "Developing a Chaos Architecture Mindset",
+   "How to pass (my) candidate screening",
+   "Getting Started with Quantum Programming",
+   "Good Concepts",
+   "Crazy Code, Crazy Coders",
+   "A Whirlwind Overview of C++11",
+   "Agility at Scale: A Meeting of Mindsets",
+   "Pragmatic Unit Testing in C++",
+   "C++20 Ranges in Practice",
+   "The Rough Road Towards Upgrading to C++ Modules",
+   "Better C++ Ranges",
+   "Navigating the development and evolution of a library",
+   "A Language Stack for Implementing Contracts",
+   "Keeping Your CI-CD Pipeline as Fast as it Needs to Be",
+   "Better Spotify Playlists through Music Theory & Discrete Optimization",
+   "Three Cool Things about D",
+   "On 'simple' Optimizations",
+   "C/C++ Memory Model",
+   "Representing Memory Mapped Devices as Objects",
+   "C++: Fast and Small - What are the Costs of Language Features",
+   "Algorithmic and microarchitecture optimizations of C++ applications",
+   "Microservice API Management, Discovery Documentation and all that Jazz",
+   "C++ Modules",
+   "COVID-19: Data Science & Expertise",
+   "Latency Observability",
+   "10 Techniques to Understand Code You Don't Know",
+   "Higher-order functions and 'function_ref",
+   "The Committee Experience",
+   "Converting a State Machine to a C++ 20 Coroutine",
+   "Thinking Asynchronously: Designing Applications with Boost.Asio",
+   "Metaprogramming for the brave",
+   "Multiple Interface Class Inheritance and Name Hiding",
+   "Coroutines: what can't they do?",
+   "C++ Function Templates: How Do They Really Work?",
+   "Variadic templates are funadic",
+   "The Concepts of concepts",
+   "On C++, Javascript and WebSockets",
+   "Large-Scale C++: Advanced Levelization Techniques, Part II",
+   "Introduction to Modern C++ Techniques (Part I)",
+   "Combining C++17 Features",
+   "A Semi Compile/Run-time Map with (Nearly) Zero Overhead Lookup",
+   "Inextricably Linked: Reproducibility & Productivity in Data Science & AI",
+   "Value Semantics: It aint about the syntax!",
+   "The C++ rvalue lifetime disaster",
+   "Dashboards to the Rescue",
+   "DNS at 30",
+   "An Intro to Project Riff, a FaaS Built on Top of Knative",
+   "Building a Smart Security Camera with Raspberry Pi Zero, Java and AWS",
+   "Improving Readability With Class Template Argument Deduction",
+   "Sweating the Small Stuff: Brace Initialization, Unions and Enums",
+   "Practical TMP: A C++17 Compile Time Register Machine",
+   "The Art of Code",
+   "What's New in Swift",
+   "The Hitchhikers guide to faster builds",
+   "Executors for C++ - A Long Story ...",
+   "Bayesian Computation for Deep Learning in Modern C++",
+   "Exploration of C++20 Meta Programming",
+   "Embedded: Customizing Dynamic Memory Management in C++",
+   "Clang Automated Refactoring for everyone with clangmetatool",
+   "The Lifecycle of an A/B Test",
+   "Objects? No Thanks!",
+   "De-fragmenting C++: Making exceptions more affordable and usable",
+   "From Spring Boot Apps to Functional Kotlin",
+   "C++ SIMD parallelism with Intel Cilk Plus and OpenMP 4.0",
+   "State Machines Battlefield - Naive vs STL vs Boost",
+   "Optimizing Kubernetes Deployments with Helm",
+   "CopperSpice: A Pure C++ GUI Library",
+   "Taming dynamic memory - An introduction to custom allocators in C++",
+   "Debugging and Profiling C++ Template Metaprograms",
+   "Implementing a web game in C++14",
+   "The Corporate Scale Engine",
+   "C++17 : The Biggest Traps",
+   "Are You Ready for IPv6?",
+   "REST beyond the Obvious - API Design for ever Evolving Systems",
+   "C++ vs C the embedded perspective",
+   "OAuth Tokens As Your Identity API",
+   "The Plan for Tomorrow: Extension Points in C++ Applications",
+   "Costless Software Abstractions for Parallel Architectures",
+   "Almost Unlimited Modern C++ in Kernel-Mode Applications",
+   "Sphinx won't bite you! Documenting Python code",
+   "A First Look at Proto-0x",
+   "Concurrent Code - Test It! - How?",
+   "In Search of the Perfect Cloud Native Developer Experience",
+   "CMake + Conan: 3 Years Later",
+   "The Future of C++ Parallel and Concurrency Safety Guidelines",
+   "What's My Object?",
+   "C++ STL best and worst performance features and how to learn from them",
+   "An Adventure in Race Conditions",
+   "Calling Functions",
+   "Dynamic, Recursive, Heterogeneous Types in Statically-Typed Languages",
+   "Make your programs more reliable with Fuzzing",
+   "Fun with (user-defined) attributes",
+   "Designing C++ portable SIMD support",
+   "The MAME story: From C to Modern C++",
+   "Security vulnerability tracking tools in Buildroot",
+   "Secure & Fast microVM for Serverless Computing",
+   "The Need for Role Model Ladders",
+   "Range-Based Text Formatting For a Future Range-Based Standard Library",
+   "Design Patterns for Low-Level Real-Time Rendering",
+   "Higher-order functions and function_ref",
+   "Crossing the River by Feeling the Stones",
+   "Selected C++11 Template Toffees From sqlpp11 (Part2)",
+   "Analyzing Configuration of Cellular Networks at Nokia with (...)",
+   "What Could Possibly Go Wrong?: A Tale of Expectations and Exceptions",
+   "Convergent Evolution",
+   "C++17's std::pmr Comes With a Cost",
+   "How to Preserve your Institutional Knowledge",
+   "Effective replacement of dynamic polymorphism with std::variant",
+   "Debugging with LLVM XRay",
+   "Generic Binding",
+   "Choosing hardware components : A software guy's point of view.",
+   "Virtual assistants - our journey from extensive (...)",
+   "Better C++14 reflections",
+   "The Finer Points of Parameter Packs",
+   "It Really is Easier to Ask for Forgiveness (than Permission)",
+   "Executors in C++",
+   "Practical C++17",
+   "Writing better embedded Software",
+   "Clean Architecture with ASP.NET Core 3.0",
+   "Back to Basics: The Structure of a Program",
+   "Lessons Learned: Recruiting & Onboarding Agile Teams",
+   "Plain Threads are the GOTO of todays computing",
+   "Making C++ easier, faster and safer (part 1)",
+   "Diving into a large, legacy code::base as a youngster",
+   "How we switched to C++11 at SolidFire and how it worked out",
+   "Operator Overloading: History, Principles and Practice",
+   "Details Matter",
+   "The Coaching Leader & Architect",
+   "Funqual: user-defined statically-checked call graph constraints in C++",
+   "C++ ecosystem: For better, for worse",
+   "Agent-based class design - a step towards betters customizations points",
+   "Common-sense acceleration of your MLOC build",
+   "Why GraphQL Between Microservices Is the Worst & Best Idea",
+   "Status quo: clang-tidy & AddressSanitizer on Windows",
+   "Common Retrospectives Traps & Solutions",
+   "HPX: A C++11 parallel runtime system",
+   "My Thoughts on Large Code Base Change Ripple Management in C++",
+   "Where C++17 is going",
+   "Developing Smart Contracts",
+   "Bringing Clang and C++ to GPUs: An Open-Source, CUDA-Compatible GPU C++ Compiler",
+   "Snakes Into Snake Oil - What Blockchains Are And Why They're Terrible",
+   "Rethinking Strings",
+   "Delegate this! Designing with delegates in modern C++",
+   "Retour d'experience sur l'IoT: cas concret dans la location de materiel de TP",
+   "Asynchronous programming with ranges",
+   "Why C++0x is the Awesomest Language for Network Programming",
+   "C++17 in Breadth (part 2 of 2)",
+   "There is a new future",
+   "Kubernetes Day 3: The State of Kubernetes Development Tooling",
+   "Argot: Simplifying Variants, Tuples, and Futures",
+   "Haxe: An understated powerhouse for software development",
+   "The Clacks in Discworld and Roundworld",
+   "C++20: The small things",
+   "Look ma, 'update DB to HTML5 using C++', no hands!",
+   "Want fast C++? Know your hardware!",
+   "How to Write Well-Behaved Value Wrappers",
+   "How Kotlin makes your Java code better",
+   "Lightning Strikes!",
+   "Getting type name at compile time",
+   "C++ in Space Plasma Model Development",
+   "Are you Open enough to Innovate? ;)",
+   "TDD is not about testing - C++ version",
+   "Kubernetes Operability Tooling",
+   "Practicalities of Productionizing Distributed Systems",
+   "Volatile none of the things",
+   "A little order",
+   "Dealing with Embedded Limitations",
+   "Numbers",
+   "Ensuring Exception Safety Through Testing",
+   "Cloud Native Development Without the Toil",
+   "3 Practices for Effective DevOps Adoption",
+   "Device Tree: hardware description for everybody!",
+   "A quick view into a compiler",
+   "Reflection in C++ Next",
+   "Multithreading Using Lockless Lists and RCU",
+   "Is Boost Broken?",
+   "Leveraging the range based for loop",
+   "How I Code and Why",
+   "constexpr: C++ At Compile Time",
+   "C++20 Concepts: The Base Classes of Generic Programming? or Not?",
+   "A Multi-threaded, Transaction-Based Locking Strategy for Containers",
+   "Video Rendering on Frontend and Backend",
+   "Birth of Study Group 14...",
+   "Thinking outside of the framework",
+   "The Projucer: Live coding with C++ and the LLVM JIT engine",
+   "Performance analysis and optimization of C++ standard libraries",
+   "Fishbowl  - Working on Large Code Bases",
+   "Spectre",
+   "Zen and the Art of Convincing Your Company to Use Rust"
 ]
 
 var tags = [
@@ -3112,6 +4001,25 @@ var tags = [
 
 const talks = [
    {
+          number: 2640,
+      identifier: "GOTO Chicago-2020-41",
+         meeting: "GOTO Chicago",
+         edition: "2020",
+           title: "#DigitalNudge - The Hidden Forces that Shape our Digital Decisions",
+        speakers: [
+                     "Fabio Pereira"
+                  ],
+           video: "https://youtube.com/watch?v=zOPGByrWoyg",
+       thumbnail: "http://img.youtube.com/vi/zOPGByrWoyg/0.jpg",
+        duration: 1148,
+            tags: [
+                     "lightning",
+                     "live"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1862,
       identifier: "accu-2019-14",
          meeting: "accu",
@@ -3124,7 +4032,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/CJsQSIp7-Ig/0.jpg",
         duration: 3788,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -3152,619 +4059,19 @@ const talks = [
         language: "English"
    },
    {
-          number: 2300,
-      identifier: "MUC++--44",
-         meeting: "MUC++",
-         edition: "",
-           title: "'A Question of Ownership' (C++ Beginner's Lightning Talk)",
+          number: 2372,
+      identifier: "GOTO Amsterdam-2018-40",
+         meeting: "GOTO Amsterdam",
+         edition: "2018",
+           title: "#ToyFail",
         speakers: [
-                     "Roland Bock"
+                     "Kristian Løken Wille",
+                     "Martin Gravråk"
                   ],
-           video: "https://youtube.com/watch?v=5V1_Tf9sFHA",
-       thumbnail: "http://img.youtube.com/vi/5V1_Tf9sFHA/0.jpg",
-        duration: 525,
+           video: "https://youtube.com/watch?v=ouh_AyhCVyE",
+       thumbnail: "http://img.youtube.com/vi/ouh_AyhCVyE/0.jpg",
+        duration: 3036,
             tags: [
-                     "c++",
-                     "lightning",
-                     "live"
-                  ],
-           level: 0,
-        language: "English"
-   },
-   {
-          number: 2287,
-      identifier: "MUC++--31",
-         meeting: "MUC++",
-         edition: "",
-           title: "'Almost no raw loops' (C++ Beginner's Lightning Talk)",
-        speakers: [
-                     "Klaus Iglberger"
-                  ],
-           video: "https://youtube.com/watch?v=hSAQTcH6QyY",
-       thumbnail: "http://img.youtube.com/vi/hSAQTcH6QyY/0.jpg",
-        duration: 590,
-            tags: [
-                     "c++",
-                     "lightning",
-                     "live"
-                  ],
-           level: 0,
-        language: "English"
-   },
-   {
-          number: 2262,
-      identifier: "MUC++--6",
-         meeting: "MUC++",
-         edition: "",
-           title: "'An array of problems. An array of solutions' (Virtual)",
-        speakers: [
-                     "Joel Falcou"
-                  ],
-           video: "https://youtube.com/watch?v=IwBG_JjfcIA",
-       thumbnail: "http://img.youtube.com/vi/IwBG_JjfcIA/0.jpg",
-        duration: 5563,
-            tags: [
-                     "c++",
-                     "live",
-                     "talk"
-                  ],
-           level: 0,
-        language: "English"
-   },
-   {
-          number: 2280,
-      identifier: "MUC++--24",
-         meeting: "MUC++",
-         edition: "",
-           title: "'Black Box Optimization of Compile Times' (C++ Lightning Talk)",
-        speakers: [
-                     "Stefan Asbeck"
-                  ],
-           video: "https://youtube.com/watch?v=fvs6UDq0LP0",
-       thumbnail: "http://img.youtube.com/vi/fvs6UDq0LP0/0.jpg",
-        duration: 738,
-            tags: [
-                     "c++",
-                     "lightning",
-                     "live"
-                  ],
-           level: 0,
-        language: "English"
-   },
-   {
-          number: 2258,
-      identifier: "MUC++--2",
-         meeting: "MUC++",
-         edition: "",
-           title: "'Calling Functions: A Tutorial' (Virtual)",
-        speakers: [
-                     "Klaus Iglberger"
-                  ],
-           video: "https://youtube.com/watch?v=B9RT5sVunmk",
-       thumbnail: "http://img.youtube.com/vi/B9RT5sVunmk/0.jpg",
-        duration: 5026,
-            tags: [
-                     "c++",
-                     "live",
-                     "talk"
-                  ],
-           level: 0,
-        language: "English"
-   },
-   {
-          number: 2306,
-      identifier: "MUC++--50",
-         meeting: "MUC++",
-         edition: "",
-           title: "'Controlling Overload Resolution with SFINAE' (Lightning Talk)",
-        speakers: [
-                     "Matthaus Brandl"
-                  ],
-           video: "https://youtube.com/watch?v=-XY0FaZmH8c",
-       thumbnail: "http://img.youtube.com/vi/-XY0FaZmH8c/0.jpg",
-        duration: 224,
-            tags: [
-                     "c++",
-                     "lightning",
-                     "live"
-                  ],
-           level: 0,
-        language: "English"
-   },
-   {
-          number: 2296,
-      identifier: "MUC++--40",
-         meeting: "MUC++",
-         edition: "",
-           title: "'Design Patterns in C++ Done Right' (Lightning Talk)",
-        speakers: [
-                     "Miro Knejp"
-                  ],
-           video: "https://youtube.com/watch?v=jrnQ9FC5kOg",
-       thumbnail: "http://img.youtube.com/vi/jrnQ9FC5kOg/0.jpg",
-        duration: 257,
-            tags: [
-                     "c++",
-                     "lightning",
-                     "live"
-                  ],
-           level: 0,
-        language: "English"
-   },
-   {
-          number: 2291,
-      identifier: "MUC++--35",
-         meeting: "MUC++",
-         edition: "",
-           title: "'Developing PHP Extensions with PHP CPP' (Lightning Talk)",
-        speakers: [
-                     "Robert Haas"
-                  ],
-           video: "https://youtube.com/watch?v=_XbQVx5LFIU",
-       thumbnail: "http://img.youtube.com/vi/_XbQVx5LFIU/0.jpg",
-        duration: 332,
-            tags: [
-                     "c++",
-                     "lightning",
-                     "live"
-                  ],
-           level: 0,
-        language: "English"
-   },
-   {
-          number: 2279,
-      identifier: "MUC++--23",
-         meeting: "MUC++",
-         edition: "",
-           title: "'Diagnosing Memory Leaks' (C++ Lightning Talk)",
-        speakers: [
-                     "Robert Seilbeck"
-                  ],
-           video: "https://youtube.com/watch?v=jsvW6XacKRg",
-       thumbnail: "http://img.youtube.com/vi/jsvW6XacKRg/0.jpg",
-        duration: 503,
-            tags: [
-                     "c++",
-                     "lightning",
-                     "live"
-                  ],
-           level: 0,
-        language: "English"
-   },
-   {
-          number: 2278,
-      identifier: "MUC++--22",
-         meeting: "MUC++",
-         edition: "",
-           title: "'EMF4CPP Generating Ecore Models for C++' (C++ Lightning Talk)",
-        speakers: [
-                     "Matthias Dorfel"
-                  ],
-           video: "https://youtube.com/watch?v=tKM8-paCVyw",
-       thumbnail: "http://img.youtube.com/vi/tKM8-paCVyw/0.jpg",
-        duration: 1246,
-            tags: [
-                     "c++",
-                     "live",
-                     "talk"
-                  ],
-           level: 0,
-        language: "English"
-   },
-   {
-          number: 2260,
-      identifier: "MUC++--4",
-         meeting: "MUC++",
-         edition: "",
-           title: "'Empirical Unit Testing' (Virtual)",
-        speakers: [
-                     "Dave Steffen"
-                  ],
-           video: "https://youtube.com/watch?v=Ohd2zMgnPlE",
-       thumbnail: "http://img.youtube.com/vi/Ohd2zMgnPlE/0.jpg",
-        duration: 4297,
-            tags: [
-                     "c++",
-                     "live",
-                     "talk"
-                  ],
-           level: 0,
-        language: "English"
-   },
-   {
-          number: 936,
-      identifier: "CppCon-2015-52",
-         meeting: "CppCon",
-         edition: "2015",
-           title: "'for_each_argument' explained and expanded",
-        speakers: [
-                     "Vittorio Romeo"
-                  ],
-           video: "https://youtube.com/watch?v=2l83JlqkzBk",
-       thumbnail: "http://img.youtube.com/vi/2l83JlqkzBk/0.jpg",
-        duration: 1912,
-            tags: [
-                     "c++",
-                     "live",
-                     "talk"
-                  ],
-           level: 0,
-        language: "English"
-   },
-   {
-          number: 2295,
-      identifier: "MUC++--39",
-         meeting: "MUC++",
-         edition: "",
-           title: "'How custom gdb commands help in C++ development' (Lightning Talk)",
-        speakers: [
-                     "Michael Krasnyk"
-                  ],
-           video: "https://youtube.com/watch?v=QtTYXE1wSVs",
-       thumbnail: "http://img.youtube.com/vi/QtTYXE1wSVs/0.jpg",
-        duration: 361,
-            tags: [
-                     "c++",
-                     "lightning",
-                     "live"
-                  ],
-           level: 0,
-        language: "English"
-   },
-   {
-          number: 2269,
-      identifier: "MUC++--13",
-         meeting: "MUC++",
-         edition: "",
-           title: "'Include C++' (C++ Lightning Talk)",
-        speakers: [
-                     "Victor Moreno"
-                  ],
-           video: "https://youtube.com/watch?v=r23ErUGt9mo",
-       thumbnail: "http://img.youtube.com/vi/r23ErUGt9mo/0.jpg",
-        duration: 634,
-            tags: [
-                     "c++",
-                     "lightning",
-                     "live"
-                  ],
-           level: 0,
-        language: "English"
-   },
-   {
-          number: 2257,
-      identifier: "MUC++--1",
-         meeting: "MUC++",
-         edition: "",
-           title: "'Metaprogramming in C++' (Virtual)",
-        speakers: [
-                     "Andrew Sutton"
-                  ],
-           video: "https://youtube.com/watch?v=reYByJIEcIo",
-       thumbnail: "http://img.youtube.com/vi/reYByJIEcIo/0.jpg",
-        duration: 5350,
-            tags: [
-                     "c++",
-                     "live",
-                     "talk"
-                  ],
-           level: 0,
-        language: "English"
-   },
-   {
-          number: 1347,
-      identifier: "CppCon-2019-67",
-         meeting: "CppCon",
-         edition: "2019",
-           title: "'Mostly Invalid': flat_map, Exception Guarantees, and the STL",
-        speakers: [
-                     "Arthur O'Dwyer"
-                  ],
-           video: "https://youtube.com/watch?v=b9ZYM0d6htg",
-       thumbnail: "http://img.youtube.com/vi/b9ZYM0d6htg/0.jpg",
-        duration: 4380,
-            tags: [
-                     "c++",
-                     "live",
-                     "talk"
-                  ],
-           level: 0,
-        language: "English"
-   },
-   {
-          number: 2263,
-      identifier: "MUC++--7",
-         meeting: "MUC++",
-         edition: "",
-           title: "'My Least Favorite Anti-Pattern' (Virtual)",
-        speakers: [
-                     "Conor Hoekstra"
-                  ],
-           video: "https://youtube.com/watch?v=VV9vwFsaQ6U",
-       thumbnail: "http://img.youtube.com/vi/VV9vwFsaQ6U/0.jpg",
-        duration: 4718,
-            tags: [
-                     "c++",
-                     "live",
-                     "talk"
-                  ],
-           level: 0,
-        language: "English"
-   },
-   {
-          number: 2305,
-      identifier: "MUC++--49",
-         meeting: "MUC++",
-         edition: "",
-           title: "'Print C++ Like It's Python' (Lightning Talk)",
-        speakers: [
-                     "Michael Dorner"
-                  ],
-           video: "https://youtube.com/watch?v=9V42buwzlzI",
-       thumbnail: "http://img.youtube.com/vi/9V42buwzlzI/0.jpg",
-        duration: 177,
-            tags: [
-                     "c++",
-                     "lightning",
-                     "live"
-                  ],
-           level: 0,
-        language: "English"
-   },
-   {
-          number: 2294,
-      identifier: "MUC++--38",
-         meeting: "MUC++",
-         edition: "",
-           title: "'Property Bindings in C++11' (Lightning Talk)",
-        speakers: [
-                     "Frank Mertens"
-                  ],
-           video: "https://youtube.com/watch?v=_Dt5mXNp6rY",
-       thumbnail: "http://img.youtube.com/vi/_Dt5mXNp6rY/0.jpg",
-        duration: 544,
-            tags: [
-                     "c++",
-                     "lightning",
-                     "live"
-                  ],
-           level: 0,
-        language: "English"
-   },
-   {
-          number: 2259,
-      identifier: "MUC++--3",
-         meeting: "MUC++",
-         edition: "",
-           title: "'Quickly & Effectively Testing Legacy C++ Code with Approval Tests' (Virtual)",
-        speakers: [
-                     "Clare Macrae"
-                  ],
-           video: "https://youtube.com/watch?v=vtWnqqSUzrY",
-       thumbnail: "http://img.youtube.com/vi/vtWnqqSUzrY/0.jpg",
-        duration: 4634,
-            tags: [
-                     "c++",
-                     "live",
-                     "talk"
-                  ],
-           level: 0,
-        language: "English"
-   },
-   {
-          number: 2284,
-      identifier: "MUC++--28",
-         meeting: "MUC++",
-         edition: "",
-           title: "'Scaling development of a large C++ project: Chromium' (Part 1)",
-        speakers: [
-                     "Andrii Shyshkalov"
-                  ],
-           video: "https://youtube.com/watch?v=2Tsy_lJU21g",
-       thumbnail: "http://img.youtube.com/vi/2Tsy_lJU21g/0.jpg",
-        duration: 2582,
-            tags: [
-                     "c++",
-                     "live",
-                     "talk"
-                  ],
-           level: 0,
-        language: "English"
-   },
-   {
-          number: 2283,
-      identifier: "MUC++--27",
-         meeting: "MUC++",
-         edition: "",
-           title: "'Scaling development of a large C++ project: Chromium' (Part 2)",
-        speakers: [
-                     "Andrii Shyshkalov"
-                  ],
-           video: "https://youtube.com/watch?v=SNGDfJyFoCY",
-       thumbnail: "http://img.youtube.com/vi/SNGDfJyFoCY/0.jpg",
-        duration: 3184,
-            tags: [
-                     "c++",
-                     "live",
-                     "talk"
-                  ],
-           level: 0,
-        language: "English"
-   },
-   {
-          number: 2290,
-      identifier: "MUC++--34",
-         meeting: "MUC++",
-         edition: "",
-           title: "'Simplicity Not Just for Beginners' (Part 1)",
-        speakers: [
-                     "Kate Gregory"
-                  ],
-           video: "https://youtube.com/watch?v=JewFqo9-C3o",
-       thumbnail: "http://img.youtube.com/vi/JewFqo9-C3o/0.jpg",
-        duration: 2487,
-            tags: [
-                     "c++",
-                     "live",
-                     "talk"
-                  ],
-           level: 0,
-        language: "English"
-   },
-   {
-          number: 2298,
-      identifier: "MUC++--42",
-         meeting: "MUC++",
-         edition: "",
-           title: "'sizeof' (C++ Beginner's Lightning Talk)",
-        speakers: [
-                     "Xavier Bonaventura"
-                  ],
-           video: "https://youtube.com/watch?v=BWdX6yXFj_Y",
-       thumbnail: "http://img.youtube.com/vi/BWdX6yXFj_Y/0.jpg",
-        duration: 353,
-            tags: [
-                     "c++",
-                     "lightning",
-                     "live"
-                  ],
-           level: 0,
-        language: "English"
-   },
-   {
-          number: 2292,
-      identifier: "MUC++--36",
-         meeting: "MUC++",
-         edition: "",
-           title: "'Swizzling' (Lightning Talk)",
-        speakers: [
-                     "Stefan Rohe"
-                  ],
-           video: "https://youtube.com/watch?v=x4V_vQBJQrw",
-       thumbnail: "http://img.youtube.com/vi/x4V_vQBJQrw/0.jpg",
-        duration: 347,
-            tags: [
-                     "c++",
-                     "lightning",
-                     "live"
-                  ],
-           level: 0,
-        language: "English"
-   },
-   {
-          number: 2304,
-      identifier: "MUC++--48",
-         meeting: "MUC++",
-         edition: "",
-           title: "'The Abilities of Good Code' (Lightning Talk)",
-        speakers: [
-                     "Andreas Sommer"
-                  ],
-           video: "https://youtube.com/watch?v=cahJaHLwdio",
-       thumbnail: "http://img.youtube.com/vi/cahJaHLwdio/0.jpg",
-        duration: 332,
-            tags: [
-                     "c++",
-                     "lightning",
-                     "live"
-                  ],
-           level: 0,
-        language: "English"
-   },
-   {
-          number: 2265,
-      identifier: "MUC++--9",
-         meeting: "MUC++",
-         edition: "",
-           title: "'The Complete Guide to return x;' (Virtual)",
-        speakers: [
-                     "Arthur O'Dwyer"
-                  ],
-           video: "https://youtube.com/watch?v=80TXwV_sdCY",
-       thumbnail: "http://img.youtube.com/vi/80TXwV_sdCY/0.jpg",
-        duration: 6212,
-            tags: [
-                     "c++",
-                     "live",
-                     "talk"
-                  ],
-           level: 0,
-        language: "English"
-   },
-   {
-          number: 2264,
-      identifier: "MUC++--8",
-         meeting: "MUC++",
-         edition: "",
-           title: "'The Construction and Use of C++ Algorithms' (Virtual)",
-        speakers: [
-                     "Ben Deane"
-                  ],
-           video: "https://youtube.com/watch?v=jCfbyjAyAKU",
-       thumbnail: "http://img.youtube.com/vi/jCfbyjAyAKU/0.jpg",
-        duration: 6192,
-            tags: [
-                     "c++",
-                     "live",
-                     "talk"
-                  ],
-           level: 0,
-        language: "English"
-   },
-   {
-          number: 2285,
-      identifier: "MUC++--29",
-         meeting: "MUC++",
-         edition: "",
-           title: "'The cost of simple programs' (C++ Beginner's Lightning Talk)",
-        speakers: [
-                     "Lukas Bergdoll"
-                  ],
-           video: "https://youtube.com/watch?v=gkYkEHHyQlE",
-       thumbnail: "http://img.youtube.com/vi/gkYkEHHyQlE/0.jpg",
-        duration: 414,
-            tags: [
-                     "c++",
-                     "lightning",
-                     "live"
-                  ],
-           level: 0,
-        language: "English"
-   },
-   {
-          number: 2266,
-      identifier: "MUC++--10",
-         meeting: "MUC++",
-         edition: "",
-           title: "'The Static Initialization Order Fiasco' (Virtual)",
-        speakers: [
-                     "Jonathan Muller"
-                  ],
-           video: "https://youtube.com/watch?v=dlTrziwQU-w",
-       thumbnail: "http://img.youtube.com/vi/dlTrziwQU-w/0.jpg",
-        duration: 3726,
-            tags: [
-                     "c++",
-                     "live",
-                     "talk"
-                  ],
-           level: 0,
-        language: "English"
-   },
-   {
-          number: 2261,
-      identifier: "MUC++--5",
-         meeting: "MUC++",
-         edition: "",
-           title: "'Variations on Variant' (Virtual)",
-        speakers: [
-                     "Roi Barkan"
-                  ],
-           video: "https://youtube.com/watch?v=hEoeVAfslmg",
-       thumbnail: "http://img.youtube.com/vi/hEoeVAfslmg/0.jpg",
-        duration: 4531,
-            tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -3785,7 +4092,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/rTTFbCv8X4E/0.jpg",
         duration: 3644,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -3806,6 +4112,26 @@ const talks = [
         duration: 3789,
             tags: [
                      "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2450,
+      identifier: "GOTO Berlin-2018-37",
+         meeting: "GOTO Berlin",
+         edition: "2018",
+           title: "(Deep) Learning to Fly",
+        speakers: [
+                     "Blazej Kubiak",
+                     "Krzysztof Kudrynski"
+                  ],
+           video: "https://youtube.com/watch?v=EsQpMPSb0xg",
+       thumbnail: "http://img.youtube.com/vi/EsQpMPSb0xg/0.jpg",
+        duration: 2725,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -3905,7 +4231,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/tOOK-VsWU-I/0.jpg",
         duration: 3540,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -3985,7 +4310,25 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/bXkWuUe9V2I/0.jpg",
         duration: 3211,
             tags: [
-                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2423,
+      identifier: "GOTO Berlin-2018-10",
+         meeting: "GOTO Berlin",
+         edition: "2018",
+           title: "15 Years of Spring: Evolving a Java Application Framework",
+        speakers: [
+                     "Juergen Hoeller"
+                  ],
+           video: "https://youtube.com/watch?v=Tx6hBQQH3eI",
+       thumbnail: "http://img.youtube.com/vi/Tx6hBQQH3eI/0.jpg",
+        duration: 3097,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -4053,6 +4396,63 @@ const talks = [
         language: "English"
    },
    {
+          number: 2645,
+      identifier: "GOTO Chicago-2020-46",
+         meeting: "GOTO Chicago",
+         edition: "2020",
+           title: "2FA in 2020 and Beyond",
+        speakers: [
+                     "Kelley Robinson"
+                  ],
+           video: "https://youtube.com/watch?v=XYAJ4c74SdY",
+       thumbnail: "http://img.youtube.com/vi/XYAJ4c74SdY/0.jpg",
+        duration: 1027,
+            tags: [
+                     "lightning",
+                     "live"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2472,
+      identifier: "GOTO Berlin-2019-12",
+         meeting: "GOTO Berlin",
+         edition: "2019",
+           title: "3 Common Pitfalls in Microservice Integration & How to Avoid Them",
+        speakers: [
+                     "Bernd Rucker"
+                  ],
+           video: "https://youtube.com/watch?v=7uvK4WInq6k",
+       thumbnail: "http://img.youtube.com/vi/7uvK4WInq6k/0.jpg",
+        duration: 2733,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2775,
+      identifier: "GOTOpia-2020-22",
+         meeting: "GOTOpia",
+         edition: "2020",
+           title: "3 Practices for Effective DevOps Adoption",
+        speakers: [
+                     "Eoin Woods"
+                  ],
+           video: "https://youtube.com/watch?v=MCPrtYxuVPU",
+       thumbnail: "http://img.youtube.com/vi/MCPrtYxuVPU/0.jpg",
+        duration: 1814,
+            tags: [
+                     "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1614,
       identifier: "code::dive-2018-21",
          meeting: "code::dive",
@@ -4065,7 +4465,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/jUSxpe-nrnk/0.jpg",
         duration: 754,
             tags: [
-                     "c++",
                      "lightning",
                      "live"
                   ],
@@ -4093,6 +4492,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2660,
+      identifier: "GOTO Copenhagen-2018-11",
+         meeting: "GOTO Copenhagen",
+         edition: "2018",
+           title: "40 Jenkins Features & Plugins You Wished You had Known about Before!",
+        speakers: [
+                     "Joep Weijers"
+                  ],
+           video: "https://youtube.com/watch?v=3dYM0XUrXHc",
+       thumbnail: "http://img.youtube.com/vi/3dYM0XUrXHc/0.jpg",
+        duration: 2774,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1396,
       identifier: "CppCon-2020-16",
          meeting: "CppCon",
@@ -4107,6 +4525,25 @@ const talks = [
             tags: [
                      "c++",
                      "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2437,
+      identifier: "GOTO Berlin-2018-24",
+         meeting: "GOTO Berlin",
+         edition: "2018",
+           title: "5 Reasons to use Reactive Programming if you are not eBay",
+        speakers: [
+                     "Grygoriy Gonchar"
+                  ],
+           video: "https://youtube.com/watch?v=DIQ9aNkjKZ8",
+       thumbnail: "http://img.youtube.com/vi/DIQ9aNkjKZ8/0.jpg",
+        duration: 2110,
+            tags: [
+                     "live",
                      "talk"
                   ],
            level: 0,
@@ -4153,6 +4590,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2338,
+      identifier: "GOTO Amsterdam-2018-6",
+         meeting: "GOTO Amsterdam",
+         edition: "2018",
+           title: "50.000 Orange Stickies Later",
+        speakers: [
+                     "Alberto Brandolini"
+                  ],
+           video: "https://youtube.com/watch?v=NGXl1D-KwRI",
+       thumbnail: "http://img.youtube.com/vi/NGXl1D-KwRI/0.jpg",
+        duration: 3067,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1496,
       identifier: "code::dive-2015-3",
          meeting: "code::dive",
@@ -4166,7 +4622,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/PhbWcfTcVic/0.jpg",
         duration: 5265,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -4234,6 +4689,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2813,
+      identifier: "GOTOpia-2021-2",
+         meeting: "GOTOpia",
+         edition: "2021",
+           title: "A Beginner's Guide to eBPF Programming with Go",
+        speakers: [
+                     "Liz Rice"
+                  ],
+           video: "https://youtube.com/watch?v=uBqRv8bDroc",
+       thumbnail: "http://img.youtube.com/vi/uBqRv8bDroc/0.jpg",
+        duration: 2154,
+            tags: [
+                     "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1974,
       identifier: "Italian C++ Conference-2021-8",
          meeting: "Italian C++ Conference",
@@ -4266,7 +4740,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/Px4_gglU-e4/0.jpg",
         duration: 4901,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -4354,6 +4827,63 @@ const talks = [
         language: "English"
    },
    {
+          number: 2444,
+      identifier: "GOTO Berlin-2018-31",
+         meeting: "GOTO Berlin",
+         edition: "2018",
+           title: "A Cartoon Quest: New Adventures for WebAssembly",
+        speakers: [
+                     "Lin Clark"
+                  ],
+           video: "https://youtube.com/watch?v=rZB9Er8aq4s",
+       thumbnail: "http://img.youtube.com/vi/rZB9Er8aq4s/0.jpg",
+        duration: 2621,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2555,
+      identifier: "GOTO Chicago-2019-14",
+         meeting: "GOTO Chicago",
+         edition: "2019",
+           title: "A Case For Outside-In Design",
+        speakers: [
+                     "Sandro Mancuso"
+                  ],
+           video: "https://youtube.com/watch?v=fKHYBnuPApY",
+       thumbnail: "http://img.youtube.com/vi/fKHYBnuPApY/0.jpg",
+        duration: 3178,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2810,
+      identifier: "GOTOpia-2020-60",
+         meeting: "GOTOpia",
+         edition: "2020",
+           title: "A Code-Driven Introduction to Reinforcement Learning",
+        speakers: [
+                     "Phil Winder"
+                  ],
+           video: "https://youtube.com/watch?v=sh1o51wOHLo",
+       thumbnail: "http://img.youtube.com/vi/sh1o51wOHLo/0.jpg",
+        duration: 1957,
+            tags: [
+                     "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 42,
       identifier: "BoostCon-2011-27",
          meeting: "BoostCon",
@@ -4365,6 +4895,26 @@ const talks = [
            video: "https://youtube.com/watch?v=OgYwvzUUupM",
        thumbnail: "http://img.youtube.com/vi/OgYwvzUUupM/0.jpg",
         duration: 4510,
+            tags: [
+                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2328,
+      identifier: "Going Native-2012-14",
+         meeting: "Going Native",
+         edition: "2012",
+           title: "A concept design for C++",
+        speakers: [
+                     
+                  ],
+           video: "https://youtube.com/watch?v=EPLCFLgFWls",
+       thumbnail: "http://img.youtube.com/vi/EPLCFLgFWls/0.jpg",
+        duration: 3670,
             tags: [
                      "c++",
                      "live",
@@ -4567,7 +5117,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/9NED6ZB9o4k/0.jpg",
         duration: 1818,
             tags: [
-                     "c++",
                      "embedded",
                      "online",
                      "talk"
@@ -4629,7 +5178,25 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/lQQ_CahFVzw/0.jpg",
         duration: 3400,
             tags: [
-                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2365,
+      identifier: "GOTO Amsterdam-2018-33",
+         meeting: "GOTO Amsterdam",
+         edition: "2018",
+           title: "A Language Stack for Implementing Contracts",
+        speakers: [
+                     "Markus Volter"
+                  ],
+           video: "https://youtube.com/watch?v=kOBth0iEKFw",
+       thumbnail: "http://img.youtube.com/vi/kOBth0iEKFw/0.jpg",
+        duration: 2854,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -4819,6 +5386,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2349,
+      identifier: "GOTO Amsterdam-2018-17",
+         meeting: "GOTO Amsterdam",
+         edition: "2018",
+           title: "A Microservices Journey",
+        speakers: [
+                     "Susanne Kaiser"
+                  ],
+           video: "https://youtube.com/watch?v=_bDDtS3aEes",
+       thumbnail: "http://img.youtube.com/vi/_bDDtS3aEes/0.jpg",
+        duration: 2774,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1028,
       identifier: "CppCon-2016-44",
          meeting: "CppCon",
@@ -4871,7 +5457,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/nie9AMYYhE0/0.jpg",
         duration: 3953,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -4951,7 +5536,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/tDUL3wEs2ew/0.jpg",
         duration: 1795,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -5011,7 +5595,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/fsMmh8F8uV0/0.jpg",
         duration: 1945,
             tags: [
-                     "c++",
                      "embedded",
                      "live",
                      "talk"
@@ -5034,6 +5617,44 @@ const talks = [
             tags: [
                      "c++",
                      "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2751,
+      identifier: "GOTO Oslo-2018-12",
+         meeting: "GOTO Oslo",
+         edition: "2018",
+           title: "A Practical-ish Introduction to Data Science",
+        speakers: [
+                     "Mark West"
+                  ],
+           video: "https://youtube.com/watch?v=wVnFSJDVC4I",
+       thumbnail: "http://img.youtube.com/vi/wVnFSJDVC4I/0.jpg",
+        duration: 2619,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2625,
+      identifier: "GOTO Chicago-2020-26",
+         meeting: "GOTO Chicago",
+         edition: "2020",
+           title: "A Quantum Computing Lab Tour at D-Wave",
+        speakers: [
+                     "Murray Thom"
+                  ],
+           video: "https://youtube.com/watch?v=Ga2D8LU09xk",
+       thumbnail: "http://img.youtube.com/vi/Ga2D8LU09xk/0.jpg",
+        duration: 2391,
+            tags: [
+                     "live",
                      "talk"
                   ],
            level: 0,
@@ -5072,9 +5693,28 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/2ZxKZHiASEg/0.jpg",
         duration: 4779,
             tags: [
-                     "c++",
                      "live",
                      "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2300,
+      identifier: "MUC++--44",
+         meeting: "MUC++",
+         edition: "",
+           title: "A Question of Ownership",
+        speakers: [
+                     "Roland Bock"
+                  ],
+           video: "https://youtube.com/watch?v=5V1_Tf9sFHA",
+       thumbnail: "http://img.youtube.com/vi/5V1_Tf9sFHA/0.jpg",
+        duration: 525,
+            tags: [
+                     "c++",
+                     "lightning",
+                     "live"
                   ],
            level: 0,
         language: "English"
@@ -5213,7 +5853,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/JLnnaO8hEbc/0.jpg",
         duration: 4128,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -5373,7 +6012,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/8m11sbfegoY/0.jpg",
         duration: 5791,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -5413,7 +6051,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/C4Se7DeIY48/0.jpg",
         duration: 4223,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -5433,7 +6070,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/1-USxs3QEhM/0.jpg",
         duration: 3352,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -5473,7 +6109,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/lCPqz2TRSZI/0.jpg",
         duration: 2647,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -5521,6 +6156,26 @@ const talks = [
         language: "English"
    },
    {
+          number: 2776,
+      identifier: "GOTOpia-2020-23",
+         meeting: "GOTOpia",
+         edition: "2020",
+           title: "A TypeScript Fan's KotlinJS Adventures",
+        speakers: [
+                     "Eamonn Boyle",
+                     "Garth Gilmour"
+                  ],
+           video: "https://youtube.com/watch?v=Si3z82PEB5o",
+       thumbnail: "http://img.youtube.com/vi/Si3z82PEB5o/0.jpg",
+        duration: 1691,
+            tags: [
+                     "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1336,
       identifier: "CppCon-2019-56",
          meeting: "CppCon",
@@ -5557,6 +6212,26 @@ const talks = [
                      "c++",
                      "lightning",
                      "live"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2737,
+      identifier: "GOTO Copenhagen-2019-46",
+         meeting: "GOTO Copenhagen",
+         edition: "2019",
+           title: "A Veterans Guide To Transitioning Android Teams Into Kotlin",
+        speakers: [
+                     "E. Boyle",
+                     "G. Gilmour"
+                  ],
+           video: "https://youtube.com/watch?v=ocCE3s9j-9A",
+       thumbnail: "http://img.youtube.com/vi/ocCE3s9j-9A/0.jpg",
+        duration: 2905,
+            tags: [
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "English"
@@ -5694,7 +6369,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/bNELexZkiOM/0.jpg",
         duration: 1753,
             tags: [
-                     "c++",
                      "embedded",
                      "online",
                      "talk"
@@ -5784,6 +6458,44 @@ const talks = [
         language: "English"
    },
    {
+          number: 2440,
+      identifier: "GOTO Berlin-2018-27",
+         meeting: "GOTO Berlin",
+         edition: "2018",
+           title: "Accelerated Learning: How Agile Can Help You?",
+        speakers: [
+                     "Artur Margonari"
+                  ],
+           video: "https://youtube.com/watch?v=xuzpLr7sFjM",
+       thumbnail: "http://img.youtube.com/vi/xuzpLr7sFjM/0.jpg",
+        duration: 3586,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2581,
+      identifier: "GOTO Chicago-2019-40",
+         meeting: "GOTO Chicago",
+         edition: "2019",
+           title: "Accelerating Machine Learning DevOps with Kubeflow",
+        speakers: [
+                     "Derek Ferguson"
+                  ],
+           video: "https://youtube.com/watch?v=sJx1MfMDD2g",
+       thumbnail: "http://img.youtube.com/vi/sJx1MfMDD2g/0.jpg",
+        duration: 2758,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 883,
       identifier: "CppCon-2014-99",
          meeting: "CppCon",
@@ -5824,6 +6536,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2551,
+      identifier: "GOTO Chicago-2019-10",
+         meeting: "GOTO Chicago",
+         edition: "2019",
+           title: "Achieving Functional Programming in Java",
+        speakers: [
+                     "John Napier"
+                  ],
+           video: "https://youtube.com/watch?v=VUH_HhAaNpc",
+       thumbnail: "http://img.youtube.com/vi/VUH_HhAaNpc/0.jpg",
+        duration: 2741,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1308,
       identifier: "CppCon-2019-28",
          meeting: "CppCon",
@@ -5839,6 +6570,63 @@ const talks = [
                      "c++",
                      "live",
                      "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2617,
+      identifier: "GOTO Chicago-2020-18",
+         meeting: "GOTO Chicago",
+         edition: "2020",
+           title: "Adopt GraphQL without Writing any Backend Code",
+        speakers: [
+                     "Uri Goldshtein"
+                  ],
+           video: "https://youtube.com/watch?v=1bJ_M_v-tso",
+       thumbnail: "http://img.youtube.com/vi/1bJ_M_v-tso/0.jpg",
+        duration: 1315,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2561,
+      identifier: "GOTO Chicago-2019-20",
+         meeting: "GOTO Chicago",
+         edition: "2019",
+           title: "Adopting gRPC: Overcoming Team and Technical Hurdles",
+        speakers: [
+                     "Josh Humphries"
+                  ],
+           video: "https://youtube.com/watch?v=VNllljvhcnk",
+       thumbnail: "http://img.youtube.com/vi/VNllljvhcnk/0.jpg",
+        duration: 2488,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2614,
+      identifier: "GOTO Chicago-2020-15",
+         meeting: "GOTO Chicago",
+         edition: "2020",
+           title: "Advanced Feature Flagging: It's All About The Data",
+        speakers: [
+                     "Dave Karow"
+                  ],
+           video: "https://youtube.com/watch?v=f8XDvtfKWQE",
+       thumbnail: "http://img.youtube.com/vi/f8XDvtfKWQE/0.jpg",
+        duration: 977,
+            tags: [
+                     "lightning",
+                     "live"
                   ],
            level: 0,
         language: "English"
@@ -6076,7 +6864,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/F01QsCSXg4k/0.jpg",
         duration: 2670,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -6096,8 +6883,27 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/wRNO71OpXzU/0.jpg",
         duration: 4272,
             tags: [
-                     "c++",
                      "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2804,
+      identifier: "GOTOpia-2020-54",
+         meeting: "GOTOpia",
+         edition: "2020",
+           title: "Agility at Scale: A Meeting of Mindsets",
+        speakers: [
+                     "Anna Urbaniak",
+                     "Daniel Terhorst-North"
+                  ],
+           video: "https://youtube.com/watch?v=a1SlBbAZdbE",
+       thumbnail: "http://img.youtube.com/vi/a1SlBbAZdbE/0.jpg",
+        duration: 2316,
+            tags: [
+                     "online",
                      "talk"
                   ],
            level: 0,
@@ -6116,7 +6922,25 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/f9vNYgoG_zY/0.jpg",
         duration: 3946,
             tags: [
-                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2410,
+      identifier: "GOTO Amsterdam-2019-37",
+         meeting: "GOTO Amsterdam",
+         edition: "2019",
+           title: "AI/ML, Quantum Comp. & 5G - Opportunities, Challenges & Impact on Society",
+        speakers: [
+                     "Marco Gercke"
+                  ],
+           video: "https://youtube.com/watch?v=TgHh6I3GMvM",
+       thumbnail: "http://img.youtube.com/vi/TgHh6I3GMvM/0.jpg",
+        duration: 2724,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -6157,7 +6981,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/t5YuuLMyKpc/0.jpg",
         duration: 3220,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -6177,7 +7000,25 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/koGpF1solzM/0.jpg",
         duration: 5346,
             tags: [
-                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2528,
+      identifier: "GOTO Chicago-2018-29",
+         meeting: "GOTO Chicago",
+         edition: "2018",
+           title: "Alexa, Let's Build a Serverless Skill",
+        speakers: [
+                     "Chris Munns"
+                  ],
+           video: "https://youtube.com/watch?v=YzI89gfsONk",
+       thumbnail: "http://img.youtube.com/vi/YzI89gfsONk/0.jpg",
+        duration: 3102,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -6405,6 +7246,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2588,
+      identifier: "GOTO Chicago-2019-47",
+         meeting: "GOTO Chicago",
+         edition: "2019",
+           title: "All The World's A Staging Server",
+        speakers: [
+                     "Heidi Waterhouse"
+                  ],
+           video: "https://youtube.com/watch?v=eyvrtU4dYgM",
+       thumbnail: "http://img.youtube.com/vi/eyvrtU4dYgM/0.jpg",
+        duration: 2299,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1915,
       identifier: "accu-2019-81",
          meeting: "accu",
@@ -6417,7 +7277,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/V0gmSPICJFQ/0.jpg",
         duration: 5439,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -6440,6 +7299,26 @@ const talks = [
                      "c++",
                      "live",
                      "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2287,
+      identifier: "MUC++--31",
+         meeting: "MUC++",
+         edition: "",
+           title: "Almost no raw loops",
+        speakers: [
+                     "Klaus Iglberger"
+                  ],
+           video: "https://youtube.com/watch?v=hSAQTcH6QyY",
+       thumbnail: "http://img.youtube.com/vi/hSAQTcH6QyY/0.jpg",
+        duration: 590,
+            tags: [
+                     "c++",
+                     "lightning",
+                     "live"
                   ],
            level: 0,
         language: "English"
@@ -6485,6 +7364,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2468,
+      identifier: "GOTO Berlin-2019-8",
+         meeting: "GOTO Berlin",
+         edition: "2019",
+           title: "Amazing Code Reviews: Creating a Superhero Collective",
+        speakers: [
+                     "Alejandro Lujan"
+                  ],
+           video: "https://youtube.com/watch?v=ly86Wq_E18o",
+       thumbnail: "http://img.youtube.com/vi/ly86Wq_E18o/0.jpg",
+        duration: 2415,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1855,
       identifier: "accu-2019-7",
          meeting: "accu",
@@ -6497,7 +7395,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/asgO4P2fhTw/0.jpg",
         duration: 3800,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -6517,7 +7414,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/04SQCXJKdu0/0.jpg",
         duration: 2201,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -6645,6 +7541,26 @@ const talks = [
         language: "English"
    },
    {
+          number: 2262,
+      identifier: "MUC++--6",
+         meeting: "MUC++",
+         edition: "",
+           title: "An array of problems. An array of solutions",
+        speakers: [
+                     "Joel Falcou"
+                  ],
+           video: "https://youtube.com/watch?v=IwBG_JjfcIA",
+       thumbnail: "http://img.youtube.com/vi/IwBG_JjfcIA/0.jpg",
+        duration: 5563,
+            tags: [
+                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 2,
       identifier: "BoostCon-2010-2",
          meeting: "BoostCon",
@@ -6665,6 +7581,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2786,
+      identifier: "GOTOpia-2020-33",
+         meeting: "GOTOpia",
+         edition: "2020",
+           title: "An Average Working Day on Visionary NASA Projects",
+        speakers: [
+                     "Kenneth Harris II"
+                  ],
+           video: "https://youtube.com/watch?v=rZOao4eHw4U",
+       thumbnail: "http://img.youtube.com/vi/rZOao4eHw4U/0.jpg",
+        duration: 3023,
+            tags: [
+                     "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 279,
       identifier: "C++Now-2017-20",
          meeting: "C++Now",
@@ -6678,6 +7613,25 @@ const talks = [
         duration: 1818,
             tags: [
                      "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2481,
+      identifier: "GOTO Berlin-2019-21",
+         meeting: "GOTO Berlin",
+         edition: "2019",
+           title: "An Engineer's Guide To Burnout And How To Hack It",
+        speakers: [
+                     "Tim Duckett"
+                  ],
+           video: "https://youtube.com/watch?v=jfQ5M6wXi2w",
+       thumbnail: "http://img.youtube.com/vi/jfQ5M6wXi2w/0.jpg",
+        duration: 2513,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -6737,7 +7691,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/ZkDGsvh53-U/0.jpg",
         duration: 2744,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -6758,6 +7711,44 @@ const talks = [
         duration: 5678,
             tags: [
                      "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2453,
+      identifier: "GOTO Berlin-2018-40",
+         meeting: "GOTO Berlin",
+         edition: "2018",
+           title: "An Intro to Project Riff, a FaaS Built on Top of Knative",
+        speakers: [
+                     "Eric Bottard"
+                  ],
+           video: "https://youtube.com/watch?v=tOH14vXQR2I",
+       thumbnail: "http://img.youtube.com/vi/tOH14vXQR2I/0.jpg",
+        duration: 3029,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2429,
+      identifier: "GOTO Berlin-2018-16",
+         meeting: "GOTO Berlin",
+         edition: "2018",
+           title: "An Introduction to Bluetooth mesh for Developers",
+        speakers: [
+                     "Martin Woolley"
+                  ],
+           video: "https://youtube.com/watch?v=r9CvtbCmYQY",
+       thumbnail: "http://img.youtube.com/vi/r9CvtbCmYQY/0.jpg",
+        duration: 3180,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -6805,6 +7796,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2748,
+      identifier: "GOTO Oslo-2018-9",
+         meeting: "GOTO Oslo",
+         edition: "2018",
+           title: "An Introduction to JVM Performance",
+        speakers: [
+                     "Rafael Winterhalter"
+                  ],
+           video: "https://youtube.com/watch?v=wgJWs14YcEs",
+       thumbnail: "http://img.youtube.com/vi/wgJWs14YcEs/0.jpg",
+        duration: 2463,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1756,
       identifier: "accu-2017-15",
          meeting: "accu",
@@ -6817,7 +7827,25 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/uZqo21geUa0/0.jpg",
         duration: 5223,
             tags: [
-                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2382,
+      identifier: "GOTO Amsterdam-2019-9",
+         meeting: "GOTO Amsterdam",
+         edition: "2019",
+           title: "An Introduction to Systems & Service Monitoring with Prometheus",
+        speakers: [
+                     "Julius Volz"
+                  ],
+           video: "https://youtube.com/watch?v=5O1djJ13gRU",
+       thumbnail: "http://img.youtube.com/vi/5O1djJ13gRU/0.jpg",
+        duration: 1885,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -6897,7 +7925,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/pEvm5NNc6ko/0.jpg",
         duration: 5837,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -6937,7 +7964,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/fuDV9ZmcHPY/0.jpg",
         duration: 3959,
             tags: [
-                     "c++",
                      "embedded",
                      "online",
                      "talk"
@@ -6958,7 +7984,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/wGzTpIyP3hU/0.jpg",
         duration: 3413,
             tags: [
-                     "c++",
                      "embedded",
                      "online",
                      "talk"
@@ -7019,8 +8044,26 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/X2GXAuCQeyA/0.jpg",
         duration: 3477,
             tags: [
-                     "c++",
                      "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2533,
+      identifier: "GOTO Chicago-2018-34",
+         meeting: "GOTO Chicago",
+         edition: "2018",
+           title: "Analyzing Pwned Passwords with Apache Spark",
+        speakers: [
+                     "Kelley Robinson"
+                  ],
+           video: "https://youtube.com/watch?v=3HjjxP0-uFE",
+       thumbnail: "http://img.youtube.com/vi/3HjjxP0-uFE/0.jpg",
+        duration: 2374,
+            tags: [
+                     "live",
                      "talk"
                   ],
            level: 0,
@@ -7059,7 +8102,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/gFeXb0LJjuM/0.jpg",
         duration: 3457,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -7167,6 +8209,44 @@ const talks = [
         language: "English"
    },
    {
+          number: 2638,
+      identifier: "GOTO Chicago-2020-39",
+         meeting: "GOTO Chicago",
+         edition: "2020",
+           title: "Application Security at High Velocity",
+        speakers: [
+                     "Francis Potter"
+                  ],
+           video: "https://youtube.com/watch?v=2HV0imbHM3M",
+       thumbnail: "http://img.youtube.com/vi/2HV0imbHM3M/0.jpg",
+        duration: 1113,
+            tags: [
+                     "lightning",
+                     "live"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2345,
+      identifier: "GOTO Amsterdam-2018-13",
+         meeting: "GOTO Amsterdam",
+         edition: "2018",
+           title: "Applied AI: Real-World Use Cases for Microsoft's Azure Cognitive Services",
+        speakers: [
+                     "Paige Bailey"
+                  ],
+           video: "https://youtube.com/watch?v=gwUPY264KDU",
+       thumbnail: "http://img.youtube.com/vi/gwUPY264KDU/0.jpg",
+        duration: 2712,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 107,
       identifier: "C++Now-2013-23",
          meeting: "C++Now",
@@ -7227,6 +8307,44 @@ const talks = [
         language: "English"
    },
    {
+          number: 2789,
+      identifier: "GOTOpia-2020-39",
+         meeting: "GOTOpia",
+         edition: "2020",
+           title: "Apps, Algorithms & Abstractions",
+        speakers: [
+                     "Dylan Beattie"
+                  ],
+           video: "https://youtube.com/watch?v=qlnxx6M-mvA",
+       thumbnail: "http://img.youtube.com/vi/qlnxx6M-mvA/0.jpg",
+        duration: 2335,
+            tags: [
+                     "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2558,
+      identifier: "GOTO Chicago-2019-17",
+         meeting: "GOTO Chicago",
+         edition: "2019",
+           title: "AppSec: From the OWASP Top Ten(s) to the OWASP ASVS",
+        speakers: [
+                     "Jim Manico"
+                  ],
+           video: "https://youtube.com/watch?v=nvzMN5Z8DJI",
+       thumbnail: "http://img.youtube.com/vi/nvzMN5Z8DJI/0.jpg",
+        duration: 3089,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1576,
       identifier: "code::dive-2017-22",
          meeting: "code::dive",
@@ -7239,9 +8357,46 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/B0QXS1GdILg/0.jpg",
         duration: 2307,
             tags: [
-                     "c++",
                      "live",
                      "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2777,
+      identifier: "GOTOpia-2020-24",
+         meeting: "GOTOpia",
+         edition: "2020",
+           title: "Are you Avoiding --privileged? (Q3)",
+        speakers: [
+                     "Liz Rice"
+                  ],
+           video: "https://youtube.com/watch?v=caRjErS9fiY",
+       thumbnail: "http://img.youtube.com/vi/caRjErS9fiY/0.jpg",
+        duration: 577,
+            tags: [
+                     "lightning",
+                     "online"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2780,
+      identifier: "GOTOpia-2020-27",
+         meeting: "GOTOpia",
+         edition: "2020",
+           title: "Are You Keeping Hosts Up to Date with the Latest Security Releases? (Q4)",
+        speakers: [
+                     "Liz Rice"
+                  ],
+           video: "https://youtube.com/watch?v=nGR205F4sEM",
+       thumbnail: "http://img.youtube.com/vi/nGR205F4sEM/0.jpg",
+        duration: 388,
+            tags: [
+                     "lightning",
+                     "online"
                   ],
            level: 0,
         language: "English"
@@ -7259,7 +8414,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/W-X9d4ezRTo/0.jpg",
         duration: 961,
             tags: [
-                     "c++",
                      "lightning",
                      "live"
                   ],
@@ -7282,6 +8436,44 @@ const talks = [
                      "c++",
                      "live",
                      "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2778,
+      identifier: "GOTOpia-2020-25",
+         meeting: "GOTOpia",
+         edition: "2020",
+           title: "Are Your Builds Running Separately from Your Production Cluster? (Q1)",
+        speakers: [
+                     "Liz Rice"
+                  ],
+           video: "https://youtube.com/watch?v=pbIXGp_hGq4",
+       thumbnail: "http://img.youtube.com/vi/pbIXGp_hGq4/0.jpg",
+        duration: 857,
+            tags: [
+                     "lightning",
+                     "online"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2783,
+      identifier: "GOTOpia-2020-30",
+         meeting: "GOTOpia",
+         edition: "2020",
+           title: "Are Your Secrets Encrypted at Rest and in Transit? (Q5)",
+        speakers: [
+                     "Liz Rice"
+                  ],
+           video: "https://youtube.com/watch?v=3iY9WDXPIVo",
+       thumbnail: "http://img.youtube.com/vi/3iY9WDXPIVo/0.jpg",
+        duration: 828,
+            tags: [
+                     "lightning",
+                     "online"
                   ],
            level: 0,
         language: "English"
@@ -7368,6 +8560,45 @@ const talks = [
         language: "English"
    },
    {
+          number: 2447,
+      identifier: "GOTO Berlin-2018-34",
+         meeting: "GOTO Berlin",
+         edition: "2018",
+           title: "Artificial Intelligence Reloaded - AI Apps in the Industry",
+        speakers: [
+                     "Christoph Windheuser"
+                  ],
+           video: "https://youtube.com/watch?v=Na012w9N36M",
+       thumbnail: "http://img.youtube.com/vi/Na012w9N36M/0.jpg",
+        duration: 2614,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2326,
+      identifier: "Going Native-2012-12",
+         meeting: "Going Native",
+         edition: "2012",
+           title: "Ask us anything",
+        speakers: [
+                     
+                  ],
+           video: "https://youtube.com/watch?v=4YsVtwOyWmo",
+       thumbnail: "http://img.youtube.com/vi/4YsVtwOyWmo/0.jpg",
+        duration: 2985,
+            tags: [
+                     "c++",
+                     "live",
+                     "panel"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 2201,
       identifier: "Live Embedded Event-2020-32",
          meeting: "Live Embedded Event",
@@ -7380,7 +8611,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/Xs3-1nWABsU/0.jpg",
         duration: 2558,
             tags: [
-                     "c++",
                      "embedded",
                      "online",
                      "talk"
@@ -7441,7 +8671,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/qi4bMw7tyKk/0.jpg",
         duration: 1499,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -7501,7 +8730,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/TDb0RUcuh2U/0.jpg",
         duration: 3888,
             tags: [
-                     "c++",
                      "online",
                      "talk"
                   ],
@@ -7661,7 +8889,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/pmLL7Z8OouM/0.jpg",
         duration: 2915,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -7701,7 +8928,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/4DkMQRc4Iuc/0.jpg",
         duration: 3605,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -7721,7 +8947,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/A_vAG6LIHwQ/0.jpg",
         duration: 5260,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -7762,6 +8987,44 @@ const talks = [
         duration: 3811,
             tags: [
                      "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2513,
+      identifier: "GOTO Chicago-2018-14",
+         meeting: "GOTO Chicago",
+         edition: "2018",
+           title: "Attitude Determines Altitude: Engineering Yourself & Your Teams",
+        speakers: [
+                     "Randy Shoup"
+                  ],
+           video: "https://youtube.com/watch?v=y1SpwCiRoPY",
+       thumbnail: "http://img.youtube.com/vi/y1SpwCiRoPY/0.jpg",
+        duration: 2583,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2399,
+      identifier: "GOTO Amsterdam-2019-26",
+         meeting: "GOTO Amsterdam",
+         edition: "2019",
+           title: "Attitude of Iteration",
+        speakers: [
+                     "Eric Johnson"
+                  ],
+           video: "https://youtube.com/watch?v=M0z-yQK4Z-4",
+       thumbnail: "http://img.youtube.com/vi/M0z-yQK4Z-4/0.jpg",
+        duration: 2604,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -7821,7 +9084,25 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/Qz1rFsUPR3o/0.jpg",
         duration: 3073,
             tags: [
-                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2679,
+      identifier: "GOTO Copenhagen-2018-30",
+         meeting: "GOTO Copenhagen",
+         edition: "2018",
+           title: "Augmented Reality and Machine Learning Cooperation on Mobile",
+        speakers: [
+                     "Mourad Sidky"
+                  ],
+           video: "https://youtube.com/watch?v=97CPDQBUAoY",
+       thumbnail: "http://img.youtube.com/vi/97CPDQBUAoY/0.jpg",
+        duration: 2086,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -7842,7 +9123,25 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/PPq5uAZms10/0.jpg",
         duration: 4670,
             tags: [
-                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2685,
+      identifier: "GOTO Copenhagen-2018-36",
+         meeting: "GOTO Copenhagen",
+         edition: "2018",
+           title: "Augmented Reality, Beyond Virtual Objects Floating in Physical Space",
+        speakers: [
+                     "Morten Birk"
+                  ],
+           video: "https://youtube.com/watch?v=cl9A1wWjFEA",
+       thumbnail: "http://img.youtube.com/vi/cl9A1wWjFEA/0.jpg",
+        duration: 1884,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -7905,6 +9204,25 @@ const talks = [
             tags: [
                      "c++",
                      "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2761,
+      identifier: "GOTOpia-2020-8",
+         meeting: "GOTOpia",
+         edition: "2020",
+           title: "Automating Processes in Modern Architectures",
+        speakers: [
+                     "Bernd Rucker"
+                  ],
+           video: "https://youtube.com/watch?v=IBfuKA9Nc3M",
+       thumbnail: "http://img.youtube.com/vi/IBfuKA9Nc3M/0.jpg",
+        duration: 1968,
+            tags: [
+                     "online",
                      "talk"
                   ],
            level: 0,
@@ -7991,6 +9309,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2731,
+      identifier: "GOTO Copenhagen-2019-40",
+         meeting: "GOTO Copenhagen",
+         edition: "2019",
+           title: "Azure Serverless for Developers",
+        speakers: [
+                     "Julie Lerman"
+                  ],
+           video: "https://youtube.com/watch?v=wJ2QKmFQWsI",
+       thumbnail: "http://img.youtube.com/vi/wJ2QKmFQWsI/0.jpg",
+        duration: 3219,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 2177,
       identifier: "Live Embedded Event-2020-8",
          meeting: "Live Embedded Event",
@@ -8003,7 +9340,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/gM7hn6EjPYY/0.jpg",
         duration: 1614,
             tags: [
-                     "c++",
                      "embedded",
                      "online",
                      "talk"
@@ -8515,6 +9851,44 @@ const talks = [
         language: "English"
    },
    {
+          number: 2796,
+      identifier: "GOTOpia-2020-46",
+         meeting: "GOTOpia",
+         edition: "2020",
+           title: "Balancing Choreography and Orchestration",
+        speakers: [
+                     "Bernd Rucker"
+                  ],
+           video: "https://youtube.com/watch?v=zt9DFMkjkEA",
+       thumbnail: "http://img.youtube.com/vi/zt9DFMkjkEA/0.jpg",
+        duration: 1946,
+            tags: [
+                     "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2525,
+      identifier: "GOTO Chicago-2018-26",
+         meeting: "GOTO Chicago",
+         edition: "2018",
+           title: "Bash and All That; Why Ancient *NIX Tools Are Still Essential",
+        speakers: [
+                     "Dean Wampler"
+                  ],
+           video: "https://youtube.com/watch?v=eHYIgid2a_E",
+       thumbnail: "http://img.youtube.com/vi/eHYIgid2a_E/0.jpg",
+        duration: 1385,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1652,
       identifier: "code::dive-2018-59",
          meeting: "code::dive",
@@ -8527,7 +9901,44 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/k07u6CePMUM/0.jpg",
         duration: 3807,
             tags: [
-                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2629,
+      identifier: "GOTO Chicago-2020-30",
+         meeting: "GOTO Chicago",
+         edition: "2020",
+           title: "Batching vs. Streaming - Scale & Process Millions of Measurements a Second",
+        speakers: [
+                     "Adam Butler"
+                  ],
+           video: "https://youtube.com/watch?v=iSVuIPf24bw",
+       thumbnail: "http://img.youtube.com/vi/iSVuIPf24bw/0.jpg",
+        duration: 1190,
+            tags: [
+                     "lightning",
+                     "live"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2478,
+      identifier: "GOTO Berlin-2019-18",
+         meeting: "GOTO Berlin",
+         edition: "2019",
+           title: "Battle of the Circuit Breakers: Resilience4J vs Istio",
+        speakers: [
+                     "Nicolas Frankel"
+                  ],
+           video: "https://youtube.com/watch?v=kR2sm1zelI4",
+       thumbnail: "http://img.youtube.com/vi/kR2sm1zelI4/0.jpg",
+        duration: 2046,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -8588,7 +9999,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/WE9QiZM2mP0/0.jpg",
         duration: 3793,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -8628,7 +10038,25 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/713ay4bZUrw/0.jpg",
         duration: 5239,
             tags: [
-                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2475,
+      identifier: "GOTO Berlin-2019-15",
+         meeting: "GOTO Berlin",
+         edition: "2019",
+           title: "Becoming an Empowered Software Developer",
+        speakers: [
+                     "Johannes Stern"
+                  ],
+           video: "https://youtube.com/watch?v=kUQQNDMCAGY",
+       thumbnail: "http://img.youtube.com/vi/kUQQNDMCAGY/0.jpg",
+        duration: 1750,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -8828,7 +10256,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/B-QGTIEt97w/0.jpg",
         duration: 3965,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -8868,7 +10295,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/0z-cv3gartw/0.jpg",
         duration: 3423,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -8969,7 +10395,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/cK_kftBNgBc/0.jpg",
         duration: 4801,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -9029,7 +10454,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/QIHy8pXbneI/0.jpg",
         duration: 4712,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -9137,6 +10561,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2593,
+      identifier: "GOTO Chicago-2019-52",
+         meeting: "GOTO Chicago",
+         edition: "2019",
+           title: "Better Spotify Playlists through Music Theory & Discrete Optimization",
+        speakers: [
+                     "Cedric Hurst"
+                  ],
+           video: "https://youtube.com/watch?v=Iqya6xqc1jY",
+       thumbnail: "http://img.youtube.com/vi/Iqya6xqc1jY/0.jpg",
+        duration: 3027,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1246,
       identifier: "CppCon-2018-62",
          meeting: "CppCon",
@@ -9197,6 +10640,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2688,
+      identifier: "GOTO Copenhagen-2018-39",
+         meeting: "GOTO Copenhagen",
+         edition: "2018",
+           title: "Beyond AI",
+        speakers: [
+                     "Jacob Sherson"
+                  ],
+           video: "https://youtube.com/watch?v=RJDsP-zzeLs",
+       thumbnail: "http://img.youtube.com/vi/RJDsP-zzeLs/0.jpg",
+        duration: 3051,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 319,
       identifier: "C++Now-2018-10",
          meeting: "C++Now",
@@ -9230,6 +10692,25 @@ const talks = [
         duration: 5523,
             tags: [
                      "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2601,
+      identifier: "GOTO Chicago-2020-2",
+         meeting: "GOTO Chicago",
+         edition: "2020",
+           title: "Beyond Microservices: Streams, State and Scalability",
+        speakers: [
+                     "Gwen Shapira"
+                  ],
+           video: "https://youtube.com/watch?v=H0LUi51aCP8",
+       thumbnail: "http://img.youtube.com/vi/H0LUi51aCP8/0.jpg",
+        duration: 2195,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -9309,7 +10790,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/2BPslU6d_tQ/0.jpg",
         duration: 4529,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -9418,6 +10898,46 @@ const talks = [
         language: "English"
    },
    {
+          number: 2332,
+      identifier: "Going Native-2013-1",
+         meeting: "Going Native",
+         edition: "2013",
+           title: "Bjarne Stroustrup - The Essence of C++: With Examples in C++84, C++98, C++11, and C++14",
+        speakers: [
+                     
+                  ],
+           video: "https://youtube.com/watch?v=IYBLXBJr0HU",
+       thumbnail: "http://img.youtube.com/vi/IYBLXBJr0HU/0.jpg",
+        duration: 5809,
+            tags: [
+                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2280,
+      identifier: "MUC++--24",
+         meeting: "MUC++",
+         edition: "",
+           title: "Black Box Optimization of Compile Times",
+        speakers: [
+                     "Stefan Asbeck"
+                  ],
+           video: "https://youtube.com/watch?v=fvs6UDq0LP0",
+       thumbnail: "http://img.youtube.com/vi/fvs6UDq0LP0/0.jpg",
+        duration: 738,
+            tags: [
+                     "c++",
+                     "lightning",
+                     "live"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1667,
       identifier: "code::dive-2019-14",
          meeting: "code::dive",
@@ -9430,7 +10950,25 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/IaY4jboujw8/0.jpg",
         duration: 2824,
             tags: [
-                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2367,
+      identifier: "GOTO Amsterdam-2018-35",
+         meeting: "GOTO Amsterdam",
+         edition: "2018",
+           title: "Blockchain in Healthcare",
+        speakers: [
+                     "Jeroen van Megchelen"
+                  ],
+           video: "https://youtube.com/watch?v=JR4ydPItcjY",
+       thumbnail: "http://img.youtube.com/vi/JR4ydPItcjY/0.jpg",
+        duration: 2239,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -9450,7 +10988,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/RI7VL-g6J7g/0.jpg",
         duration: 5109,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -9491,6 +11028,25 @@ const talks = [
         duration: 4111,
             tags: [
                      "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2426,
+      identifier: "GOTO Berlin-2018-13",
+         meeting: "GOTO Berlin",
+         edition: "2018",
+           title: "Boost your API Development with GraphQL & Prisma",
+        speakers: [
+                     "Nikolas Burk"
+                  ],
+           video: "https://youtube.com/watch?v=HsTDBkZC1lk",
+       thumbnail: "http://img.youtube.com/vi/HsTDBkZC1lk/0.jpg",
+        duration: 2732,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -9773,7 +11329,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/EjwgO9gmP1g/0.jpg",
         duration: 5254,
             tags: [
-                     "c++",
                      "online",
                      "talk"
                   ],
@@ -9853,7 +11408,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/YLr6_ERNiQY/0.jpg",
         duration: 3147,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -9873,7 +11427,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/JQXkzisVxPE/0.jpg",
         duration: 3582,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -9993,7 +11546,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/5uDLFh49Nnk/0.jpg",
         duration: 3232,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -10041,6 +11593,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2628,
+      identifier: "GOTO Chicago-2020-29",
+         meeting: "GOTO Chicago",
+         edition: "2020",
+           title: "Bootiful GraphQL with Kotlin",
+        speakers: [
+                     "Dariusz Kuc"
+                  ],
+           video: "https://youtube.com/watch?v=1siPT1pTXFU",
+       thumbnail: "http://img.youtube.com/vi/1siPT1pTXFU/0.jpg",
+        duration: 1120,
+            tags: [
+                     "lightning",
+                     "live"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1921,
       identifier: "accu-2019-87",
          meeting: "accu",
@@ -10053,7 +11624,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/VImC13ey1-M/0.jpg",
         duration: 4975,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -10101,6 +11671,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2493,
+      identifier: "GOTO Berlin-2019-33",
+         meeting: "GOTO Berlin",
+         edition: "2019",
+           title: "Breaking Black-box AI",
+        speakers: [
+                     "Evelina Gabasova"
+                  ],
+           video: "https://youtube.com/watch?v=zNAa6V5Az0Q",
+       thumbnail: "http://img.youtube.com/vi/zNAa6V5Az0Q/0.jpg",
+        duration: 2715,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1391,
       identifier: "CppCon-2020-11",
          meeting: "CppCon",
@@ -10121,6 +11710,44 @@ const talks = [
         language: "English"
    },
    {
+          number: 2500,
+      identifier: "GOTO Berlin-2019-40",
+         meeting: "GOTO Berlin",
+         edition: "2019",
+           title: "Breaking Language Barriers with AI",
+        speakers: [
+                     "Boaz Ziniman"
+                  ],
+           video: "https://youtube.com/watch?v=F2XpFSzyBpA",
+       thumbnail: "http://img.youtube.com/vi/F2XpFSzyBpA/0.jpg",
+        duration: 2612,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2357,
+      identifier: "GOTO Amsterdam-2018-25",
+         meeting: "GOTO Amsterdam",
+         edition: "2018",
+           title: "Breaking Things on Purpose",
+        speakers: [
+                     "Kolton Andrus"
+                  ],
+           video: "https://youtube.com/watch?v=S89ox7oQn8s",
+       thumbnail: "http://img.youtube.com/vi/S89ox7oQn8s/0.jpg",
+        duration: 2885,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 967,
       identifier: "CppCon-2015-83",
          meeting: "CppCon",
@@ -10135,6 +11762,25 @@ const talks = [
         duration: 3714,
             tags: [
                      "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2483,
+      identifier: "GOTO Berlin-2019-23",
+         meeting: "GOTO Berlin",
+         edition: "2019",
+           title: "Bringing Automation to Web App Hosting and Deployment",
+        speakers: [
+                     "James Beswick"
+                  ],
+           video: "https://youtube.com/watch?v=NIAx_AzeDdI",
+       thumbnail: "http://img.youtube.com/vi/NIAx_AzeDdI/0.jpg",
+        duration: 2290,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -10242,6 +11888,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2661,
+      identifier: "GOTO Copenhagen-2018-12",
+         meeting: "GOTO Copenhagen",
+         edition: "2018",
+           title: "Bringing Magic To Microservice Architecture Development",
+        speakers: [
+                     "Ellen Korbes"
+                  ],
+           video: "https://youtube.com/watch?v=accEvqeUJWs",
+       thumbnail: "http://img.youtube.com/vi/accEvqeUJWs/0.jpg",
+        duration: 1927,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 725,
       identifier: "Meeting C++-2019-21",
          meeting: "Meeting C++",
@@ -10256,6 +11921,63 @@ const talks = [
             tags: [
                      "c++",
                      "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2442,
+      identifier: "GOTO Berlin-2018-29",
+         meeting: "GOTO Berlin",
+         edition: "2018",
+           title: "Build a Q&A Bot with DeepLearning4J",
+        speakers: [
+                     "Willem Meints"
+                  ],
+           video: "https://youtube.com/watch?v=2bbcaRcSMF0",
+       thumbnail: "http://img.youtube.com/vi/2bbcaRcSMF0/0.jpg",
+        duration: 2686,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2446,
+      identifier: "GOTO Berlin-2018-33",
+         meeting: "GOTO Berlin",
+         edition: "2018",
+           title: "Build Agility with Design Sprints",
+        speakers: [
+                     "Gary Crawford"
+                  ],
+           video: "https://youtube.com/watch?v=23OmHRXAuzU",
+       thumbnail: "http://img.youtube.com/vi/23OmHRXAuzU/0.jpg",
+        duration: 2820,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2807,
+      identifier: "GOTOpia-2020-57",
+         meeting: "GOTOpia",
+         edition: "2020",
+           title: "Build Agility with Design Sprints",
+        speakers: [
+                     "Gary Crawford"
+                  ],
+           video: "https://youtube.com/watch?v=oRjY5_VACts",
+       thumbnail: "http://img.youtube.com/vi/oRjY5_VACts/0.jpg",
+        duration: 2901,
+            tags: [
+                     "online",
                      "talk"
                   ],
            level: 0,
@@ -10314,7 +12036,63 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/Car3fQXm6Rs/0.jpg",
         duration: 3296,
             tags: [
-                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2353,
+      identifier: "GOTO Amsterdam-2018-21",
+         meeting: "GOTO Amsterdam",
+         edition: "2018",
+           title: "Build your own Language: Why & How?",
+        speakers: [
+                     "Markus Volter"
+                  ],
+           video: "https://youtube.com/watch?v=9BvpBLzzprA",
+       thumbnail: "http://img.youtube.com/vi/9BvpBLzzprA/0.jpg",
+        duration: 2925,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2713,
+      identifier: "GOTO Copenhagen-2019-22",
+         meeting: "GOTO Copenhagen",
+         edition: "2019",
+           title: "Building a 'Backend-less' URL Shortener",
+        speakers: [
+                     "Eric Johnson"
+                  ],
+           video: "https://youtube.com/watch?v=6MfEvg0DIUs",
+       thumbnail: "http://img.youtube.com/vi/6MfEvg0DIUs/0.jpg",
+        duration: 3174,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2715,
+      identifier: "GOTO Copenhagen-2019-24",
+         meeting: "GOTO Copenhagen",
+         edition: "2019",
+           title: "Building a Blockchain in Erlang",
+        speakers: [
+                     "Ulf Wiger"
+                  ],
+           video: "https://youtube.com/watch?v=QLwFpT_0c4U",
+       thumbnail: "http://img.youtube.com/vi/QLwFpT_0c4U/0.jpg",
+        duration: 3180,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -10362,6 +12140,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2665,
+      identifier: "GOTO Copenhagen-2018-16",
+         meeting: "GOTO Copenhagen",
+         edition: "2018",
+           title: "Building a Smart Security Camera with Raspberry Pi Zero, Java and AWS",
+        speakers: [
+                     "Mark West"
+                  ],
+           video: "https://youtube.com/watch?v=lIy9qhwFB-s",
+       thumbnail: "http://img.youtube.com/vi/lIy9qhwFB-s/0.jpg",
+        duration: 2646,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1804,
       identifier: "accu-2018-14",
          meeting: "accu",
@@ -10374,7 +12171,44 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/dfMFLO4zz9U/0.jpg",
         duration: 1937,
             tags: [
-                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2806,
+      identifier: "GOTOpia-2020-56",
+         meeting: "GOTOpia",
+         edition: "2020",
+           title: "Building a Telegram Bot with Apache Kafka, Go & ksqlDB",
+        speakers: [
+                     "Robin Moffatt"
+                  ],
+           video: "https://youtube.com/watch?v=45geuWUJEQg",
+       thumbnail: "http://img.youtube.com/vi/45geuWUJEQg/0.jpg",
+        duration: 2266,
+            tags: [
+                     "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2646,
+      identifier: "GOTO Chicago-2020-47",
+         meeting: "GOTO Chicago",
+         edition: "2020",
+           title: "Building an Accessibility Culture",
+        speakers: [
+                     "Ayesha Mazumdar"
+                  ],
+           video: "https://youtube.com/watch?v=Lf3YVI-9lA0",
+       thumbnail: "http://img.youtube.com/vi/Lf3YVI-9lA0/0.jpg",
+        duration: 1279,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -10494,7 +12328,25 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/OYbO8nAQnTs/0.jpg",
         duration: 4019,
             tags: [
-                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2515,
+      identifier: "GOTO Chicago-2018-16",
+         meeting: "GOTO Chicago",
+         edition: "2018",
+           title: "Building Distributed Systems with Kubernetes",
+        speakers: [
+                     "Erik St. Martin"
+                  ],
+           video: "https://youtube.com/watch?v=D0003git96g",
+       thumbnail: "http://img.youtube.com/vi/D0003git96g/0.jpg",
+        duration: 2362,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -10515,6 +12367,25 @@ const talks = [
         duration: 3566,
             tags: [
                      "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2396,
+      identifier: "GOTO Amsterdam-2019-23",
+         meeting: "GOTO Amsterdam",
+         edition: "2019",
+           title: "Building Evolutionary Infrastructure",
+        speakers: [
+                     "Kief Morris"
+                  ],
+           video: "https://youtube.com/watch?v=1f_P8ZH5BC8",
+       thumbnail: "http://img.youtube.com/vi/1f_P8ZH5BC8/0.jpg",
+        duration: 2518,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -10562,6 +12433,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2723,
+      identifier: "GOTO Copenhagen-2019-32",
+         meeting: "GOTO Copenhagen",
+         edition: "2019",
+           title: "Building HTTP API SDKs that Really Are a Kit",
+        speakers: [
+                     "Darrel Miller"
+                  ],
+           video: "https://youtube.com/watch?v=dzaVtAZBnsA",
+       thumbnail: "http://img.youtube.com/vi/dzaVtAZBnsA/0.jpg",
+        duration: 2500,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 2184,
       identifier: "Live Embedded Event-2020-15",
          meeting: "Live Embedded Event",
@@ -10574,9 +12464,27 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/1iK0WmcpNxw/0.jpg",
         duration: 2090,
             tags: [
-                     "c++",
                      "embedded",
                      "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2461,
+      identifier: "GOTO Berlin-2018-48",
+         meeting: "GOTO Berlin",
+         edition: "2018",
+           title: "Building LPWAN Solutions that last for Years",
+        speakers: [
+                     "Johan Stokking"
+                  ],
+           video: "https://youtube.com/watch?v=mEmpbIlo8XQ",
+       thumbnail: "http://img.youtube.com/vi/mEmpbIlo8XQ/0.jpg",
+        duration: 2155,
+            tags: [
+                     "live",
                      "talk"
                   ],
            level: 0,
@@ -10595,7 +12503,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/ddXi_10JmPU/0.jpg",
         duration: 4268,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -10615,7 +12522,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/kCyLn2zC-Vs/0.jpg",
         duration: 5127,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -10643,6 +12549,44 @@ const talks = [
         language: "English"
    },
    {
+          number: 2368,
+      identifier: "GOTO Amsterdam-2018-36",
+         meeting: "GOTO Amsterdam",
+         edition: "2018",
+           title: "Building Prediction Pipelines that Rock in the Real World",
+        speakers: [
+                     "Albert Gorski"
+                  ],
+           video: "https://youtube.com/watch?v=BUmCMjVgfQo",
+       thumbnail: "http://img.youtube.com/vi/BUmCMjVgfQo/0.jpg",
+        duration: 2780,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2465,
+      identifier: "GOTO Berlin-2019-5",
+         meeting: "GOTO Berlin",
+         edition: "2019",
+           title: "Building Resilient Frontend Architecture",
+        speakers: [
+                     "Monica Lent"
+                  ],
+           video: "https://youtube.com/watch?v=TqfbAXCCVwE",
+       thumbnail: "http://img.youtube.com/vi/TqfbAXCCVwE/0.jpg",
+        duration: 2026,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 2176,
       identifier: "Live Embedded Event-2020-7",
          meeting: "Live Embedded Event",
@@ -10655,9 +12599,27 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/m0dvHwsHfq0/0.jpg",
         duration: 1691,
             tags: [
-                     "c++",
                      "embedded",
                      "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2480,
+      identifier: "GOTO Berlin-2019-20",
+         meeting: "GOTO Berlin",
+         edition: "2019",
+           title: "Building Secure React Applications",
+        speakers: [
+                     "Philippe De Ryck"
+                  ],
+           video: "https://youtube.com/watch?v=O91hJJ5KMLs",
+       thumbnail: "http://img.youtube.com/vi/O91hJJ5KMLs/0.jpg",
+        duration: 2679,
+            tags: [
+                     "live",
                      "talk"
                   ],
            level: 0,
@@ -10704,6 +12666,26 @@ const talks = [
         language: "English"
    },
    {
+          number: 2503,
+      identifier: "GOTO Chicago-2018-4",
+         meeting: "GOTO Chicago",
+         edition: "2018",
+           title: "C++ - the Newest Old Language",
+        speakers: [
+                     "Matt Godbolt"
+                  ],
+           video: "https://youtube.com/watch?v=HAFrggEDr5U",
+       thumbnail: "http://img.youtube.com/vi/HAFrggEDr5U/0.jpg",
+        duration: 2616,
+            tags: [
+                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 2098,
       identifier: "Core C++-2021-11",
          meeting: "Core C++",
@@ -10736,6 +12718,7 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/LXfSXzxDY_M/0.jpg",
         duration: 3995,
             tags: [
+                     "c++",
                      "live",
                      "talk"
                   ],
@@ -10775,6 +12758,7 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/455A97XJLNk/0.jpg",
         duration: 5315,
             tags: [
+                     "c++",
                      "live",
                      "talk"
                   ],
@@ -10814,6 +12798,27 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/8SoJR3sCaR4/0.jpg",
         duration: 3711,
             tags: [
+                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2321,
+      identifier: "Going Native-2012-7",
+         meeting: "Going Native",
+         edition: "2012",
+           title: "C++ at Build 2012, Inside Profile Guided Optimization",
+        speakers: [
+                     
+                  ],
+           video: "https://youtube.com/watch?v=p08mIYQRcSE",
+       thumbnail: "http://img.youtube.com/vi/p08mIYQRcSE/0.jpg",
+        duration: 4029,
+            tags: [
+                     "c++",
                      "live",
                      "talk"
                   ],
@@ -10873,6 +12878,7 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/oJcNHdg_9Yg/0.jpg",
         duration: 3684,
             tags: [
+                     "c++",
                      "live",
                      "talk"
                   ],
@@ -10912,6 +12918,7 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/TSuV63Xdc-0/0.jpg",
         duration: 196,
             tags: [
+                     "c++",
                      "lightning",
                      "online"
                   ],
@@ -10971,6 +12978,7 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/RgTFO1D3bSU/0.jpg",
         duration: 3735,
             tags: [
+                     "c++",
                      "live",
                      "talk"
                   ],
@@ -11070,25 +13078,7 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/OCMPjvHwIYA/0.jpg",
         duration: 2146,
             tags: [
-                     "live",
-                     "talk"
-                  ],
-           level: 0,
-        language: "English"
-   },
-   {
-          number: 1739,
-      identifier: "accu-2016-37",
-         meeting: "accu",
-         edition: "2016",
-           title: "C++ Concepts 'Lite' in Practice",
-        speakers: [
-                     "Roger Orr"
-                  ],
-           video: "https://youtube.com/watch?v=S1Z-RbygAlw",
-       thumbnail: "http://img.youtube.com/vi/S1Z-RbygAlw/0.jpg",
-        duration: 5277,
-            tags: [
+                     "c++",
                      "live",
                      "talk"
                   ],
@@ -11131,6 +13121,26 @@ const talks = [
                      "c++",
                      "lightning",
                      "live"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 1739,
+      identifier: "accu-2016-37",
+         meeting: "accu",
+         edition: "2016",
+           title: "C++ Concepts Lite' in Practice'",
+        speakers: [
+                     "Roger Orr"
+                  ],
+           video: "https://youtube.com/watch?v=S1Z-RbygAlw",
+       thumbnail: "http://img.youtube.com/vi/S1Z-RbygAlw/0.jpg",
+        duration: 5277,
+            tags: [
+                     "c++",
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "English"
@@ -11208,6 +13218,7 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/fQ926v4ZzAM/0.jpg",
         duration: 5327,
             tags: [
+                     "c++",
                      "live",
                      "talk"
                   ],
@@ -11287,6 +13298,7 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/TXUYT1padYk/0.jpg",
         duration: 947,
             tags: [
+                     "c++",
                      "lightning",
                      "live"
                   ],
@@ -11426,6 +13438,7 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/43E5iYzrQn4/0.jpg",
         duration: 4923,
             tags: [
+                     "c++",
                      "live",
                      "talk"
                   ],
@@ -11525,6 +13538,7 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/nfIX8yWlByY/0.jpg",
         duration: 4898,
             tags: [
+                     "c++",
                      "online",
                      "talk"
                   ],
@@ -11705,6 +13719,7 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/G0Z8FUJ4RLc/0.jpg",
         duration: 3639,
             tags: [
+                     "c++",
                      "online",
                      "talk"
                   ],
@@ -11744,6 +13759,7 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/L5C4OmD79ac/0.jpg",
         duration: 309,
             tags: [
+                     "c++",
                      "lightning",
                      "online"
                   ],
@@ -12003,6 +14019,7 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/HmI1XFEu_uY/0.jpg",
         duration: 5419,
             tags: [
+                     "c++",
                      "live",
                      "talk"
                   ],
@@ -12022,6 +14039,7 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/lGZzN7WZ6EA/0.jpg",
         duration: 5408,
             tags: [
+                     "c++",
                      "online",
                      "talk"
                   ],
@@ -12329,6 +14347,26 @@ const talks = [
         language: "English"
    },
    {
+          number: 1408,
+      identifier: "CppCon-2020-28",
+         meeting: "CppCon",
+         edition: "2020",
+           title: "C++ Standards Committee Fireside Chat",
+        speakers: [
+                     
+                  ],
+           video: "https://youtube.com/watch?v=lil4xfpmnF4",
+       thumbnail: "http://img.youtube.com/vi/lil4xfpmnF4/0.jpg",
+        duration: 3749,
+            tags: [
+                     "c++",
+                     "online",
+                     "panel"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 2019,
       identifier: "C++ on sea-2020-18",
          meeting: "C++ on sea",
@@ -12361,6 +14399,7 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/lKG_wu8CQT4/0.jpg",
         duration: 3882,
             tags: [
+                     "c++",
                      "live",
                      "talk"
                   ],
@@ -12400,6 +14439,7 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/9PFMllbyaLM/0.jpg",
         duration: 4363,
             tags: [
+                     "c++",
                      "live",
                      "talk"
                   ],
@@ -12479,6 +14519,7 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/ZDZHSGFMdw0/0.jpg",
         duration: 3737,
             tags: [
+                     "c++",
                      "live",
                      "talk"
                   ],
@@ -12558,6 +14599,7 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/PDSvjwJ2M80/0.jpg",
         duration: 3506,
             tags: [
+                     "c++",
                      "live",
                      "talk"
                   ],
@@ -12676,6 +14718,26 @@ const talks = [
            video: "https://youtube.com/watch?v=paK38WAq8WY",
        thumbnail: "http://img.youtube.com/vi/paK38WAq8WY/0.jpg",
         duration: 3495,
+            tags: [
+                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2329,
+      identifier: "Going Native-2012-15",
+         meeting: "Going Native",
+         edition: "2012",
+           title: "C++11 style",
+        speakers: [
+                     
+                  ],
+           video: "https://youtube.com/watch?v=m0H5bUPfwn8",
+       thumbnail: "http://img.youtube.com/vi/m0H5bUPfwn8/0.jpg",
+        duration: 5388,
             tags: [
                      "c++",
                      "live",
@@ -12878,6 +14940,7 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/e2ZQyYr0Oi0/0.jpg",
         duration: 1226,
             tags: [
+                     "c++",
                      "live",
                      "talk"
                   ],
@@ -12917,6 +14980,7 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/YKHa3EJGhJM/0.jpg",
         duration: 3509,
             tags: [
+                     "c++",
                      "live",
                      "talk"
                   ],
@@ -12936,6 +15000,7 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/mAZyaAo3M70/0.jpg",
         duration: 4858,
             tags: [
+                     "c++",
                      "online",
                      "talk"
                   ],
@@ -13095,6 +15160,7 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/we0HUrXMC5s/0.jpg",
         duration: 4266,
             tags: [
+                     "c++",
                      "live",
                      "talk"
                   ],
@@ -13154,6 +15220,7 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/FeUOKwLLQe0/0.jpg",
         duration: 2993,
             tags: [
+                     "c++",
                      "live",
                      "talk"
                   ],
@@ -13173,6 +15240,7 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/ahorllPz5rE/0.jpg",
         duration: 3164,
             tags: [
+                     "c++",
                      "live",
                      "talk"
                   ],
@@ -13192,6 +15260,7 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/vDA925C55F0/0.jpg",
         duration: 3472,
             tags: [
+                     "c++",
                      "live",
                      "talk"
                   ],
@@ -13211,6 +15280,7 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/vNL9UFnyQJU/0.jpg",
         duration: 3031,
             tags: [
+                     "c++",
                      "live",
                      "talk"
                   ],
@@ -13590,6 +15660,7 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/DZVIRmttzW0/0.jpg",
         duration: 3895,
             tags: [
+                     "c++",
                      "live",
                      "talk"
                   ],
@@ -13718,6 +15789,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2530,
+      identifier: "GOTO Chicago-2018-31",
+         meeting: "GOTO Chicago",
+         edition: "2018",
+           title: "Calendars for Humans - How to Undo the All-day Cram",
+        speakers: [
+                     "Dominica DeGrandis"
+                  ],
+           video: "https://youtube.com/watch?v=ljIDSQZXFxM",
+       thumbnail: "http://img.youtube.com/vi/ljIDSQZXFxM/0.jpg",
+        duration: 2739,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 280,
       identifier: "C++Now-2017-21",
          meeting: "C++Now",
@@ -13798,6 +15888,26 @@ const talks = [
         language: "English"
    },
    {
+          number: 2258,
+      identifier: "MUC++--2",
+         meeting: "MUC++",
+         edition: "",
+           title: "Calling Functions: A Tutorial",
+        speakers: [
+                     "Klaus Iglberger"
+                  ],
+           video: "https://youtube.com/watch?v=B9RT5sVunmk",
+       thumbnail: "http://img.youtube.com/vi/B9RT5sVunmk/0.jpg",
+        duration: 5026,
+            tags: [
+                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 707,
       identifier: "Meeting C++-2019-2",
          meeting: "Meeting C++",
@@ -13830,9 +15940,27 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/dQswjKAZBWM/0.jpg",
         duration: 1104,
             tags: [
-                     "c++",
                      "lightning",
                      "live"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2403,
+      identifier: "GOTO Amsterdam-2019-30",
+         meeting: "GOTO Amsterdam",
+         edition: "2019",
+           title: "Can Quantum Computing Help to Unlock the Secrets of the Universe?",
+        speakers: [
+                     "Heather Gray"
+                  ],
+           video: "https://youtube.com/watch?v=OEtB7yavVS4",
+       thumbnail: "http://img.youtube.com/vi/OEtB7yavVS4/0.jpg",
+        duration: 2159,
+            tags: [
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "English"
@@ -13878,6 +16006,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2782,
+      identifier: "GOTOpia-2020-29",
+         meeting: "GOTOpia",
+         edition: "2020",
+           title: "Can You Prevent Container Drift? (Q6)",
+        speakers: [
+                     "Liz Rice"
+                  ],
+           video: "https://youtube.com/watch?v=aZHS3Mnk6s4",
+       thumbnail: "http://img.youtube.com/vi/aZHS3Mnk6s4/0.jpg",
+        duration: 596,
+            tags: [
+                     "lightning",
+                     "online"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1103,
       identifier: "CppCon-2017-19",
          meeting: "CppCon",
@@ -13918,6 +16065,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2436,
+      identifier: "GOTO Berlin-2018-23",
+         meeting: "GOTO Berlin",
+         edition: "2018",
+           title: "CERN, from an IT Perspective",
+        speakers: [
+                     "Jan Janke"
+                  ],
+           video: "https://youtube.com/watch?v=Rp4_anPWkSg",
+       thumbnail: "http://img.youtube.com/vi/Rp4_anPWkSg/0.jpg",
+        duration: 2478,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1550,
       identifier: "code::dive-2016-38",
          meeting: "code::dive",
@@ -13930,7 +16096,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/430o2HMODj4/0.jpg",
         duration: 5164,
             tags: [
-                     "c++",
                      "live",
                      "panel"
                   ],
@@ -13950,7 +16115,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/h5Q3yMIK5XQ/0.jpg",
         duration: 3696,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -13970,7 +16134,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/p2vgGUXXQBA/0.jpg",
         duration: 3547,
             tags: [
-                     "c++",
                      "embedded",
                      "online",
                      "talk"
@@ -14034,6 +16197,45 @@ const talks = [
                      "c++",
                      "lightning",
                      "online"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2571,
+      identifier: "GOTO Chicago-2019-30",
+         meeting: "GOTO Chicago",
+         edition: "2019",
+           title: "CI/CD is just the Beginning: Optimize Value Creation with Flow Framework",
+        speakers: [
+                     "Nicole Bryan"
+                  ],
+           video: "https://youtube.com/watch?v=52248wDuOKM",
+       thumbnail: "http://img.youtube.com/vi/52248wDuOKM/0.jpg",
+        duration: 1973,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2324,
+      identifier: "Going Native-2012-10",
+         meeting: "Going Native",
+         edition: "2012",
+           title: "Clang",
+        speakers: [
+                     
+                  ],
+           video: "https://youtube.com/watch?v=NURiiQatBXA",
+       thumbnail: "http://img.youtube.com/vi/NURiiQatBXA/0.jpg",
+        duration: 3653,
+            tags: [
+                     "c++",
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "English"
@@ -14112,7 +16314,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/-QsiqIU8z7E/0.jpg",
         duration: 3992,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -14200,6 +16401,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2695,
+      identifier: "GOTO Copenhagen-2019-4",
+         meeting: "GOTO Copenhagen",
+         edition: "2019",
+           title: "Clean Architecture with ASP.NET Core 3.0",
+        speakers: [
+                     "Jason Taylor"
+                  ],
+           video: "https://youtube.com/watch?v=dK4Yb6-LxAk",
+       thumbnail: "http://img.youtube.com/vi/dK4Yb6-LxAk/0.jpg",
+        duration: 3047,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1604,
       identifier: "code::dive-2018-11",
          meeting: "code::dive",
@@ -14212,7 +16432,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/kX-cYkto_Pk/0.jpg",
         duration: 3346,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -14232,7 +16451,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/brfqm9k6qzc/0.jpg",
         duration: 3562,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -14272,7 +16490,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/ibEm1wBre4I/0.jpg",
         duration: 5443,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -14353,8 +16570,26 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/OevjKb68Qb0/0.jpg",
         duration: 2720,
             tags: [
-                     "c++",
                      "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2541,
+      identifier: "GOTO Chicago-2018-42",
+         meeting: "GOTO Chicago",
+         edition: "2018",
+           title: "Cloud Foundry Container Runtime: BOSH-Powered Kubernetes",
+        speakers: [
+                     "Cameron Stewart"
+                  ],
+           video: "https://youtube.com/watch?v=VorTWBvtMYU",
+       thumbnail: "http://img.youtube.com/vi/VorTWBvtMYU/0.jpg",
+        duration: 1874,
+            tags: [
+                     "live",
                      "talk"
                   ],
            level: 0,
@@ -14375,6 +16610,101 @@ const talks = [
         duration: 2951,
             tags: [
                      "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2768,
+      identifier: "GOTOpia-2020-15",
+         meeting: "GOTOpia",
+         edition: "2020",
+           title: "Cloud Native Communication Patterns with gRPC",
+        speakers: [
+                     "Kasun Indrasiri"
+                  ],
+           video: "https://youtube.com/watch?v=_RiZkNR__60",
+       thumbnail: "http://img.youtube.com/vi/_RiZkNR__60/0.jpg",
+        duration: 1839,
+            tags: [
+                     "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2823,
+      identifier: "GOTOpia-2021-12",
+         meeting: "GOTOpia",
+         edition: "2021",
+           title: "Cloud Native Development Without the Toil",
+        speakers: [
+                     "Daniel Bryant"
+                  ],
+           video: "https://youtube.com/watch?v=D_HG4UtCAmw",
+       thumbnail: "http://img.youtube.com/vi/D_HG4UtCAmw/0.jpg",
+        duration: 2090,
+            tags: [
+                     "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2680,
+      identifier: "GOTO Copenhagen-2018-31",
+         meeting: "GOTO Copenhagen",
+         edition: "2018",
+           title: "Cloud Native is about Culture, not Containers",
+        speakers: [
+                     "Holly Cummins"
+                  ],
+           video: "https://youtube.com/watch?v=hczM0n_0toY",
+       thumbnail: "http://img.youtube.com/vi/hczM0n_0toY/0.jpg",
+        duration: 3068,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2523,
+      identifier: "GOTO Chicago-2018-24",
+         meeting: "GOTO Chicago",
+         edition: "2018",
+           title: "Cloud Native Java",
+        speakers: [
+                     "Kenny Bastani"
+                  ],
+           video: "https://youtube.com/watch?v=E3tTJXpCRWY",
+       thumbnail: "http://img.youtube.com/vi/E3tTJXpCRWY/0.jpg",
+        duration: 2872,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2516,
+      identifier: "GOTO Chicago-2018-17",
+         meeting: "GOTO Chicago",
+         edition: "2018",
+           title: "Cluster Consensus: when Aeron met Raft",
+        speakers: [
+                     "Martin Thompson"
+                  ],
+           video: "https://youtube.com/watch?v=GFfLCGW_5-w",
+       thumbnail: "http://img.youtube.com/vi/GFfLCGW_5-w/0.jpg",
+        duration: 2639,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -14462,6 +16792,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2565,
+      identifier: "GOTO Chicago-2019-24",
+         meeting: "GOTO Chicago",
+         edition: "2019",
+           title: "Code + AI: Will Robots Take Our Coding Jobs? ML Applied to Programming",
+        speakers: [
+                     "Stephen Magill"
+                  ],
+           video: "https://youtube.com/watch?v=W5wD5mIeKws",
+       thumbnail: "http://img.youtube.com/vi/W5wD5mIeKws/0.jpg",
+        duration: 2768,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 416,
       identifier: "C++Now-2021-7",
          meeting: "C++Now",
@@ -14494,7 +16843,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/izclS7-6Ph4/0.jpg",
         duration: 3824,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -14642,6 +16990,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2834,
+      identifier: "GOTOpia-2021-23",
+         meeting: "GOTOpia",
+         edition: "2021",
+           title: "Combining Chaos, Observability & Resilience to get Chaos Engineering",
+        speakers: [
+                     "Yury Nino"
+                  ],
+           video: "https://youtube.com/watch?v=WU0hu6KSFGU",
+       thumbnail: "http://img.youtube.com/vi/WU0hu6KSFGU/0.jpg",
+        duration: 1493,
+            tags: [
+                     "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 2027,
       identifier: "C++ on sea-2020-29",
          meeting: "C++ on sea",
@@ -14694,7 +17061,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/Arlu9PnK7Zw/0.jpg",
         duration: 3608,
             tags: [
-                     "c++",
                      "keynote",
                      "live"
                   ],
@@ -14742,6 +17108,44 @@ const talks = [
         language: "English"
    },
    {
+          number: 2384,
+      identifier: "GOTO Amsterdam-2019-11",
+         meeting: "GOTO Amsterdam",
+         edition: "2019",
+           title: "Common API Security Pitfalls",
+        speakers: [
+                     "Philippe De Ryck"
+                  ],
+           video: "https://youtube.com/watch?v=Ss1tZjooo9I",
+       thumbnail: "http://img.youtube.com/vi/Ss1tZjooo9I/0.jpg",
+        duration: 2376,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2805,
+      identifier: "GOTOpia-2020-55",
+         meeting: "GOTOpia",
+         edition: "2020",
+           title: "Common Retrospectives Traps & Solutions",
+        speakers: [
+                     "Aino Vonge Corry"
+                  ],
+           video: "https://youtube.com/watch?v=j3Diza_x9gI",
+       thumbnail: "http://img.youtube.com/vi/j3Diza_x9gI/0.jpg",
+        duration: 2001,
+            tags: [
+                     "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1809,
       identifier: "accu-2018-19",
          meeting: "accu",
@@ -14754,7 +17158,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/Z6mRVgpgNyk/0.jpg",
         duration: 5420,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -15123,6 +17526,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2736,
+      identifier: "GOTO Copenhagen-2019-45",
+         meeting: "GOTO Copenhagen",
+         edition: "2019",
+           title: "Composing Bach Chorales Using Deep Learning",
+        speakers: [
+                     "Feynman Liang"
+                  ],
+           video: "https://youtube.com/watch?v=mWZ4Oofgo1c",
+       thumbnail: "http://img.youtube.com/vi/mWZ4Oofgo1c/0.jpg",
+        duration: 1743,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 275,
       identifier: "C++Now-2017-16",
          meeting: "C++Now",
@@ -15176,6 +17598,44 @@ const talks = [
         duration: 3329,
             tags: [
                      "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2506,
+      identifier: "GOTO Chicago-2018-7",
+         meeting: "GOTO Chicago",
+         edition: "2018",
+           title: "Computer Science - A Guide for the Perplexed",
+        speakers: [
+                     "Joe Armstrong"
+                  ],
+           video: "https://youtube.com/watch?v=rmueBVrLKcY",
+       thumbnail: "http://img.youtube.com/vi/rmueBVrLKcY/0.jpg",
+        duration: 3748,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2449,
+      identifier: "GOTO Berlin-2018-36",
+         meeting: "GOTO Berlin",
+         edition: "2018",
+           title: "Computers are Stupid: Protecting 'AI' from Itself",
+        speakers: [
+                     "Katharine Jarmul"
+                  ],
+           video: "https://youtube.com/watch?v=NjBufTw30aQ",
+       thumbnail: "http://img.youtube.com/vi/NjBufTw30aQ/0.jpg",
+        duration: 2629,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -15256,7 +17716,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/RI-dHvAcLEU/0.jpg",
         duration: 3458,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -15517,7 +17976,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/rczdegiJHCI/0.jpg",
         duration: 2749,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -15537,7 +17995,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/SiUBdUE7xnA/0.jpg",
         duration: 4216,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -15597,7 +18054,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/UhrIKqDADX8/0.jpg",
         duration: 5540,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -15617,8 +18073,26 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/7_x3LJlnmCs/0.jpg",
         duration: 3215,
             tags: [
-                     "c++",
                      "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2336,
+      identifier: "GOTO Amsterdam-2018-4",
+         meeting: "GOTO Amsterdam",
+         edition: "2018",
+           title: "Confusion in the Land of the Serverless",
+        speakers: [
+                     "Sam Newman"
+                  ],
+           video: "https://youtube.com/watch?v=Y6B3Eqlj9Fw",
+       thumbnail: "http://img.youtube.com/vi/Y6B3Eqlj9Fw/0.jpg",
+        duration: 3276,
+            tags: [
+                     "live",
                      "talk"
                   ],
            level: 0,
@@ -15637,7 +18111,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/OK9gOB3OYBk/0.jpg",
         duration: 2278,
             tags: [
-                     "c++",
                      "embedded",
                      "online",
                      "talk"
@@ -15778,7 +18251,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/T37ElKPICvo/0.jpg",
         duration: 4970,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -15900,7 +18372,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/xYBffw1rvck/0.jpg",
         duration: 4008,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -15928,6 +18399,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2334,
+      identifier: "GOTO Amsterdam-2018-2",
+         meeting: "GOTO Amsterdam",
+         edition: "2018",
+           title: "Containers From Scratch",
+        speakers: [
+                     "Liz Rice"
+                  ],
+           video: "https://youtube.com/watch?v=8fi7uSYlOdc",
+       thumbnail: "http://img.youtube.com/vi/8fi7uSYlOdc/0.jpg",
+        duration: 2573,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 125,
       identifier: "C++Now-2013-41",
          meeting: "C++Now",
@@ -15941,6 +18431,25 @@ const talks = [
         duration: 5244,
             tags: [
                      "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2669,
+      identifier: "GOTO Copenhagen-2018-20",
+         meeting: "GOTO Copenhagen",
+         edition: "2018",
+           title: "Content Security Policies: Let's Break Stuff",
+        speakers: [
+                     "Matt Brunt"
+                  ],
+           video: "https://youtube.com/watch?v=mr230uotw-Y",
+       thumbnail: "http://img.youtube.com/vi/mr230uotw-Y/0.jpg",
+        duration: 2318,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -16110,6 +18619,26 @@ const talks = [
         language: "English"
    },
    {
+          number: 2306,
+      identifier: "MUC++--50",
+         meeting: "MUC++",
+         edition: "",
+           title: "Controlling Overload Resolution with SFINAE",
+        speakers: [
+                     "Matthaus Brandl"
+                  ],
+           video: "https://youtube.com/watch?v=-XY0FaZmH8c",
+       thumbnail: "http://img.youtube.com/vi/-XY0FaZmH8c/0.jpg",
+        duration: 224,
+            tags: [
+                     "c++",
+                     "lightning",
+                     "live"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 805,
       identifier: "CppCon-2014-21",
          meeting: "CppCon",
@@ -16125,6 +18654,44 @@ const talks = [
                      "c++",
                      "lightning",
                      "live"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2408,
+      identifier: "GOTO Amsterdam-2019-35",
+         meeting: "GOTO Amsterdam",
+         edition: "2019",
+           title: "Conversation AI, the new User Experience",
+        speakers: [
+                     "Priyanka Vergadia"
+                  ],
+           video: "https://youtube.com/watch?v=bQpJ6h3RRCc",
+       thumbnail: "http://img.youtube.com/vi/bQpJ6h3RRCc/0.jpg",
+        duration: 2832,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2722,
+      identifier: "GOTO Copenhagen-2019-31",
+         meeting: "GOTO Copenhagen",
+         edition: "2019",
+           title: "Conversational AI Demystified",
+        speakers: [
+                     "Priyanka Vergadia"
+                  ],
+           video: "https://youtube.com/watch?v=C0TcltuamgY",
+       thumbnail: "http://img.youtube.com/vi/C0TcltuamgY/0.jpg",
+        duration: 2891,
+            tags: [
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "English"
@@ -16224,7 +18791,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/IigBP0FCM3Y/0.jpg",
         duration: 4309,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -16392,6 +18958,44 @@ const talks = [
         language: "English"
    },
    {
+          number: 2648,
+      identifier: "GOTO Chicago-2020-49",
+         meeting: "GOTO Chicago",
+         edition: "2020",
+           title: "COVID-19: Data Science & Expertise",
+        speakers: [
+                     "Rajiv Shah"
+                  ],
+           video: "https://youtube.com/watch?v=YVv01-f8TZE",
+       thumbnail: "http://img.youtube.com/vi/YVv01-f8TZE/0.jpg",
+        duration: 1339,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2456,
+      identifier: "GOTO Berlin-2018-43",
+         meeting: "GOTO Berlin",
+         edition: "2018",
+           title: "Coworking Spaces - a Journey through the Concepts",
+        speakers: [
+                     "Dina Sierralta"
+                  ],
+           video: "https://youtube.com/watch?v=GAAFKKwGyYw",
+       thumbnail: "http://img.youtube.com/vi/GAAFKKwGyYw/0.jpg",
+        duration: 1876,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 153,
       identifier: "C++Now-2014-23",
          meeting: "C++Now",
@@ -16444,7 +19048,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/WDIkqP4JbkE/0.jpg",
         duration: 4617,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -16484,7 +19087,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/U3biGqMYRVU/0.jpg",
         duration: 4866,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -16504,7 +19106,26 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/NQdRqc4pVQc/0.jpg",
         duration: 3808,
             tags: [
-                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2392,
+      identifier: "GOTO Amsterdam-2019-19",
+         meeting: "GOTO Amsterdam",
+         edition: "2019",
+           title: "CQRS & Event Sourcing Apps with Axon & Pivotal Cloud Foundry",
+        speakers: [
+                     "B. Wilcock",
+                     "S. v. Beelen"
+                  ],
+           video: "https://youtube.com/watch?v=moRDmcl5_WY",
+       thumbnail: "http://img.youtube.com/vi/moRDmcl5_WY/0.jpg",
+        duration: 2389,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -16526,6 +19147,25 @@ const talks = [
             tags: [
                      "c++",
                      "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2765,
+      identifier: "GOTOpia-2020-12",
+         meeting: "GOTOpia",
+         edition: "2020",
+           title: "Crafting the Core - Why and How We Built the Core Banking System",
+        speakers: [
+                     "Armin Pasalic"
+                  ],
+           video: "https://youtube.com/watch?v=UPXti9PICbw",
+       thumbnail: "http://img.youtube.com/vi/UPXti9PICbw/0.jpg",
+        duration: 2041,
+            tags: [
+                     "online",
                      "talk"
                   ],
            level: 0,
@@ -16584,7 +19224,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/914131UWAas/0.jpg",
         duration: 5078,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -16624,7 +19263,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/BxH07qGv1gE/0.jpg",
         duration: 1638,
             tags: [
-                     "c++",
                      "embedded",
                      "online",
                      "talk"
@@ -16645,7 +19283,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/JA4QOXl_-zM/0.jpg",
         duration: 1908,
             tags: [
-                     "c++",
                      "embedded",
                      "online",
                      "talk"
@@ -16686,7 +19323,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/FM1JQkJWAZA/0.jpg",
         duration: 3583,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -16815,6 +19451,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2654,
+      identifier: "GOTO Copenhagen-2018-5",
+         meeting: "GOTO Copenhagen",
+         edition: "2018",
+           title: "Crossing the River by Feeling the Stones",
+        speakers: [
+                     "Simon Wardley"
+                  ],
+           video: "https://youtube.com/watch?v=2IW9L1uNMCs",
+       thumbnail: "http://img.youtube.com/vi/2IW9L1uNMCs/0.jpg",
+        duration: 2640,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1836,
       identifier: "accu-2018-49",
          meeting: "accu",
@@ -16827,7 +19482,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/3wiYUEyXC00/0.jpg",
         duration: 5432,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -16907,7 +19561,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/cR5IGUcyqRA/0.jpg",
         duration: 5398,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -16955,6 +19608,26 @@ const talks = [
         language: "English"
    },
    {
+          number: 2590,
+      identifier: "GOTO Chicago-2019-49",
+         meeting: "GOTO Chicago",
+         edition: "2019",
+           title: "Data Driven Observability & Incident Response",
+        speakers: [
+                     "Matt Stratton",
+                     "PJ Hagerty"
+                  ],
+           video: "https://youtube.com/watch?v=lqbWDobkNec",
+       thumbnail: "http://img.youtube.com/vi/lqbWDobkNec/0.jpg",
+        duration: 2910,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 664,
       identifier: "Meeting C++-2018-6",
          meeting: "Meeting C++",
@@ -16968,6 +19641,25 @@ const talks = [
         duration: 3814,
             tags: [
                      "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2643,
+      identifier: "GOTO Chicago-2020-44",
+         meeting: "GOTO Chicago",
+         edition: "2020",
+           title: "Data Science for Everyone with ISLE",
+        speakers: [
+                     "Rebecca Nugent"
+                  ],
+           video: "https://youtube.com/watch?v=vJ4lydQhxZc",
+       thumbnail: "http://img.youtube.com/vi/vJ4lydQhxZc/0.jpg",
+        duration: 2291,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -17007,9 +19699,27 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/yCi7q48txh8/0.jpg",
         duration: 1406,
             tags: [
-                     "c++",
                      "embedded",
                      "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2576,
+      identifier: "GOTO Chicago-2019-35",
+         meeting: "GOTO Chicago",
+         edition: "2019",
+           title: "Data-Driven Engineering",
+        speakers: [
+                     "Andy Cirillo"
+                  ],
+           video: "https://youtube.com/watch?v=ObTljG96k_k",
+       thumbnail: "http://img.youtube.com/vi/ObTljG96k_k/0.jpg",
+        duration: 2987,
+            tags: [
+                     "live",
                      "talk"
                   ],
            level: 0,
@@ -17048,7 +19758,25 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/_N5-JjogNXU/0.jpg",
         duration: 3766,
             tags: [
-                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2745,
+      identifier: "GOTO Oslo-2018-6",
+         meeting: "GOTO Oslo",
+         edition: "2018",
+           title: "Databases on Kubernetes: Why You Should Care!",
+        speakers: [
+                     "Denis Rosa"
+                  ],
+           video: "https://youtube.com/watch?v=yoj_vSTPB54",
+       thumbnail: "http://img.youtube.com/vi/yoj_vSTPB54/0.jpg",
+        duration: 2614,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -17489,7 +20217,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/nrVIlhtoE3Y/0.jpg",
         duration: 5647,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -17551,6 +20278,44 @@ const talks = [
             tags: [
                      "c++",
                      "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2358,
+      identifier: "GOTO Amsterdam-2018-26",
+         meeting: "GOTO Amsterdam",
+         edition: "2018",
+           title: "Deep Learning for Developers",
+        speakers: [
+                     "Julien Simon"
+                  ],
+           video: "https://youtube.com/watch?v=dEBH_mjeW4s",
+       thumbnail: "http://img.youtube.com/vi/dEBH_mjeW4s/0.jpg",
+        duration: 3327,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2360,
+      identifier: "GOTO Amsterdam-2018-28",
+         meeting: "GOTO Amsterdam",
+         edition: "2018",
+           title: "Deep Learning in Medicine",
+        speakers: [
+                     "Allen Day"
+                  ],
+           video: "https://youtube.com/watch?v=BN9NUmul0b4",
+       thumbnail: "http://img.youtube.com/vi/BN9NUmul0b4/0.jpg",
+        duration: 3185,
+            tags: [
+                     "live",
                      "talk"
                   ],
            level: 0,
@@ -17657,6 +20422,63 @@ const talks = [
         language: "English"
    },
    {
+          number: 2710,
+      identifier: "GOTO Copenhagen-2019-19",
+         meeting: "GOTO Copenhagen",
+         edition: "2019",
+           title: "Deliver Results, Not Just Releases",
+        speakers: [
+                     "Dave Karow"
+                  ],
+           video: "https://youtube.com/watch?v=nsxVbX-dlCM",
+       thumbnail: "http://img.youtube.com/vi/nsxVbX-dlCM/0.jpg",
+        duration: 1673,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2567,
+      identifier: "GOTO Chicago-2019-26",
+         meeting: "GOTO Chicago",
+         edition: "2019",
+           title: "Deliver Results, Not Just Releases: Control & Observability in CD",
+        speakers: [
+                     "Dave Karow"
+                  ],
+           video: "https://youtube.com/watch?v=s4l0iwa0XHw",
+       thumbnail: "http://img.youtube.com/vi/s4l0iwa0XHw/0.jpg",
+        duration: 3204,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2526,
+      identifier: "GOTO Chicago-2018-27",
+         meeting: "GOTO Chicago",
+         edition: "2018",
+           title: "Delivering AI on Code: Live Demo of source{d}",
+        speakers: [
+                     "Francesc Campoy"
+                  ],
+           video: "https://youtube.com/watch?v=5ZWeUbubdNg",
+       thumbnail: "http://img.youtube.com/vi/5ZWeUbubdNg/0.jpg",
+        duration: 1679,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1849,
       identifier: "accu-2019-1",
          meeting: "accu",
@@ -17669,9 +20491,27 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/tBmF7ofKoYQ/0.jpg",
         duration: 2428,
             tags: [
-                     "c++",
                      "keynote",
                      "live"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2348,
+      identifier: "GOTO Amsterdam-2018-16",
+         meeting: "GOTO Amsterdam",
+         edition: "2018",
+           title: "Democratizing Distr. Systems: Kubernetes, Brigade, Metaparticle & Beyond",
+        speakers: [
+                     "Brendan Burns"
+                  ],
+           video: "https://youtube.com/watch?v=20BIsu1qiS0",
+       thumbnail: "http://img.youtube.com/vi/20BIsu1qiS0/0.jpg",
+        duration: 3702,
+            tags: [
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "English"
@@ -17757,6 +20597,82 @@ const talks = [
         language: "English"
    },
    {
+          number: 2511,
+      identifier: "GOTO Chicago-2018-12",
+         meeting: "GOTO Chicago",
+         edition: "2018",
+           title: "Deprecating Simplicity",
+        speakers: [
+                     "Casey Rosenthal"
+                  ],
+           video: "https://youtube.com/watch?v=DtRy79jIsS8",
+       thumbnail: "http://img.youtube.com/vi/DtRy79jIsS8/0.jpg",
+        duration: 1749,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2824,
+      identifier: "GOTOpia-2021-13",
+         meeting: "GOTOpia",
+         edition: "2021",
+           title: "Deprecating Simplicity - Building a New Test Culture",
+        speakers: [
+                     "Casey Rosenthal"
+                  ],
+           video: "https://youtube.com/watch?v=GeNunR7KB-Y",
+       thumbnail: "http://img.youtube.com/vi/GeNunR7KB-Y/0.jpg",
+        duration: 1326,
+            tags: [
+                     "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2552,
+      identifier: "GOTO Chicago-2019-11",
+         meeting: "GOTO Chicago",
+         edition: "2019",
+           title: "Deprecating Simplicity 3.0",
+        speakers: [
+                     "Casey Rosenthal"
+                  ],
+           video: "https://youtube.com/watch?v=JfT9UxcEcOE",
+       thumbnail: "http://img.youtube.com/vi/JfT9UxcEcOE/0.jpg",
+        duration: 2826,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2548,
+      identifier: "GOTO Chicago-2019-7",
+         meeting: "GOTO Chicago",
+         edition: "2019",
+           title: "Depression and Burnout: the Hardest Refactor I've ever done",
+        speakers: [
+                     "Jerôme Petazzoni"
+                  ],
+           video: "https://youtube.com/watch?v=m20KBFUuw-w",
+       thumbnail: "http://img.youtube.com/vi/m20KBFUuw-w/0.jpg",
+        duration: 2823,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1774,
       identifier: "accu-2017-36",
          meeting: "accu",
@@ -17769,7 +20685,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/eR_RENdIIzw/0.jpg",
         duration: 1091,
             tags: [
-                     "c++",
                      "lightning",
                      "live"
                   ],
@@ -17797,6 +20712,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2639,
+      identifier: "GOTO Chicago-2020-40",
+         meeting: "GOTO Chicago",
+         edition: "2020",
+           title: "Design Compact Deep Learning Models: Small is the New Big",
+        speakers: [
+                     "Davis Sawyer"
+                  ],
+           video: "https://youtube.com/watch?v=9KWT44znRmk",
+       thumbnail: "http://img.youtube.com/vi/9KWT44znRmk/0.jpg",
+        duration: 874,
+            tags: [
+                     "lightning",
+                     "live"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 2174,
       identifier: "Live Embedded Event-2020-5",
          meeting: "Live Embedded Event",
@@ -17809,9 +20743,27 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/hb0XG4DEEcE/0.jpg",
         duration: 1600,
             tags: [
-                     "c++",
                      "embedded",
                      "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2724,
+      identifier: "GOTO Copenhagen-2019-33",
+         meeting: "GOTO Copenhagen",
+         edition: "2019",
+           title: "Design For The Utopia You Want, Not The Dystopia You're In",
+        speakers: [
+                     "Chris Atherton"
+                  ],
+           video: "https://youtube.com/watch?v=pUn8Ox7ai6I",
+       thumbnail: "http://img.youtube.com/vi/pUn8Ox7ai6I/0.jpg",
+        duration: 3305,
+            tags: [
+                     "live",
                      "talk"
                   ],
            level: 0,
@@ -17893,6 +20845,26 @@ const talks = [
                      "c++",
                      "live",
                      "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2296,
+      identifier: "MUC++--40",
+         meeting: "MUC++",
+         edition: "",
+           title: "Design Patterns in C++ Done Right",
+        speakers: [
+                     "Miro Knejp"
+                  ],
+           video: "https://youtube.com/watch?v=jrnQ9FC5kOg",
+       thumbnail: "http://img.youtube.com/vi/jrnQ9FC5kOg/0.jpg",
+        duration: 257,
+            tags: [
+                     "c++",
+                     "lightning",
+                     "live"
                   ],
            level: 0,
         language: "English"
@@ -18038,6 +21010,26 @@ const talks = [
         language: "English"
    },
    {
+          number: 2476,
+      identifier: "GOTO Berlin-2019-16",
+         meeting: "GOTO Berlin",
+         edition: "2019",
+           title: "Designing APIs for 150 Million Orders",
+        speakers: [
+                     "Matt Fewer",
+                     "Michele Angioni"
+                  ],
+           video: "https://youtube.com/watch?v=OB0Pb-nd0g8",
+       thumbnail: "http://img.youtube.com/vi/OB0Pb-nd0g8/0.jpg",
+        duration: 2655,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 2168,
       identifier: "Pacific C++-2018-11",
          meeting: "Pacific C++",
@@ -18098,6 +21090,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2535,
+      identifier: "GOTO Chicago-2018-36",
+         meeting: "GOTO Chicago",
+         edition: "2018",
+           title: "Designing Features for Mature Systems: Lessons Learned from Manta",
+        speakers: [
+                     "Jordan Hendricks"
+                  ],
+           video: "https://youtube.com/watch?v=3Cyd6p-fU_c",
+       thumbnail: "http://img.youtube.com/vi/3Cyd6p-fU_c/0.jpg",
+        duration: 2634,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 2167,
       identifier: "Pacific C++-2018-10",
          meeting: "Pacific C++",
@@ -18150,7 +21161,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/37ZqLfGyhYo/0.jpg",
         duration: 3397,
             tags: [
-                     "c++",
                      "embedded",
                      "online",
                      "talk"
@@ -18239,6 +21249,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2514,
+      identifier: "GOTO Chicago-2018-15",
+         meeting: "GOTO Chicago",
+         edition: "2018",
+           title: "Developing a Chaos Architecture Mindset",
+        speakers: [
+                     "Adrian Cockcroft"
+                  ],
+           video: "https://youtube.com/watch?v=vHl7EZ5o0uY",
+       thumbnail: "http://img.youtube.com/vi/vHl7EZ5o0uY/0.jpg",
+        duration: 2717,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 2227,
       identifier: "Live Embedded Event-2021-23",
          meeting: "Live Embedded Event",
@@ -18251,7 +21280,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/Ur52kNlIm4c/0.jpg",
         duration: 2740,
             tags: [
-                     "c++",
                      "embedded",
                      "online",
                      "talk"
@@ -18372,9 +21400,47 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/kSIc-qwV_ks/0.jpg",
         duration: 1773,
             tags: [
-                     "c++",
                      "embedded",
                      "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2291,
+      identifier: "MUC++--35",
+         meeting: "MUC++",
+         edition: "",
+           title: "Developing PHP Extensions with PHP CPP",
+        speakers: [
+                     "Robert Haas"
+                  ],
+           video: "https://youtube.com/watch?v=_XbQVx5LFIU",
+       thumbnail: "http://img.youtube.com/vi/_XbQVx5LFIU/0.jpg",
+        duration: 332,
+            tags: [
+                     "c++",
+                     "lightning",
+                     "live"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2361,
+      identifier: "GOTO Amsterdam-2018-29",
+         meeting: "GOTO Amsterdam",
+         edition: "2018",
+           title: "Developing Smart Contracts",
+        speakers: [
+                     "Olivier Rikken"
+                  ],
+           video: "https://youtube.com/watch?v=lcHPqJhgoF4",
+       thumbnail: "http://img.youtube.com/vi/lcHPqJhgoF4/0.jpg",
+        duration: 3729,
+            tags: [
+                     "live",
                      "talk"
                   ],
            level: 0,
@@ -18393,7 +21459,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/cawxqIgcXVM/0.jpg",
         duration: 1505,
             tags: [
-                     "c++",
                      "embedded",
                      "online",
                      "talk"
@@ -18414,7 +21479,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/P9tTS46sjYo/0.jpg",
         duration: 2611,
             tags: [
-                     "c++",
                      "embedded",
                      "online",
                      "talk"
@@ -18435,7 +21499,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/qsZFmrBFG08/0.jpg",
         duration: 3694,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -18455,7 +21518,46 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/UWm4xxTd49k/0.jpg",
         duration: 3808,
             tags: [
-                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2586,
+      identifier: "GOTO Chicago-2019-45",
+         meeting: "GOTO Chicago",
+         edition: "2019",
+           title: "DevSecOps, Containers & Shift-Left, are those just Buzzwords?",
+        speakers: [
+                     "J. Alvarez",
+                     "J. Szubryt"
+                  ],
+           video: "https://youtube.com/watch?v=aIWhbS6rv0k",
+       thumbnail: "http://img.youtube.com/vi/aIWhbS6rv0k/0.jpg",
+        duration: 1980,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2486,
+      identifier: "GOTO Berlin-2019-26",
+         meeting: "GOTO Berlin",
+         edition: "2019",
+           title: "DevUX: Improving Developer-Designer Collaboration",
+        speakers: [
+                     "France Wang",
+                     "Yu Ling Cheng"
+                  ],
+           video: "https://youtube.com/watch?v=uWIfnPc1wC0",
+       thumbnail: "http://img.youtube.com/vi/uWIfnPc1wC0/0.jpg",
+        duration: 2609,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -18475,8 +21577,46 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/oyGT4synIWI/0.jpg",
         duration: 3568,
             tags: [
-                     "c++",
                      "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2279,
+      identifier: "MUC++--23",
+         meeting: "MUC++",
+         edition: "",
+           title: "Diagnosing Memory Leaks",
+        speakers: [
+                     "Robert Seilbeck"
+                  ],
+           video: "https://youtube.com/watch?v=jsvW6XacKRg",
+       thumbnail: "http://img.youtube.com/vi/jsvW6XacKRg/0.jpg",
+        duration: 503,
+            tags: [
+                     "c++",
+                     "lightning",
+                     "live"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2791,
+      identifier: "GOTOpia-2020-41",
+         meeting: "GOTOpia",
+         edition: "2020",
+           title: "Did We(b Development) Lose the Right Direction?",
+        speakers: [
+                     "Stefan Judis"
+                  ],
+           video: "https://youtube.com/watch?v=0Vtoblyq8fE",
+       thumbnail: "http://img.youtube.com/vi/0Vtoblyq8fE/0.jpg",
+        duration: 2424,
+            tags: [
+                     "online",
                      "talk"
                   ],
            level: 0,
@@ -18496,6 +21636,25 @@ const talks = [
         duration: 3172,
             tags: [
                      "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2540,
+      identifier: "GOTO Chicago-2018-41",
+         meeting: "GOTO Chicago",
+         edition: "2018",
+           title: "Dino Apps Deserve Love Too!",
+        speakers: [
+                     "Michael Irwin"
+                  ],
+           video: "https://youtube.com/watch?v=9FQ9RnNjhO4",
+       thumbnail: "http://img.youtube.com/vi/9FQ9RnNjhO4/0.jpg",
+        duration: 2589,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -18523,6 +21682,44 @@ const talks = [
         language: "English"
    },
    {
+          number: 2556,
+      identifier: "GOTO Chicago-2019-15",
+         meeting: "GOTO Chicago",
+         edition: "2019",
+           title: "Discovering RESTful Web Microservices: A Traveler's Guide",
+        speakers: [
+                     "Mike Amundsen"
+                  ],
+           video: "https://youtube.com/watch?v=JJAWxtVeElc",
+       thumbnail: "http://img.youtube.com/vi/JJAWxtVeElc/0.jpg",
+        duration: 2723,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2560,
+      identifier: "GOTO Chicago-2019-19",
+         meeting: "GOTO Chicago",
+         edition: "2019",
+           title: "Disrupting QA - Emerging Trends in Code Quality Automation",
+        speakers: [
+                     "Stephen Magill"
+                  ],
+           video: "https://youtube.com/watch?v=c5kuBQcVChY",
+       thumbnail: "http://img.youtube.com/vi/c5kuBQcVChY/0.jpg",
+        duration: 2446,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1582,
       identifier: "code::dive-2017-28",
          meeting: "code::dive",
@@ -18535,7 +21732,25 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/U4e3PzgBBcM/0.jpg",
         duration: 3432,
             tags: [
-                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2509,
+      identifier: "GOTO Chicago-2018-10",
+         meeting: "GOTO Chicago",
+         edition: "2018",
+           title: "Distributed Data Stores on Kubernetes",
+        speakers: [
+                     "Alena Hall"
+                  ],
+           video: "https://youtube.com/watch?v=SoaLsshJA8s",
+       thumbnail: "http://img.youtube.com/vi/SoaLsshJA8s/0.jpg",
+        duration: 2545,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -18555,7 +21770,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/elegewDwm64/0.jpg",
         duration: 5835,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -18595,7 +21809,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/FQ5kQElkar0/0.jpg",
         duration: 2720,
             tags: [
-                     "c++",
                      "keynote",
                      "live"
                   ],
@@ -18635,7 +21848,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/0C0DSbbKkYM/0.jpg",
         duration: 827,
             tags: [
-                     "c++",
                      "lightning",
                      "live"
                   ],
@@ -18655,7 +21867,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/TK10pNb_mzw/0.jpg",
         duration: 2072,
             tags: [
-                     "c++",
                      "embedded",
                      "online",
                      "talk"
@@ -18676,7 +21887,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/TwXJ9-dQDsY/0.jpg",
         duration: 5243,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -18725,6 +21935,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2725,
+      identifier: "GOTO Copenhagen-2019-34",
+         meeting: "GOTO Copenhagen",
+         edition: "2019",
+           title: "Does Agile Make Us Less Secure?",
+        speakers: [
+                     "Michael Brunton-Spall"
+                  ],
+           video: "https://youtube.com/watch?v=6U41SSz15xw",
+       thumbnail: "http://img.youtube.com/vi/6U41SSz15xw/0.jpg",
+        duration: 2797,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 469,
       identifier: "C++Now-2021-60",
          meeting: "C++Now",
@@ -18765,6 +21994,25 @@ const talks = [
         language: "Hebrew"
    },
    {
+          number: 2747,
+      identifier: "GOTO Oslo-2018-8",
+         meeting: "GOTO Oslo",
+         edition: "2018",
+           title: "Don't Get Blamed for Your Choices",
+        speakers: [
+                     "Hannes Lowette"
+                  ],
+           video: "https://youtube.com/watch?v=Mo9hm51NXxw",
+       thumbnail: "http://img.youtube.com/vi/Mo9hm51NXxw/0.jpg",
+        duration: 2000,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1211,
       identifier: "CppCon-2018-27",
          meeting: "CppCon",
@@ -18798,6 +22046,25 @@ const talks = [
         duration: 5281,
             tags: [
                      "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2650,
+      identifier: "GOTO Copenhagen-2018-1",
+         meeting: "GOTO Copenhagen",
+         edition: "2018",
+           title: "Don't Walk Away from Complexity, Run",
+        speakers: [
+                     "Venkat Subramaniam"
+                  ],
+           video: "https://youtube.com/watch?v=4MEKu2TcEHM",
+       thumbnail: "http://img.youtube.com/vi/4MEKu2TcEHM/0.jpg",
+        duration: 3124,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -18906,6 +22173,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2825,
+      identifier: "GOTOpia-2021-14",
+         meeting: "GOTOpia",
+         edition: "2021",
+           title: "Dungeons, Dragons & Developers",
+        speakers: [
+                     "Matt Brunt"
+                  ],
+           video: "https://youtube.com/watch?v=kcSWsvvJ0fQ",
+       thumbnail: "http://img.youtube.com/vi/kcSWsvvJ0fQ/0.jpg",
+        duration: 2214,
+            tags: [
+                     "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 96,
       identifier: "C++Now-2013-12",
          meeting: "C++Now",
@@ -18919,6 +22205,25 @@ const talks = [
         duration: 5425,
             tags: [
                      "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2520,
+      identifier: "GOTO Chicago-2018-21",
+         meeting: "GOTO Chicago",
+         edition: "2018",
+           title: "Dynamic Non-Events",
+        speakers: [
+                     "Adrian Cockcroft"
+                  ],
+           video: "https://youtube.com/watch?v=mFQRn_m2mP4",
+       thumbnail: "http://img.youtube.com/vi/mFQRn_m2mP4/0.jpg",
+        duration: 2882,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -18940,6 +22245,25 @@ const talks = [
             tags: [
                      "c++",
                      "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2568,
+      identifier: "GOTO Chicago-2019-27",
+         meeting: "GOTO Chicago",
+         edition: "2019",
+           title: "Dynamic Reteaming at Fast-Growing Companies",
+        speakers: [
+                     "Heidi Helfand"
+                  ],
+           video: "https://youtube.com/watch?v=pDkM1-QeW4E",
+       thumbnail: "http://img.youtube.com/vi/pDkM1-QeW4E/0.jpg",
+        duration: 3033,
+            tags: [
+                     "live",
                      "talk"
                   ],
            level: 0,
@@ -19040,7 +22364,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/3ql6Yxh4EFQ/0.jpg",
         duration: 3587,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -19060,7 +22383,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/z6s6bacI424/0.jpg",
         duration: 975,
             tags: [
-                     "c++",
                      "lightning",
                      "live"
                   ],
@@ -19100,7 +22422,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/0KuKuW-HzzE/0.jpg",
         duration: 740,
             tags: [
-                     "c++",
                      "lightning",
                      "live"
                   ],
@@ -19221,7 +22542,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/PcgDsYu42eo/0.jpg",
         duration: 2904,
             tags: [
-                     "c++",
                      "online",
                      "talk"
                   ],
@@ -19261,7 +22581,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/nzU_6xqSnYc/0.jpg",
         duration: 3670,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -19361,7 +22680,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/JGYxOieiZnY/0.jpg",
         duration: 1312,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -19401,7 +22719,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/-tkl8UYVFT4/0.jpg",
         duration: 776,
             tags: [
-                     "c++",
                      "lightning",
                      "live"
                   ],
@@ -19441,7 +22758,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/Vrh63V7OoY8/0.jpg",
         duration: 932,
             tags: [
-                     "c++",
                      "lightning",
                      "live"
                   ],
@@ -19489,6 +22805,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2838,
+      identifier: "GOTOpia-2021-27",
+         meeting: "GOTOpia",
+         edition: "2021",
+           title: "Embarking on Your Security Journey",
+        speakers: [
+                     "Seth Vargo"
+                  ],
+           video: "https://youtube.com/watch?v=I97Sb2KYZSY",
+       thumbnail: "http://img.youtube.com/vi/I97Sb2KYZSY/0.jpg",
+        duration: 2062,
+            tags: [
+                     "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 602,
       identifier: "Meeting C++-2017-9",
          meeting: "Meeting C++",
@@ -19521,9 +22856,27 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/sBUNnUXaB38/0.jpg",
         duration: 3517,
             tags: [
-                     "c++",
                      "embedded",
                      "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2491,
+      identifier: "GOTO Berlin-2019-31",
+         meeting: "GOTO Berlin",
+         edition: "2019",
+           title: "Embedded Application Development (for Web Developers)",
+        speakers: [
+                     "Devon Estes"
+                  ],
+           video: "https://youtube.com/watch?v=rZuUGHCeBf8",
+       thumbnail: "http://img.youtube.com/vi/rZuUGHCeBf8/0.jpg",
+        duration: 1803,
+            tags: [
+                     "live",
                      "talk"
                   ],
            level: 0,
@@ -19562,7 +22915,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/9mQWtfvyJAw/0.jpg",
         duration: 3956,
             tags: [
-                     "c++",
                      "embedded",
                      "online",
                      "talk"
@@ -19583,7 +22935,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/YSUz3xQxCvc/0.jpg",
         duration: 1967,
             tags: [
-                     "c++",
                      "embedded",
                      "live",
                      "talk"
@@ -19604,7 +22955,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/tfW_yOv7HAs/0.jpg",
         duration: 3319,
             tags: [
-                     "c++",
                      "online",
                      "talk"
                   ],
@@ -19644,7 +22994,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/ndh_ey89c0E/0.jpg",
         duration: 1541,
             tags: [
-                     "c++",
                      "embedded",
                      "online",
                      "talk"
@@ -19734,6 +23083,45 @@ const talks = [
         language: "English"
    },
    {
+          number: 2585,
+      identifier: "GOTO Chicago-2019-44",
+         meeting: "GOTO Chicago",
+         edition: "2019",
+           title: "Embracing the Future in a Multi-Platform World: A Kotlin Story",
+        speakers: [
+                     "Sean McQuillan"
+                  ],
+           video: "https://youtube.com/watch?v=xilI3dIOJfI",
+       thumbnail: "http://img.youtube.com/vi/xilI3dIOJfI/0.jpg",
+        duration: 2505,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2278,
+      identifier: "MUC++--22",
+         meeting: "MUC++",
+         edition: "",
+           title: "EMF4CPP Generating Ecore Models for C++",
+        speakers: [
+                     "Matthias Dorfel"
+                  ],
+           video: "https://youtube.com/watch?v=tKM8-paCVyw",
+       thumbnail: "http://img.youtube.com/vi/tKM8-paCVyw/0.jpg",
+        duration: 1246,
+            tags: [
+                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1907,
       identifier: "accu-2019-73",
          meeting: "accu",
@@ -19746,9 +23134,28 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/uloVXmSHiSo/0.jpg",
         duration: 4057,
             tags: [
-                     "c++",
                      "keynote",
                      "live"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2260,
+      identifier: "MUC++--4",
+         meeting: "MUC++",
+         edition: "",
+           title: "Empirical Unit Testing",
+        speakers: [
+                     "Dave Steffen"
+                  ],
+           video: "https://youtube.com/watch?v=Ohd2zMgnPlE",
+       thumbnail: "http://img.youtube.com/vi/Ohd2zMgnPlE/0.jpg",
+        duration: 4297,
+            tags: [
+                     "c++",
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "English"
@@ -19814,6 +23221,44 @@ const talks = [
         language: "English"
    },
    {
+          number: 2356,
+      identifier: "GOTO Amsterdam-2018-24",
+         meeting: "GOTO Amsterdam",
+         edition: "2018",
+           title: "Enabling Teams to Embrace Change",
+        speakers: [
+                     "Gitte Klitgaard"
+                  ],
+           video: "https://youtube.com/watch?v=8lIStu6-ip8",
+       thumbnail: "http://img.youtube.com/vi/8lIStu6-ip8/0.jpg",
+        duration: 2989,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2459,
+      identifier: "GOTO Berlin-2018-46",
+         meeting: "GOTO Berlin",
+         edition: "2018",
+           title: "Energy and Education Access for Remote Communities",
+        speakers: [
+                     "Jaideep Bansal"
+                  ],
+           video: "https://youtube.com/watch?v=AwS42muvKQ0",
+       thumbnail: "http://img.youtube.com/vi/AwS42muvKQ0/0.jpg",
+        duration: 2686,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1879,
       identifier: "accu-2019-39",
          meeting: "accu",
@@ -19826,7 +23271,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/bNF9_bJ8m7w/0.jpg",
         duration: 4751,
             tags: [
-                     "c++",
                      "online",
                      "talk"
                   ],
@@ -19986,7 +23430,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/qmIEiUvo6aQ/0.jpg",
         duration: 2095,
             tags: [
-                     "c++",
                      "embedded",
                      "online",
                      "talk"
@@ -20068,6 +23511,101 @@ const talks = [
         duration: 1804,
             tags: [
                      "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2359,
+      identifier: "GOTO Amsterdam-2018-27",
+         meeting: "GOTO Amsterdam",
+         edition: "2018",
+           title: "Ethereum Fundamentals",
+        speakers: [
+                     "Jana Petkanic"
+                  ],
+           video: "https://youtube.com/watch?v=PxDRMpfyr5A",
+       thumbnail: "http://img.youtube.com/vi/PxDRMpfyr5A/0.jpg",
+        duration: 3352,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2404,
+      identifier: "GOTO Amsterdam-2019-31",
+         meeting: "GOTO Amsterdam",
+         edition: "2019",
+           title: "Event Storage in Axon Server - How does it work?",
+        speakers: [
+                     "Allard Buijze"
+                  ],
+           video: "https://youtube.com/watch?v=342tqAORbAM",
+       thumbnail: "http://img.youtube.com/vi/342tqAORbAM/0.jpg",
+        duration: 2434,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2420,
+      identifier: "GOTO Berlin-2018-7",
+         meeting: "GOTO Berlin",
+         edition: "2018",
+           title: "Event-based Architecture and Implementations with Kafka and Atom",
+        speakers: [
+                     "Eberhard Wolff"
+                  ],
+           video: "https://youtube.com/watch?v=Ecg7lvvm8aU",
+       thumbnail: "http://img.youtube.com/vi/Ecg7lvvm8aU/0.jpg",
+        duration: 2748,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2419,
+      identifier: "GOTO Berlin-2018-6",
+         meeting: "GOTO Berlin",
+         edition: "2018",
+           title: "Event-Driven Microservices - not (just) about Events!",
+        speakers: [
+                     "Allard Buijze"
+                  ],
+           video: "https://youtube.com/watch?v=DzGuDNHsOQ0",
+       thumbnail: "http://img.youtube.com/vi/DzGuDNHsOQ0/0.jpg",
+        duration: 2747,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2380,
+      identifier: "GOTO Amsterdam-2019-7",
+         meeting: "GOTO Amsterdam",
+         edition: "2019",
+           title: "Event-Driven Microservices, the Sense, the Non-sense and a Way Forward",
+        speakers: [
+                     "Allard Buijze"
+                  ],
+           video: "https://youtube.com/watch?v=jrbWIS7BH70",
+       thumbnail: "http://img.youtube.com/vi/jrbWIS7BH70/0.jpg",
+        duration: 2225,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -20488,8 +24026,27 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/sEm22-KEsRs/0.jpg",
         duration: 2748,
             tags: [
-                     "c++",
                      "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2457,
+      identifier: "GOTO Berlin-2018-44",
+         meeting: "GOTO Berlin",
+         edition: "2018",
+           title: "Experience Report - Teaching Kids to Code for 10 Years",
+        speakers: [
+                     "Jessica Ellis",
+                     "Lynn Langit"
+                  ],
+           video: "https://youtube.com/watch?v=patyK226zeE",
+       thumbnail: "http://img.youtube.com/vi/patyK226zeE/0.jpg",
+        duration: 2950,
+            tags: [
+                     "live",
                      "talk"
                   ],
            level: 0,
@@ -20516,6 +24073,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2495,
+      identifier: "GOTO Berlin-2019-35",
+         meeting: "GOTO Berlin",
+         edition: "2019",
+           title: "Experiment to Innovate",
+        speakers: [
+                     "Anders Toxboe"
+                  ],
+           video: "https://youtube.com/watch?v=9UCww7mxOio",
+       thumbnail: "http://img.youtube.com/vi/9UCww7mxOio/0.jpg",
+        duration: 2824,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1528,
       identifier: "code::dive-2016-16",
          meeting: "code::dive",
@@ -20530,7 +24106,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/dgT4XPpYfzs/0.jpg",
         duration: 3051,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -20572,6 +24147,25 @@ const talks = [
             tags: [
                      "c++",
                      "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2471,
+      identifier: "GOTO Berlin-2019-11",
+         meeting: "GOTO Berlin",
+         edition: "2019",
+           title: "Explore your Microservices Architecture with Graph Theory & Network Science",
+        speakers: [
+                     "Nicki Watt"
+                  ],
+           video: "https://youtube.com/watch?v=0G5O1ffYIPI",
+       thumbnail: "http://img.youtube.com/vi/0G5O1ffYIPI/0.jpg",
+        duration: 2719,
+            tags: [
+                     "live",
                      "talk"
                   ],
            level: 0,
@@ -20790,7 +24384,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/38tYYrnfNrs/0.jpg",
         duration: 5023,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -20890,8 +24483,26 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/hI8ZVUECb3g/0.jpg",
         duration: 5076,
             tags: [
-                     "c++",
                      "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2771,
+      identifier: "GOTOpia-2020-18",
+         meeting: "GOTOpia",
+         edition: "2020",
+           title: "Facts You May Not Know About Kotlin",
+        speakers: [
+                     "Eugene Petrenko"
+                  ],
+           video: "https://youtube.com/watch?v=XwzStZaDpH0",
+       thumbnail: "http://img.youtube.com/vi/XwzStZaDpH0/0.jpg",
+        duration: 1547,
+            tags: [
+                     "online",
                      "talk"
                   ],
            level: 0,
@@ -20951,6 +24562,25 @@ const talks = [
         duration: 3372,
             tags: [
                      "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2485,
+      identifier: "GOTO Berlin-2019-25",
+         meeting: "GOTO Berlin",
+         edition: "2019",
+           title: "Fast by Default: Near Instant Load Times at Scale with GatsbyJS",
+        speakers: [
+                     "Nicolas Goutay"
+                  ],
+           video: "https://youtube.com/watch?v=p14g-Sep7HY",
+       thumbnail: "http://img.youtube.com/vi/p14g-Sep7HY/0.jpg",
+        duration: 2533,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -21110,7 +24740,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/b7fUzKW54z8/0.jpg",
         duration: 1056,
             tags: [
-                     "c++",
                      "lightning",
                      "live"
                   ],
@@ -21130,7 +24759,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/AxnotgLql0k/0.jpg",
         duration: 3737,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -21150,7 +24778,25 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/qkmOUB222j4/0.jpg",
         duration: 4070,
             tags: [
-                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2589,
+      identifier: "GOTO Chicago-2019-48",
+         meeting: "GOTO Chicago",
+         edition: "2019",
+           title: "Fight, Flight, or Freeze - Releasing Organizational Trauma",
+        speakers: [
+                     "Matt Stratton"
+                  ],
+           video: "https://youtube.com/watch?v=7nAZmMFlC3M",
+       thumbnail: "http://img.youtube.com/vi/7nAZmMFlC3M/0.jpg",
+        duration: 2340,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -21170,7 +24816,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/AgZqYGrAHE8/0.jpg",
         duration: 1263,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -21210,7 +24855,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/kkokHPKlhzQ/0.jpg",
         duration: 4304,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -21258,6 +24902,44 @@ const talks = [
         language: "English"
    },
    {
+          number: 2829,
+      identifier: "GOTOpia-2021-18",
+         meeting: "GOTOpia",
+         edition: "2021",
+           title: "Fireside Chat About OAuth 2.0 @ Aaron Parecki & Eric Johnson @ GOTO 2021",
+        speakers: [
+                     
+                  ],
+           video: "https://youtube.com/watch?v=nbufy9BZIZ8",
+       thumbnail: "http://img.youtube.com/vi/nbufy9BZIZ8/0.jpg",
+        duration: 1750,
+            tags: [
+                     "online",
+                     "panel"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2683,
+      identifier: "GOTO Copenhagen-2018-34",
+         meeting: "GOTO Copenhagen",
+         edition: "2018",
+           title: "Fireside Chat: Brave New World of Software",
+        speakers: [
+                     
+                  ],
+           video: "https://youtube.com/watch?v=Pnn7GaUlydM",
+       thumbnail: "http://img.youtube.com/vi/Pnn7GaUlydM/0.jpg",
+        duration: 3102,
+            tags: [
+                     "live",
+                     "panel"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 2124,
       identifier: "C++ Europe-2019-8",
          meeting: "C++ Europe",
@@ -21273,6 +24955,44 @@ const talks = [
                      "c++",
                      "live",
                      "panel"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2752,
+      identifier: "GOTO Oslo-2018-13",
+         meeting: "GOTO Oslo",
+         edition: "2018",
+           title: "Five Cloud Services Every Developer Should Know",
+        speakers: [
+                     "Tiberiu Covaci"
+                  ],
+           video: "https://youtube.com/watch?v=Dxyc_gYmEN0",
+       thumbnail: "http://img.youtube.com/vi/Dxyc_gYmEN0/0.jpg",
+        duration: 2615,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2787,
+      identifier: "GOTOpia-2020-37",
+         meeting: "GOTOpia",
+         edition: "2020",
+           title: "Five Things Every Developer Should Know about Software Architecture",
+        speakers: [
+                     "Simon Brown"
+                  ],
+           video: "https://youtube.com/watch?v=9Az0q2XHtH8",
+       thumbnail: "http://img.youtube.com/vi/9Az0q2XHtH8/0.jpg",
+        duration: 1784,
+            tags: [
+                     "online",
+                     "talk"
                   ],
            level: 0,
         language: "English"
@@ -21338,6 +25058,26 @@ const talks = [
         language: "English"
    },
    {
+          number: 936,
+      identifier: "CppCon-2015-52",
+         meeting: "CppCon",
+         edition: "2015",
+           title: "for_each_argument explained and expanded",
+        speakers: [
+                     "Vittorio Romeo"
+                  ],
+           video: "https://youtube.com/watch?v=2l83JlqkzBk",
+       thumbnail: "http://img.youtube.com/vi/2l83JlqkzBk/0.jpg",
+        duration: 1912,
+            tags: [
+                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 2074,
       identifier: "Core C++-2019-15",
          meeting: "Core C++",
@@ -21370,7 +25110,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/_frCGEC23zo/0.jpg",
         duration: 3278,
             tags: [
-                     "c++",
                      "online",
                      "talk"
                   ],
@@ -21471,7 +25210,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/IhntSPN1iOY/0.jpg",
         duration: 3968,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -21512,6 +25250,25 @@ const talks = [
         duration: 3780,
             tags: [
                      "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2666,
+      identifier: "GOTO Copenhagen-2018-17",
+         meeting: "GOTO Copenhagen",
+         edition: "2018",
+           title: "Fresh Async With Kotlin",
+        speakers: [
+                     "Roman Elizarov"
+                  ],
+           video: "https://youtube.com/watch?v=hb0hfHVWCS0",
+       thumbnail: "http://img.youtube.com/vi/hb0hfHVWCS0/0.jpg",
+        duration: 2878,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -21579,6 +25336,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2455,
+      identifier: "GOTO Berlin-2018-42",
+         meeting: "GOTO Berlin",
+         edition: "2018",
+           title: "From (Big) Data Mess to Data as an Innovation Enabler",
+        speakers: [
+                     "Olaf Zschiedrich"
+                  ],
+           video: "https://youtube.com/watch?v=d2QlFLsFVUk",
+       thumbnail: "http://img.youtube.com/vi/d2QlFLsFVUk/0.jpg",
+        duration: 2903,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1301,
       identifier: "CppCon-2019-21",
          meeting: "CppCon",
@@ -21611,9 +25387,46 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/KiPWsM_dcrE/0.jpg",
         duration: 2480,
             tags: [
-                     "c++",
                      "embedded",
                      "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2836,
+      identifier: "GOTOpia-2021-25",
+         meeting: "GOTOpia",
+         edition: "2021",
+           title: "From Experimentation to Products: The Production Machine Learning Journey",
+        speakers: [
+                     "Robert Crowe"
+                  ],
+           video: "https://youtube.com/watch?v=nuVyZupbq00",
+       thumbnail: "http://img.youtube.com/vi/nuVyZupbq00/0.jpg",
+        duration: 2300,
+            tags: [
+                     "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2415,
+      identifier: "GOTO Amsterdam-2019-42",
+         meeting: "GOTO Amsterdam",
+         edition: "2019",
+           title: "From Flying Cars to Humans on Mars",
+        speakers: [
+                     "Anita Sengupta"
+                  ],
+           video: "https://youtube.com/watch?v=UzwE-TbcIj4",
+       thumbnail: "http://img.youtube.com/vi/UzwE-TbcIj4/0.jpg",
+        duration: 2090,
+            tags: [
+                     "live",
                      "talk"
                   ],
            level: 0,
@@ -21732,7 +25545,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/5YmwtiQf0fQ/0.jpg",
         duration: 3211,
             tags: [
-                     "c++",
                      "keynote",
                      "live"
                   ],
@@ -21780,6 +25592,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2385,
+      identifier: "GOTO Amsterdam-2019-12",
+         meeting: "GOTO Amsterdam",
+         edition: "2019",
+           title: "From Spring Boot Apps to Functional Kotlin",
+        speakers: [
+                     "Nicolas Frankel"
+                  ],
+           video: "https://youtube.com/watch?v=f6a78mCrSeE",
+       thumbnail: "http://img.youtube.com/vi/f6a78mCrSeE/0.jpg",
+        duration: 2316,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1287,
       identifier: "CppCon-2019-7",
          meeting: "CppCon",
@@ -21800,6 +25631,44 @@ const talks = [
         language: "English"
    },
    {
+          number: 2439,
+      identifier: "GOTO Berlin-2018-26",
+         meeting: "GOTO Berlin",
+         edition: "2018",
+           title: "From the OWASP Top Ten(s) to the OWASP ASVS",
+        speakers: [
+                     "Philippe De Ryck"
+                  ],
+           video: "https://youtube.com/watch?v=Gnxk_uf6qTQ",
+       thumbnail: "http://img.youtube.com/vi/Gnxk_uf6qTQ/0.jpg",
+        duration: 2433,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2406,
+      identifier: "GOTO Amsterdam-2019-33",
+         meeting: "GOTO Amsterdam",
+         edition: "2019",
+           title: "From Tic Tac Toe to AlphaGo: Playing Games with AI",
+        speakers: [
+                     "Roy van Rijn"
+                  ],
+           video: "https://youtube.com/watch?v=_KoxSEvxw2s",
+       thumbnail: "http://img.youtube.com/vi/_KoxSEvxw2s/0.jpg",
+        duration: 2315,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1256,
       identifier: "CppCon-2018-72",
          meeting: "CppCon",
@@ -21813,6 +25682,82 @@ const talks = [
         duration: 3461,
             tags: [
                      "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2460,
+      identifier: "GOTO Berlin-2018-47",
+         meeting: "GOTO Berlin",
+         edition: "2018",
+           title: "Frugal Innovation",
+        speakers: [
+                     "Betty Enyonam Kumahor"
+                  ],
+           video: "https://youtube.com/watch?v=eRGb2w2azIk",
+       thumbnail: "http://img.youtube.com/vi/eRGb2w2azIk/0.jpg",
+        duration: 2326,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2599,
+      identifier: "GOTO Chicago-2019-58",
+         meeting: "GOTO Chicago",
+         edition: "2019",
+           title: "Frugal Innovation",
+        speakers: [
+                     "Betty Enyonam Kumahor"
+                  ],
+           video: "https://youtube.com/watch?v=9m1kKF-s0Og",
+       thumbnail: "http://img.youtube.com/vi/9m1kKF-s0Og/0.jpg",
+        duration: 2155,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2598,
+      identifier: "GOTO Chicago-2019-57",
+         meeting: "GOTO Chicago",
+         edition: "2019",
+           title: "Fueling the Quantum Application Era with the Cloud",
+        speakers: [
+                     "Murray Thom"
+                  ],
+           video: "https://youtube.com/watch?v=nn5xTQVoxbY",
+       thumbnail: "http://img.youtube.com/vi/nn5xTQVoxbY/0.jpg",
+        duration: 2761,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2344,
+      identifier: "GOTO Amsterdam-2018-12",
+         meeting: "GOTO Amsterdam",
+         edition: "2018",
+           title: "Full-stack Reactive Java with Project Reactor & Spring Boot 2",
+        speakers: [
+                     "Mark Heckler"
+                  ],
+           video: "https://youtube.com/watch?v=tSCyTUkVdoA",
+       thumbnail: "http://img.youtube.com/vi/tSCyTUkVdoA/0.jpg",
+        duration: 2898,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -22112,7 +26057,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/3-UgraLNC2g/0.jpg",
         duration: 4432,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -22132,7 +26076,25 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/u3lUh1x72ao/0.jpg",
         duration: 5307,
             tags: [
-                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2416,
+      identifier: "GOTO Berlin-2018-3",
+         meeting: "GOTO Berlin",
+         edition: "2018",
+           title: "Functional Programming in 40 Minutes",
+        speakers: [
+                     "Russ Olsen"
+                  ],
+           video: "https://youtube.com/watch?v=0if71HOyVjY",
+       thumbnail: "http://img.youtube.com/vi/0if71HOyVjY/0.jpg",
+        duration: 2495,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -22240,6 +26202,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2337,
+      identifier: "GOTO Amsterdam-2018-5",
+         meeting: "GOTO Amsterdam",
+         edition: "2018",
+           title: "Functional Programming with Kotlin",
+        speakers: [
+                     "Hadi Hariri"
+                  ],
+           video: "https://youtube.com/watch?v=eNe5Nokrjdg",
+       thumbnail: "http://img.youtube.com/vi/eNe5Nokrjdg/0.jpg",
+        duration: 3091,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1537,
       identifier: "code::dive-2016-25",
          meeting: "code::dive",
@@ -22252,7 +26233,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/l5vPH8euNiA/0.jpg",
         duration: 2765,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -22452,7 +26432,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/q1CkKpuHSTw/0.jpg",
         duration: 3218,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -22474,6 +26453,25 @@ const talks = [
             tags: [
                      "c++",
                      "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2808,
+      identifier: "GOTOpia-2020-58",
+         meeting: "GOTOpia",
+         edition: "2020",
+           title: "Futurology for Developers",
+        speakers: [
+                     "Mark Rendle"
+                  ],
+           video: "https://youtube.com/watch?v=Mm1WExYXhl8",
+       thumbnail: "http://img.youtube.com/vi/Mm1WExYXhl8/0.jpg",
+        duration: 2663,
+            tags: [
+                     "online",
                      "talk"
                   ],
            level: 0,
@@ -22573,6 +26571,25 @@ const talks = [
         duration: 3661,
             tags: [
                      "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2451,
+      identifier: "GOTO Berlin-2018-38",
+         meeting: "GOTO Berlin",
+         edition: "2018",
+           title: "GameDays: Practice Thoughtful Chaos Engineering",
+        speakers: [
+                     "Ho Ming Li"
+                  ],
+           video: "https://youtube.com/watch?v=1M3m4EwtXb4",
+       thumbnail: "http://img.youtube.com/vi/1M3m4EwtXb4/0.jpg",
+        duration: 2680,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -22812,7 +26829,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/FtZEU9zv9eM/0.jpg",
         duration: 4144,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -23000,6 +27016,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2502,
+      identifier: "GOTO Chicago-2018-3",
+         meeting: "GOTO Chicago",
+         edition: "2018",
+           title: "Get Ready to Rock with Sonic Pi - The Live Coding Music Synth for Everyone",
+        speakers: [
+                     "Sam Aaron"
+                  ],
+           video: "https://youtube.com/watch?v=OLLwG_SN8oo",
+       thumbnail: "http://img.youtube.com/vi/OLLwG_SN8oo/0.jpg",
+        duration: 2506,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1371,
       identifier: "CppCon-2019-91",
          meeting: "CppCon",
@@ -23033,7 +27068,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/PwsSJsicjhE/0.jpg",
         duration: 1597,
             tags: [
-                     "c++",
                      "online",
                      "talk"
                   ],
@@ -23061,6 +27095,44 @@ const talks = [
         language: "English"
    },
    {
+          number: 2569,
+      identifier: "GOTO Chicago-2019-28",
+         meeting: "GOTO Chicago",
+         edition: "2019",
+           title: "Getting Started with Quantum Programming",
+        speakers: [
+                     "Guen Prawiroatmodjo"
+                  ],
+           video: "https://youtube.com/watch?v=GN8ZI930HLg",
+       thumbnail: "http://img.youtube.com/vi/GN8ZI930HLg/0.jpg",
+        duration: 2877,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2394,
+      identifier: "GOTO Amsterdam-2019-21",
+         meeting: "GOTO Amsterdam",
+         edition: "2019",
+           title: "Getting to Grips with Kubernetes RBAC",
+        speakers: [
+                     "Liz Rice"
+                  ],
+           video: "https://youtube.com/watch?v=4HMRFcg6nEY",
+       thumbnail: "http://img.youtube.com/vi/4HMRFcg6nEY/0.jpg",
+        duration: 1773,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1629,
       identifier: "code::dive-2018-36",
          meeting: "code::dive",
@@ -23073,9 +27145,27 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/lNDl3fCf7Tk/0.jpg",
         duration: 804,
             tags: [
-                     "c++",
                      "lightning",
                      "live"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2631,
+      identifier: "GOTO Chicago-2020-32",
+         meeting: "GOTO Chicago",
+         edition: "2020",
+           title: "Git from the Ground Up",
+        speakers: [
+                     "Safia Abdalla"
+                  ],
+           video: "https://youtube.com/watch?v=DwIkptdspPc",
+       thumbnail: "http://img.youtube.com/vi/DwIkptdspPc/0.jpg",
+        duration: 1264,
+            tags: [
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "English"
@@ -23133,7 +27223,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/4fcCKwWVqYc/0.jpg",
         duration: 3431,
             tags: [
-                     "c++",
                      "embedded",
                      "online",
                      "talk"
@@ -23154,7 +27243,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/mUfiZ4f9-uw/0.jpg",
         duration: 2952,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -23194,7 +27282,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/sfaPkp-vCJs/0.jpg",
         duration: 3115,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -23214,7 +27301,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/OrctYMf4btA/0.jpg",
         duration: 3006,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -23234,7 +27320,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/OTLjN8NQDyo/0.jpg",
         duration: 2405,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -23262,6 +27347,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2470,
+      identifier: "GOTO Berlin-2019-10",
+         meeting: "GOTO Berlin",
+         edition: "2019",
+           title: "Going Docker, Swarm and Kubernetes Production Like a Pro",
+        speakers: [
+                     "Bret Fisher"
+                  ],
+           video: "https://youtube.com/watch?v=5zY5_iTGIsU",
+       thumbnail: "http://img.youtube.com/vi/5zY5_iTGIsU/0.jpg",
+        duration: 2675,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1864,
       identifier: "accu-2019-20",
          meeting: "accu",
@@ -23274,8 +27378,45 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/j_FAvj5ouIg/0.jpg",
         duration: 2155,
             tags: [
-                     "c++",
                      "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2580,
+      identifier: "GOTO Chicago-2019-39",
+         meeting: "GOTO Chicago",
+         edition: "2019",
+           title: "Going Serverless with VueJS",
+        speakers: [
+                     "Divya Sasidharan"
+                  ],
+           video: "https://youtube.com/watch?v=Mu9zKpGhX1Y",
+       thumbnail: "http://img.youtube.com/vi/Mu9zKpGhX1Y/0.jpg",
+        duration: 1984,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2781,
+      identifier: "GOTOpia-2020-28",
+         meeting: "GOTOpia",
+         edition: "2020",
+           title: "Going Static in a Dynamic World with Hasura and Nuxt.js",
+        speakers: [
+                     "Debbie O'Brien"
+                  ],
+           video: "https://youtube.com/watch?v=1j9DIX32GpY",
+       thumbnail: "http://img.youtube.com/vi/1j9DIX32GpY/0.jpg",
+        duration: 1622,
+            tags: [
+                     "online",
                      "talk"
                   ],
            level: 0,
@@ -23294,7 +27435,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/YlaoxV-Zw_w/0.jpg",
         duration: 3498,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -23317,6 +27457,63 @@ const talks = [
                      "c++",
                      "lightning",
                      "live"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2462,
+      identifier: "GOTO Berlin-2019-2",
+         meeting: "GOTO Berlin",
+         edition: "2019",
+           title: "Good Enough Architecture",
+        speakers: [
+                     "Stefan Tilkov"
+                  ],
+           video: "https://youtube.com/watch?v=PzEox3szeRc",
+       thumbnail: "http://img.youtube.com/vi/PzEox3szeRc/0.jpg",
+        duration: 2501,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2792,
+      identifier: "GOTOpia-2020-42",
+         meeting: "GOTOpia",
+         edition: "2020",
+           title: "Good Enough Architecture Part 1",
+        speakers: [
+                     "Stefan Tilkov"
+                  ],
+           video: "https://youtube.com/watch?v=RtRpL3Ndi0c",
+       thumbnail: "http://img.youtube.com/vi/RtRpL3Ndi0c/0.jpg",
+        duration: 1843,
+            tags: [
+                     "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2795,
+      identifier: "GOTOpia-2020-45",
+         meeting: "GOTOpia",
+         edition: "2020",
+           title: "Good Enough Architecture Part 2",
+        speakers: [
+                     "Stefan Tilkov"
+                  ],
+           video: "https://youtube.com/watch?v=nbqh1EK_FU8",
+       thumbnail: "http://img.youtube.com/vi/nbqh1EK_FU8/0.jpg",
+        duration: 1632,
+            tags: [
+                     "online",
+                     "talk"
                   ],
            level: 0,
         language: "English"
@@ -23362,6 +27559,64 @@ const talks = [
         language: "English"
    },
    {
+          number: 2705,
+      identifier: "GOTO Copenhagen-2019-14",
+         meeting: "GOTO Copenhagen",
+         edition: "2019",
+           title: "Google Sheets for Developers",
+        speakers: [
+                     "Anu Srivastava",
+                     "Franziska Hinkelmann"
+                  ],
+           video: "https://youtube.com/watch?v=77toMO9-kQc",
+       thumbnail: "http://img.youtube.com/vi/77toMO9-kQc/0.jpg",
+        duration: 2140,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2490,
+      identifier: "GOTO Berlin-2019-30",
+         meeting: "GOTO Berlin",
+         edition: "2019",
+           title: "GOTO 2019",
+        speakers: [
+                     "Welcome to a New Age of Refereeing in 7 Minutes"
+                  ],
+           video: "https://youtube.com/watch?v=f4t07QSLRDY",
+       thumbnail: "http://img.youtube.com/vi/f4t07QSLRDY/0.jpg",
+        duration: 400,
+            tags: [
+                     "lightning",
+                     "live"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2658,
+      identifier: "GOTO Copenhagen-2018-9",
+         meeting: "GOTO Copenhagen",
+         edition: "2018",
+           title: "Governing Agile Delivery",
+        speakers: [
+                     "Dan North"
+                  ],
+           video: "https://youtube.com/watch?v=wG-zBVl0A4g",
+       thumbnail: "http://img.youtube.com/vi/wG-zBVl0A4g/0.jpg",
+        duration: 2855,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 2198,
       identifier: "Live Embedded Event-2020-29",
          meeting: "Live Embedded Event",
@@ -23374,7 +27629,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/EV3DafjteBQ/0.jpg",
         duration: 2799,
             tags: [
-                     "c++",
                      "embedded",
                      "online",
                      "talk"
@@ -23403,6 +27657,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2432,
+      identifier: "GOTO Berlin-2018-19",
+         meeting: "GOTO Berlin",
+         edition: "2018",
+           title: "GraalVM: Run Programs Faster Anywhere",
+        speakers: [
+                     "Oleg Selajev"
+                  ],
+           video: "https://youtube.com/watch?v=MN6jNIwl2FQ",
+       thumbnail: "http://img.youtube.com/vi/MN6jNIwl2FQ/0.jpg",
+        duration: 2910,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1591,
       identifier: "code::dive-2017-37",
          meeting: "code::dive",
@@ -23415,8 +27688,83 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/5GIAF-GP7tg/0.jpg",
         duration: 3589,
             tags: [
-                     "c++",
                      "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2770,
+      identifier: "GOTOpia-2020-17",
+         meeting: "GOTOpia",
+         edition: "2020",
+           title: "Gradually Adopt GraphQL Without Writing any Backend Code",
+        speakers: [
+                     "Uri Goldshtein"
+                  ],
+           video: "https://youtube.com/watch?v=DWBL7GLMVsY",
+       thumbnail: "http://img.youtube.com/vi/DWBL7GLMVsY/0.jpg",
+        duration: 1404,
+            tags: [
+                     "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2821,
+      identifier: "GOTOpia-2021-10",
+         meeting: "GOTOpia",
+         edition: "2021",
+           title: "GraphQL Anywhere - Our Journey With GraphQL Mesh & Schema Stitching",
+        speakers: [
+                     "Uri Goldshtein"
+                  ],
+           video: "https://youtube.com/watch?v=2vwlkJnaV0Y",
+       thumbnail: "http://img.youtube.com/vi/2vwlkJnaV0Y/0.jpg",
+        duration: 1276,
+            tags: [
+                     "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2604,
+      identifier: "GOTO Chicago-2020-5",
+         meeting: "GOTO Chicago",
+         edition: "2020",
+           title: "GraphQL, gRPC and REST, Oh My! A Method for Unified API Design",
+        speakers: [
+                     "Mike Amundsen"
+                  ],
+           video: "https://youtube.com/watch?v=7Anvawx9ixY",
+       thumbnail: "http://img.youtube.com/vi/7Anvawx9ixY/0.jpg",
+        duration: 1066,
+            tags: [
+                     "lightning",
+                     "live"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2762,
+      identifier: "GOTOpia-2020-9",
+         meeting: "GOTOpia",
+         edition: "2020",
+           title: "GraphQL, gRPC and REST, Oh My! A Method for Unified API Design",
+        speakers: [
+                     "Mike Amundsen"
+                  ],
+           video: "https://youtube.com/watch?v=oG6-r3UdenE",
+       thumbnail: "http://img.youtube.com/vi/oG6-r3UdenE/0.jpg",
+        duration: 1826,
+            tags: [
+                     "online",
                      "talk"
                   ],
            level: 0,
@@ -23603,6 +27951,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2742,
+      identifier: "GOTO Oslo-2018-3",
+         meeting: "GOTO Oslo",
+         edition: "2018",
+           title: "Habits of Efficient Developers",
+        speakers: [
+                     "Daniel Lebrero Berna"
+                  ],
+           video: "https://youtube.com/watch?v=ZlnSxlF9V_c",
+       thumbnail: "http://img.youtube.com/vi/ZlnSxlF9V_c/0.jpg",
+        duration: 2109,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1842,
       identifier: "accu-2018-58",
          meeting: "accu",
@@ -23615,7 +27982,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/3ftgMBXub5w/0.jpg",
         duration: 4843,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -23635,7 +28001,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/hjUtw73GqI0/0.jpg",
         duration: 1129,
             tags: [
-                     "c++",
                      "lightning",
                      "live"
                   ],
@@ -23715,7 +28080,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/klO97lAgNVY/0.jpg",
         duration: 2391,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -23815,7 +28179,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/g_ae9EmM4j0/0.jpg",
         duration: 3900,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -23835,7 +28198,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/TbhkHrcslrE/0.jpg",
         duration: 3910,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -23877,7 +28239,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/MZo7k_IOCe8/0.jpg",
         duration: 4833,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -23896,6 +28257,25 @@ const talks = [
            video: "https://youtube.com/watch?v=5ipVQb9P4wQ",
        thumbnail: "http://img.youtube.com/vi/5ipVQb9P4wQ/0.jpg",
         duration: 2723,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2322,
+      identifier: "Going Native-2012-8",
+         meeting: "Going Native",
+         edition: "2012",
+           title: "Herb Sutter",
+        speakers: [
+                     
+                  ],
+           video: "https://youtube.com/watch?v=yKYcybUEX3I",
+       thumbnail: "http://img.youtube.com/vi/yKYcybUEX3I/0.jpg",
+        duration: 5573,
             tags: [
                      "c++",
                      "live",
@@ -23917,7 +28297,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/7hkqG8i0QaU/0.jpg",
         duration: 3404,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -24001,6 +28380,25 @@ const talks = [
                      "c++",
                      "lightning",
                      "live"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2519,
+      identifier: "GOTO Chicago-2018-20",
+         meeting: "GOTO Chicago",
+         edition: "2018",
+           title: "High Cost Tests and High Value Tests",
+        speakers: [
+                     "Noel Rappin"
+                  ],
+           video: "https://youtube.com/watch?v=e8_YDUn5JZ4",
+       thumbnail: "http://img.youtube.com/vi/e8_YDUn5JZ4/0.jpg",
+        duration: 2534,
+            tags: [
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "English"
@@ -24108,6 +28506,26 @@ const talks = [
         language: "English"
    },
    {
+          number: 2624,
+      identifier: "GOTO Chicago-2020-25",
+         meeting: "GOTO Chicago",
+         edition: "2020",
+           title: "High Velocity Development of Microservices",
+        speakers: [
+                     "Rahul Lahiri",
+                     "Venky Ganti"
+                  ],
+           video: "https://youtube.com/watch?v=F3q1TBjJzgs",
+       thumbnail: "http://img.youtube.com/vi/F3q1TBjJzgs/0.jpg",
+        duration: 1188,
+            tags: [
+                     "lightning",
+                     "live"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1231,
       identifier: "CppCon-2018-47",
          meeting: "CppCon",
@@ -24180,7 +28598,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/WHRao43ab3I/0.jpg",
         duration: 5335,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -24288,6 +28705,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2489,
+      identifier: "GOTO Berlin-2019-29",
+         meeting: "GOTO Berlin",
+         edition: "2019",
+           title: "HORRORLARITY",
+        speakers: [
+                     "Leif Nixon"
+                  ],
+           video: "https://youtube.com/watch?v=1qsuqPW8aIY",
+       thumbnail: "http://img.youtube.com/vi/1qsuqPW8aIY/0.jpg",
+        duration: 1699,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 828,
       identifier: "CppCon-2014-44",
          meeting: "CppCon",
@@ -24360,9 +28796,46 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/Ns1RxCgru8I/0.jpg",
         duration: 1001,
             tags: [
-                     "c++",
                      "lightning",
                      "live"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2684,
+      identifier: "GOTO Copenhagen-2018-35",
+         meeting: "GOTO Copenhagen",
+         edition: "2018",
+           title: "How Beauteous Technology is! O Brave New World",
+        speakers: [
+                     "James Governor"
+                  ],
+           video: "https://youtube.com/watch?v=rHDYo94ho-w",
+       thumbnail: "http://img.youtube.com/vi/rHDYo94ho-w/0.jpg",
+        duration: 2949,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2597,
+      identifier: "GOTO Chicago-2019-56",
+         meeting: "GOTO Chicago",
+         edition: "2019",
+           title: "How Business Is The Key To Making The World A Happier Place",
+        speakers: [
+                     "Evan Sutter"
+                  ],
+           video: "https://youtube.com/watch?v=Z_e5hwZAeIM",
+       thumbnail: "http://img.youtube.com/vi/Z_e5hwZAeIM/0.jpg",
+        duration: 2229,
+            tags: [
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "English"
@@ -24488,6 +28961,26 @@ const talks = [
         language: "English"
    },
    {
+          number: 2295,
+      identifier: "MUC++--39",
+         meeting: "MUC++",
+         edition: "",
+           title: "How custom gdb commands help in C++ development",
+        speakers: [
+                     "Michael Krasnyk"
+                  ],
+           video: "https://youtube.com/watch?v=QtTYXE1wSVs",
+       thumbnail: "http://img.youtube.com/vi/QtTYXE1wSVs/0.jpg",
+        duration: 361,
+            tags: [
+                     "c++",
+                     "lightning",
+                     "live"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1859,
       identifier: "accu-2019-11",
          meeting: "accu",
@@ -24501,7 +28994,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/N0m42TKk_dc/0.jpg",
         duration: 5187,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -24521,7 +29013,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/RLFiJI-iSNE/0.jpg",
         duration: 1460,
             tags: [
-                     "c++",
                      "embedded",
                      "online",
                      "talk"
@@ -24542,8 +29033,45 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/LMS3nbqB-_M/0.jpg",
         duration: 2309,
             tags: [
-                     "c++",
                      "embedded",
+                     "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2496,
+      identifier: "GOTO Berlin-2019-36",
+         meeting: "GOTO Berlin",
+         edition: "2019",
+           title: "How Everyday Technology Can Be Used to Help the Climate",
+        speakers: [
+                     "Jessica Greene"
+                  ],
+           video: "https://youtube.com/watch?v=lhLp1dUHlmo",
+       thumbnail: "http://img.youtube.com/vi/lhLp1dUHlmo/0.jpg",
+        duration: 1864,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2818,
+      identifier: "GOTOpia-2021-7",
+         meeting: "GOTOpia",
+         edition: "2021",
+           title: "How Google SRE and Developers Work Together",
+        speakers: [
+                     "Christof Leng"
+                  ],
+           video: "https://youtube.com/watch?v=DOQqOrHs3VY",
+       thumbnail: "http://img.youtube.com/vi/DOQqOrHs3VY/0.jpg",
+        duration: 1935,
+            tags: [
                      "online",
                      "talk"
                   ],
@@ -24583,7 +29111,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/wkiAovep-po/0.jpg",
         duration: 3664,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -24611,6 +29138,26 @@ const talks = [
         language: "English"
    },
    {
+          number: 2708,
+      identifier: "GOTO Copenhagen-2019-17",
+         meeting: "GOTO Copenhagen",
+         edition: "2019",
+           title: "How Java & Scala are Imitating Functional Languages",
+        speakers: [
+                     "Jose Paumard",
+                     "Maurice Naftalin"
+                  ],
+           video: "https://youtube.com/watch?v=e6n-Ci8V2CM",
+       thumbnail: "http://img.youtube.com/vi/e6n-Ci8V2CM/0.jpg",
+        duration: 2993,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1872,
       identifier: "accu-2019-28",
          meeting: "accu",
@@ -24623,8 +29170,26 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/uCJjda6-HIY/0.jpg",
         duration: 3799,
             tags: [
-                     "c++",
                      "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2819,
+      identifier: "GOTOpia-2021-8",
+         meeting: "GOTOpia",
+         edition: "2021",
+           title: "How Microteams Change the Way We Collaborate. Again",
+        speakers: [
+                     "Sander Hoogendoorn"
+                  ],
+           video: "https://youtube.com/watch?v=fCMuzSAyAGw",
+       thumbnail: "http://img.youtube.com/vi/fCMuzSAyAGw/0.jpg",
+        duration: 2816,
+            tags: [
+                     "online",
                      "talk"
                   ],
            level: 0,
@@ -24663,7 +29228,44 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/UjHQs2Ow1fY/0.jpg",
         duration: 1221,
             tags: [
-                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2458,
+      identifier: "GOTO Berlin-2018-45",
+         meeting: "GOTO Berlin",
+         edition: "2018",
+           title: "How Software can be Thought of as a Force for Good",
+        speakers: [
+                     "Francesco Mondora"
+                  ],
+           video: "https://youtube.com/watch?v=s6rN5NIkyXM",
+       thumbnail: "http://img.youtube.com/vi/s6rN5NIkyXM/0.jpg",
+        duration: 2906,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2383,
+      identifier: "GOTO Amsterdam-2019-10",
+         meeting: "GOTO Amsterdam",
+         edition: "2019",
+           title: "How Thinking Small is Changing Software Development Big Time",
+        speakers: [
+                     "Sander Hoogendoorn"
+                  ],
+           video: "https://youtube.com/watch?v=YCQMiFF9QXM",
+       thumbnail: "http://img.youtube.com/vi/YCQMiFF9QXM/0.jpg",
+        duration: 2966,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -24703,7 +29305,84 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/fBiGF5H9y7I/0.jpg",
         duration: 5580,
             tags: [
-                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2717,
+      identifier: "GOTO Copenhagen-2019-26",
+         meeting: "GOTO Copenhagen",
+         edition: "2019",
+           title: "How to be Exceptional in a Technical Due Diligence",
+        speakers: [
+                     "Chris Philipps"
+                  ],
+           video: "https://youtube.com/watch?v=jawbMMU_sRU",
+       thumbnail: "http://img.youtube.com/vi/jawbMMU_sRU/0.jpg",
+        duration: 1663,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2463,
+      identifier: "GOTO Berlin-2019-3",
+         meeting: "GOTO Berlin",
+         edition: "2019",
+           title: "How to Become a Great Software Architect",
+        speakers: [
+                     "Eberhard Wolff"
+                  ],
+           video: "https://youtube.com/watch?v=v_nhv6aY1Kg",
+       thumbnail: "http://img.youtube.com/vi/v_nhv6aY1Kg/0.jpg",
+        duration: 2589,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2443,
+      identifier: "GOTO Berlin-2018-30",
+         meeting: "GOTO Berlin",
+         edition: "2018",
+           title: "How to Build a Consultancy People Enjoy Working for",
+        speakers: [
+                     "Erik Doernenburg",
+                     "Stefan Tilkov",
+                     "Uwe Friedrichsen"
+                  ],
+           video: "https://youtube.com/watch?v=gbl_xSisOAY",
+       thumbnail: "http://img.youtube.com/vi/gbl_xSisOAY/0.jpg",
+        duration: 2858,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2492,
+      identifier: "GOTO Berlin-2019-32",
+         meeting: "GOTO Berlin",
+         edition: "2019",
+           title: "How to Build a Self-driving RC Car",
+        speakers: [
+                     "Bert Jan Schrijver"
+                  ],
+           video: "https://youtube.com/watch?v=g0tUZFbCoCI",
+       thumbnail: "http://img.youtube.com/vi/g0tUZFbCoCI/0.jpg",
+        duration: 2649,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -24723,7 +29402,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/bg5FelXpXiA/0.jpg",
         duration: 4327,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -24803,7 +29481,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/2C8cy5j1vr8/0.jpg",
         duration: 3875,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -24823,7 +29500,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/vhhS_MYViW4/0.jpg",
         duration: 5157,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -24843,9 +29519,27 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/UJXirOtv9-E/0.jpg",
         duration: 3502,
             tags: [
-                     "c++",
                      "live",
                      "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2621,
+      identifier: "GOTO Chicago-2020-22",
+         meeting: "GOTO Chicago",
+         edition: "2020",
+           title: "How to Hack OAuth",
+        speakers: [
+                     "Aaron Parecki"
+                  ],
+           video: "https://youtube.com/watch?v=tbu4CfzP25o",
+       thumbnail: "http://img.youtube.com/vi/tbu4CfzP25o/0.jpg",
+        duration: 1102,
+            tags: [
+                     "lightning",
+                     "live"
                   ],
            level: 0,
         language: "English"
@@ -24891,6 +29585,26 @@ const talks = [
         language: "English"
    },
    {
+          number: 2642,
+      identifier: "GOTO Chicago-2020-43",
+         meeting: "GOTO Chicago",
+         edition: "2020",
+           title: "How to Lead through Turbulence w/ Compassion & Confidence",
+        speakers: [
+                     "Angela Dugan",
+                     "Sara Caldwell"
+                  ],
+           video: "https://youtube.com/watch?v=2jqjRjZPpOU",
+       thumbnail: "http://img.youtube.com/vi/2jqjRjZPpOU/0.jpg",
+        duration: 1121,
+            tags: [
+                     "lightning",
+                     "live"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 2240,
       identifier: "corehard-2017-2",
          meeting: "corehard",
@@ -24923,7 +29637,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/vIrpf4EsN1E/0.jpg",
         duration: 1864,
             tags: [
-                     "c++",
                      "embedded",
                      "online",
                      "talk"
@@ -24964,7 +29677,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/XsTHpXvHDHM/0.jpg",
         duration: 1739,
             tags: [
-                     "c++",
                      "embedded",
                      "online",
                      "talk"
@@ -24985,10 +29697,28 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/-r3P2_DDqwQ/0.jpg",
         duration: 1174,
             tags: [
-                     "c++",
                      "embedded",
                      "lightning",
                      "live"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2350,
+      identifier: "GOTO Amsterdam-2018-18",
+         meeting: "GOTO Amsterdam",
+         edition: "2018",
+           title: "How To Move Fast Without Breaking Everything",
+        speakers: [
+                     "Jamie Dobson"
+                  ],
+           video: "https://youtube.com/watch?v=as7ALBoNZqY",
+       thumbnail: "http://img.youtube.com/vi/as7ALBoNZqY/0.jpg",
+        duration: 2783,
+            tags: [
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "English"
@@ -25009,6 +29739,44 @@ const talks = [
                      "c++",
                      "lightning",
                      "live"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2369,
+      identifier: "GOTO Amsterdam-2018-37",
+         meeting: "GOTO Amsterdam",
+         edition: "2018",
+           title: "How to Preserve Privacy on a Blockchain",
+        speakers: [
+                     "Cees van Wijk"
+                  ],
+           video: "https://youtube.com/watch?v=1dBsrgPFZ6I",
+       thumbnail: "http://img.youtube.com/vi/1dBsrgPFZ6I/0.jpg",
+        duration: 3073,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2521,
+      identifier: "GOTO Chicago-2018-22",
+         meeting: "GOTO Chicago",
+         edition: "2018",
+           title: "How to Preserve your Institutional Knowledge",
+        speakers: [
+                     "Peter Pezaris"
+                  ],
+           video: "https://youtube.com/watch?v=krIoO2jZac8",
+       thumbnail: "http://img.youtube.com/vi/krIoO2jZac8/0.jpg",
+        duration: 2630,
+            tags: [
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "English"
@@ -25206,7 +29974,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/82-XjMzKaC8/0.jpg",
         duration: 4384,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -25286,7 +30053,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/sQcPte0JNmE/0.jpg",
         duration: 3018,
             tags: [
-                     "c++",
                      "online",
                      "talk"
                   ],
@@ -25347,6 +30113,27 @@ const talks = [
         duration: 3873,
             tags: [
                      "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2405,
+      identifier: "GOTO Amsterdam-2019-32",
+         meeting: "GOTO Amsterdam",
+         edition: "2019",
+           title: "How we Built Google Tulip Using Serverless Tech & ML",
+        speakers: [
+                     "C. Hees",
+                     "L. Boonstra",
+                     "M. Feigal"
+                  ],
+           video: "https://youtube.com/watch?v=Gv5stbV7XT8",
+       thumbnail: "http://img.youtube.com/vi/Gv5stbV7XT8/0.jpg",
+        duration: 2107,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -25537,6 +30324,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2615,
+      identifier: "GOTO Chicago-2020-16",
+         meeting: "GOTO Chicago",
+         edition: "2020",
+           title: "HTML: How to Make Loveliness",
+        speakers: [
+                     "Bruce Lawson"
+                  ],
+           video: "https://youtube.com/watch?v=L83LVfhTbzg",
+       thumbnail: "http://img.youtube.com/vi/L83LVfhTbzg/0.jpg",
+        duration: 1336,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1499,
       identifier: "code::dive-2015-6",
          meeting: "code::dive",
@@ -25549,7 +30355,82 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/w2WjI3fIPMQ/0.jpg",
         duration: 4588,
             tags: [
-                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2469,
+      identifier: "GOTO Berlin-2019-9",
+         meeting: "GOTO Berlin",
+         edition: "2019",
+           title: "HTTP Headers for the Responsible Developer",
+        speakers: [
+                     "Stefan Judis"
+                  ],
+           video: "https://youtube.com/watch?v=JfjiFsJsO4E",
+       thumbnail: "http://img.youtube.com/vi/JfjiFsJsO4E/0.jpg",
+        duration: 2421,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2701,
+      identifier: "GOTO Copenhagen-2019-10",
+         meeting: "GOTO Copenhagen",
+         edition: "2019",
+           title: "HTTP/3 is next Generation HTTP. Is it QUIC enough?",
+        speakers: [
+                     "Daniel Stenberg"
+                  ],
+           video: "https://youtube.com/watch?v=rlN4F1oyaRM",
+       thumbnail: "http://img.youtube.com/vi/rlN4F1oyaRM/0.jpg",
+        duration: 2613,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2794,
+      identifier: "GOTOpia-2020-44",
+         meeting: "GOTOpia",
+         edition: "2020",
+           title: "HTTP/3 Is Next Generation HTTP. Is It QUIC Enough?",
+        speakers: [
+                     "Daniel Stenberg"
+                  ],
+           video: "https://youtube.com/watch?v=pUxyukqoXR4",
+       thumbnail: "http://img.youtube.com/vi/pUxyukqoXR4/0.jpg",
+        duration: 1807,
+            tags: [
+                     "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2692,
+      identifier: "GOTO Copenhagen-2018-43",
+         meeting: "GOTO Copenhagen",
+         edition: "2018",
+           title: "Human-Computer Partnerships",
+        speakers: [
+                     "Wendy Mackay"
+                  ],
+           video: "https://youtube.com/watch?v=vJO444apR0A",
+       thumbnail: "http://img.youtube.com/vi/vJO444apR0A/0.jpg",
+        duration: 2494,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -25577,6 +30458,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2840,
+      identifier: "GOTOpia-2021-29",
+         meeting: "GOTOpia",
+         edition: "2021",
+           title: "Hybrid Intelligence: First Rate Humans, Not Second Class Robots",
+        speakers: [
+                     "Jacob Sherson"
+                  ],
+           video: "https://youtube.com/watch?v=2VWDCErWmds",
+       thumbnail: "http://img.youtube.com/vi/2VWDCErWmds/0.jpg",
+        duration: 2659,
+            tags: [
+                     "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 2009,
       identifier: "C++ on sea-2020-5",
          meeting: "C++ on sea",
@@ -25591,6 +30491,25 @@ const talks = [
             tags: [
                      "c++",
                      "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2632,
+      identifier: "GOTO Chicago-2020-33",
+         meeting: "GOTO Chicago",
+         edition: "2020",
+           title: "I Can Sell You Observability, But You Can't Buy It",
+        speakers: [
+                     "Austin Parker"
+                  ],
+           video: "https://youtube.com/watch?v=-bnv3v5Do3Y",
+       thumbnail: "http://img.youtube.com/vi/-bnv3v5Do3Y/0.jpg",
+        duration: 1225,
+            tags: [
+                     "live",
                      "talk"
                   ],
            level: 0,
@@ -25649,7 +30568,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/B34LP4TS824/0.jpg",
         duration: 4267,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -25769,7 +30687,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/2e6a-sim5uI/0.jpg",
         duration: 1003,
             tags: [
-                     "c++",
                      "lightning",
                      "live"
                   ],
@@ -25809,7 +30726,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/157vKN9mZmc/0.jpg",
         duration: 2432,
             tags: [
-                     "c++",
                      "embedded",
                      "online",
                      "talk"
@@ -25830,7 +30746,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/9a18XkWw8vk/0.jpg",
         duration: 5689,
             tags: [
-                     "c++",
                      "online",
                      "talk"
                   ],
@@ -26190,7 +31105,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/mqei4JJRQ7s/0.jpg",
         duration: 5456,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -26210,7 +31124,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/yC3CoXl5CP4/0.jpg",
         duration: 310,
             tags: [
-                     "c++",
                      "lightning",
                      "online"
                   ],
@@ -26252,6 +31165,25 @@ const talks = [
             tags: [
                      "c++",
                      "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2839,
+      identifier: "GOTOpia-2021-28",
+         meeting: "GOTOpia",
+         edition: "2021",
+           title: "Improving Business Resiliency with Chaos Engineering",
+        speakers: [
+                     "Olga Hall"
+                  ],
+           video: "https://youtube.com/watch?v=6NIh-GsO1Kg",
+       thumbnail: "http://img.youtube.com/vi/6NIh-GsO1Kg/0.jpg",
+        duration: 2799,
+            tags: [
+                     "online",
                      "talk"
                   ],
            level: 0,
@@ -26330,7 +31262,121 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/BuyQowqngTk/0.jpg",
         duration: 4775,
             tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2401,
+      identifier: "GOTO Amsterdam-2019-28",
+         meeting: "GOTO Amsterdam",
+         edition: "2019",
+           title: "In Search of the Perfect Cloud Native Developer Experience",
+        speakers: [
+                     "Daniel Bryant"
+                  ],
+           video: "https://youtube.com/watch?v=V-oc2GH7iZs",
+       thumbnail: "http://img.youtube.com/vi/V-oc2GH7iZs/0.jpg",
+        duration: 2748,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2826,
+      identifier: "GOTOpia-2021-15",
+         meeting: "GOTOpia",
+         edition: "2021",
+           title: "Incident Analysis Before Chaos Engineering",
+        speakers: [
+                     "Nora Jones"
+                  ],
+           video: "https://youtube.com/watch?v=CCXR1b0pdaQ",
+       thumbnail: "http://img.youtube.com/vi/CCXR1b0pdaQ/0.jpg",
+        duration: 1475,
+            tags: [
+                     "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2269,
+      identifier: "MUC++--13",
+         meeting: "MUC++",
+         edition: "",
+           title: "Include C++",
+        speakers: [
+                     "Victor Moreno"
+                  ],
+           video: "https://youtube.com/watch?v=r23ErUGt9mo",
+       thumbnail: "http://img.youtube.com/vi/r23ErUGt9mo/0.jpg",
+        duration: 634,
+            tags: [
                      "c++",
+                     "lightning",
+                     "live"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2641,
+      identifier: "GOTO Chicago-2020-42",
+         meeting: "GOTO Chicago",
+         edition: "2020",
+           title: "Increase App Confidence Using CI/CD and Infrastructure as Code",
+        speakers: [
+                     "Angel Rivera"
+                  ],
+           video: "https://youtube.com/watch?v=Fj_jgmATfSA",
+       thumbnail: "http://img.youtube.com/vi/Fj_jgmATfSA/0.jpg",
+        duration: 1445,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2772,
+      identifier: "GOTOpia-2020-19",
+         meeting: "GOTOpia",
+         edition: "2020",
+           title: "Industrial Applications of Reinforcement Learning",
+        speakers: [
+                     "Phil Winder"
+                  ],
+           video: "https://youtube.com/watch?v=BThQIMlrcd4",
+       thumbnail: "http://img.youtube.com/vi/BThQIMlrcd4/0.jpg",
+        duration: 2098,
+            tags: [
+                     "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2691,
+      identifier: "GOTO Copenhagen-2018-42",
+         meeting: "GOTO Copenhagen",
+         edition: "2018",
+           title: "Inextricably Linked: Reproducibility & Productivity in Data Science & AI",
+        speakers: [
+                     "Mark Coleman"
+                  ],
+           video: "https://youtube.com/watch?v=eORATxPx1Bw",
+       thumbnail: "http://img.youtube.com/vi/eORATxPx1Bw/0.jpg",
+        duration: 1709,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -26438,6 +31484,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2424,
+      identifier: "GOTO Berlin-2018-11",
+         meeting: "GOTO Berlin",
+         edition: "2018",
+           title: "Insecure Transit - Microservice",
+        speakers: [
+                     "Sam Newman"
+                  ],
+           video: "https://youtube.com/watch?v=1sjqHlLuRw8",
+       thumbnail: "http://img.youtube.com/vi/1sjqHlLuRw8/0.jpg",
+        duration: 3057,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1971,
       identifier: "Italian C++ Conference-2021-4",
          meeting: "Italian C++ Conference",
@@ -26452,6 +31517,26 @@ const talks = [
             tags: [
                      "c++",
                      "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2320,
+      identifier: "Going Native-2012-6",
+         meeting: "Going Native",
+         edition: "2012",
+           title: "Inside Fresh Paint - A C++ + XAML + DirectX Windows Store App",
+        speakers: [
+                     
+                  ],
+           video: "https://youtube.com/watch?v=SIbQw4hwc8Y",
+       thumbnail: "http://img.youtube.com/vi/SIbQw4hwc8Y/0.jpg",
+        duration: 2543,
+            tags: [
+                     "c++",
+                     "live",
                      "talk"
                   ],
            level: 0,
@@ -26503,7 +31588,7 @@ const talks = [
       identifier: "CppCon-2016-57",
          meeting: "CppCon",
          edition: "2016",
-           title: "Instruction Re-ordering Everywhere: The C++ 'As-If' Rule and the Role of Sequence",
+           title: "Instruction Re-ordering Everywhere: The C++ As-If' Rule and the Role of Sequence'",
         speakers: [
                      "Charles Bay"
                   ],
@@ -26531,7 +31616,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/kk6RW2ex3FA/0.jpg",
         duration: 1656,
             tags: [
-                     "c++",
                      "embedded",
                      "online",
                      "talk"
@@ -26593,6 +31677,25 @@ const talks = [
         duration: 3608,
             tags: [
                      "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2487,
+      identifier: "GOTO Berlin-2019-27",
+         meeting: "GOTO Berlin",
+         edition: "2019",
+           title: "Interaction Protocols: It's All About Good Manners",
+        speakers: [
+                     "Martin Thompson"
+                  ],
+           video: "https://youtube.com/watch?v=bzDAYlpSbrM",
+       thumbnail: "http://img.youtube.com/vi/bzDAYlpSbrM/0.jpg",
+        duration: 2713,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -26713,7 +31816,25 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/GczSCWRWyCk/0.jpg",
         duration: 3310,
             tags: [
-                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2721,
+      identifier: "GOTO Copenhagen-2019-30",
+         meeting: "GOTO Copenhagen",
+         edition: "2019",
+           title: "Internationalization is a Piece of Cake",
+        speakers: [
+                     "Eli Schutze Ramirez"
+                  ],
+           video: "https://youtube.com/watch?v=nsGmQ0v36bo",
+       thumbnail: "http://img.youtube.com/vi/nsGmQ0v36bo/0.jpg",
+        duration: 2322,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -26793,26 +31914,6 @@ const talks = [
            video: "https://youtube.com/watch?v=Py1eVrJ2S88",
        thumbnail: "http://img.youtube.com/vi/Py1eVrJ2S88/0.jpg",
         duration: 3675,
-            tags: [
-                     "c++",
-                     "online",
-                     "panel"
-                  ],
-           level: 0,
-        language: "English"
-   },
-   {
-          number: 1408,
-      identifier: "CppCon-2020-28",
-         meeting: "CppCon",
-         edition: "2020",
-           title: "interview with C++ Standards Committee Fireside Chat",
-        speakers: [
-                     
-                  ],
-           video: "https://youtube.com/watch?v=lil4xfpmnF4",
-       thumbnail: "http://img.youtube.com/vi/lil4xfpmnF4/0.jpg",
-        duration: 3749,
             tags: [
                      "c++",
                      "online",
@@ -27034,10 +32135,28 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/f0WX7-FxgEQ/0.jpg",
         duration: 1561,
             tags: [
-                     "c++",
                      "embedded",
                      "keynote",
                      "online"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2547,
+      identifier: "GOTO Chicago-2019-6",
+         meeting: "GOTO Chicago",
+         edition: "2019",
+           title: "Intro to Empirical Software Engineering: What We Know We Don't Know",
+        speakers: [
+                     "Hillel Wayne"
+                  ],
+           video: "https://youtube.com/watch?v=WELBnE33dpY",
+       thumbnail: "http://img.youtube.com/vi/WELBnE33dpY/0.jpg",
+        duration: 2263,
+            tags: [
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "English"
@@ -27075,7 +32194,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/S53cBvNkPeQ/0.jpg",
         duration: 3632,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -27095,9 +32213,28 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/l95DsKm5fbY/0.jpg",
         duration: 882,
             tags: [
-                     "c++",
                      "lightning",
                      "live"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2317,
+      identifier: "Going Native-2012-3",
+         meeting: "Going Native",
+         edition: "2012",
+           title: "Introducing Casablanca - A Modern C++ API for Connected Computing",
+        speakers: [
+                     
+                  ],
+           video: "https://youtube.com/watch?v=kJtrf3-LUic",
+       thumbnail: "http://img.youtube.com/vi/kJtrf3-LUic/0.jpg",
+        duration: 2722,
+            tags: [
+                     "c++",
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "English"
@@ -27176,7 +32313,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/orV41cNVQW8/0.jpg",
         duration: 3533,
             tags: [
-                     "c++",
                      "embedded",
                      "online",
                      "talk"
@@ -27197,7 +32333,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/LNXkPh3Z418/0.jpg",
         duration: 3646,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -27217,7 +32352,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/iGCA-Wsgw4A/0.jpg",
         duration: 582,
             tags: [
-                     "c++",
                      "embedded",
                      "lightning",
                      "online"
@@ -27238,7 +32372,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/y-_sJP1VI3o/0.jpg",
         duration: 2467,
             tags: [
-                     "c++",
                      "embedded",
                      "online",
                      "talk"
@@ -27360,7 +32493,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/daKNJkllk3Q/0.jpg",
         duration: 3739,
             tags: [
-                     "c++",
                      "embedded",
                      "online",
                      "talk"
@@ -27381,7 +32513,25 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/9GKKFXX9vUk/0.jpg",
         duration: 1866,
             tags: [
-                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2381,
+      identifier: "GOTO Amsterdam-2019-8",
+         meeting: "GOTO Amsterdam",
+         edition: "2019",
+           title: "Introduction to Micronaut",
+        speakers: [
+                     "Graeme Rocher"
+                  ],
+           video: "https://youtube.com/watch?v=RtjSqRZ_md4",
+       thumbnail: "http://img.youtube.com/vi/RtjSqRZ_md4/0.jpg",
+        duration: 2659,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -27429,6 +32579,44 @@ const talks = [
         language: "English"
    },
    {
+          number: 2418,
+      identifier: "GOTO Berlin-2018-5",
+         meeting: "GOTO Berlin",
+         edition: "2018",
+           title: "Introduction to OAuth 2.0 and OpenID Connect",
+        speakers: [
+                     "Philippe De Ryck"
+                  ],
+           video: "https://youtube.com/watch?v=GyCL8AJUhww",
+       thumbnail: "http://img.youtube.com/vi/GyCL8AJUhww/0.jpg",
+        duration: 2837,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2696,
+      identifier: "GOTO Copenhagen-2019-5",
+         meeting: "GOTO Copenhagen",
+         edition: "2019",
+           title: "Introduction to OpenAPI",
+        speakers: [
+                     "Lorna Jane Mitchell"
+                  ],
+           video: "https://youtube.com/watch?v=s9u3mXQZbXI",
+       thumbnail: "http://img.youtube.com/vi/s9u3mXQZbXI/0.jpg",
+        duration: 2695,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 621,
       identifier: "Meeting C++-2017-28",
          meeting: "Meeting C++",
@@ -27461,7 +32649,25 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/1S_AVHaVsLA/0.jpg",
         duration: 5709,
             tags: [
-                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2559,
+      identifier: "GOTO Chicago-2019-18",
+         meeting: "GOTO Chicago",
+         edition: "2019",
+           title: "Introduction to Quantum Computing",
+        speakers: [
+                     "Jessica Pointing"
+                  ],
+           video: "https://youtube.com/watch?v=z1RnYo0nYGM",
+       thumbnail: "http://img.youtube.com/vi/z1RnYo0nYGM/0.jpg",
+        duration: 2505,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -27481,9 +32687,27 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/lEWG3eiOss0/0.jpg",
         duration: 1574,
             tags: [
-                     "c++",
                      "embedded",
                      "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2379,
+      identifier: "GOTO Amsterdam-2019-6",
+         meeting: "GOTO Amsterdam",
+         edition: "2019",
+           title: "Introduction to Stateful Stream Processing with Apache Flink",
+        speakers: [
+                     "Robert Metzger"
+                  ],
+           video: "https://youtube.com/watch?v=DkNeyCW-eH0",
+       thumbnail: "http://img.youtube.com/vi/DkNeyCW-eH0/0.jpg",
+        duration: 1880,
+            tags: [
+                     "live",
                      "talk"
                   ],
            level: 0,
@@ -27530,6 +32754,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2613,
+      identifier: "GOTO Chicago-2020-14",
+         meeting: "GOTO Chicago",
+         edition: "2020",
+           title: "Investigation and Creation of Software",
+        speakers: [
+                     "Jessica Kerr"
+                  ],
+           video: "https://youtube.com/watch?v=S-LWg-tHboY",
+       thumbnail: "http://img.youtube.com/vi/S-LWg-tHboY/0.jpg",
+        duration: 1192,
+            tags: [
+                     "lightning",
+                     "live"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 238,
       identifier: "C++Now-2016-26",
          meeting: "C++Now",
@@ -27550,6 +32793,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2352,
+      identifier: "GOTO Amsterdam-2018-20",
+         meeting: "GOTO Amsterdam",
+         edition: "2018",
+           title: "IoT Compute at the Edge with AWS Greengrass",
+        speakers: [
+                     "Boaz Ziniman"
+                  ],
+           video: "https://youtube.com/watch?v=FrH-EQfQkRU",
+       thumbnail: "http://img.youtube.com/vi/FrH-EQfQkRU/0.jpg",
+        duration: 3005,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1554,
       identifier: "code::dive-2016-42",
          meeting: "code::dive",
@@ -27562,7 +32824,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/HXhklOFknAM/0.jpg",
         duration: 2636,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -27582,9 +32843,27 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/r_gUNHZYjys/0.jpg",
         duration: 1134,
             tags: [
-                     "c++",
                      "lightning",
                      "live"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2779,
+      identifier: "GOTOpia-2020-26",
+         meeting: "GOTOpia",
+         edition: "2020",
+           title: "Is All Executable Code Added to a Container Image at Build Time? (Q2)",
+        speakers: [
+                     "Liz Rice"
+                  ],
+           video: "https://youtube.com/watch?v=GR5O3BSbkYM",
+       thumbnail: "http://img.youtube.com/vi/GR5O3BSbkYM/0.jpg",
+        duration: 797,
+            tags: [
+                     "lightning",
+                     "online"
                   ],
            level: 0,
         language: "English"
@@ -27694,6 +32973,26 @@ const talks = [
         language: "English"
    },
    {
+          number: 2732,
+      identifier: "GOTO Copenhagen-2019-41",
+         meeting: "GOTO Copenhagen",
+         edition: "2019",
+           title: "Is Team Self-selection the Obvious Choice?",
+        speakers: [
+                     "Martin Schwalbe Lohmann",
+                     "Niels Harre"
+                  ],
+           video: "https://youtube.com/watch?v=ibRxKY2Qh4A",
+       thumbnail: "http://img.youtube.com/vi/ibRxKY2Qh4A/0.jpg",
+        duration: 1130,
+            tags: [
+                     "lightning",
+                     "live"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 607,
       identifier: "Meeting C++-2017-14",
          meeting: "Meeting C++",
@@ -27726,7 +33025,25 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/j3kQlb2G2ao/0.jpg",
         duration: 3645,
             tags: [
-                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2584,
+      identifier: "GOTO Chicago-2019-43",
+         meeting: "GOTO Chicago",
+         edition: "2019",
+           title: "It Really is Easier to Ask for Forgiveness (than Permission)",
+        speakers: [
+                     "Naomi Ceder"
+                  ],
+           video: "https://youtube.com/watch?v=SYrVZR_g718",
+       thumbnail: "http://img.youtube.com/vi/SYrVZR_g718/0.jpg",
+        duration: 3061,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -27766,7 +33083,25 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/WZ74TtMxWT4/0.jpg",
         duration: 6096,
             tags: [
-                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2400,
+      identifier: "GOTO Amsterdam-2019-27",
+         meeting: "GOTO Amsterdam",
+         edition: "2019",
+           title: "It's Getting Faster",
+        speakers: [
+                     "Liz Keogh"
+                  ],
+           video: "https://youtube.com/watch?v=9Cy3Dn3C8jk",
+       thumbnail: "http://img.youtube.com/vi/9Cy3Dn3C8jk/0.jpg",
+        duration: 2530,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -27786,7 +33121,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/jiJesVwkXPw/0.jpg",
         duration: 5034,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -27846,9 +33180,28 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/fzyhyqJI0oY/0.jpg",
         duration: 1327,
             tags: [
-                     "c++",
                      "embedded",
                      "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2562,
+      identifier: "GOTO Chicago-2019-21",
+         meeting: "GOTO Chicago",
+         edition: "2019",
+           title: "Java Current and Future",
+        speakers: [
+                     "Georges Saab",
+                     "Mikael Vidstedt"
+                  ],
+           video: "https://youtube.com/watch?v=vJrHHe3IbQs",
+       thumbnail: "http://img.youtube.com/vi/vJrHHe3IbQs/0.jpg",
+        duration: 2840,
+            tags: [
+                     "live",
                      "talk"
                   ],
            level: 0,
@@ -27867,7 +33220,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/t9686BdxR64/0.jpg",
         duration: 761,
             tags: [
-                     "c++",
                      "lightning",
                      "live"
                   ],
@@ -27895,6 +33247,82 @@ const talks = [
         language: "English"
    },
    {
+          number: 2510,
+      identifier: "GOTO Chicago-2018-11",
+         meeting: "GOTO Chicago",
+         edition: "2018",
+           title: "Jepsen 9: A Fsyncing Feeling",
+        speakers: [
+                     "Kyle Kingsbury"
+                  ],
+           video: "https://youtube.com/watch?v=tRc0O9VgzB0",
+       thumbnail: "http://img.youtube.com/vi/tRc0O9VgzB0/0.jpg",
+        duration: 2527,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2649,
+      identifier: "GOTO Chicago-2020-50",
+         meeting: "GOTO Chicago",
+         edition: "2020",
+           title: "John Deere Operations Center Development Journey & Ecosystems",
+        speakers: [
+                     "Niket Patel"
+                  ],
+           video: "https://youtube.com/watch?v=qx-f1akq5O4",
+       thumbnail: "http://img.youtube.com/vi/qx-f1akq5O4/0.jpg",
+        duration: 1171,
+            tags: [
+                     "lightning",
+                     "live"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2398,
+      identifier: "GOTO Amsterdam-2019-25",
+         meeting: "GOTO Amsterdam",
+         edition: "2019",
+           title: "Journeys To Cloud Native Architecture: Sun, Sea & Emergencies",
+        speakers: [
+                     "Nicki Watt"
+                  ],
+           video: "https://youtube.com/watch?v=GybLDN4Zofs",
+       thumbnail: "http://img.youtube.com/vi/GybLDN4Zofs/0.jpg",
+        duration: 3011,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2566,
+      identifier: "GOTO Chicago-2019-25",
+         meeting: "GOTO Chicago",
+         edition: "2019",
+           title: "Journeys To Cloud Native Architecture: Sun, Sea & Emergencies",
+        speakers: [
+                     "Nicki Watt"
+                  ],
+           video: "https://youtube.com/watch?v=GybLDN4Zofs",
+       thumbnail: "http://img.youtube.com/vi/GybLDN4Zofs/0.jpg",
+        duration: 3011,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1853,
       identifier: "accu-2019-5",
          meeting: "accu",
@@ -27907,7 +33335,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/QJ5LVsxLrZs/0.jpg",
         duration: 3799,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -27956,6 +33383,63 @@ const talks = [
         language: "English"
    },
    {
+          number: 2759,
+      identifier: "GOTOpia-2020-6",
+         meeting: "GOTOpia",
+         edition: "2020",
+           title: "Kafka as a Platform: The Ecosystem from the Ground Up",
+        speakers: [
+                     "Robin Moffatt"
+                  ],
+           video: "https://youtube.com/watch?v=qjTZ4UeJdoI",
+       thumbnail: "http://img.youtube.com/vi/qjTZ4UeJdoI/0.jpg",
+        duration: 2355,
+            tags: [
+                     "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2797,
+      identifier: "GOTOpia-2020-47",
+         meeting: "GOTOpia",
+         edition: "2020",
+           title: "Kafka as a Platform: The Ecosystem from the Ground Up",
+        speakers: [
+                     "Robin Moffatt"
+                  ],
+           video: "https://youtube.com/watch?v=xy6jNKI3tKU",
+       thumbnail: "http://img.youtube.com/vi/xy6jNKI3tKU/0.jpg",
+        duration: 2449,
+            tags: [
+                     "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2572,
+      identifier: "GOTO Chicago-2019-31",
+         meeting: "GOTO Chicago",
+         edition: "2019",
+           title: "Keep it Clean: Why Bad Data Ruins Projects and How to Fix it",
+        speakers: [
+                     "Phil Winder"
+                  ],
+           video: "https://youtube.com/watch?v=BSKWK__N6_Q",
+       thumbnail: "http://img.youtube.com/vi/BSKWK__N6_Q/0.jpg",
+        duration: 2648,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 2122,
       identifier: "C++ Europe-2019-6",
          meeting: "C++ Europe",
@@ -27996,6 +33480,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2428,
+      identifier: "GOTO Berlin-2018-15",
+         meeting: "GOTO Berlin",
+         edition: "2018",
+           title: "Keeping Up with Java",
+        speakers: [
+                     "Sander Mak"
+                  ],
+           video: "https://youtube.com/watch?v=cF-rUNCOm2c",
+       thumbnail: "http://img.youtube.com/vi/cF-rUNCOm2c/0.jpg",
+        duration: 2731,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1741,
       identifier: "accu-2016-39",
          meeting: "accu",
@@ -28008,9 +33511,106 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/yUGB1rl8Jh8/0.jpg",
         duration: 5328,
             tags: [
-                     "c++",
                      "live",
                      "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2634,
+      identifier: "GOTO Chicago-2020-35",
+         meeting: "GOTO Chicago",
+         edition: "2020",
+           title: "Keys to Building Machine Learning Systems",
+        speakers: [
+                     "Garrett Smith"
+                  ],
+           video: "https://youtube.com/watch?v=WZVQEI9KYsk",
+       thumbnail: "http://img.youtube.com/vi/WZVQEI9KYsk/0.jpg",
+        duration: 1633,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2831,
+      identifier: "GOTOpia-2021-20",
+         meeting: "GOTOpia",
+         edition: "2021",
+           title: "Kickstarting Your Azure Pipeline with Templates",
+        speakers: [
+                     "Ioanitescu",
+                     "Ligtenberg",
+                     "Mitescu"
+                  ],
+           video: "https://youtube.com/watch?v=aHFI-9yZBQw",
+       thumbnail: "http://img.youtube.com/vi/aHFI-9yZBQw/0.jpg",
+        duration: 1728,
+            tags: [
+                     "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2387,
+      identifier: "GOTO Amsterdam-2019-14",
+         meeting: "GOTO Amsterdam",
+         edition: "2019",
+           title: "Knowledge is Power: Getting out of Trouble by Understanding Git",
+        speakers: [
+                     "Steve Smith"
+                  ],
+           video: "https://youtube.com/watch?v=fHLcZGi3yMQ",
+       thumbnail: "http://img.youtube.com/vi/fHLcZGi3yMQ/0.jpg",
+        duration: 2992,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2741,
+      identifier: "GOTO Oslo-2018-2",
+         meeting: "GOTO Oslo",
+         edition: "2018",
+           title: "Kotlin 4 vs. Scala 3",
+        speakers: [
+                     "Eamonn Boyle",
+                     "Garth Gilmour"
+                  ],
+           video: "https://youtube.com/watch?v=sIL4mduqHe0",
+       thumbnail: "http://img.youtube.com/vi/sIL4mduqHe0/0.jpg",
+        duration: 2604,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2607,
+      identifier: "GOTO Chicago-2020-8",
+         meeting: "GOTO Chicago",
+         edition: "2020",
+           title: "Kotlin Flows and Channels for Android",
+        speakers: [
+                     "Ryan Pierce"
+                  ],
+           video: "https://youtube.com/watch?v=xch4aw7hNcY",
+       thumbnail: "http://img.youtube.com/vi/xch4aw7hNcY/0.jpg",
+        duration: 1123,
+            tags: [
+                     "lightning",
+                     "live"
                   ],
            level: 0,
         language: "English"
@@ -28028,9 +33628,122 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/3K3oQ22nqfo/0.jpg",
         duration: 3147,
             tags: [
-                     "c++",
                      "keynote",
                      "live"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2709,
+      identifier: "GOTO Copenhagen-2019-18",
+         meeting: "GOTO Copenhagen",
+         edition: "2019",
+           title: "Kotlin/Native: The Good, The Bad, and the Ugly",
+        speakers: [
+                     "Ellen Shapiro"
+                  ],
+           video: "https://youtube.com/watch?v=JHUY1Ckmo64",
+       thumbnail: "http://img.youtube.com/vi/JHUY1Ckmo64/0.jpg",
+        duration: 2554,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2564,
+      identifier: "GOTO Chicago-2019-23",
+         meeting: "GOTO Chicago",
+         edition: "2019",
+           title: "Kotlin: Dissecting the stdlib",
+        speakers: [
+                     "Huyen Tue Dao"
+                  ],
+           video: "https://youtube.com/watch?v=uCMuGVh7W_0",
+       thumbnail: "http://img.youtube.com/vi/uCMuGVh7W_0/0.jpg",
+        duration: 3115,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2473,
+      identifier: "GOTO Berlin-2019-13",
+         meeting: "GOTO Berlin",
+         edition: "2019",
+           title: "Kubernetes Day 3: The State of Kubernetes Development Tooling",
+        speakers: [
+                     "Ellen Korbes"
+                  ],
+           video: "https://youtube.com/watch?v=b1RsNXGLuUk",
+       thumbnail: "http://img.youtube.com/vi/b1RsNXGLuUk/0.jpg",
+        duration: 1961,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2583,
+      identifier: "GOTO Chicago-2019-42",
+         meeting: "GOTO Chicago",
+         edition: "2019",
+           title: "Kubernetes Operability Tooling",
+        speakers: [
+                     "Bridget Kromhout"
+                  ],
+           video: "https://youtube.com/watch?v=KB9fPamrwxs",
+       thumbnail: "http://img.youtube.com/vi/KB9fPamrwxs/0.jpg",
+        duration: 2571,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2662,
+      identifier: "GOTO Copenhagen-2018-13",
+         meeting: "GOTO Copenhagen",
+         edition: "2018",
+           title: "Kubernetes-ize your Java Application",
+        speakers: [
+                     "Arun Gupta"
+                  ],
+           video: "https://youtube.com/watch?v=QgMwcpAT49M",
+       thumbnail: "http://img.youtube.com/vi/QgMwcpAT49M/0.jpg",
+        duration: 3134,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2354,
+      identifier: "GOTO Amsterdam-2018-22",
+         meeting: "GOTO Amsterdam",
+         edition: "2018",
+           title: "Kubernetes: Crossing the Chasm",
+        speakers: [
+                     "Ian Crosby"
+                  ],
+           video: "https://youtube.com/watch?v=j9h66mchXi0",
+       thumbnail: "http://img.youtube.com/vi/j9h66mchXi0/0.jpg",
+        duration: 2749,
+            tags: [
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "English"
@@ -28359,6 +34072,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2830,
+      identifier: "GOTOpia-2021-19",
+         meeting: "GOTOpia",
+         edition: "2021",
+           title: "Leadership During Chaos",
+        speakers: [
+                     "Ranganathan Balashanmugam"
+                  ],
+           video: "https://youtube.com/watch?v=WQHxLI5xrmM",
+       thumbnail: "http://img.youtube.com/vi/WQHxLI5xrmM/0.jpg",
+        duration: 2131,
+            tags: [
+                     "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 990,
       identifier: "CppCon-2016-6",
          meeting: "CppCon",
@@ -28520,6 +34252,44 @@ const talks = [
         language: "English"
    },
    {
+          number: 2534,
+      identifier: "GOTO Chicago-2018-35",
+         meeting: "GOTO Chicago",
+         edition: "2018",
+           title: "Learning to Live with Errors",
+        speakers: [
+                     "Tomas Petricek"
+                  ],
+           video: "https://youtube.com/watch?v=xXy_8NoFiD8",
+       thumbnail: "http://img.youtube.com/vi/xXy_8NoFiD8/0.jpg",
+        duration: 2565,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2536,
+      identifier: "GOTO Chicago-2018-37",
+         meeting: "GOTO Chicago",
+         edition: "2018",
+           title: "Learning to Love your Non-functionals",
+        speakers: [
+                     "Russ Miles"
+                  ],
+           video: "https://youtube.com/watch?v=T7eG7UAMztA",
+       thumbnail: "http://img.youtube.com/vi/T7eG7UAMztA/0.jpg",
+        duration: 3394,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1724,
       identifier: "accu-2016-16",
          meeting: "accu",
@@ -28533,6 +34303,25 @@ const talks = [
         duration: 3259,
             tags: [
                      "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2537,
+      identifier: "GOTO Chicago-2018-38",
+         meeting: "GOTO Chicago",
+         edition: "2018",
+           title: "Legacy Evolution - The Innovation Opportunity!",
+        speakers: [
+                     "Dave Thomas"
+                  ],
+           video: "https://youtube.com/watch?v=TEQIXniuG84",
+       thumbnail: "http://img.youtube.com/vi/TEQIXniuG84/0.jpg",
+        duration: 2414,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -28572,7 +34361,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/OvCs7IX3TGY/0.jpg",
         duration: 1979,
             tags: [
-                     "c++",
                      "embedded",
                      "online",
                      "talk"
@@ -28701,6 +34489,64 @@ const talks = [
         language: "English"
    },
    {
+          number: 2809,
+      identifier: "GOTOpia-2020-59",
+         meeting: "GOTOpia",
+         edition: "2020",
+           title: "Lessons Learned: Recruiting & Onboarding Agile Teams",
+        speakers: [
+                     "Christian E. Bruun",
+                     "Ender Yuksel"
+                  ],
+           video: "https://youtube.com/watch?v=sLDm8_gkjng",
+       thumbnail: "http://img.youtube.com/vi/sLDm8_gkjng/0.jpg",
+        duration: 1662,
+            tags: [
+                     "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2364,
+      identifier: "GOTO Amsterdam-2018-32",
+         meeting: "GOTO Amsterdam",
+         edition: "2018",
+           title: "Let's All just Agree: Achieving Consensus in Blockchain-based Systems",
+        speakers: [
+                     "Stefan Tilkov"
+                  ],
+           video: "https://youtube.com/watch?v=lgHh4de_6ZI",
+       thumbnail: "http://img.youtube.com/vi/lgHh4de_6ZI/0.jpg",
+        duration: 3162,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2659,
+      identifier: "GOTO Copenhagen-2018-10",
+         meeting: "GOTO Copenhagen",
+         edition: "2018",
+           title: "Let's Get Lazy: Exploring the Real Power of Streams",
+        speakers: [
+                     "Venkat Subramaniam"
+                  ],
+           video: "https://youtube.com/watch?v=bSbCJUSaSkY",
+       thumbnail: "http://img.youtube.com/vi/bSbCJUSaSkY/0.jpg",
+        duration: 2796,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1947,
       identifier: "C++ Day-2020-2",
          meeting: "C++ Day",
@@ -28741,6 +34587,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2817,
+      identifier: "GOTOpia-2021-6",
+         meeting: "GOTOpia",
+         edition: "2021",
+           title: "Let's Make It Easy",
+        speakers: [
+                     "Woody Zuill"
+                  ],
+           video: "https://youtube.com/watch?v=Jtt7PAejrFA",
+       thumbnail: "http://img.youtube.com/vi/Jtt7PAejrFA/0.jpg",
+        duration: 2202,
+            tags: [
+                     "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 770,
       identifier: "Meeting C++-2020-12",
          meeting: "Meeting C++",
@@ -28774,6 +34639,25 @@ const talks = [
         duration: 3004,
             tags: [
                      "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2627,
+      identifier: "GOTO Chicago-2020-28",
+         meeting: "GOTO Chicago",
+         edition: "2020",
+           title: "Leveraging Serverless in Full-stack Development",
+        speakers: [
+                     "Eric Johnson"
+                  ],
+           video: "https://youtube.com/watch?v=SsmQwmAPMYk",
+       thumbnail: "http://img.youtube.com/vi/SsmQwmAPMYk/0.jpg",
+        duration: 1470,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -28836,6 +34720,82 @@ const talks = [
             tags: [
                      "c++",
                      "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2702,
+      identifier: "GOTO Copenhagen-2019-11",
+         meeting: "GOTO Copenhagen",
+         edition: "2019",
+           title: "Lies, Damned Lies, and Metrics",
+        speakers: [
+                     "Roy Osherove"
+                  ],
+           video: "https://youtube.com/watch?v=goihWvyqRow",
+       thumbnail: "http://img.youtube.com/vi/goihWvyqRow/0.jpg",
+        duration: 2783,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2749,
+      identifier: "GOTO Oslo-2018-10",
+         meeting: "GOTO Oslo",
+         edition: "2018",
+           title: "Life After Business Objects - Confessions of an OOP Veteran",
+        speakers: [
+                     "Vagif Abilov"
+                  ],
+           video: "https://youtube.com/watch?v=i-2qu7st7hE",
+       thumbnail: "http://img.youtube.com/vi/i-2qu7st7hE/0.jpg",
+        duration: 2125,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2803,
+      identifier: "GOTOpia-2020-53",
+         meeting: "GOTOpia",
+         edition: "2020",
+           title: "Life After Business Objects - Confessions of an OOP Veteran",
+        speakers: [
+                     "Vagif Abilov"
+                  ],
+           video: "https://youtube.com/watch?v=UBUYwpDl3-g",
+       thumbnail: "http://img.youtube.com/vi/UBUYwpDl3-g/0.jpg",
+        duration: 2067,
+            tags: [
+                     "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2376,
+      identifier: "GOTO Amsterdam-2019-3",
+         meeting: "GOTO Amsterdam",
+         edition: "2019",
+           title: "Life After Java 8",
+        speakers: [
+                     "Trisha Gee"
+                  ],
+           video: "https://youtube.com/watch?v=eBuFzQeiGe0",
+       thumbnail: "http://img.youtube.com/vi/eBuFzQeiGe0/0.jpg",
+        duration: 2806,
+            tags: [
+                     "live",
                      "talk"
                   ],
            level: 0,
@@ -28983,6 +34943,26 @@ const talks = [
         language: "English"
    },
    {
+          number: 2318,
+      identifier: "Going Native-2012-4",
+         meeting: "Going Native",
+         edition: "2012",
+           title: "LINQ for C/C++, Native Rx, Meet Aaron Lahman",
+        speakers: [
+                     
+                  ],
+           video: "https://youtube.com/watch?v=WaeQtH1wFfE",
+       thumbnail: "http://img.youtube.com/vi/WaeQtH1wFfE/0.jpg",
+        duration: 2438,
+            tags: [
+                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 2217,
       identifier: "Live Embedded Event-2021-13",
          meeting: "Live Embedded Event",
@@ -28995,7 +34975,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/-sb8q4pOCPM/0.jpg",
         duration: 2354,
             tags: [
-                     "c++",
                      "embedded",
                      "online",
                      "talk"
@@ -29036,7 +35015,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/z_QOOCHMBpo/0.jpg",
         duration: 326,
             tags: [
-                     "c++",
                      "lightning",
                      "online"
                   ],
@@ -29078,6 +35056,63 @@ const talks = [
             tags: [
                      "c++",
                      "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2774,
+      identifier: "GOTOpia-2020-21",
+         meeting: "GOTOpia",
+         edition: "2020",
+           title: "Live Hacking Session Part 1",
+        speakers: [
+                     "Scott Helme"
+                  ],
+           video: "https://youtube.com/watch?v=zvCXUozuI2A",
+       thumbnail: "http://img.youtube.com/vi/zvCXUozuI2A/0.jpg",
+        duration: 1155,
+            tags: [
+                     "lightning",
+                     "online"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2785,
+      identifier: "GOTOpia-2020-32",
+         meeting: "GOTOpia",
+         edition: "2020",
+           title: "Live Hacking Session Part 2",
+        speakers: [
+                     "Scott Helme"
+                  ],
+           video: "https://youtube.com/watch?v=8PlCfYflz_A",
+       thumbnail: "http://img.youtube.com/vi/8PlCfYflz_A/0.jpg",
+        duration: 1309,
+            tags: [
+                     "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2719,
+      identifier: "GOTO Copenhagen-2019-28",
+         meeting: "GOTO Copenhagen",
+         edition: "2019",
+           title: "Live Kubernetes Debugging with the Elastic Stack",
+        speakers: [
+                     "Philipp Krenn"
+                  ],
+           video: "https://youtube.com/watch?v=LvhIMkr0rXg",
+       thumbnail: "http://img.youtube.com/vi/LvhIMkr0rXg/0.jpg",
+        duration: 2641,
+            tags: [
+                     "live",
                      "talk"
                   ],
            level: 0,
@@ -29176,7 +35211,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/xUtndRUJHX8/0.jpg",
         duration: 5734,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -29276,7 +35310,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/d1DpVR0tw0U/0.jpg",
         duration: 6083,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -29444,6 +35477,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2802,
+      identifier: "GOTOpia-2020-52",
+         meeting: "GOTOpia",
+         edition: "2020",
+           title: "Log Analytics: Understanding Complex Systems at Scale",
+        speakers: [
+                     "Kresten Krab Thorup"
+                  ],
+           video: "https://youtube.com/watch?v=SK_cTsLrAMA",
+       thumbnail: "http://img.youtube.com/vi/SK_cTsLrAMA/0.jpg",
+        duration: 2298,
+            tags: [
+                     "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 9,
       identifier: "BoostCon-2010-9",
          meeting: "BoostCon",
@@ -29477,6 +35529,44 @@ const talks = [
         duration: 3691,
             tags: [
                      "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2833,
+      identifier: "GOTOpia-2021-22",
+         meeting: "GOTOpia",
+         edition: "2021",
+           title: "Looking Back to Look Forward",
+        speakers: [
+                     "Adrian Hornsby"
+                  ],
+           video: "https://youtube.com/watch?v=OHWKr4USyGg",
+       thumbnail: "http://img.youtube.com/vi/OHWKr4USyGg/0.jpg",
+        duration: 1311,
+            tags: [
+                     "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2494,
+      identifier: "GOTO Berlin-2019-34",
+         meeting: "GOTO Berlin",
+         edition: "2019",
+           title: "Love Letter to the Computer",
+        speakers: [
+                     "Linda Liukas"
+                  ],
+           video: "https://youtube.com/watch?v=5WDfwem1uTI",
+       thumbnail: "http://img.youtube.com/vi/5WDfwem1uTI/0.jpg",
+        duration: 2401,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -29576,7 +35666,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/MHIBxUoCzNw/0.jpg",
         duration: 1165,
             tags: [
-                     "c++",
                      "lightning",
                      "live"
                   ],
@@ -29624,6 +35713,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2409,
+      identifier: "GOTO Amsterdam-2019-36",
+         meeting: "GOTO Amsterdam",
+         edition: "2019",
+           title: "Machine Ethics",
+        speakers: [
+                     "Nell Watson"
+                  ],
+           video: "https://youtube.com/watch?v=o8I0M5vjdyE",
+       thumbnail: "http://img.youtube.com/vi/o8I0M5vjdyE/0.jpg",
+        duration: 2826,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1494,
       identifier: "code::dive-2015-1",
          meeting: "code::dive",
@@ -29636,7 +35744,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/IC2CGQ20Ds8/0.jpg",
         duration: 4330,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -29656,7 +35763,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/0ga4aFuistg/0.jpg",
         duration: 3545,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -29676,7 +35782,25 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/_Rrca5D0bI0/0.jpg",
         duration: 3198,
             tags: [
-                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2670,
+      identifier: "GOTO Copenhagen-2018-21",
+         meeting: "GOTO Copenhagen",
+         edition: "2018",
+           title: "Machine Learning on Source Code",
+        speakers: [
+                     "Francesc Campoy"
+                  ],
+           video: "https://youtube.com/watch?v=-lMVH3DtMFQ",
+       thumbnail: "http://img.youtube.com/vi/-lMVH3DtMFQ/0.jpg",
+        duration: 2851,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -29696,9 +35820,27 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/yAUBhohV9yc/0.jpg",
         duration: 884,
             tags: [
-                     "c++",
                      "lightning",
                      "live"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2664,
+      identifier: "GOTO Copenhagen-2018-15",
+         meeting: "GOTO Copenhagen",
+         edition: "2018",
+           title: "Machine Learning: Alchemy for the Modern Computer Scientist",
+        speakers: [
+                     "Erik Meijer"
+                  ],
+           video: "https://youtube.com/watch?v=Rs0uRQJdIcg",
+       thumbnail: "http://img.youtube.com/vi/Rs0uRQJdIcg/0.jpg",
+        duration: 2700,
+            tags: [
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "English"
@@ -29719,6 +35861,26 @@ const talks = [
                      "c++",
                      "lightning",
                      "online"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2330,
+      identifier: "Going Native-2012-16",
+         meeting: "Going Native",
+         edition: "2012",
+           title: "Magic & secrets",
+        speakers: [
+                     
+                  ],
+           video: "https://youtube.com/watch?v=_GWjbRpMHn0",
+       thumbnail: "http://img.youtube.com/vi/_GWjbRpMHn0/0.jpg",
+        duration: 3547,
+            tags: [
+                     "c++",
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "English"
@@ -29816,7 +35978,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/x0FQkAPokfE/0.jpg",
         duration: 4527,
             tags: [
-                     "c++",
                      "online",
                      "talk"
                   ],
@@ -29945,6 +36106,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2837,
+      identifier: "GOTOpia-2021-26",
+         meeting: "GOTOpia",
+         edition: "2021",
+           title: "Making Chaos Engineering Boring: Debunking Myths Hampering Adoption",
+        speakers: [
+                     "Miko Pawlikowski"
+                  ],
+           video: "https://youtube.com/watch?v=Pj42pryYv9A",
+       thumbnail: "http://img.youtube.com/vi/Pj42pryYv9A/0.jpg",
+        duration: 1382,
+            tags: [
+                     "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1675,
       identifier: "code::dive-2019-22",
          meeting: "code::dive",
@@ -29957,7 +36137,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/S2dK5lLFD_0/0.jpg",
         duration: 3173,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -29985,6 +36164,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2512,
+      identifier: "GOTO Chicago-2018-13",
+         meeting: "GOTO Chicago",
+         edition: "2018",
+           title: "Making It Count: Quality is NOT an Option",
+        speakers: [
+                     "Todd Montgomery"
+                  ],
+           video: "https://youtube.com/watch?v=LTZdmb5-8n8",
+       thumbnail: "http://img.youtube.com/vi/LTZdmb5-8n8/0.jpg",
+        duration: 2628,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1392,
       identifier: "CppCon-2020-12",
          meeting: "CppCon",
@@ -29999,6 +36197,44 @@ const talks = [
             tags: [
                      "c++",
                      "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2422,
+      identifier: "GOTO Berlin-2018-9",
+         meeting: "GOTO Berlin",
+         edition: "2018",
+           title: "Making Microservices Micro with Istio and Kubernetes",
+        speakers: [
+                     "Ray Tsang"
+                  ],
+           video: "https://youtube.com/watch?v=goLDtMKrzwE",
+       thumbnail: "http://img.youtube.com/vi/goLDtMKrzwE/0.jpg",
+        duration: 3004,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2729,
+      identifier: "GOTO Copenhagen-2019-38",
+         meeting: "GOTO Copenhagen",
+         edition: "2019",
+           title: "Making Mutants Work for You",
+        speakers: [
+                     "Henry Coles"
+                  ],
+           video: "https://youtube.com/watch?v=LoFJajoJQ2g",
+       thumbnail: "http://img.youtube.com/vi/LoFJajoJQ2g/0.jpg",
+        duration: 2444,
+            tags: [
+                     "live",
                      "talk"
                   ],
            level: 0,
@@ -30037,7 +36273,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/mFO7vALe9bg/0.jpg",
         duration: 2203,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -30137,7 +36372,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/FuYA0v8g5q0/0.jpg",
         duration: 1659,
             tags: [
-                     "c++",
                      "embedded",
                      "live",
                      "talk"
@@ -30158,7 +36392,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/lFBW2qBAcaU/0.jpg",
         duration: 3640,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -30208,6 +36441,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2377,
+      identifier: "GOTO Amsterdam-2019-4",
+         meeting: "GOTO Amsterdam",
+         edition: "2019",
+           title: "Mastering the Linux Command Line",
+        speakers: [
+                     "Bert Jan Schrijver"
+                  ],
+           video: "https://youtube.com/watch?v=qmh7Uppd3x0",
+       thumbnail: "http://img.youtube.com/vi/qmh7Uppd3x0/0.jpg",
+        duration: 2750,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 397,
       identifier: "C++Now-2019-45",
          meeting: "C++Now",
@@ -30223,6 +36475,25 @@ const talks = [
                      "c++",
                      "live",
                      "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2620,
+      identifier: "GOTO Chicago-2020-21",
+         meeting: "GOTO Chicago",
+         edition: "2020",
+           title: "Maximizing Java Application Performance with GraalVM",
+        speakers: [
+                     "Oleg Selajev"
+                  ],
+           video: "https://youtube.com/watch?v=PeMvksAZbdw",
+       thumbnail: "http://img.youtube.com/vi/PeMvksAZbdw/0.jpg",
+        duration: 1185,
+            tags: [
+                     "lightning",
+                     "live"
                   ],
            level: 0,
         language: "English"
@@ -30282,6 +36553,44 @@ const talks = [
             tags: [
                      "c++",
                      "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2622,
+      identifier: "GOTO Chicago-2020-23",
+         meeting: "GOTO Chicago",
+         edition: "2020",
+           title: "Memory Efficient Java",
+        speakers: [
+                     "Kirk Pepperdine"
+                  ],
+           video: "https://youtube.com/watch?v=sE_dv7piOZg",
+       thumbnail: "http://img.youtube.com/vi/sE_dv7piOZg/0.jpg",
+        duration: 1253,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2764,
+      identifier: "GOTOpia-2020-11",
+         meeting: "GOTOpia",
+         edition: "2020",
+           title: "Memory Efficient Java",
+        speakers: [
+                     "Kirk Pepperdine"
+                  ],
+           video: "https://youtube.com/watch?v=kQEu1VsrG44",
+       thumbnail: "http://img.youtube.com/vi/kQEu1VsrG44/0.jpg",
+        duration: 2287,
+            tags: [
+                     "online",
                      "talk"
                   ],
            level: 0,
@@ -30510,6 +36819,26 @@ const talks = [
         language: "English"
    },
    {
+          number: 2257,
+      identifier: "MUC++--1",
+         meeting: "MUC++",
+         edition: "",
+           title: "Metaprogramming in C++",
+        speakers: [
+                     "Andrew Sutton"
+                  ],
+           video: "https://youtube.com/watch?v=reYByJIEcIo",
+       thumbnail: "http://img.youtube.com/vi/reYByJIEcIo/0.jpg",
+        duration: 5350,
+            tags: [
+                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1745,
       identifier: "accu-2017-1",
          meeting: "accu",
@@ -30582,10 +36911,68 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/4OokA0M2OE0/0.jpg",
         duration: 2478,
             tags: [
-                     "c++",
                      "embedded",
                      "online",
                      "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2351,
+      identifier: "GOTO Amsterdam-2018-19",
+         meeting: "GOTO Amsterdam",
+         edition: "2018",
+           title: "Microservice API Management, Discovery Documentation and all that Jazz",
+        speakers: [
+                     "Graham Brooks"
+                  ],
+           video: "https://youtube.com/watch?v=kNX03QlC5UI",
+       thumbnail: "http://img.youtube.com/vi/kNX03QlC5UI/0.jpg",
+        duration: 3035,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2355,
+      identifier: "GOTO Amsterdam-2018-23",
+         meeting: "GOTO Amsterdam",
+         edition: "2018",
+           title: "Microservice Message Routing on Kubernetes",
+        speakers: [
+                     "Frans van Buul"
+                  ],
+           video: "https://youtube.com/watch?v=hxLAWhPrCqE",
+       thumbnail: "http://img.youtube.com/vi/hxLAWhPrCqE/0.jpg",
+        duration: 2900,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2637,
+      identifier: "GOTO Chicago-2020-38",
+         meeting: "GOTO Chicago",
+         edition: "2020",
+           title: "Microservices Out In the Wild",
+        speakers: [
+                     "Derek Ferguson",
+                     "Matt Jones",
+                     "Rashid Mohammad"
+                  ],
+           video: "https://youtube.com/watch?v=NYMdSexdUP0",
+       thumbnail: "http://img.youtube.com/vi/NYMdSexdUP0/0.jpg",
+        duration: 1082,
+            tags: [
+                     "lightning",
+                     "live"
                   ],
            level: 0,
         language: "English"
@@ -30671,6 +37058,44 @@ const talks = [
         language: "English"
    },
    {
+          number: 2389,
+      identifier: "GOTO Amsterdam-2019-16",
+         meeting: "GOTO Amsterdam",
+         edition: "2019",
+           title: "Millisecond Full Stack Acceptance Tests",
+        speakers: [
+                     "Aslak Hellesøy"
+                  ],
+           video: "https://youtube.com/watch?v=sUclXYMDI94",
+       thumbnail: "http://img.youtube.com/vi/sUclXYMDI94/0.jpg",
+        duration: 2491,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2434,
+      identifier: "GOTO Berlin-2018-21",
+         meeting: "GOTO Berlin",
+         edition: "2018",
+           title: "Mind as Code - Mindfulness for Developers and Knowledge Workers",
+        speakers: [
+                     "Markus Wittwer"
+                  ],
+           video: "https://youtube.com/watch?v=5UgpoaM5670",
+       thumbnail: "http://img.youtube.com/vi/5UgpoaM5670/0.jpg",
+        duration: 2915,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 2194,
       identifier: "Live Embedded Event-2020-25",
          meeting: "Live Embedded Event",
@@ -30683,7 +37108,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/sUxdABhobSU/0.jpg",
         duration: 3420,
             tags: [
-                     "c++",
                      "embedded",
                      "online",
                      "talk"
@@ -30704,7 +37128,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/iRILTuGbyEg/0.jpg",
         duration: 807,
             tags: [
-                     "c++",
                      "lightning",
                      "live"
                   ],
@@ -30724,7 +37147,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/MYLu80dZqJ8/0.jpg",
         duration: 3028,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -30745,6 +37167,25 @@ const talks = [
         duration: 3080,
             tags: [
                      "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2477,
+      identifier: "GOTO Berlin-2019-17",
+         meeting: "GOTO Berlin",
+         edition: "2019",
+           title: "Mob Programming and the Power of Flow",
+        speakers: [
+                     "Woody Zuill"
+                  ],
+           video: "https://youtube.com/watch?v=28S4CVkYhWA",
+       thumbnail: "http://img.youtube.com/vi/28S4CVkYhWA/0.jpg",
+        duration: 2363,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -30784,7 +37225,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/VysgSYGix6I/0.jpg",
         duration: 4850,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -30864,7 +37304,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/SmevUyVendA/0.jpg",
         duration: 4686,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -30884,7 +37323,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/0HxGS_gdCr4/0.jpg",
         duration: 2907,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -31173,6 +37611,63 @@ const talks = [
         language: "English"
    },
    {
+          number: 2378,
+      identifier: "GOTO Amsterdam-2019-5",
+         meeting: "GOTO Amsterdam",
+         edition: "2019",
+           title: "Modern Continuous Delivery",
+        speakers: [
+                     "Ken Mugrage"
+                  ],
+           video: "https://youtube.com/watch?v=w008iz_UwDk",
+       thumbnail: "http://img.youtube.com/vi/w008iz_UwDk/0.jpg",
+        duration: 2214,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2467,
+      identifier: "GOTO Berlin-2019-7",
+         meeting: "GOTO Berlin",
+         edition: "2019",
+           title: "Modern Continuous Delivery",
+        speakers: [
+                     "Ken Mugrage"
+                  ],
+           video: "https://youtube.com/watch?v=wjF4X9t3FMk",
+       thumbnail: "http://img.youtube.com/vi/wjF4X9t3FMk/0.jpg",
+        duration: 2190,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2606,
+      identifier: "GOTO Chicago-2020-7",
+         meeting: "GOTO Chicago",
+         edition: "2020",
+           title: "Modern Continuous Delivery",
+        speakers: [
+                     "Ken Mugrage"
+                  ],
+           video: "https://youtube.com/watch?v=lBi85lNmKFw",
+       thumbnail: "http://img.youtube.com/vi/lBi85lNmKFw/0.jpg",
+        duration: 1142,
+            tags: [
+                     "lightning",
+                     "live"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 2106,
       identifier: "Core C++-2021-20",
          meeting: "Core C++",
@@ -31205,7 +37700,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/yr3Aeb2zW8c/0.jpg",
         duration: 4450,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -31305,7 +37799,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/Zqpr6aOAmlI/0.jpg",
         duration: 3394,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -31433,6 +37926,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2417,
+      identifier: "GOTO Berlin-2018-4",
+         meeting: "GOTO Berlin",
+         edition: "2018",
+           title: "Modular Monoliths",
+        speakers: [
+                     "Simon Brown"
+                  ],
+           video: "https://youtube.com/watch?v=5OjqD-ow8GE",
+       thumbnail: "http://img.youtube.com/vi/5OjqD-ow8GE/0.jpg",
+        duration: 2792,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 732,
       identifier: "Meeting C++-2019-28",
          meeting: "Meeting C++",
@@ -31545,7 +38057,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/XVofgKH-uu4/0.jpg",
         duration: 5674,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -31565,7 +38076,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/O6NJgcK6K7g/0.jpg",
         duration: 4528,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -31613,6 +38123,45 @@ const talks = [
         language: "English"
    },
    {
+          number: 2464,
+      identifier: "GOTO Berlin-2019-4",
+         meeting: "GOTO Berlin",
+         edition: "2019",
+           title: "Monolith Decomposition Patterns",
+        speakers: [
+                     "Sam Newman"
+                  ],
+           video: "https://youtube.com/watch?v=9I9GdSQ1bbM",
+       thumbnail: "http://img.youtube.com/vi/9I9GdSQ1bbM/0.jpg",
+        duration: 2637,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2750,
+      identifier: "GOTO Oslo-2018-11",
+         meeting: "GOTO Oslo",
+         edition: "2018",
+           title: "Monolith to Microservices",
+        speakers: [
+                     "Sam Newman",
+                     "Sven Johann"
+                  ],
+           video: "https://youtube.com/watch?v=DFt6zTQKD08",
+       thumbnail: "http://img.youtube.com/vi/DFt6zTQKD08/0.jpg",
+        duration: 2541,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1841,
       identifier: "accu-2018-57",
          meeting: "accu",
@@ -31625,7 +38174,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/FVEmhWJQYwk/0.jpg",
         duration: 5324,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -31645,7 +38193,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/BmjqAhRtvHI/0.jpg",
         duration: 5022,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -31665,7 +38212,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/Yq6g_kvyvPU/0.jpg",
         duration: 5358,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -31693,6 +38239,26 @@ const talks = [
         language: "English"
    },
    {
+          number: 1347,
+      identifier: "CppCon-2019-67",
+         meeting: "CppCon",
+         edition: "2019",
+           title: "Mostly Invalid: flat_map, Exception Guarantees, and the STL",
+        speakers: [
+                     "Arthur O'Dwyer"
+                  ],
+           video: "https://youtube.com/watch?v=b9ZYM0d6htg",
+       thumbnail: "http://img.youtube.com/vi/b9ZYM0d6htg/0.jpg",
+        duration: 4380,
+            tags: [
+                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1505,
       identifier: "code::dive-2015-12",
          meeting: "code::dive",
@@ -31705,7 +38271,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/hTvHea56t4s/0.jpg",
         duration: 1240,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -31748,6 +38313,44 @@ const talks = [
                      "c++",
                      "live",
                      "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2479,
+      identifier: "GOTO Berlin-2019-19",
+         meeting: "GOTO Berlin",
+         edition: "2019",
+           title: "Moving Fast At Scale",
+        speakers: [
+                     "Randy Shoup"
+                  ],
+           video: "https://youtube.com/watch?v=suOjtOFfyZg",
+       thumbnail: "http://img.youtube.com/vi/suOjtOFfyZg/0.jpg",
+        duration: 2306,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2619,
+      identifier: "GOTO Chicago-2020-20",
+         meeting: "GOTO Chicago",
+         edition: "2020",
+           title: "Moving Fast at Scale",
+        speakers: [
+                     "Randy Shoup"
+                  ],
+           video: "https://youtube.com/watch?v=R3rXXY6WZ50",
+       thumbnail: "http://img.youtube.com/vi/R3rXXY6WZ50/0.jpg",
+        duration: 1092,
+            tags: [
+                     "lightning",
+                     "live"
                   ],
            level: 0,
         language: "English"
@@ -32085,7 +38688,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/oLtiMC227os/0.jpg",
         duration: 950,
             tags: [
-                     "c++",
                      "lightning",
                      "live"
                   ],
@@ -32147,6 +38749,26 @@ const talks = [
             tags: [
                      "c++",
                      "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2263,
+      identifier: "MUC++--7",
+         meeting: "MUC++",
+         edition: "",
+           title: "My Least Favorite Anti-Pattern",
+        speakers: [
+                     "Conor Hoekstra"
+                  ],
+           video: "https://youtube.com/watch?v=VV9vwFsaQ6U",
+       thumbnail: "http://img.youtube.com/vi/VV9vwFsaQ6U/0.jpg",
+        duration: 4718,
+            tags: [
+                     "c++",
+                     "live",
                      "talk"
                   ],
            level: 0,
@@ -32345,7 +38967,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/AClzFA1loww/0.jpg",
         duration: 4710,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -32425,7 +39046,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/mRDgvSUjxhg/0.jpg",
         duration: 3840,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -32533,6 +39153,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2602,
+      identifier: "GOTO Chicago-2020-3",
+         meeting: "GOTO Chicago",
+         edition: "2020",
+           title: "Next-Generation Programming: Rust & Elm",
+        speakers: [
+                     "Richard Feldman"
+                  ],
+           video: "https://youtube.com/watch?v=ukVqQGbxM9A",
+       thumbnail: "http://img.youtube.com/vi/ukVqQGbxM9A/0.jpg",
+        duration: 1649,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1911,
       identifier: "accu-2019-77",
          meeting: "accu",
@@ -32545,7 +39184,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/7WgCt0Wooeo/0.jpg",
         duration: 3558,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -32565,7 +39203,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/nr5SnI4zZqU/0.jpg",
         duration: 2554,
             tags: [
-                     "c++",
                      "embedded",
                      "online",
                      "talk"
@@ -32606,7 +39243,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/ey4MTtirDxQ/0.jpg",
         duration: 1556,
             tags: [
-                     "c++",
                      "embedded",
                      "online",
                      "talk"
@@ -32630,6 +39266,25 @@ const talks = [
                      "c++",
                      "live",
                      "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2623,
+      identifier: "GOTO Chicago-2020-24",
+         meeting: "GOTO Chicago",
+         edition: "2020",
+           title: "No Return: Beyond Transactions in Code and Life",
+        speakers: [
+                     "Avdi Grimm"
+                  ],
+           video: "https://youtube.com/watch?v=R9FwIYAM1ao",
+       thumbnail: "http://img.youtube.com/vi/R9FwIYAM1ao/0.jpg",
+        duration: 1140,
+            tags: [
+                     "lightning",
+                     "live"
                   ],
            level: 0,
         language: "English"
@@ -32707,7 +39362,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/dVRLp-Rwg0k/0.jpg",
         duration: 352,
             tags: [
-                     "c++",
                      "lightning",
                      "online"
                   ],
@@ -32775,6 +39429,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2543,
+      identifier: "GOTO Chicago-2019-2",
+         meeting: "GOTO Chicago",
+         edition: "2019",
+           title: "Not Just Events: Developing Asynchronous Microservices",
+        speakers: [
+                     "Chris Richardson"
+                  ],
+           video: "https://youtube.com/watch?v=kyNL7yCvQQc",
+       thumbnail: "http://img.youtube.com/vi/kyNL7yCvQQc/0.jpg",
+        duration: 3037,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1450,
       identifier: "CppCon-2020-70",
          meeting: "CppCon",
@@ -32807,7 +39480,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/-dc5vqt2tgA/0.jpg",
         duration: 4369,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -32835,6 +39507,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2703,
+      identifier: "GOTO Copenhagen-2019-12",
+         meeting: "GOTO Copenhagen",
+         edition: "2019",
+           title: "Nullable Reference Types in C# 8",
+        speakers: [
+                     "Jon Skeet"
+                  ],
+           video: "https://youtube.com/watch?v=1tpyAQZFlZY",
+       thumbnail: "http://img.youtube.com/vi/1tpyAQZFlZY/0.jpg",
+        duration: 3040,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1570,
       identifier: "code::dive-2017-16",
          meeting: "code::dive",
@@ -32847,7 +39538,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/oYFU0gkAYdc/0.jpg",
         duration: 3132,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -32890,6 +39580,44 @@ const talks = [
                      "c++",
                      "keynote",
                      "live"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2612,
+      identifier: "GOTO Chicago-2020-13",
+         meeting: "GOTO Chicago",
+         edition: "2020",
+           title: "OAuth and OpenID Connect in Plain English",
+        speakers: [
+                     "Nate Barbettini"
+                  ],
+           video: "https://youtube.com/watch?v=sSy5-3IkXHE",
+       thumbnail: "http://img.youtube.com/vi/sSy5-3IkXHE/0.jpg",
+        duration: 1124,
+            tags: [
+                     "lightning",
+                     "live"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2707,
+      identifier: "GOTO Copenhagen-2019-16",
+         meeting: "GOTO Copenhagen",
+         edition: "2019",
+           title: "OAuth Tokens As Your Identity API",
+        speakers: [
+                     "Jacob Ideskog"
+                  ],
+           video: "https://youtube.com/watch?v=-fYv1dUrfT8",
+       thumbnail: "http://img.youtube.com/vi/-fYv1dUrfT8/0.jpg",
+        duration: 2864,
+            tags: [
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "English"
@@ -33055,6 +39783,44 @@ const talks = [
         language: "English"
    },
    {
+          number: 2600,
+      identifier: "GOTO Chicago-2020-1",
+         meeting: "GOTO Chicago",
+         edition: "2020",
+           title: "Observability for Data Pipelines: Monitoring, Alerting & Tracing Lineage",
+        speakers: [
+                     "Jiaqi Liu"
+                  ],
+           video: "https://youtube.com/watch?v=JcBfnaojcsI",
+       thumbnail: "http://img.youtube.com/vi/JcBfnaojcsI/0.jpg",
+        duration: 1167,
+            tags: [
+                     "lightning",
+                     "live"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2550,
+      identifier: "GOTO Chicago-2019-9",
+         meeting: "GOTO Chicago",
+         edition: "2019",
+           title: "Observability, Distributed Tracing & the Complex World",
+        speakers: [
+                     "Dave McAllister"
+                  ],
+           video: "https://youtube.com/watch?v=2nTJSsBngao",
+       thumbnail: "http://img.youtube.com/vi/2nTJSsBngao/0.jpg",
+        duration: 2246,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 150,
       identifier: "C++Now-2014-20",
          meeting: "C++Now",
@@ -33168,7 +39934,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/SzoquBerhUc/0.jpg",
         duration: 3094,
             tags: [
-                     "c++",
                      "keynote",
                      "online"
                   ],
@@ -33191,6 +39956,25 @@ const talks = [
                      "c++",
                      "keynote",
                      "live"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2501,
+      identifier: "GOTO Chicago-2018-2",
+         meeting: "GOTO Chicago",
+         edition: "2018",
+           title: "Old Is the New New",
+        speakers: [
+                     "Kevlin Henney"
+                  ],
+           video: "https://youtube.com/watch?v=AbgsfeGvg3E",
+       thumbnail: "http://img.youtube.com/vi/AbgsfeGvg3E/0.jpg",
+        duration: 3023,
+            tags: [
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "English"
@@ -33248,9 +40032,46 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/Oeu7i5DjFK4/0.jpg",
         duration: 1764,
             tags: [
-                     "c++",
                      "embedded",
                      "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2546,
+      identifier: "GOTO Chicago-2019-5",
+         meeting: "GOTO Chicago",
+         edition: "2019",
+           title: "On the Road to Artificial General Intelligence",
+        speakers: [
+                     "Danny Lange"
+                  ],
+           video: "https://youtube.com/watch?v=BByWWTdNI0Y",
+       thumbnail: "http://img.youtube.com/vi/BByWWTdNI0Y/0.jpg",
+        duration: 2140,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2655,
+      identifier: "GOTO Copenhagen-2018-6",
+         meeting: "GOTO Copenhagen",
+         edition: "2018",
+           title: "On the Road to Artificial General Intelligence",
+        speakers: [
+                     "Danny Lange"
+                  ],
+           video: "https://youtube.com/watch?v=sRyZ-XwmgnE",
+       thumbnail: "http://img.youtube.com/vi/sRyZ-XwmgnE/0.jpg",
+        duration: 2974,
+            tags: [
+                     "live",
                      "talk"
                   ],
            level: 0,
@@ -33349,7 +40170,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/ZXFSDRmM9mI/0.jpg",
         duration: 2737,
             tags: [
-                     "c++",
                      "embedded",
                      "online",
                      "talk"
@@ -33390,7 +40210,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/72Iq0uoWRy4/0.jpg",
         duration: 2671,
             tags: [
-                     "c++",
                      "embedded",
                      "online",
                      "talk"
@@ -33579,6 +40398,44 @@ const talks = [
         language: "English"
    },
    {
+          number: 2430,
+      identifier: "GOTO Berlin-2018-17",
+         meeting: "GOTO Berlin",
+         edition: "2018",
+           title: "Optimizing Kubernetes Deployments with Helm",
+        speakers: [
+                     "Erwin de Gier"
+                  ],
+           video: "https://youtube.com/watch?v=9U4WfslZ1R0",
+       thumbnail: "http://img.youtube.com/vi/9U4WfslZ1R0/0.jpg",
+        duration: 2084,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2363,
+      identifier: "GOTO Amsterdam-2018-31",
+         meeting: "GOTO Amsterdam",
+         edition: "2018",
+           title: "Optimizing Performance of Stateful Apps for Globally Distributed Users",
+        speakers: [
+                     "Ben Darnell"
+                  ],
+           video: "https://youtube.com/watch?v=WgGCkGSUUOM",
+       thumbnail: "http://img.youtube.com/vi/WgGCkGSUUOM/0.jpg",
+        duration: 2324,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 130,
       identifier: "C++Now-2013-46",
          meeting: "C++Now",
@@ -33633,6 +40490,25 @@ const talks = [
             tags: [
                      "c++",
                      "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2814,
+      identifier: "GOTOpia-2021-3",
+         meeting: "GOTOpia",
+         edition: "2021",
+           title: "Organization: A Tool for Software Architects",
+        speakers: [
+                     "Eberhard Wolff"
+                  ],
+           video: "https://youtube.com/watch?v=wwzn4l_gmco",
+       thumbnail: "http://img.youtube.com/vi/wwzn4l_gmco/0.jpg",
+        duration: 2121,
+            tags: [
+                     "online",
                      "talk"
                   ],
            level: 0,
@@ -33780,6 +40656,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2362,
+      identifier: "GOTO Amsterdam-2018-30",
+         meeting: "GOTO Amsterdam",
+         edition: "2018",
+           title: "Packaging Applications in a Serverless World!",
+        speakers: [
+                     "Sebastien Goasguen"
+                  ],
+           video: "https://youtube.com/watch?v=s1u4emFpSZw",
+       thumbnail: "http://img.youtube.com/vi/s1u4emFpSZw/0.jpg",
+        duration: 3174,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 625,
       identifier: "Meeting C++-2017-32",
          meeting: "Meeting C++",
@@ -33812,7 +40707,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/o3Mid_t8nbY/0.jpg",
         duration: 4101,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -34036,7 +40930,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/Sea1LMCZYt8/0.jpg",
         duration: 854,
             tags: [
-                     "c++",
                      "lightning",
                      "live"
                   ],
@@ -34104,6 +40997,44 @@ const talks = [
         language: "English"
    },
    {
+          number: 2635,
+      identifier: "GOTO Chicago-2020-36",
+         meeting: "GOTO Chicago",
+         edition: "2020",
+           title: "People First Leadership",
+        speakers: [
+                     "Kate Wardin"
+                  ],
+           video: "https://youtube.com/watch?v=91TboUodIPk",
+       thumbnail: "http://img.youtube.com/vi/91TboUodIPk/0.jpg",
+        duration: 1282,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2773,
+      identifier: "GOTOpia-2020-20",
+         meeting: "GOTOpia",
+         edition: "2020",
+           title: "People First Leadership",
+        speakers: [
+                     "Kate Wardin"
+                  ],
+           video: "https://youtube.com/watch?v=GqKJ6SEyMBY",
+       thumbnail: "http://img.youtube.com/vi/GqKJ6SEyMBY/0.jpg",
+        duration: 2624,
+            tags: [
+                     "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 305,
       identifier: "C++Now-2017-46",
          meeting: "C++Now",
@@ -34118,6 +41049,25 @@ const talks = [
         duration: 2916,
             tags: [
                      "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2678,
+      identifier: "GOTO Copenhagen-2018-29",
+         meeting: "GOTO Copenhagen",
+         edition: "2018",
+           title: "Persuasive Design",
+        speakers: [
+                     "Anders Toxboe"
+                  ],
+           video: "https://youtube.com/watch?v=1OA--3GoWso",
+       thumbnail: "http://img.youtube.com/vi/1OA--3GoWso/0.jpg",
+        duration: 2605,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -34279,7 +41229,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/9A9PYBdfyfM/0.jpg",
         duration: 2594,
             tags: [
-                     "c++",
                      "embedded",
                      "online",
                      "talk"
@@ -34303,6 +41252,25 @@ const talks = [
                      "c++",
                      "keynote",
                      "live"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2820,
+      identifier: "GOTOpia-2021-9",
+         meeting: "GOTOpia",
+         edition: "2021",
+           title: "Platform Engineering as a (Community) Service",
+        speakers: [
+                     "Nicki Watt"
+                  ],
+           video: "https://youtube.com/watch?v=4N2ywun-wTE",
+       thumbnail: "http://img.youtube.com/vi/4N2ywun-wTE/0.jpg",
+        duration: 2340,
+            tags: [
+                     "online",
+                     "talk"
                   ],
            level: 0,
         language: "English"
@@ -34400,7 +41368,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/qrifyjQW9gA/0.jpg",
         duration: 2835,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -34441,6 +41408,63 @@ const talks = [
         duration: 3803,
             tags: [
                      "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2532,
+      identifier: "GOTO Chicago-2018-33",
+         meeting: "GOTO Chicago",
+         edition: "2018",
+           title: "Politics & Hierarchy: How We Create It & How to Stop",
+        speakers: [
+                     "Katherine Kirk"
+                  ],
+           video: "https://youtube.com/watch?v=jQlVgh1B22g",
+       thumbnail: "http://img.youtube.com/vi/jQlVgh1B22g/0.jpg",
+        duration: 2714,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2681,
+      identifier: "GOTO Copenhagen-2018-32",
+         meeting: "GOTO Copenhagen",
+         edition: "2018",
+           title: "Politics & Hierarchy: How We Create It & How to Stop",
+        speakers: [
+                     "Benjamin Mitchell"
+                  ],
+           video: "https://youtube.com/watch?v=a0bBN37jHU8",
+       thumbnail: "http://img.youtube.com/vi/a0bBN37jHU8/0.jpg",
+        duration: 2576,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2539,
+      identifier: "GOTO Chicago-2018-40",
+         meeting: "GOTO Chicago",
+         edition: "2018",
+           title: "Polyglot Agile",
+        speakers: [
+                     "Aino Vonge Corry"
+                  ],
+           video: "https://youtube.com/watch?v=sFb1wpdn5Ys",
+       thumbnail: "http://img.youtube.com/vi/sFb1wpdn5Ys/0.jpg",
+        duration: 2262,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -34502,6 +41526,25 @@ const talks = [
         duration: 3536,
             tags: [
                      "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2671,
+      identifier: "GOTO Copenhagen-2018-22",
+         meeting: "GOTO Copenhagen",
+         edition: "2018",
+           title: "PopcornFlow: If Change is Hard, Make it Continuous",
+        speakers: [
+                     "Claudio Perrone"
+                  ],
+           video: "https://youtube.com/watch?v=cqtxMy58kz8",
+       thumbnail: "http://img.youtube.com/vi/cqtxMy58kz8/0.jpg",
+        duration: 2896,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -34629,6 +41672,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2375,
+      identifier: "GOTO Amsterdam-2019-2",
+         meeting: "GOTO Amsterdam",
+         edition: "2019",
+           title: "Practical API Design",
+        speakers: [
+                     "Ronnie Mitra"
+                  ],
+           video: "https://youtube.com/watch?v=272ZZ53HS_4",
+       thumbnail: "http://img.youtube.com/vi/272ZZ53HS_4/0.jpg",
+        duration: 2528,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1658,
       identifier: "code::dive-2019-5",
          meeting: "code::dive",
@@ -34641,7 +41703,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/JNQAlCjNH0o/0.jpg",
         duration: 3618,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -34709,6 +41770,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2822,
+      identifier: "GOTOpia-2021-11",
+         meeting: "GOTOpia",
+         edition: "2021",
+           title: "Practical Cloud Native: What Works, What Doesn't",
+        speakers: [
+                     "Sarah Wells"
+                  ],
+           video: "https://youtube.com/watch?v=esaoQPIIiTo",
+       thumbnail: "http://img.youtube.com/vi/esaoQPIIiTo/0.jpg",
+        duration: 2170,
+            tags: [
+                     "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 651,
       identifier: "Meeting C++-2017-58",
          meeting: "Meeting C++",
@@ -34745,6 +41825,25 @@ const talks = [
                      "c++",
                      "live",
                      "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2618,
+      identifier: "GOTO Chicago-2020-19",
+         meeting: "GOTO Chicago",
+         edition: "2020",
+           title: "Practical End-to-End Container Security at Scale",
+        speakers: [
+                     "Yashvier Kosaraju"
+                  ],
+           video: "https://youtube.com/watch?v=rcrmTHOIz24",
+       thumbnail: "http://img.youtube.com/vi/rcrmTHOIz24/0.jpg",
+        duration: 1077,
+            tags: [
+                     "lightning",
+                     "live"
                   ],
            level: 0,
         language: "English"
@@ -34845,6 +41944,25 @@ const talks = [
                      "c++",
                      "live",
                      "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2644,
+      identifier: "GOTO Chicago-2020-45",
+         meeting: "GOTO Chicago",
+         edition: "2020",
+           title: "Practical Quantum Computing with D-Wave",
+        speakers: [
+                     "Alexander Condello"
+                  ],
+           video: "https://youtube.com/watch?v=JVA7BoZsRAI",
+       thumbnail: "http://img.youtube.com/vi/JVA7BoZsRAI/0.jpg",
+        duration: 1084,
+            tags: [
+                     "lightning",
+                     "live"
                   ],
            level: 0,
         language: "English"
@@ -34951,6 +42069,44 @@ const talks = [
         language: "English"
    },
    {
+          number: 2527,
+      identifier: "GOTO Chicago-2018-28",
+         meeting: "GOTO Chicago",
+         edition: "2018",
+           title: "Practicalities of Productionizing Distributed Systems",
+        speakers: [
+                     "Jeff Hodges"
+                  ],
+           video: "https://youtube.com/watch?v=6RlbgpNKvaA",
+       thumbnail: "http://img.youtube.com/vi/6RlbgpNKvaA/0.jpg",
+        duration: 2782,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2335,
+      identifier: "GOTO Amsterdam-2018-3",
+         meeting: "GOTO Amsterdam",
+         edition: "2018",
+           title: "Pragmatic Event-Driven Microservices",
+        speakers: [
+                     "Allard Buijze"
+                  ],
+           video: "https://youtube.com/watch?v=vSd_0zGxsIU",
+       thumbnail: "http://img.youtube.com/vi/vSd_0zGxsIU/0.jpg",
+        duration: 2905,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 869,
       identifier: "CppCon-2014-85",
          meeting: "CppCon",
@@ -35003,7 +42159,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/DIZkD_-9_J8/0.jpg",
         duration: 3642,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -35071,6 +42226,140 @@ const talks = [
         language: "English"
    },
    {
+          number: 2835,
+      identifier: "GOTOpia-2021-24",
+         meeting: "GOTOpia",
+         edition: "2021",
+           title: "Prerequisites for Chaos Engineering",
+        speakers: [
+                     "Courtney Nash"
+                  ],
+           video: "https://youtube.com/watch?v=nvVA_h1_cqs",
+       thumbnail: "http://img.youtube.com/vi/nvVA_h1_cqs/0.jpg",
+        duration: 1367,
+            tags: [
+                     "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2577,
+      identifier: "GOTO Chicago-2019-36",
+         meeting: "GOTO Chicago",
+         edition: "2019",
+           title: "Principles for Developing More Secure Systems",
+        speakers: [
+                     "Eleanor Saitta"
+                  ],
+           video: "https://youtube.com/watch?v=nVgxwwDCRM0",
+       thumbnail: "http://img.youtube.com/vi/nVgxwwDCRM0/0.jpg",
+        duration: 3117,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2677,
+      identifier: "GOTO Copenhagen-2018-28",
+         meeting: "GOTO Copenhagen",
+         edition: "2018",
+           title: "Principles of Play 2.0",
+        speakers: [
+                     "Linda Liukas"
+                  ],
+           video: "https://youtube.com/watch?v=G2YDLlqRSzQ",
+       thumbnail: "http://img.youtube.com/vi/G2YDLlqRSzQ/0.jpg",
+        duration: 2984,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2305,
+      identifier: "MUC++--49",
+         meeting: "MUC++",
+         edition: "",
+           title: "Print C++ Like Its Python'",
+        speakers: [
+                     "Michael Dorner"
+                  ],
+           video: "https://youtube.com/watch?v=9V42buwzlzI",
+       thumbnail: "http://img.youtube.com/vi/9V42buwzlzI/0.jpg",
+        duration: 177,
+            tags: [
+                     "c++",
+                     "lightning",
+                     "live"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2611,
+      identifier: "GOTO Chicago-2020-12",
+         meeting: "GOTO Chicago",
+         edition: "2020",
+           title: "Prioritizing Technical Debt as if Time and Money Matters",
+        speakers: [
+                     "Adam Tornhill"
+                  ],
+           video: "https://youtube.com/watch?v=FnmYGqZAAuI",
+       thumbnail: "http://img.youtube.com/vi/FnmYGqZAAuI/0.jpg",
+        duration: 1181,
+            tags: [
+                     "lightning",
+                     "live"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2697,
+      identifier: "GOTO Copenhagen-2019-6",
+         meeting: "GOTO Copenhagen",
+         edition: "2019",
+           title: "Prioritizing Technical Debt as if Time and Money Matters",
+        speakers: [
+                     "Adam Tornhill"
+                  ],
+           video: "https://youtube.com/watch?v=fl4aZ2KXBsQ",
+       thumbnail: "http://img.youtube.com/vi/fl4aZ2KXBsQ/0.jpg",
+        duration: 2686,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2767,
+      identifier: "GOTOpia-2020-14",
+         meeting: "GOTOpia",
+         edition: "2020",
+           title: "Prioritizing Technical Debt as if Time and Money Matters",
+        speakers: [
+                     "Adam Tornhill"
+                  ],
+           video: "https://youtube.com/watch?v=A2N58uQxclI",
+       thumbnail: "http://img.youtube.com/vi/A2N58uQxclI/0.jpg",
+        duration: 2136,
+            tags: [
+                     "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1819,
       identifier: "accu-2018-29",
          meeting: "accu",
@@ -35083,7 +42372,25 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/mrY6xrWp3Gs/0.jpg",
         duration: 5011,
             tags: [
-                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2711,
+      identifier: "GOTO Copenhagen-2019-20",
+         meeting: "GOTO Copenhagen",
+         edition: "2019",
+           title: "Processing Streaming Data with KSQL",
+        speakers: [
+                     "Tim Berglund"
+                  ],
+           video: "https://youtube.com/watch?v=mJDbQ2gqo2g",
+       thumbnail: "http://img.youtube.com/vi/mJDbQ2gqo2g/0.jpg",
+        duration: 2949,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -35103,7 +42410,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/FJFl2RCc_B8/0.jpg",
         duration: 2828,
             tags: [
-                     "c++",
                      "embedded",
                      "online",
                      "talk"
@@ -35145,6 +42451,25 @@ const talks = [
         duration: 3179,
             tags: [
                      "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2531,
+      identifier: "GOTO Chicago-2018-32",
+         meeting: "GOTO Chicago",
+         edition: "2018",
+           title: "Production Model Deployment",
+        speakers: [
+                     "Juliet Hougland"
+                  ],
+           video: "https://youtube.com/watch?v=Z7_AatHRXjI",
+       thumbnail: "http://img.youtube.com/vi/Z7_AatHRXjI/0.jpg",
+        duration: 2734,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -35244,7 +42569,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/Goppq498V_Y/0.jpg",
         duration: 2223,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -35392,6 +42716,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2799,
+      identifier: "GOTOpia-2020-49",
+         meeting: "GOTOpia",
+         edition: "2020",
+           title: "Progressive Delivery: Patterns & Benefits of Decoupling Deploy from Release",
+        speakers: [
+                     "Dave Karow"
+                  ],
+           video: "https://youtube.com/watch?v=6rb37PCX5_w",
+       thumbnail: "http://img.youtube.com/vi/6rb37PCX5_w/0.jpg",
+        duration: 2250,
+            tags: [
+                     "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1673,
       identifier: "code::dive-2019-20",
          meeting: "code::dive",
@@ -35404,7 +42747,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/OGRyQzy8RRU/0.jpg",
         duration: 2198,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -35444,7 +42786,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/w1yPw0Wd6jA/0.jpg",
         duration: 4705,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -35503,6 +42844,26 @@ const talks = [
            video: "https://youtube.com/watch?v=aiapg-3vDcQ",
        thumbnail: "http://img.youtube.com/vi/aiapg-3vDcQ/0.jpg",
         duration: 682,
+            tags: [
+                     "c++",
+                     "lightning",
+                     "live"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2294,
+      identifier: "MUC++--38",
+         meeting: "MUC++",
+         edition: "",
+           title: "Property Bindings in C++11",
+        speakers: [
+                     "Frank Mertens"
+                  ],
+           video: "https://youtube.com/watch?v=_Dt5mXNp6rY",
+       thumbnail: "http://img.youtube.com/vi/_Dt5mXNp6rY/0.jpg",
+        duration: 544,
             tags: [
                      "c++",
                      "lightning",
@@ -35572,6 +42933,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2414,
+      identifier: "GOTO Amsterdam-2019-41",
+         meeting: "GOTO Amsterdam",
+         edition: "2019",
+           title: "PSD2, SCA, WTF?",
+        speakers: [
+                     "Kelley Robinson"
+                  ],
+           video: "https://youtube.com/watch?v=0koQkeAhLyA",
+       thumbnail: "http://img.youtube.com/vi/0koQkeAhLyA/0.jpg",
+        duration: 1728,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 229,
       identifier: "C++Now-2016-17",
          meeting: "C++Now",
@@ -35607,6 +42987,25 @@ const talks = [
         duration: 3280,
             tags: [
                      "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2690,
+      identifier: "GOTO Copenhagen-2018-41",
+         meeting: "GOTO Copenhagen",
+         edition: "2018",
+           title: "Putting Your Security on the Wire",
+        speakers: [
+                     "Damien Murphy"
+                  ],
+           video: "https://youtube.com/watch?v=Wse0XDb1uso",
+       thumbnail: "http://img.youtube.com/vi/Wse0XDb1uso/0.jpg",
+        duration: 2481,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -35714,6 +43113,45 @@ const talks = [
         language: "English"
    },
    {
+          number: 2693,
+      identifier: "GOTO Copenhagen-2019-2",
+         meeting: "GOTO Copenhagen",
+         edition: "2019",
+           title: "Quantum Computing",
+        speakers: [
+                     "Jessica Pointing"
+                  ],
+           video: "https://youtube.com/watch?v=d2pGGNQ63GQ",
+       thumbnail: "http://img.youtube.com/vi/d2pGGNQ63GQ/0.jpg",
+        duration: 2831,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2730,
+      identifier: "GOTO Copenhagen-2019-39",
+         meeting: "GOTO Copenhagen",
+         edition: "2019",
+           title: "Quantum Computing Q&A",
+        speakers: [
+                     "Jessica Pointing",
+                     "Murray Thom"
+                  ],
+           video: "https://youtube.com/watch?v=gU1YVkHO6HE",
+       thumbnail: "http://img.youtube.com/vi/gU1YVkHO6HE/0.jpg",
+        duration: 2080,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 882,
       identifier: "CppCon-2014-98",
          meeting: "CppCon",
@@ -35725,6 +43163,26 @@ const talks = [
            video: "https://youtube.com/watch?v=TC9zhufV_Z8",
        thumbnail: "http://img.youtube.com/vi/TC9zhufV_Z8/0.jpg",
         duration: 3198,
+            tags: [
+                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2259,
+      identifier: "MUC++--3",
+         meeting: "MUC++",
+         edition: "",
+           title: "Quickly & Effectively Testing Legacy C++ Code with Approval Tests",
+        speakers: [
+                     "Clare Macrae"
+                  ],
+           video: "https://youtube.com/watch?v=vtWnqqSUzrY",
+       thumbnail: "http://img.youtube.com/vi/vtWnqqSUzrY/0.jpg",
+        duration: 4634,
             tags: [
                      "c++",
                      "live",
@@ -35766,7 +43224,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/dtm8V3TIB6k/0.jpg",
         duration: 3612,
             tags: [
-                     "c++",
                      "online",
                      "talk"
                   ],
@@ -35808,6 +43265,25 @@ const talks = [
             tags: [
                      "c++",
                      "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2647,
+      identifier: "GOTO Chicago-2020-48",
+         meeting: "GOTO Chicago",
+         edition: "2020",
+           title: "Racing Robocars",
+        speakers: [
+                     "Chris Anderson"
+                  ],
+           video: "https://youtube.com/watch?v=Qvb5n5XsDlU",
+       thumbnail: "http://img.youtube.com/vi/Qvb5n5XsDlU/0.jpg",
+        duration: 1684,
+            tags: [
+                     "live",
                      "talk"
                   ],
            level: 0,
@@ -35874,6 +43350,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2595,
+      identifier: "GOTO Chicago-2019-54",
+         meeting: "GOTO Chicago",
+         edition: "2019",
+           title: "Raising a Coder in an Educational Maelstrom: Advice & Lessons Learned",
+        speakers: [
+                     "Seth Thomson"
+                  ],
+           video: "https://youtube.com/watch?v=-90rrTm8D9s",
+       thumbnail: "http://img.youtube.com/vi/-90rrTm8D9s/0.jpg",
+        duration: 1744,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1703,
       identifier: "code::dive-2020-5",
          meeting: "code::dive",
@@ -35886,8 +43381,27 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/AIoW8Eu3Bxo/0.jpg",
         duration: 2534,
             tags: [
-                     "c++",
                      "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2333,
+      identifier: "Going Native-2013-3",
+         meeting: "Going Native",
+         edition: "2013",
+           title: "rand() Considered Harmful",
+        speakers: [
+                     
+                  ],
+           video: "https://youtube.com/watch?v=2Yu8qYFS2R0",
+       thumbnail: "http://img.youtube.com/vi/2Yu8qYFS2R0/0.jpg",
+        duration: 1887,
+            tags: [
+                     "c++",
+                     "live",
                      "talk"
                   ],
            level: 0,
@@ -36026,7 +43540,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/eelpmWo2fuU/0.jpg",
         duration: 4380,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -36094,6 +43607,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2529,
+      identifier: "GOTO Chicago-2018-30",
+         meeting: "GOTO Chicago",
+         edition: "2018",
+           title: "Rapid Java Innovation",
+        speakers: [
+                     "Georges Saab"
+                  ],
+           video: "https://youtube.com/watch?v=cFEdh4d_bqs",
+       thumbnail: "http://img.youtube.com/vi/cFEdh4d_bqs/0.jpg",
+        duration: 3322,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 531,
       identifier: "Meeting C++-2015-29",
          meeting: "Meeting C++",
@@ -36114,6 +43646,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2616,
+      identifier: "GOTO Chicago-2020-17",
+         meeting: "GOTO Chicago",
+         edition: "2020",
+           title: "Ray: A System for Distributed Applications",
+        speakers: [
+                     "Dean Wampler"
+                  ],
+           video: "https://youtube.com/watch?v=uPeCk7Wx8HU",
+       thumbnail: "http://img.youtube.com/vi/uPeCk7Wx8HU/0.jpg",
+        duration: 880,
+            tags: [
+                     "lightning",
+                     "live"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 934,
       identifier: "CppCon-2015-50",
          meeting: "CppCon",
@@ -36127,6 +43678,64 @@ const talks = [
         duration: 3550,
             tags: [
                      "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2720,
+      identifier: "GOTO Copenhagen-2019-29",
+         meeting: "GOTO Copenhagen",
+         edition: "2019",
+           title: "Re-architecting 2-tier to 3-tier",
+        speakers: [
+                     "Niels Hallenberg",
+                     "Thomas Hejlsberg"
+                  ],
+           video: "https://youtube.com/watch?v=AQJYLGg1JCk",
+       thumbnail: "http://img.youtube.com/vi/AQJYLGg1JCk/0.jpg",
+        duration: 1187,
+            tags: [
+                     "lightning",
+                     "live"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2591,
+      identifier: "GOTO Chicago-2019-50",
+         meeting: "GOTO Chicago",
+         edition: "2019",
+           title: "Re-engineering Inclusion",
+        speakers: [
+                     "Jill Wetzler"
+                  ],
+           video: "https://youtube.com/watch?v=fggQAPEeiaI",
+       thumbnail: "http://img.youtube.com/vi/fggQAPEeiaI/0.jpg",
+        duration: 2136,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2668,
+      identifier: "GOTO Copenhagen-2018-19",
+         meeting: "GOTO Copenhagen",
+         edition: "2018",
+           title: "Reaching Beyond Traditional Boundaries with Clojure",
+        speakers: [
+                     "Phil Hofmann"
+                  ],
+           video: "https://youtube.com/watch?v=2aIWMYcC4Qc",
+       thumbnail: "http://img.youtube.com/vi/2aIWMYcC4Qc/0.jpg",
+        duration: 1972,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -36154,6 +43763,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2544,
+      identifier: "GOTO Chicago-2019-3",
+         meeting: "GOTO Chicago",
+         edition: "2019",
+           title: "Reactive Spring",
+        speakers: [
+                     "Josh Long"
+                  ],
+           video: "https://youtube.com/watch?v=1F10gr2pbvQ",
+       thumbnail: "http://img.youtube.com/vi/1F10gr2pbvQ/0.jpg",
+        duration: 3222,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 959,
       identifier: "CppCon-2015-75",
          meeting: "CppCon",
@@ -36174,6 +43802,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2704,
+      identifier: "GOTO Copenhagen-2019-13",
+         meeting: "GOTO Copenhagen",
+         edition: "2019",
+           title: "Reactive Systems",
+        speakers: [
+                     "Dave Farley"
+                  ],
+           video: "https://youtube.com/watch?v=tKRa0O7aepo",
+       thumbnail: "http://img.youtube.com/vi/tKRa0O7aepo/0.jpg",
+        duration: 3213,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1810,
       identifier: "accu-2018-20",
          meeting: "accu",
@@ -36186,7 +43833,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/TFETtW86zAc/0.jpg",
         duration: 4444,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -36275,6 +43921,45 @@ const talks = [
         language: "English"
    },
    {
+          number: 2393,
+      identifier: "GOTO Amsterdam-2019-20",
+         meeting: "GOTO Amsterdam",
+         edition: "2019",
+           title: "Real Time Investment Alerts using Apache Kafka at ING Bank",
+        speakers: [
+                     "Marcos Maia",
+                     "Tim v Baarsen"
+                  ],
+           video: "https://youtube.com/watch?v=mAVSrb7Xrm8",
+       thumbnail: "http://img.youtube.com/vi/mAVSrb7Xrm8/0.jpg",
+        duration: 2632,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2342,
+      identifier: "GOTO Amsterdam-2018-10",
+         meeting: "GOTO Amsterdam",
+         edition: "2018",
+           title: "Real-world Reactive Programming in Java: The Definitive Guide",
+        speakers: [
+                     "Erwin de Gier"
+                  ],
+           video: "https://youtube.com/watch?v=fXWywFRwHOk",
+       thumbnail: "http://img.youtube.com/vi/fXWywFRwHOk/0.jpg",
+        duration: 2913,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1467,
       identifier: "CppCon-2020-87",
          meeting: "CppCon",
@@ -36290,6 +43975,25 @@ const talks = [
                      "c++",
                      "lightning",
                      "online"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2554,
+      identifier: "GOTO Chicago-2019-13",
+         meeting: "GOTO Chicago",
+         edition: "2019",
+           title: "ReasonML: React as a Language and what the Future looks like",
+        speakers: [
+                     "Peter Piekarczyk"
+                  ],
+           video: "https://youtube.com/watch?v=xGN4BMPbk7Q",
+       thumbnail: "http://img.youtube.com/vi/xGN4BMPbk7Q/0.jpg",
+        duration: 2458,
+            tags: [
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "English"
@@ -36367,7 +44071,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/ysPO8r18EiE/0.jpg",
         duration: 3344,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -36427,7 +44130,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/ZqJkAvD6xiE/0.jpg",
         duration: 913,
             tags: [
-                     "c++",
                      "lightning",
                      "live"
                   ],
@@ -36467,7 +44169,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/mvdxc6DR92w/0.jpg",
         duration: 3312,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -36487,7 +44188,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/_T-5pWQVxeE/0.jpg",
         duration: 3742,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -36547,7 +44247,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/2OVDQawoUhA/0.jpg",
         duration: 4804,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -36589,6 +44288,25 @@ const talks = [
             tags: [
                      "c++",
                      "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2630,
+      identifier: "GOTO Chicago-2020-31",
+         meeting: "GOTO Chicago",
+         edition: "2020",
+           title: "Refactoring Trust on Your Team",
+        speakers: [
+                     "Rebecca Miller-Webster"
+                  ],
+           video: "https://youtube.com/watch?v=IA20DDWvOeI",
+       thumbnail: "http://img.youtube.com/vi/IA20DDWvOeI/0.jpg",
+        duration: 1214,
+            tags: [
+                     "live",
                      "talk"
                   ],
            level: 0,
@@ -36747,7 +44465,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/OMhzlcBl9Hc/0.jpg",
         duration: 4053,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -36827,7 +44544,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/Loac5nfK3XY/0.jpg",
         duration: 2859,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -36847,7 +44563,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/zYEQEtdkf6M/0.jpg",
         duration: 672,
             tags: [
-                     "c++",
                      "lightning",
                      "live"
                   ],
@@ -36867,7 +44582,63 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/afsSzgc11OU/0.jpg",
         duration: 2591,
             tags: [
-                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2739,
+      identifier: "GOTO Copenhagen-2019-48",
+         meeting: "GOTO Copenhagen",
+         edition: "2019",
+           title: "Responsible AI for Business Leaders",
+        speakers: [
+                     "Ron Bodkin"
+                  ],
+           video: "https://youtube.com/watch?v=336m95jKTQc",
+       thumbnail: "http://img.youtube.com/vi/336m95jKTQc/0.jpg",
+        duration: 1651,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2738,
+      identifier: "GOTO Copenhagen-2019-47",
+         meeting: "GOTO Copenhagen",
+         edition: "2019",
+           title: "Responsible AI for Engineers",
+        speakers: [
+                     "Ron Bodkin"
+                  ],
+           video: "https://youtube.com/watch?v=HMSmLe-Az3s",
+       thumbnail: "http://img.youtube.com/vi/HMSmLe-Az3s/0.jpg",
+        duration: 2820,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2386,
+      identifier: "GOTO Amsterdam-2019-13",
+         meeting: "GOTO Amsterdam",
+         edition: "2019",
+           title: "REST beyond the Obvious - API Design for ever Evolving Systems",
+        speakers: [
+                     "Oliver Drotbohm"
+                  ],
+           video: "https://youtube.com/watch?v=Z9E7sDhCn5U",
+       thumbnail: "http://img.youtube.com/vi/Z9E7sDhCn5U/0.jpg",
+        duration: 2615,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -37027,7 +44798,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/QitapTgoGjI/0.jpg",
         duration: 2298,
             tags: [
-                     "c++",
                      "embedded",
                      "online",
                      "talk"
@@ -37108,7 +44878,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/c1S_GDTNOpk/0.jpg",
         duration: 2883,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -37156,6 +44925,44 @@ const talks = [
         language: "English"
    },
    {
+          number: 2828,
+      identifier: "GOTOpia-2021-17",
+         meeting: "GOTOpia",
+         edition: "2021",
+           title: "Risks in Systems Design: Chaos Engineering in Apps & Cloud Security",
+        speakers: [
+                     "Crystal Hirschorn"
+                  ],
+           video: "https://youtube.com/watch?v=oEyZgL3sL84",
+       thumbnail: "http://img.youtube.com/vi/oEyZgL3sL84/0.jpg",
+        duration: 1785,
+            tags: [
+                     "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2594,
+      identifier: "GOTO Chicago-2019-53",
+         meeting: "GOTO Chicago",
+         edition: "2019",
+           title: "Role of App Integration in Cloud Native & Microservices Landscape",
+        speakers: [
+                     "Kasun Indrasiri"
+                  ],
+           video: "https://youtube.com/watch?v=wvvBtVTCwio",
+       thumbnail: "http://img.youtube.com/vi/wvvBtVTCwio/0.jpg",
+        duration: 2078,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1532,
       identifier: "code::dive-2016-20",
          meeting: "code::dive",
@@ -37168,7 +44975,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/W755i3PtJhQ/0.jpg",
         duration: 3139,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -37228,7 +45034,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/R79bsHpTml4/0.jpg",
         duration: 2738,
             tags: [
-                     "c++",
                      "embedded",
                      "online",
                      "talk"
@@ -37269,7 +45074,44 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/H8lFldGvt9w/0.jpg",
         duration: 5696,
             tags: [
-                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2388,
+      identifier: "GOTO Amsterdam-2019-15",
+         meeting: "GOTO Amsterdam",
+         edition: "2019",
+           title: "Rust 2018: Access All Areas",
+        speakers: [
+                     "Florian Gilcher"
+                  ],
+           video: "https://youtube.com/watch?v=sCSfyQYDImM",
+       thumbnail: "http://img.youtube.com/vi/sCSfyQYDImM/0.jpg",
+        duration: 2689,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2652,
+      identifier: "GOTO Copenhagen-2018-3",
+         meeting: "GOTO Copenhagen",
+         edition: "2018",
+           title: "Rust Async Programming in 2018",
+        speakers: [
+                     "Katharina Fey"
+                  ],
+           video: "https://youtube.com/watch?v=j0SIcN-Y-LA",
+       thumbnail: "http://img.youtube.com/vi/j0SIcN-Y-LA/0.jpg",
+        duration: 2289,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -37310,6 +45152,25 @@ const talks = [
         duration: 5775,
             tags: [
                      "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2605,
+      identifier: "GOTO Chicago-2020-6",
+         meeting: "GOTO Chicago",
+         edition: "2020",
+           title: "SaaS Deep Dive: Designing and Building Multi-Tenant Solutions",
+        speakers: [
+                     "Tod Golding"
+                  ],
+           video: "https://youtube.com/watch?v=joz0DoSQDNw",
+       thumbnail: "http://img.youtube.com/vi/joz0DoSQDNw/0.jpg",
+        duration: 1271,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -37417,6 +45278,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2371,
+      identifier: "GOTO Amsterdam-2018-39",
+         meeting: "GOTO Amsterdam",
+         edition: "2018",
+           title: "Sales & Tech - Our Differences Make the Difference",
+        speakers: [
+                     "Chris Corriere"
+                  ],
+           video: "https://youtube.com/watch?v=Clv3r_Rdv40",
+       thumbnail: "http://img.youtube.com/vi/Clv3r_Rdv40/0.jpg",
+        duration: 2075,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 377,
       identifier: "C++Now-2019-24",
          meeting: "C++Now",
@@ -37497,6 +45377,103 @@ const talks = [
         language: "English"
    },
    {
+          number: 2812,
+      identifier: "GOTOpia-2021-1",
+         meeting: "GOTOpia",
+         edition: "2021",
+           title: "Scale, Flow and Microservices",
+        speakers: [
+                     "James Lewis"
+                  ],
+           video: "https://youtube.com/watch?v=yJHvMabxVYU",
+       thumbnail: "http://img.youtube.com/vi/yJHvMabxVYU/0.jpg",
+        duration: 2243,
+            tags: [
+                     "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2284,
+      identifier: "MUC++--28",
+         meeting: "MUC++",
+         edition: "",
+           title: "Scaling development of a large C++ project: Chromium (Part 1)",
+        speakers: [
+                     "Andrii Shyshkalov"
+                  ],
+           video: "https://youtube.com/watch?v=2Tsy_lJU21g",
+       thumbnail: "http://img.youtube.com/vi/2Tsy_lJU21g/0.jpg",
+        duration: 2582,
+            tags: [
+                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2283,
+      identifier: "MUC++--27",
+         meeting: "MUC++",
+         edition: "",
+           title: "Scaling development of a large C++ project: Chromium (Part 2)",
+        speakers: [
+                     "Andrii Shyshkalov"
+                  ],
+           video: "https://youtube.com/watch?v=SNGDfJyFoCY",
+       thumbnail: "http://img.youtube.com/vi/SNGDfJyFoCY/0.jpg",
+        duration: 3184,
+            tags: [
+                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2340,
+      identifier: "GOTO Amsterdam-2018-8",
+         meeting: "GOTO Amsterdam",
+         edition: "2018",
+           title: "Scaling Slack",
+        speakers: [
+                     "Keith Adams"
+                  ],
+           video: "https://youtube.com/watch?v=o4f5G9q_9O4",
+       thumbnail: "http://img.youtube.com/vi/o4f5G9q_9O4/0.jpg",
+        duration: 2872,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2733,
+      identifier: "GOTO Copenhagen-2019-42",
+         meeting: "GOTO Copenhagen",
+         edition: "2019",
+           title: "Scaling up an iOS Codebase",
+        speakers: [
+                     "Tjeerd In't Veen"
+                  ],
+           video: "https://youtube.com/watch?v=n09omYo_QPk",
+       thumbnail: "http://img.youtube.com/vi/n09omYo_QPk/0.jpg",
+        duration: 2598,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 118,
       identifier: "C++Now-2013-34",
          meeting: "C++Now",
@@ -37529,7 +45506,83 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/tA1clbGDczI/0.jpg",
         duration: 4805,
             tags: [
-                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2435,
+      identifier: "GOTO Berlin-2018-22",
+         meeting: "GOTO Berlin",
+         edition: "2018",
+           title: "Secret Management with Hashicorp's Vault",
+        speakers: [
+                     "Daniel Bornkessel"
+                  ],
+           video: "https://youtube.com/watch?v=C2iUSUtr93E",
+       thumbnail: "http://img.youtube.com/vi/C2iUSUtr93E/0.jpg",
+        duration: 2576,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2517,
+      identifier: "GOTO Chicago-2018-18",
+         meeting: "GOTO Chicago",
+         edition: "2018",
+           title: "Secrets of Effective Communication You Can Learn (from my Failures!)",
+        speakers: [
+                     "Benjamin Mitchell"
+                  ],
+           video: "https://youtube.com/watch?v=4wH-BI2YeX4",
+       thumbnail: "http://img.youtube.com/vi/4wH-BI2YeX4/0.jpg",
+        duration: 2378,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2766,
+      identifier: "GOTOpia-2020-13",
+         meeting: "GOTOpia",
+         edition: "2020",
+           title: "Secrets of the Shenandoah Garbage Collector",
+        speakers: [
+                     "Stephanie Crater"
+                  ],
+           video: "https://youtube.com/watch?v=WcSqLvxwzbA",
+       thumbnail: "http://img.youtube.com/vi/WcSqLvxwzbA/0.jpg",
+        duration: 1559,
+            tags: [
+                     "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2407,
+      identifier: "GOTO Amsterdam-2019-34",
+         meeting: "GOTO Amsterdam",
+         edition: "2019",
+           title: "Secure & Fast microVM for Serverless Computing",
+        speakers: [
+                     "Arun Gupta",
+                     "Radu Weiss"
+                  ],
+           video: "https://youtube.com/watch?v=oKKOBsqQndY",
+       thumbnail: "http://img.youtube.com/vi/oKKOBsqQndY/0.jpg",
+        duration: 2625,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -37549,7 +45602,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/ulHLt3FVE44/0.jpg",
         duration: 1307,
             tags: [
-                     "c++",
                      "embedded",
                      "online",
                      "talk"
@@ -37570,7 +45622,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/YbjoaMN67Hw/0.jpg",
         duration: 4589,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -37678,6 +45729,63 @@ const talks = [
         language: "English"
    },
    {
+          number: 2657,
+      identifier: "GOTO Copenhagen-2018-8",
+         meeting: "GOTO Copenhagen",
+         edition: "2018",
+           title: "Securing APIs and Microservices with OAuth and OpenID Connect",
+        speakers: [
+                     "Travis Spencer"
+                  ],
+           video: "https://youtube.com/watch?v=hTgff3cJ6AU",
+       thumbnail: "http://img.youtube.com/vi/hTgff3cJ6AU/0.jpg",
+        duration: 2540,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2573,
+      identifier: "GOTO Chicago-2019-32",
+         meeting: "GOTO Chicago",
+         edition: "2019",
+           title: "Securing the JVM",
+        speakers: [
+                     "Nicolas Frankel"
+                  ],
+           video: "https://youtube.com/watch?v=sIuVbVbjZcw",
+       thumbnail: "http://img.youtube.com/vi/sIuVbVbjZcw/0.jpg",
+        duration: 2659,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2538,
+      identifier: "GOTO Chicago-2018-39",
+         meeting: "GOTO Chicago",
+         edition: "2018",
+           title: "Security & Trust in a Microservices World",
+        speakers: [
+                     "Aaron Bedra"
+                  ],
+           video: "https://youtube.com/watch?v=ZKswxdPcdsE",
+       thumbnail: "http://img.youtube.com/vi/ZKswxdPcdsE/0.jpg",
+        duration: 2955,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 2212,
       identifier: "Live Embedded Event-2021-8",
          meeting: "Live Embedded Event",
@@ -37690,7 +45798,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/_YHJAWQchKM/0.jpg",
         duration: 1492,
             tags: [
-                     "c++",
                      "embedded",
                      "online",
                      "talk"
@@ -37711,7 +45818,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/YChhucDQvpI/0.jpg",
         duration: 2021,
             tags: [
-                     "c++",
                      "embedded",
                      "online",
                      "talk"
@@ -37732,7 +45838,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/BhxqWIRUn_U/0.jpg",
         duration: 2368,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -37752,7 +45857,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/dczu1ZQwxWI/0.jpg",
         duration: 1914,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -37840,6 +45944,26 @@ const talks = [
         language: "English"
    },
    {
+          number: 2366,
+      identifier: "GOTO Amsterdam-2018-34",
+         meeting: "GOTO Amsterdam",
+         edition: "2018",
+           title: "Self-healing, Highly Scalable & Secured Jenkins in the Cloud",
+        speakers: [
+                     "Oosterwijk",
+                     "Sarbhukan"
+                  ],
+           video: "https://youtube.com/watch?v=fBTyLR5w6Gw",
+       thumbnail: "http://img.youtube.com/vi/fBTyLR5w6Gw/0.jpg",
+        duration: 3266,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 426,
       identifier: "C++Now-2021-17",
          meeting: "C++Now",
@@ -37880,6 +46004,158 @@ const talks = [
         language: "English"
    },
    {
+          number: 2633,
+      identifier: "GOTO Chicago-2020-34",
+         meeting: "GOTO Chicago",
+         edition: "2020",
+           title: "Server Driven UI on Mobile",
+        speakers: [
+                     "JJ Qi"
+                  ],
+           video: "https://youtube.com/watch?v=CtSfG8tYRdg",
+       thumbnail: "http://img.youtube.com/vi/CtSfG8tYRdg/0.jpg",
+        duration: 1088,
+            tags: [
+                     "lightning",
+                     "live"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2549,
+      identifier: "GOTO Chicago-2019-8",
+         meeting: "GOTO Chicago",
+         edition: "2019",
+           title: "Server-side Kotlin with Coroutines",
+        speakers: [
+                     "Roman Elizarov"
+                  ],
+           video: "https://youtube.com/watch?v=hQrFfwT1IMo",
+       thumbnail: "http://img.youtube.com/vi/hQrFfwT1IMo/0.jpg",
+        duration: 3067,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2482,
+      identifier: "GOTO Berlin-2019-22",
+         meeting: "GOTO Berlin",
+         edition: "2019",
+           title: "Serverless 2.0: Get started with the PLONK Stack",
+        speakers: [
+                     "Alex Ellis"
+                  ],
+           video: "https://youtube.com/watch?v=XiagsmRVoNY",
+       thumbnail: "http://img.youtube.com/vi/XiagsmRVoNY/0.jpg",
+        duration: 2074,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2425,
+      identifier: "GOTO Berlin-2018-12",
+         meeting: "GOTO Berlin",
+         edition: "2018",
+           title: "Serverless Architectural Patterns and Best Practices",
+        speakers: [
+                     "Sascha Mollering"
+                  ],
+           video: "https://youtube.com/watch?v=psIgCzFOqj8",
+       thumbnail: "http://img.youtube.com/vi/psIgCzFOqj8/0.jpg",
+        duration: 2963,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2653,
+      identifier: "GOTO Copenhagen-2018-4",
+         meeting: "GOTO Copenhagen",
+         edition: "2018",
+           title: "Serverless Beyond the Hype",
+        speakers: [
+                     "Alex Ellis"
+                  ],
+           video: "https://youtube.com/watch?v=yOpYYYRuDQ0",
+       thumbnail: "http://img.youtube.com/vi/yOpYYYRuDQ0/0.jpg",
+        duration: 2805,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2575,
+      identifier: "GOTO Chicago-2019-34",
+         meeting: "GOTO Chicago",
+         edition: "2019",
+           title: "Serverless is the Abstraction We Deserve",
+        speakers: [
+                     "Jesse Butler"
+                  ],
+           video: "https://youtube.com/watch?v=E-PcBtTBCyI",
+       thumbnail: "http://img.youtube.com/vi/E-PcBtTBCyI/0.jpg",
+        duration: 3152,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2524,
+      identifier: "GOTO Chicago-2018-25",
+         meeting: "GOTO Chicago",
+         edition: "2018",
+           title: "Serverless Tales from the Trenches",
+        speakers: [
+                     "Peter Sbarski"
+                  ],
+           video: "https://youtube.com/watch?v=bMOh0p3fj1s",
+       thumbnail: "http://img.youtube.com/vi/bMOh0p3fj1s/0.jpg",
+        duration: 2507,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2397,
+      identifier: "GOTO Amsterdam-2019-24",
+         meeting: "GOTO Amsterdam",
+         edition: "2019",
+           title: "Serverless: Five Key Things you need to Know",
+        speakers: [
+                     "Gojko Adzic"
+                  ],
+           video: "https://youtube.com/watch?v=ovRt6O7q1rA",
+       thumbnail: "http://img.youtube.com/vi/ovRt6O7q1rA/0.jpg",
+        duration: 2635,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1743,
       identifier: "accu-2016-41",
          meeting: "accu",
@@ -37892,7 +46168,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/Vxt_PDiJAEA/0.jpg",
         duration: 5497,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -37952,7 +46227,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/gl2WjsbeGsI/0.jpg",
         duration: 3090,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -38060,6 +46334,26 @@ const talks = [
         language: "English"
    },
    {
+          number: 2290,
+      identifier: "MUC++--34",
+         meeting: "MUC++",
+         edition: "",
+           title: "Simplicity Not Just for Beginners (Part 1)",
+        speakers: [
+                     "Kate Gregory"
+                  ],
+           video: "https://youtube.com/watch?v=JewFqo9-C3o",
+       thumbnail: "http://img.youtube.com/vi/JewFqo9-C3o/0.jpg",
+        duration: 2487,
+            tags: [
+                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1187,
       identifier: "CppCon-2018-3",
          meeting: "CppCon",
@@ -38092,7 +46386,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/O50qTuM5OT0/0.jpg",
         duration: 4935,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -38120,6 +46413,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2672,
+      identifier: "GOTO Copenhagen-2018-23",
+         meeting: "GOTO Copenhagen",
+         edition: "2018",
+           title: "Simplification and Automation in Java: Yesterday, Today and Tomorrow",
+        speakers: [
+                     "Rod Johnson"
+                  ],
+           video: "https://youtube.com/watch?v=YDjTGQfw2Kw",
+       thumbnail: "http://img.youtube.com/vi/YDjTGQfw2Kw/0.jpg",
+        duration: 2785,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1643,
       identifier: "code::dive-2018-50",
          meeting: "code::dive",
@@ -38132,7 +46444,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/6gbcU2VNqAI/0.jpg",
         duration: 931,
             tags: [
-                     "c++",
                      "lightning",
                      "live"
                   ],
@@ -38172,9 +46483,27 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/UiykDY57kV8/0.jpg",
         duration: 852,
             tags: [
-                     "c++",
                      "lightning",
                      "live"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2343,
+      identifier: "GOTO Amsterdam-2018-11",
+         meeting: "GOTO Amsterdam",
+         edition: "2018",
+           title: "Site Reliability Engineering at Google",
+        speakers: [
+                     "Christof Leng"
+                  ],
+           video: "https://youtube.com/watch?v=d2wn_E1jxn4",
+       thumbnail: "http://img.youtube.com/vi/d2wn_E1jxn4/0.jpg",
+        duration: 3075,
+            tags: [
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "English"
@@ -38192,9 +46521,28 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/QTf4nKzk8zU/0.jpg",
         duration: 3240,
             tags: [
-                     "c++",
                      "live",
                      "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2298,
+      identifier: "MUC++--42",
+         meeting: "MUC++",
+         edition: "",
+           title: "sizeof",
+        speakers: [
+                     "Xavier Bonaventura"
+                  ],
+           video: "https://youtube.com/watch?v=BWdX6yXFj_Y",
+       thumbnail: "http://img.youtube.com/vi/BWdX6yXFj_Y/0.jpg",
+        duration: 353,
+            tags: [
+                     "c++",
+                     "lightning",
+                     "live"
                   ],
            level: 0,
         language: "English"
@@ -38232,7 +46580,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/yCfFt061SU4/0.jpg",
         duration: 2413,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -38292,7 +46639,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/vw0H16rZW18/0.jpg",
         duration: 5584,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -38360,6 +46706,44 @@ const talks = [
         language: "English"
    },
    {
+          number: 2346,
+      identifier: "GOTO Amsterdam-2018-14",
+         meeting: "GOTO Amsterdam",
+         edition: "2018",
+           title: "Software Architecture in the Age of Things",
+        speakers: [
+                     "Frank Buschmann"
+                  ],
+           video: "https://youtube.com/watch?v=_qggqkROlE4",
+       thumbnail: "http://img.youtube.com/vi/_qggqkROlE4/0.jpg",
+        duration: 2999,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2522,
+      identifier: "GOTO Chicago-2018-23",
+         meeting: "GOTO Chicago",
+         edition: "2018",
+           title: "Software Automation in a Polyglot Stack",
+        speakers: [
+                     "Jessica Kerr"
+                  ],
+           video: "https://youtube.com/watch?v=cEyjEEK0xuo",
+       thumbnail: "http://img.youtube.com/vi/cEyjEEK0xuo/0.jpg",
+        duration: 2985,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1837,
       identifier: "accu-2018-53",
          meeting: "accu",
@@ -38372,7 +46756,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/iFwm-_04rLg/0.jpg",
         duration: 3310,
             tags: [
-                     "c++",
                      "keynote",
                      "live"
                   ],
@@ -38392,8 +46775,26 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/MuLiGkJ22W0/0.jpg",
         duration: 3484,
             tags: [
-                     "c++",
                      "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2790,
+      identifier: "GOTOpia-2020-40",
+         meeting: "GOTOpia",
+         edition: "2020",
+           title: "Software Engineering - Development in 100 Years Time",
+        speakers: [
+                     "Dave Farley"
+                  ],
+           video: "https://youtube.com/watch?v=tBw0i2CW0mA",
+       thumbnail: "http://img.youtube.com/vi/tBw0i2CW0mA/0.jpg",
+        duration: 2111,
+            tags: [
+                     "online",
                      "talk"
                   ],
            level: 0,
@@ -38420,6 +46821,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2754,
+      identifier: "GOTOpia-2020-1",
+         meeting: "GOTOpia",
+         edition: "2020",
+           title: "Software Is Details",
+        speakers: [
+                     "Kevlin Henney"
+                  ],
+           video: "https://youtube.com/watch?v=kX0prJklhUE",
+       thumbnail: "http://img.youtube.com/vi/kX0prJklhUE/0.jpg",
+        duration: 2972,
+            tags: [
+                     "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1664,
       identifier: "code::dive-2019-11",
          meeting: "code::dive",
@@ -38432,7 +46852,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/Rv3SBonL4U8/0.jpg",
         duration: 2656,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -38472,9 +46891,27 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/Gvmp3Gzhv8o/0.jpg",
         duration: 1135,
             tags: [
-                     "c++",
                      "lightning",
                      "live"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2663,
+      identifier: "GOTO Copenhagen-2018-14",
+         meeting: "GOTO Copenhagen",
+         edition: "2018",
+           title: "SOLID Elixir",
+        speakers: [
+                     "Georgina McFadyen"
+                  ],
+           video: "https://youtube.com/watch?v=rmftOs2BzgU",
+       thumbnail: "http://img.youtube.com/vi/rmftOs2BzgU/0.jpg",
+        duration: 2691,
+            tags: [
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "English"
@@ -38572,7 +47009,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/VEHh6jEavnc/0.jpg",
         duration: 4865,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -38772,7 +47208,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/1ob_IPgUeBc/0.jpg",
         duration: 2134,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -38833,7 +47268,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/6yziQuLvyIE/0.jpg",
         duration: 2190,
             tags: [
-                     "c++",
                      "embedded",
                      "online",
                      "talk"
@@ -38874,7 +47308,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/C2unOqfEyAE/0.jpg",
         duration: 2023,
             tags: [
-                     "c++",
                      "embedded",
                      "live",
                      "talk"
@@ -38935,9 +47368,27 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/l3ZjzoGlX10/0.jpg",
         duration: 1465,
             tags: [
-                     "c++",
                      "embedded",
                      "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2431,
+      identifier: "GOTO Berlin-2018-18",
+         meeting: "GOTO Berlin",
+         edition: "2018",
+           title: "SSL/TLS for Mortals",
+        speakers: [
+                     "Maarten Mulders"
+                  ],
+           video: "https://youtube.com/watch?v=u6bLCfU3iSk",
+       thumbnail: "http://img.youtube.com/vi/u6bLCfU3iSk/0.jpg",
+        duration: 2616,
+            tags: [
+                     "live",
                      "talk"
                   ],
            level: 0,
@@ -38996,7 +47447,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/tS08IP5ibTs/0.jpg",
         duration: 5321,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -39036,7 +47486,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/WpKeSBItD8M/0.jpg",
         duration: 2037,
             tags: [
-                     "c++",
                      "embedded",
                      "online",
                      "talk"
@@ -39057,7 +47506,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/4UjAVlQkz8s/0.jpg",
         duration: 2037,
             tags: [
-                     "c++",
                      "embedded",
                      "online",
                      "talk"
@@ -39126,6 +47574,26 @@ const talks = [
         language: "English"
    },
    {
+          number: 2323,
+      identifier: "Going Native-2012-9",
+         meeting: "Going Native",
+         edition: "2012",
+           title: "Static if I had a hammer",
+        speakers: [
+                     
+                  ],
+           video: "https://youtube.com/watch?v=CobxtV28zKc",
+       thumbnail: "http://img.youtube.com/vi/CobxtV28zKc/0.jpg",
+        duration: 3630,
+            tags: [
+                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 504,
       identifier: "Meeting C++-2015-2",
          meeting: "Meeting C++",
@@ -39178,7 +47646,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/Iz4C29yul2U/0.jpg",
         duration: 3634,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -39298,7 +47765,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/hHQS-Q7aMzg/0.jpg",
         duration: 4598,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -39338,7 +47804,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/3nXLxMYXgWs/0.jpg",
         duration: 5436,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -39426,6 +47891,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2798,
+      identifier: "GOTOpia-2020-48",
+         meeting: "GOTOpia",
+         edition: "2020",
+           title: "Stop Punching Yourself in the Face",
+        speakers: [
+                     "Hannes Lowette"
+                  ],
+           video: "https://youtube.com/watch?v=_-ne2kwF8tc",
+       thumbnail: "http://img.youtube.com/vi/_-ne2kwF8tc/0.jpg",
+        duration: 2087,
+            tags: [
+                     "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 976,
       identifier: "CppCon-2015-92",
          meeting: "CppCon",
@@ -39458,8 +47942,26 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/QQF0-jfwK0c/0.jpg",
         duration: 2639,
             tags: [
-                     "c++",
                      "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2827,
+      identifier: "GOTOpia-2021-16",
+         meeting: "GOTOpia",
+         edition: "2021",
+           title: "Streaming with Structure",
+        speakers: [
+                     "Katherine Stanley"
+                  ],
+           video: "https://youtube.com/watch?v=F-a4vNoK05M",
+       thumbnail: "http://img.youtube.com/vi/F-a4vNoK05M/0.jpg",
+        duration: 2300,
+            tags: [
+                     "online",
                      "talk"
                   ],
            level: 0,
@@ -39518,7 +48020,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/vzDl0Q91MrM/0.jpg",
         duration: 5634,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -39678,7 +48179,25 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/Fl0bQP-Rua0/0.jpg",
         duration: 3586,
             tags: [
-                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2596,
+      identifier: "GOTO Chicago-2019-55",
+         meeting: "GOTO Chicago",
+         edition: "2019",
+           title: "Supersonic, Subatomic Eclipse MicroProfile",
+        speakers: [
+                     "Scott M Stark"
+                  ],
+           video: "https://youtube.com/watch?v=NqYUtfXiq5Q",
+       thumbnail: "http://img.youtube.com/vi/NqYUtfXiq5Q/0.jpg",
+        duration: 2857,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -39806,6 +48325,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2769,
+      identifier: "GOTOpia-2020-16",
+         meeting: "GOTOpia",
+         edition: "2020",
+           title: "Sustainable Software Engineering, Building Carbon-Efficient Applications",
+        speakers: [
+                     "Asim Hussain"
+                  ],
+           video: "https://youtube.com/watch?v=OSM-785tnGM",
+       thumbnail: "http://img.youtube.com/vi/OSM-785tnGM/0.jpg",
+        duration: 2055,
+            tags: [
+                     "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1708,
       identifier: "code::dive-2020-10",
          meeting: "code::dive",
@@ -39818,8 +48356,46 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/wOThHdqttro/0.jpg",
         duration: 3207,
             tags: [
-                     "c++",
                      "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2518,
+      identifier: "GOTO Chicago-2018-19",
+         meeting: "GOTO Chicago",
+         edition: "2018",
+           title: "SWARMing: Scaling Without A Religious Methodology",
+        speakers: [
+                     "Dan North",
+                     "Katherine Kirk"
+                  ],
+           video: "https://youtube.com/watch?v=q87wNNiygaM",
+       thumbnail: "http://img.youtube.com/vi/q87wNNiygaM/0.jpg",
+        duration: 2455,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2448,
+      identifier: "GOTO Berlin-2018-35",
+         meeting: "GOTO Berlin",
+         edition: "2018",
+           title: "Swearing, Nudity and Other Vulnerable Positions",
+        speakers: [
+                     "John Le Drew"
+                  ],
+           video: "https://youtube.com/watch?v=ofBv-num0lA",
+       thumbnail: "http://img.youtube.com/vi/ofBv-num0lA/0.jpg",
+        duration: 3164,
+            tags: [
+                     "live",
                      "talk"
                   ],
            level: 0,
@@ -39879,7 +48455,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/ZeuY_B8rx1Q/0.jpg",
         duration: 3687,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -39902,6 +48477,26 @@ const talks = [
                      "c++",
                      "live",
                      "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2292,
+      identifier: "MUC++--36",
+         meeting: "MUC++",
+         edition: "",
+           title: "Swizzling",
+        speakers: [
+                     "Stefan Rohe"
+                  ],
+           video: "https://youtube.com/watch?v=x4V_vQBJQrw",
+       thumbnail: "http://img.youtube.com/vi/x4V_vQBJQrw/0.jpg",
+        duration: 347,
+            tags: [
+                     "c++",
+                     "lightning",
+                     "live"
                   ],
            level: 0,
         language: "English"
@@ -39959,7 +48554,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/2_cRaDxBe-A/0.jpg",
         duration: 943,
             tags: [
-                     "c++",
                      "lightning",
                      "live"
                   ],
@@ -39979,7 +48573,82 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/wK45tOIUOM4/0.jpg",
         duration: 3706,
             tags: [
-                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2740,
+      identifier: "GOTO Oslo-2018-1",
+         meeting: "GOTO Oslo",
+         edition: "2018",
+           title: "Taking Back 'Software Engineering'",
+        speakers: [
+                     "Dave Farley"
+                  ],
+           video: "https://youtube.com/watch?v=_N_jIrEBOpw",
+       thumbnail: "http://img.youtube.com/vi/_N_jIrEBOpw/0.jpg",
+        duration: 2692,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2712,
+      identifier: "GOTO Copenhagen-2019-21",
+         meeting: "GOTO Copenhagen",
+         edition: "2019",
+           title: "Taking Machine Learning from Research to Production",
+        speakers: [
+                     "Robert Crowe"
+                  ],
+           video: "https://youtube.com/watch?v=rly7DqCbtKw",
+       thumbnail: "http://img.youtube.com/vi/rly7DqCbtKw/0.jpg",
+        duration: 2940,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2395,
+      identifier: "GOTO Amsterdam-2019-22",
+         meeting: "GOTO Amsterdam",
+         edition: "2019",
+           title: "Taking Security Seriously",
+        speakers: [
+                     "Philippe De Ryck"
+                  ],
+           video: "https://youtube.com/watch?v=wlxAXIXX0Yw",
+       thumbnail: "http://img.youtube.com/vi/wlxAXIXX0Yw/0.jpg",
+        duration: 2407,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2728,
+      identifier: "GOTO Copenhagen-2019-37",
+         meeting: "GOTO Copenhagen",
+         edition: "2019",
+           title: "Taking Security Seriously",
+        speakers: [
+                     "Michael Brunton-Spall"
+                  ],
+           video: "https://youtube.com/watch?v=WsiDMcxdTOI",
+       thumbnail: "http://img.youtube.com/vi/WsiDMcxdTOI/0.jpg",
+        duration: 1845,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -40040,7 +48709,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/L3pihTWPcKI/0.jpg",
         duration: 1154,
             tags: [
-                     "c++",
                      "lightning",
                      "live"
                   ],
@@ -40062,6 +48730,44 @@ const talks = [
             tags: [
                      "c++",
                      "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2421,
+      identifier: "GOTO Berlin-2018-8",
+         meeting: "GOTO Berlin",
+         edition: "2018",
+           title: "Talking with Tech Leads",
+        speakers: [
+                     "Patrick Kua"
+                  ],
+           video: "https://youtube.com/watch?v=iLS6NXMXtLI",
+       thumbnail: "http://img.youtube.com/vi/iLS6NXMXtLI/0.jpg",
+        duration: 2861,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2793,
+      identifier: "GOTOpia-2020-43",
+         meeting: "GOTOpia",
+         edition: "2020",
+           title: "Talking With Tech Leads",
+        speakers: [
+                     "Patrick Kua"
+                  ],
+           video: "https://youtube.com/watch?v=F81W-JcRgXM",
+       thumbnail: "http://img.youtube.com/vi/F81W-JcRgXM/0.jpg",
+        duration: 2109,
+            tags: [
+                     "online",
                      "talk"
                   ],
            level: 0,
@@ -40100,7 +48806,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/IGtKstxNe14/0.jpg",
         duration: 5106,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -40241,7 +48946,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/yHt9tEFD61M/0.jpg",
         duration: 3368,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -40529,6 +49233,44 @@ const talks = [
         language: "English"
    },
    {
+          number: 2390,
+      identifier: "GOTO Amsterdam-2019-17",
+         meeting: "GOTO Amsterdam",
+         edition: "2019",
+           title: "Temporal Modelling",
+        speakers: [
+                     "Mathias Verraes"
+                  ],
+           video: "https://youtube.com/watch?v=KNqOWT0lOYY",
+       thumbnail: "http://img.youtube.com/vi/KNqOWT0lOYY/0.jpg",
+        duration: 2660,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2687,
+      identifier: "GOTO Copenhagen-2018-38",
+         meeting: "GOTO Copenhagen",
+         edition: "2018",
+           title: "TensorFlow Lite: Accelerate your Android and iOS App with AI",
+        speakers: [
+                     "Kaz Sato"
+                  ],
+           video: "https://youtube.com/watch?v=BInZBpX7bEo",
+       thumbnail: "http://img.youtube.com/vi/BInZBpX7bEo/0.jpg",
+        duration: 2621,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1394,
       identifier: "CppCon-2020-14",
          meeting: "CppCon",
@@ -40729,6 +49471,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2727,
+      identifier: "GOTO Copenhagen-2019-36",
+         meeting: "GOTO Copenhagen",
+         edition: "2019",
+           title: "The 5 Pillars of Collaborative Product Ownership",
+        speakers: [
+                     "John Le Drew"
+                  ],
+           video: "https://youtube.com/watch?v=-1_3tyCpWbA",
+       thumbnail: "http://img.youtube.com/vi/-1_3tyCpWbA/0.jpg",
+        duration: 2969,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 561,
       identifier: "Meeting C++-2016-23",
          meeting: "Meeting C++",
@@ -40744,6 +49505,25 @@ const talks = [
                      "c++",
                      "lightning",
                      "live"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2427,
+      identifier: "GOTO Berlin-2018-14",
+         meeting: "GOTO Berlin",
+         edition: "2018",
+           title: "The 7 Quests of Resilient Software Design",
+        speakers: [
+                     "Uwe Friedrichsen"
+                  ],
+           video: "https://youtube.com/watch?v=v8hh0mB35wQ",
+       thumbnail: "http://img.youtube.com/vi/v8hh0mB35wQ/0.jpg",
+        duration: 2804,
+            tags: [
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "English"
@@ -40769,6 +49549,26 @@ const talks = [
         language: "English"
    },
    {
+          number: 2304,
+      identifier: "MUC++--48",
+         meeting: "MUC++",
+         edition: "",
+           title: "The Abilities of Good Code",
+        speakers: [
+                     "Andreas Sommer"
+                  ],
+           video: "https://youtube.com/watch?v=cahJaHLwdio",
+       thumbnail: "http://img.youtube.com/vi/cahJaHLwdio/0.jpg",
+        duration: 332,
+            tags: [
+                     "c++",
+                     "lightning",
+                     "live"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1860,
       identifier: "accu-2019-12",
          meeting: "accu",
@@ -40781,7 +49581,25 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/tNJfD17TmsM/0.jpg",
         duration: 3062,
             tags: [
-                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2743,
+      identifier: "GOTO Oslo-2018-4",
+         meeting: "GOTO Oslo",
+         edition: "2018",
+           title: "The Art of Code",
+        speakers: [
+                     "Dylan Beattie"
+                  ],
+           video: "https://youtube.com/watch?v=yDB3wbkfEeI",
+       thumbnail: "http://img.youtube.com/vi/yDB3wbkfEeI/0.jpg",
+        duration: 3993,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -40829,6 +49647,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2636,
+      identifier: "GOTO Chicago-2020-37",
+         meeting: "GOTO Chicago",
+         edition: "2020",
+           title: "The Asynchronous Enterprise",
+        speakers: [
+                     "Brendan O'Leary"
+                  ],
+           video: "https://youtube.com/watch?v=c68K94-hJK8",
+       thumbnail: "http://img.youtube.com/vi/c68K94-hJK8/0.jpg",
+        duration: 1231,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 498,
       identifier: "Meeting C++-2014-23",
          meeting: "Meeting C++",
@@ -40861,8 +49698,26 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/4HfeuJAJKmM/0.jpg",
         duration: 3234,
             tags: [
-                     "c++",
                      "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2815,
+      identifier: "GOTOpia-2021-4",
+         meeting: "GOTOpia",
+         edition: "2021",
+           title: "The Automation Challenge: Kubernetes Operators vs Helm Charts",
+        speakers: [
+                     "Ana-Maria Mihalceanu"
+                  ],
+           video: "https://youtube.com/watch?v=dGx8PjmWkyM",
+       thumbnail: "http://img.youtube.com/vi/dGx8PjmWkyM/0.jpg",
+        duration: 1808,
+            tags: [
+                     "online",
                      "talk"
                   ],
            level: 0,
@@ -40881,7 +49736,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/rrLQ4D_Yc_c/0.jpg",
         duration: 752,
             tags: [
-                     "c++",
                      "lightning",
                      "live"
                   ],
@@ -41021,7 +49875,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/DxnYQRuLX7Q/0.jpg",
         duration: 4574,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -41381,7 +50234,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/Abbl8a-E-_Q/0.jpg",
         duration: 5532,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -41401,9 +50253,27 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/M5anYrZeXIU/0.jpg",
         duration: 997,
             tags: [
-                     "c++",
                      "lightning",
                      "live"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2760,
+      identifier: "GOTOpia-2020-7",
+         meeting: "GOTOpia",
+         edition: "2020",
+           title: "The Coaching Leader & Architect",
+        speakers: [
+                     "Roy Osherove"
+                  ],
+           video: "https://youtube.com/watch?v=vN_xMlR15hw",
+       thumbnail: "http://img.youtube.com/vi/vN_xMlR15hw/0.jpg",
+        duration: 2394,
+            tags: [
+                     "online",
+                     "talk"
                   ],
            level: 0,
         language: "English"
@@ -41449,6 +50319,26 @@ const talks = [
         language: "English"
    },
    {
+          number: 2265,
+      identifier: "MUC++--9",
+         meeting: "MUC++",
+         edition: "",
+           title: "The Complete Guide to return x;",
+        speakers: [
+                     "Arthur O'Dwyer"
+                  ],
+           video: "https://youtube.com/watch?v=80TXwV_sdCY",
+       thumbnail: "http://img.youtube.com/vi/80TXwV_sdCY/0.jpg",
+        duration: 6212,
+            tags: [
+                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 432,
       identifier: "C++Now-2021-23",
          meeting: "C++Now",
@@ -41463,6 +50353,26 @@ const talks = [
             tags: [
                      "c++",
                      "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2264,
+      identifier: "MUC++--8",
+         meeting: "MUC++",
+         edition: "",
+           title: "The Construction and Use of C++ Algorithms",
+        speakers: [
+                     "Ben Deane"
+                  ],
+           video: "https://youtube.com/watch?v=jCfbyjAyAKU",
+       thumbnail: "http://img.youtube.com/vi/jCfbyjAyAKU/0.jpg",
+        duration: 6192,
+            tags: [
+                     "c++",
+                     "live",
                      "talk"
                   ],
            level: 0,
@@ -41530,6 +50440,45 @@ const talks = [
         language: "English"
    },
    {
+          number: 2689,
+      identifier: "GOTO Copenhagen-2018-40",
+         meeting: "GOTO Copenhagen",
+         edition: "2018",
+           title: "The Corporate Scale Engine",
+        speakers: [
+                     "Natasha Friis Saxberg"
+                  ],
+           video: "https://youtube.com/watch?v=fmRgSJ2qJxI",
+       thumbnail: "http://img.youtube.com/vi/fmRgSJ2qJxI/0.jpg",
+        duration: 2030,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2285,
+      identifier: "MUC++--29",
+         meeting: "MUC++",
+         edition: "",
+           title: "The cost of simple programs",
+        speakers: [
+                     "Lukas Bergdoll"
+                  ],
+           video: "https://youtube.com/watch?v=gkYkEHHyQlE",
+       thumbnail: "http://img.youtube.com/vi/gkYkEHHyQlE/0.jpg",
+        duration: 414,
+            tags: [
+                     "c++",
+                     "lightning",
+                     "live"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 253,
       identifier: "C++Now-2016-41",
          meeting: "C++Now",
@@ -41563,6 +50512,25 @@ const talks = [
         duration: 1769,
             tags: [
                      "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2706,
+      identifier: "GOTO Copenhagen-2019-15",
+         meeting: "GOTO Copenhagen",
+         edition: "2019",
+           title: "The Database Unbundled: Commit Logs in an Age of Microservices",
+        speakers: [
+                     "Tim Berglund"
+                  ],
+           video: "https://youtube.com/watch?v=Q5EXNv0t2fw",
+       thumbnail: "http://img.youtube.com/vi/Q5EXNv0t2fw/0.jpg",
+        duration: 2920,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -41622,7 +50590,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/T9aSGB9Lfzc/0.jpg",
         duration: 2666,
             tags: [
-                     "c++",
                      "online",
                      "talk"
                   ],
@@ -41642,7 +50609,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/2Jhfubg9yvA/0.jpg",
         duration: 3161,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -41722,8 +50688,102 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/o1ekBpEFcPc/0.jpg",
         duration: 3156,
             tags: [
-                     "c++",
                      "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2508,
+      identifier: "GOTO Chicago-2018-9",
+         meeting: "GOTO Chicago",
+         edition: "2018",
+           title: "The Development Metrics You Should Use (but Don't)",
+        speakers: [
+                     "Catherine Swetel"
+                  ],
+           video: "https://youtube.com/watch?v=cW3yM-K2M08",
+       thumbnail: "http://img.youtube.com/vi/cW3yM-K2M08/0.jpg",
+        duration: 2957,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2755,
+      identifier: "GOTOpia-2020-2",
+         meeting: "GOTOpia",
+         edition: "2020",
+           title: "The Development Metrics You Should Use (But Don't)",
+        speakers: [
+                     "Catherine Swetel"
+                  ],
+           video: "https://youtube.com/watch?v=__7K_fDqVJs",
+       thumbnail: "http://img.youtube.com/vi/__7K_fDqVJs/0.jpg",
+        duration: 2453,
+            tags: [
+                     "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2800,
+      identifier: "GOTOpia-2020-50",
+         meeting: "GOTOpia",
+         edition: "2020",
+           title: "The Development Metrics You Should Use (but Don't)",
+        speakers: [
+                     "Catherine Swetel"
+                  ],
+           video: "https://youtube.com/watch?v=0zu2nIBny0w",
+       thumbnail: "http://img.youtube.com/vi/0zu2nIBny0w/0.jpg",
+        duration: 2179,
+            tags: [
+                     "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2452,
+      identifier: "GOTO Berlin-2018-39",
+         meeting: "GOTO Berlin",
+         edition: "2018",
+           title: "The Different Perspectives needed for Self-organization",
+        speakers: [
+                     "Stefan Rudnitzki"
+                  ],
+           video: "https://youtube.com/watch?v=OKpGkQ_I8nw",
+       thumbnail: "http://img.youtube.com/vi/OKpGkQ_I8nw/0.jpg",
+        duration: 2275,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2832,
+      identifier: "GOTOpia-2021-21",
+         meeting: "GOTOpia",
+         edition: "2021",
+           title: "The DiRT on Chaos Engineering at Google",
+        speakers: [
+                     "Jason Cahoon"
+                  ],
+           video: "https://youtube.com/watch?v=6I8Ag9mCEpY",
+       thumbnail: "http://img.youtube.com/vi/6I8Ag9mCEpY/0.jpg",
+        duration: 1973,
+            tags: [
+                     "online",
                      "talk"
                   ],
            level: 0,
@@ -41742,7 +50802,25 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/JA1eMmCCk8A/0.jpg",
         duration: 5229,
             tags: [
-                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2505,
+      identifier: "GOTO Chicago-2018-6",
+         meeting: "GOTO Chicago",
+         edition: "2018",
+           title: "The Do's and Don'ts of Error Handling",
+        speakers: [
+                     "Joe Armstrong"
+                  ],
+           video: "https://youtube.com/watch?v=TTM_b7EJg5E",
+       thumbnail: "http://img.youtube.com/vi/TTM_b7EJg5E/0.jpg",
+        duration: 2731,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -41783,7 +50861,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/jR2AMNdK7Do/0.jpg",
         duration: 2803,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -41804,6 +50881,25 @@ const talks = [
         duration: 6231,
             tags: [
                      "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2370,
+      identifier: "GOTO Amsterdam-2018-38",
+         meeting: "GOTO Amsterdam",
+         edition: "2018",
+           title: "The Evolution of Threat Models for Secure Communication Products",
+        speakers: [
+                     "Phil Zimmermann"
+                  ],
+           video: "https://youtube.com/watch?v=3jjlEo-ZoPQ",
+       thumbnail: "http://img.youtube.com/vi/3jjlEo-ZoPQ/0.jpg",
+        duration: 3451,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -41883,7 +50979,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/rw9I39nUkXI/0.jpg",
         duration: 5260,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -41903,7 +50998,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/ZpVPexZHYrQ/0.jpg",
         duration: 5202,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -41943,7 +51037,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/7fn0Evlnnp4/0.jpg",
         duration: 288,
             tags: [
-                     "c++",
                      "lightning",
                      "online"
                   ],
@@ -41983,7 +51076,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/SFv8Wm2HdNM/0.jpg",
         duration: 5367,
             tags: [
-                     "c++",
                      "online",
                      "talk"
                   ],
@@ -42004,6 +51096,25 @@ const talks = [
         duration: 5367,
             tags: [
                      "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2341,
+      identifier: "GOTO Amsterdam-2018-9",
+         meeting: "GOTO Amsterdam",
+         edition: "2018",
+           title: "The Future is Istio",
+        speakers: [
+                     "Jason Smith"
+                  ],
+           video: "https://youtube.com/watch?v=sTqISgCgd9M",
+       thumbnail: "http://img.youtube.com/vi/sTqISgCgd9M/0.jpg",
+        duration: 2227,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -42046,6 +51157,101 @@ const talks = [
             tags: [
                      "c++",
                      "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2716,
+      identifier: "GOTO Copenhagen-2019-25",
+         meeting: "GOTO Copenhagen",
+         edition: "2019",
+           title: "The Future of Machine Learning & JavaScript",
+        speakers: [
+                     "Asim Hussain"
+                  ],
+           video: "https://youtube.com/watch?v=vfmGII9mGmY",
+       thumbnail: "http://img.youtube.com/vi/vfmGII9mGmY/0.jpg",
+        duration: 2390,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2734,
+      identifier: "GOTO Copenhagen-2019-43",
+         meeting: "GOTO Copenhagen",
+         edition: "2019",
+           title: "The Future of Security",
+        speakers: [
+                     "Zoe Rose"
+                  ],
+           video: "https://youtube.com/watch?v=RtTy_e2pwuQ",
+       thumbnail: "http://img.youtube.com/vi/RtTy_e2pwuQ/0.jpg",
+        duration: 2517,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2811,
+      identifier: "GOTOpia-2020-61",
+         meeting: "GOTOpia",
+         edition: "2020",
+           title: "The Future of Sustainable Transportation",
+        speakers: [
+                     "Anita Sengupta"
+                  ],
+           video: "https://youtube.com/watch?v=egftZrq3PWw",
+       thumbnail: "http://img.youtube.com/vi/egftZrq3PWw/0.jpg",
+        duration: 1910,
+            tags: [
+                     "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2656,
+      identifier: "GOTO Copenhagen-2018-7",
+         meeting: "GOTO Copenhagen",
+         edition: "2018",
+           title: "The Future of the Web",
+        speakers: [
+                     "Sir Tim Berners-Lee"
+                  ],
+           video: "https://youtube.com/watch?v=Rxqko96C5ZI",
+       thumbnail: "http://img.youtube.com/vi/Rxqko96C5ZI/0.jpg",
+        duration: 3461,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2411,
+      identifier: "GOTO Amsterdam-2019-38",
+         meeting: "GOTO Amsterdam",
+         edition: "2019",
+           title: "The Grand Challenge and Promise of Quantum Computing",
+        speakers: [
+                     "Lieven Vandersypen"
+                  ],
+           video: "https://youtube.com/watch?v=fyndSsMxzEc",
+       thumbnail: "http://img.youtube.com/vi/fyndSsMxzEc/0.jpg",
+        duration: 2669,
+            tags: [
+                     "live",
                      "talk"
                   ],
            level: 0,
@@ -42112,6 +51318,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2499,
+      identifier: "GOTO Berlin-2019-39",
+         meeting: "GOTO Berlin",
+         edition: "2019",
+           title: "The History of Berlin (Special Appearance)",
+        speakers: [
+                     "Aimee Covo"
+                  ],
+           video: "https://youtube.com/watch?v=HiLOg8Y9xwI",
+       thumbnail: "http://img.youtube.com/vi/HiLOg8Y9xwI/0.jpg",
+        duration: 1785,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 2252,
       identifier: "corehard-2019-4",
          meeting: "corehard",
@@ -42144,7 +51369,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/WSFbNhCbdJM/0.jpg",
         duration: 3100,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -42164,7 +51388,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/9-Y5JnJlypM/0.jpg",
         duration: 2823,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -42252,6 +51475,45 @@ const talks = [
         language: "English"
    },
    {
+          number: 2327,
+      identifier: "Going Native-2012-13",
+         meeting: "Going Native",
+         edition: "2012",
+           title: "The importance of being native",
+        speakers: [
+                     
+                  ],
+           video: "https://youtube.com/watch?v=7KqHOk6RpR8",
+       thumbnail: "http://img.youtube.com/vi/7KqHOk6RpR8/0.jpg",
+        duration: 4613,
+            tags: [
+                     "c++",
+                     "live",
+                     "panel"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2497,
+      identifier: "GOTO Berlin-2019-37",
+         meeting: "GOTO Berlin",
+         edition: "2019",
+           title: "The Importance of Laughter",
+        speakers: [
+                     "Aino Vonge Corry"
+                  ],
+           video: "https://youtube.com/watch?v=WMv9glJuoGc",
+       thumbnail: "http://img.youtube.com/vi/WMv9glJuoGc/0.jpg",
+        duration: 2050,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1824,
       identifier: "accu-2018-37",
          meeting: "accu",
@@ -42264,7 +51526,25 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/YTV2frD1W4Y/0.jpg",
         duration: 5743,
             tags: [
-                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2735,
+      identifier: "GOTO Copenhagen-2019-44",
+         meeting: "GOTO Copenhagen",
+         edition: "2019",
+           title: "The Incredibles: Creating an Awesome PO Team",
+        speakers: [
+                     "Kim Antelo"
+                  ],
+           video: "https://youtube.com/watch?v=ZYG0O3R5FUU",
+       thumbnail: "http://img.youtube.com/vi/ZYG0O3R5FUU/0.jpg",
+        duration: 2646,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -42304,7 +51584,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/0BQ8p7AkjsU/0.jpg",
         duration: 4790,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -42324,7 +51603,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/roLD9-TA06Q/0.jpg",
         duration: 916,
             tags: [
-                     "c++",
                      "lightning",
                      "live"
                   ],
@@ -42394,6 +51672,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2545,
+      identifier: "GOTO Chicago-2019-4",
+         meeting: "GOTO Chicago",
+         edition: "2019",
+           title: "The Language of Programming",
+        speakers: [
+                     "Anjana Vakil"
+                  ],
+           video: "https://youtube.com/watch?v=6EdFiISk22k",
+       thumbnail: "http://img.youtube.com/vi/6EdFiISk22k/0.jpg",
+        duration: 3123,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 748,
       identifier: "Meeting C++-2019-49",
          meeting: "Meeting C++",
@@ -42426,7 +51723,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/Cj86huSL6A4/0.jpg",
         duration: 2648,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -42466,9 +51762,27 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/Ba5gmrYkois/0.jpg",
         duration: 915,
             tags: [
-                     "c++",
                      "lightning",
                      "live"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2753,
+      identifier: "GOTO Oslo-2018-14",
+         meeting: "GOTO Oslo",
+         edition: "2018",
+           title: "The Magic of Music Matching",
+        speakers: [
+                     "Roy van Rijn"
+                  ],
+           video: "https://youtube.com/watch?v=8Dj0rekeM7g",
+       thumbnail: "http://img.youtube.com/vi/8Dj0rekeM7g/0.jpg",
+        duration: 2269,
+            tags: [
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "English"
@@ -42606,7 +51920,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/jNGjAas532I/0.jpg",
         duration: 1072,
             tags: [
-                     "c++",
                      "lightning",
                      "live"
                   ],
@@ -42709,6 +52022,25 @@ const talks = [
                      "c++",
                      "lightning",
                      "live"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2686,
+      identifier: "GOTO Copenhagen-2018-37",
+         meeting: "GOTO Copenhagen",
+         edition: "2018",
+           title: "The Need for Role Model Ladders",
+        speakers: [
+                     "Nicole Bryan"
+                  ],
+           video: "https://youtube.com/watch?v=RN56u3tAer0",
+       thumbnail: "http://img.youtube.com/vi/RN56u3tAer0/0.jpg",
+        duration: 2158,
+            tags: [
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "English"
@@ -42927,7 +52259,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/xASV4yNPIMw/0.jpg",
         duration: 1211,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -42970,6 +52301,25 @@ const talks = [
             tags: [
                      "c++",
                      "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2763,
+      identifier: "GOTOpia-2020-10",
+         meeting: "GOTOpia",
+         edition: "2020",
+           title: "The Past, Present and Future of Cloud Native API Gateways",
+        speakers: [
+                     "Daniel Bryant"
+                  ],
+           video: "https://youtube.com/watch?v=Q09dAnIN4RY",
+       thumbnail: "http://img.youtube.com/vi/Q09dAnIN4RY/0.jpg",
+        duration: 1900,
+            tags: [
+                     "online",
                      "talk"
                   ],
            level: 0,
@@ -43076,6 +52426,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2788,
+      identifier: "GOTOpia-2020-38",
+         meeting: "GOTOpia",
+         edition: "2020",
+           title: "The Power of Event-Driven Systems without Burning your Hands or Budgets",
+        speakers: [
+                     "Allard Buijze"
+                  ],
+           video: "https://youtube.com/watch?v=Fso2OyguRuQ",
+       thumbnail: "http://img.youtube.com/vi/Fso2OyguRuQ/0.jpg",
+        duration: 1878,
+            tags: [
+                     "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1011,
       identifier: "CppCon-2016-27",
          meeting: "CppCon",
@@ -43090,6 +52459,25 @@ const talks = [
             tags: [
                      "c++",
                      "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2758,
+      identifier: "GOTOpia-2020-5",
+         meeting: "GOTOpia",
+         edition: "2020",
+           title: "The Pragmatic Programmer 20 Years Later",
+        speakers: [
+                     "Pragmatic Dave Thomas"
+                  ],
+           video: "https://youtube.com/watch?v=0AzkH8SYyOc",
+       thumbnail: "http://img.youtube.com/vi/0AzkH8SYyOc/0.jpg",
+        duration: 3637,
+            tags: [
+                     "online",
                      "talk"
                   ],
            level: 0,
@@ -43129,6 +52517,25 @@ const talks = [
         duration: 2827,
             tags: [
                      "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2570,
+      identifier: "GOTO Chicago-2019-29",
+         meeting: "GOTO Chicago",
+         edition: "2019",
+           title: "The Promise and Limitations of AI",
+        speakers: [
+                     "Doug Lenat"
+                  ],
+           video: "https://youtube.com/watch?v=v2rK40bNrrY",
+       thumbnail: "http://img.youtube.com/vi/v2rK40bNrrY/0.jpg",
+        duration: 3594,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -43228,7 +52635,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/XMb4xd_1i9Y/0.jpg",
         duration: 318,
             tags: [
-                     "c++",
                      "lightning",
                      "online"
                   ],
@@ -43251,6 +52657,44 @@ const talks = [
                      "c++",
                      "lightning",
                      "live"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2507,
+      identifier: "GOTO Chicago-2018-8",
+         meeting: "GOTO Chicago",
+         edition: "2018",
+           title: "The Robustness of Go",
+        speakers: [
+                     "Francesc Campoy"
+                  ],
+           video: "https://youtube.com/watch?v=40d26ZGfhR8",
+       thumbnail: "http://img.youtube.com/vi/40d26ZGfhR8/0.jpg",
+        duration: 2671,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2673,
+      identifier: "GOTO Copenhagen-2018-24",
+         meeting: "GOTO Copenhagen",
+         edition: "2018",
+           title: "The Robustness of Go",
+        speakers: [
+                     "Francesc Campoy"
+                  ],
+           video: "https://youtube.com/watch?v=ScE9TnoWltA",
+       thumbnail: "http://img.youtube.com/vi/ScE9TnoWltA/0.jpg",
+        duration: 1891,
+            tags: [
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "English"
@@ -43289,6 +52733,25 @@ const talks = [
         duration: 5553,
             tags: [
                      "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2682,
+      identifier: "GOTO Copenhagen-2018-33",
+         meeting: "GOTO Copenhagen",
+         edition: "2018",
+           title: "The Science of Sleep",
+        speakers: [
+                     "Poul Jørgen Jennum"
+                  ],
+           video: "https://youtube.com/watch?v=q4CHEFvW7yQ",
+       thumbnail: "http://img.youtube.com/vi/q4CHEFvW7yQ/0.jpg",
+        duration: 1671,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -43348,7 +52811,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/y19CHDBrc84/0.jpg",
         duration: 3103,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -43388,7 +52850,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/IP5akjPwqEA/0.jpg",
         duration: 3559,
             tags: [
-                     "c++",
                      "keynote",
                      "live"
                   ],
@@ -43429,6 +52890,25 @@ const talks = [
         duration: 3077,
             tags: [
                      "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2542,
+      identifier: "GOTO Chicago-2019-1",
+         meeting: "GOTO Chicago",
+         edition: "2019",
+           title: "The Soul of Erlang and Elixir",
+        speakers: [
+                     "Sasa Juric"
+                  ],
+           video: "https://youtube.com/watch?v=JvBT4XBdoUE",
+       thumbnail: "http://img.youtube.com/vi/JvBT4XBdoUE/0.jpg",
+        duration: 2522,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -43536,6 +53016,45 @@ const talks = [
         language: "English"
    },
    {
+          number: 2266,
+      identifier: "MUC++--10",
+         meeting: "MUC++",
+         edition: "",
+           title: "The Static Initialization Order Fiasco",
+        speakers: [
+                     "Jonathan Muller"
+                  ],
+           video: "https://youtube.com/watch?v=dlTrziwQU-w",
+       thumbnail: "http://img.youtube.com/vi/dlTrziwQU-w/0.jpg",
+        duration: 3726,
+            tags: [
+                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2412,
+      identifier: "GOTO Amsterdam-2019-39",
+         meeting: "GOTO Amsterdam",
+         edition: "2019",
+           title: "The Story of a Product Startup from a Founder's Perspective",
+        speakers: [
+                     "Koen Bos"
+                  ],
+           video: "https://youtube.com/watch?v=gCVFEFAfl_E",
+       thumbnail: "http://img.youtube.com/vi/gCVFEFAfl_E/0.jpg",
+        duration: 2628,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1722,
       identifier: "accu-2016-14",
          meeting: "accu",
@@ -43548,7 +53067,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/CPiACJVY4fA/0.jpg",
         duration: 5551,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -43568,7 +53086,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/rl2lXDkOcyU/0.jpg",
         duration: 813,
             tags: [
-                     "c++",
                      "lightning",
                      "live"
                   ],
@@ -43788,9 +53305,27 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/drCY-CUYqlI/0.jpg",
         duration: 1969,
             tags: [
-                     "c++",
                      "embedded",
                      "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2433,
+      identifier: "GOTO Berlin-2018-20",
+         meeting: "GOTO Berlin",
+         edition: "2018",
+           title: "The World after Microservice Migration w/ Service Mesh & Contract Testing",
+        speakers: [
+                     "D. Mitrovic"
+                  ],
+           video: "https://youtube.com/watch?v=MxhcFPRkzlw",
+       thumbnail: "http://img.youtube.com/vi/MxhcFPRkzlw/0.jpg",
+        duration: 2429,
+            tags: [
+                     "live",
                      "talk"
                   ],
            level: 0,
@@ -43889,7 +53424,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/WZdKFlH7qxo/0.jpg",
         duration: 3628,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -43909,7 +53443,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/L63XGqiNuhI/0.jpg",
         duration: 5292,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -43950,7 +53483,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/wYd2V4nPn0E/0.jpg",
         duration: 4937,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -44030,7 +53562,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/DOKhvnu8m_U/0.jpg",
         duration: 1072,
             tags: [
-                     "c++",
                      "lightning",
                      "live"
                   ],
@@ -44070,9 +53601,46 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/tqfTrCNkHW8/0.jpg",
         duration: 931,
             tags: [
-                     "c++",
                      "lightning",
                      "live"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2484,
+      identifier: "GOTO Berlin-2019-24",
+         meeting: "GOTO Berlin",
+         edition: "2019",
+           title: "Think like a Hacker",
+        speakers: [
+                     "Matt Brunt"
+                  ],
+           video: "https://youtube.com/watch?v=5_PzSMqTr68",
+       thumbnail: "http://img.youtube.com/vi/5_PzSMqTr68/0.jpg",
+        duration: 2542,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2746,
+      identifier: "GOTO Oslo-2018-7",
+         meeting: "GOTO Oslo",
+         edition: "2018",
+           title: "Thinking Asynchronously",
+        speakers: [
+                     "Eric Johnson"
+                  ],
+           video: "https://youtube.com/watch?v=V_tHVUHKqZQ",
+       thumbnail: "http://img.youtube.com/vi/V_tHVUHKqZQ/0.jpg",
+        duration: 2345,
+            tags: [
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "English"
@@ -44098,6 +53666,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2700,
+      identifier: "GOTO Copenhagen-2019-9",
+         meeting: "GOTO Copenhagen",
+         edition: "2019",
+           title: "Thinking Fast and Slow",
+        speakers: [
+                     "Linda Rising"
+                  ],
+           video: "https://youtube.com/watch?v=XjbTLIqnq-o",
+       thumbnail: "http://img.youtube.com/vi/XjbTLIqnq-o/0.jpg",
+        duration: 2810,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1559,
       identifier: "code::dive-2017-5",
          meeting: "code::dive",
@@ -44110,7 +53697,25 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/cvwrkOnn9xo/0.jpg",
         duration: 3485,
             tags: [
-                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2402,
+      identifier: "GOTO Amsterdam-2019-29",
+         meeting: "GOTO Amsterdam",
+         edition: "2019",
+           title: "Thinking Like a Data Scientist",
+        speakers: [
+                     "Em Grasmeder"
+                  ],
+           video: "https://youtube.com/watch?v=HJkzhN7LgrQ",
+       thumbnail: "http://img.youtube.com/vi/HJkzhN7LgrQ/0.jpg",
+        duration: 2618,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -44130,7 +53735,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/u42uTOOe7Dk/0.jpg",
         duration: 2757,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -44150,7 +53754,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/yl25p91flLY/0.jpg",
         duration: 5571,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -44170,7 +53773,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/UJrmee7o68A/0.jpg",
         duration: 5679,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -44310,7 +53912,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/6nsyX37nsRs/0.jpg",
         duration: 4234,
             tags: [
-                     "c++",
                      "keynote",
                      "live"
                   ],
@@ -44370,7 +53971,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/hLjs2tfpjOM/0.jpg",
         duration: 2972,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -44389,6 +53989,26 @@ const talks = [
            video: "https://youtube.com/watch?v=fkqVRzy4JhA",
        thumbnail: "http://img.youtube.com/vi/fkqVRzy4JhA/0.jpg",
         duration: 3532,
+            tags: [
+                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2331,
+      identifier: "Going Native-2012-17",
+         meeting: "Going Native",
+         edition: "2012",
+           title: "Threads and shared variables",
+        speakers: [
+                     
+                  ],
+           video: "https://youtube.com/watch?v=Ys0iqQJNzhw",
+       thumbnail: "http://img.youtube.com/vi/Ys0iqQJNzhw/0.jpg",
+        duration: 3595,
             tags: [
                      "c++",
                      "live",
@@ -44430,7 +54050,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/3NihZVcZqto/0.jpg",
         duration: 5341,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -44450,7 +54069,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/S6vIekisOJA/0.jpg",
         duration: 5352,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -44490,7 +54108,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/eono_4hU-o4/0.jpg",
         duration: 2910,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -44694,7 +54311,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/Km2U-R42XlU/0.jpg",
         duration: 4699,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -44817,7 +54433,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/FZTNgoHEJE0/0.jpg",
         duration: 2027,
             tags: [
-                     "c++",
                      "embedded",
                      "online",
                      "talk"
@@ -44886,6 +54501,84 @@ const talks = [
         language: "English"
    },
    {
+          number: 2441,
+      identifier: "GOTO Berlin-2018-28",
+         meeting: "GOTO Berlin",
+         edition: "2018",
+           title: "Troubleshooting & Debugging Microservices in Kubernetes",
+        speakers: [
+                     "Ray Tsang",
+                     "Robert Kubis"
+                  ],
+           video: "https://youtube.com/watch?v=2hxTTyc6IH8",
+       thumbnail: "http://img.youtube.com/vi/2hxTTyc6IH8/0.jpg",
+        duration: 2976,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2574,
+      identifier: "GOTO Chicago-2019-33",
+         meeting: "GOTO Chicago",
+         edition: "2019",
+           title: "Troubleshooting & Debugging Microservices in Kubernetes",
+        speakers: [
+                     "Ray Tsang",
+                     "Robert Kubis"
+                  ],
+           video: "https://youtube.com/watch?v=e_YsNNi45ac",
+       thumbnail: "http://img.youtube.com/vi/e_YsNNi45ac/0.jpg",
+        duration: 3025,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2498,
+      identifier: "GOTO Berlin-2019-38",
+         meeting: "GOTO Berlin",
+         edition: "2019",
+           title: "Troubleshooting Tiered Tragedy: A Peek Into Failure",
+        speakers: [
+                     "Jeff Smith"
+                  ],
+           video: "https://youtube.com/watch?v=I_VXMuPX864",
+       thumbnail: "http://img.youtube.com/vi/I_VXMuPX864/0.jpg",
+        duration: 1980,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2675,
+      identifier: "GOTO Copenhagen-2018-26",
+         meeting: "GOTO Copenhagen",
+         edition: "2018",
+           title: "True Continuous Improvement with Toyota Kata",
+        speakers: [
+                     "Jesper Boeg"
+                  ],
+           video: "https://youtube.com/watch?v=cSywovR5t_Q",
+       thumbnail: "http://img.youtube.com/vi/cSywovR5t_Q/0.jpg",
+        duration: 2773,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 642,
       identifier: "Meeting C++-2017-49",
          meeting: "Meeting C++",
@@ -44918,7 +54611,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/S6HWK8PF5MU/0.jpg",
         duration: 3272,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -44978,7 +54670,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/Kix2GEztZH4/0.jpg",
         duration: 1438,
             tags: [
-                     "c++",
                      "embedded",
                      "live",
                      "talk"
@@ -45019,7 +54710,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/1bg1nF4E9dY/0.jpg",
         duration: 3944,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -45080,7 +54770,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/FV1i59a5T8Y/0.jpg",
         duration: 2960,
             tags: [
-                     "c++",
                      "embedded",
                      "online",
                      "talk"
@@ -45409,6 +55098,44 @@ const talks = [
         language: "English"
    },
    {
+          number: 2504,
+      identifier: "GOTO Chicago-2018-5",
+         meeting: "GOTO Chicago",
+         edition: "2018",
+           title: "Unconditional Code",
+        speakers: [
+                     "Michael Feathers"
+                  ],
+           video: "https://youtube.com/watch?v=AnZ0uTOerUI",
+       thumbnail: "http://img.youtube.com/vi/AnZ0uTOerUI/0.jpg",
+        duration: 2658,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2339,
+      identifier: "GOTO Amsterdam-2018-7",
+         meeting: "GOTO Amsterdam",
+         edition: "2018",
+           title: "Uncoupling",
+        speakers: [
+                     "Michael Nygard"
+                  ],
+           video: "https://youtube.com/watch?v=esm-1QXtA2Q",
+       thumbnail: "http://img.youtube.com/vi/esm-1QXtA2Q/0.jpg",
+        duration: 3170,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 311,
       identifier: "C++Now-2018-2",
          meeting: "C++Now",
@@ -45523,7 +55250,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/x-ZDZ1CcP3k/0.jpg",
         duration: 4022,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -45563,7 +55289,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/hUSDBbLZomU/0.jpg",
         duration: 2587,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -45583,7 +55308,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/VOPDO_wTpXg/0.jpg",
         duration: 3079,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -45684,7 +55408,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/haQ2cijhvhE/0.jpg",
         duration: 4919,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -45744,7 +55467,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/LFe3x2QMhSo/0.jpg",
         duration: 1359,
             tags: [
-                     "c++",
                      "embedded",
                      "online",
                      "talk"
@@ -45934,6 +55656,63 @@ const talks = [
         language: "English"
    },
    {
+          number: 2391,
+      identifier: "GOTO Amsterdam-2019-18",
+         meeting: "GOTO Amsterdam",
+         edition: "2019",
+           title: "Upgrade Time: Choose Java 11 or the 'other' one...Kotlin",
+        speakers: [
+                     "Paulien van Alst"
+                  ],
+           video: "https://youtube.com/watch?v=VX3UBvwJtyA",
+       thumbnail: "http://img.youtube.com/vi/VX3UBvwJtyA/0.jpg",
+        duration: 2331,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2801,
+      identifier: "GOTOpia-2020-51",
+         meeting: "GOTOpia",
+         edition: "2020",
+           title: "Upgrade Time: Choose Java 11+ or the 'Other' One...Kotlin",
+        speakers: [
+                     "Paulien van Alst"
+                  ],
+           video: "https://youtube.com/watch?v=BcVOvdrFaPY",
+       thumbnail: "http://img.youtube.com/vi/BcVOvdrFaPY/0.jpg",
+        duration: 2185,
+            tags: [
+                     "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2374,
+      identifier: "GOTO Amsterdam-2018-42",
+         meeting: "GOTO Amsterdam",
+         edition: "2018",
+           title: "Use Voice Recognition with Alexa to Control Your Home",
+        speakers: [
+                     "Johan Janssen"
+                  ],
+           video: "https://youtube.com/watch?v=HEp2LEKKj-c",
+       thumbnail: "http://img.youtube.com/vi/HEp2LEKKj-c/0.jpg",
+        duration: 3101,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 62,
       identifier: "C++Now-2012-17",
          meeting: "C++Now",
@@ -46086,7 +55865,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/qJlLGj-aepw/0.jpg",
         duration: 1640,
             tags: [
-                     "c++",
                      "online",
                      "talk"
                   ],
@@ -46135,6 +55913,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2587,
+      identifier: "GOTO Chicago-2019-46",
+         meeting: "GOTO Chicago",
+         edition: "2019",
+           title: "Using Kubernetes for Machine Learning Frameworks",
+        speakers: [
+                     "Arun Gupta"
+                  ],
+           video: "https://youtube.com/watch?v=VgLxcu18bbw",
+       thumbnail: "http://img.youtube.com/vi/VgLxcu18bbw/0.jpg",
+        duration: 3193,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1131,
       identifier: "CppCon-2017-47",
          meeting: "CppCon",
@@ -46149,6 +55946,25 @@ const talks = [
             tags: [
                      "c++",
                      "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2784,
+      identifier: "GOTOpia-2020-31",
+         meeting: "GOTOpia",
+         edition: "2020",
+           title: "Using Open Source Observability with Lambda",
+        speakers: [
+                     "Mike Elsmore"
+                  ],
+           video: "https://youtube.com/watch?v=rv_fZWLd0Pw",
+       thumbnail: "http://img.youtube.com/vi/rv_fZWLd0Pw/0.jpg",
+        duration: 1784,
+            tags: [
+                     "online",
                      "talk"
                   ],
            level: 0,
@@ -46269,7 +56085,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/9NYg5V_ZuVA/0.jpg",
         duration: 5202,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -46437,6 +56252,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2714,
+      identifier: "GOTO Copenhagen-2019-23",
+         meeting: "GOTO Copenhagen",
+         edition: "2019",
+           title: "UX Tips to Avoid Losing Users' Attention",
+        speakers: [
+                     "Chris Atherton"
+                  ],
+           video: "https://youtube.com/watch?v=-pixBU3EJfU",
+       thumbnail: "http://img.youtube.com/vi/-pixBU3EJfU/0.jpg",
+        duration: 2615,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 369,
       identifier: "C++Now-2019-10",
          meeting: "C++Now",
@@ -46549,7 +56383,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/AL9DBWdj-Pg/0.jpg",
         duration: 5744,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -46717,6 +56550,26 @@ const talks = [
         language: "English"
    },
    {
+          number: 2325,
+      identifier: "Going Native-2012-11",
+         meeting: "Going Native",
+         edition: "2012",
+           title: "Variadic templates are funadic",
+        speakers: [
+                     
+                  ],
+           video: "https://youtube.com/watch?v=Hj3aoaEZckA",
+       thumbnail: "http://img.youtube.com/vi/Hj3aoaEZckA/0.jpg",
+        duration: 976,
+            tags: [
+                     "c++",
+                     "lightning",
+                     "live"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 899,
       identifier: "CppCon-2015-15",
          meeting: "CppCon",
@@ -46757,6 +56610,26 @@ const talks = [
         language: "English"
    },
    {
+          number: 2261,
+      identifier: "MUC++--5",
+         meeting: "MUC++",
+         edition: "",
+           title: "Variations on Variant",
+        speakers: [
+                     "Roi Barkan"
+                  ],
+           video: "https://youtube.com/watch?v=hEoeVAfslmg",
+       thumbnail: "http://img.youtube.com/vi/hEoeVAfslmg/0.jpg",
+        duration: 4531,
+            tags: [
+                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 417,
       identifier: "C++Now-2021-8",
          meeting: "C++Now",
@@ -46771,6 +56644,26 @@ const talks = [
             tags: [
                      "c++",
                      "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2316,
+      identifier: "Going Native-2012-2",
+         meeting: "Going Native",
+         edition: "2012",
+           title: "VC11 Auto-Vectorizer, C++ NOW, Lang.NEXT",
+        speakers: [
+                     
+                  ],
+           video: "https://youtube.com/watch?v=pnVEUevxZeU",
+       thumbnail: "http://img.youtube.com/vi/pnVEUevxZeU/0.jpg",
+        duration: 3525,
+            tags: [
+                     "c++",
+                     "live",
                      "talk"
                   ],
            level: 0,
@@ -46829,7 +56722,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/PQVHICYNINc/0.jpg",
         duration: 1031,
             tags: [
-                     "c++",
                      "lightning",
                      "live"
                   ],
@@ -46849,7 +56741,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/U_IA85LvAUY/0.jpg",
         duration: 842,
             tags: [
-                     "c++",
                      "lightning",
                      "live"
                   ],
@@ -46889,9 +56780,46 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/FKQZmnRabqw/0.jpg",
         duration: 1118,
             tags: [
-                     "c++",
                      "lightning",
                      "live"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2488,
+      identifier: "GOTO Berlin-2019-28",
+         meeting: "GOTO Berlin",
+         edition: "2019",
+           title: "Visualizing Cloud Systems",
+        speakers: [
+                     "Lynn Langit"
+                  ],
+           video: "https://youtube.com/watch?v=HHitdmje1ok",
+       thumbnail: "http://img.youtube.com/vi/HHitdmje1ok/0.jpg",
+        duration: 2516,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2626,
+      identifier: "GOTO Chicago-2020-27",
+         meeting: "GOTO Chicago",
+         edition: "2020",
+           title: "Visualizing Cloud Systems",
+        speakers: [
+                     "Lynn Langit"
+                  ],
+           video: "https://youtube.com/watch?v=htmEA-dpX_4",
+       thumbnail: "http://img.youtube.com/vi/htmEA-dpX_4/0.jpg",
+        duration: 1619,
+            tags: [
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "English"
@@ -46909,7 +56837,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/deKvI2zrij0/0.jpg",
         duration: 335,
             tags: [
-                     "c++",
                      "lightning",
                      "online"
                   ],
@@ -46937,6 +56864,45 @@ const talks = [
         language: "English"
    },
    {
+          number: 2579,
+      identifier: "GOTO Chicago-2019-38",
+         meeting: "GOTO Chicago",
+         edition: "2019",
+           title: "Vue and You",
+        speakers: [
+                     "Matt Danforth"
+                  ],
+           video: "https://youtube.com/watch?v=n8ERFbkt_h8",
+       thumbnail: "http://img.youtube.com/vi/n8ERFbkt_h8/0.jpg",
+        duration: 2628,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2315,
+      identifier: "Going Native-2012-1",
+         meeting: "Going Native",
+         edition: "2012",
+           title: "Walter Bright and Andrei Alexandrescu - D Programming Language",
+        speakers: [
+                     
+                  ],
+           video: "https://youtube.com/watch?v=byqITsNqQpw",
+       thumbnail: "http://img.youtube.com/vi/byqITsNqQpw/0.jpg",
+        duration: 3520,
+            tags: [
+                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1717,
       identifier: "accu-2016-6",
          meeting: "accu",
@@ -46949,7 +56915,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/gYhndMJEbpg/0.jpg",
         duration: 3936,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -46997,6 +56962,44 @@ const talks = [
         language: "English"
    },
    {
+          number: 2608,
+      identifier: "GOTO Chicago-2020-9",
+         meeting: "GOTO Chicago",
+         edition: "2020",
+           title: "War is Peace, Freedom is Slavery, Ignorance is Strength, Scrum is Agile",
+        speakers: [
+                     "Allen Holub"
+                  ],
+           video: "https://youtube.com/watch?v=WFbvJ0dVlHk",
+       thumbnail: "http://img.youtube.com/vi/WFbvJ0dVlHk/0.jpg",
+        duration: 2440,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2757,
+      identifier: "GOTOpia-2020-4",
+         meeting: "GOTOpia",
+         edition: "2020",
+           title: "War is Peace, Freedom is Slavery, Ignorance is Strength, Scrum is Agile",
+        speakers: [
+                     "Allen Holub"
+                  ],
+           video: "https://youtube.com/watch?v=F42A3R28WMU",
+       thumbnail: "http://img.youtube.com/vi/F42A3R28WMU/0.jpg",
+        duration: 2720,
+            tags: [
+                     "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1182,
       identifier: "CppCon-2017-98",
          meeting: "CppCon",
@@ -47030,7 +57033,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/KtMbQ-hg8vM/0.jpg",
         duration: 2292,
             tags: [
-                     "c++",
                      "embedded",
                      "live",
                      "talk"
@@ -47119,6 +57121,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2699,
+      identifier: "GOTO Copenhagen-2019-8",
+         meeting: "GOTO Copenhagen",
+         edition: "2019",
+           title: "WebAssembly Beyond the Browser",
+        speakers: [
+                     "Dan Callahan"
+                  ],
+           video: "https://youtube.com/watch?v=TGo3vJVTlyQ",
+       thumbnail: "http://img.youtube.com/vi/TGo3vJVTlyQ/0.jpg",
+        duration: 2715,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1969,
       identifier: "Italian C++ Conference-2021-2",
          meeting: "Italian C++ Conference",
@@ -47171,7 +57192,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/sa3OXyIibYs/0.jpg",
         duration: 1954,
             tags: [
-                     "c++",
                      "embedded",
                      "online",
                      "talk"
@@ -47215,6 +57235,45 @@ const talks = [
                      "c++",
                      "keynote",
                      "online"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2319,
+      identifier: "Going Native-2012-5",
+         meeting: "Going Native",
+         edition: "2012",
+           title: "Welcome Ale Contenti, VC11 and Beyond with Steve Teixeira and Tarek Madkour",
+        speakers: [
+                     
+                  ],
+           video: "https://youtube.com/watch?v=8je9GVxeGIQ",
+       thumbnail: "http://img.youtube.com/vi/8je9GVxeGIQ/0.jpg",
+        duration: 2453,
+            tags: [
+                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2553,
+      identifier: "GOTO Chicago-2019-12",
+         meeting: "GOTO Chicago",
+         edition: "2019",
+           title: "Welcome to Serverless 2.0",
+        speakers: [
+                     "Alex Ellis"
+                  ],
+           video: "https://youtube.com/watch?v=JvXm-oHi5Mg",
+       thumbnail: "http://img.youtube.com/vi/JvXm-oHi5Mg/0.jpg",
+        duration: 2425,
+            tags: [
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "English"
@@ -47292,7 +57351,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/8qidMzxlnt4/0.jpg",
         duration: 5312,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -47372,7 +57430,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/bReSjVGMDRs/0.jpg",
         duration: 3943,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -47392,7 +57449,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/qkO1Y0Bh74U/0.jpg",
         duration: 4824,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -47613,7 +57669,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/-Hb-9TUyjoo/0.jpg",
         duration: 3348,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -47633,7 +57688,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/Fzbotzi1gYs/0.jpg",
         duration: 3757,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -47653,7 +57707,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/ndnvOElnyUg/0.jpg",
         duration: 5307,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -47673,7 +57726,44 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/D4Ja62qOc4E/0.jpg",
         duration: 3043,
             tags: [
-                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2413,
+      identifier: "GOTO Amsterdam-2019-40",
+         meeting: "GOTO Amsterdam",
+         edition: "2019",
+           title: "What Does THIS Button Do? Serverless and IoT",
+        speakers: [
+                     "Eric Johnson"
+                  ],
+           video: "https://youtube.com/watch?v=qVckxgkzyr8",
+       thumbnail: "http://img.youtube.com/vi/qVckxgkzyr8/0.jpg",
+        duration: 2218,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2592,
+      identifier: "GOTO Chicago-2019-51",
+         meeting: "GOTO Chicago",
+         edition: "2019",
+           title: "What Does THIS Button Do? Serverless and IoT",
+        speakers: [
+                     "Eric Johnson"
+                  ],
+           video: "https://youtube.com/watch?v=V086m3FjNws",
+       thumbnail: "http://img.youtube.com/vi/V086m3FjNws/0.jpg",
+        duration: 2932,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -47694,6 +57784,25 @@ const talks = [
         duration: 5403,
             tags: [
                      "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2466,
+      identifier: "GOTO Berlin-2019-6",
+         meeting: "GOTO Berlin",
+         edition: "2019",
+           title: "What Engineering Managers Should Do (and Why We Don't)",
+        speakers: [
+                     "Lena Reinhard"
+                  ],
+           video: "https://youtube.com/watch?v=Q_bJVokYLRI",
+       thumbnail: "http://img.youtube.com/vi/Q_bJVokYLRI/0.jpg",
+        duration: 2441,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -47733,7 +57842,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/w0sz5WbS5AM/0.jpg",
         duration: 3772,
             tags: [
-                     "c++",
                      "keynote",
                      "online"
                   ],
@@ -47813,7 +57921,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/kILN5ykkzdg/0.jpg",
         duration: 3696,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -47833,7 +57940,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/dU3IgHrAmFA/0.jpg",
         duration: 3024,
             tags: [
-                     "c++",
                      "online",
                      "talk"
                   ],
@@ -47873,7 +57979,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/Pexsn5f61kw/0.jpg",
         duration: 3485,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -47893,7 +57998,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/S-vawwjQe9Y/0.jpg",
         duration: 3251,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -47913,7 +58017,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/HNE4zcSfTIw/0.jpg",
         duration: 3233,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -47973,7 +58076,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/Oh4OuHrL5fA/0.jpg",
         duration: 2369,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -48083,6 +58185,25 @@ const talks = [
         language: "English"
    },
    {
+          number: 2557,
+      identifier: "GOTO Chicago-2019-16",
+         meeting: "GOTO Chicago",
+         edition: "2019",
+           title: "What Technical Leads Can Learn from Great General Managers",
+        speakers: [
+                     "Courtney Hemphill"
+                  ],
+           video: "https://youtube.com/watch?v=G6MlnHpwqlI",
+       thumbnail: "http://img.youtube.com/vi/G6MlnHpwqlI/0.jpg",
+        duration: 2215,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 837,
       identifier: "CppCon-2014-53",
          meeting: "CppCon",
@@ -48123,6 +58244,26 @@ const talks = [
         language: "English"
    },
    {
+          number: 2744,
+      identifier: "GOTO Oslo-2018-5",
+         meeting: "GOTO Oslo",
+         edition: "2018",
+           title: "What We Left Behind - 10 Valuable Skills From The 1990s",
+        speakers: [
+                     "Eamonn Boyle",
+                     "Garth Gilmour"
+                  ],
+           video: "https://youtube.com/watch?v=DrBPXSiUWbI",
+       thumbnail: "http://img.youtube.com/vi/DrBPXSiUWbI/0.jpg",
+        duration: 2375,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1050,
       identifier: "CppCon-2016-66",
          meeting: "CppCon",
@@ -48156,7 +58297,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/kVndwPh0JlU/0.jpg",
         duration: 2910,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -48196,9 +58336,27 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/JDQEh-F_jxc/0.jpg",
         duration: 973,
             tags: [
-                     "c++",
                      "lightning",
                      "live"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2726,
+      identifier: "GOTO Copenhagen-2019-35",
+         meeting: "GOTO Copenhagen",
+         edition: "2019",
+           title: "What's New in Swift",
+        speakers: [
+                     "Daniel H Steinberg"
+                  ],
+           video: "https://youtube.com/watch?v=6P-nh3uNnsQ",
+       thumbnail: "http://img.youtube.com/vi/6P-nh3uNnsQ/0.jpg",
+        duration: 2268,
+            tags: [
+                     "live",
+                     "talk"
                   ],
            level: 0,
         language: "English"
@@ -48397,7 +58555,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/S0No2zSJmks/0.jpg",
         duration: 3651,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -48437,7 +58594,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/n6dqOFeFwtc/0.jpg",
         duration: 1128,
             tags: [
-                     "c++",
                      "lightning",
                      "live"
                   ],
@@ -48457,7 +58613,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/CGof5wgrvh0/0.jpg",
         duration: 2551,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -48500,6 +58655,44 @@ const talks = [
                      "c++",
                      "lightning",
                      "live"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2373,
+      identifier: "GOTO Amsterdam-2018-41",
+         meeting: "GOTO Amsterdam",
+         edition: "2018",
+           title: "Where Does the Real World End - The Blurring of the Physical & Digital",
+        speakers: [
+                     "Rebecca Parsons"
+                  ],
+           video: "https://youtube.com/watch?v=z68AfVmD2SU",
+       thumbnail: "http://img.youtube.com/vi/z68AfVmD2SU/0.jpg",
+        duration: 3167,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2756,
+      identifier: "GOTOpia-2020-3",
+         meeting: "GOTOpia",
+         edition: "2020",
+           title: "Where We're Going, We Don't Need Servers!",
+        speakers: [
+                     "Sam Newman"
+                  ],
+           video: "https://youtube.com/watch?v=Mz-b-rQ9wL0",
+       thumbnail: "http://img.youtube.com/vi/Mz-b-rQ9wL0/0.jpg",
+        duration: 3010,
+            tags: [
+                     "online",
+                     "talk"
                   ],
            level: 0,
         language: "English"
@@ -48557,7 +58750,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/Se9AEznM8TI/0.jpg",
         duration: 221,
             tags: [
-                     "c++",
                      "lightning",
                      "live"
                   ],
@@ -48577,7 +58769,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/LkqTLJK2API/0.jpg",
         duration: 4129,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -48645,6 +58836,63 @@ const talks = [
         language: "English"
    },
    {
+          number: 2610,
+      identifier: "GOTO Chicago-2020-11",
+         meeting: "GOTO Chicago",
+         edition: "2020",
+           title: "Why Are Distributed Systems so Hard?",
+        speakers: [
+                     "Denise Yu"
+                  ],
+           video: "https://youtube.com/watch?v=IzbYUjPAm5A",
+       thumbnail: "http://img.youtube.com/vi/IzbYUjPAm5A/0.jpg",
+        duration: 1321,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2718,
+      identifier: "GOTO Copenhagen-2019-27",
+         meeting: "GOTO Copenhagen",
+         edition: "2019",
+           title: "Why Aren't You A Data-Driven AI Company Yet?",
+        speakers: [
+                     "Jan Bosch"
+                  ],
+           video: "https://youtube.com/watch?v=cNAKfWCx3is",
+       thumbnail: "http://img.youtube.com/vi/cNAKfWCx3is/0.jpg",
+        duration: 3143,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2347,
+      identifier: "GOTO Amsterdam-2018-15",
+         meeting: "GOTO Amsterdam",
+         edition: "2018",
+           title: "Why Business Cases are Toxic",
+        speakers: [
+                     "Chris Matts"
+                  ],
+           video: "https://youtube.com/watch?v=KvOcjmpPQCc",
+       thumbnail: "http://img.youtube.com/vi/KvOcjmpPQCc/0.jpg",
+        duration: 2495,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1480,
       identifier: "CppCon-2020-100",
          meeting: "CppCon",
@@ -48705,6 +58953,44 @@ const talks = [
         language: "English"
    },
    {
+          number: 2609,
+      identifier: "GOTO Chicago-2020-10",
+         meeting: "GOTO Chicago",
+         edition: "2020",
+           title: "Why GraphQL Between Microservices Is the Worst & Best Idea",
+        speakers: [
+                     "Uri Goldshtein"
+                  ],
+           video: "https://youtube.com/watch?v=T0zpPO7Ub_s",
+       thumbnail: "http://img.youtube.com/vi/T0zpPO7Ub_s/0.jpg",
+        duration: 1175,
+            tags: [
+                     "lightning",
+                     "live"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2474,
+      identifier: "GOTO Berlin-2019-14",
+         meeting: "GOTO Berlin",
+         edition: "2019",
+           title: "Why I love Kubernetes Failure Stories and You Should Too",
+        speakers: [
+                     "Henning Jacobs"
+                  ],
+           video: "https://youtube.com/watch?v=E0GBU8Q-VFY",
+       thumbnail: "http://img.youtube.com/vi/E0GBU8Q-VFY/0.jpg",
+        duration: 2003,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 2237,
       identifier: "Live Embedded Event-2021-33",
          meeting: "Live Embedded Event",
@@ -48717,9 +59003,27 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/zETZEhwmMUo/0.jpg",
         duration: 2937,
             tags: [
-                     "c++",
                      "embedded",
                      "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2651,
+      identifier: "GOTO Copenhagen-2018-2",
+         meeting: "GOTO Copenhagen",
+         edition: "2018",
+           title: "Why I Was Wrong About TypeScript",
+        speakers: [
+                     "TJ VanToll"
+                  ],
+           video: "https://youtube.com/watch?v=AQOEZVG2WY0",
+       thumbnail: "http://img.youtube.com/vi/AQOEZVG2WY0/0.jpg",
+        duration: 2879,
+            tags: [
+                     "live",
                      "talk"
                   ],
            level: 0,
@@ -48766,6 +59070,82 @@ const talks = [
         language: "English"
    },
    {
+          number: 2563,
+      identifier: "GOTO Chicago-2019-22",
+         meeting: "GOTO Chicago",
+         edition: "2019",
+           title: "Why Open Source Firmware is Important",
+        speakers: [
+                     "Jessie Frazelle"
+                  ],
+           video: "https://youtube.com/watch?v=mUTx61t443A",
+       thumbnail: "http://img.youtube.com/vi/mUTx61t443A/0.jpg",
+        duration: 1910,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2445,
+      identifier: "GOTO Berlin-2018-32",
+         meeting: "GOTO Berlin",
+         edition: "2018",
+           title: "Why you don't see Blockchain in your Everyday Life...yet",
+        speakers: [
+                     "Ricardo Garcia"
+                  ],
+           video: "https://youtube.com/watch?v=14BqkmqXVDY",
+       thumbnail: "http://img.youtube.com/vi/14BqkmqXVDY/0.jpg",
+        duration: 2415,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2578,
+      identifier: "GOTO Chicago-2019-37",
+         meeting: "GOTO Chicago",
+         edition: "2019",
+           title: "Why You Need a Software Delivery Machine",
+        speakers: [
+                     "Rod Johnson"
+                  ],
+           video: "https://youtube.com/watch?v=siHsyULIZ5o",
+       thumbnail: "http://img.youtube.com/vi/siHsyULIZ5o/0.jpg",
+        duration: 3006,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2676,
+      identifier: "GOTO Copenhagen-2018-27",
+         meeting: "GOTO Copenhagen",
+         edition: "2018",
+           title: "Why You Need a Software Delivery Machine",
+        speakers: [
+                     "Rod Johnson"
+                  ],
+           video: "https://youtube.com/watch?v=obDhNejPM9M",
+       thumbnail: "http://img.youtube.com/vi/obDhNejPM9M/0.jpg",
+        duration: 2508,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1682,
       identifier: "code::dive-2019-29",
          meeting: "code::dive",
@@ -48778,7 +59158,25 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/rMzHUwYo32g/0.jpg",
         duration: 2993,
             tags: [
-                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2694,
+      identifier: "GOTO Copenhagen-2019-3",
+         meeting: "GOTO Copenhagen",
+         edition: "2019",
+           title: "Why Your Private Cloud is Probably a Bad Idea",
+        speakers: [
+                     "Sam Newman"
+                  ],
+           video: "https://youtube.com/watch?v=MbaPtzSuQII",
+       thumbnail: "http://img.youtube.com/vi/MbaPtzSuQII/0.jpg",
+        duration: 2907,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -48798,7 +59196,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/a0KozcRhotM/0.jpg",
         duration: 5066,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -48846,6 +59243,44 @@ const talks = [
         language: "English"
    },
    {
+          number: 2667,
+      identifier: "GOTO Copenhagen-2018-18",
+         meeting: "GOTO Copenhagen",
+         edition: "2018",
+           title: "With Age Comes Wisdom: Lessons Learned in 15 Years of Building Software",
+        speakers: [
+                     "Daniel Bryant"
+                  ],
+           video: "https://youtube.com/watch?v=T3l4QYC_9lo",
+       thumbnail: "http://img.youtube.com/vi/T3l4QYC_9lo/0.jpg",
+        duration: 2608,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2582,
+      identifier: "GOTO Chicago-2019-41",
+         meeting: "GOTO Chicago",
+         edition: "2019",
+           title: "Without Data, you're just another Person with Opinions",
+        speakers: [
+                     "Baruch Sadogursky"
+                  ],
+           video: "https://youtube.com/watch?v=m9bglOSYxRY",
+       thumbnail: "http://img.youtube.com/vi/m9bglOSYxRY/0.jpg",
+        duration: 2791,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 1730,
       identifier: "accu-2016-25",
          meeting: "accu",
@@ -48858,7 +59293,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/xIt97Ga_bJU/0.jpg",
         duration: 947,
             tags: [
-                     "c++",
                      "lightning",
                      "live"
                   ],
@@ -48898,7 +59332,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/nqgmuZ5T7OY/0.jpg",
         duration: 202,
             tags: [
-                     "c++",
                      "lightning",
                      "online"
                   ],
@@ -48978,7 +59411,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/1A1fBbiGTZ4/0.jpg",
         duration: 3352,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -48998,7 +59430,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/cBs3TQXnZqw/0.jpg",
         duration: 1141,
             tags: [
-                     "c++",
                      "lightning",
                      "live"
                   ],
@@ -49098,7 +59529,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/3VtGCPIoBfs/0.jpg",
         duration: 4686,
             tags: [
-                     "c++",
                      "embedded",
                      "keynote",
                      "live"
@@ -49139,7 +59569,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/vrfYLlR8X8k/0.jpg",
         duration: 5365,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -49159,7 +59588,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/9tvbz8CSI8M/0.jpg",
         duration: 3647,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
@@ -49259,7 +59687,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/2XCDm3MoXUY/0.jpg",
         duration: 1173,
             tags: [
-                     "c++",
                      "lightning",
                      "live"
                   ],
@@ -49399,7 +59826,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/cmDjNyw55-Y/0.jpg",
         duration: 1849,
             tags: [
-                     "c++",
                      "embedded",
                      "online",
                      "talk"
@@ -49420,7 +59846,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/Hz4Twl066qQ/0.jpg",
         duration: 3176,
             tags: [
-                     "c++",
                      "embedded",
                      "online",
                      "talk"
@@ -49501,7 +59926,82 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/zpBYU2kc7og/0.jpg",
         duration: 3396,
             tags: [
-                     "c++",
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2603,
+      identifier: "GOTO Chicago-2020-4",
+         meeting: "GOTO Chicago",
+         edition: "2020",
+           title: "You Really Don't Need All That JavaScript, I Promise",
+        speakers: [
+                     "Stuart Langridge"
+                  ],
+           video: "https://youtube.com/watch?v=e1L2WgXu2JY",
+       thumbnail: "http://img.youtube.com/vi/e1L2WgXu2JY/0.jpg",
+        duration: 1280,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2698,
+      identifier: "GOTO Copenhagen-2019-7",
+         meeting: "GOTO Copenhagen",
+         edition: "2019",
+           title: "You Really Don't Need All that JavaScript, I Promise",
+        speakers: [
+                     "Stuart Langridge"
+                  ],
+           video: "https://youtube.com/watch?v=rxlJRydqmk8",
+       thumbnail: "http://img.youtube.com/vi/rxlJRydqmk8/0.jpg",
+        duration: 2624,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2816,
+      identifier: "GOTOpia-2021-5",
+         meeting: "GOTOpia",
+         edition: "2021",
+           title: "You're Testing WHAT?",
+        speakers: [
+                     "Gojko Adzic"
+                  ],
+           video: "https://youtube.com/watch?v=5_IW7npQk9k",
+       thumbnail: "http://img.youtube.com/vi/5_IW7npQk9k/0.jpg",
+        duration: 2321,
+            tags: [
+                     "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2674,
+      identifier: "GOTO Copenhagen-2018-25",
+         meeting: "GOTO Copenhagen",
+         edition: "2018",
+           title: "Your Brain on Software Development",
+        speakers: [
+                     "Fahran Wallace"
+                  ],
+           video: "https://youtube.com/watch?v=t4z1Hmg5LC0",
+       thumbnail: "http://img.youtube.com/vi/t4z1Hmg5LC0/0.jpg",
+        duration: 2732,
+            tags: [
                      "live",
                      "talk"
                   ],
@@ -49529,6 +60029,44 @@ const talks = [
         language: "English"
    },
    {
+          number: 2454,
+      identifier: "GOTO Berlin-2018-41",
+         meeting: "GOTO Berlin",
+         edition: "2018",
+           title: "Your Superpower User Manual",
+        speakers: [
+                     "Marc Cohen"
+                  ],
+           video: "https://youtube.com/watch?v=XdrzkrePxZI",
+       thumbnail: "http://img.youtube.com/vi/XdrzkrePxZI/0.jpg",
+        duration: 2605,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2438,
+      identifier: "GOTO Berlin-2018-25",
+         meeting: "GOTO Berlin",
+         edition: "2018",
+           title: "Zen and the Art of Convincing Your Company to Use Rust",
+        speakers: [
+                     "Ashley Williams"
+                  ],
+           video: "https://youtube.com/watch?v=Pn-1so-Ibsg",
+       thumbnail: "http://img.youtube.com/vi/Pn-1so-Ibsg/0.jpg",
+        duration: 2745,
+            tags: [
+                     "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
           number: 2203,
       identifier: "Live Embedded Event-2020-34",
          meeting: "Live Embedded Event",
@@ -49541,7 +60079,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/s5yqOTC5yNc/0.jpg",
         duration: 2481,
             tags: [
-                     "c++",
                      "embedded",
                      "online",
                      "talk"
@@ -49562,7 +60099,6 @@ const talks = [
        thumbnail: "http://img.youtube.com/vi/GehO6LPu4qA/0.jpg",
         duration: 5866,
             tags: [
-                     "c++",
                      "live",
                      "talk"
                   ],
