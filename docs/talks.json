@@ -5,7 +5,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2621,
+   "number": 2628,
    "speakers": [
       "Fabio Pereira"
    ],
@@ -60,7 +60,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2353,
+   "number": 2360,
    "speakers": [
       "Kristian Loken Wille",
       "Martin Gravrak"
@@ -117,7 +117,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2431,
+   "number": 2438,
    "speakers": [
       "Blazej Kubiak",
       "Krzysztof Kudrynski"
@@ -305,7 +305,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2404,
+   "number": 2411,
    "speakers": [
       "Juergen Hoeller"
    ],
@@ -380,7 +380,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2626,
+   "number": 2633,
    "speakers": [
       "Kelley Robinson"
    ],
@@ -398,7 +398,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2453,
+   "number": 2460,
    "speakers": [
       "Bernd Rucker"
    ],
@@ -416,7 +416,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2756,
+   "number": 2763,
    "speakers": [
       "Eoin Woods"
    ],
@@ -471,7 +471,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2641,
+   "number": 2648,
    "speakers": [
       "Joep Weijers"
    ],
@@ -508,7 +508,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2418,
+   "number": 2425,
    "speakers": [
       "Grygoriy Gonchar"
    ],
@@ -564,7 +564,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2319,
+   "number": 2326,
    "speakers": [
       "Alberto Brandolini"
    ],
@@ -601,7 +601,7 @@
    "language": "English",
    "level": 0,
    "meeting": "RustFest",
-   "number": 2851,
+   "number": 2871,
    "speakers": [
       "Claudia Saxer"
    ],
@@ -677,7 +677,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2794,
+   "number": 2801,
    "speakers": [
       "Liz Rice"
    ],
@@ -808,7 +808,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2425,
+   "number": 2432,
    "speakers": [
       "Lin Clark"
    ],
@@ -826,7 +826,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2536,
+   "number": 2543,
    "speakers": [
       "Sandro Mancuso"
    ],
@@ -844,7 +844,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2791,
+   "number": 2798,
    "speakers": [
       "Phil Winder"
    ],
@@ -1127,7 +1127,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2346,
+   "number": 2353,
    "speakers": [
       "Markus Volter"
    ],
@@ -1240,7 +1240,7 @@
    "language": "English",
    "level": 0,
    "meeting": "Oxidize Global",
-   "number": 2892,
+   "number": 2912,
    "speakers": [],
    "tags": [
       "Rust",
@@ -1335,7 +1335,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2330,
+   "number": 2337,
    "speakers": [
       "Susanne Kaiser"
    ],
@@ -1560,7 +1560,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Oslo",
-   "number": 2732,
+   "number": 2739,
    "speakers": [
       "Mark West"
    ],
@@ -1578,7 +1578,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2606,
+   "number": 2613,
    "speakers": [
       "Murray Thom"
    ],
@@ -2066,7 +2066,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2757,
+   "number": 2764,
    "speakers": [
       "Eamonn Boyle",
       "Garth Gilmour"
@@ -2124,7 +2124,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2718,
+   "number": 2725,
    "speakers": [
       "Eamonn Boyle",
       "Garth Gilmour"
@@ -2351,7 +2351,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2421,
+   "number": 2428,
    "speakers": [
       "Artur Margonari"
    ],
@@ -2369,7 +2369,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2562,
+   "number": 2569,
    "speakers": [
       "Derek Ferguson"
    ],
@@ -2425,7 +2425,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2532,
+   "number": 2539,
    "speakers": [
       "John Napier"
    ],
@@ -2462,7 +2462,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2598,
+   "number": 2605,
    "speakers": [
       "Uri Goldshtein"
    ],
@@ -2480,7 +2480,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2542,
+   "number": 2549,
    "speakers": [
       "Josh Humphries"
    ],
@@ -2498,7 +2498,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2595,
+   "number": 2602,
    "speakers": [
       "Dave Karow"
    ],
@@ -2761,7 +2761,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2785,
+   "number": 2792,
    "speakers": [
       "Anna Urbaniak",
       "Daniel Terhorst-North"
@@ -2798,7 +2798,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2391,
+   "number": 2398,
    "speakers": [
       "Marco Gercke"
    ],
@@ -2872,7 +2872,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2509,
+   "number": 2516,
    "speakers": [
       "Chris Munns"
    ],
@@ -3099,7 +3099,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2569,
+   "number": 2576,
    "speakers": [
       "Heidi Waterhouse"
    ],
@@ -3211,7 +3211,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2449,
+   "number": 2456,
    "speakers": [
       "Alejandro Lujan"
    ],
@@ -3229,7 +3229,7 @@
    "language": "English",
    "level": 0,
    "meeting": "RustFest",
-   "number": 2854,
+   "number": 2874,
    "speakers": [
       "Niklas Reppel"
    ],
@@ -3373,6 +3373,25 @@
    "title": "An alternative design for C++20 customization points",
    "video": "https://youtube.com/watch?v=Dsm12yd637E"
 },{
+   "duration": 662,
+   "edition": "",
+   "identifier": "MUC++--67",
+   "language": "English",
+   "level": 0,
+   "meeting": "MUC++",
+   "number": 2318,
+   "speakers": [
+      "Matthaus Brandl"
+   ],
+   "tags": [
+      "c++",
+      "lightning",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/4ZWLv0CbriE/0.jpg",
+   "title": "An application for private inheritance",
+   "video": "https://youtube.com/watch?v=4ZWLv0CbriE"
+},{
    "duration": 5998,
    "edition": "2017",
    "identifier": "C++Now-2017-48",
@@ -3436,7 +3455,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2767,
+   "number": 2774,
    "speakers": [
       "Kenneth Harris II"
    ],
@@ -3473,7 +3492,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2462,
+   "number": 2469,
    "speakers": [
       "Tim Duckett"
    ],
@@ -3566,7 +3585,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2434,
+   "number": 2441,
    "speakers": [
       "Eric Bottard"
    ],
@@ -3584,7 +3603,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2410,
+   "number": 2417,
    "speakers": [
       "Martin Woolley"
    ],
@@ -3640,7 +3659,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Oslo",
-   "number": 2729,
+   "number": 2736,
    "speakers": [
       "Rafael Winterhalter"
    ],
@@ -3676,7 +3695,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2363,
+   "number": 2370,
    "speakers": [
       "Julius Volz"
    ],
@@ -3788,7 +3807,7 @@
    "language": "English",
    "level": 0,
    "meeting": "Oxidize Global",
-   "number": 2890,
+   "number": 2910,
    "speakers": [],
    "tags": [
       "Rust",
@@ -3877,7 +3896,7 @@
    "language": "English",
    "level": 0,
    "meeting": "Oxidize Global",
-   "number": 2882,
+   "number": 2902,
    "speakers": [],
    "tags": [
       "Rust",
@@ -3912,7 +3931,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2514,
+   "number": 2521,
    "speakers": [
       "Kelley Robinson"
    ],
@@ -3942,6 +3961,44 @@
    "thumbnail": "http://img.youtube.com/vi/bxaj_0o4XAI/0.jpg",
    "title": "Anatomy of a Smart Pointer",
    "video": "https://youtube.com/watch?v=bxaj_0o4XAI"
+},{
+   "duration": 639,
+   "edition": "",
+   "identifier": "MUC++--62",
+   "language": "English",
+   "level": 0,
+   "meeting": "MUC++",
+   "number": 2315,
+   "speakers": [
+      "Klaus Iglberger"
+   ],
+   "tags": [
+      "c++",
+      "lightning",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/7wEvyI5ejks/0.jpg",
+   "title": "Anatomy of Initializer Lists",
+   "video": "https://youtube.com/watch?v=7wEvyI5ejks"
+},{
+   "duration": 726,
+   "edition": "",
+   "identifier": "MUC++--63",
+   "language": "English",
+   "level": 0,
+   "meeting": "MUC++",
+   "number": 2316,
+   "speakers": [
+      "Roland Bock"
+   ],
+   "tags": [
+      "c++",
+      "lightning",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/MzO66bG-rNY/0.jpg",
+   "title": "Anatomy of the Conditional Operator",
+   "video": "https://youtube.com/watch?v=MzO66bG-rNY"
 },{
    "duration": 3457,
    "edition": "2019",
@@ -4062,7 +4119,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2619,
+   "number": 2626,
    "speakers": [
       "Francis Potter"
    ],
@@ -4080,7 +4137,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2326,
+   "number": 2333,
    "speakers": [
       "Paige Bailey"
    ],
@@ -4155,7 +4212,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2770,
+   "number": 2777,
    "speakers": [
       "Dylan Beattie"
    ],
@@ -4173,7 +4230,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2539,
+   "number": 2546,
    "speakers": [
       "Jim Manico"
    ],
@@ -4191,7 +4248,7 @@
    "language": "English",
    "level": 0,
    "meeting": "RustFest",
-   "number": 2865,
+   "number": 2885,
    "speakers": [
       "Jin Mingjian"
    ],
@@ -4228,7 +4285,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2758,
+   "number": 2765,
    "speakers": [
       "Liz Rice"
    ],
@@ -4246,7 +4303,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2761,
+   "number": 2768,
    "speakers": [
       "Liz Rice"
    ],
@@ -4301,7 +4358,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2759,
+   "number": 2766,
    "speakers": [
       "Liz Rice"
    ],
@@ -4319,7 +4376,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2764,
+   "number": 2771,
    "speakers": [
       "Liz Rice"
    ],
@@ -4414,7 +4471,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2428,
+   "number": 2435,
    "speakers": [
       "Christoph Windheuser"
    ],
@@ -4561,7 +4618,7 @@
    "language": "English",
    "level": 0,
    "meeting": "RustFest",
-   "number": 2855,
+   "number": 2875,
    "speakers": [
       "Florian Gilcher"
    ],
@@ -4824,7 +4881,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2494,
+   "number": 2501,
    "speakers": [
       "Randy Shoup"
    ],
@@ -4842,7 +4899,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2380,
+   "number": 2387,
    "speakers": [
       "Eric Johnson"
    ],
@@ -4916,7 +4973,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2660,
+   "number": 2667,
    "speakers": [
       "Mourad Sidky"
    ],
@@ -4953,7 +5010,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2666,
+   "number": 2673,
    "speakers": [
       "Morten Birk"
    ],
@@ -5029,7 +5086,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2742,
+   "number": 2749,
    "speakers": [
       "Bernd Rucker"
    ],
@@ -5123,7 +5180,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2712,
+   "number": 2719,
    "speakers": [
       "Julie Lerman"
    ],
@@ -5636,7 +5693,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2777,
+   "number": 2784,
    "speakers": [
       "Bernd Rucker"
    ],
@@ -5654,7 +5711,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2506,
+   "number": 2513,
    "speakers": [
       "Dean Wampler"
    ],
@@ -5690,7 +5747,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2610,
+   "number": 2617,
    "speakers": [
       "Adam Butler"
    ],
@@ -5708,7 +5765,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2459,
+   "number": 2466,
    "speakers": [
       "Nicolas Frankel"
    ],
@@ -5820,7 +5877,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2456,
+   "number": 2463,
    "speakers": [
       "Johannes Stern"
    ],
@@ -5990,7 +6047,7 @@
    "language": "English",
    "level": 0,
    "meeting": "RustConf",
-   "number": 2842,
+   "number": 2849,
    "speakers": [
       "Esteban Kuber"
    ],
@@ -6329,7 +6386,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2574,
+   "number": 2581,
    "speakers": [
       "Cedric Hurst"
    ],
@@ -6404,7 +6461,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2669,
+   "number": 2676,
    "speakers": [
       "Jacob Sherson"
    ],
@@ -6460,7 +6517,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2582,
+   "number": 2589,
    "speakers": [
       "Gwen Shapira"
    ],
@@ -6686,7 +6743,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2348,
+   "number": 2355,
    "speakers": [
       "Jeroen van Megchelen"
    ],
@@ -6760,7 +6817,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2407,
+   "number": 2414,
    "speakers": [
       "Nikolas Burk"
    ],
@@ -7290,7 +7347,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2609,
+   "number": 2616,
    "speakers": [
       "Dariusz Kuc"
    ],
@@ -7364,7 +7421,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2474,
+   "number": 2481,
    "speakers": [
       "Evelina Gabasova"
    ],
@@ -7401,7 +7458,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2481,
+   "number": 2488,
    "speakers": [
       "Boaz Ziniman"
    ],
@@ -7419,7 +7476,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2338,
+   "number": 2345,
    "speakers": [
       "Kolton Andrus"
    ],
@@ -7457,7 +7514,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2464,
+   "number": 2471,
    "speakers": [
       "James Beswick"
    ],
@@ -7570,7 +7627,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2642,
+   "number": 2649,
    "speakers": [
       "Ellen Korbes"
    ],
@@ -7588,7 +7645,7 @@
    "language": "English",
    "level": 0,
    "meeting": "RustConf",
-   "number": 2828,
+   "number": 2835,
    "speakers": [
       "Jeremy Fitzhardinge"
    ],
@@ -7626,7 +7683,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2423,
+   "number": 2430,
    "speakers": [
       "Willem Meints"
    ],
@@ -7644,7 +7701,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2427,
+   "number": 2434,
    "speakers": [
       "Gary Crawford"
    ],
@@ -7662,7 +7719,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2788,
+   "number": 2795,
    "speakers": [
       "Gary Crawford"
    ],
@@ -7736,7 +7793,7 @@
    "language": "English",
    "level": 0,
    "meeting": "RustFest",
-   "number": 2867,
+   "number": 2887,
    "speakers": [
       "Aissata Maiga"
    ],
@@ -7755,7 +7812,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2334,
+   "number": 2341,
    "speakers": [
       "Markus Volter"
    ],
@@ -7773,7 +7830,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2694,
+   "number": 2701,
    "speakers": [
       "Eric Johnson"
    ],
@@ -7791,7 +7848,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2696,
+   "number": 2703,
    "speakers": [
       "Ulf Wiger"
    ],
@@ -7847,7 +7904,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2646,
+   "number": 2653,
    "speakers": [
       "Mark West"
    ],
@@ -7883,7 +7940,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2787,
+   "number": 2794,
    "speakers": [
       "Robin Moffatt"
    ],
@@ -7901,7 +7958,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2627,
+   "number": 2634,
    "speakers": [
       "Ayesha Mazumdar"
    ],
@@ -8032,7 +8089,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2496,
+   "number": 2503,
    "speakers": [
       "Erik St. Martin"
    ],
@@ -8069,7 +8126,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2377,
+   "number": 2384,
    "speakers": [
       "Kief Morris"
    ],
@@ -8125,7 +8182,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2704,
+   "number": 2711,
    "speakers": [
       "Darrel Miller"
    ],
@@ -8160,7 +8217,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2442,
+   "number": 2449,
    "speakers": [
       "Johan Stokking"
    ],
@@ -8233,7 +8290,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2349,
+   "number": 2356,
    "speakers": [
       "Albert Gorski"
    ],
@@ -8251,7 +8308,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2446,
+   "number": 2453,
    "speakers": [
       "Monica Lent"
    ],
@@ -8286,7 +8343,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2461,
+   "number": 2468,
    "speakers": [
       "Philippe De Ryck"
    ],
@@ -8342,7 +8399,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2484,
+   "number": 2491,
    "speakers": [
       "Matt Godbolt"
    ],
@@ -11263,7 +11320,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2511,
+   "number": 2518,
    "speakers": [
       "Dominica DeGrandis"
    ],
@@ -11413,7 +11470,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2384,
+   "number": 2391,
    "speakers": [
       "Heather Gray"
    ],
@@ -11469,7 +11526,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2763,
+   "number": 2770,
    "speakers": [
       "Liz Rice"
    ],
@@ -11525,7 +11582,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2417,
+   "number": 2424,
    "speakers": [
       "Jan Janke"
    ],
@@ -11651,7 +11708,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2552,
+   "number": 2559,
    "speakers": [
       "Nicole Bryan"
    ],
@@ -11764,7 +11821,7 @@
    "language": "English",
    "level": 0,
    "meeting": "RustConf",
-   "number": 2837,
+   "number": 2844,
    "speakers": [
       "Isobel Redelmeier"
    ],
@@ -11840,7 +11897,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2676,
+   "number": 2683,
    "speakers": [
       "Jason Taylor"
    ],
@@ -12007,7 +12064,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2522,
+   "number": 2529,
    "speakers": [
       "Cameron Stewart"
    ],
@@ -12045,7 +12102,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2749,
+   "number": 2756,
    "speakers": [
       "Kasun Indrasiri"
    ],
@@ -12063,7 +12120,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2804,
+   "number": 2811,
    "speakers": [
       "Daniel Bryant"
    ],
@@ -12081,7 +12138,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2661,
+   "number": 2668,
    "speakers": [
       "Holly Cummins"
    ],
@@ -12099,7 +12156,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2504,
+   "number": 2511,
    "speakers": [
       "Kenny Bastani"
    ],
@@ -12117,7 +12174,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2497,
+   "number": 2504,
    "speakers": [
       "Martin Thompson"
    ],
@@ -12211,7 +12268,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2546,
+   "number": 2553,
    "speakers": [
       "Stephen Magill"
    ],
@@ -12397,7 +12454,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2815,
+   "number": 2822,
    "speakers": [
       "Yury Nino"
    ],
@@ -12503,13 +12560,32 @@
    "title": "Command Line Parser Library   2017",
    "video": "https://youtube.com/watch?v=Kq8lOymvRcE"
 },{
+   "duration": 669,
+   "edition": "",
+   "identifier": "MUC++--75",
+   "language": "English",
+   "level": 0,
+   "meeting": "MUC++",
+   "number": 2321,
+   "speakers": [
+      "Klaus Iglberger"
+   ],
+   "tags": [
+      "c++",
+      "lightning",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/0SrCygfo0pw/0.jpg",
+   "title": "Command vs Strategy",
+   "video": "https://youtube.com/watch?v=0SrCygfo0pw"
+},{
    "duration": 2376,
    "edition": "2019",
    "identifier": "GOTO Amsterdam-2019-11",
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2365,
+   "number": 2372,
    "speakers": [
       "Philippe De Ryck"
    ],
@@ -12527,7 +12603,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2786,
+   "number": 2793,
    "speakers": [
       "Aino Vonge Corry"
    ],
@@ -12766,6 +12842,25 @@
    "title": "Compile-time 'reparsing'",
    "video": "https://youtube.com/watch?v=59sSMTgFQRc"
 },{
+   "duration": 1763,
+   "edition": "2021",
+   "identifier": "RustConf-2021-11",
+   "language": "English",
+   "level": 0,
+   "meeting": "RustConf",
+   "number": 2865,
+   "speakers": [
+      "Zac Burns"
+   ],
+   "tags": [
+      "Rust",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/4_Jg-rLDy-Y/0.jpg",
+   "title": "Compile-Time Social Coordination",
+   "video": "https://youtube.com/watch?v=4_Jg-rLDy-Y"
+},{
    "duration": 3066,
    "edition": "2015",
    "identifier": "CppCon-2015-74",
@@ -12906,7 +13001,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2717,
+   "number": 2724,
    "speakers": [
       "Feynman Liang"
    ],
@@ -12981,7 +13076,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2487,
+   "number": 2494,
    "speakers": [
       "Joe Armstrong"
    ],
@@ -12999,7 +13094,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2430,
+   "number": 2437,
    "speakers": [
       "Katharine Jarmul"
    ],
@@ -13430,7 +13525,7 @@
    "language": "English",
    "level": 0,
    "meeting": "RustConf",
-   "number": 2847,
+   "number": 2854,
    "speakers": [
       "Sian Griffin"
    ],
@@ -13449,7 +13544,7 @@
    "language": "English",
    "level": 0,
    "meeting": "RustConf",
-   "number": 2822,
+   "number": 2829,
    "speakers": [
       "Florian Gilcher",
       "Steve Klabnik"
@@ -13469,7 +13564,7 @@
    "language": "English",
    "level": 0,
    "meeting": "RustConf",
-   "number": 2838,
+   "number": 2845,
    "speakers": [
       "Florian Gilcher",
       "Steve Klabnik"
@@ -13489,7 +13584,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2317,
+   "number": 2324,
    "speakers": [
       "Sam Newman"
    ],
@@ -13562,7 +13657,7 @@
    "language": "English",
    "level": 0,
    "meeting": "RustFest",
-   "number": 2877,
+   "number": 2897,
    "speakers": [
       "Max Orok"
    ],
@@ -13809,7 +13904,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2315,
+   "number": 2322,
    "speakers": [
       "Liz Rice"
    ],
@@ -13846,7 +13941,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2650,
+   "number": 2657,
    "speakers": [
       "Matt Brunt"
    ],
@@ -14037,7 +14132,7 @@
    "language": "English",
    "level": 0,
    "meeting": "RustConf",
-   "number": 2844,
+   "number": 2851,
    "speakers": [
       "Ashley Hauck"
    ],
@@ -14075,7 +14170,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2389,
+   "number": 2396,
    "speakers": [
       "Priyanka Vergadia"
    ],
@@ -14093,7 +14188,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2703,
+   "number": 2710,
    "speakers": [
       "Priyanka Vergadia"
    ],
@@ -14359,7 +14454,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2629,
+   "number": 2636,
    "speakers": [
       "Rajiv Shah"
    ],
@@ -14377,7 +14472,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2437,
+   "number": 2444,
    "speakers": [
       "Dina Sierralta"
    ],
@@ -14506,7 +14601,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2373,
+   "number": 2380,
    "speakers": [
       "Ben Wilcock",
       "Steven van Beelen"
@@ -14544,7 +14639,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2746,
+   "number": 2753,
    "speakers": [
       "Armin Pasalic"
    ],
@@ -14823,7 +14918,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2635,
+   "number": 2642,
    "speakers": [
       "Simon Wardley"
    ],
@@ -14972,7 +15067,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2571,
+   "number": 2578,
    "speakers": [
       "Matt Stratton",
       "PJ Hagerty"
@@ -15010,7 +15105,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2624,
+   "number": 2631,
    "speakers": [
       "Rebecca Nugent"
    ],
@@ -15064,7 +15159,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2557,
+   "number": 2564,
    "speakers": [
       "Andy Cirillo"
    ],
@@ -15119,7 +15214,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Oslo",
-   "number": 2726,
+   "number": 2733,
    "speakers": [
       "Denis Rosa"
    ],
@@ -15610,7 +15705,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2339,
+   "number": 2346,
    "speakers": [
       "Julien Simon"
    ],
@@ -15628,7 +15723,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2341,
+   "number": 2348,
    "speakers": [
       "Allen Day"
    ],
@@ -15741,7 +15836,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2691,
+   "number": 2698,
    "speakers": [
       "Dave Karow"
    ],
@@ -15759,7 +15854,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2548,
+   "number": 2555,
    "speakers": [
       "Dave Karow"
    ],
@@ -15777,7 +15872,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2507,
+   "number": 2514,
    "speakers": [
       "Francesc Campoy"
    ],
@@ -15813,7 +15908,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2329,
+   "number": 2336,
    "speakers": [
       "Brendan Burns"
    ],
@@ -15907,7 +16002,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2492,
+   "number": 2499,
    "speakers": [
       "Casey Rosenthal"
    ],
@@ -15925,7 +16020,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2805,
+   "number": 2812,
    "speakers": [
       "Casey Rosenthal"
    ],
@@ -15943,7 +16038,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2533,
+   "number": 2540,
    "speakers": [
       "Casey Rosenthal"
    ],
@@ -15961,7 +16056,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2529,
+   "number": 2536,
    "speakers": [
       "Jer\u00f4me Petazzoni"
    ],
@@ -16016,7 +16111,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2620,
+   "number": 2627,
    "speakers": [
       "Davis Sawyer"
    ],
@@ -16051,7 +16146,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2705,
+   "number": 2712,
    "speakers": [
       "Chris Atherton"
    ],
@@ -16297,7 +16392,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2457,
+   "number": 2464,
    "speakers": [
       "Matt Fewer",
       "Michele Angioni"
@@ -16373,7 +16468,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2516,
+   "number": 2523,
    "speakers": [
       "Jordan Hendricks"
    ],
@@ -16522,7 +16617,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2495,
+   "number": 2502,
    "speakers": [
       "Adrian Cockcroft"
    ],
@@ -16688,7 +16783,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2342,
+   "number": 2349,
    "speakers": [
       "Olivier Rikken"
    ],
@@ -16776,7 +16871,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2567,
+   "number": 2574,
    "speakers": [
       "Jim Szubryt",
       "Juan Alvarez"
@@ -16795,7 +16890,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2467,
+   "number": 2474,
    "speakers": [
       "France Wang",
       "Yu Ling Cheng"
@@ -16851,7 +16946,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2772,
+   "number": 2779,
    "speakers": [
       "Stefan Judis"
    ],
@@ -16888,7 +16983,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2521,
+   "number": 2528,
    "speakers": [
       "Michael Irwin"
    ],
@@ -16925,7 +17020,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2537,
+   "number": 2544,
    "speakers": [
       "Mike Amundsen"
    ],
@@ -16943,7 +17038,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2541,
+   "number": 2548,
    "speakers": [
       "Stephen Magill"
    ],
@@ -16979,7 +17074,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2490,
+   "number": 2497,
    "speakers": [
       "Alena Hall"
    ],
@@ -17163,7 +17258,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2706,
+   "number": 2713,
    "speakers": [
       "Michael Brunton-Spall"
    ],
@@ -17219,7 +17314,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Oslo",
-   "number": 2728,
+   "number": 2735,
    "speakers": [
       "Hannes Lowette"
    ],
@@ -17275,7 +17370,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2631,
+   "number": 2638,
    "speakers": [
       "Venkat Subramaniam"
    ],
@@ -17389,7 +17484,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2806,
+   "number": 2813,
    "speakers": [
       "Matt Brunt"
    ],
@@ -17426,7 +17521,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2501,
+   "number": 2508,
    "speakers": [
       "Adrian Cockcroft"
    ],
@@ -17463,7 +17558,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2549,
+   "number": 2556,
    "speakers": [
       "Heidi Helfand"
    ],
@@ -17989,7 +18084,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2819,
+   "number": 2826,
    "speakers": [
       "Seth Vargo"
    ],
@@ -18043,7 +18138,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2472,
+   "number": 2479,
    "speakers": [
       "Devon Estes"
    ],
@@ -18061,7 +18156,7 @@
    "language": "English",
    "level": 0,
    "meeting": "Oxidize Global",
-   "number": 2884,
+   "number": 2904,
    "speakers": [],
    "tags": [
       "Rust",
@@ -18266,7 +18361,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2566,
+   "number": 2573,
    "speakers": [
       "Sean McQuillan"
    ],
@@ -18397,7 +18492,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2337,
+   "number": 2344,
    "speakers": [
       "Gitte Klitgaard"
    ],
@@ -18415,7 +18510,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2440,
+   "number": 2447,
    "speakers": [
       "Jaideep Bansal"
    ],
@@ -18658,7 +18753,7 @@
    "language": "English",
    "level": 0,
    "meeting": "RustConf",
-   "number": 2839,
+   "number": 2846,
    "speakers": [
       "Jane Lusby"
    ],
@@ -18696,7 +18791,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2340,
+   "number": 2347,
    "speakers": [
       "Jana Petkanic"
    ],
@@ -18714,7 +18809,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2385,
+   "number": 2392,
    "speakers": [
       "Allard Buijze"
    ],
@@ -18732,7 +18827,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2401,
+   "number": 2408,
    "speakers": [
       "Eberhard Wolff"
    ],
@@ -18750,7 +18845,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2400,
+   "number": 2407,
    "speakers": [
       "Allard Buijze"
    ],
@@ -18768,7 +18863,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2361,
+   "number": 2368,
    "speakers": [
       "Allard Buijze"
    ],
@@ -18805,7 +18900,7 @@
    "language": "English",
    "level": 0,
    "meeting": "RustFest",
-   "number": 2864,
+   "number": 2884,
    "speakers": [
       "Zac Burns"
    ],
@@ -19204,7 +19299,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2438,
+   "number": 2445,
    "speakers": [
       "Jessica Ellis",
       "Lynn Langit"
@@ -19242,7 +19337,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2476,
+   "number": 2483,
    "speakers": [
       "Anders Toxboe"
    ],
@@ -19318,7 +19413,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2452,
+   "number": 2459,
    "speakers": [
       "Nicki Watt"
    ],
@@ -19374,7 +19469,7 @@
    "language": "English",
    "level": 0,
    "meeting": "Oxidize Global",
-   "number": 2883,
+   "number": 2903,
    "speakers": [],
    "tags": [
       "Rust",
@@ -19655,7 +19750,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2752,
+   "number": 2759,
    "speakers": [
       "Eugene Petrenko"
    ],
@@ -19730,7 +19825,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2466,
+   "number": 2473,
    "speakers": [
       "Nicolas Goutay"
    ],
@@ -19935,7 +20030,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2570,
+   "number": 2577,
    "speakers": [
       "Matt Stratton"
    ],
@@ -20046,7 +20141,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2810,
+   "number": 2817,
    "speakers": [],
    "tags": [
       "online",
@@ -20062,7 +20157,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2664,
+   "number": 2671,
    "speakers": [],
    "tags": [
       "live",
@@ -20095,7 +20190,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Oslo",
-   "number": 2733,
+   "number": 2740,
    "speakers": [
       "Tiberiu Covaci"
    ],
@@ -20113,7 +20208,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2768,
+   "number": 2775,
    "speakers": [
       "Simon Brown"
    ],
@@ -20150,7 +20245,7 @@
    "language": "English",
    "level": 0,
    "meeting": "RustConf",
-   "number": 2829,
+   "number": 2836,
    "speakers": [
       "Nick Fitzgerald"
    ],
@@ -20396,7 +20491,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2647,
+   "number": 2654,
    "speakers": [
       "Roman Elizarov"
    ],
@@ -20471,7 +20566,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2436,
+   "number": 2443,
    "speakers": [
       "Olaf Zschiedrich"
    ],
@@ -20508,7 +20603,7 @@
    "language": "English",
    "level": 0,
    "meeting": "RustConf",
-   "number": 2834,
+   "number": 2841,
    "speakers": [
       "Irina Shestak"
    ],
@@ -20544,7 +20639,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2817,
+   "number": 2824,
    "speakers": [
       "Robert Crowe"
    ],
@@ -20562,7 +20657,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2396,
+   "number": 2403,
    "speakers": [
       "Anita Sengupta"
    ],
@@ -20731,7 +20826,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2366,
+   "number": 2373,
    "speakers": [
       "Nicolas Frankel"
    ],
@@ -20768,7 +20863,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2420,
+   "number": 2427,
    "speakers": [
       "Philippe De Ryck"
    ],
@@ -20786,7 +20881,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2387,
+   "number": 2394,
    "speakers": [
       "Roy van Rijn"
    ],
@@ -20823,7 +20918,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2441,
+   "number": 2448,
    "speakers": [
       "Betty Enyonam Kumahor"
    ],
@@ -20841,7 +20936,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2580,
+   "number": 2587,
    "speakers": [
       "Betty Enyonam Kumahor"
    ],
@@ -20859,7 +20954,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2579,
+   "number": 2586,
    "speakers": [
       "Murray Thom"
    ],
@@ -20877,7 +20972,7 @@
    "language": "English",
    "level": 0,
    "meeting": "RustFest",
-   "number": 2861,
+   "number": 2881,
    "speakers": [
       "tkat0"
    ],
@@ -20896,7 +20991,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2325,
+   "number": 2332,
    "speakers": [
       "Mark Heckler"
    ],
@@ -21216,7 +21311,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2397,
+   "number": 2404,
    "speakers": [
       "Russ Olsen"
    ],
@@ -21329,7 +21424,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2318,
+   "number": 2325,
    "speakers": [
       "Hadi Hariri"
    ],
@@ -21573,7 +21668,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2789,
+   "number": 2796,
    "speakers": [
       "Mark Rendle"
    ],
@@ -21584,6 +21679,25 @@
    "thumbnail": "http://img.youtube.com/vi/Mm1WExYXhl8/0.jpg",
    "title": "Futurology for Developers",
    "video": "https://youtube.com/watch?v=Mm1WExYXhl8"
+},{
+   "duration": 1719,
+   "edition": "2021",
+   "identifier": "RustConf-2021-6",
+   "language": "English",
+   "level": 0,
+   "meeting": "RustConf",
+   "number": 2860,
+   "speakers": [
+      "Midas Lambrichts"
+   ],
+   "tags": [
+      "Rust",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/qUu1vJNg8yo/0.jpg",
+   "title": "Fuzz Driven Development",
+   "video": "https://youtube.com/watch?v=qUu1vJNg8yo"
 },{
    "duration": 1836,
    "edition": "2017",
@@ -21686,7 +21800,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2432,
+   "number": 2439,
    "speakers": [
       "Ho Ming Li"
    ],
@@ -22102,7 +22216,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2483,
+   "number": 2490,
    "speakers": [
       "Sam Aaron"
    ],
@@ -22177,7 +22291,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2550,
+   "number": 2557,
    "speakers": [
       "Guen Prawiroatmodjo"
    ],
@@ -22195,7 +22309,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2375,
+   "number": 2382,
    "speakers": [
       "Liz Rice"
    ],
@@ -22231,7 +22345,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2612,
+   "number": 2619,
    "speakers": [
       "Safia Abdalla"
    ],
@@ -22414,7 +22528,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2451,
+   "number": 2458,
    "speakers": [
       "Bret Fisher"
    ],
@@ -22450,7 +22564,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2561,
+   "number": 2568,
    "speakers": [
       "Divya Sasidharan"
    ],
@@ -22468,7 +22582,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2762,
+   "number": 2769,
    "speakers": [
       "Debbie O'Brien"
    ],
@@ -22523,7 +22637,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2443,
+   "number": 2450,
    "speakers": [
       "Stefan Tilkov"
    ],
@@ -22541,7 +22655,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2773,
+   "number": 2780,
    "speakers": [
       "Stefan Tilkov"
    ],
@@ -22559,7 +22673,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2776,
+   "number": 2783,
    "speakers": [
       "Stefan Tilkov"
    ],
@@ -22615,7 +22729,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2686,
+   "number": 2693,
    "speakers": [
       "Anu Srivastava",
       "Franziska Hinkelmann"
@@ -22634,7 +22748,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2639,
+   "number": 2646,
    "speakers": [
       "Dan North"
    ],
@@ -22688,7 +22802,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2413,
+   "number": 2420,
    "speakers": [
       "Oleg Selajev"
    ],
@@ -22724,7 +22838,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2751,
+   "number": 2758,
    "speakers": [
       "Uri Goldshtein"
    ],
@@ -22742,7 +22856,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2802,
+   "number": 2809,
    "speakers": [
       "Uri Goldshtein"
    ],
@@ -22760,7 +22874,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2585,
+   "number": 2592,
    "speakers": [
       "Mike Amundsen"
    ],
@@ -22778,7 +22892,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2743,
+   "number": 2750,
    "speakers": [
       "Mike Amundsen"
    ],
@@ -22953,7 +23067,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Oslo",
-   "number": 2723,
+   "number": 2730,
    "speakers": [
       "Daniel Lebrero Berna"
    ],
@@ -23000,6 +23114,25 @@
    "thumbnail": "http://img.youtube.com/vi/hjUtw73GqI0/0.jpg",
    "title": "Hacker's guide to Web Assembly",
    "video": "https://youtube.com/watch?v=hjUtw73GqI0"
+},{
+   "duration": 931,
+   "edition": "2021",
+   "identifier": "RustConf-2021-12",
+   "language": "English",
+   "level": 0,
+   "meeting": "RustConf",
+   "number": 2866,
+   "speakers": [
+      "Esteban Kuber"
+   ],
+   "tags": [
+      "Rust",
+      "lightning",
+      "online"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/9H9SO2u6Q20/0.jpg",
+   "title": "Hacking rustc: Contributing to the Compiler",
+   "video": "https://youtube.com/watch?v=9H9SO2u6Q20"
 },{
    "duration": 3399,
    "edition": "2020",
@@ -23346,7 +23479,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2500,
+   "number": 2507,
    "speakers": [
       "Noel Rappin"
    ],
@@ -23461,7 +23594,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2605,
+   "number": 2612,
    "speakers": [
       "Rahul Lahiri",
       "Venky Ganti"
@@ -23650,7 +23783,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2470,
+   "number": 2477,
    "speakers": [
       "Leif Nixon"
    ],
@@ -23743,7 +23876,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2665,
+   "number": 2672,
    "speakers": [
       "James Governor"
    ],
@@ -23761,7 +23894,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2578,
+   "number": 2585,
    "speakers": [
       "Evan Sutter"
    ],
@@ -23874,7 +24007,7 @@
    "language": "English",
    "level": 0,
    "meeting": "Oxidize Global",
-   "number": 2888,
+   "number": 2908,
    "speakers": [],
    "tags": [
       "Rust",
@@ -23965,7 +24098,7 @@
    "language": "English",
    "level": 0,
    "meeting": "Oxidize Global",
-   "number": 2886,
+   "number": 2906,
    "speakers": [],
    "tags": [
       "Rust",
@@ -23999,7 +24132,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2477,
+   "number": 2484,
    "speakers": [
       "Jessica Greene"
    ],
@@ -24017,7 +24150,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2799,
+   "number": 2806,
    "speakers": [
       "Christof Leng"
    ],
@@ -24085,13 +24218,32 @@
    "title": "How I learned to Stop Worrying and Love the C++ Type System",
    "video": "https://youtube.com/watch?v=U0DyF4J4beo"
 },{
+   "duration": 927,
+   "edition": "2021",
+   "identifier": "RustConf-2021-9",
+   "language": "English",
+   "level": 0,
+   "meeting": "RustConf",
+   "number": 2863,
+   "speakers": [
+      "Luke Westby"
+   ],
+   "tags": [
+      "Rust",
+      "lightning",
+      "online"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/b0I4vP2CP88/0.jpg",
+   "title": "How I Used Rust to Become Extremely Offline",
+   "video": "https://youtube.com/watch?v=b0I4vP2CP88"
+},{
    "duration": 2993,
    "edition": "2019",
    "identifier": "GOTO Copenhagen-2019-17",
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2689,
+   "number": 2696,
    "speakers": [
       "Jose Paumard",
       "Maurice Naftalin"
@@ -24128,7 +24280,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2800,
+   "number": 2807,
    "speakers": [
       "Sander Hoogendoorn"
    ],
@@ -24183,7 +24335,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2439,
+   "number": 2446,
    "speakers": [
       "Francesco Mondora"
    ],
@@ -24201,7 +24353,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2364,
+   "number": 2371,
    "speakers": [
       "Sander Hoogendoorn"
    ],
@@ -24256,7 +24408,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2698,
+   "number": 2705,
    "speakers": [
       "Chris Philipps"
    ],
@@ -24274,7 +24426,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2444,
+   "number": 2451,
    "speakers": [
       "Eberhard Wolff"
    ],
@@ -24292,7 +24444,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2424,
+   "number": 2431,
    "speakers": [
       "Erik Doernenburg",
       "Stefan Tilkov",
@@ -24312,7 +24464,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2473,
+   "number": 2480,
    "speakers": [
       "Bert Jan Schrijver"
    ],
@@ -24459,7 +24611,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2602,
+   "number": 2609,
    "speakers": [
       "Aaron Parecki"
    ],
@@ -24515,7 +24667,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2623,
+   "number": 2630,
    "speakers": [
       "Angela Dugan",
       "Sara Caldwell"
@@ -24625,7 +24777,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2331,
+   "number": 2338,
    "speakers": [
       "Jamie Dobson"
    ],
@@ -24662,7 +24814,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2350,
+   "number": 2357,
    "speakers": [
       "Cees van Wijk"
    ],
@@ -24680,7 +24832,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2502,
+   "number": 2509,
    "speakers": [
       "Peter Pezaris"
    ],
@@ -24717,7 +24869,7 @@
    "language": "English",
    "level": 0,
    "meeting": "RustConf",
-   "number": 2840,
+   "number": 2847,
    "speakers": [
       "Harrison Bachrach"
    ],
@@ -25038,7 +25190,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2386,
+   "number": 2393,
    "speakers": [
       "Christiaan Hees",
       "Lee Boonstra",
@@ -25232,7 +25384,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2596,
+   "number": 2603,
    "speakers": [
       "Bruce Lawson"
    ],
@@ -25268,7 +25420,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2450,
+   "number": 2457,
    "speakers": [
       "Stefan Judis"
    ],
@@ -25286,7 +25438,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2682,
+   "number": 2689,
    "speakers": [
       "Daniel Stenberg"
    ],
@@ -25304,7 +25456,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2775,
+   "number": 2782,
    "speakers": [
       "Daniel Stenberg"
    ],
@@ -25322,7 +25474,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2673,
+   "number": 2680,
    "speakers": [
       "Wendy Mackay"
    ],
@@ -25359,7 +25511,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2821,
+   "number": 2828,
    "speakers": [
       "Jacob Sherson"
    ],
@@ -25396,7 +25548,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2613,
+   "number": 2620,
    "speakers": [
       "Austin Parker"
    ],
@@ -25482,6 +25634,25 @@
    "thumbnail": "http://img.youtube.com/vi/INnattuluiM/0.jpg",
    "title": "Identifying Monoids: Exploiting Compositional Structure in Code",
    "video": "https://youtube.com/watch?v=INnattuluiM"
+},{
+   "duration": 846,
+   "edition": "2021",
+   "identifier": "RustConf-2021-5",
+   "language": "English",
+   "level": 0,
+   "meeting": "RustConf",
+   "number": 2859,
+   "speakers": [
+      "Hugo Peixoto"
+   ],
+   "tags": [
+      "Rust",
+      "lightning",
+      "online"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/BLy_YF4nmqQ/0.jpg",
+   "title": "Identifying Pokemon Cards",
+   "video": "https://youtube.com/watch?v=BLy_YF4nmqQ"
 },{
    "duration": 4243,
    "edition": "2018",
@@ -25612,6 +25783,25 @@
    "thumbnail": "http://img.youtube.com/vi/157vKN9mZmc/0.jpg",
    "title": "Image Signal Processing (ISP) Drivers & How to Merge One Upstream",
    "video": "https://youtube.com/watch?v=157vKN9mZmc"
+},{
+   "duration": 278,
+   "edition": "",
+   "identifier": "MUC++--66",
+   "language": "English",
+   "level": 0,
+   "meeting": "MUC++",
+   "number": 2317,
+   "speakers": [
+      "Timur Doumler"
+   ],
+   "tags": [
+      "c++",
+      "lightning",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/zruMEBshLxA/0.jpg",
+   "title": "Immediately Invoked Lambda Expressions",
+   "video": "https://youtube.com/watch?v=zruMEBshLxA"
 },{
    "duration": 5689,
    "edition": "2019",
@@ -26034,7 +26224,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2820,
+   "number": 2827,
    "speakers": [
       "Olga Hall"
    ],
@@ -26127,7 +26317,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2382,
+   "number": 2389,
    "speakers": [
       "Daniel Bryant"
    ],
@@ -26145,7 +26335,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2807,
+   "number": 2814,
    "speakers": [
       "Nora Jones"
    ],
@@ -26182,7 +26372,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2622,
+   "number": 2629,
    "speakers": [
       "Angel Rivera"
    ],
@@ -26200,7 +26390,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2753,
+   "number": 2760,
    "speakers": [
       "Phil Winder"
    ],
@@ -26218,7 +26408,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2672,
+   "number": 2679,
    "speakers": [
       "Mark Coleman"
    ],
@@ -26331,7 +26521,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2405,
+   "number": 2412,
    "speakers": [
       "Sam Newman"
    ],
@@ -26500,7 +26690,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2468,
+   "number": 2475,
    "speakers": [
       "Martin Thompson"
    ],
@@ -26632,7 +26822,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2702,
+   "number": 2709,
    "speakers": [
       "Eli Schutze Ramirez"
    ],
@@ -26908,7 +27098,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2528,
+   "number": 2535,
    "speakers": [
       "Hillel Wayne"
    ],
@@ -27239,7 +27429,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2362,
+   "number": 2369,
    "speakers": [
       "Graeme Rocher"
    ],
@@ -27295,7 +27485,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2399,
+   "number": 2406,
    "speakers": [
       "Philippe De Ryck"
    ],
@@ -27313,7 +27503,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2677,
+   "number": 2684,
    "speakers": [
       "Lorna Jane Mitchell"
    ],
@@ -27368,7 +27558,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2540,
+   "number": 2547,
    "speakers": [
       "Jessica Pointing"
    ],
@@ -27403,7 +27593,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2360,
+   "number": 2367,
    "speakers": [
       "Robert Metzger"
    ],
@@ -27459,7 +27649,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2594,
+   "number": 2601,
    "speakers": [
       "Jessica Kerr"
    ],
@@ -27496,7 +27686,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2333,
+   "number": 2340,
    "speakers": [
       "Boaz Ziniman"
    ],
@@ -27550,7 +27740,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2760,
+   "number": 2767,
    "speakers": [
       "Liz Rice"
    ],
@@ -27667,7 +27857,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2713,
+   "number": 2720,
    "speakers": [
       "Martin Schwalbe Lohmann",
       "Niels Harre"
@@ -27705,7 +27895,7 @@
    "language": "English",
    "level": 0,
    "meeting": "RustConf",
-   "number": 2825,
+   "number": 2832,
    "speakers": [
       "J Haigh",
       "QuietMisdreavus"
@@ -27743,7 +27933,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2565,
+   "number": 2572,
    "speakers": [
       "Naomi Ceder"
    ],
@@ -27836,7 +28026,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2381,
+   "number": 2388,
    "speakers": [
       "Liz Keogh"
    ],
@@ -27889,7 +28079,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2543,
+   "number": 2550,
    "speakers": [
       "Georges Saab",
       "Mikael Vidstedt"
@@ -27945,7 +28135,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2491,
+   "number": 2498,
    "speakers": [
       "Kyle Kingsbury"
    ],
@@ -27963,7 +28153,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2630,
+   "number": 2637,
    "speakers": [
       "Niket Patel"
    ],
@@ -27981,7 +28171,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2379,
+   "number": 2386,
    "speakers": [
       "Nicki Watt"
    ],
@@ -27999,7 +28189,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2547,
+   "number": 2554,
    "speakers": [
       "Nicki Watt"
    ],
@@ -28074,7 +28264,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2740,
+   "number": 2747,
    "speakers": [
       "Robin Moffatt"
    ],
@@ -28092,7 +28282,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2778,
+   "number": 2785,
    "speakers": [
       "Robin Moffatt"
    ],
@@ -28110,7 +28300,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2553,
+   "number": 2560,
    "speakers": [
       "Phil Winder"
    ],
@@ -28166,7 +28356,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2409,
+   "number": 2416,
    "speakers": [
       "Sander Mak"
    ],
@@ -28202,7 +28392,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2615,
+   "number": 2622,
    "speakers": [
       "Garrett Smith"
    ],
@@ -28220,7 +28410,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2812,
+   "number": 2819,
    "speakers": [
       "Ioanitescu",
       "Ligtenberg",
@@ -28240,7 +28430,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2368,
+   "number": 2375,
    "speakers": [
       "Steve Smith"
    ],
@@ -28258,7 +28448,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Oslo",
-   "number": 2722,
+   "number": 2729,
    "speakers": [
       "Eamonn Boyle",
       "Garth Gilmour"
@@ -28277,7 +28467,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2588,
+   "number": 2595,
    "speakers": [
       "Ryan Pierce"
    ],
@@ -28313,7 +28503,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2690,
+   "number": 2697,
    "speakers": [
       "Ellen Shapiro"
    ],
@@ -28331,7 +28521,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2545,
+   "number": 2552,
    "speakers": [
       "Huyen Tue Dao"
    ],
@@ -28349,7 +28539,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2454,
+   "number": 2461,
    "speakers": [
       "Ellen Korbes"
    ],
@@ -28367,7 +28557,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2564,
+   "number": 2571,
    "speakers": [
       "Bridget Kromhout"
    ],
@@ -28385,7 +28575,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2643,
+   "number": 2650,
    "speakers": [
       "Arun Gupta"
    ],
@@ -28403,7 +28593,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2335,
+   "number": 2342,
    "speakers": [
       "Ian Crosby"
    ],
@@ -28728,7 +28918,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2811,
+   "number": 2818,
    "speakers": [
       "Ranganathan Balashanmugam"
    ],
@@ -28804,7 +28994,7 @@
    "language": "English",
    "level": 0,
    "meeting": "RustFest",
-   "number": 2866,
+   "number": 2886,
    "speakers": [
       "Nikita Baksalyar"
    ],
@@ -28918,7 +29108,7 @@
    "language": "English",
    "level": 0,
    "meeting": "RustFest",
-   "number": 2874,
+   "number": 2894,
    "speakers": [
       "Stefan Baerisch"
    ],
@@ -28937,7 +29127,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2515,
+   "number": 2522,
    "speakers": [
       "Tomas Petricek"
    ],
@@ -28955,7 +29145,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2517,
+   "number": 2524,
    "speakers": [
       "Russ Miles"
    ],
@@ -28992,7 +29182,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2518,
+   "number": 2525,
    "speakers": [
       "Dave Thomas"
    ],
@@ -29160,7 +29350,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2790,
+   "number": 2797,
    "speakers": [
       "Christian E. Bruun",
       "Ender Yuksel"
@@ -29179,7 +29369,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2345,
+   "number": 2352,
    "speakers": [
       "Stefan Tilkov"
    ],
@@ -29197,7 +29387,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2640,
+   "number": 2647,
    "speakers": [
       "Venkat Subramaniam"
    ],
@@ -29253,7 +29443,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2798,
+   "number": 2805,
    "speakers": [
       "Woody Zuill"
    ],
@@ -29309,7 +29499,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2608,
+   "number": 2615,
    "speakers": [
       "Eric Johnson"
    ],
@@ -29385,7 +29575,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2683,
+   "number": 2690,
    "speakers": [
       "Roy Osherove"
    ],
@@ -29403,7 +29593,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Oslo",
-   "number": 2730,
+   "number": 2737,
    "speakers": [
       "Vagif Abilov"
    ],
@@ -29421,7 +29611,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2784,
+   "number": 2791,
    "speakers": [
       "Vagif Abilov"
    ],
@@ -29439,7 +29629,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2357,
+   "number": 2364,
    "speakers": [
       "Trisha Gee"
    ],
@@ -29457,7 +29647,7 @@
    "language": "English",
    "level": 0,
    "meeting": "RustFest",
-   "number": 2856,
+   "number": 2876,
    "speakers": [
       "Tyler Mandry"
    ],
@@ -29702,7 +29892,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2755,
+   "number": 2762,
    "speakers": [
       "Scott Helme"
    ],
@@ -29720,7 +29910,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2766,
+   "number": 2773,
    "speakers": [
       "Scott Helme"
    ],
@@ -29738,7 +29928,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2700,
+   "number": 2707,
    "speakers": [
       "Philipp Krenn"
    ],
@@ -30096,7 +30286,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2783,
+   "number": 2790,
    "speakers": [
       "Kresten Krab Thorup"
    ],
@@ -30152,7 +30342,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2814,
+   "number": 2821,
    "speakers": [
       "Adrian Hornsby"
    ],
@@ -30170,7 +30360,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2475,
+   "number": 2482,
    "speakers": [
       "Linda Liukas"
    ],
@@ -30320,7 +30510,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2390,
+   "number": 2397,
    "speakers": [
       "Nell Watson"
    ],
@@ -30392,7 +30582,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2651,
+   "number": 2658,
    "speakers": [
       "Francesc Campoy"
    ],
@@ -30428,7 +30618,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2645,
+   "number": 2652,
    "speakers": [
       "Erik Meijer"
    ],
@@ -30465,7 +30655,7 @@
    "language": "English",
    "level": 0,
    "meeting": "RustConf",
-   "number": 2845,
+   "number": 2852,
    "speakers": [
       "Jam Garner"
    ],
@@ -30693,7 +30883,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2818,
+   "number": 2825,
    "speakers": [
       "Miko Pawlikowski"
    ],
@@ -30748,7 +30938,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2493,
+   "number": 2500,
    "speakers": [
       "Todd Montgomery"
    ],
@@ -30785,7 +30975,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2403,
+   "number": 2410,
    "speakers": [
       "Ray Tsang"
    ],
@@ -30803,7 +30993,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2710,
+   "number": 2717,
    "speakers": [
       "Henry Coles"
    ],
@@ -31011,7 +31201,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2358,
+   "number": 2365,
    "speakers": [
       "Bert Jan Schrijver"
    ],
@@ -31048,7 +31238,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2601,
+   "number": 2608,
    "speakers": [
       "Oleg Selajev"
    ],
@@ -31121,7 +31311,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2603,
+   "number": 2610,
    "speakers": [
       "Kirk Pepperdine"
    ],
@@ -31139,7 +31329,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2745,
+   "number": 2752,
    "speakers": [
       "Kirk Pepperdine"
    ],
@@ -31195,7 +31385,7 @@
    "language": "English",
    "level": 0,
    "meeting": "RustConf",
-   "number": 2831,
+   "number": 2838,
    "speakers": [
       "Yoshua Wuyts"
    ],
@@ -31480,7 +31670,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2332,
+   "number": 2339,
    "speakers": [
       "Graham Brooks"
    ],
@@ -31498,7 +31688,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2336,
+   "number": 2343,
    "speakers": [
       "Frans van Buul"
    ],
@@ -31516,7 +31706,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2618,
+   "number": 2625,
    "speakers": [
       "Derek Ferguson",
       "Matt Jones",
@@ -31612,7 +31802,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2370,
+   "number": 2377,
    "speakers": [
       "Aslak Hellesoy"
    ],
@@ -31630,7 +31820,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2415,
+   "number": 2422,
    "speakers": [
       "Markus Wittwer"
    ],
@@ -31648,7 +31838,7 @@
    "language": "English",
    "level": 0,
    "meeting": "RustFest",
-   "number": 2871,
+   "number": 2891,
    "speakers": [
       "Christian Poveda"
    ],
@@ -31739,7 +31929,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2458,
+   "number": 2465,
    "speakers": [
       "Woody Zuill"
    ],
@@ -32154,7 +32344,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2359,
+   "number": 2366,
    "speakers": [
       "Ken Mugrage"
    ],
@@ -32172,7 +32362,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2448,
+   "number": 2455,
    "speakers": [
       "Ken Mugrage"
    ],
@@ -32190,7 +32380,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2587,
+   "number": 2594,
    "speakers": [
       "Ken Mugrage"
    ],
@@ -32453,7 +32643,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2398,
+   "number": 2405,
    "speakers": [
       "Simon Brown"
    ],
@@ -32640,7 +32830,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2445,
+   "number": 2452,
    "speakers": [
       "Sam Newman"
    ],
@@ -32658,7 +32848,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Oslo",
-   "number": 2731,
+   "number": 2738,
    "speakers": [
       "Sam Newman",
       "Sven Johann"
@@ -32713,7 +32903,7 @@
    "language": "English",
    "level": 0,
    "meeting": "RustConf",
-   "number": 2826,
+   "number": 2833,
    "speakers": [
       "Jonathan Pallant"
    ],
@@ -32800,6 +32990,25 @@
    "title": "Motivated reasoning",
    "video": "https://youtube.com/watch?v=hTvHea56t4s"
 },{
+   "duration": 1448,
+   "edition": "2021",
+   "identifier": "RustConf-2021-3",
+   "language": "English",
+   "level": 0,
+   "meeting": "RustConf",
+   "number": 2857,
+   "speakers": [
+      "Miguel Young de la Sota"
+   ],
+   "tags": [
+      "Rust",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/UrDhMWISR3w/0.jpg",
+   "title": "Move Constructors: Is it Possible?",
+   "video": "https://youtube.com/watch?v=UrDhMWISR3w"
+},{
    "duration": 3310,
    "edition": "2020",
    "identifier": "Italian C++ Conference-2020-4",
@@ -32844,7 +33053,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2460,
+   "number": 2467,
    "speakers": [
       "Randy Shoup"
    ],
@@ -32862,7 +33071,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2600,
+   "number": 2607,
    "speakers": [
       "Randy Shoup"
    ],
@@ -33221,7 +33430,7 @@
    "language": "English",
    "level": 0,
    "meeting": "RustConf",
-   "number": 2843,
+   "number": 2850,
    "speakers": [
       "Micah Tigley"
    ],
@@ -33656,7 +33865,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2583,
+   "number": 2590,
    "speakers": [
       "Richard Feldman"
    ],
@@ -33766,7 +33975,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2604,
+   "number": 2611,
    "speakers": [
       "Avdi Grimm"
    ],
@@ -33916,7 +34125,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2524,
+   "number": 2531,
    "speakers": [
       "Chris Richardson"
    ],
@@ -33990,7 +34199,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2684,
+   "number": 2691,
    "speakers": [
       "Jon Skeet"
    ],
@@ -34064,7 +34273,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2593,
+   "number": 2600,
    "speakers": [
       "Nate Barbettini"
    ],
@@ -34082,7 +34291,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2688,
+   "number": 2695,
    "speakers": [
       "Jacob Ideskog"
    ],
@@ -34252,7 +34461,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2581,
+   "number": 2588,
    "speakers": [
       "Jiaqi Liu"
    ],
@@ -34270,7 +34479,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2531,
+   "number": 2538,
    "speakers": [
       "Dave McAllister"
    ],
@@ -34288,7 +34497,7 @@
    "language": "English",
    "level": 0,
    "meeting": "RustFest",
-   "number": 2875,
+   "number": 2895,
    "speakers": [
       "Micah Johnston"
    ],
@@ -34440,7 +34649,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2482,
+   "number": 2489,
    "speakers": [
       "Kevlin Henney"
    ],
@@ -34513,7 +34722,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2527,
+   "number": 2534,
    "speakers": [
       "Danny Lange"
    ],
@@ -34531,7 +34740,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2636,
+   "number": 2643,
    "speakers": [
       "Danny Lange"
    ],
@@ -34849,7 +35058,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2411,
+   "number": 2418,
    "speakers": [
       "Erwin de Gier"
    ],
@@ -34867,7 +35076,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2344,
+   "number": 2351,
    "speakers": [
       "Ben Darnell"
    ],
@@ -34942,7 +35151,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2795,
+   "number": 2802,
    "speakers": [
       "Eberhard Wolff"
    ],
@@ -35094,7 +35303,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2343,
+   "number": 2350,
    "speakers": [
       "Sebastien Goasguen"
    ],
@@ -35418,7 +35627,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2616,
+   "number": 2623,
    "speakers": [
       "Kate Wardin"
    ],
@@ -35436,7 +35645,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2754,
+   "number": 2761,
    "speakers": [
       "Kate Wardin"
    ],
@@ -35474,7 +35683,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2659,
+   "number": 2666,
    "speakers": [
       "Anders Toxboe"
    ],
@@ -35550,7 +35759,7 @@
    "language": "English",
    "level": 0,
    "meeting": "RustFest",
-   "number": 2863,
+   "number": 2883,
    "speakers": [
       "Tarun Pothulapati"
    ],
@@ -35682,7 +35891,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2801,
+   "number": 2808,
    "speakers": [
       "Nicki Watt"
    ],
@@ -35832,7 +36041,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2513,
+   "number": 2520,
    "speakers": [
       "Katherine Kirk"
    ],
@@ -35850,7 +36059,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2662,
+   "number": 2669,
    "speakers": [
       "Benjamin Mitchell"
    ],
@@ -35868,7 +36077,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2520,
+   "number": 2527,
    "speakers": [
       "Aino Vonge Corry"
    ],
@@ -35944,7 +36153,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2652,
+   "number": 2659,
    "speakers": [
       "Claudio Perrone"
    ],
@@ -36057,7 +36266,7 @@
    "language": "English",
    "level": 0,
    "meeting": "RustFest",
-   "number": 2853,
+   "number": 2873,
    "speakers": [
       "Neville Dipale"
    ],
@@ -36095,7 +36304,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2356,
+   "number": 2363,
    "speakers": [
       "Ronnie Mitra"
    ],
@@ -36188,7 +36397,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2803,
+   "number": 2810,
    "speakers": [
       "Sarah Wells"
    ],
@@ -36245,7 +36454,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2599,
+   "number": 2606,
    "speakers": [
       "Yashvier Kosaraju"
    ],
@@ -36358,7 +36567,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2625,
+   "number": 2632,
    "speakers": [
       "Alexander Condello"
    ],
@@ -36472,7 +36681,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2508,
+   "number": 2515,
    "speakers": [
       "Jeff Hodges"
    ],
@@ -36490,7 +36699,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2316,
+   "number": 2323,
    "speakers": [
       "Allard Buijze"
    ],
@@ -36621,7 +36830,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2816,
+   "number": 2823,
    "speakers": [
       "Courtney Nash"
    ],
@@ -36639,7 +36848,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2558,
+   "number": 2565,
    "speakers": [
       "Eleanor Saitta"
    ],
@@ -36657,7 +36866,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2658,
+   "number": 2665,
    "speakers": [
       "Linda Liukas"
    ],
@@ -36694,7 +36903,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2592,
+   "number": 2599,
    "speakers": [
       "Adam Tornhill"
    ],
@@ -36712,7 +36921,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2678,
+   "number": 2685,
    "speakers": [
       "Adam Tornhill"
    ],
@@ -36730,7 +36939,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2748,
+   "number": 2755,
    "speakers": [
       "Adam Tornhill"
    ],
@@ -36748,7 +36957,7 @@
    "language": "English",
    "level": 0,
    "meeting": "Oxidize Global",
-   "number": 2894,
+   "number": 2914,
    "speakers": [],
    "tags": [
       "Rust",
@@ -36783,7 +36992,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2692,
+   "number": 2699,
    "speakers": [
       "Tim Berglund"
    ],
@@ -36856,7 +37065,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2512,
+   "number": 2519,
    "speakers": [
       "Juliet Hougland"
    ],
@@ -37101,7 +37310,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2780,
+   "number": 2787,
    "speakers": [
       "Dave Karow"
    ],
@@ -37137,7 +37346,7 @@
    "language": "English",
    "level": 0,
    "meeting": "RustFest",
-   "number": 2878,
+   "number": 2898,
    "speakers": [
       "Carlo Supina",
       "Micah Tigley"
@@ -37150,6 +37359,44 @@
    "thumbnail": "http://img.youtube.com/vi/qoCryIy4bFE/0.jpg",
    "title": "Project Necromancy: How to Revive a Dead Rust Project",
    "video": "https://youtube.com/watch?v=qoCryIy4bFE"
+},{
+   "duration": 1984,
+   "edition": "2021",
+   "identifier": "RustConf-2021-1",
+   "language": "English",
+   "level": 0,
+   "meeting": "RustConf",
+   "number": 2855,
+   "speakers": [
+      "Niko Matsakis"
+   ],
+   "tags": [
+      "Rust",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/ylOpCXI2EMM/0.jpg",
+   "title": "Project Update: Lang Team",
+   "video": "https://youtube.com/watch?v=ylOpCXI2EMM"
+},{
+   "duration": 1728,
+   "edition": "2021",
+   "identifier": "RustConf-2021-2",
+   "language": "English",
+   "level": 0,
+   "meeting": "RustConf",
+   "number": 2856,
+   "speakers": [
+      "Mara Bos"
+   ],
+   "tags": [
+      "Rust",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/DnYQKWs_7EA/0.jpg",
+   "title": "Project Update: Libs Team",
+   "video": "https://youtube.com/watch?v=DnYQKWs_7EA"
 },{
    "duration": 5024,
    "edition": "2017",
@@ -37327,7 +37574,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2395,
+   "number": 2402,
    "speakers": [
       "Kelley Robinson"
    ],
@@ -37385,7 +37632,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2671,
+   "number": 2678,
    "speakers": [
       "Damien Murphy"
    ],
@@ -37498,7 +37745,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2674,
+   "number": 2681,
    "speakers": [
       "Jessica Pointing"
    ],
@@ -37516,7 +37763,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2711,
+   "number": 2718,
    "speakers": [
       "Jessica Pointing",
       "Murray Thom"
@@ -37648,7 +37895,7 @@
    "language": "English",
    "level": 0,
    "meeting": "RustFest",
-   "number": 2848,
+   "number": 2868,
    "speakers": [
       "Ryan Levick",
       "Sebastian Fernandez"
@@ -37668,7 +37915,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2628,
+   "number": 2635,
    "speakers": [
       "Chris Anderson"
    ],
@@ -37743,7 +37990,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2576,
+   "number": 2583,
    "speakers": [
       "Seth Thomson"
    ],
@@ -37968,7 +38215,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2510,
+   "number": 2517,
    "speakers": [
       "Georges Saab"
    ],
@@ -38005,7 +38252,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2597,
+   "number": 2604,
    "speakers": [
       "Dean Wampler"
    ],
@@ -38042,7 +38289,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2701,
+   "number": 2708,
    "speakers": [
       "Niels Hallenberg",
       "Thomas Hejlsberg"
@@ -38061,7 +38308,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2572,
+   "number": 2579,
    "speakers": [
       "Jill Wetzler"
    ],
@@ -38079,7 +38326,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2649,
+   "number": 2656,
    "speakers": [
       "Phil Hofmann"
    ],
@@ -38116,7 +38363,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2525,
+   "number": 2532,
    "speakers": [
       "Josh Long"
    ],
@@ -38153,7 +38400,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2685,
+   "number": 2692,
    "speakers": [
       "Dave Farley"
    ],
@@ -38266,7 +38513,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2374,
+   "number": 2381,
    "speakers": [
       "Marcos Maia",
       "Tim v Baarsen"
@@ -38285,7 +38532,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2323,
+   "number": 2330,
    "speakers": [
       "Erwin de Gier"
    ],
@@ -38322,7 +38569,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2535,
+   "number": 2542,
    "speakers": [
       "Peter Piekarczyk"
    ],
@@ -38620,7 +38867,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2611,
+   "number": 2618,
    "speakers": [
       "Rebecca Miller-Webster"
    ],
@@ -38808,7 +39055,7 @@
    "language": "English",
    "level": 0,
    "meeting": "Oxidize Global",
-   "number": 2893,
+   "number": 2913,
    "speakers": [],
    "tags": [
       "Rust",
@@ -38917,7 +39164,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2720,
+   "number": 2727,
    "speakers": [
       "Ron Bodkin"
    ],
@@ -38935,7 +39182,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2719,
+   "number": 2726,
    "speakers": [
       "Ron Bodkin"
    ],
@@ -38953,7 +39200,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2367,
+   "number": 2374,
    "speakers": [
       "Oliver Drotbohm"
    ],
@@ -39196,7 +39443,7 @@
    "language": "English",
    "level": 0,
    "meeting": "RustFest",
-   "number": 2872,
+   "number": 2892,
    "speakers": [
       "Daan Sprenkels",
       "Diane Hosfelt"
@@ -39235,7 +39482,7 @@
    "language": "English",
    "level": 0,
    "meeting": "RustFest",
-   "number": 2852,
+   "number": 2872,
    "speakers": [
       "David Bach",
       "Malte Sandstede"
@@ -39274,7 +39521,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2809,
+   "number": 2816,
    "speakers": [
       "Crystal Hirschorn"
    ],
@@ -39292,7 +39539,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2575,
+   "number": 2582,
    "speakers": [
       "Kasun Indrasiri"
    ],
@@ -39366,7 +39613,7 @@
    "language": "English",
    "level": 0,
    "meeting": "Oxidize Global",
-   "number": 2889,
+   "number": 2909,
    "speakers": [],
    "tags": [
       "Rust",
@@ -39437,7 +39684,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2369,
+   "number": 2376,
    "speakers": [
       "Florian Gilcher"
    ],
@@ -39455,7 +39702,7 @@
    "language": "English",
    "level": 0,
    "meeting": "RustFest",
-   "number": 2869,
+   "number": 2889,
    "speakers": [
       "Gavin Mendel-Gleason",
       "Matthijs van Otterdijk"
@@ -39475,7 +39722,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2633,
+   "number": 2640,
    "speakers": [
       "Katharina Fey"
    ],
@@ -39493,7 +39740,7 @@
    "language": "English",
    "level": 0,
    "meeting": "RustConf",
-   "number": 2823,
+   "number": 2830,
    "speakers": [
       "Lin Clark"
    ],
@@ -39512,7 +39759,7 @@
    "language": "English",
    "level": 0,
    "meeting": "RustFest",
-   "number": 2870,
+   "number": 2890,
    "speakers": [
       "Anastasia Opara"
    ],
@@ -39531,7 +39778,7 @@
    "language": "English",
    "level": 0,
    "meeting": "RustFest",
-   "number": 2880,
+   "number": 2900,
    "speakers": [
       "Colton Donnelly"
    ],
@@ -39550,7 +39797,7 @@
    "language": "English",
    "level": 0,
    "meeting": "RustConf",
-   "number": 2846,
+   "number": 2853,
    "speakers": [
       "Rebecca Turner"
    ],
@@ -39569,7 +39816,7 @@
    "language": "English",
    "level": 0,
    "meeting": "RustFest",
-   "number": 2868,
+   "number": 2888,
    "speakers": [
       "Vivian Band"
    ],
@@ -39588,7 +39835,7 @@
    "language": "English",
    "level": 0,
    "meeting": "RustConf",
-   "number": 2827,
+   "number": 2834,
    "speakers": [
       "Shoumik Palkar"
    ],
@@ -39607,7 +39854,7 @@
    "language": "English",
    "level": 0,
    "meeting": "RustFest",
-   "number": 2850,
+   "number": 2870,
    "speakers": [
       "Aimee Zhu",
       "Brian Anderson"
@@ -39627,7 +39874,7 @@
    "language": "English",
    "level": 0,
    "meeting": "Oxidize Global",
-   "number": 2895,
+   "number": 2915,
    "speakers": [],
    "tags": [
       "Rust",
@@ -39663,7 +39910,7 @@
    "language": "English",
    "level": 0,
    "meeting": "RustFest",
-   "number": 2859,
+   "number": 2879,
    "speakers": [
       "Keen"
    ],
@@ -39682,7 +39929,7 @@
    "language": "English",
    "level": 0,
    "meeting": "Oxidize Global",
-   "number": 2885,
+   "number": 2905,
    "speakers": [],
    "tags": [
       "Rust",
@@ -39718,7 +39965,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2586,
+   "number": 2593,
    "speakers": [
       "Tod Golding"
    ],
@@ -39831,7 +40078,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2352,
+   "number": 2359,
    "speakers": [
       "Chris Corriere"
    ],
@@ -39925,7 +40172,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2793,
+   "number": 2800,
    "speakers": [
       "James Lewis"
    ],
@@ -39981,7 +40228,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2321,
+   "number": 2328,
    "speakers": [
       "Keith Adams"
    ],
@@ -39999,7 +40246,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2714,
+   "number": 2721,
    "speakers": [
       "Tjeerd in 't Veen"
    ],
@@ -40054,7 +40301,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2416,
+   "number": 2423,
    "speakers": [
       "Daniel Bornkessel"
    ],
@@ -40072,7 +40319,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2498,
+   "number": 2505,
    "speakers": [
       "Benjamin Mitchell"
    ],
@@ -40090,7 +40337,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2747,
+   "number": 2754,
    "speakers": [
       "Stephanie Crater"
    ],
@@ -40108,7 +40355,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2388,
+   "number": 2395,
    "speakers": [
       "Arun Gupta",
       "Radu Weiss"
@@ -40257,7 +40504,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2638,
+   "number": 2645,
    "speakers": [
       "Travis Spencer"
    ],
@@ -40275,7 +40522,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2554,
+   "number": 2561,
    "speakers": [
       "Nicolas Frankel"
    ],
@@ -40293,7 +40540,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2519,
+   "number": 2526,
    "speakers": [
       "Aaron Bedra"
    ],
@@ -40457,7 +40704,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2347,
+   "number": 2354,
    "speakers": [
       "Oosterwijk",
       "Sarbhukan"
@@ -40514,7 +40761,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2614,
+   "number": 2621,
    "speakers": [
       "JJ Qi"
    ],
@@ -40532,7 +40779,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2530,
+   "number": 2537,
    "speakers": [
       "Roman Elizarov"
    ],
@@ -40550,7 +40797,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2463,
+   "number": 2470,
    "speakers": [
       "Alex Ellis"
    ],
@@ -40568,7 +40815,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2406,
+   "number": 2413,
    "speakers": [
       "Sascha Mollering"
    ],
@@ -40586,7 +40833,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2634,
+   "number": 2641,
    "speakers": [
       "Alex Ellis"
    ],
@@ -40604,7 +40851,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2556,
+   "number": 2563,
    "speakers": [
       "Jesse Butler"
    ],
@@ -40622,7 +40869,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2505,
+   "number": 2512,
    "speakers": [
       "Peter Sbarski"
    ],
@@ -40640,7 +40887,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2378,
+   "number": 2385,
    "speakers": [
       "Gojko Adzic"
    ],
@@ -40714,7 +40961,7 @@
    "language": "English",
    "level": 0,
    "meeting": "RustFest",
-   "number": 2857,
+   "number": 2877,
    "speakers": [
       "Pietro Albini"
    ],
@@ -40921,7 +41168,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2653,
+   "number": 2660,
    "speakers": [
       "Rod Johnson"
    ],
@@ -40994,7 +41241,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2324,
+   "number": 2331,
    "speakers": [
       "Christof Leng"
    ],
@@ -41199,7 +41446,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2327,
+   "number": 2334,
    "speakers": [
       "Frank Buschmann"
    ],
@@ -41217,7 +41464,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2503,
+   "number": 2510,
    "speakers": [
       "Jessica Kerr"
    ],
@@ -41271,7 +41518,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2771,
+   "number": 2778,
    "speakers": [
       "Dave Farley"
    ],
@@ -41308,7 +41555,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2735,
+   "number": 2742,
    "speakers": [
       "Kevlin Henney"
    ],
@@ -41381,7 +41628,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2644,
+   "number": 2651,
    "speakers": [
       "Georgina McFadyen"
    ],
@@ -41829,7 +42076,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2412,
+   "number": 2419,
    "speakers": [
       "Maarten Mulders"
    ],
@@ -42295,7 +42542,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2779,
+   "number": 2786,
    "speakers": [
       "Hannes Lowette"
    ],
@@ -42350,7 +42597,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2808,
+   "number": 2815,
    "speakers": [
       "Katherine Stanley"
    ],
@@ -42569,13 +42816,32 @@
    "title": "Structured logging",
    "video": "https://youtube.com/watch?v=Fl0bQP-Rua0"
 },{
+   "duration": 914,
+   "edition": "2021",
+   "identifier": "RustConf-2021-10",
+   "language": "English",
+   "level": 0,
+   "meeting": "RustConf",
+   "number": 2864,
+   "speakers": [
+      "Jackson Lewis"
+   ],
+   "tags": [
+      "Rust",
+      "lightning",
+      "online"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/8d7DqeYXq7A/0.jpg",
+   "title": "Supercharging Your Code With Five Little-Known Attributes",
+   "video": "https://youtube.com/watch?v=8d7DqeYXq7A"
+},{
    "duration": 2857,
    "edition": "2019",
    "identifier": "GOTO Chicago-2019-55",
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2577,
+   "number": 2584,
    "speakers": [
       "Scott M Stark"
    ],
@@ -42707,7 +42973,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2750,
+   "number": 2757,
    "speakers": [
       "Asim Hussain"
    ],
@@ -42743,7 +43009,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2499,
+   "number": 2506,
    "speakers": [
       "Dan North",
       "Katherine Kirk"
@@ -42762,7 +43028,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2429,
+   "number": 2436,
    "speakers": [
       "John Le Drew"
    ],
@@ -42894,7 +43160,7 @@
    "language": "English",
    "level": 0,
    "meeting": "RustConf",
-   "number": 2836,
+   "number": 2843,
    "speakers": [
       "Gargi Sharma"
    ],
@@ -42968,7 +43234,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Oslo",
-   "number": 2721,
+   "number": 2728,
    "speakers": [
       "Dave Farley"
    ],
@@ -42986,7 +43252,7 @@
    "language": "English",
    "level": 0,
    "meeting": "RustConf",
-   "number": 2833,
+   "number": 2840,
    "speakers": [
       "Oliver Schneider"
    ],
@@ -43005,7 +43271,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2693,
+   "number": 2700,
    "speakers": [
       "Robert Crowe"
    ],
@@ -43023,7 +43289,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2376,
+   "number": 2383,
    "speakers": [
       "Philippe De Ryck"
    ],
@@ -43041,7 +43307,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2709,
+   "number": 2716,
    "speakers": [
       "Michael Brunton-Spall"
    ],
@@ -43116,7 +43382,7 @@
    "language": "English",
    "level": 0,
    "meeting": "RustFest",
-   "number": 2881,
+   "number": 2901,
    "speakers": [
       "Every Rhymed"
    ],
@@ -43154,7 +43420,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2402,
+   "number": 2409,
    "speakers": [
       "Patrick Kua"
    ],
@@ -43172,7 +43438,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2774,
+   "number": 2781,
    "speakers": [
       "Patrick Kua"
    ],
@@ -43626,7 +43892,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2371,
+   "number": 2378,
    "speakers": [
       "Mathias Verraes"
    ],
@@ -43644,7 +43910,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2668,
+   "number": 2675,
    "speakers": [
       "Kaz Sato"
    ],
@@ -43833,7 +44099,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2708,
+   "number": 2715,
    "speakers": [
       "John Le Drew"
    ],
@@ -43870,7 +44136,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2408,
+   "number": 2415,
    "speakers": [
       "Uwe Friedrichsen"
    ],
@@ -43944,7 +44210,7 @@
    "language": "English",
    "level": 0,
    "meeting": "RustFest",
-   "number": 2876,
+   "number": 2896,
    "speakers": [
       "Sean Chen"
    ],
@@ -43963,7 +44229,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Oslo",
-   "number": 2724,
+   "number": 2731,
    "speakers": [
       "Dylan Beattie"
    ],
@@ -44019,7 +44285,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2617,
+   "number": 2624,
    "speakers": [
       "Brendan O'Leary"
    ],
@@ -44074,7 +44340,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2796,
+   "number": 2803,
    "speakers": [
       "Ana-Maria Mihalceanu"
    ],
@@ -44601,7 +44867,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2741,
+   "number": 2748,
    "speakers": [
       "Roy Osherove"
    ],
@@ -44772,7 +45038,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2670,
+   "number": 2677,
    "speakers": [
       "Natasha Friis Saxberg"
    ],
@@ -44847,7 +45113,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2687,
+   "number": 2694,
    "speakers": [
       "Tim Berglund"
    ],
@@ -44952,6 +45218,25 @@
    "title": "The Dawn Of A New Error",
    "video": "https://youtube.com/watch?v=7hO0LKRCw64"
 },{
+   "duration": 588,
+   "edition": "",
+   "identifier": "MUC++--69",
+   "language": "English",
+   "level": 0,
+   "meeting": "MUC++",
+   "number": 2319,
+   "speakers": [
+      "Andreas Weis"
+   ],
+   "tags": [
+      "c++",
+      "lightning",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/4wib8snU5zE/0.jpg",
+   "title": "The deal with -ffast-math",
+   "video": "https://youtube.com/watch?v=4wib8snU5zE"
+},{
    "duration": 5480,
    "edition": "2016",
    "identifier": "C++Now-2016-45",
@@ -45033,7 +45318,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2489,
+   "number": 2496,
    "speakers": [
       "Catherine Swetel"
    ],
@@ -45051,7 +45336,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2736,
+   "number": 2743,
    "speakers": [
       "Catherine Swetel"
    ],
@@ -45069,7 +45354,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2781,
+   "number": 2788,
    "speakers": [
       "Catherine Swetel"
    ],
@@ -45087,7 +45372,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2433,
+   "number": 2440,
    "speakers": [
       "Stefan Rudnitzki"
    ],
@@ -45105,7 +45390,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2813,
+   "number": 2820,
    "speakers": [
       "Jason Cahoon"
    ],
@@ -45141,7 +45426,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2486,
+   "number": 2493,
    "speakers": [
       "Joe Armstrong"
    ],
@@ -45216,7 +45501,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2351,
+   "number": 2358,
    "speakers": [
       "Phil Zimmermann"
    ],
@@ -45383,7 +45668,7 @@
    "language": "English",
    "level": 0,
    "meeting": "RustFest",
-   "number": 2873,
+   "number": 2893,
    "speakers": [
       "Earth to Abigail"
    ],
@@ -45439,7 +45724,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2322,
+   "number": 2329,
    "speakers": [
       "Jason Smith"
    ],
@@ -45496,7 +45781,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2697,
+   "number": 2704,
    "speakers": [
       "Asim Hussain"
    ],
@@ -45514,7 +45799,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2715,
+   "number": 2722,
    "speakers": [
       "Zoe Rose"
    ],
@@ -45532,7 +45817,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2792,
+   "number": 2799,
    "speakers": [
       "Anita Sengupta"
    ],
@@ -45550,7 +45835,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2637,
+   "number": 2644,
    "speakers": [
       "Tim Berners-Lee"
    ],
@@ -45568,7 +45853,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2392,
+   "number": 2399,
    "speakers": [
       "Lieven Vandersypen"
    ],
@@ -45643,7 +45928,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2480,
+   "number": 2487,
    "speakers": [
       "Aimee Covo"
    ],
@@ -45773,7 +46058,7 @@
    "language": "English",
    "level": 0,
    "meeting": "RustFest",
-   "number": 2858,
+   "number": 2878,
    "speakers": [
       "Katharina Fey"
    ],
@@ -45811,7 +46096,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2478,
+   "number": 2485,
    "speakers": [
       "Aino Vonge Corry"
    ],
@@ -45822,6 +46107,25 @@
    "thumbnail": "http://img.youtube.com/vi/WMv9glJuoGc/0.jpg",
    "title": "The Importance of Laughter",
    "video": "https://youtube.com/watch?v=WMv9glJuoGc"
+},{
+   "duration": 506,
+   "edition": "2021",
+   "identifier": "RustConf-2021-4",
+   "language": "English",
+   "level": 0,
+   "meeting": "RustConf",
+   "number": 2858,
+   "speakers": [
+      "Lily Mara"
+   ],
+   "tags": [
+      "Rust",
+      "lightning",
+      "online"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/CV5CjUlcqsw/0.jpg",
+   "title": "The Importance of Not Over-Optimizing in Rust",
+   "video": "https://youtube.com/watch?v=CV5CjUlcqsw"
 },{
    "duration": 5743,
    "edition": "2018",
@@ -45847,7 +46151,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2716,
+   "number": 2723,
    "speakers": [
       "Kim Antelo"
    ],
@@ -45979,7 +46283,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2526,
+   "number": 2533,
    "speakers": [
       "Anjana Vakil"
    ],
@@ -46071,7 +46375,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Oslo",
-   "number": 2734,
+   "number": 2741,
    "speakers": [
       "Roy van Rijn"
    ],
@@ -46280,7 +46584,7 @@
    "meeting": "MUC++",
    "number": 2286,
    "speakers": [
-      "Juan Pedro Bolivar"
+      "Juan Pedro Bolivar Puente"
    ],
    "tags": [
       "c++",
@@ -46316,7 +46620,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2667,
+   "number": 2674,
    "speakers": [
       "Nicole Bryan"
    ],
@@ -46582,7 +46886,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2744,
+   "number": 2751,
    "speakers": [
       "Daniel Bryant"
    ],
@@ -46695,7 +46999,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2769,
+   "number": 2776,
    "speakers": [
       "Allard Buijze"
    ],
@@ -46732,7 +47036,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2739,
+   "number": 2746,
    "speakers": [
       "Pragmatic Dave Thomas"
    ],
@@ -46788,7 +47092,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2551,
+   "number": 2558,
    "speakers": [
       "Doug Lenat"
    ],
@@ -46919,7 +47223,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2488,
+   "number": 2495,
    "speakers": [
       "Francesc Campoy"
    ],
@@ -46937,7 +47241,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2654,
+   "number": 2661,
    "speakers": [
       "Francesc Campoy"
    ],
@@ -46993,7 +47297,7 @@
    "language": "English",
    "level": 0,
    "meeting": "RustConf",
-   "number": 2830,
+   "number": 2837,
    "speakers": [
       "Josh Triplett"
    ],
@@ -47012,7 +47316,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2663,
+   "number": 2670,
    "speakers": [
       "Poul Jorgen Jennum"
    ],
@@ -47161,7 +47465,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2523,
+   "number": 2530,
    "speakers": [
       "Sasa Juric"
    ],
@@ -47293,7 +47597,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2393,
+   "number": 2400,
    "speakers": [
       "Koen Bos"
    ],
@@ -47385,7 +47689,7 @@
    "language": "English",
    "level": 0,
    "meeting": "RustConf",
-   "number": 2835,
+   "number": 2842,
    "speakers": [
       "Isabella Muerte"
    ],
@@ -47574,7 +47878,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2414,
+   "number": 2421,
    "speakers": [
       "Dejan Mitrovic"
    ],
@@ -47854,7 +48158,7 @@
    "language": "English",
    "level": 0,
    "meeting": "RustFest",
-   "number": 2860,
+   "number": 2880,
    "speakers": [
       "Yosuke Onoue"
    ],
@@ -47873,7 +48177,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2465,
+   "number": 2472,
    "speakers": [
       "Matt Brunt"
    ],
@@ -47891,7 +48195,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Oslo",
-   "number": 2727,
+   "number": 2734,
    "speakers": [
       "Eric Johnson"
    ],
@@ -47928,7 +48232,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2681,
+   "number": 2688,
    "speakers": [
       "Linda Rising"
    ],
@@ -47964,7 +48268,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2383,
+   "number": 2390,
    "speakers": [
       "Em Grasmeder"
    ],
@@ -48124,6 +48428,25 @@
    "thumbnail": "http://img.youtube.com/vi/6hC9IxqdDDw/0.jpg",
    "title": "This Videogame Programmer Used the STL and You Will Never Guess What Happened Next",
    "video": "https://youtube.com/watch?v=6hC9IxqdDDw"
+},{
+   "duration": 1257,
+   "edition": "2021",
+   "identifier": "RustConf-2021-13",
+   "language": "English",
+   "level": 0,
+   "meeting": "RustConf",
+   "number": 2867,
+   "speakers": [
+      "Nell Shamrell-Harrington"
+   ],
+   "tags": [
+      "Rust",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/OZPXhmy-wVw/0.jpg",
+   "title": "This Week in Rust: 400 Issues and Counting!",
+   "video": "https://youtube.com/watch?v=OZPXhmy-wVw"
 },{
    "duration": 5949,
    "edition": "2018",
@@ -48317,7 +48640,7 @@
    "language": "English",
    "level": 0,
    "meeting": "RustFest",
-   "number": 2879,
+   "number": 2899,
    "speakers": [
       "Andrew Dona-Couch"
    ],
@@ -48470,7 +48793,7 @@
    "language": "English",
    "level": 0,
    "meeting": "RustConf",
-   "number": 2832,
+   "number": 2839,
    "speakers": [
       "Eliza Weisman"
    ],
@@ -48606,7 +48929,7 @@
    "language": "English",
    "level": 0,
    "meeting": "RustConf",
-   "number": 2824,
+   "number": 2831,
    "speakers": [
       "Adam Perry"
    ],
@@ -48757,7 +49080,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2422,
+   "number": 2429,
    "speakers": [
       "Ray Tsang",
       "Robert Kubis"
@@ -48776,7 +49099,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2555,
+   "number": 2562,
    "speakers": [
       "Ray Tsang",
       "Robert Kubis"
@@ -48795,7 +49118,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2479,
+   "number": 2486,
    "speakers": [
       "Jeff Smith"
    ],
@@ -48813,7 +49136,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2656,
+   "number": 2663,
    "speakers": [
       "Jesper Boeg"
    ],
@@ -48974,6 +49297,25 @@
    "thumbnail": "http://img.youtube.com/vi/bnbZQexvh00/0.jpg",
    "title": "Two new C++ libraries for atmospheric research",
    "video": "https://youtube.com/watch?v=bnbZQexvh00"
+},{
+   "duration": 774,
+   "edition": "",
+   "identifier": "MUC++--71",
+   "language": "English",
+   "level": 0,
+   "meeting": "MUC++",
+   "number": 2320,
+   "speakers": [
+      "Uwe Schnitker"
+   ],
+   "tags": [
+      "c++",
+      "lightning",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/LZPHrYZ_dBw/0.jpg",
+   "title": "Two phase name lookup for C++ templates (C++ Beginner's Lighning Talk)",
+   "video": "https://youtube.com/watch?v=LZPHrYZ_dBw"
 },{
    "duration": 3112,
    "edition": "2016",
@@ -49322,7 +49664,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2485,
+   "number": 2492,
    "speakers": [
       "Michael Feathers"
    ],
@@ -49340,7 +49682,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2320,
+   "number": 2327,
    "speakers": [
       "Michael Nygard"
    ],
@@ -49528,7 +49870,7 @@
    "language": "English",
    "level": 0,
    "meeting": "RustConf",
-   "number": 2841,
+   "number": 2848,
    "speakers": [
       "Samuel Lim"
    ],
@@ -49869,7 +50211,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2372,
+   "number": 2379,
    "speakers": [
       "Paulien van Alst"
    ],
@@ -49887,7 +50229,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2782,
+   "number": 2789,
    "speakers": [
       "Paulien van Alst"
    ],
@@ -49905,7 +50247,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2355,
+   "number": 2362,
    "speakers": [
       "Johan Janssen"
    ],
@@ -50113,7 +50455,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2568,
+   "number": 2575,
    "speakers": [
       "Arun Gupta"
    ],
@@ -50150,7 +50492,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2765,
+   "number": 2772,
    "speakers": [
       "Mike Elsmore"
    ],
@@ -50168,7 +50510,7 @@
    "language": "English",
    "level": 0,
    "meeting": "RustFest",
-   "number": 2862,
+   "number": 2882,
    "speakers": [
       "Aki"
    ],
@@ -50284,7 +50626,7 @@
    "language": "English",
    "level": 0,
    "meeting": "Oxidize Global",
-   "number": 2887,
+   "number": 2907,
    "speakers": [],
    "tags": [
       "Rust",
@@ -50471,7 +50813,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2695,
+   "number": 2702,
    "speakers": [
       "Chris Atherton"
    ],
@@ -50941,7 +51283,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2469,
+   "number": 2476,
    "speakers": [
       "Lynn Langit"
    ],
@@ -50959,7 +51301,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2607,
+   "number": 2614,
    "speakers": [
       "Lynn Langit"
    ],
@@ -51014,7 +51356,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2560,
+   "number": 2567,
    "speakers": [
       "Matt Danforth"
    ],
@@ -51088,7 +51430,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2589,
+   "number": 2596,
    "speakers": [
       "Allen Holub"
    ],
@@ -51106,7 +51448,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2738,
+   "number": 2745,
    "speakers": [
       "Allen Holub"
    ],
@@ -51220,7 +51562,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2680,
+   "number": 2687,
    "speakers": [
       "Dan Callahan"
    ],
@@ -51331,7 +51673,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2471,
+   "number": 2478,
    "speakers": [
       "Pierluigi Collina"
    ],
@@ -51349,7 +51691,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2534,
+   "number": 2541,
    "speakers": [
       "Alex Ellis"
    ],
@@ -51815,7 +52157,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2394,
+   "number": 2401,
    "speakers": [
       "Eric Johnson"
    ],
@@ -51833,7 +52175,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2573,
+   "number": 2580,
    "speakers": [
       "Eric Johnson"
    ],
@@ -51870,7 +52212,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2447,
+   "number": 2454,
    "speakers": [
       "Lena Reinhard"
    ],
@@ -52244,7 +52586,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2538,
+   "number": 2545,
    "speakers": [
       "Courtney Hemphill"
    ],
@@ -52300,7 +52642,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Oslo",
-   "number": 2725,
+   "number": 2732,
    "speakers": [
       "Eamonn Boyle",
       "Garth Gilmour"
@@ -52394,7 +52736,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2707,
+   "number": 2714,
    "speakers": [
       "Daniel H Steinberg"
    ],
@@ -52695,7 +53037,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2354,
+   "number": 2361,
    "speakers": [
       "Rebecca Parsons"
    ],
@@ -52713,7 +53055,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2737,
+   "number": 2744,
    "speakers": [
       "Sam Newman"
    ],
@@ -52778,6 +53120,25 @@
    "thumbnail": "http://img.youtube.com/vi/Se9AEznM8TI/0.jpg",
    "title": "who the f**k is eric? by odin and the nerds",
    "video": "https://youtube.com/watch?v=Se9AEznM8TI"
+},{
+   "duration": 1608,
+   "edition": "2021",
+   "identifier": "RustConf-2021-8",
+   "language": "English",
+   "level": 0,
+   "meeting": "RustConf",
+   "number": 2862,
+   "speakers": [
+      "Brian Martin"
+   ],
+   "tags": [
+      "Rust",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/m-Qg3OoPIdc/0.jpg",
+   "title": "Whoops! I Rewrote It in Rust",
+   "video": "https://youtube.com/watch?v=m-Qg3OoPIdc"
 },{
    "duration": 4129,
    "edition": "2018",
@@ -52860,7 +53221,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2591,
+   "number": 2598,
    "speakers": [
       "Denise Yu"
    ],
@@ -52878,7 +53239,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2699,
+   "number": 2706,
    "speakers": [
       "Jan Bosch"
    ],
@@ -52896,7 +53257,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2328,
+   "number": 2335,
    "speakers": [
       "Chris Matts"
    ],
@@ -52971,7 +53332,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2590,
+   "number": 2597,
    "speakers": [
       "Uri Goldshtein"
    ],
@@ -52989,7 +53350,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2455,
+   "number": 2462,
    "speakers": [
       "Henning Jacobs"
    ],
@@ -53024,7 +53385,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2632,
+   "number": 2639,
    "speakers": [
       "TJ VanToll"
    ],
@@ -53080,7 +53441,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2544,
+   "number": 2551,
    "speakers": [
       "Jessie Frazelle"
    ],
@@ -53098,7 +53459,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2426,
+   "number": 2433,
    "speakers": [
       "Ricardo Garcia"
    ],
@@ -53116,7 +53477,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2559,
+   "number": 2566,
    "speakers": [
       "Rod Johnson"
    ],
@@ -53134,7 +53495,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2657,
+   "number": 2664,
    "speakers": [
       "Rod Johnson"
    ],
@@ -53170,7 +53531,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2675,
+   "number": 2682,
    "speakers": [
       "Sam Newman"
    ],
@@ -53244,7 +53605,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2648,
+   "number": 2655,
    "speakers": [
       "Daniel Bryant"
    ],
@@ -53262,7 +53623,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2563,
+   "number": 2570,
    "speakers": [
       "Baruch Sadogursky"
    ],
@@ -53761,6 +54122,25 @@
    "title": "Writing Standard Library Compliant Data Structures and Algorithms",
    "video": "https://youtube.com/watch?v=fChDijocVec"
 },{
+   "duration": 592,
+   "edition": "2021",
+   "identifier": "RustConf-2021-7",
+   "language": "English",
+   "level": 0,
+   "meeting": "RustConf",
+   "number": 2861,
+   "speakers": [
+      "Isabella Tromba"
+   ],
+   "tags": [
+      "Rust",
+      "lightning",
+      "online"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/D1NAREuicNs/0.jpg",
+   "title": "Writing the Fastest GBDT Library in Rust",
+   "video": "https://youtube.com/watch?v=D1NAREuicNs"
+},{
    "duration": 6526,
    "edition": "2013",
    "identifier": "C++Now-2013-45",
@@ -53895,7 +54275,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2584,
+   "number": 2591,
    "speakers": [
       "Stuart Langridge"
    ],
@@ -53913,7 +54293,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2679,
+   "number": 2686,
    "speakers": [
       "Stuart Langridge"
    ],
@@ -53931,7 +54311,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Copenhagen",
-   "number": 2655,
+   "number": 2662,
    "speakers": [
       "Fahran Wallace"
    ],
@@ -53968,7 +54348,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2435,
+   "number": 2442,
    "speakers": [
       "Marc Cohen"
    ],
@@ -53986,7 +54366,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTOpia",
-   "number": 2797,
+   "number": 2804,
    "speakers": [
       "Gojko Adzic"
    ],
@@ -54004,7 +54384,7 @@
    "language": "English",
    "level": 0,
    "meeting": "Oxidize Global",
-   "number": 2891,
+   "number": 2911,
    "speakers": [],
    "tags": [
       "Rust",
@@ -54021,7 +54401,7 @@
    "language": "English",
    "level": 0,
    "meeting": "RustFest",
-   "number": 2849,
+   "number": 2869,
    "speakers": [
       "Zeeshan Ali"
    ],
@@ -54040,7 +54420,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2419,
+   "number": 2426,
    "speakers": [
       "Ashley Williams"
    ],

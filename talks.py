@@ -32,10 +32,16 @@
 # itCppCon20 - The Silicon Valley coding interview (Nicolo Valigi)
 # Welcome (Marco Arena) + 'WARNING: std::find is broken
 # javascript: try first write only the fixed text, then full rewrite
-#
-# check MUC++ added lightning talks
 # C++ now 21 has light talks, earlier don't - add
-# add rustconf 2021
+# first write only the fixed text, then full rewrite
+# accept 'direct links' to set tags, like for an author, ctl-nr or conference
+# -> provide URL of that selection
+# eliminate empty edition from the list (or none??) also for speaker??
+# Meeting, Edition etc. (fix inside Javascript)                                  
+# going native 'panel'? https://www.youtube.com/watch?v=gk5gI2VAdy8
+# going native - add speakers
+#
+# add 
 #
 # more tags: units, naming
 # how to record tags??
@@ -1295,17 +1301,24 @@ def split_speakers_and_title( meeting, edition, s, splitter ):
       "CoreHard Autumn 2019",
       "CoreHard Spring 2019",
       "[MUC++]",
+      "GoingNative 2012 - Day 1 -",
+      "GoingNative 2012 - Day 2 -",      
       "(C++ Beginner's Lightning Talk)",
       "(C++ Lightning Talk)",
       "(Lightning Talk)",
       "RustConf 2019 - ",
       "RustConf 2020 - ",
+      "RustConf 2021 - ",
       "RustFest Barcelona - ",
       " - RustFest Global 2020",
       "2013 ", # C++Now
       "2016", # also C++Now
    ]:
       s = s.replace( x, "" )
+      
+   # remove "Going Native NN : "   
+   if s.startswith( "GoingNative" ):
+      s = s.split( ":" )[ 1 ]      
          
    # C++Now 2014 omits the speakers
    s = s.strip()
@@ -1395,6 +1408,7 @@ def add_talk(
          s = remove_nocase( s, [ 
             "closing panel", 
             "panel", 
+            "Interactive : ",            
             " @ Cindy, Simon, Geeta, James & Mark @ GOTO 2018",
          ] ) 
          splitter = split_panel
@@ -1642,6 +1656,9 @@ playlists = [
    ]], [ "MUC++", [ 
       [ "",      [[ "PLOqQEh8zIeoBH4gOJM9uZveUMW-uNmty8", split_st,   "l+"  ],
                   [ "PLO_1k6dh05Q_0yeJETerhbL6GlHsAt5RQ", split_st,   "l+"  ]]],
+#   ]], [ "Going Native", [
+#      [ "2012", [[ "PLGvfHSgImk4aSCKMmnDl8ZXwL2CY6g8lH", split_lee,   "l+"  ]]],
+#      [ "2013", [[ "PLD0gpuCC5_-kVh4Kvr6DfNJ3cBkxiKw1Q", split_lee,   "l+"  ]]],
    ]], [ "GOTO Amsterdam", [
       [ "2018", [[ "PLEx5khR4g7PJzxBWC9c6xx0LghEIxCLwm", split_goto,  "l"  ]]],
       [ "2019", [[ "PLEx5khR4g7PKT9RvuVyQxJLO8CZUJzNMy", split_goto,  "l"  ]]],
@@ -1742,8 +1759,14 @@ function talk_thumbnail( talk ){
 }
 
 function format_duration( n ){
-   return Math.round( n / 60 ).toString() +
-      ":" + ( 100 + Math.round( n % 60 )).toString().slice(-2)
+   var date = new Date(0);
+   date.setSeconds( n ); 
+   var t = date.toISOString().substr(11, 8);
+   n = Math.round( n / ( 24 * 60 * 60 ))
+   if( n > 0 ){
+      t = n.toString() + ":" + t
+   }      
+   return t
 }
 
 function sanitize( s ){
@@ -1844,13 +1867,16 @@ function rewrite(){
    // the list of talks
    var n = 0
    var t2 = ""
+   var d = 0
    for( const talk of talks ) { 
       if( include_talk( talk )) {
          n += 1
          t2 += talk_html( talk )
+         d += talk.duration
       }   
    }
-   t += n.toString() + " entries<BR>" + t2
+   t += n.toString() + " entries ("
+   t += format_duration( d ) + ")<BR>" + t2
   
    t += "</BODY></HTML>"
    document.open()
