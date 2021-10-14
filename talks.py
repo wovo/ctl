@@ -31,9 +31,11 @@
 # Core C++ 2019 :: Rafi Wiener :: Interview Question
 # itCppCon20 - The Silicon Valley coding interview (Nicolo Valigi)
 # Welcome (Marco Arena) + 'WARNING: std::find is broken
-# first write only the fixed text, then full rewrite
-# https://www.youtube.com/c/GotoConferences
-# https://www.youtube.com/c/GotoConferences/playlists
+# javascript: try first write only the fixed text, then full rewrite
+#
+# check MUC++ added lightning talks
+# C++ now 21 has light talks, earlier don't - add
+# add rustconf 2021
 #
 # more tags: units, naming
 # how to record tags??
@@ -69,9 +71,9 @@ def read_from_file( file ):
 
 replacements = {
    "•": "@",      "í": "i",      "á": "a",      "é": "e",      "á": "a",
-   "ł": "l",      "ñ": "n",      "’": "'",      "＜": "<",      "＞": ">",
+   "ł": "l",      "ñ": "n",      "’": "'",      "＜": "<",     "＞": ">",
    "ň": "n",      "ř": "r",      "ý": "y",      "ń": "n",      "=": "=",
-   "ü": "u",      "“": "'",      "”": "'",      "\"": "'",      "ç": "c",
+   "ü": "u",      "“": "'",      "”": "'",      "\"": "'",     "ç": "c",
    "–": "-",      "ć": "c",      "Á": "A",      "Ł": "L",      "ö": "o",
    "Č": "C",      "ć": "c",      "ä": "a",      "ë": "e",      "ó": "o",
    "ś": "s",      "ę": "e",      "ź": "z",      "î": "i",      "ą": "a",
@@ -81,8 +83,9 @@ replacements = {
    "≤": "=<",     "Ó": "O",      "⬆️": "^",      "È": "E",      "ì": "i",
    "→": "->",     "λ": "lambda", "ï": "i",      "ò": "o",      "∞": "lemniscate",
    "𝐂": "C",      "á": "a",      "́": "",        "æ": "ae",     "➠": "",
-   "\u0308": "",  "à": "a",
-   "🤖": "",
+   "\u0308": "",  "à": "a",      "🤖": "",      "ø": "o",
+   "å": "a",      "â": "a",
+   "x": "x",
    "x": "x",
    "x": "x",
    "x": "x",
@@ -594,8 +597,18 @@ must_total_replace = [
         "[IoT & Edge Computing][FRE] Zephyr, retour d'experience sur une des fondation de Stimio SDK" ],    
    [ "Q&A - Monolith to Microservices with Sam Newman and Sven Johann @ GOTO 2020",
         "Monolith to Microservices @ Sam Newman, Sven Johann" ],    
-   [ "",
-        "" ],    
+   [ "RustConf 2019 - Closing Keynote by Lin Clark",
+        "RustConf 2019 - Closing Keynote Rust beyond Rust by Lin Clark" ],    
+   [ "RustConf 2019 - Opening Keynote by Steve Klabnik & Florian Gilcher",
+        "RustConf 2019 - Conference Opening Opening Keynote by Steve Klabnik & Florian Gilcher" ],    
+   [ "RustConf 2020 - Opening Keynote",
+        "RustConf 2020 - Conference Opening Opening Keynote by Steve Klabnik & Florian Gilcher" ],    
+   [ "RustConf 2020 - Closing Keynote by Sian Griffin",
+        "RustConf 2020 - Conference Closing Closing Keynote by Sian Griffin" ],    
+   [ "κeen - 言語自作を通して学んだRust - RustFest Global 2020",
+        "Keen - Rust: Learning through the language itself — RustFest Global 2020" ],    
+   [ "tkat0 - エッジとクラウドでRustを使いこなす ～AI/IoTでの事例～ - RustFest Global 2020",
+        "tkat0 - Full use of Rust on edge and cloud: AI and IoT use cases - RustFest Global 2020" ],    
    [ "",
         "" ],    
    [ "",
@@ -825,6 +838,7 @@ speaker_replacements = [
    [ "Verasani",                     "Matti Verasani" ],
    [ "Tondelli",                     "Eric Tondelli" ],
    [ "Yury Solodkyy",                "Yuriy Solodkyy" ],
+   [ "Vincente Botet",               "Vicente J. Botet Escriba" ],
    [ "Vicente Botet",                "Vicente J. Botet Escriba" ],
    [ "Paul Bendixen",                "Paul M. Bendixen" ],
    [ "Dr. Kenneth Holmqvist",        "Kenneth Holmqvist" ],
@@ -833,6 +847,28 @@ speaker_replacements = [
    [ "Stefan",                       "Stefan Tilkov" ],
    [ "Erik",                         "Erik Doernenburg" ],
    [ "Ranganathan 'Ranga' Balashanmugam",    "Ranganathan Balashanmugam" ],
+   [ "E. Boyle",                     "Eamonn Boyle" ],
+   [ "G. Gilmour",                   "Garth Gilmour" ],
+   [ "B. Wilcock",                   "Ben Wilcock" ],
+   [ "S. v. Beelen",                 "Steven van Beelen" ],
+   [ "J. Alvarez",                   "Juan Alvarez" ],
+   [ "J. Szubryt",                   "Jim Szubryt" ],
+   [ "C. Hees",                      "Christiaan Hees" ],
+   [ "L. Boonstra",                  "Lee Boonstra" ],
+   [ "M. Feigal",                    "Matt Feigal" ],
+   [ "Sir Tim Berners-Lee",          "Tim Berners-Lee" ],
+   [ "Tjeerd In't Veen",             "Tjeerd in 't Veen" ],
+   [ "D. Mitrovic",                  "Dejan Mitrovic" ],
+   [ "jam1garner",                   "Jam Garner" ],
+   [ "glowcoil",                     "Micah Johnston" ],
+   [ "Carlo",                        "Carlo Supina" ],
+   [ "Micah",                        "Micah Tigley" ],
+   [ "Gavin",                        "Gavin Mendel-Gleason" ],
+   [ "Matthijs",                     "Matthijs van Otterdijk" ],
+   [ "Juan Pedro Bolivar",           "Juan Pedro Bolivar Puente" ],
+   [ "",                             "" ],
+   [ "",                             "" ],
+   [ "",                             "" ],
    [ "",                             "" ],
    [ "",                             "" ],
    [ "",                             "" ],
@@ -978,9 +1014,10 @@ def split_ts( meeting, edition, s ):
 
 def split_by( meeting, edition, s ):
    # split on (first) occurrence of " by "
-   print( "   split_by [%s]" % s )
+   split = s.split( " by ", 1 )
+   print( "   split_by [%s] %s" % ( s, split ))
    
-   title, speakers  = s.split( " by ", 1 )
+   title, speakers  = split
       
    return speakers, title   
    
@@ -1086,9 +1123,17 @@ def split_panel( meeting, edition, s ):
 def split_goto( meeting, edition, s ):   
    # @ separated
    print( "   split_goto [%s]" % s )
-   split = s.split( "@" )
+   split = s.replace( "GOTO 2019 @", "" ).split( "@" )
    
    return split[ 1 ].strip(), split[ 0 ].strip()
+
+   
+# ===========================================================================
+
+def split_t( meeting, edition, s ):   
+   # no speakers
+   
+   return "", s
 
    
 # ===========================================================================
@@ -1253,6 +1298,10 @@ def split_speakers_and_title( meeting, edition, s, splitter ):
       "(C++ Beginner's Lightning Talk)",
       "(C++ Lightning Talk)",
       "(Lightning Talk)",
+      "RustConf 2019 - ",
+      "RustConf 2020 - ",
+      "RustFest Barcelona - ",
+      " - RustFest Global 2020",
       "2013 ", # C++Now
       "2016", # also C++Now
    ]:
@@ -1371,6 +1420,7 @@ def add_talk(
          'l' : "live",
          'o' : "online",
          '+' : "c++",
+         'r' : "Rust",
          'e' : "embedded",
       }[ c ] )   
       
@@ -1425,6 +1475,12 @@ excluded_talks = [
    "GOTO Berlin 2019 Highlights",
    "Top 3 Most Viewed GOTO Berlin Talks • GOTO 2018",
    "GOTO Copenhagen 2019 Highlights",
+   "Dibs / Immersive Afrobeats – Artist Performance — RustFest Global 2020",
+   "[MONRHEA] – Artist Performance — RustFest Global 2020",
+   "Aesthr: Rain on Titan – Artist Performance — RustFest Global 2020",
+   "Linalab && !ME – Artist Performance — RustFest Global 2020",
+   "Dahlia Fae – Artist Performance — RustFest Global 2020",
+   "",
    "",
    "",
    "",
@@ -1469,122 +1525,123 @@ def add_playlist( talks, meeting, edition, playlists, nr1, nr2 ):
 
 playlists = [
    [ "BoostCon", [ 
-      [ "2010", [[ "PL_AKIMJc4roVg67uMOpzEpsYTolMvhxho", split_st,  "l+"  ]]],
-      [ "2011", [[ "PL_AKIMJc4roWHqe9Wt6AwYS6rpE2P0Rqh", split_st,  "l+"  ]]],
+      [ "2010", [[ "PL_AKIMJc4roVg67uMOpzEpsYTolMvhxho", split_st,    "l+"  ]]],
+      [ "2011", [[ "PL_AKIMJc4roWHqe9Wt6AwYS6rpE2P0Rqh", split_st,    "l+"  ]]],
    ]], [ "C++Now", [ 
-      [ "2012", [[ "PL_AKIMJc4roWXECUOVFsSTn6zs-145shM", split_st,  "l+"  ]]],
-      [ "2013", [[ "PL_AKIMJc4roWzZsLGGhWbCAgr8l_Hr978", split_st,  "l+"  ]]],
-      [ "2014", [[ "PL_AKIMJc4roXG7rOmqsb_wDG1btCzhS8F", split_ts,  "l+"  ]]],
-      [ "2015", [[ "PL_AKIMJc4roX665MVPoqbzHVZFMBzgytT", split_st,  "l+"  ]]],
-      [ "2016", [[ "PL_AKIMJc4roU0F3w20Ac77YeOFyvFmaJD", split_st,  "l+"  ]]],
-      [ "2017", [[ "PL_AKIMJc4roXJldxjJGtH8PJb4dY6nN1D", split_sqt, "l+"  ]]],
-      [ "2018", [[ "PL_AKIMJc4roVSbTTfHReQTl1dc9ms0lWH", split_sqt, "l+"  ]]],
-      [ "2019", [[ "PL_AKIMJc4roW3jQgghyouFoX15m84YYB0", split_sqt, "l+"  ]]],
-      [ "2021", [[ "PL_AKIMJc4roXvFWuYzTL7Xe7j4qukOXPq", split_ts,  "o+"  ]]],
+      [ "2012", [[ "PL_AKIMJc4roWXECUOVFsSTn6zs-145shM", split_st,    "l+"  ]]],
+      [ "2013", [[ "PL_AKIMJc4roWzZsLGGhWbCAgr8l_Hr978", split_st,    "l+"  ]]],
+      [ "2014", [[ "PL_AKIMJc4roXG7rOmqsb_wDG1btCzhS8F", split_ts,    "l+"  ]]],
+      [ "2015", [[ "PL_AKIMJc4roX665MVPoqbzHVZFMBzgytT", split_st,    "l+"  ]]],
+      [ "2016", [[ "PL_AKIMJc4roU0F3w20Ac77YeOFyvFmaJD", split_st,    "l+"  ]]],
+      [ "2017", [[ "PL_AKIMJc4roXJldxjJGtH8PJb4dY6nN1D", split_sqt,   "l+"  ]]],
+      [ "2018", [[ "PL_AKIMJc4roVSbTTfHReQTl1dc9ms0lWH", split_sqt,   "l+"  ]]],
+      [ "2019", [[ "PL_AKIMJc4roW3jQgghyouFoX15m84YYB0", split_sqt,   "l+"  ]]],
+      [ "2021", [[ "PL_AKIMJc4roXvFWuYzTL7Xe7j4qukOXPq", split_ts,    "o+"  ]]],
    ]], [ "Meeting C++", [ 
-      [ "2014", [[ "PLRyNF2Y6sca0Luy-3XreR2l2aQ7Hf5ODl", split_ts,  "l+"  ]]],
-      [ "2015", [[ "PLRyNF2Y6sca0UKKZ2PTSwF3WrDjABQdcL", split_ts,  "l+"  ]]],
-      [ "2016", [[ "PLRyNF2Y6sca06lulacjysyu8RIwfKgYoY", split_ts,  "l+"  ]]],
-      [ "2017", [[ "PLRyNF2Y6sca3EUO_RTNv5t7gUmppFl9R1", split_ts,  "l+"  ]]],
-      [ "2018", [[ "PLRyNF2Y6sca3bxLLAojbEWaZ2DueRPZVy", split_ts,  "l+"  ]]],
-      [ "2019", [[ "PLRyNF2Y6sca27wjBvjc5yg3F1QqZgazKb", split_ts,  "l+"  ],
-                 [ "PLRyNF2Y6sca1nKqNGjafqpTke8RmvZIji", split_ts,  "l+"  ]]],
-      [ "2020", [[ "PLRyNF2Y6sca0hXu0FG-5SP3lTI-g7srMW", split_st,  "o+"  ]]],
+      [ "2014", [[ "PLRyNF2Y6sca0Luy-3XreR2l2aQ7Hf5ODl", split_ts,    "l+"  ]]],
+      [ "2015", [[ "PLRyNF2Y6sca0UKKZ2PTSwF3WrDjABQdcL", split_ts,    "l+"  ]]],
+      [ "2016", [[ "PLRyNF2Y6sca06lulacjysyu8RIwfKgYoY", split_ts,    "l+"  ]]],
+      [ "2017", [[ "PLRyNF2Y6sca3EUO_RTNv5t7gUmppFl9R1", split_ts,    "l+"  ]]],
+      [ "2018", [[ "PLRyNF2Y6sca3bxLLAojbEWaZ2DueRPZVy", split_ts,    "l+"  ]]],
+      [ "2019", [[ "PLRyNF2Y6sca27wjBvjc5yg3F1QqZgazKb", split_ts,    "l+"  ],
+                 [ "PLRyNF2Y6sca1nKqNGjafqpTke8RmvZIji", split_ts,    "l+"  ]]],
+      [ "2020", [[ "PLRyNF2Y6sca0hXu0FG-5SP3lTI-g7srMW", split_st,    "o+"  ]]],
    ]], [ "Meeting Embedded", [ 
-      [ "2018", [[ "PLRyNF2Y6sca0eWtRoUIOW_5wVcghtm9rI", split_ts,  "le"  ]]],
-      [ "2020", [[ "PLRyNF2Y6sca3HLKGGixEdBhYHNf0Z0ZPe", split_st,  "oe"  ]]],     
+      [ "2018", [[ "PLRyNF2Y6sca0eWtRoUIOW_5wVcghtm9rI", split_ts,    "le"  ]]],
+      [ "2020", [[ "PLRyNF2Y6sca3HLKGGixEdBhYHNf0Z0ZPe", split_st,    "oe"  ]]],     
    ]], [ "CppCon", [ 
-      [ "2014", [[ "PLHTh1InhhwT7esTl1bRitiizeEnksGU7J", split_sqt, "l+"  ]]],
-      [ "2015", [[ "PLHTh1InhhwT75gykhs7pqcR_uSiG601oh", split_sqt, "l+"  ]]],
-      [ "2016", [[ "PLHTh1InhhwT7J5jl4vAhO1WvGHUUFgUQH", split_sqt, "l+"  ]]],
-      [ "2017", [[ "PLHTh1InhhwT6bwIpRk0ZbCA0N2p1taxd6", split_sqt, "l+"  ]]],
-      [ "2018", [[ "PLHTh1InhhwT6V9RVdFRoCG_Pm5udDxG1c", split_sqt, "l+"  ]]],
-      [ "2019", [[ "PLHTh1InhhwT6KhvViwRiTR7I5s09dLCSw", split_sqt, "l+"  ]]],
-      [ "2020", [[ "PLHTh1InhhwT6VxYHtoWIvOup9gz0p95Qr", split_ts,  "o+"  ]]],
+      [ "2014", [[ "PLHTh1InhhwT7esTl1bRitiizeEnksGU7J", split_sqt,   "l+"  ]]],
+      [ "2015", [[ "PLHTh1InhhwT75gykhs7pqcR_uSiG601oh", split_sqt,   "l+"  ]]],
+      [ "2016", [[ "PLHTh1InhhwT7J5jl4vAhO1WvGHUUFgUQH", split_sqt,   "l+"  ]]],
+      [ "2017", [[ "PLHTh1InhhwT6bwIpRk0ZbCA0N2p1taxd6", split_sqt,   "l+"  ]]],
+      [ "2018", [[ "PLHTh1InhhwT6V9RVdFRoCG_Pm5udDxG1c", split_sqt,   "l+"  ]]],
+      [ "2019", [[ "PLHTh1InhhwT6KhvViwRiTR7I5s09dLCSw", split_sqt,   "l+"  ]]],
+      [ "2020", [[ "PLHTh1InhhwT6VxYHtoWIvOup9gz0p95Qr", split_ts,    "o+"  ]]],
    ]], [ "code::dive", [ 
-      [ "2014", [[ "PLK3T2dt6T1fcZswWn2HbWpRHprPHyJ4wZ", split_st,  "l"   ]]],
-      [ "2015", [[ "PLK3T2dt6T1fc-Duvq7ZXz0ZQFcSgVKyl4", split_st,  "l"   ]]],
-      [ "2016", [[ "PLK3T2dt6T1fe_K81rfIBdGPfbMlLqeHBT", split_st,  "l"   ]]],
-      [ "2017", [[ "PLK3T2dt6T1fdoBo5uqDjhLg5OcZYKh_KU", split_st,  "l"   ],
-                 [ "Se9AEznM8TI",                        split_lee, "l"   ]]],
-      [ "2018", [[ "PLK3T2dt6T1fd6PILMU2lg7K6pWnUKl34S", split_ts,  "l"   ]]],
-      [ "2019", [[ "PLK3T2dt6T1fd65u8sx01jRrp9aVquXIpN", split_ts,  "l"   ]]],
-      [ "2020", [[ "PLK3T2dt6T1feBLbwORz3dBdCylfe0lBlR", split_ts,  "o"   ]]],
+      [ "2014", [[ "PLK3T2dt6T1fcZswWn2HbWpRHprPHyJ4wZ", split_st,    "l"   ]]],
+      [ "2015", [[ "PLK3T2dt6T1fc-Duvq7ZXz0ZQFcSgVKyl4", split_st,    "l"   ]]],
+      [ "2016", [[ "PLK3T2dt6T1fe_K81rfIBdGPfbMlLqeHBT", split_st,    "l"   ]]],
+      [ "2017", [[ "PLK3T2dt6T1fdoBo5uqDjhLg5OcZYKh_KU", split_st,    "l"   ],
+                 [ "Se9AEznM8TI",                        split_lee,   "l"   ]]],
+      [ "2018", [[ "PLK3T2dt6T1fd6PILMU2lg7K6pWnUKl34S", split_ts,    "l"   ]]],
+      [ "2019", [[ "PLK3T2dt6T1fd65u8sx01jRrp9aVquXIpN", split_ts,    "l"   ]]],
+      [ "2020", [[ "PLK3T2dt6T1feBLbwORz3dBdCylfe0lBlR", split_ts,    "o"   ]]],
    ]], [ "accu", [ 
-      [ "2016", [[ "PL9hrFapz4dsObkSjgBlyFl-aotNvk2GeP", split_ts,  "l"  ],
-                 [ "PL9hrFapz4dsNx2fwGFwj8NtPzQr2SexTv", split_ts,  "l"  ],
-                 [ "PL9hrFapz4dsM1B9bI8VmEE4JJlR0m-dvo", split_ts,  "l"  ],
-                 [ "PL9hrFapz4dsM-8qu0wERM5UvCCKEKq3q7", split_ts,  "l"  ]]],
-      [ "2017", [[ "PL9hrFapz4dsPvV6X9Iw3Yd2_N4NCoJwPh", split_ts,  "l"  ],
-                 [ "PL9hrFapz4dsMDBef2SsNNHDXbEw62qdr6", split_ts,  "l"  ],
-                 [ "PL9hrFapz4dsNYgaDy3CL76Cz2J_jSZrHA", split_ts,  "l"  ],
-                 [ "PL9hrFapz4dsMQuBQTnHXogJpMj6L_EQ10", split_ts,  "l"  ]]],
-      [ "2018", [[ "PL9hrFapz4dsOQmv7bcGoxl0iN3NRm_22N", split_ts,  "l"  ],
-                 [ "PL9hrFapz4dsN6KK5gQ5pLCw_VydZnGgmV", split_ts,  "l"  ],
-                 [ "PL9hrFapz4dsPSepY_AxxQEf6cjEqXht7B", split_ts,  "l"  ],
-                 [ "PL9hrFapz4dsOLfsE8CpS_6Ixx6kIsIFV7", split_ts,  "l"  ]]],
-      [ "2019", [[ "PL9hrFapz4dsMrrlvFMvuqy_cdpPadCyL8", split_ts,  "l"  ],
-                 [ "PL9hrFapz4dsMmDBjD_hiGaYKTXXLo7bAv", split_ts,  "l"  ],
-                 [ "PL9hrFapz4dsODt3aI5adCaZB6KHwz2Tpe", split_ts,  "o"  ], # belfast
-                 [ "PL9hrFapz4dsNGsb0DdTDbX6elBLng8lg-", split_ts,  "l"  ],
-                 [ "PL9hrFapz4dsMj31ZrsQNEXKqXJRbSXdHS", split_ts,  "l"  ]]],
-      [ "2021", [[ "PL5XXu3X6L7jtk7-GIVq3-bkKDKDtoagj4", split_ts,  "o"  ],
-                 [ "PL5XXu3X6L7jvWwbkUgMyGpA6VyqGrHbdv", split_ts,  "o"  ],
-                 [ "PL5XXu3X6L7jvWwbkUgMyGpA6VyqGrHbdv", split_ts,  "o"  ],
-                 [ "PL5XXu3X6L7juIhIykfhFmjyl4D5Tvjvdh", split_ts,  "o"  ]]],
+      [ "2016", [[ "PL9hrFapz4dsObkSjgBlyFl-aotNvk2GeP", split_ts,    "l"  ],
+                 [ "PL9hrFapz4dsNx2fwGFwj8NtPzQr2SexTv", split_ts,    "l"  ],
+                 [ "PL9hrFapz4dsM1B9bI8VmEE4JJlR0m-dvo", split_ts,    "l"  ],
+                 [ "PL9hrFapz4dsM-8qu0wERM5UvCCKEKq3q7", split_ts,    "l"  ]]],
+      [ "2017", [[ "PL9hrFapz4dsPvV6X9Iw3Yd2_N4NCoJwPh", split_ts,    "l"  ],
+                 [ "PL9hrFapz4dsMDBef2SsNNHDXbEw62qdr6", split_ts,    "l"  ],
+                 [ "PL9hrFapz4dsNYgaDy3CL76Cz2J_jSZrHA", split_ts,    "l"  ],
+                 [ "PL9hrFapz4dsMQuBQTnHXogJpMj6L_EQ10", split_ts,    "l"  ]]],
+      [ "2018", [[ "PL9hrFapz4dsOQmv7bcGoxl0iN3NRm_22N", split_ts,    "l"  ],
+                 [ "PL9hrFapz4dsN6KK5gQ5pLCw_VydZnGgmV", split_ts,    "l"  ],
+                 [ "PL9hrFapz4dsPSepY_AxxQEf6cjEqXht7B", split_ts,    "l"  ],
+                 [ "PL9hrFapz4dsOLfsE8CpS_6Ixx6kIsIFV7", split_ts,    "l"  ]]],
+      [ "2019", [[ "PL9hrFapz4dsMrrlvFMvuqy_cdpPadCyL8", split_ts,    "l"  ],
+                 [ "PL9hrFapz4dsMmDBjD_hiGaYKTXXLo7bAv", split_ts,    "l"  ],
+                 [ "PL9hrFapz4dsODt3aI5adCaZB6KHwz2Tpe", split_ts,    "o"  ], # belfast
+                 [ "PL9hrFapz4dsNGsb0DdTDbX6elBLng8lg-", split_ts,    "l"  ],
+                 [ "PL9hrFapz4dsMj31ZrsQNEXKqXJRbSXdHS", split_ts,    "l"  ]]],
+      [ "2021", [[ "PL5XXu3X6L7jtk7-GIVq3-bkKDKDtoagj4", split_ts,    "o"  ],
+                 [ "PL5XXu3X6L7jvWwbkUgMyGpA6VyqGrHbdv", split_ts,    "o"  ],
+                 [ "PL5XXu3X6L7jvWwbkUgMyGpA6VyqGrHbdv", split_ts,    "o"  ],
+                 [ "PL5XXu3X6L7juIhIykfhFmjyl4D5Tvjvdh", split_ts,    "o"  ]]],
    ]], [ "C++ Day", [ 
-      [ "2020", [[ "PLsCm1Hs016LX6l97Royt5DSYy7V05nZmS", split_par, "o+"  ]]],
+      [ "2020", [[ "PLsCm1Hs016LX6l97Royt5DSYy7V05nZmS", split_par,   "o+"  ]]],
    ]], [ "Italian C++ Conference", [ # checked
-      [ "2020", [[ "PLsCm1Hs016LWIjOrEftUA42ZwxsF30vZB", split_par, "o+"  ]]],
-      [ "2021", [[ "PLsCm1Hs016LV9BRKIqrNWEXfa5ggpiyki", split_par, "o+"  ]]],
+      [ "2020", [[ "PLsCm1Hs016LWIjOrEftUA42ZwxsF30vZB", split_par,   "o+"  ]]],
+      [ "2021", [[ "PLsCm1Hs016LV9BRKIqrNWEXfa5ggpiyki", split_par,   "o+"  ]]],
    ]], [ "C++ on sea", [ 
-      [ "2019", [[ "PL5XXu3X6L7jtk7-GIVq3-bkKDKDtoagj4", split_ts,  "l+"  ],
-                 [ "PL5XXu3X6L7jvWwbkUgMyGpA6VyqGrHbdv", split_ts,  "l+"  ],
-                 [ "PL5XXu3X6L7juIhIykfhFmjyl4D5Tvjvdh", split_ts,  "l+"  ]]],
-      [ "2020", [[ "PL5XXu3X6L7juEpWIifd7h7c0h1y5s_DbE", split_ts,  "o+"  ],
-                 [ "PL5XXu3X6L7jvdtND1SqgA3V-mfappzRIu", split_ts,  "o+"  ],
-                 [ "PL5XXu3X6L7jvH9wRBfhzeW3tmazoFSrkC", split_ts,  "o+"  ],
-                 [ "PL5XXu3X6L7jtcXY9Ilpv7WhDS6lEo1hBz", split_ts,  "o+"  ]]],
-      [ "2021", [[ "PL5XXu3X6L7jsIaVI82HXU3p2yRz2kVDZf", split_ts,  "o+"  ],
-                 [ "PL5XXu3X6L7jtLi9qqEAfVfcas5inGLbk9", split_ts,  "o+"  ]]],
+      [ "2019", [[ "PL5XXu3X6L7jtk7-GIVq3-bkKDKDtoagj4", split_ts,    "l+"  ],
+                 [ "PL5XXu3X6L7jvWwbkUgMyGpA6VyqGrHbdv", split_ts,    "l+"  ],
+                 [ "PL5XXu3X6L7juIhIykfhFmjyl4D5Tvjvdh", split_ts,    "l+"  ]]],
+      [ "2020", [[ "PL5XXu3X6L7juEpWIifd7h7c0h1y5s_DbE", split_ts,    "o+"  ],
+                 [ "PL5XXu3X6L7jvdtND1SqgA3V-mfappzRIu", split_ts,    "o+"  ],
+                 [ "PL5XXu3X6L7jvH9wRBfhzeW3tmazoFSrkC", split_ts,    "o+"  ],
+                 [ "PL5XXu3X6L7jtcXY9Ilpv7WhDS6lEo1hBz", split_ts,    "o+"  ]]],
+      [ "2021", [[ "PL5XXu3X6L7jsIaVI82HXU3p2yRz2kVDZf", split_ts,    "o+"  ],
+                 [ "PL5XXu3X6L7jtLi9qqEAfVfcas5inGLbk9", split_ts,    "o+"  ]]],
    ]], [ "Core C++", [ 
-      [ "2019", [[ "PLn4wYlDYx4bszUM8uUJi55czMYuilXfaR", split_cc,  "l+"  ]]],
-      [ "2021", [[ "PLn4wYlDYx4bt5jDwyOleg6J4kTtAu2rU5", split_cc,  "l+"  ]]],
+      [ "2019", [[ "PLn4wYlDYx4bszUM8uUJi55czMYuilXfaR", split_cc,    "l+"  ]]],
+      [ "2021", [[ "PLn4wYlDYx4bt5jDwyOleg6J4kTtAu2rU5", split_cc,    "l+"  ]]],
    ]], [ "C++ Europe", [ 
-      [ "2018", [[ "PLKkbEnCSP7sfCuSYTm7gh0leP-HzN7O35", split_st,  "l+"  ]]],
-      [ "2019", [[ "PLKkbEnCSP7sezU3eY8f7NrbJp5g4Kfurl", split_st,  "l+"  ]]],
-      [ "2020", [[ "PLKkbEnCSP7sek-bn-Ae-b16aa7y_mc2EH", split_st,  "o+"  ]]],
+      [ "2018", [[ "PLKkbEnCSP7sfCuSYTm7gh0leP-HzN7O35", split_st,    "l+"  ]]],
+      [ "2019", [[ "PLKkbEnCSP7sezU3eY8f7NrbJp5g4Kfurl", split_st,    "l+"  ]]],
+      [ "2020", [[ "PLKkbEnCSP7sek-bn-Ae-b16aa7y_mc2EH", split_st,    "o+"  ]]],
    ]], [ "C++IndiaCon", [ 
-      [ "2021", [[ "PLZ3iYBI9Conj6Vbm0KZhDAYOiXPVfSfip", split_by,  "o+"  ]]],
+      [ "2021", [[ "PLZ3iYBI9Conj6Vbm0KZhDAYOiXPVfSfip", split_by,    "o+"  ]]],
    ]], [ "CPPP", [ 
       # no playlist
    ]], [ "Pacific C++", [ 
-      [ "2017", [[ "PLd4OrpVodmxUf6WsIJhb2KvYaq9RBuIr3", split_sqt, "l+"  ]]],
-      [ "2018", [[ "PLd4OrpVodmxUCBpzlkPYsiP9hOtLFpAjk", split_sqt, "l+"  ]]],
+      [ "2017", [[ "PLd4OrpVodmxUf6WsIJhb2KvYaq9RBuIr3", split_sqt,   "l+"  ]]],
+      [ "2018", [[ "PLd4OrpVodmxUCBpzlkPYsiP9hOtLFpAjk", split_sqt,   "l+"  ]]],
    ]], [ "Live Embedded Event", [
-      [ "2020", [[ "PLn7YTy5_SF4_1ZLsQ29ZGpjZo7aNoLBIt", split_lee, "oe"  ]]],
-      [ "2021", [[ "PLn7YTy5_SF4-FRyY-5zwsKuTCOBRUkY_h", split_lee, "oe"  ]]],
+      [ "2020", [[ "PLn7YTy5_SF4_1ZLsQ29ZGpjZo7aNoLBIt", split_lee,   "oe"  ]]],
+      [ "2021", [[ "PLn7YTy5_SF4-FRyY-5zwsKuTCOBRUkY_h", split_lee,   "oe"  ]]],
    ]], [ "corehard", [ 
-      [ "2017", [[ "XWn4_Vu7rUM",                        split_sdt, "l+"  ],
-                 [ "TX6aw2NtgVw",                        split_sdt, "l+"  ],
-                 [ "7wqpeVs6usY",                        split_sdt, "l+"  ]]],
-      [ "2018", [[ "5U8eN1h2_w0",                        split_ts,  "l+"  ],
-                 [ "pqpoGJSlrbw",                        split_ts,  "l+"  ],
-                 [ "unWsb-u4ors",                        split_ts,  "l+"  ],
-                 [ "mIuqlsxAz0M",                        split_ts,  "l+"  ],
-                 [ "GcfqHT4RtWc",                        split_sdt, "l+"  ],
-                 [ "560l4b3i4ew",                        split_sdt, "l+"  ],
-                 [ "OY_mS2e4XTk",                        split_sdt, "l+"  ]]],
-      [ "2019", [[ "s9vBk5CxFyY",                        split_tds, "l+"  ],
-                 [ "nqf53MlnMpo",                        split_tds, "l+"  ],
-                 [ "N8i2VITM4Pw",                        split_tds, "l+"  ],
-                 [ "tp9ZoQ6HJM4",                        split_tds, "l+"  ],
-                 [ "EeEjgT4OJ3E",                        split_tds, "l+"  ],
-                 [ "Vv3cz28Un3Y",                        split_tds, "l+"  ],
-                 [ "hcgL8QBmh2I",                        split_tds, "l+"  ],
-                 [ "4QO9FyH0KIY",                        split_tds, "l+"  ]]],
+      [ "2017", [[ "XWn4_Vu7rUM",                        split_sdt,   "l+"  ],
+                 [ "TX6aw2NtgVw",                        split_sdt,   "l+"  ],
+                 [ "7wqpeVs6usY",                        split_sdt,   "l+"  ]]],
+      [ "2018", [[ "5U8eN1h2_w0",                        split_ts,    "l+"  ],
+                 [ "pqpoGJSlrbw",                        split_ts,    "l+"  ],
+                 [ "unWsb-u4ors",                        split_ts,    "l+"  ],
+                 [ "mIuqlsxAz0M",                        split_ts,    "l+"  ],
+                 [ "GcfqHT4RtWc",                        split_sdt,   "l+"  ],
+                 [ "560l4b3i4ew",                        split_sdt,   "l+"  ],
+                 [ "OY_mS2e4XTk",                        split_sdt,   "l+"  ]]],
+      [ "2019", [[ "s9vBk5CxFyY",                        split_tds,   "l+"  ],
+                 [ "nqf53MlnMpo",                        split_tds,   "l+"  ],
+                 [ "N8i2VITM4Pw",                        split_tds,   "l+"  ],
+                 [ "tp9ZoQ6HJM4",                        split_tds,   "l+"  ],
+                 [ "EeEjgT4OJ3E",                        split_tds,   "l+"  ],
+                 [ "Vv3cz28Un3Y",                        split_tds,   "l+"  ],
+                 [ "hcgL8QBmh2I",                        split_tds,   "l+"  ],
+                 [ "4QO9FyH0KIY",                        split_tds,   "l+"  ]]],
    ]], [ "MUC++", [ 
-      [ "",      [[ "PLOqQEh8zIeoBH4gOJM9uZveUMW-uNmty8", split_st, "l+"  ]]],
+      [ "",      [[ "PLOqQEh8zIeoBH4gOJM9uZveUMW-uNmty8", split_st,   "l+"  ],
+                  [ "PLO_1k6dh05Q_0yeJETerhbL6GlHsAt5RQ", split_st,   "l+"  ]]],
    ]], [ "GOTO Amsterdam", [
       [ "2018", [[ "PLEx5khR4g7PJzxBWC9c6xx0LghEIxCLwm", split_goto,  "l"  ]]],
       [ "2019", [[ "PLEx5khR4g7PKT9RvuVyQxJLO8CZUJzNMy", split_goto,  "l"  ]]],
@@ -1604,6 +1661,15 @@ playlists = [
       [ "2020", [[ "PLEx5khR4g7PIiAEHCt6LGMFnzq7JjO8we", split_goto,  "o"  ],
                  [ "PLEx5khR4g7PI4l8PnLCv9j3PlePzuQPbm", split_goto,  "o"  ]]],
       [ "2021", [[ "PLEx5khR4g7PI89_ZS_wz5suqCoqFgv-gO", split_goto,  "o"  ]]],
+   ]], [ "RustConf", [
+      [ "2019", [[ "PL85XCvVPmGQhDOUIZBe6u388GydeACbTt", split_by,    "ro"  ]]],
+      [ "2020", [[ "PL85XCvVPmGQijqvMcMBfYAwExx1eBu1Ei", split_by,    "ro"  ]]],
+      [ "2021", [[ "PL85XCvVPmGQgACNMZlhlRZ4zlKZG_iWH5", split_by,    "ro"  ]]],
+   ]], [ "RustFest", [
+      [ "2019", [[ "PL85XCvVPmGQg-dewHRpM08JkGrBPdIVHw", split_st,    "rl"  ]]],
+      [ "2020", [[ "PL85XCvVPmGQiudPknCxiSpybc5RTfkXe6", split_st,    "ro"  ]]],
+   ]], [ "Oxidize Global", [
+      [ "2020", [[ "PL85XCvVPmGQjbJxpRTopnzCVMUwAKsfB7", split_t,     "ro"  ]]],
    ]], [ "", [
    ]],      
 ]
@@ -1739,11 +1805,12 @@ function rewrite(){
 
    t += "<HTML><IMG SRC=C++.png>"
    t += "<BODY bgcolor=#94b89d><H1>C++ Talks List</H1>"
-   t += "Last updated <date-and-time>.<BR>"
+   t += "Last updated " + date_and_time + ".<BR>"
    t += "Compiled by Wouter van Ooijen (wouter@voti.nl).<BR>"
    t += "Raw data avaiulable at <A HREF=https://www.github.com/wovo/ctl>"
    t += "www.github.com/wovo/ctl</A>.<P>"
-   t += "This is a list of talks about C++, embedded and related subjects "
+   t += "This is a list of talks about C++, Rust, embedded "
+   t += "and related subjects "
    t += "I compiled from youtube playlists. "
    t += "Suggestions for other conferences to be included are welcome. "
    t += "I apologize for any inaccuracies and omissions. "
@@ -1969,7 +2036,9 @@ function include_talk( talk ){
    return use   
 }
 
+// ==========================================================================
 
+date_and_time = "<date-and-time>"
 
 <generated>
 

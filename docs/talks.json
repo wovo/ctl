@@ -5,7 +5,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2454,
+   "number": 2621,
    "speakers": [
       "Fabio Pereira"
    ],
@@ -60,10 +60,10 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2502,
+   "number": 2353,
    "speakers": [
-      "Kristian L\u00f8ken Wille",
-      "Martin Gravr\u00e5k"
+      "Kristian Loken Wille",
+      "Martin Gravrak"
    ],
    "tags": [
       "live",
@@ -117,7 +117,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2580,
+   "number": 2431,
    "speakers": [
       "Blazej Kubiak",
       "Krzysztof Kudrynski"
@@ -305,7 +305,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2553,
+   "number": 2404,
    "speakers": [
       "Juergen Hoeller"
    ],
@@ -380,7 +380,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2459,
+   "number": 2626,
    "speakers": [
       "Kelley Robinson"
    ],
@@ -398,7 +398,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2602,
+   "number": 2453,
    "speakers": [
       "Bernd Rucker"
    ],
@@ -421,7 +421,7 @@
       "Eoin Woods"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/MCPrtYxuVPU/0.jpg",
@@ -508,7 +508,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2567,
+   "number": 2418,
    "speakers": [
       "Grygoriy Gonchar"
    ],
@@ -564,7 +564,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2468,
+   "number": 2319,
    "speakers": [
       "Alberto Brandolini"
    ],
@@ -594,6 +594,25 @@
    "thumbnail": "http://img.youtube.com/vi/PhbWcfTcVic/0.jpg",
    "title": "5G programmable world",
    "video": "https://youtube.com/watch?v=PhbWcfTcVic"
+},{
+   "duration": 1427,
+   "edition": "2019",
+   "identifier": "RustFest-2019-4",
+   "language": "English",
+   "level": 0,
+   "meeting": "RustFest",
+   "number": 2851,
+   "speakers": [
+      "Claudia Saxer"
+   ],
+   "tags": [
+      "Rust",
+      "live",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/WeoND15c-RE/0.jpg",
+   "title": "66 hours of Rust",
+   "video": "https://youtube.com/watch?v=WeoND15c-RE"
 },{
    "duration": 3741,
    "edition": "2018",
@@ -663,7 +682,7 @@
       "Liz Rice"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/uBqRv8bDroc/0.jpg",
@@ -789,7 +808,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2574,
+   "number": 2425,
    "speakers": [
       "Lin Clark"
    ],
@@ -807,7 +826,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2369,
+   "number": 2536,
    "speakers": [
       "Sandro Mancuso"
    ],
@@ -830,7 +849,7 @@
       "Phil Winder"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/sh1o51wOHLo/0.jpg",
@@ -1108,7 +1127,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2495,
+   "number": 2346,
    "speakers": [
       "Markus Volter"
    ],
@@ -1215,6 +1234,23 @@
    "title": "A Little Order: Delving into the STL sorting algorithms",
    "video": "https://youtube.com/watch?v=-0tO3Eni2uo"
 },{
+   "duration": 1513,
+   "edition": "2020",
+   "identifier": "Oxidize Global-2020-11",
+   "language": "English",
+   "level": 0,
+   "meeting": "Oxidize Global",
+   "number": 2892,
+   "speakers": [],
+   "tags": [
+      "Rust",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/OawVYsTUyrM/0.jpg",
+   "title": "A little Rusty in Quantum Physics",
+   "video": "https://youtube.com/watch?v=OawVYsTUyrM"
+},{
    "duration": 3289,
    "edition": "2016",
    "identifier": "CppCon-2016-38",
@@ -1299,7 +1335,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2479,
+   "number": 2330,
    "speakers": [
       "Susanne Kaiser"
    ],
@@ -1542,7 +1578,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2439,
+   "number": 2606,
    "speakers": [
       "Murray Thom"
    ],
@@ -2036,7 +2072,7 @@
       "Garth Gilmour"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/Si3z82PEB5o/0.jpg",
@@ -2090,8 +2126,8 @@
    "meeting": "GOTO Copenhagen",
    "number": 2718,
    "speakers": [
-      "E. Boyle",
-      "G. Gilmour"
+      "Eamonn Boyle",
+      "Garth Gilmour"
    ],
    "tags": [
       "live",
@@ -2315,7 +2351,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2570,
+   "number": 2421,
    "speakers": [
       "Artur Margonari"
    ],
@@ -2333,7 +2369,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2395,
+   "number": 2562,
    "speakers": [
       "Derek Ferguson"
    ],
@@ -2389,7 +2425,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2365,
+   "number": 2532,
    "speakers": [
       "John Napier"
    ],
@@ -2426,7 +2462,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2431,
+   "number": 2598,
    "speakers": [
       "Uri Goldshtein"
    ],
@@ -2444,7 +2480,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2375,
+   "number": 2542,
    "speakers": [
       "Josh Humphries"
    ],
@@ -2462,7 +2498,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2428,
+   "number": 2595,
    "speakers": [
       "Dave Karow"
    ],
@@ -2731,7 +2767,7 @@
       "Daniel Terhorst-North"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/a1SlBbAZdbE/0.jpg",
@@ -2762,7 +2798,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2540,
+   "number": 2391,
    "speakers": [
       "Marco Gercke"
    ],
@@ -2836,7 +2872,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2342,
+   "number": 2509,
    "speakers": [
       "Chris Munns"
    ],
@@ -3063,7 +3099,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2402,
+   "number": 2569,
    "speakers": [
       "Heidi Waterhouse"
    ],
@@ -3175,7 +3211,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2598,
+   "number": 2449,
    "speakers": [
       "Alejandro Lujan"
    ],
@@ -3186,6 +3222,25 @@
    "thumbnail": "http://img.youtube.com/vi/ly86Wq_E18o/0.jpg",
    "title": "Amazing Code Reviews: Creating a Superhero Collective",
    "video": "https://youtube.com/watch?v=ly86Wq_E18o"
+},{
+   "duration": 1448,
+   "edition": "2019",
+   "identifier": "RustFest-2019-7",
+   "language": "English",
+   "level": 0,
+   "meeting": "RustFest",
+   "number": 2854,
+   "speakers": [
+      "Niklas Reppel"
+   ],
+   "tags": [
+      "Rust",
+      "live",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/fCFPl2LrzJc/0.jpg",
+   "title": "Amp Up Web Audio Applications with Rust and WebAssembly",
+   "video": "https://youtube.com/watch?v=fCFPl2LrzJc"
 },{
    "duration": 3800,
    "edition": "2019",
@@ -3307,7 +3362,7 @@
    "meeting": "code::dive",
    "number": 1548,
    "speakers": [
-      "Vincente Botet"
+      "Vicente J. Botet Escriba"
    ],
    "tags": [
       "c++",
@@ -3386,7 +3441,7 @@
       "Kenneth Harris II"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/rZOao4eHw4U/0.jpg",
@@ -3418,7 +3473,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2611,
+   "number": 2462,
    "speakers": [
       "Tim Duckett"
    ],
@@ -3511,7 +3566,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2583,
+   "number": 2434,
    "speakers": [
       "Eric Bottard"
    ],
@@ -3529,7 +3584,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2559,
+   "number": 2410,
    "speakers": [
       "Martin Woolley"
    ],
@@ -3621,7 +3676,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2512,
+   "number": 2363,
    "speakers": [
       "Julius Volz"
    ],
@@ -3727,6 +3782,23 @@
    "title": "An Overview of Standard Ranges",
    "video": "https://youtube.com/watch?v=SYLgG7Q5Zws"
 },{
+   "duration": 1697,
+   "edition": "2020",
+   "identifier": "Oxidize Global-2020-9",
+   "language": "English",
+   "level": 0,
+   "meeting": "Oxidize Global",
+   "number": 2890,
+   "speakers": [],
+   "tags": [
+      "Rust",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/vLYit_HHPaY/0.jpg",
+   "title": "An Overview of the Embedded Rust Ecosystem",
+   "video": "https://youtube.com/watch?v=vLYit_HHPaY"
+},{
    "duration": 3959,
    "edition": "2020",
    "identifier": "Live Embedded Event-2020-35",
@@ -3799,6 +3871,23 @@
    "title": "An Overview on Encryption in C++",
    "video": "https://youtube.com/watch?v=OBpX6R_lEnY"
 },{
+   "duration": 900,
+   "edition": "2020",
+   "identifier": "Oxidize Global-2020-1",
+   "language": "English",
+   "level": 0,
+   "meeting": "Oxidize Global",
+   "number": 2882,
+   "speakers": [],
+   "tags": [
+      "Rust",
+      "keynote",
+      "online"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/6i9sonn9s1w/0.jpg",
+   "title": "An Update on Sealed Rust",
+   "video": "https://youtube.com/watch?v=6i9sonn9s1w"
+},{
    "duration": 3477,
    "edition": "2020",
    "identifier": "code::dive-2020-12",
@@ -3823,7 +3912,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2347,
+   "number": 2514,
    "speakers": [
       "Kelley Robinson"
    ],
@@ -3973,7 +4062,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2452,
+   "number": 2619,
    "speakers": [
       "Francis Potter"
    ],
@@ -3991,7 +4080,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2475,
+   "number": 2326,
    "speakers": [
       "Paige Bailey"
    ],
@@ -4071,7 +4160,7 @@
       "Dylan Beattie"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/qlnxx6M-mvA/0.jpg",
@@ -4084,7 +4173,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2372,
+   "number": 2539,
    "speakers": [
       "Jim Manico"
    ],
@@ -4095,6 +4184,25 @@
    "thumbnail": "http://img.youtube.com/vi/nvzMN5Z8DJI/0.jpg",
    "title": "AppSec: From the OWASP Top Ten(s) to the OWASP ASVS",
    "video": "https://youtube.com/watch?v=nvzMN5Z8DJI"
+},{
+   "duration": 1705,
+   "edition": "2020",
+   "identifier": "RustFest-2020-7",
+   "language": "English",
+   "level": 0,
+   "meeting": "RustFest",
+   "number": 2865,
+   "speakers": [
+      "Jin Mingjian"
+   ],
+   "tags": [
+      "Rust",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/1tiBw6izFNk/0.jpg",
+   "title": "Architect a High-performance SQL Query Engine in Rust",
+   "video": "https://youtube.com/watch?v=1tiBw6izFNk"
 },{
    "duration": 2307,
    "edition": "2017",
@@ -4126,7 +4234,7 @@
    ],
    "tags": [
       "lightning",
-      "live"
+      "online"
    ],
    "thumbnail": "http://img.youtube.com/vi/caRjErS9fiY/0.jpg",
    "title": "Are you Avoiding --privileged? (Q3)",
@@ -4144,7 +4252,7 @@
    ],
    "tags": [
       "lightning",
-      "live"
+      "online"
    ],
    "thumbnail": "http://img.youtube.com/vi/nGR205F4sEM/0.jpg",
    "title": "Are You Keeping Hosts Up to Date with the Latest Security Releases? (Q4)",
@@ -4199,7 +4307,7 @@
    ],
    "tags": [
       "lightning",
-      "live"
+      "online"
    ],
    "thumbnail": "http://img.youtube.com/vi/pbIXGp_hGq4/0.jpg",
    "title": "Are Your Builds Running Separately from Your Production Cluster? (Q1)",
@@ -4217,7 +4325,7 @@
    ],
    "tags": [
       "lightning",
-      "live"
+      "online"
    ],
    "thumbnail": "http://img.youtube.com/vi/3iY9WDXPIVo/0.jpg",
    "title": "Are Your Secrets Encrypted at Rest and in Transit? (Q5)",
@@ -4306,7 +4414,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2577,
+   "number": 2428,
    "speakers": [
       "Christoph Windheuser"
    ],
@@ -4446,6 +4554,25 @@
    "thumbnail": "http://img.youtube.com/vi/TDb0RUcuh2U/0.jpg",
    "title": "Async... oh, wait",
    "video": "https://youtube.com/watch?v=TDb0RUcuh2U"
+},{
+   "duration": 2145,
+   "edition": "2019",
+   "identifier": "RustFest-2019-8",
+   "language": "English",
+   "level": 0,
+   "meeting": "RustFest",
+   "number": 2855,
+   "speakers": [
+      "Florian Gilcher"
+   ],
+   "tags": [
+      "Rust",
+      "live",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/L7X0vpAU-sU/0.jpg",
+   "title": "async/await with async-std",
+   "video": "https://youtube.com/watch?v=L7X0vpAU-sU"
 },{
    "duration": 3411,
    "edition": "2019",
@@ -4697,7 +4824,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2327,
+   "number": 2494,
    "speakers": [
       "Randy Shoup"
    ],
@@ -4715,7 +4842,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2529,
+   "number": 2380,
    "speakers": [
       "Eric Johnson"
    ],
@@ -4907,7 +5034,7 @@
       "Bernd Rucker"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/IBfuKA9Nc3M/0.jpg",
@@ -5514,7 +5641,7 @@
       "Bernd Rucker"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/zt9DFMkjkEA/0.jpg",
@@ -5527,7 +5654,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2339,
+   "number": 2506,
    "speakers": [
       "Dean Wampler"
    ],
@@ -5563,7 +5690,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2443,
+   "number": 2610,
    "speakers": [
       "Adam Butler"
    ],
@@ -5581,7 +5708,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2608,
+   "number": 2459,
    "speakers": [
       "Nicolas Frankel"
    ],
@@ -5693,7 +5820,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2605,
+   "number": 2456,
    "speakers": [
       "Johannes Stern"
    ],
@@ -5856,6 +5983,25 @@
    "thumbnail": "http://img.youtube.com/vi/L2RyGkKTcuk/0.jpg",
    "title": "Benchmarking in C++",
    "video": "https://youtube.com/watch?v=L2RyGkKTcuk"
+},{
+   "duration": 1768,
+   "edition": "2020",
+   "identifier": "RustConf-2020-5",
+   "language": "English",
+   "level": 0,
+   "meeting": "RustConf",
+   "number": 2842,
+   "speakers": [
+      "Esteban Kuber"
+   ],
+   "tags": [
+      "Rust",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/Z6X7Ada0ugE/0.jpg",
+   "title": "Bending the Curve: A Personal Tutor at Your Fingertips",
+   "video": "https://youtube.com/watch?v=Z6X7Ada0ugE"
 },{
    "duration": 3130,
    "edition": "2018",
@@ -6183,7 +6329,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2407,
+   "number": 2574,
    "speakers": [
       "Cedric Hurst"
    ],
@@ -6314,7 +6460,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2415,
+   "number": 2582,
    "speakers": [
       "Gwen Shapira"
    ],
@@ -6540,7 +6686,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2497,
+   "number": 2348,
    "speakers": [
       "Jeroen van Megchelen"
    ],
@@ -6614,7 +6760,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2556,
+   "number": 2407,
    "speakers": [
       "Nikolas Burk"
    ],
@@ -7144,7 +7290,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2442,
+   "number": 2609,
    "speakers": [
       "Dariusz Kuc"
    ],
@@ -7218,7 +7364,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2623,
+   "number": 2474,
    "speakers": [
       "Evelina Gabasova"
    ],
@@ -7255,7 +7401,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2630,
+   "number": 2481,
    "speakers": [
       "Boaz Ziniman"
    ],
@@ -7273,7 +7419,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2487,
+   "number": 2338,
    "speakers": [
       "Kolton Andrus"
    ],
@@ -7311,7 +7457,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2613,
+   "number": 2464,
    "speakers": [
       "James Beswick"
    ],
@@ -7436,6 +7582,25 @@
    "title": "Bringing Magic To Microservice Architecture Development",
    "video": "https://youtube.com/watch?v=accEvqeUJWs"
 },{
+   "duration": 1869,
+   "edition": "2019",
+   "identifier": "RustConf-2019-7",
+   "language": "English",
+   "level": 0,
+   "meeting": "RustConf",
+   "number": 2828,
+   "speakers": [
+      "Jeremy Fitzhardinge"
+   ],
+   "tags": [
+      "Rust",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/kylqq8pEgRs/0.jpg",
+   "title": "Bringing Rust Home to Meet the Parents",
+   "video": "https://youtube.com/watch?v=kylqq8pEgRs"
+},{
    "duration": 2351,
    "edition": "2019",
    "identifier": "Meeting C++-2019-21",
@@ -7461,7 +7626,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2572,
+   "number": 2423,
    "speakers": [
       "Willem Meints"
    ],
@@ -7479,7 +7644,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2576,
+   "number": 2427,
    "speakers": [
       "Gary Crawford"
    ],
@@ -7502,7 +7667,7 @@
       "Gary Crawford"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/oRjY5_VACts/0.jpg",
@@ -7565,13 +7730,32 @@
    "title": "Build for everyday programmers and why should they care",
    "video": "https://youtube.com/watch?v=Car3fQXm6Rs"
 },{
+   "duration": 1967,
+   "edition": "2020",
+   "identifier": "RustFest-2020-10",
+   "language": "English",
+   "level": 0,
+   "meeting": "RustFest",
+   "number": 2867,
+   "speakers": [
+      "Aissata Maiga"
+   ],
+   "tags": [
+      "Rust",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/K2n3uS5BAR8/0.jpg",
+   "title": "Build your own (Rust-y) robot!",
+   "video": "https://youtube.com/watch?v=K2n3uS5BAR8"
+},{
    "duration": 2925,
    "edition": "2018",
    "identifier": "GOTO Amsterdam-2018-21",
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2483,
+   "number": 2334,
    "speakers": [
       "Markus Volter"
    ],
@@ -7704,7 +7888,7 @@
       "Robin Moffatt"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/45geuWUJEQg/0.jpg",
@@ -7717,7 +7901,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2460,
+   "number": 2627,
    "speakers": [
       "Ayesha Mazumdar"
    ],
@@ -7848,7 +8032,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2329,
+   "number": 2496,
    "speakers": [
       "Erik St. Martin"
    ],
@@ -7885,7 +8069,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2526,
+   "number": 2377,
    "speakers": [
       "Kief Morris"
    ],
@@ -7976,7 +8160,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2591,
+   "number": 2442,
    "speakers": [
       "Johan Stokking"
    ],
@@ -8049,7 +8233,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2498,
+   "number": 2349,
    "speakers": [
       "Albert Gorski"
    ],
@@ -8067,7 +8251,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2595,
+   "number": 2446,
    "speakers": [
       "Monica Lent"
    ],
@@ -8102,7 +8286,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2610,
+   "number": 2461,
    "speakers": [
       "Philippe De Ryck"
    ],
@@ -8158,7 +8342,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2317,
+   "number": 2484,
    "speakers": [
       "Matt Godbolt"
    ],
@@ -11079,7 +11263,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2344,
+   "number": 2511,
    "speakers": [
       "Dominica DeGrandis"
    ],
@@ -11229,7 +11413,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2533,
+   "number": 2384,
    "speakers": [
       "Heather Gray"
    ],
@@ -11291,7 +11475,7 @@
    ],
    "tags": [
       "lightning",
-      "live"
+      "online"
    ],
    "thumbnail": "http://img.youtube.com/vi/aZHS3Mnk6s4/0.jpg",
    "title": "Can You Prevent Container Drift? (Q6)",
@@ -11341,7 +11525,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2566,
+   "number": 2417,
    "speakers": [
       "Jan Janke"
    ],
@@ -11467,7 +11651,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2385,
+   "number": 2552,
    "speakers": [
       "Nicole Bryan"
    ],
@@ -11573,6 +11757,25 @@
    "thumbnail": "http://img.youtube.com/vi/E6i8jmiy8MY/0.jpg",
    "title": "clang-useful: Building useful tools with LLVM and clang for fun and profit",
    "video": "https://youtube.com/watch?v=E6i8jmiy8MY"
+},{
+   "duration": 1648,
+   "edition": "2019",
+   "identifier": "RustConf-2019-16",
+   "language": "English",
+   "level": 0,
+   "meeting": "RustConf",
+   "number": 2837,
+   "speakers": [
+      "Isobel Redelmeier"
+   ],
+   "tags": [
+      "Rust",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/8rlai-F-_1o/0.jpg",
+   "title": "Class Fixes; Or, You Become the Rust Compiler",
+   "video": "https://youtube.com/watch?v=8rlai-F-_1o"
 },{
    "duration": 3827,
    "edition": "2018",
@@ -11804,7 +12007,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2355,
+   "number": 2522,
    "speakers": [
       "Cameron Stewart"
    ],
@@ -11847,7 +12050,7 @@
       "Kasun Indrasiri"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/_RiZkNR__60/0.jpg",
@@ -11865,7 +12068,7 @@
       "Daniel Bryant"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/D_HG4UtCAmw/0.jpg",
@@ -11896,7 +12099,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2337,
+   "number": 2504,
    "speakers": [
       "Kenny Bastani"
    ],
@@ -11914,7 +12117,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2330,
+   "number": 2497,
    "speakers": [
       "Martin Thompson"
    ],
@@ -12008,7 +12211,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2379,
+   "number": 2546,
    "speakers": [
       "Stephen Magill"
    ],
@@ -12199,7 +12402,7 @@
       "Yury Nino"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/WU0hu6KSFGU/0.jpg",
@@ -12306,7 +12509,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2514,
+   "number": 2365,
    "speakers": [
       "Philippe De Ryck"
    ],
@@ -12329,7 +12532,7 @@
       "Aino Vonge Corry"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/j3Diza_x9gI/0.jpg",
@@ -12778,7 +12981,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2320,
+   "number": 2487,
    "speakers": [
       "Joe Armstrong"
    ],
@@ -12796,7 +12999,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2579,
+   "number": 2430,
    "speakers": [
       "Katharine Jarmul"
    ],
@@ -13221,13 +13424,72 @@
    "title": "Concurrent Code - Test It! - How?",
    "video": "https://youtube.com/watch?v=7_x3LJlnmCs"
 },{
+   "duration": 2343,
+   "edition": "2020",
+   "identifier": "RustConf-2020-10",
+   "language": "English",
+   "level": 0,
+   "meeting": "RustConf",
+   "number": 2847,
+   "speakers": [
+      "Sian Griffin"
+   ],
+   "tags": [
+      "Rust",
+      "keynote",
+      "online"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/RNsEsZbXE-4/0.jpg",
+   "title": "Conference Closing",
+   "video": "https://youtube.com/watch?v=RNsEsZbXE-4"
+},{
+   "duration": 2633,
+   "edition": "2019",
+   "identifier": "RustConf-2019-1",
+   "language": "English",
+   "level": 0,
+   "meeting": "RustConf",
+   "number": 2822,
+   "speakers": [
+      "Florian Gilcher",
+      "Steve Klabnik"
+   ],
+   "tags": [
+      "Rust",
+      "keynote",
+      "online"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/FSrQX4uYuOM/0.jpg",
+   "title": "Conference Opening",
+   "video": "https://youtube.com/watch?v=FSrQX4uYuOM"
+},{
+   "duration": 3107,
+   "edition": "2020",
+   "identifier": "RustConf-2020-1",
+   "language": "English",
+   "level": 0,
+   "meeting": "RustConf",
+   "number": 2838,
+   "speakers": [
+      "Florian Gilcher",
+      "Steve Klabnik"
+   ],
+   "tags": [
+      "Rust",
+      "keynote",
+      "online"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/IwPRu5FhfIQ/0.jpg",
+   "title": "Conference Opening",
+   "video": "https://youtube.com/watch?v=IwPRu5FhfIQ"
+},{
    "duration": 3276,
    "edition": "2018",
    "identifier": "GOTO Amsterdam-2018-4",
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2466,
+   "number": 2317,
    "speakers": [
       "Sam Newman"
    ],
@@ -13293,6 +13555,25 @@
    "thumbnail": "http://img.youtube.com/vi/_4Xa4EPzrq8/0.jpg",
    "title": "Considerations for choosing the parallel computing strategy",
    "video": "https://youtube.com/watch?v=_4Xa4EPzrq8"
+},{
+   "duration": 1644,
+   "edition": "2020",
+   "identifier": "RustFest-2020-23",
+   "language": "English",
+   "level": 0,
+   "meeting": "RustFest",
+   "number": 2877,
+   "speakers": [
+      "Max Orok"
+   ],
+   "tags": [
+      "Rust",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/PEoPrMkg8W4/0.jpg",
+   "title": "Considering Rust for scientific software",
+   "video": "https://youtube.com/watch?v=PEoPrMkg8W4"
 },{
    "duration": 3054,
    "edition": "2019",
@@ -13528,7 +13809,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2464,
+   "number": 2315,
    "speakers": [
       "Liz Rice"
    ],
@@ -13750,6 +14031,25 @@
    "title": "Controlling Overload Resolution with SFINAE",
    "video": "https://youtube.com/watch?v=-XY0FaZmH8c"
 },{
+   "duration": 1249,
+   "edition": "2020",
+   "identifier": "RustConf-2020-7",
+   "language": "English",
+   "level": 0,
+   "meeting": "RustConf",
+   "number": 2844,
+   "speakers": [
+      "Ashley Hauck"
+   ],
+   "tags": [
+      "Rust",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/xlVnp7VOxRE/0.jpg",
+   "title": "Controlling Telescope Hardware with Rust",
+   "video": "https://youtube.com/watch?v=xlVnp7VOxRE"
+},{
    "duration": 481,
    "edition": "2014",
    "identifier": "CppCon-2014-21",
@@ -13775,7 +14075,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2538,
+   "number": 2389,
    "speakers": [
       "Priyanka Vergadia"
    ],
@@ -14059,7 +14359,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2462,
+   "number": 2629,
    "speakers": [
       "Rajiv Shah"
    ],
@@ -14077,7 +14377,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2586,
+   "number": 2437,
    "speakers": [
       "Dina Sierralta"
    ],
@@ -14206,10 +14506,10 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2522,
+   "number": 2373,
    "speakers": [
-      "B. Wilcock",
-      "S. v. Beelen"
+      "Ben Wilcock",
+      "Steven van Beelen"
    ],
    "tags": [
       "live",
@@ -14249,7 +14549,7 @@
       "Armin Pasalic"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/UPXti9PICbw/0.jpg",
@@ -14672,7 +14972,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2404,
+   "number": 2571,
    "speakers": [
       "Matt Stratton",
       "PJ Hagerty"
@@ -14710,7 +15010,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2457,
+   "number": 2624,
    "speakers": [
       "Rebecca Nugent"
    ],
@@ -14764,7 +15064,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2390,
+   "number": 2557,
    "speakers": [
       "Andy Cirillo"
    ],
@@ -15310,7 +15610,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2488,
+   "number": 2339,
    "speakers": [
       "Julien Simon"
    ],
@@ -15328,7 +15628,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2490,
+   "number": 2341,
    "speakers": [
       "Allen Day"
    ],
@@ -15459,7 +15759,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2381,
+   "number": 2548,
    "speakers": [
       "Dave Karow"
    ],
@@ -15477,7 +15777,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2340,
+   "number": 2507,
    "speakers": [
       "Francesc Campoy"
    ],
@@ -15513,7 +15813,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2478,
+   "number": 2329,
    "speakers": [
       "Brendan Burns"
    ],
@@ -15607,7 +15907,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2325,
+   "number": 2492,
    "speakers": [
       "Casey Rosenthal"
    ],
@@ -15630,7 +15930,7 @@
       "Casey Rosenthal"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/GeNunR7KB-Y/0.jpg",
@@ -15643,7 +15943,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2366,
+   "number": 2533,
    "speakers": [
       "Casey Rosenthal"
    ],
@@ -15661,7 +15961,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2362,
+   "number": 2529,
    "speakers": [
       "Jer\u00f4me Petazzoni"
    ],
@@ -15716,7 +16016,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2453,
+   "number": 2620,
    "speakers": [
       "Davis Sawyer"
    ],
@@ -15997,7 +16297,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2606,
+   "number": 2457,
    "speakers": [
       "Matt Fewer",
       "Michele Angioni"
@@ -16073,7 +16373,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2349,
+   "number": 2516,
    "speakers": [
       "Jordan Hendricks"
    ],
@@ -16222,7 +16522,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2328,
+   "number": 2495,
    "speakers": [
       "Adrian Cockcroft"
    ],
@@ -16388,7 +16688,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2491,
+   "number": 2342,
    "speakers": [
       "Olivier Rikken"
    ],
@@ -16476,10 +16776,10 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2400,
+   "number": 2567,
    "speakers": [
-      "J. Alvarez",
-      "J. Szubryt"
+      "Jim Szubryt",
+      "Juan Alvarez"
    ],
    "tags": [
       "live",
@@ -16495,7 +16795,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2616,
+   "number": 2467,
    "speakers": [
       "France Wang",
       "Yu Ling Cheng"
@@ -16556,7 +16856,7 @@
       "Stefan Judis"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/0Vtoblyq8fE/0.jpg",
@@ -16588,7 +16888,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2354,
+   "number": 2521,
    "speakers": [
       "Michael Irwin"
    ],
@@ -16625,7 +16925,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2370,
+   "number": 2537,
    "speakers": [
       "Mike Amundsen"
    ],
@@ -16643,7 +16943,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2374,
+   "number": 2541,
    "speakers": [
       "Stephen Magill"
    ],
@@ -16679,7 +16979,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2323,
+   "number": 2490,
    "speakers": [
       "Alena Hall"
    ],
@@ -17094,7 +17394,7 @@
       "Matt Brunt"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/kcSWsvvJ0fQ/0.jpg",
@@ -17126,7 +17426,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2334,
+   "number": 2501,
    "speakers": [
       "Adrian Cockcroft"
    ],
@@ -17163,7 +17463,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2382,
+   "number": 2549,
    "speakers": [
       "Heidi Helfand"
    ],
@@ -17694,7 +17994,7 @@
       "Seth Vargo"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/I97Sb2KYZSY/0.jpg",
@@ -17743,7 +18043,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2621,
+   "number": 2472,
    "speakers": [
       "Devon Estes"
    ],
@@ -17754,6 +18054,23 @@
    "thumbnail": "http://img.youtube.com/vi/rZuUGHCeBf8/0.jpg",
    "title": "Embedded Application Development (for Web Developers)",
    "video": "https://youtube.com/watch?v=rZuUGHCeBf8"
+},{
+   "duration": 2635,
+   "edition": "2020",
+   "identifier": "Oxidize Global-2020-3",
+   "language": "English",
+   "level": 0,
+   "meeting": "Oxidize Global",
+   "number": 2884,
+   "speakers": [],
+   "tags": [
+      "Rust",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/yyyVIxptScY/0.jpg",
+   "title": "Embedded cryptography: RustCrypto + Veriform",
+   "video": "https://youtube.com/watch?v=yyyVIxptScY"
 },{
    "duration": 5337,
    "edition": "2019",
@@ -17949,7 +18266,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2399,
+   "number": 2566,
    "speakers": [
       "Sean McQuillan"
    ],
@@ -18080,7 +18397,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2486,
+   "number": 2337,
    "speakers": [
       "Gitte Klitgaard"
    ],
@@ -18098,7 +18415,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2589,
+   "number": 2440,
    "speakers": [
       "Jaideep Bansal"
    ],
@@ -18335,6 +18652,25 @@
    "title": "Error Handling is Cancelling Operations",
    "video": "https://youtube.com/watch?v=zte8IxkHqc4"
 },{
+   "duration": 1727,
+   "edition": "2020",
+   "identifier": "RustConf-2020-2",
+   "language": "English",
+   "level": 0,
+   "meeting": "RustConf",
+   "number": 2839,
+   "speakers": [
+      "Jane Lusby"
+   ],
+   "tags": [
+      "Rust",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/rAF8mLI0naQ/0.jpg",
+   "title": "Error handling Isn't All About Errors",
+   "video": "https://youtube.com/watch?v=rAF8mLI0naQ"
+},{
    "duration": 1804,
    "edition": "2017",
    "identifier": "CppCon-2017-29",
@@ -18360,7 +18696,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2489,
+   "number": 2340,
    "speakers": [
       "Jana Petkanic"
    ],
@@ -18378,7 +18714,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2534,
+   "number": 2385,
    "speakers": [
       "Allard Buijze"
    ],
@@ -18396,7 +18732,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2550,
+   "number": 2401,
    "speakers": [
       "Eberhard Wolff"
    ],
@@ -18414,7 +18750,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2549,
+   "number": 2400,
    "speakers": [
       "Allard Buijze"
    ],
@@ -18432,7 +18768,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2510,
+   "number": 2361,
    "speakers": [
       "Allard Buijze"
    ],
@@ -18462,6 +18798,25 @@
    "thumbnail": "http://img.youtube.com/vi/oTMSgI1XjF8/0.jpg",
    "title": "Everyday Efficiency: In-Place Construction (Back to Basics?)",
    "video": "https://youtube.com/watch?v=oTMSgI1XjF8"
+},{
+   "duration": 3373,
+   "edition": "2020",
+   "identifier": "RustFest-2020-6",
+   "language": "English",
+   "level": 0,
+   "meeting": "RustFest",
+   "number": 2864,
+   "speakers": [
+      "Zac Burns"
+   ],
+   "tags": [
+      "Rust",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/vHmsugjljn8/0.jpg",
+   "title": "Everything is serialization",
+   "video": "https://youtube.com/watch?v=vHmsugjljn8"
 },{
    "duration": 3747,
    "edition": "2017",
@@ -18849,7 +19204,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2587,
+   "number": 2438,
    "speakers": [
       "Jessica Ellis",
       "Lynn Langit"
@@ -18887,7 +19242,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2625,
+   "number": 2476,
    "speakers": [
       "Anders Toxboe"
    ],
@@ -18963,7 +19318,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2601,
+   "number": 2452,
    "speakers": [
       "Nicki Watt"
    ],
@@ -19012,6 +19367,23 @@
    "thumbnail": "http://img.youtube.com/vi/4bcfGjimzec/0.jpg",
    "title": "Exploring C++17 and Beyond",
    "video": "https://youtube.com/watch?v=4bcfGjimzec"
+},{
+   "duration": 2400,
+   "edition": "2020",
+   "identifier": "Oxidize Global-2020-2",
+   "language": "English",
+   "level": 0,
+   "meeting": "Oxidize Global",
+   "number": 2883,
+   "speakers": [],
+   "tags": [
+      "Rust",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/G5A7rSPYpb8/0.jpg",
+   "title": "Exploring Embedded Rust for Functional Safety",
+   "video": "https://youtube.com/watch?v=G5A7rSPYpb8"
 },{
    "duration": 3965,
    "edition": "2015",
@@ -19288,7 +19660,7 @@
       "Eugene Petrenko"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/XwzStZaDpH0/0.jpg",
@@ -19358,7 +19730,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2615,
+   "number": 2466,
    "speakers": [
       "Nicolas Goutay"
    ],
@@ -19563,7 +19935,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2403,
+   "number": 2570,
    "speakers": [
       "Matt Stratton"
    ],
@@ -19677,7 +20049,7 @@
    "number": 2810,
    "speakers": [],
    "tags": [
-      "live",
+      "online",
       "panel"
    ],
    "thumbnail": "http://img.youtube.com/vi/nbufy9BZIZ8/0.jpg",
@@ -19746,7 +20118,7 @@
       "Simon Brown"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/9Az0q2XHtH8/0.jpg",
@@ -19771,6 +20143,25 @@
    "thumbnail": "http://img.youtube.com/vi/cdaN51rRzSE/0.jpg",
    "title": "fixed_point",
    "video": "https://youtube.com/watch?v=cdaN51rRzSE"
+},{
+   "duration": 1812,
+   "edition": "2019",
+   "identifier": "RustConf-2019-8",
+   "language": "English",
+   "level": 0,
+   "meeting": "RustConf",
+   "number": 2829,
+   "speakers": [
+      "Nick Fitzgerald"
+   ],
+   "tags": [
+      "Rust",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/Ho3xr4b60Zg/0.jpg",
+   "title": "Flatulence, Crystals, and Happy Little Accidents",
+   "video": "https://youtube.com/watch?v=Ho3xr4b60Zg"
 },{
    "duration": 5547,
    "edition": "2016",
@@ -20080,7 +20471,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2585,
+   "number": 2436,
    "speakers": [
       "Olaf Zschiedrich"
    ],
@@ -20111,6 +20502,25 @@
    "title": "From Algorithm to Generic, Parallel Code",
    "video": "https://youtube.com/watch?v=RrG_A7Ybzo4"
 },{
+   "duration": 2198,
+   "edition": "2019",
+   "identifier": "RustConf-2019-13",
+   "language": "English",
+   "level": 0,
+   "meeting": "RustConf",
+   "number": 2834,
+   "speakers": [
+      "Irina Shestak"
+   ],
+   "tags": [
+      "Rust",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/lLzFJenzBng/0.jpg",
+   "title": "From Electron, to Wasm, to Rust (Aaand Back to Electron)",
+   "video": "https://youtube.com/watch?v=lLzFJenzBng"
+},{
    "duration": 2480,
    "edition": "2021",
    "identifier": "Live Embedded Event-2021-19",
@@ -20139,7 +20549,7 @@
       "Robert Crowe"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/nuVyZupbq00/0.jpg",
@@ -20152,7 +20562,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2545,
+   "number": 2396,
    "speakers": [
       "Anita Sengupta"
    ],
@@ -20321,7 +20731,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2515,
+   "number": 2366,
    "speakers": [
       "Nicolas Frankel"
    ],
@@ -20358,7 +20768,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2569,
+   "number": 2420,
    "speakers": [
       "Philippe De Ryck"
    ],
@@ -20376,7 +20786,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2536,
+   "number": 2387,
    "speakers": [
       "Roy van Rijn"
    ],
@@ -20407,31 +20817,13 @@
    "title": "Frozen data structures in C++14",
    "video": "https://youtube.com/watch?v=vA5sdxbwUG8"
 },{
-   "duration": 2155,
-   "edition": "2019",
-   "identifier": "GOTO Chicago-2019-58",
-   "language": "English",
-   "level": 0,
-   "meeting": "GOTO Chicago",
-   "number": 2413,
-   "speakers": [
-      "Betty Enyonam Kumahor"
-   ],
-   "tags": [
-      "live",
-      "talk"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/9m1kKF-s0Og/0.jpg",
-   "title": "Frugal Innovation",
-   "video": "https://youtube.com/watch?v=9m1kKF-s0Og"
-},{
    "duration": 2326,
    "edition": "2018",
    "identifier": "GOTO Berlin-2018-47",
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2590,
+   "number": 2441,
    "speakers": [
       "Betty Enyonam Kumahor"
    ],
@@ -20443,13 +20835,31 @@
    "title": "Frugal Innovation",
    "video": "https://youtube.com/watch?v=eRGb2w2azIk"
 },{
+   "duration": 2155,
+   "edition": "2019",
+   "identifier": "GOTO Chicago-2019-58",
+   "language": "English",
+   "level": 0,
+   "meeting": "GOTO Chicago",
+   "number": 2580,
+   "speakers": [
+      "Betty Enyonam Kumahor"
+   ],
+   "tags": [
+      "live",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/9m1kKF-s0Og/0.jpg",
+   "title": "Frugal Innovation",
+   "video": "https://youtube.com/watch?v=9m1kKF-s0Og"
+},{
    "duration": 2761,
    "edition": "2019",
    "identifier": "GOTO Chicago-2019-57",
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2412,
+   "number": 2579,
    "speakers": [
       "Murray Thom"
    ],
@@ -20461,13 +20871,32 @@
    "title": "Fueling the Quantum Application Era with the Cloud",
    "video": "https://youtube.com/watch?v=nn5xTQVoxbY"
 },{
+   "duration": 1173,
+   "edition": "2020",
+   "identifier": "RustFest-2020-3",
+   "language": "English",
+   "level": 0,
+   "meeting": "RustFest",
+   "number": 2861,
+   "speakers": [
+      "tkat0"
+   ],
+   "tags": [
+      "Rust",
+      "lightning",
+      "online"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/jUvLk_U6ymk/0.jpg",
+   "title": "Full use of Rust on edge and cloud: AI and IoT use cases",
+   "video": "https://youtube.com/watch?v=jUvLk_U6ymk"
+},{
    "duration": 2898,
    "edition": "2018",
    "identifier": "GOTO Amsterdam-2018-12",
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2474,
+   "number": 2325,
    "speakers": [
       "Mark Heckler"
    ],
@@ -20787,7 +21216,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2546,
+   "number": 2397,
    "speakers": [
       "Russ Olsen"
    ],
@@ -20900,7 +21329,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2467,
+   "number": 2318,
    "speakers": [
       "Hadi Hariri"
    ],
@@ -21149,7 +21578,7 @@
       "Mark Rendle"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/Mm1WExYXhl8/0.jpg",
@@ -21257,7 +21686,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2581,
+   "number": 2432,
    "speakers": [
       "Ho Ming Li"
    ],
@@ -21673,7 +22102,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2316,
+   "number": 2483,
    "speakers": [
       "Sam Aaron"
    ],
@@ -21748,7 +22177,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2383,
+   "number": 2550,
    "speakers": [
       "Guen Prawiroatmodjo"
    ],
@@ -21766,7 +22195,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2524,
+   "number": 2375,
    "speakers": [
       "Liz Rice"
    ],
@@ -21802,7 +22231,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2445,
+   "number": 2612,
    "speakers": [
       "Safia Abdalla"
    ],
@@ -21985,7 +22414,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2600,
+   "number": 2451,
    "speakers": [
       "Bret Fisher"
    ],
@@ -22021,7 +22450,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2394,
+   "number": 2561,
    "speakers": [
       "Divya Sasidharan"
    ],
@@ -22044,7 +22473,7 @@
       "Debbie O'Brien"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/1j9DIX32GpY/0.jpg",
@@ -22094,7 +22523,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2592,
+   "number": 2443,
    "speakers": [
       "Stefan Tilkov"
    ],
@@ -22117,7 +22546,7 @@
       "Stefan Tilkov"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/RtRpL3Ndi0c/0.jpg",
@@ -22135,7 +22564,7 @@
       "Stefan Tilkov"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/nbqh1EK_FU8/0.jpg",
@@ -22199,24 +22628,6 @@
    "title": "Google Sheets for Developers",
    "video": "https://youtube.com/watch?v=77toMO9-kQc"
 },{
-   "duration": 400,
-   "edition": "2019",
-   "identifier": "GOTO Berlin-2019-30",
-   "language": "English",
-   "level": 0,
-   "meeting": "GOTO Berlin",
-   "number": 2620,
-   "speakers": [
-      "Welcome to a New Age of Refereeing in 7 Minutes"
-   ],
-   "tags": [
-      "lightning",
-      "live"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/f4t07QSLRDY/0.jpg",
-   "title": "GOTO 2019",
-   "video": "https://youtube.com/watch?v=f4t07QSLRDY"
-},{
    "duration": 2855,
    "edition": "2018",
    "identifier": "GOTO Copenhagen-2018-9",
@@ -22277,7 +22688,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2562,
+   "number": 2413,
    "speakers": [
       "Oleg Selajev"
    ],
@@ -22318,7 +22729,7 @@
       "Uri Goldshtein"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/DWBL7GLMVsY/0.jpg",
@@ -22336,7 +22747,7 @@
       "Uri Goldshtein"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/2vwlkJnaV0Y/0.jpg",
@@ -22349,7 +22760,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2418,
+   "number": 2585,
    "speakers": [
       "Mike Amundsen"
    ],
@@ -22372,7 +22783,7 @@
       "Mike Amundsen"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/oG6-r3UdenE/0.jpg",
@@ -22935,7 +23346,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2333,
+   "number": 2500,
    "speakers": [
       "Noel Rappin"
    ],
@@ -23050,7 +23461,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2438,
+   "number": 2605,
    "speakers": [
       "Rahul Lahiri",
       "Venky Ganti"
@@ -23239,7 +23650,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2619,
+   "number": 2470,
    "speakers": [
       "Leif Nixon"
    ],
@@ -23350,7 +23761,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2411,
+   "number": 2578,
    "speakers": [
       "Evan Sutter"
    ],
@@ -23457,6 +23868,23 @@
    "title": "How C++20 Changes the Way We Write Code",
    "video": "https://youtube.com/watch?v=ImLFlLjSveM"
 },{
+   "duration": 1913,
+   "edition": "2020",
+   "identifier": "Oxidize Global-2020-7",
+   "language": "English",
+   "level": 0,
+   "meeting": "Oxidize Global",
+   "number": 2888,
+   "speakers": [],
+   "tags": [
+      "Rust",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/z9z74VpqO9A/0.jpg",
+   "title": "How can we write the best device driver?",
+   "video": "https://youtube.com/watch?v=z9z74VpqO9A"
+},{
    "duration": 5488,
    "edition": "2018",
    "identifier": "C++Now-2018-30",
@@ -23531,6 +23959,23 @@
    "title": "How Embedded Developers work from home using labgrid",
    "video": "https://youtube.com/watch?v=RLFiJI-iSNE"
 },{
+   "duration": 1338,
+   "edition": "2020",
+   "identifier": "Oxidize Global-2020-5",
+   "language": "English",
+   "level": 0,
+   "meeting": "Oxidize Global",
+   "number": 2886,
+   "speakers": [],
+   "tags": [
+      "Rust",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/V4u-h2N4-Bs/0.jpg",
+   "title": "How Embedded Rust can be the next Arduino in 5 easy steps",
+   "video": "https://youtube.com/watch?v=V4u-h2N4-Bs"
+},{
    "duration": 2309,
    "edition": "2021",
    "identifier": "Live Embedded Event-2021-18",
@@ -23554,7 +23999,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2626,
+   "number": 2477,
    "speakers": [
       "Jessica Greene"
    ],
@@ -23577,7 +24022,7 @@
       "Christof Leng"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/DOQqOrHs3VY/0.jpg",
@@ -23688,7 +24133,7 @@
       "Sander Hoogendoorn"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/fCMuzSAyAGw/0.jpg",
@@ -23738,7 +24183,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2588,
+   "number": 2439,
    "speakers": [
       "Francesco Mondora"
    ],
@@ -23756,7 +24201,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2513,
+   "number": 2364,
    "speakers": [
       "Sander Hoogendoorn"
    ],
@@ -23829,7 +24274,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2593,
+   "number": 2444,
    "speakers": [
       "Eberhard Wolff"
    ],
@@ -23847,7 +24292,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2573,
+   "number": 2424,
    "speakers": [
       "Erik Doernenburg",
       "Stefan Tilkov",
@@ -23867,7 +24312,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2622,
+   "number": 2473,
    "speakers": [
       "Bert Jan Schrijver"
    ],
@@ -24014,7 +24459,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2435,
+   "number": 2602,
    "speakers": [
       "Aaron Parecki"
    ],
@@ -24070,7 +24515,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2456,
+   "number": 2623,
    "speakers": [
       "Angela Dugan",
       "Sara Caldwell"
@@ -24180,7 +24625,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2480,
+   "number": 2331,
    "speakers": [
       "Jamie Dobson"
    ],
@@ -24217,7 +24662,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2499,
+   "number": 2350,
    "speakers": [
       "Cees van Wijk"
    ],
@@ -24235,7 +24680,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2335,
+   "number": 2502,
    "speakers": [
       "Peter Pezaris"
    ],
@@ -24265,6 +24710,25 @@
    "thumbnail": "http://img.youtube.com/vi/Fxe7JoGSyy8/0.jpg",
    "title": "How to Refactor Millions of Line of Code Without Alienating your Colleagues",
    "video": "https://youtube.com/watch?v=Fxe7JoGSyy8"
+},{
+   "duration": 1235,
+   "edition": "2020",
+   "identifier": "RustConf-2020-3",
+   "language": "English",
+   "level": 0,
+   "meeting": "RustConf",
+   "number": 2840,
+   "speakers": [
+      "Harrison Bachrach"
+   ],
+   "tags": [
+      "Rust",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/yv6L_xmjw5I/0.jpg",
+   "title": "How to Start a Solo Project that You'll Stick With",
+   "video": "https://youtube.com/watch?v=yv6L_xmjw5I"
 },{
    "duration": 3521,
    "edition": "2018",
@@ -24574,11 +25038,11 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2535,
+   "number": 2386,
    "speakers": [
-      "C. Hees",
-      "L. Boonstra",
-      "M. Feigal"
+      "Christiaan Hees",
+      "Lee Boonstra",
+      "Matt Feigal"
    ],
    "tags": [
       "live",
@@ -24768,7 +25232,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2429,
+   "number": 2596,
    "speakers": [
       "Bruce Lawson"
    ],
@@ -24804,7 +25268,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2599,
+   "number": 2450,
    "speakers": [
       "Stefan Judis"
    ],
@@ -24845,7 +25309,7 @@
       "Daniel Stenberg"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/pUxyukqoXR4/0.jpg",
@@ -24900,7 +25364,7 @@
       "Jacob Sherson"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/2VWDCErWmds/0.jpg",
@@ -24932,7 +25396,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2446,
+   "number": 2613,
    "speakers": [
       "Austin Parker"
    ],
@@ -25575,7 +26039,7 @@
       "Olga Hall"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/6NIh-GsO1Kg/0.jpg",
@@ -25663,7 +26127,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2531,
+   "number": 2382,
    "speakers": [
       "Daniel Bryant"
    ],
@@ -25686,7 +26150,7 @@
       "Nora Jones"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/CCXR1b0pdaQ/0.jpg",
@@ -25718,7 +26182,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2455,
+   "number": 2622,
    "speakers": [
       "Angel Rivera"
    ],
@@ -25741,7 +26205,7 @@
       "Phil Winder"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/BThQIMlrcd4/0.jpg",
@@ -25867,7 +26331,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2554,
+   "number": 2405,
    "speakers": [
       "Sam Newman"
    ],
@@ -26036,7 +26500,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2617,
+   "number": 2468,
    "speakers": [
       "Martin Thompson"
    ],
@@ -26444,7 +26908,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2361,
+   "number": 2528,
    "speakers": [
       "Hillel Wayne"
    ],
@@ -26775,7 +27239,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2511,
+   "number": 2362,
    "speakers": [
       "Graeme Rocher"
    ],
@@ -26831,7 +27295,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2548,
+   "number": 2399,
    "speakers": [
       "Philippe De Ryck"
    ],
@@ -26904,7 +27368,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2373,
+   "number": 2540,
    "speakers": [
       "Jessica Pointing"
    ],
@@ -26939,7 +27403,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2509,
+   "number": 2360,
    "speakers": [
       "Robert Metzger"
    ],
@@ -26995,7 +27459,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2427,
+   "number": 2594,
    "speakers": [
       "Jessica Kerr"
    ],
@@ -27032,7 +27496,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2482,
+   "number": 2333,
    "speakers": [
       "Boaz Ziniman"
    ],
@@ -27092,7 +27556,7 @@
    ],
    "tags": [
       "lightning",
-      "live"
+      "online"
    ],
    "thumbnail": "http://img.youtube.com/vi/GR5O3BSbkYM/0.jpg",
    "title": "Is All Executable Code Added to a Container Image at Build Time? (Q2)",
@@ -27235,6 +27699,26 @@
    "title": "Is this available?",
    "video": "https://youtube.com/watch?v=wZfW5WLWtDw"
 },{
+   "duration": 1135,
+   "edition": "2019",
+   "identifier": "RustConf-2019-4",
+   "language": "English",
+   "level": 0,
+   "meeting": "RustConf",
+   "number": 2825,
+   "speakers": [
+      "J Haigh",
+      "QuietMisdreavus"
+   ],
+   "tags": [
+      "Rust",
+      "lightning",
+      "online"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/KJ-V2BOtZnM/0.jpg",
+   "title": "Is This Magic!? Ferris Explores Rustc!",
+   "video": "https://youtube.com/watch?v=KJ-V2BOtZnM"
+},{
    "duration": 3645,
    "edition": "2018",
    "identifier": "code::dive-2018-17",
@@ -27259,7 +27743,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2398,
+   "number": 2565,
    "speakers": [
       "Naomi Ceder"
    ],
@@ -27352,7 +27836,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2530,
+   "number": 2381,
    "speakers": [
       "Liz Keogh"
    ],
@@ -27405,7 +27889,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2376,
+   "number": 2543,
    "speakers": [
       "Georges Saab",
       "Mikael Vidstedt"
@@ -27461,7 +27945,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2324,
+   "number": 2491,
    "speakers": [
       "Kyle Kingsbury"
    ],
@@ -27479,7 +27963,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2463,
+   "number": 2630,
    "speakers": [
       "Niket Patel"
    ],
@@ -27493,11 +27977,11 @@
 },{
    "duration": 3011,
    "edition": "2019",
-   "identifier": "GOTO Chicago-2019-25",
+   "identifier": "GOTO Amsterdam-2019-25",
    "language": "English",
    "level": 0,
-   "meeting": "GOTO Chicago",
-   "number": 2380,
+   "meeting": "GOTO Amsterdam",
+   "number": 2379,
    "speakers": [
       "Nicki Watt"
    ],
@@ -27511,11 +27995,11 @@
 },{
    "duration": 3011,
    "edition": "2019",
-   "identifier": "GOTO Amsterdam-2019-25",
+   "identifier": "GOTO Chicago-2019-25",
    "language": "English",
    "level": 0,
-   "meeting": "GOTO Amsterdam",
-   "number": 2528,
+   "meeting": "GOTO Chicago",
+   "number": 2547,
    "speakers": [
       "Nicki Watt"
    ],
@@ -27595,7 +28079,7 @@
       "Robin Moffatt"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/qjTZ4UeJdoI/0.jpg",
@@ -27613,7 +28097,7 @@
       "Robin Moffatt"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/xy6jNKI3tKU/0.jpg",
@@ -27626,7 +28110,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2386,
+   "number": 2553,
    "speakers": [
       "Phil Winder"
    ],
@@ -27682,7 +28166,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2558,
+   "number": 2409,
    "speakers": [
       "Sander Mak"
    ],
@@ -27718,7 +28202,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2448,
+   "number": 2615,
    "speakers": [
       "Garrett Smith"
    ],
@@ -27743,7 +28227,7 @@
       "Mitescu"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/aHFI-9yZBQw/0.jpg",
@@ -27756,7 +28240,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2517,
+   "number": 2368,
    "speakers": [
       "Steve Smith"
    ],
@@ -27793,7 +28277,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2421,
+   "number": 2588,
    "speakers": [
       "Ryan Pierce"
    ],
@@ -27847,7 +28331,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2378,
+   "number": 2545,
    "speakers": [
       "Huyen Tue Dao"
    ],
@@ -27865,7 +28349,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2603,
+   "number": 2454,
    "speakers": [
       "Ellen Korbes"
    ],
@@ -27883,7 +28367,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2397,
+   "number": 2564,
    "speakers": [
       "Bridget Kromhout"
    ],
@@ -27919,7 +28403,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2484,
+   "number": 2335,
    "speakers": [
       "Ian Crosby"
    ],
@@ -28249,7 +28733,7 @@
       "Ranganathan Balashanmugam"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/WQHxLI5xrmM/0.jpg",
@@ -28313,6 +28797,25 @@
    "thumbnail": "http://img.youtube.com/vi/xVtoWTvXQrs/0.jpg",
    "title": "Learn Robotics with C++ in 1 Hour",
    "video": "https://youtube.com/watch?v=xVtoWTvXQrs"
+},{
+   "duration": 1397,
+   "edition": "2020",
+   "identifier": "RustFest-2020-9",
+   "language": "English",
+   "level": 0,
+   "meeting": "RustFest",
+   "number": 2866,
+   "speakers": [
+      "Nikita Baksalyar"
+   ],
+   "tags": [
+      "Rust",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/8-ole_0rqLM/0.jpg",
+   "title": "Learnable Programming with Rust",
+   "video": "https://youtube.com/watch?v=8-ole_0rqLM"
 },{
    "duration": 3666,
    "edition": "2017",
@@ -28409,13 +28912,32 @@
    "title": "Learning and Teaching Modern C++",
    "video": "https://youtube.com/watch?v=fX2W3nNjJIo"
 },{
+   "duration": 1661,
+   "edition": "2020",
+   "identifier": "RustFest-2020-19",
+   "language": "English",
+   "level": 0,
+   "meeting": "RustFest",
+   "number": 2874,
+   "speakers": [
+      "Stefan Baerisch"
+   ],
+   "tags": [
+      "Rust",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/xjBZwJHUwSU/0.jpg",
+   "title": "Learning Rust with Humility and in Three Steps",
+   "video": "https://youtube.com/watch?v=xjBZwJHUwSU"
+},{
    "duration": 2565,
    "edition": "2018",
    "identifier": "GOTO Chicago-2018-35",
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2348,
+   "number": 2515,
    "speakers": [
       "Tomas Petricek"
    ],
@@ -28433,7 +28955,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2350,
+   "number": 2517,
    "speakers": [
       "Russ Miles"
    ],
@@ -28470,7 +28992,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2351,
+   "number": 2518,
    "speakers": [
       "Dave Thomas"
    ],
@@ -28644,7 +29166,7 @@
       "Ender Yuksel"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/sLDm8_gkjng/0.jpg",
@@ -28657,7 +29179,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2494,
+   "number": 2345,
    "speakers": [
       "Stefan Tilkov"
    ],
@@ -28736,7 +29258,7 @@
       "Woody Zuill"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/Jtt7PAejrFA/0.jpg",
@@ -28787,7 +29309,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2441,
+   "number": 2608,
    "speakers": [
       "Eric Johnson"
    ],
@@ -28904,7 +29426,7 @@
       "Vagif Abilov"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/UBUYwpDl3-g/0.jpg",
@@ -28917,7 +29439,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2506,
+   "number": 2357,
    "speakers": [
       "Trisha Gee"
    ],
@@ -28928,6 +29450,25 @@
    "thumbnail": "http://img.youtube.com/vi/eBuFzQeiGe0/0.jpg",
    "title": "Life After Java 8",
    "video": "https://youtube.com/watch?v=eBuFzQeiGe0"
+},{
+   "duration": 2014,
+   "edition": "2019",
+   "identifier": "RustFest-2019-9",
+   "language": "English",
+   "level": 0,
+   "meeting": "RustFest",
+   "number": 2856,
+   "speakers": [
+      "Tyler Mandry"
+   ],
+   "tags": [
+      "Rust",
+      "live",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/ZHP9sUqB3Qs/0.jpg",
+   "title": "Life of an async fn",
+   "video": "https://youtube.com/watch?v=ZHP9sUqB3Qs"
 },{
    "duration": 3558,
    "edition": "2019",
@@ -29167,7 +29708,7 @@
    ],
    "tags": [
       "lightning",
-      "live"
+      "online"
    ],
    "thumbnail": "http://img.youtube.com/vi/zvCXUozuI2A/0.jpg",
    "title": "Live Hacking Session Part 1",
@@ -29184,7 +29725,7 @@
       "Scott Helme"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/8PlCfYflz_A/0.jpg",
@@ -29560,7 +30101,7 @@
       "Kresten Krab Thorup"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/SK_cTsLrAMA/0.jpg",
@@ -29616,7 +30157,7 @@
       "Adrian Hornsby"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/OHWKr4USyGg/0.jpg",
@@ -29629,7 +30170,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2624,
+   "number": 2475,
    "speakers": [
       "Linda Liukas"
    ],
@@ -29779,7 +30320,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2539,
+   "number": 2390,
    "speakers": [
       "Nell Watson"
    ],
@@ -29917,6 +30458,25 @@
    "thumbnail": "http://img.youtube.com/vi/irdgFyxOs_Y/0.jpg",
    "title": "Macro-Free Testing With C++20",
    "video": "https://youtube.com/watch?v=irdgFyxOs_Y"
+},{
+   "duration": 1460,
+   "edition": "2020",
+   "identifier": "RustConf-2020-8",
+   "language": "English",
+   "level": 0,
+   "meeting": "RustConf",
+   "number": 2845,
+   "speakers": [
+      "Jam Garner"
+   ],
+   "tags": [
+      "Rust",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/dZiWkbnaQe8/0.jpg",
+   "title": "Macros for a More Productive Rust",
+   "video": "https://youtube.com/watch?v=dZiWkbnaQe8"
 },{
    "duration": 3642,
    "edition": "2019",
@@ -30138,7 +30698,7 @@
       "Miko Pawlikowski"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/Pj42pryYv9A/0.jpg",
@@ -30188,7 +30748,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2326,
+   "number": 2493,
    "speakers": [
       "Todd Montgomery"
    ],
@@ -30225,7 +30785,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2552,
+   "number": 2403,
    "speakers": [
       "Ray Tsang"
    ],
@@ -30451,7 +31011,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2507,
+   "number": 2358,
    "speakers": [
       "Bert Jan Schrijver"
    ],
@@ -30488,7 +31048,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2434,
+   "number": 2601,
    "speakers": [
       "Oleg Selajev"
    ],
@@ -30561,7 +31121,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2436,
+   "number": 2603,
    "speakers": [
       "Kirk Pepperdine"
    ],
@@ -30584,7 +31144,7 @@
       "Kirk Pepperdine"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/kQEu1VsrG44/0.jpg",
@@ -30628,6 +31188,25 @@
    "thumbnail": "http://img.youtube.com/vi/lLEcbXidK2o/0.jpg",
    "title": "Memory Tagging and how it improves C/C++ memory safety",
    "video": "https://youtube.com/watch?v=lLEcbXidK2o"
+},{
+   "duration": 1439,
+   "edition": "2019",
+   "identifier": "RustConf-2019-10",
+   "language": "English",
+   "level": 0,
+   "meeting": "RustConf",
+   "number": 2831,
+   "speakers": [
+      "Yoshua Wuyts"
+   ],
+   "tags": [
+      "Rust",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/9MkZa70pfC4/0.jpg",
+   "title": "Messing Around with fn main() and Getting Away with it",
+   "video": "https://youtube.com/watch?v=9MkZa70pfC4"
 },{
    "duration": 364,
    "edition": "2016",
@@ -30901,7 +31480,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2481,
+   "number": 2332,
    "speakers": [
       "Graham Brooks"
    ],
@@ -30919,7 +31498,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2485,
+   "number": 2336,
    "speakers": [
       "Frans van Buul"
    ],
@@ -30937,7 +31516,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2451,
+   "number": 2618,
    "speakers": [
       "Derek Ferguson",
       "Matt Jones",
@@ -31033,9 +31612,9 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2519,
+   "number": 2370,
    "speakers": [
-      "Aslak Helles\u00f8y"
+      "Aslak Hellesoy"
    ],
    "tags": [
       "live",
@@ -31051,7 +31630,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2564,
+   "number": 2415,
    "speakers": [
       "Markus Wittwer"
    ],
@@ -31062,6 +31641,25 @@
    "thumbnail": "http://img.youtube.com/vi/5UgpoaM5670/0.jpg",
    "title": "Mind as Code - Mindfulness for Developers and Knowledge Workers",
    "video": "https://youtube.com/watch?v=5UgpoaM5670"
+},{
+   "duration": 2669,
+   "edition": "2020",
+   "identifier": "RustFest-2020-15",
+   "language": "English",
+   "level": 0,
+   "meeting": "RustFest",
+   "number": 2871,
+   "speakers": [
+      "Christian Poveda"
+   ],
+   "tags": [
+      "Rust",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/ltayS6B8kGM/0.jpg",
+   "title": "Miri, Undefined Behavior and Foreign Functions",
+   "video": "https://youtube.com/watch?v=ltayS6B8kGM"
 },{
    "duration": 3420,
    "edition": "2020",
@@ -31141,7 +31739,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2607,
+   "number": 2458,
    "speakers": [
       "Woody Zuill"
    ],
@@ -31550,31 +32148,13 @@
    "title": "Modern CMake for modular design",
    "video": "https://youtube.com/watch?v=ztrnb-bVVPo"
 },{
-   "duration": 1142,
-   "edition": "2020",
-   "identifier": "GOTO Chicago-2020-7",
-   "language": "English",
-   "level": 0,
-   "meeting": "GOTO Chicago",
-   "number": 2420,
-   "speakers": [
-      "Ken Mugrage"
-   ],
-   "tags": [
-      "lightning",
-      "live"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/lBi85lNmKFw/0.jpg",
-   "title": "Modern Continuous Delivery",
-   "video": "https://youtube.com/watch?v=lBi85lNmKFw"
-},{
    "duration": 2214,
    "edition": "2019",
    "identifier": "GOTO Amsterdam-2019-5",
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2508,
+   "number": 2359,
    "speakers": [
       "Ken Mugrage"
    ],
@@ -31592,7 +32172,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2597,
+   "number": 2448,
    "speakers": [
       "Ken Mugrage"
    ],
@@ -31603,6 +32183,24 @@
    "thumbnail": "http://img.youtube.com/vi/wjF4X9t3FMk/0.jpg",
    "title": "Modern Continuous Delivery",
    "video": "https://youtube.com/watch?v=wjF4X9t3FMk"
+},{
+   "duration": 1142,
+   "edition": "2020",
+   "identifier": "GOTO Chicago-2020-7",
+   "language": "English",
+   "level": 0,
+   "meeting": "GOTO Chicago",
+   "number": 2587,
+   "speakers": [
+      "Ken Mugrage"
+   ],
+   "tags": [
+      "lightning",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/lBi85lNmKFw/0.jpg",
+   "title": "Modern Continuous Delivery",
+   "video": "https://youtube.com/watch?v=lBi85lNmKFw"
 },{
    "duration": 3679,
    "edition": "2021",
@@ -31855,7 +32453,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2547,
+   "number": 2398,
    "speakers": [
       "Simon Brown"
    ],
@@ -32042,7 +32640,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2594,
+   "number": 2445,
    "speakers": [
       "Sam Newman"
    ],
@@ -32108,6 +32706,25 @@
    "thumbnail": "http://img.youtube.com/vi/BmjqAhRtvHI/0.jpg",
    "title": "Monotron - a 1980s style home computer written in Rust",
    "video": "https://youtube.com/watch?v=BmjqAhRtvHI"
+},{
+   "duration": 1848,
+   "edition": "2019",
+   "identifier": "RustConf-2019-5",
+   "language": "English",
+   "level": 0,
+   "meeting": "RustConf",
+   "number": 2826,
+   "speakers": [
+      "Jonathan Pallant"
+   ],
+   "tags": [
+      "Rust",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/PXaSUiGgyEw/0.jpg",
+   "title": "Monotron - Building a Retro Computer in Embedded Rust",
+   "video": "https://youtube.com/watch?v=PXaSUiGgyEw"
 },{
    "duration": 5358,
    "edition": "2019",
@@ -32221,31 +32838,13 @@
    "title": "Moving Boost to Git",
    "video": "https://youtube.com/watch?v=rqKGX2LJOmU"
 },{
-   "duration": 1092,
-   "edition": "2020",
-   "identifier": "GOTO Chicago-2020-20",
-   "language": "English",
-   "level": 0,
-   "meeting": "GOTO Chicago",
-   "number": 2433,
-   "speakers": [
-      "Randy Shoup"
-   ],
-   "tags": [
-      "lightning",
-      "live"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/R3rXXY6WZ50/0.jpg",
-   "title": "Moving Fast at Scale",
-   "video": "https://youtube.com/watch?v=R3rXXY6WZ50"
-},{
    "duration": 2306,
    "edition": "2019",
    "identifier": "GOTO Berlin-2019-19",
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2609,
+   "number": 2460,
    "speakers": [
       "Randy Shoup"
    ],
@@ -32256,6 +32855,24 @@
    "thumbnail": "http://img.youtube.com/vi/suOjtOFfyZg/0.jpg",
    "title": "Moving Fast At Scale",
    "video": "https://youtube.com/watch?v=suOjtOFfyZg"
+},{
+   "duration": 1092,
+   "edition": "2020",
+   "identifier": "GOTO Chicago-2020-20",
+   "language": "English",
+   "level": 0,
+   "meeting": "GOTO Chicago",
+   "number": 2600,
+   "speakers": [
+      "Randy Shoup"
+   ],
+   "tags": [
+      "lightning",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/R3rXXY6WZ50/0.jpg",
+   "title": "Moving Fast at Scale",
+   "video": "https://youtube.com/watch?v=R3rXXY6WZ50"
 },{
    "duration": 5336,
    "edition": "2018",
@@ -32597,6 +33214,25 @@
    "thumbnail": "http://img.youtube.com/vi/6eX9gPithBo/0.jpg",
    "title": "my favorite C++ feature  - Meeting C++",
    "video": "https://youtube.com/watch?v=6eX9gPithBo"
+},{
+   "duration": 1354,
+   "edition": "2020",
+   "identifier": "RustConf-2020-6",
+   "language": "English",
+   "level": 0,
+   "meeting": "RustConf",
+   "number": 2843,
+   "speakers": [
+      "Micah Tigley"
+   ],
+   "tags": [
+      "Rust",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/GFi_EdS_s_c/0.jpg",
+   "title": "My First Rust Project: Creating a Roguelike with Amethyst",
+   "video": "https://youtube.com/watch?v=GFi_EdS_s_c"
 },{
    "duration": 307,
    "edition": "2014",
@@ -33020,7 +33656,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2416,
+   "number": 2583,
    "speakers": [
       "Richard Feldman"
    ],
@@ -33130,7 +33766,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2437,
+   "number": 2604,
    "speakers": [
       "Avdi Grimm"
    ],
@@ -33280,7 +33916,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2357,
+   "number": 2524,
    "speakers": [
       "Chris Richardson"
    ],
@@ -33428,7 +34064,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2426,
+   "number": 2593,
    "speakers": [
       "Nate Barbettini"
    ],
@@ -33616,7 +34252,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2414,
+   "number": 2581,
    "speakers": [
       "Jiaqi Liu"
    ],
@@ -33634,7 +34270,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2364,
+   "number": 2531,
    "speakers": [
       "Dave McAllister"
    ],
@@ -33645,6 +34281,25 @@
    "thumbnail": "http://img.youtube.com/vi/2nTJSsBngao/0.jpg",
    "title": "Observability, Distributed Tracing & the Complex World",
    "video": "https://youtube.com/watch?v=2nTJSsBngao"
+},{
+   "duration": 1333,
+   "edition": "2020",
+   "identifier": "RustFest-2020-20",
+   "language": "English",
+   "level": 0,
+   "meeting": "RustFest",
+   "number": 2875,
+   "speakers": [
+      "Micah Johnston"
+   ],
+   "tags": [
+      "Rust",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/9MAC3bojeyo/0.jpg",
+   "title": "Ochre: Highly portable GPU-accelerated vector graphics",
+   "video": "https://youtube.com/watch?v=9MAC3bojeyo"
 },{
    "duration": 5396,
    "edition": "2014",
@@ -33785,7 +34440,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2315,
+   "number": 2482,
    "speakers": [
       "Kevlin Henney"
    ],
@@ -33858,7 +34513,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2360,
+   "number": 2527,
    "speakers": [
       "Danny Lange"
    ],
@@ -34194,7 +34849,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2560,
+   "number": 2411,
    "speakers": [
       "Erwin de Gier"
    ],
@@ -34212,7 +34867,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2493,
+   "number": 2344,
    "speakers": [
       "Ben Darnell"
    ],
@@ -34292,7 +34947,7 @@
       "Eberhard Wolff"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/wwzn4l_gmco/0.jpg",
@@ -34439,7 +35094,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2492,
+   "number": 2343,
    "speakers": [
       "Sebastien Goasguen"
    ],
@@ -34763,7 +35418,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2449,
+   "number": 2616,
    "speakers": [
       "Kate Wardin"
    ],
@@ -34786,7 +35441,7 @@
       "Kate Wardin"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/GqKJ6SEyMBY/0.jpg",
@@ -34888,6 +35543,25 @@
    "thumbnail": "http://img.youtube.com/vi/NAfrw3MxtKE/0.jpg",
    "title": "Phoenix V3 -- An Overview",
    "video": "https://youtube.com/watch?v=NAfrw3MxtKE"
+},{
+   "duration": 1558,
+   "edition": "2020",
+   "identifier": "RustFest-2020-5",
+   "language": "English",
+   "level": 0,
+   "meeting": "RustFest",
+   "number": 2863,
+   "speakers": [
+      "Tarun Pothulapati"
+   ],
+   "tags": [
+      "Rust",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/rYp0bUmcbMs/0.jpg",
+   "title": "Piecing together Rust: It is more than just writing code",
+   "video": "https://youtube.com/watch?v=rYp0bUmcbMs"
 },{
    "duration": 695,
    "edition": "2014",
@@ -35013,7 +35687,7 @@
       "Nicki Watt"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/4N2ywun-wTE/0.jpg",
@@ -35158,7 +35832,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2346,
+   "number": 2513,
    "speakers": [
       "Katherine Kirk"
    ],
@@ -35194,7 +35868,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2353,
+   "number": 2520,
    "speakers": [
       "Aino Vonge Corry"
    ],
@@ -35377,6 +36051,25 @@
    "title": "Postmodern Immutable Data Structures",
    "video": "https://youtube.com/watch?v=ZsryQp0UAC8"
 },{
+   "duration": 1661,
+   "edition": "2019",
+   "identifier": "RustFest-2019-6",
+   "language": "English",
+   "level": 0,
+   "meeting": "RustFest",
+   "number": 2853,
+   "speakers": [
+      "Neville Dipale"
+   ],
+   "tags": [
+      "Rust",
+      "live",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/s3Iga7FTnyA/0.jpg",
+   "title": "Powering Crowd-sourcing of Public Transit Delays with Rust",
+   "video": "https://youtube.com/watch?v=s3Iga7FTnyA"
+},{
    "duration": 5833,
    "edition": "2017",
    "identifier": "C++Now-2017-28",
@@ -35402,7 +36095,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2505,
+   "number": 2356,
    "speakers": [
       "Ronnie Mitra"
    ],
@@ -35500,7 +36193,7 @@
       "Sarah Wells"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/esaoQPIIiTo/0.jpg",
@@ -35552,7 +36245,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2432,
+   "number": 2599,
    "speakers": [
       "Yashvier Kosaraju"
    ],
@@ -35665,7 +36358,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2458,
+   "number": 2625,
    "speakers": [
       "Alexander Condello"
    ],
@@ -35779,7 +36472,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2341,
+   "number": 2508,
    "speakers": [
       "Jeff Hodges"
    ],
@@ -35797,7 +36490,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2465,
+   "number": 2316,
    "speakers": [
       "Allard Buijze"
    ],
@@ -35933,7 +36626,7 @@
       "Courtney Nash"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/nvVA_h1_cqs/0.jpg",
@@ -35946,7 +36639,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2391,
+   "number": 2558,
    "speakers": [
       "Eleanor Saitta"
    ],
@@ -36001,7 +36694,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2425,
+   "number": 2592,
    "speakers": [
       "Adam Tornhill"
    ],
@@ -36042,12 +36735,29 @@
       "Adam Tornhill"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/A2N58uQxclI/0.jpg",
    "title": "Prioritizing Technical Debt as if Time and Money Matters",
    "video": "https://youtube.com/watch?v=A2N58uQxclI"
+},{
+   "duration": 1643,
+   "edition": "2020",
+   "identifier": "Oxidize Global-2020-13",
+   "language": "English",
+   "level": 0,
+   "meeting": "Oxidize Global",
+   "number": 2894,
+   "speakers": [],
+   "tags": [
+      "Rust",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/esNPoXbhHkU/0.jpg",
+   "title": "probe-rs: Your Embedded Tome",
+   "video": "https://youtube.com/watch?v=esNPoXbhHkU"
 },{
    "duration": 5011,
    "edition": "2018",
@@ -36110,7 +36820,7 @@
    "meeting": "code::dive",
    "number": 1544,
    "speakers": [
-      "Vincente Botet"
+      "Vicente J. Botet Escriba"
    ],
    "tags": [
       "c++",
@@ -36146,7 +36856,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2345,
+   "number": 2512,
    "speakers": [
       "Juliet Hougland"
    ],
@@ -36396,7 +37106,7 @@
       "Dave Karow"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/6rb37PCX5_w/0.jpg",
@@ -36420,6 +37130,26 @@
    "thumbnail": "http://img.youtube.com/vi/OGRyQzy8RRU/0.jpg",
    "title": "Project managing in Data Science teams",
    "video": "https://youtube.com/watch?v=OGRyQzy8RRU"
+},{
+   "duration": 1773,
+   "edition": "2020",
+   "identifier": "RustFest-2020-24",
+   "language": "English",
+   "level": 0,
+   "meeting": "RustFest",
+   "number": 2878,
+   "speakers": [
+      "Carlo Supina",
+      "Micah Tigley"
+   ],
+   "tags": [
+      "Rust",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/qoCryIy4bFE/0.jpg",
+   "title": "Project Necromancy: How to Revive a Dead Rust Project",
+   "video": "https://youtube.com/watch?v=qoCryIy4bFE"
 },{
    "duration": 5024,
    "edition": "2017",
@@ -36597,7 +37327,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2544,
+   "number": 2395,
    "speakers": [
       "Kelley Robinson"
    ],
@@ -36912,13 +37642,33 @@
    "title": "Quickly Testing Qt Desktop Applications with Approval Tests",
    "video": "https://youtube.com/watch?v=J27HoZM_PTI"
 },{
+   "duration": 2359,
+   "edition": "2019",
+   "identifier": "RustFest-2019-1",
+   "language": "English",
+   "level": 0,
+   "meeting": "RustFest",
+   "number": 2848,
+   "speakers": [
+      "Ryan Levick",
+      "Sebastian Fernandez"
+   ],
+   "tags": [
+      "Rust",
+      "live",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/o01QmYVluSw/0.jpg",
+   "title": "R-Evolution: A Story of Rust Adoption",
+   "video": "https://youtube.com/watch?v=o01QmYVluSw"
+},{
    "duration": 1684,
    "edition": "2020",
    "identifier": "GOTO Chicago-2020-48",
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2461,
+   "number": 2628,
    "speakers": [
       "Chris Anderson"
    ],
@@ -36993,7 +37743,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2409,
+   "number": 2576,
    "speakers": [
       "Seth Thomson"
    ],
@@ -37218,7 +37968,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2343,
+   "number": 2510,
    "speakers": [
       "Georges Saab"
    ],
@@ -37255,7 +38005,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2430,
+   "number": 2597,
    "speakers": [
       "Dean Wampler"
    ],
@@ -37311,7 +38061,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2405,
+   "number": 2572,
    "speakers": [
       "Jill Wetzler"
    ],
@@ -37366,7 +38116,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2358,
+   "number": 2525,
    "speakers": [
       "Josh Long"
    ],
@@ -37516,7 +38266,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2523,
+   "number": 2374,
    "speakers": [
       "Marcos Maia",
       "Tim v Baarsen"
@@ -37535,7 +38285,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2472,
+   "number": 2323,
    "speakers": [
       "Erwin de Gier"
    ],
@@ -37572,7 +38322,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2368,
+   "number": 2535,
    "speakers": [
       "Peter Piekarczyk"
    ],
@@ -37870,7 +38620,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2444,
+   "number": 2611,
    "speakers": [
       "Rebecca Miller-Webster"
    ],
@@ -38052,6 +38802,23 @@
    "title": "Regular Types and why do I care?",
    "video": "https://youtube.com/watch?v=SssT4ILAo_w"
 },{
+   "duration": 1716,
+   "edition": "2020",
+   "identifier": "Oxidize Global-2020-12",
+   "language": "English",
+   "level": 0,
+   "meeting": "Oxidize Global",
+   "number": 2893,
+   "speakers": [],
+   "tags": [
+      "Rust",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/Tr9CiKg-z4c/0.jpg",
+   "title": "Reliable optimizations for idiomatic Rust",
+   "video": "https://youtube.com/watch?v=Tr9CiKg-z4c"
+},{
    "duration": 3607,
    "edition": "2019",
    "identifier": "CppCon-2019-100",
@@ -38186,7 +38953,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2516,
+   "number": 2367,
    "speakers": [
       "Oliver Drotbohm"
    ],
@@ -38423,6 +39190,26 @@
    "title": "Reuse bill",
    "video": "https://youtube.com/watch?v=c1S_GDTNOpk"
 },{
+   "duration": 1416,
+   "edition": "2020",
+   "identifier": "RustFest-2020-16",
+   "language": "English",
+   "level": 0,
+   "meeting": "RustFest",
+   "number": 2872,
+   "speakers": [
+      "Daan Sprenkels",
+      "Diane Hosfelt"
+   ],
+   "tags": [
+      "Rust",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/RSrZzrLAO8A/0.jpg",
+   "title": "RFC: Secret types in Rust",
+   "video": "https://youtube.com/watch?v=RSrZzrLAO8A"
+},{
    "duration": 4792,
    "edition": "2016",
    "identifier": "CppCon-2016-4",
@@ -38441,6 +39228,26 @@
    "thumbnail": "http://img.youtube.com/vi/zBkNBP00wJE/0.jpg",
    "title": "Rich Code for Tiny Computers: A Simple Commodore 64 Game in C++17",
    "video": "https://youtube.com/watch?v=zBkNBP00wJE"
+},{
+   "duration": 1768,
+   "edition": "2019",
+   "identifier": "RustFest-2019-5",
+   "language": "English",
+   "level": 0,
+   "meeting": "RustFest",
+   "number": 2852,
+   "speakers": [
+      "David Bach",
+      "Malte Sandstede"
+   ],
+   "tags": [
+      "Rust",
+      "live",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/6aTXW5mOlj4/0.jpg",
+   "title": "Right inside the database",
+   "video": "https://youtube.com/watch?v=6aTXW5mOlj4"
 },{
    "duration": 5711,
    "edition": "2019",
@@ -38472,7 +39279,7 @@
       "Crystal Hirschorn"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/oEyZgL3sL84/0.jpg",
@@ -38485,7 +39292,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2408,
+   "number": 2575,
    "speakers": [
       "Kasun Indrasiri"
    ],
@@ -38553,6 +39360,23 @@
    "title": "Rpath and binary reuse",
    "video": "https://youtube.com/watch?v=3PAly2ECoKE"
 },{
+   "duration": 1945,
+   "edition": "2020",
+   "identifier": "Oxidize Global-2020-8",
+   "language": "English",
+   "level": 0,
+   "meeting": "Oxidize Global",
+   "number": 2889,
+   "speakers": [],
+   "tags": [
+      "Rust",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/saNdh0m_qHc/0.jpg",
+   "title": "RTIC: Real Time Interrupt driven Concurrency",
+   "video": "https://youtube.com/watch?v=saNdh0m_qHc"
+},{
    "duration": 2738,
    "edition": "2021",
    "identifier": "Live Embedded Event-2021-10",
@@ -38613,7 +39437,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2518,
+   "number": 2369,
    "speakers": [
       "Florian Gilcher"
    ],
@@ -38624,6 +39448,26 @@
    "thumbnail": "http://img.youtube.com/vi/sCSfyQYDImM/0.jpg",
    "title": "Rust 2018: Access All Areas",
    "video": "https://youtube.com/watch?v=sCSfyQYDImM"
+},{
+   "duration": 1196,
+   "edition": "2020",
+   "identifier": "RustFest-2020-13",
+   "language": "English",
+   "level": 0,
+   "meeting": "RustFest",
+   "number": 2869,
+   "speakers": [
+      "Gavin Mendel-Gleason",
+      "Matthijs van Otterdijk"
+   ],
+   "tags": [
+      "Rust",
+      "lightning",
+      "online"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/YJMxLIwEl6c/0.jpg",
+   "title": "Rust as foundation in a polyglot development environment",
+   "video": "https://youtube.com/watch?v=YJMxLIwEl6c"
 },{
    "duration": 2289,
    "edition": "2018",
@@ -38643,6 +39487,157 @@
    "title": "Rust Async Programming in 2018",
    "video": "https://youtube.com/watch?v=j0SIcN-Y-LA"
 },{
+   "duration": 1706,
+   "edition": "2019",
+   "identifier": "RustConf-2019-2",
+   "language": "English",
+   "level": 0,
+   "meeting": "RustConf",
+   "number": 2823,
+   "speakers": [
+      "Lin Clark"
+   ],
+   "tags": [
+      "Rust",
+      "keynote",
+      "online"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/KFpU30xluxo/0.jpg",
+   "title": "Rust beyond Rust",
+   "video": "https://youtube.com/watch?v=KFpU30xluxo"
+},{
+   "duration": 1406,
+   "edition": "2020",
+   "identifier": "RustFest-2020-14",
+   "language": "English",
+   "level": 0,
+   "meeting": "RustFest",
+   "number": 2870,
+   "speakers": [
+      "Anastasia Opara"
+   ],
+   "tags": [
+      "Rust",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/9tHTCNr5H8s/0.jpg",
+   "title": "Rust for Artists. Art for Rustaceans.",
+   "video": "https://youtube.com/watch?v=9tHTCNr5H8s"
+},{
+   "duration": 1620,
+   "edition": "2020",
+   "identifier": "RustFest-2020-26",
+   "language": "English",
+   "level": 0,
+   "meeting": "RustFest",
+   "number": 2880,
+   "speakers": [
+      "Colton Donnelly"
+   ],
+   "tags": [
+      "Rust",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/pR43XBBzvSc/0.jpg",
+   "title": "Rust for Freshmen",
+   "video": "https://youtube.com/watch?v=pR43XBBzvSc"
+},{
+   "duration": 1558,
+   "edition": "2020",
+   "identifier": "RustConf-2020-9",
+   "language": "English",
+   "level": 0,
+   "meeting": "RustConf",
+   "number": 2846,
+   "speakers": [
+      "Rebecca Turner"
+   ],
+   "tags": [
+      "Rust",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/BBvcK_nXUEg/0.jpg",
+   "title": "Rust for Non-Systems Programmers",
+   "video": "https://youtube.com/watch?v=BBvcK_nXUEg"
+},{
+   "duration": 1195,
+   "edition": "2020",
+   "identifier": "RustFest-2020-11",
+   "language": "English",
+   "level": 0,
+   "meeting": "RustFest",
+   "number": 2868,
+   "speakers": [
+      "Vivian Band"
+   ],
+   "tags": [
+      "Rust",
+      "lightning",
+      "online"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/MPXGHc93bkY/0.jpg",
+   "title": "Rust for Safer Protocol Development",
+   "video": "https://youtube.com/watch?v=MPXGHc93bkY"
+},{
+   "duration": 1700,
+   "edition": "2019",
+   "identifier": "RustConf-2019-6",
+   "language": "English",
+   "level": 0,
+   "meeting": "RustConf",
+   "number": 2827,
+   "speakers": [
+      "Shoumik Palkar"
+   ],
+   "tags": [
+      "Rust",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/AZsgdCEQjFo/0.jpg",
+   "title": "Rust for Weld, a High Performance Parallell JIT Compiler",
+   "video": "https://youtube.com/watch?v=AZsgdCEQjFo"
+},{
+   "duration": 940,
+   "edition": "2019",
+   "identifier": "RustFest-2019-3",
+   "language": "English",
+   "level": 0,
+   "meeting": "RustFest",
+   "number": 2850,
+   "speakers": [
+      "Aimee Zhu",
+      "Brian Anderson"
+   ],
+   "tags": [
+      "Rust",
+      "lightning",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/j_ha1-1w6sw/0.jpg",
+   "title": "Rust in China",
+   "video": "https://youtube.com/watch?v=j_ha1-1w6sw"
+},{
+   "duration": 5791,
+   "edition": "2020",
+   "identifier": "Oxidize Global-2020-14",
+   "language": "English",
+   "level": 0,
+   "meeting": "Oxidize Global",
+   "number": 2895,
+   "speakers": [],
+   "tags": [
+      "Rust",
+      "online",
+      "panel"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/g7VVM_t72NE/0.jpg",
+   "title": "Rust in Safety Critical Systems",
+   "video": "https://youtube.com/watch?v=g7VVM_t72NE"
+},{
    "duration": 4725,
    "edition": "2017",
    "identifier": "C++Now-2017-1",
@@ -38661,6 +39656,42 @@
    "thumbnail": "http://img.youtube.com/vi/lO1z-7cuRYI/0.jpg",
    "title": "Rust: Hack Without Fear!",
    "video": "https://youtube.com/watch?v=lO1z-7cuRYI"
+},{
+   "duration": 1274,
+   "edition": "2020",
+   "identifier": "RustFest-2020-1",
+   "language": "English",
+   "level": 0,
+   "meeting": "RustFest",
+   "number": 2859,
+   "speakers": [
+      "Keen"
+   ],
+   "tags": [
+      "Rust",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/GtcZ0ZOcO5w/0.jpg",
+   "title": "Rust: Learning through the language itself \u2014 RustFest Global 2020",
+   "video": "https://youtube.com/watch?v=GtcZ0ZOcO5w"
+},{
+   "duration": 1711,
+   "edition": "2020",
+   "identifier": "Oxidize Global-2020-4",
+   "language": "English",
+   "level": 0,
+   "meeting": "Oxidize Global",
+   "number": 2885,
+   "speakers": [],
+   "tags": [
+      "Rust",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/NgdWeR1CvI8/0.jpg",
+   "title": "Rusty USB Gadgets Make Barking BeagleBones",
+   "video": "https://youtube.com/watch?v=NgdWeR1CvI8"
 },{
    "duration": 5775,
    "edition": "2010",
@@ -38687,7 +39718,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2419,
+   "number": 2586,
    "speakers": [
       "Tod Golding"
    ],
@@ -38800,7 +39831,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2501,
+   "number": 2352,
    "speakers": [
       "Chris Corriere"
    ],
@@ -38899,7 +39930,7 @@
       "James Lewis"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/yJHvMabxVYU/0.jpg",
@@ -38950,7 +39981,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2470,
+   "number": 2321,
    "speakers": [
       "Keith Adams"
    ],
@@ -38970,7 +40001,7 @@
    "meeting": "GOTO Copenhagen",
    "number": 2714,
    "speakers": [
-      "Tjeerd In't Veen"
+      "Tjeerd in 't Veen"
    ],
    "tags": [
       "live",
@@ -39023,7 +40054,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2565,
+   "number": 2416,
    "speakers": [
       "Daniel Bornkessel"
    ],
@@ -39041,7 +40072,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2331,
+   "number": 2498,
    "speakers": [
       "Benjamin Mitchell"
    ],
@@ -39064,7 +40095,7 @@
       "Stephanie Crater"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/WcSqLvxwzbA/0.jpg",
@@ -39077,7 +40108,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2537,
+   "number": 2388,
    "speakers": [
       "Arun Gupta",
       "Radu Weiss"
@@ -39244,7 +40275,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2387,
+   "number": 2554,
    "speakers": [
       "Nicolas Frankel"
    ],
@@ -39262,7 +40293,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2352,
+   "number": 2519,
    "speakers": [
       "Aaron Bedra"
    ],
@@ -39426,7 +40457,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2496,
+   "number": 2347,
    "speakers": [
       "Oosterwijk",
       "Sarbhukan"
@@ -39483,7 +40514,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2447,
+   "number": 2614,
    "speakers": [
       "JJ Qi"
    ],
@@ -39501,7 +40532,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2363,
+   "number": 2530,
    "speakers": [
       "Roman Elizarov"
    ],
@@ -39519,7 +40550,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2612,
+   "number": 2463,
    "speakers": [
       "Alex Ellis"
    ],
@@ -39537,7 +40568,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2555,
+   "number": 2406,
    "speakers": [
       "Sascha Mollering"
    ],
@@ -39573,7 +40604,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2389,
+   "number": 2556,
    "speakers": [
       "Jesse Butler"
    ],
@@ -39591,7 +40622,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2338,
+   "number": 2505,
    "speakers": [
       "Peter Sbarski"
    ],
@@ -39609,7 +40640,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2527,
+   "number": 2378,
    "speakers": [
       "Gojko Adzic"
    ],
@@ -39676,6 +40707,25 @@
    "thumbnail": "http://img.youtube.com/vi/IuJ79Og-CfU/0.jpg",
    "title": "SG14 (the GameDev & low latency ISO C++ working group)",
    "video": "https://youtube.com/watch?v=IuJ79Og-CfU"
+},{
+   "duration": 995,
+   "edition": "2019",
+   "identifier": "RustFest-2019-10",
+   "language": "English",
+   "level": 0,
+   "meeting": "RustFest",
+   "number": 2857,
+   "speakers": [
+      "Pietro Albini"
+   ],
+   "tags": [
+      "Rust",
+      "lightning",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/As1gXp5kX1M/0.jpg",
+   "title": "Shipping a stable compiler every six weeks",
+   "video": "https://youtube.com/watch?v=As1gXp5kX1M"
 },{
    "duration": 3090,
    "edition": "2019",
@@ -39944,7 +40994,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2473,
+   "number": 2324,
    "speakers": [
       "Christof Leng"
    ],
@@ -40149,7 +41199,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2476,
+   "number": 2327,
    "speakers": [
       "Frank Buschmann"
    ],
@@ -40167,7 +41217,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2336,
+   "number": 2503,
    "speakers": [
       "Jessica Kerr"
    ],
@@ -40226,7 +41276,7 @@
       "Dave Farley"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/tBw0i2CW0mA/0.jpg",
@@ -40263,7 +41313,7 @@
       "Kevlin Henney"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/kX0prJklhUE/0.jpg",
@@ -40779,7 +41829,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2561,
+   "number": 2412,
    "speakers": [
       "Maarten Mulders"
    ],
@@ -41250,7 +42300,7 @@
       "Hannes Lowette"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/_-ne2kwF8tc/0.jpg",
@@ -41305,7 +42355,7 @@
       "Katherine Stanley"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/F-a4vNoK05M/0.jpg",
@@ -41525,7 +42575,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2410,
+   "number": 2577,
    "speakers": [
       "Scott M Stark"
    ],
@@ -41662,7 +42712,7 @@
       "Asim Hussain"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/OSM-785tnGM/0.jpg",
@@ -41693,7 +42743,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2332,
+   "number": 2499,
    "speakers": [
       "Dan North",
       "Katherine Kirk"
@@ -41712,7 +42762,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2578,
+   "number": 2429,
    "speakers": [
       "John Le Drew"
    ],
@@ -41838,6 +42888,25 @@
    "title": "SYCL building blocks for C++ libraries",
    "video": "https://youtube.com/watch?v=HH-ikWJ8cU4"
 },{
+   "duration": 1477,
+   "edition": "2019",
+   "identifier": "RustConf-2019-15",
+   "language": "English",
+   "level": 0,
+   "meeting": "RustConf",
+   "number": 2836,
+   "speakers": [
+      "Gargi Sharma"
+   ],
+   "tags": [
+      "Rust",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/G0e2lVENaCU/0.jpg",
+   "title": "Syscalls for Rustaceans",
+   "video": "https://youtube.com/watch?v=G0e2lVENaCU"
+},{
    "duration": 5389,
    "edition": "2019",
    "identifier": "C++Now-2019-26",
@@ -41911,6 +42980,25 @@
    "title": "Taking Back 'Software Engineering'",
    "video": "https://youtube.com/watch?v=_N_jIrEBOpw"
 },{
+   "duration": 1577,
+   "edition": "2019",
+   "identifier": "RustConf-2019-12",
+   "language": "English",
+   "level": 0,
+   "meeting": "RustConf",
+   "number": 2833,
+   "speakers": [
+      "Oliver Schneider"
+   ],
+   "tags": [
+      "Rust",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/wkXNm_qo8aY/0.jpg",
+   "title": "Taking Constant Evaluation to the Limit",
+   "video": "https://youtube.com/watch?v=wkXNm_qo8aY"
+},{
    "duration": 2940,
    "edition": "2019",
    "identifier": "GOTO Copenhagen-2019-21",
@@ -41935,7 +43023,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2525,
+   "number": 2376,
    "speakers": [
       "Philippe De Ryck"
    ],
@@ -42022,6 +43110,25 @@
    "title": "Tales of C, the 6502 and the BBC (with added python)",
    "video": "https://youtube.com/watch?v=L3pihTWPcKI"
 },{
+   "duration": 338,
+   "edition": "2020",
+   "identifier": "RustFest-2020-28",
+   "language": "English",
+   "level": 0,
+   "meeting": "RustFest",
+   "number": 2881,
+   "speakers": [
+      "Every Rhymed"
+   ],
+   "tags": [
+      "Rust",
+      "lightning",
+      "online"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/EWldB-KXLeY/0.jpg",
+   "title": "Talk Intro by Andre Bogus (llogiq) the Rust Bard",
+   "video": "https://youtube.com/watch?v=EWldB-KXLeY"
+},{
    "duration": 1780,
    "edition": "2018",
    "identifier": "CppCon-2018-90",
@@ -42047,7 +43154,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2551,
+   "number": 2402,
    "speakers": [
       "Patrick Kua"
    ],
@@ -42070,7 +43177,7 @@
       "Patrick Kua"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/F81W-JcRgXM/0.jpg",
@@ -42519,7 +43626,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2520,
+   "number": 2371,
    "speakers": [
       "Mathias Verraes"
    ],
@@ -42763,7 +43870,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2557,
+   "number": 2408,
    "speakers": [
       "Uwe Friedrichsen"
    ],
@@ -42831,6 +43938,25 @@
    "title": "The Anatomy of an Exploit",
    "video": "https://youtube.com/watch?v=tNJfD17TmsM"
 },{
+   "duration": 1832,
+   "edition": "2020",
+   "identifier": "RustFest-2020-21",
+   "language": "English",
+   "level": 0,
+   "meeting": "RustFest",
+   "number": 2876,
+   "speakers": [
+      "Sean Chen"
+   ],
+   "tags": [
+      "Rust",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/oMskswu1SxM/0.jpg",
+   "title": "The Anatomy of Error Messages in Rust",
+   "video": "https://youtube.com/watch?v=oMskswu1SxM"
+},{
    "duration": 3993,
    "edition": "2018",
    "identifier": "GOTO Oslo-2018-4",
@@ -42893,7 +44019,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2450,
+   "number": 2617,
    "speakers": [
       "Brendan O'Leary"
    ],
@@ -42953,7 +44079,7 @@
       "Ana-Maria Mihalceanu"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/dGx8PjmWkyM/0.jpg",
@@ -43480,7 +44606,7 @@
       "Roy Osherove"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/vN_xMlR15hw/0.jpg",
@@ -43907,7 +45033,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2322,
+   "number": 2489,
    "speakers": [
       "Catherine Swetel"
    ],
@@ -43930,7 +45056,7 @@
       "Catherine Swetel"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/__7K_fDqVJs/0.jpg",
@@ -43948,7 +45074,7 @@
       "Catherine Swetel"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/0zu2nIBny0w/0.jpg",
@@ -43961,7 +45087,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2582,
+   "number": 2433,
    "speakers": [
       "Stefan Rudnitzki"
    ],
@@ -43984,7 +45110,7 @@
       "Jason Cahoon"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/6I8Ag9mCEpY/0.jpg",
@@ -44015,7 +45141,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2319,
+   "number": 2486,
    "speakers": [
       "Joe Armstrong"
    ],
@@ -44090,7 +45216,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2500,
+   "number": 2351,
    "speakers": [
       "Phil Zimmermann"
    ],
@@ -44251,6 +45377,25 @@
    "title": "The Finer Points of Parameter Packs",
    "video": "https://youtube.com/watch?v=7fn0Evlnnp4"
 },{
+   "duration": 1801,
+   "edition": "2020",
+   "identifier": "RustFest-2020-17",
+   "language": "English",
+   "level": 0,
+   "meeting": "RustFest",
+   "number": 2873,
+   "speakers": [
+      "Earth to Abigail"
+   ],
+   "tags": [
+      "Rust",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/MeSnhip7Rac/0.jpg",
+   "title": "The Forest - Artist Performance",
+   "video": "https://youtube.com/watch?v=MeSnhip7Rac"
+},{
    "duration": 5367,
    "edition": "2021",
    "identifier": "accu-2021-3",
@@ -44294,7 +45439,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2471,
+   "number": 2322,
    "speakers": [
       "Jason Smith"
    ],
@@ -44392,7 +45537,7 @@
       "Anita Sengupta"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/egftZrq3PWw/0.jpg",
@@ -44407,7 +45552,7 @@
    "meeting": "GOTO Copenhagen",
    "number": 2637,
    "speakers": [
-      "Sir Tim Berners-Lee"
+      "Tim Berners-Lee"
    ],
    "tags": [
       "live",
@@ -44423,7 +45568,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2541,
+   "number": 2392,
    "speakers": [
       "Lieven Vandersypen"
    ],
@@ -44498,7 +45643,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2629,
+   "number": 2480,
    "speakers": [
       "Aimee Covo"
    ],
@@ -44622,6 +45767,25 @@
    "title": "The Holy Grail!? A Persistent Hash-Array-Mapped Trie for C++",
    "video": "https://youtube.com/watch?v=WT9kmIE3Uis"
 },{
+   "duration": 1598,
+   "edition": "2019",
+   "identifier": "RustFest-2019-11",
+   "language": "English",
+   "level": 0,
+   "meeting": "RustFest",
+   "number": 2858,
+   "speakers": [
+      "Katharina Fey"
+   ],
+   "tags": [
+      "Rust",
+      "live",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/IeDbrU6gihM/0.jpg",
+   "title": "The human cost of development",
+   "video": "https://youtube.com/watch?v=IeDbrU6gihM"
+},{
    "duration": 3587,
    "edition": "2014",
    "identifier": "CppCon-2014-55",
@@ -44647,7 +45811,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2627,
+   "number": 2478,
    "speakers": [
       "Aino Vonge Corry"
    ],
@@ -44815,7 +45979,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2359,
+   "number": 2526,
    "speakers": [
       "Anjana Vakil"
    ],
@@ -45423,7 +46587,7 @@
       "Daniel Bryant"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/Q09dAnIN4RY/0.jpg",
@@ -45536,7 +46700,7 @@
       "Allard Buijze"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/Fso2OyguRuQ/0.jpg",
@@ -45573,7 +46737,7 @@
       "Pragmatic Dave Thomas"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/0AzkH8SYyOc/0.jpg",
@@ -45624,7 +46788,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2384,
+   "number": 2551,
    "speakers": [
       "Doug Lenat"
    ],
@@ -45755,7 +46919,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2321,
+   "number": 2488,
    "speakers": [
       "Francesc Campoy"
    ],
@@ -45823,6 +46987,25 @@
    "title": "The Rule of Seven (Plus or Minus Two): Modern C++ Boilerplate",
    "video": "https://youtube.com/watch?v=IzQk6IM74JE"
 },{
+   "duration": 2032,
+   "edition": "2019",
+   "identifier": "RustConf-2019-9",
+   "language": "English",
+   "level": 0,
+   "meeting": "RustConf",
+   "number": 2830,
+   "speakers": [
+      "Josh Triplett"
+   ],
+   "tags": [
+      "Rust",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/AN9FoZgLcFg/0.jpg",
+   "title": "The Rust 2018 Module System",
+   "video": "https://youtube.com/watch?v=AN9FoZgLcFg"
+},{
    "duration": 1671,
    "edition": "2018",
    "identifier": "GOTO Copenhagen-2018-33",
@@ -45831,7 +47014,7 @@
    "meeting": "GOTO Copenhagen",
    "number": 2663,
    "speakers": [
-      "Poul J\u00f8rgen Jennum"
+      "Poul Jorgen Jennum"
    ],
    "tags": [
       "live",
@@ -45978,7 +47161,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2356,
+   "number": 2523,
    "speakers": [
       "Sasa Juric"
    ],
@@ -46110,7 +47293,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2542,
+   "number": 2393,
    "speakers": [
       "Koen Bos"
    ],
@@ -46195,6 +47378,26 @@
    "thumbnail": "http://img.youtube.com/vi/Wg1f9Sufyic/0.jpg",
    "title": "The Surprising Costs of void() (and Other Not-Quite-Innocuous Evils)",
    "video": "https://youtube.com/watch?v=Wg1f9Sufyic"
+},{
+   "duration": 1941,
+   "edition": "2019",
+   "identifier": "RustConf-2019-14",
+   "language": "English",
+   "level": 0,
+   "meeting": "RustConf",
+   "number": 2835,
+   "speakers": [
+      "Isabella Muerte"
+   ],
+   "tags": [
+      "Rust",
+      "c++",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/YZomx3Jt4Xs/0.jpg",
+   "title": "The Symbiotic Relationship of C++ and Rust",
+   "video": "https://youtube.com/watch?v=YZomx3Jt4Xs"
 },{
    "duration": 2971,
    "edition": "2016",
@@ -46371,9 +47574,9 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2563,
+   "number": 2414,
    "speakers": [
-      "D. Mitrovic"
+      "Dejan Mitrovic"
    ],
    "tags": [
       "live",
@@ -46645,13 +47848,32 @@
    "title": "Things not to do in Python",
    "video": "https://youtube.com/watch?v=tqfTrCNkHW8"
 },{
+   "duration": 1521,
+   "edition": "2020",
+   "identifier": "RustFest-2020-2",
+   "language": "English",
+   "level": 0,
+   "meeting": "RustFest",
+   "number": 2860,
+   "speakers": [
+      "Yosuke Onoue"
+   ],
+   "tags": [
+      "Rust",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/m_zGSFyINhY/0.jpg",
+   "title": "Think About Front-end Web Development with Rust",
+   "video": "https://youtube.com/watch?v=m_zGSFyINhY"
+},{
    "duration": 2542,
    "edition": "2019",
    "identifier": "GOTO Berlin-2019-24",
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2614,
+   "number": 2465,
    "speakers": [
       "Matt Brunt"
    ],
@@ -46742,7 +47964,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2532,
+   "number": 2383,
    "speakers": [
       "Em Grasmeder"
    ],
@@ -47089,6 +48311,25 @@
    "title": "Thriving in a crowded and changing world: C++ 2006-2020",
    "video": "https://youtube.com/watch?v=Q7HcwDE3lsU"
 },{
+   "duration": 3682,
+   "edition": "2020",
+   "identifier": "RustFest-2020-25",
+   "language": "English",
+   "level": 0,
+   "meeting": "RustFest",
+   "number": 2879,
+   "speakers": [
+      "Andrew Dona-Couch"
+   ],
+   "tags": [
+      "Rust",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/By9FgUzkQTc/0.jpg",
+   "title": "Tier 3 Means Getting Your Hands Dirty",
+   "video": "https://youtube.com/watch?v=By9FgUzkQTc"
+},{
    "duration": 2910,
    "edition": "2018",
    "identifier": "code::dive-2018-31",
@@ -47223,6 +48464,25 @@
    "title": "TMI on UDLs: Mechanics, Uses, and Abuses of User-Defined Literals",
    "video": "https://youtube.com/watch?v=gxMiiI19VnQ"
 },{
+   "duration": 1767,
+   "edition": "2019",
+   "identifier": "RustConf-2019-11",
+   "language": "English",
+   "level": 0,
+   "meeting": "RustConf",
+   "number": 2832,
+   "speakers": [
+      "Eliza Weisman"
+   ],
+   "tags": [
+      "Rust",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/JjItsfqFIdo/0.jpg",
+   "title": "Tokio-Trace: Scoped, Structured, Async-Aware Diagnostics",
+   "video": "https://youtube.com/watch?v=JjItsfqFIdo"
+},{
    "duration": 3123,
    "edition": "2017",
    "identifier": "CppCon-2017-60",
@@ -47339,6 +48599,25 @@
    "thumbnail": "http://img.youtube.com/vi/dlxM3U37q9k/0.jpg",
    "title": "Toward Native XML Processing Using Multi-paradigm Design in C++",
    "video": "https://youtube.com/watch?v=dlxM3U37q9k"
+},{
+   "duration": 1876,
+   "edition": "2019",
+   "identifier": "RustConf-2019-3",
+   "language": "English",
+   "level": 0,
+   "meeting": "RustConf",
+   "number": 2824,
+   "speakers": [
+      "Adam Perry"
+   ],
+   "tags": [
+      "Rust",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/tmM756XZt20/0.jpg",
+   "title": "Towards an Open Ecosystem of Empowered UI Development",
+   "video": "https://youtube.com/watch?v=tmM756XZt20"
 },{
    "duration": 3632,
    "edition": "2018",
@@ -47472,32 +48751,13 @@
    "title": "Trivially Relocatable",
    "video": "https://youtube.com/watch?v=SGdfPextuAU"
 },{
-   "duration": 3025,
-   "edition": "2019",
-   "identifier": "GOTO Chicago-2019-33",
-   "language": "English",
-   "level": 0,
-   "meeting": "GOTO Chicago",
-   "number": 2388,
-   "speakers": [
-      "Ray Tsang",
-      "Robert Kubis"
-   ],
-   "tags": [
-      "live",
-      "talk"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/e_YsNNi45ac/0.jpg",
-   "title": "Troubleshooting & Debugging Microservices in Kubernetes",
-   "video": "https://youtube.com/watch?v=e_YsNNi45ac"
-},{
    "duration": 2976,
    "edition": "2018",
    "identifier": "GOTO Berlin-2018-28",
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2571,
+   "number": 2422,
    "speakers": [
       "Ray Tsang",
       "Robert Kubis"
@@ -47510,13 +48770,32 @@
    "title": "Troubleshooting & Debugging Microservices in Kubernetes",
    "video": "https://youtube.com/watch?v=2hxTTyc6IH8"
 },{
+   "duration": 3025,
+   "edition": "2019",
+   "identifier": "GOTO Chicago-2019-33",
+   "language": "English",
+   "level": 0,
+   "meeting": "GOTO Chicago",
+   "number": 2555,
+   "speakers": [
+      "Ray Tsang",
+      "Robert Kubis"
+   ],
+   "tags": [
+      "live",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/e_YsNNi45ac/0.jpg",
+   "title": "Troubleshooting & Debugging Microservices in Kubernetes",
+   "video": "https://youtube.com/watch?v=e_YsNNi45ac"
+},{
    "duration": 1980,
    "edition": "2019",
    "identifier": "GOTO Berlin-2019-38",
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2628,
+   "number": 2479,
    "speakers": [
       "Jeff Smith"
    ],
@@ -48043,7 +49322,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2318,
+   "number": 2485,
    "speakers": [
       "Michael Feathers"
    ],
@@ -48061,7 +49340,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2469,
+   "number": 2320,
    "speakers": [
       "Michael Nygard"
    ],
@@ -48242,6 +49521,25 @@
    "thumbnail": "http://img.youtube.com/vi/VOPDO_wTpXg/0.jpg",
    "title": "Undefined behavoiur",
    "video": "https://youtube.com/watch?v=VOPDO_wTpXg"
+},{
+   "duration": 1819,
+   "edition": "2020",
+   "identifier": "RustConf-2020-4",
+   "language": "English",
+   "level": 0,
+   "meeting": "RustConf",
+   "number": 2841,
+   "speakers": [
+      "Samuel Lim"
+   ],
+   "tags": [
+      "Rust",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/2b8InauuRqw/0.jpg",
+   "title": "Under a Microscope: Exploring Fast and Safe Rust for Biology",
+   "video": "https://youtube.com/watch?v=2b8InauuRqw"
 },{
    "duration": 5723,
    "edition": "2014",
@@ -48571,7 +49869,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2521,
+   "number": 2372,
    "speakers": [
       "Paulien van Alst"
    ],
@@ -48594,7 +49892,7 @@
       "Paulien van Alst"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/BcVOvdrFaPY/0.jpg",
@@ -48607,7 +49905,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2504,
+   "number": 2355,
    "speakers": [
       "Johan Janssen"
    ],
@@ -48815,7 +50113,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2401,
+   "number": 2568,
    "speakers": [
       "Arun Gupta"
    ],
@@ -48857,12 +50155,31 @@
       "Mike Elsmore"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/rv_fZWLd0Pw/0.jpg",
    "title": "Using Open Source Observability with Lambda",
    "video": "https://youtube.com/watch?v=rv_fZWLd0Pw"
+},{
+   "duration": 1318,
+   "edition": "2020",
+   "identifier": "RustFest-2020-4",
+   "language": "English",
+   "level": 0,
+   "meeting": "RustFest",
+   "number": 2862,
+   "speakers": [
+      "Aki"
+   ],
+   "tags": [
+      "Rust",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/v376Ds9_ITs/0.jpg",
+   "title": "Using Rust in Metal Fabrication",
+   "video": "https://youtube.com/watch?v=v376Ds9_ITs"
 },{
    "duration": 7102,
    "edition": "2010",
@@ -48960,6 +50277,23 @@
    "thumbnail": "http://img.youtube.com/vi/xuL7rfkcWus/0.jpg",
    "title": "Using tasks to simplify concurrency in modern C++",
    "video": "https://youtube.com/watch?v=xuL7rfkcWus"
+},{
+   "duration": 1588,
+   "edition": "2020",
+   "identifier": "Oxidize Global-2020-6",
+   "language": "English",
+   "level": 0,
+   "meeting": "Oxidize Global",
+   "number": 2887,
+   "speakers": [],
+   "tags": [
+      "Rust",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/DUVE86yTfKU/0.jpg",
+   "title": "Using TensorFlow in Embedded Rust",
+   "video": "https://youtube.com/watch?v=DUVE86yTfKU"
 },{
    "duration": 5202,
    "edition": "2016",
@@ -49601,31 +50935,13 @@
    "title": "Visualize Template Instantiations - Understand your Template Bugs",
    "video": "https://youtube.com/watch?v=FKQZmnRabqw"
 },{
-   "duration": 1619,
-   "edition": "2020",
-   "identifier": "GOTO Chicago-2020-27",
-   "language": "English",
-   "level": 0,
-   "meeting": "GOTO Chicago",
-   "number": 2440,
-   "speakers": [
-      "Lynn Langit"
-   ],
-   "tags": [
-      "live",
-      "talk"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/htmEA-dpX_4/0.jpg",
-   "title": "Visualizing Cloud Systems",
-   "video": "https://youtube.com/watch?v=htmEA-dpX_4"
-},{
    "duration": 2516,
    "edition": "2019",
    "identifier": "GOTO Berlin-2019-28",
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2618,
+   "number": 2469,
    "speakers": [
       "Lynn Langit"
    ],
@@ -49636,6 +50952,24 @@
    "thumbnail": "http://img.youtube.com/vi/HHitdmje1ok/0.jpg",
    "title": "Visualizing Cloud Systems",
    "video": "https://youtube.com/watch?v=HHitdmje1ok"
+},{
+   "duration": 1619,
+   "edition": "2020",
+   "identifier": "GOTO Chicago-2020-27",
+   "language": "English",
+   "level": 0,
+   "meeting": "GOTO Chicago",
+   "number": 2607,
+   "speakers": [
+      "Lynn Langit"
+   ],
+   "tags": [
+      "live",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/htmEA-dpX_4/0.jpg",
+   "title": "Visualizing Cloud Systems",
+   "video": "https://youtube.com/watch?v=htmEA-dpX_4"
 },{
    "duration": 335,
    "edition": "2021",
@@ -49680,7 +51014,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2393,
+   "number": 2560,
    "speakers": [
       "Matt Danforth"
    ],
@@ -49754,7 +51088,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2422,
+   "number": 2589,
    "speakers": [
       "Allen Holub"
    ],
@@ -49777,7 +51111,7 @@
       "Allen Holub"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/F42A3R28WMU/0.jpg",
@@ -49991,13 +51325,31 @@
    "title": "Welcome +  Let's Move-The Hidden Features and Traps of C++ Move Semantics",
    "video": "https://youtube.com/watch?v=OOLR96-GjsI"
 },{
+   "duration": 400,
+   "edition": "2019",
+   "identifier": "GOTO Berlin-2019-30",
+   "language": "English",
+   "level": 0,
+   "meeting": "GOTO Berlin",
+   "number": 2471,
+   "speakers": [
+      "Pierluigi Collina"
+   ],
+   "tags": [
+      "lightning",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/f4t07QSLRDY/0.jpg",
+   "title": "Welcome to a New Age of Refereeing in 7 Minutes",
+   "video": "https://youtube.com/watch?v=f4t07QSLRDY"
+},{
    "duration": 2425,
    "edition": "2019",
    "identifier": "GOTO Chicago-2019-12",
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2367,
+   "number": 2534,
    "speakers": [
       "Alex Ellis"
    ],
@@ -50457,31 +51809,13 @@
    "title": "What does it mean to trust your boot process?",
    "video": "https://youtube.com/watch?v=D4Ja62qOc4E"
 },{
-   "duration": 2932,
-   "edition": "2019",
-   "identifier": "GOTO Chicago-2019-51",
-   "language": "English",
-   "level": 0,
-   "meeting": "GOTO Chicago",
-   "number": 2406,
-   "speakers": [
-      "Eric Johnson"
-   ],
-   "tags": [
-      "live",
-      "talk"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/V086m3FjNws/0.jpg",
-   "title": "What Does THIS Button Do? Serverless and IoT",
-   "video": "https://youtube.com/watch?v=V086m3FjNws"
-},{
    "duration": 2218,
    "edition": "2019",
    "identifier": "GOTO Amsterdam-2019-40",
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2543,
+   "number": 2394,
    "speakers": [
       "Eric Johnson"
    ],
@@ -50492,6 +51826,24 @@
    "thumbnail": "http://img.youtube.com/vi/qVckxgkzyr8/0.jpg",
    "title": "What Does THIS Button Do? Serverless and IoT",
    "video": "https://youtube.com/watch?v=qVckxgkzyr8"
+},{
+   "duration": 2932,
+   "edition": "2019",
+   "identifier": "GOTO Chicago-2019-51",
+   "language": "English",
+   "level": 0,
+   "meeting": "GOTO Chicago",
+   "number": 2573,
+   "speakers": [
+      "Eric Johnson"
+   ],
+   "tags": [
+      "live",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/V086m3FjNws/0.jpg",
+   "title": "What Does THIS Button Do? Serverless and IoT",
+   "video": "https://youtube.com/watch?v=V086m3FjNws"
 },{
    "duration": 5403,
    "edition": "2018",
@@ -50518,7 +51870,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2596,
+   "number": 2447,
    "speakers": [
       "Lena Reinhard"
    ],
@@ -50892,7 +52244,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2371,
+   "number": 2538,
    "speakers": [
       "Courtney Hemphill"
    ],
@@ -51343,7 +52695,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2503,
+   "number": 2354,
    "speakers": [
       "Rebecca Parsons"
    ],
@@ -51366,7 +52718,7 @@
       "Sam Newman"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/Mz-b-rQ9wL0/0.jpg",
@@ -51508,7 +52860,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2424,
+   "number": 2591,
    "speakers": [
       "Denise Yu"
    ],
@@ -51544,7 +52896,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Amsterdam",
-   "number": 2477,
+   "number": 2328,
    "speakers": [
       "Chris Matts"
    ],
@@ -51619,7 +52971,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2423,
+   "number": 2590,
    "speakers": [
       "Uri Goldshtein"
    ],
@@ -51637,7 +52989,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2604,
+   "number": 2455,
    "speakers": [
       "Henning Jacobs"
    ],
@@ -51728,7 +53080,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2377,
+   "number": 2544,
    "speakers": [
       "Jessie Frazelle"
    ],
@@ -51746,7 +53098,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2575,
+   "number": 2426,
    "speakers": [
       "Ricardo Garcia"
    ],
@@ -51764,7 +53116,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2392,
+   "number": 2559,
    "speakers": [
       "Rod Johnson"
    ],
@@ -51910,7 +53262,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2396,
+   "number": 2563,
    "speakers": [
       "Baruch Sadogursky"
    ],
@@ -52543,7 +53895,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 2417,
+   "number": 2584,
    "speakers": [
       "Stuart Langridge"
    ],
@@ -52616,7 +53968,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2584,
+   "number": 2435,
    "speakers": [
       "Marc Cohen"
    ],
@@ -52639,12 +53991,48 @@
       "Gojko Adzic"
    ],
    "tags": [
-      "live",
+      "online",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/5_IW7npQk9k/0.jpg",
    "title": "You're Testing WHAT?",
    "video": "https://youtube.com/watch?v=5_IW7npQk9k"
+},{
+   "duration": 1805,
+   "edition": "2020",
+   "identifier": "Oxidize Global-2020-10",
+   "language": "English",
+   "level": 0,
+   "meeting": "Oxidize Global",
+   "number": 2891,
+   "speakers": [],
+   "tags": [
+      "Rust",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/AoJ76pCmdM4/0.jpg",
+   "title": "zbus Fearless IPC for embedded Linux is finally here",
+   "video": "https://youtube.com/watch?v=AoJ76pCmdM4"
+},{
+   "duration": 1400,
+   "edition": "2019",
+   "identifier": "RustFest-2019-2",
+   "language": "English",
+   "level": 0,
+   "meeting": "RustFest",
+   "number": 2849,
+   "speakers": [
+      "Zeeshan Ali"
+   ],
+   "tags": [
+      "Rust",
+      "live",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/iWVn48Av8Ng/0.jpg",
+   "title": "zbus: Yet another D-Bus library",
+   "video": "https://youtube.com/watch?v=iWVn48Av8Ng"
 },{
    "duration": 2745,
    "edition": "2018",
@@ -52652,7 +54040,7 @@
    "language": "English",
    "level": 0,
    "meeting": "GOTO Berlin",
-   "number": 2568,
+   "number": 2419,
    "speakers": [
       "Ashley Williams"
    ],

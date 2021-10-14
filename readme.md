@@ -95,6 +95,8 @@ about his [talks list](http://cpptalksindex.xyz/).
 https://isocpp.org/wiki/faq/conferences-worldwide.
 - The GOTO conferences can be found at
 https://www.youtube.com/c/GotoConferences/playlists.
+- This page shows upcoming conferences https://confs.tech/
+- Playlist for Rust events: https://www.youtube.com/c/RustVideos
 
 
 
