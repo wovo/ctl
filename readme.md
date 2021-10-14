@@ -42,7 +42,12 @@ Conferences I included so far are:
 - Live Embedded Event 2020-2021
 - Meeting C++ 2014-2020
 - Meeting Embedded 2018-2020
+- MUC++
+- Oxidize Global 2020
 - Pacific C++ 2017-2018
+- RustConf 2019-2021
+- RustFest 2019-2021
+
 
 -------------------------------------------------------------------------------
 
@@ -96,6 +101,8 @@ about his [talks list](http://cpptalksindex.xyz/).
 https://isocpp.org/wiki/faq/conferences-worldwide.
 - The GOTO conferences can be found at
 https://www.youtube.com/c/GotoConferences/playlists.
+- This page shows upcoming conferences https://confs.tech/
+- Playlist for Rust events: https://www.youtube.com/c/RustVideos
 
 
 
