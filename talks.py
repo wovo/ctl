@@ -1548,7 +1548,7 @@ excluded_talks = [
    "Aesthr: Rain on Titan – Artist Performance — RustFest Global 2020",
    "Linalab && !ME – Artist Performance — RustFest Global 2020",
    "Dahlia Fae – Artist Performance — RustFest Global 2020",
-   "",
+   "Summarizing Core C++ 2021",
    "",
    "",
    "",
