@@ -2407,7 +2407,7 @@
    "meeting": "Meeting C++",
    "number": 833,
    "speakers": [
-      "lightning talks"
+      "Guy Davidson"
    ],
    "tags": [
       "c++",
@@ -2415,7 +2415,7 @@
       "live"
    ],
    "thumbnail": "http://img.youtube.com/vi/yFeVRX02jVQ/0.jpg",
-   "title": "Abstraction by the rule of 10 - Guy Davidson",
+   "title": "Abstraction by the rule of 10",
    "video": "https://youtube.com/watch?v=yFeVRX02jVQ"
 },{
    "duration": 3308,
@@ -3167,6 +3167,25 @@
    "title": "Alignment in C++: Use, Limitations, and Extension",
    "video": "https://youtube.com/watch?v=uSZFrmhayIM"
 },{
+   "duration": 282,
+   "edition": "2019",
+   "identifier": "Meeting C++-2019-48",
+   "language": "English",
+   "level": 0,
+   "meeting": "Meeting C++",
+   "number": 824,
+   "speakers": [
+      "Phil Nash"
+   ],
+   "tags": [
+      "c++",
+      "lightning",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/Ft3zFk7VPrE/0.jpg",
+   "title": "All the defaults are backwards",
+   "video": "https://youtube.com/watch?v=Ft3zFk7VPrE"
+},{
    "duration": 440,
    "edition": "2021",
    "identifier": "C++ on sea-2021-17",
@@ -3185,25 +3204,6 @@
    "thumbnail": "http://img.youtube.com/vi/X3bxsmkIEU0/0.jpg",
    "title": "All the Default's Are Backwards",
    "video": "https://youtube.com/watch?v=X3bxsmkIEU0"
-},{
-   "duration": 282,
-   "edition": "2019",
-   "identifier": "Meeting C++-2019-48",
-   "language": "English",
-   "level": 0,
-   "meeting": "Meeting C++",
-   "number": 824,
-   "speakers": [
-      "lightning talks"
-   ],
-   "tags": [
-      "c++",
-      "lightning",
-      "live"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/Ft3zFk7VPrE/0.jpg",
-   "title": "All the defaults are backwards - Phil Nash",
-   "video": "https://youtube.com/watch?v=Ft3zFk7VPrE"
 },{
    "duration": 2299,
    "edition": "2019",
@@ -4734,7 +4734,7 @@
    "meeting": "Meeting C++",
    "number": 830,
    "speakers": [
-      "lightning talks"
+      "Jean Guegant"
    ],
    "tags": [
       "c++",
@@ -4742,7 +4742,7 @@
       "live"
    ],
    "thumbnail": "http://img.youtube.com/vi/SPN2UiLFyt4/0.jpg",
-   "title": "Associative containers - Jean Guegant",
+   "title": "Associative containers",
    "video": "https://youtube.com/watch?v=SPN2UiLFyt4"
 },{
    "duration": 1499,
@@ -7026,7 +7026,7 @@
    "meeting": "Meeting C++",
    "number": 827,
    "speakers": [
-      "lightning talks"
+      "Antons Jelkins"
    ],
    "tags": [
       "c++",
@@ -7034,7 +7034,7 @@
       "live"
    ],
    "thumbnail": "http://img.youtube.com/vi/-aFzVBHzIcE/0.jpg",
-   "title": "Boost statechart visualisation - Antons Jelkins",
+   "title": "Boost statechart visualisation",
    "video": "https://youtube.com/watch?v=-aFzVBHzIcE"
 },{
    "duration": 4111,
@@ -9117,7 +9117,7 @@
    "meeting": "Meeting C++",
    "number": 819,
    "speakers": [
-      "lightning talks"
+      "David Frank"
    ],
    "tags": [
       "c++",
@@ -9125,7 +9125,7 @@
       "live"
    ],
    "thumbnail": "http://img.youtube.com/vi/5Ub92HSZJNA/0.jpg",
-   "title": "C++ Concepts for ill-posed Inverse-Problems - David Frank",
+   "title": "C++ Concepts for ill-posed Inverse-Problems",
    "video": "https://youtube.com/watch?v=5Ub92HSZJNA"
 },{
    "duration": 5277,
@@ -19319,7 +19319,7 @@
    "meeting": "Meeting C++",
    "number": 831,
    "speakers": [
-      "lightning talks"
+      "Daniel Gavrila"
    ],
    "tags": [
       "c++",
@@ -19327,7 +19327,7 @@
       "live"
    ],
    "thumbnail": "http://img.youtube.com/vi/qMlTSAHgzV0/0.jpg",
-   "title": "Enum to string using metaprogramming - Daniel Gavrila",
+   "title": "Enum to string using metaprogramming",
    "video": "https://youtube.com/watch?v=qMlTSAHgzV0"
 },{
    "duration": 254,
@@ -21879,7 +21879,7 @@
    "meeting": "Meeting C++",
    "number": 821,
    "speakers": [
-      "lightning talks"
+      "Tim van Deurzen"
    ],
    "tags": [
       "c++",
@@ -21887,7 +21887,7 @@
       "live"
    ],
    "thumbnail": "http://img.youtube.com/vi/YC_TMAbHyQU/0.jpg",
-   "title": "Fun with structured bindings - Tim van Deurzen",
+   "title": "Fun with structured bindings",
    "video": "https://youtube.com/watch?v=YC_TMAbHyQU"
 },{
    "duration": 3780,
@@ -23287,7 +23287,7 @@
    "meeting": "Meeting C++",
    "number": 832,
    "speakers": [
-      "lightning talks"
+      "Jacek Sandomierz"
    ],
    "tags": [
       "c++",
@@ -23295,7 +23295,7 @@
       "live"
    ],
    "thumbnail": "http://img.youtube.com/vi/2fxEURTj4kw/0.jpg",
-   "title": "Go forth with C++ - Jacek Sandomierz",
+   "title": "Go forth with C++",
    "video": "https://youtube.com/watch?v=2fxEURTj4kw"
 },{
    "duration": 3115,
@@ -24312,7 +24312,7 @@
    "meeting": "Meeting C++",
    "number": 818,
    "speakers": [
-      "lightning talks"
+      "Boris Schaeling"
    ],
    "tags": [
       "c++",
@@ -24320,7 +24320,7 @@
       "live"
    ],
    "thumbnail": "http://img.youtube.com/vi/pPM7_VrS6Qc/0.jpg",
-   "title": "Hierarchy of C++ needs - Boris Schaling",
+   "title": "Hierarchy of C++ needs",
    "video": "https://youtube.com/watch?v=pPM7_VrS6Qc"
 },{
    "duration": 2534,
@@ -26438,7 +26438,7 @@
    "meeting": "Meeting C++",
    "number": 822,
    "speakers": [
-      "lightning talks"
+      "Simon Renger"
    ],
    "tags": [
       "c++",
@@ -26446,7 +26446,7 @@
       "live"
    ],
    "thumbnail": "http://img.youtube.com/vi/vOq0FsNoyjg/0.jpg",
-   "title": "I have to make a confession - Simon Renger",
+   "title": "I have to make a confession",
    "video": "https://youtube.com/watch?v=vOq0FsNoyjg"
 },{
    "duration": 3237,
@@ -31462,7 +31462,7 @@
    "meeting": "Meeting C++",
    "number": 829,
    "speakers": [
-      "lightning talks"
+      "Matheus Vitti Santos"
    ],
    "tags": [
       "c++",
@@ -31470,7 +31470,7 @@
       "live"
    ],
    "thumbnail": "http://img.youtube.com/vi/TWw5cnyK6PQ/0.jpg",
-   "title": "Low Latency GPGPU - Matheus Vitti Santos",
+   "title": "Low Latency GPGPU",
    "video": "https://youtube.com/watch?v=TWw5cnyK6PQ"
 },{
    "duration": 5238,
@@ -36445,7 +36445,7 @@
    "meeting": "Meeting C++",
    "number": 828,
    "speakers": [
-      "lightning talks"
+      "Niel Waldren"
    ],
    "tags": [
       "c++",
@@ -36453,7 +36453,7 @@
       "live"
    ],
    "thumbnail": "http://img.youtube.com/vi/n-W56XbXHHM/0.jpg",
-   "title": "Overloading - Niel Waldren",
+   "title": "Overloading",
    "video": "https://youtube.com/watch?v=n-W56XbXHHM"
 },{
    "duration": 5785,
@@ -39357,7 +39357,7 @@
    "meeting": "Meeting C++",
    "number": 826,
    "speakers": [
-      "lightning talks"
+      "Andreas Weis"
    ],
    "tags": [
       "c++",
@@ -39365,7 +39365,7 @@
       "live"
    ],
    "thumbnail": "http://img.youtube.com/vi/WDScnjQwEK8/0.jpg",
-   "title": "Random numbers are hard - Andreas Weis",
+   "title": "Random numbers are hard",
    "video": "https://youtube.com/watch?v=WDScnjQwEK8"
 },{
    "duration": 3442,
@@ -47891,7 +47891,7 @@
    "meeting": "Meeting C++",
    "number": 825,
    "speakers": [
-      "lightning talks"
+      "Tina Ulbrich"
    ],
    "tags": [
       "c++",
@@ -47899,7 +47899,7 @@
       "live"
    ],
    "thumbnail": "http://img.youtube.com/vi/McUhgUD7n3A/0.jpg",
-   "title": "The life changing magic of tidying up - Tina Ulbrich",
+   "title": "The life changing magic of tidying up",
    "video": "https://youtube.com/watch?v=McUhgUD7n3A"
 },{
    "duration": 2648,
@@ -50467,7 +50467,8 @@
    "tags": [
       "c++",
       "live",
-      "talk"
+      "talk",
+      "units"
    ],
    "thumbnail": "http://img.youtube.com/vi/VN0VNoykxtk/0.jpg",
    "title": "Time Travel: Applying Gradual Typing to Time Types with Clang's LibTooling",
@@ -51314,7 +51315,7 @@
    "meeting": "Meeting C++",
    "number": 820,
    "speakers": [
-      "lightning talks"
+      "Matthis Kruse"
    ],
    "tags": [
       "c++",
@@ -51322,7 +51323,7 @@
       "live"
    ],
    "thumbnail": "http://img.youtube.com/vi/wbvQrNpYqII/0.jpg",
-   "title": "Typing types at type level - Matthis Kruse",
+   "title": "Typing types at type level",
    "video": "https://youtube.com/watch?v=wbvQrNpYqII"
 },{
    "duration": 1808,
@@ -54808,7 +54809,9 @@
    ],
    "tags": [
       "c++",
+      "naming",
       "online",
+      "quality",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/OQgFEkgKx2s/0.jpg",
@@ -55193,7 +55196,7 @@
    "meeting": "Meeting C++",
    "number": 823,
    "speakers": [
-      "lightning talks"
+      "Jon Kalb"
    ],
    "tags": [
       "c++",
@@ -55201,7 +55204,7 @@
       "live"
    ],
    "thumbnail": "http://img.youtube.com/vi/x1xkb7Cfo6w/0.jpg",
-   "title": "Why don't the cool kids like OOP? - Jon Kalb",
+   "title": "Why don't the cool kids like OOP?",
    "video": "https://youtube.com/watch?v=x1xkb7Cfo6w"
 },{
    "duration": 1175,

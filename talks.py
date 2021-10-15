@@ -1272,6 +1272,7 @@ def split_speakers_and_title( meeting, edition, s, splitter ):
       "Meeting C++ 2018",
       "Meeting C++ 2019",
       "Lightning Talks",
+      "lightning talks",
       "Meeting C++ 2020",
       "Meeting Embedded 2018",
       "- Meeting Embedded 2020",
@@ -1494,7 +1495,7 @@ def add_talk(
       if not t in tags: 
          tags.append( t )
          
-   for t in additional_tags.get( id, "" ).split():
+   for t in additional_tags.get( youtube_id, "" ).split():
       if not t in tags: 
          tags.append( t )   
       
@@ -1970,8 +1971,15 @@ function url_with_parameters(){
 //
 // ==========================================================================
 
-function max_entry( a ){
-   return a.reduce((iMax, x, i, arr) => x > arr[iMax] ? i : iMax, 0)
+function index_of_max_entry( a ){
+   m = -1
+   for( key in a ){
+      if( a[ key ] > m ){
+         m = a[ key ]
+         k = key
+      }  
+   }
+   return k   
 }   
 
 function rewrite(){
@@ -1981,7 +1989,7 @@ function rewrite(){
    t += "<TABLE><TR><TD>"
    t += "<IMG SRC=C++.png height=177 width=162>"
    t += "</TD><TD>&nbsp;</TD><TD>"
-   t += "<H1>CTL: C++ (and embedded, Rust, ...) Talks List</H1>"
+   t += "<H1>CTL: C++ (and Rust, embedded, ...) Talks List</H1>"
    t += "Last updated " + date_and_time + ".<BR/>"
    t += "Compiled by Wouter van Ooijen (wouter@voti.nl).<BR>"
    t += "Raw data available from <A HREF=https://www.github.com/wovo/ctl>"
@@ -2025,29 +2033,36 @@ function rewrite(){
    var t2 = ""
    var d = 0
    var speaker_count = []
-   var speaker_minutes []
-   for s in speakers:
+   var speaker_minutes = []
+   for( s of speakers ){
       speaker_count[ s ] = 0;
       speaker_minutes[ s ] = 0
+   }   
    for( const talk of talks ) { 
       if( include_talk( talk )) {
          n += 1
          t2 += talk_html( talk )
          d += talk.duration
-         count = if talk.speaker
-         speaker_count[ talk.speaker ] += 1
-         speaker_minutes[ talk.speaker ] += talk.duration
+         num_sp = talk.speakers.length
+         for( speaker of talk.speakers ){
+            speaker_count[ speaker ] += ( 1 / num_sp )
+            speaker_minutes[ speaker ] += ( talk.duration / num_sp )
+         }
       }   
    }
    t += n.toString() + " entries ("
    t += format_duration( d ) + ") "
    t += '<A HREF="' + url_with_parameters()
    t += '">url for this selection' + "</A>"
-   t += " top speakers "
-   n = max_entry( speaker_count )
-   t += speakers( n ) + " (" + toString( speaker_count[ n ] ) + " talks), "
-   n = max_entry( speaker_minutes )
-   t += speakers( n ) + " (" + format_duration( speaker_minutes[ n ] ) + "); "
+   if( n > 0 ){
+      t += " most talks: "
+      name = index_of_max_entry( speaker_count )
+      t += name + " (" 
+      t += Math.round( speaker_count[ name ] ).toString() + ") "
+      name = index_of_max_entry( speaker_minutes )
+      t += "longest total speaking time: " +  name + " (" 
+      t += format_duration( Math.round( speaker_minutes[ name ]) ) + ") "
+   }   
    t += "<BR>" + t2
   
    t += "</BODY></HTML>"
@@ -2243,7 +2258,7 @@ date_and_time = "<date-and-time>"
 
 </SCRIPT>\n</BODY>
    
-""",
+"""
 
 additional_tags = {
    "OQgFEkgKx2s" : "naming quality",

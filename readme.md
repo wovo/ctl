@@ -1,6 +1,6 @@
 # CTL : the C++ Talks List 
 
-Front end: https://wovo.github.io/ctl/
+Web front end: https://wovo.github.io/ctl/
 
 Wouter van Ooijen (wouter@voti.nl)
 
