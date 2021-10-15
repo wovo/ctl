@@ -38,7 +38,7 @@ Conferences I included so far are:
 - CppCon 2014-2020
 - Going Native 2012-2013
 - GOTO Amsterdam,Berlin,Copenhagen,Chicago,pia 2018-2020
-- Italian C++ Conference 2020-2021
+- ItCppCon (Italian C++ Conference) 2020-2021
 - Live Embedded Event 2020-2021
 - Meeting C++ 2014-2020
 - Meeting Embedded 2018-2020

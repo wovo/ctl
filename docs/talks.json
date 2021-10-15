@@ -627,6 +627,7 @@
    "tags": [
       "Rust",
       "live",
+      "rust",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/WeoND15c-RE/0.jpg",
@@ -729,10 +730,10 @@
 },{
    "duration": 3697,
    "edition": "2021",
-   "identifier": "Italian C++ Conference-2021-8",
+   "identifier": "ItCppCon-2021-8",
    "language": "English",
    "level": 0,
-   "meeting": "Italian C++ Conference",
+   "meeting": "ItCppCon",
    "number": 2051,
    "speakers": [
       "Kris van Rens"
@@ -1262,7 +1263,6 @@
       "Guy Davidson"
    ],
    "tags": [
-      "c++",
       "online",
       "talk"
    ],
@@ -1630,10 +1630,10 @@
 },{
    "duration": 1790,
    "edition": "2020",
-   "identifier": "Italian C++ Conference-2020-14",
+   "identifier": "ItCppCon-2020-14",
    "language": "English",
    "level": 0,
-   "meeting": "Italian C++ Conference",
+   "meeting": "ItCppCon",
    "number": 2044,
    "speakers": [
       "Arno Schoedl"
@@ -2905,10 +2905,10 @@
 },{
    "duration": 3534,
    "edition": "2021",
-   "identifier": "Italian C++ Conference-2021-7",
+   "identifier": "ItCppCon-2021-7",
    "language": "English",
    "level": 0,
-   "meeting": "Italian C++ Conference",
+   "meeting": "ItCppCon",
    "number": 2050,
    "speakers": [
       "Eric Tondelli",
@@ -3348,6 +3348,7 @@
    "tags": [
       "Rust",
       "live",
+      "rust",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/fCFPl2LrzJc/0.jpg",
@@ -3496,7 +3497,6 @@
       "Vicente J. Botet Escriba"
    ],
    "tags": [
-      "c++",
       "live",
       "talk"
    ],
@@ -3943,6 +3943,7 @@
    "tags": [
       "Rust",
       "online",
+      "rust",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/vLYit_HHPaY/0.jpg",
@@ -4032,7 +4033,8 @@
    "tags": [
       "Rust",
       "keynote",
-      "online"
+      "online",
+      "rust"
    ],
    "thumbnail": "http://img.youtube.com/vi/6i9sonn9s1w/0.jpg",
    "title": "An Update on Sealed Rust",
@@ -4405,6 +4407,7 @@
    "tags": [
       "Rust",
       "online",
+      "rust",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/1tiBw6izFNk/0.jpg",
@@ -4651,6 +4654,24 @@
    "thumbnail": "http://img.youtube.com/vi/Na012w9N36M/0.jpg",
    "title": "Artificial Intelligence Reloaded - AI Apps in the Industry",
    "video": "https://youtube.com/watch?v=Na012w9N36M"
+},{
+   "duration": 5164,
+   "edition": "2016",
+   "identifier": "code::dive-2016-38",
+   "language": "English",
+   "level": 0,
+   "meeting": "code::dive",
+   "number": 1627,
+   "speakers": [
+      "Chandler Carruth"
+   ],
+   "tags": [
+      "live",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/430o2HMODj4/0.jpg",
+   "title": "Ask Me Anything",
+   "video": "https://youtube.com/watch?v=430o2HMODj4"
 },{
    "duration": 2985,
    "edition": "2012",
@@ -5984,10 +6005,10 @@
 },{
    "duration": 2226,
    "edition": "2021",
-   "identifier": "Italian C++ Conference-2021-13",
+   "identifier": "ItCppCon-2021-13",
    "language": "English",
    "level": 0,
-   "meeting": "Italian C++ Conference",
+   "meeting": "ItCppCon",
    "number": 2056,
    "speakers": [
       "Roland Grinis"
@@ -7895,6 +7916,7 @@
    "tags": [
       "Rust",
       "online",
+      "rust",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/kylqq8pEgRs/0.jpg",
@@ -8503,6 +8525,7 @@
    ],
    "tags": [
       "live",
+      "rust",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/ddXi_10JmPU/0.jpg",
@@ -9373,10 +9396,10 @@
 },{
    "duration": 2708,
    "edition": "2020",
-   "identifier": "Italian C++ Conference-2020-11",
+   "identifier": "ItCppCon-2020-11",
    "language": "English",
    "level": 0,
-   "meeting": "Italian C++ Conference",
+   "meeting": "ItCppCon",
    "number": 2041,
    "speakers": [
       "Julia Reid"
@@ -10917,7 +10940,6 @@
       "Nicolai Josuttis"
    ],
    "tags": [
-      "c++",
       "live",
       "talk"
    ],
@@ -10955,7 +10977,6 @@
       "Slawomir Zborowski"
    ],
    "tags": [
-      "c++",
       "live",
       "talk"
    ],
@@ -10974,7 +10995,6 @@
       "Nicolai Josuttis"
    ],
    "tags": [
-      "c++",
       "online",
       "talk"
    ],
@@ -11107,7 +11127,6 @@
       "Michael Wong"
    ],
    "tags": [
-      "c++",
       "live",
       "talk"
    ],
@@ -11183,7 +11202,6 @@
       "Milosz Warzecha"
    ],
    "tags": [
-      "c++",
       "live",
       "talk"
    ],
@@ -11202,7 +11220,6 @@
       "Adi Shavit"
    ],
    "tags": [
-      "c++",
       "live",
       "talk"
    ],
@@ -11221,7 +11238,6 @@
       "Marcin Grzebieluch"
    ],
    "tags": [
-      "c++",
       "live",
       "talk"
    ],
@@ -11240,7 +11256,6 @@
       "Dawid Pilarski"
    ],
    "tags": [
-      "c++",
       "live",
       "talk"
    ],
@@ -11383,10 +11398,10 @@
 },{
    "duration": 2682,
    "edition": "2020",
-   "identifier": "Italian C++ Conference-2020-2",
+   "identifier": "ItCppCon-2020-2",
    "language": "English",
    "level": 0,
-   "meeting": "Italian C++ Conference",
+   "meeting": "ItCppCon",
    "number": 2032,
    "speakers": [
       "Alberto Barbati"
@@ -11678,7 +11693,6 @@
       "Gynvael Coldwind"
    ],
    "tags": [
-      "c++",
       "live",
       "talk"
    ],
@@ -12004,22 +12018,6 @@
    "title": "CERN, from an IT Perspective",
    "video": "https://youtube.com/watch?v=Rp4_anPWkSg"
 },{
-   "duration": 5164,
-   "edition": "2016",
-   "identifier": "code::dive-2016-38",
-   "language": "English",
-   "level": 0,
-   "meeting": "code::dive",
-   "number": 1627,
-   "speakers": [],
-   "tags": [
-      "live",
-      "panel"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/430o2HMODj4/0.jpg",
-   "title": "Chandler Carruth - -style extended Q&A / AmA",
-   "video": "https://youtube.com/watch?v=430o2HMODj4"
-},{
    "duration": 3696,
    "edition": "2018",
    "identifier": "code::dive-2018-60",
@@ -12274,6 +12272,7 @@
    "tags": [
       "Rust",
       "online",
+      "rust",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/8rlai-F-_1o/0.jpg",
@@ -12291,7 +12290,6 @@
       "Timur Doumler"
    ],
    "tags": [
-      "c++",
       "live",
       "talk"
    ],
@@ -12430,10 +12428,10 @@
 },{
    "duration": 756,
    "edition": "2020",
-   "identifier": "Italian C++ Conference-2020-10",
+   "identifier": "ItCppCon-2020-10",
    "language": "English",
    "level": 0,
-   "meeting": "Italian C++ Conference",
+   "meeting": "ItCppCon",
    "number": 2040,
    "speakers": [
       "Alessandro Vergani",
@@ -12450,10 +12448,10 @@
 },{
    "duration": 430,
    "edition": "2021",
-   "identifier": "Italian C++ Conference-2021-15",
+   "identifier": "ItCppCon-2021-15",
    "language": "English",
    "level": 0,
-   "meeting": "Italian C++ Conference",
+   "meeting": "ItCppCon",
    "number": 2058,
    "speakers": [
       "Marco Arena"
@@ -12480,6 +12478,7 @@
    "tags": [
       "c++",
       "online",
+      "rust",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/_pQGRr4P16w/0.jpg",
@@ -12879,10 +12878,10 @@
 },{
    "duration": 1790,
    "edition": "2020",
-   "identifier": "Italian C++ Conference-2020-5",
+   "identifier": "ItCppCon-2020-5",
    "language": "English",
    "level": 0,
-   "meeting": "Italian C++ Conference",
+   "meeting": "ItCppCon",
    "number": 2035,
    "speakers": [],
    "tags": [
@@ -13618,7 +13617,6 @@
    "number": 2258,
    "speakers": [],
    "tags": [
-      "c++",
       "embedded",
       "online",
       "talk"
@@ -13819,10 +13817,10 @@
 },{
    "duration": 3751,
    "edition": "2021",
-   "identifier": "Italian C++ Conference-2021-11",
+   "identifier": "ItCppCon-2021-11",
    "language": "English",
    "level": 0,
-   "meeting": "Italian C++ Conference",
+   "meeting": "ItCppCon",
    "number": 2054,
    "speakers": [
       "Roi Barkan"
@@ -13923,6 +13921,7 @@
    ],
    "tags": [
       "live",
+      "rust",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/SiUBdUE7xnA/0.jpg",
@@ -14148,6 +14147,7 @@
    "tags": [
       "Rust",
       "online",
+      "rust",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/PEoPrMkg8W4/0.jpg",
@@ -14468,7 +14468,6 @@
       "Diego Rodriguez-Losada"
    ],
    "tags": [
-      "c++",
       "embedded",
       "live",
       "talk"
@@ -14583,7 +14582,6 @@
       "J. Daniel Garcia"
    ],
    "tags": [
-      "c++",
       "live",
       "talk"
    ],
@@ -14623,6 +14621,7 @@
    "tags": [
       "Rust",
       "online",
+      "rust",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/xlVnp7VOxRE/0.jpg",
@@ -15491,10 +15490,10 @@
 },{
    "duration": 3200,
    "edition": "2020",
-   "identifier": "Italian C++ Conference-2020-6",
+   "identifier": "ItCppCon-2020-6",
    "language": "English",
    "level": 0,
-   "meeting": "Italian C++ Conference",
+   "meeting": "ItCppCon",
    "number": 2036,
    "speakers": [
       "Jens Weller"
@@ -17239,6 +17238,7 @@
    "tags": [
       "embedded",
       "online",
+      "rust",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/Ur52kNlIm4c/0.jpg",
@@ -18688,7 +18688,6 @@
       "Niall Douglas"
    ],
    "tags": [
-      "c++",
       "live",
       "talk"
    ],
@@ -18853,6 +18852,7 @@
    "tags": [
       "embedded",
       "live",
+      "rust",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/YSUz3xQxCvc/0.jpg",
@@ -19117,7 +19117,8 @@
    "tags": [
       "c++",
       "lightning",
-      "live"
+      "live",
+      "rust"
    ],
    "thumbnail": "http://img.youtube.com/vi/Lj1GppqNr8c/0.jpg",
    "title": "Emulating Rust's borrow checker in C++",
@@ -20206,7 +20207,6 @@
       "Mark Isaacson"
    ],
    "tags": [
-      "c++",
       "live",
       "talk"
    ],
@@ -20225,6 +20225,7 @@
    "tags": [
       "Rust",
       "online",
+      "rust",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/G5A7rSPYpb8/0.jpg",
@@ -20422,10 +20423,10 @@
 },{
    "duration": 1708,
    "edition": "2021",
-   "identifier": "Italian C++ Conference-2021-14",
+   "identifier": "ItCppCon-2021-14",
    "language": "English",
    "level": 0,
-   "meeting": "Italian C++ Conference",
+   "meeting": "ItCppCon",
    "number": 2057,
    "speakers": [
       "Walter E. Brown"
@@ -21418,6 +21419,7 @@
    "tags": [
       "Rust",
       "online",
+      "rust",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/lLzFJenzBng/0.jpg",
@@ -21787,7 +21789,8 @@
    "tags": [
       "Rust",
       "lightning",
-      "online"
+      "online",
+      "rust"
    ],
    "thumbnail": "http://img.youtube.com/vi/jUvLk_U6ymk/0.jpg",
    "title": "Full use of Rust on edge and cloud: AI and IoT use cases",
@@ -23937,6 +23940,7 @@
    ],
    "tags": [
       "live",
+      "rust",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/3ftgMBXub5w/0.jpg",
@@ -24587,10 +24591,10 @@
 },{
    "duration": 3509,
    "edition": "2021",
-   "identifier": "Italian C++ Conference-2021-12",
+   "identifier": "ItCppCon-2021-12",
    "language": "English",
    "level": 0,
-   "meeting": "Italian C++ Conference",
+   "meeting": "ItCppCon",
    "number": 2055,
    "speakers": [
       "Marcos Rojas"
@@ -24801,7 +24805,6 @@
       "Alisdair Meredith"
    ],
    "tags": [
-      "c++",
       "live",
       "talk"
    ],
@@ -24949,6 +24952,7 @@
    "tags": [
       "Rust",
       "online",
+      "rust",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/V4u-h2N4-Bs/0.jpg",
@@ -25077,7 +25081,8 @@
    "tags": [
       "Rust",
       "lightning",
-      "online"
+      "online",
+      "rust"
    ],
    "thumbnail": "http://img.youtube.com/vi/b0I4vP2CP88/0.jpg",
    "title": "How I Used Rust to Become Extremely Offline",
@@ -25844,10 +25849,10 @@
 },{
    "duration": 3420,
    "edition": "2021",
-   "identifier": "Italian C++ Conference-2021-9",
+   "identifier": "ItCppCon-2021-9",
    "language": "English",
    "level": 0,
-   "meeting": "Italian C++ Conference",
+   "meeting": "ItCppCon",
    "number": 2052,
    "speakers": [
       "Sandor Dargo"
@@ -27438,10 +27443,10 @@
 },{
    "duration": 3560,
    "edition": "2021",
-   "identifier": "Italian C++ Conference-2021-4",
+   "identifier": "ItCppCon-2021-4",
    "language": "English",
    "level": 0,
-   "meeting": "Italian C++ Conference",
+   "meeting": "ItCppCon",
    "number": 2048,
    "speakers": [
       "Yuri Minaev"
@@ -27774,6 +27779,25 @@
    "title": "Interoperable AI: ONNX & ONNXRuntime in C++",
    "video": "https://youtube.com/watch?v=exsgNLf-MyY"
 },{
+   "duration": 332,
+   "edition": "2019",
+   "identifier": "Core C++-2019-27",
+   "language": "English",
+   "level": 0,
+   "meeting": "Core C++",
+   "number": 2155,
+   "speakers": [
+      "Rafi Wiener"
+   ],
+   "tags": [
+      "c++",
+      "lightning",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/jQbbPM9fsAQ/0.jpg",
+   "title": "Interview Question",
+   "video": "https://youtube.com/watch?v=jQbbPM9fsAQ"
+},{
    "duration": 235,
    "edition": "2020",
    "identifier": "C++ Europe-2020-14",
@@ -27944,23 +27968,6 @@
    "title": "interview with Peter Hilton",
    "video": "https://youtube.com/watch?v=jOkoNCcPbXI"
 },{
-   "duration": 332,
-   "edition": "2019",
-   "identifier": "Core C++-2019-27",
-   "language": "English",
-   "level": 0,
-   "meeting": "Core C++",
-   "number": 2155,
-   "speakers": [],
-   "tags": [
-      "c++",
-      "interview",
-      "live"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/jQbbPM9fsAQ/0.jpg",
-   "title": "interview with Rafi Wiener ::  Question",
-   "video": "https://youtube.com/watch?v=jQbbPM9fsAQ"
-},{
    "duration": 671,
    "edition": "2015",
    "identifier": "Meeting C++-2015-1",
@@ -27977,23 +27984,6 @@
    "thumbnail": "http://img.youtube.com/vi/NA_L6KXWX88/0.jpg",
    "title": "interview with speakers",
    "video": "https://youtube.com/watch?v=NA_L6KXWX88"
-},{
-   "duration": 3016,
-   "edition": "2020",
-   "identifier": "Italian C++ Conference-2020-7",
-   "language": "English",
-   "level": 0,
-   "meeting": "Italian C++ Conference",
-   "number": 2037,
-   "speakers": [],
-   "tags": [
-      "c++",
-      "interview",
-      "online"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/vKfXw5VdbB8/0.jpg",
-   "title": "interview with The Silicon Valley coding  (Nicolo Valigi)",
-   "video": "https://youtube.com/watch?v=vKfXw5VdbB8"
 },{
    "duration": 1561,
    "edition": "2020",
@@ -28061,6 +28051,7 @@
    ],
    "tags": [
       "live",
+      "rust",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/S53cBvNkPeQ/0.jpg",
@@ -28933,6 +28924,7 @@
    "tags": [
       "c++",
       "online",
+      "rust",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/d3qY4dZ2r4w/0.jpg",
@@ -30014,6 +30006,7 @@
    "tags": [
       "Rust",
       "online",
+      "rust",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/8-ole_0rqLM/0.jpg",
@@ -30128,6 +30121,7 @@
    "tags": [
       "Rust",
       "online",
+      "rust",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/xjBZwJHUwSU/0.jpg",
@@ -30714,10 +30708,10 @@
 },{
    "duration": 3230,
    "edition": "2020",
-   "identifier": "Italian C++ Conference-2020-9",
+   "identifier": "ItCppCon-2020-9",
    "language": "English",
    "level": 0,
-   "meeting": "Italian C++ Conference",
+   "meeting": "ItCppCon",
    "number": 2039,
    "speakers": [
       "Walter E. Brown"
@@ -31040,7 +31034,6 @@
       "Petr Kudriavtsev"
    ],
    "tags": [
-      "c++",
       "lightning",
       "live"
    ],
@@ -31538,10 +31531,10 @@
 },{
    "duration": 1191,
    "edition": "2020",
-   "identifier": "Italian C++ Conference-2020-13",
+   "identifier": "ItCppCon-2020-13",
    "language": "English",
    "level": 0,
-   "meeting": "Italian C++ Conference",
+   "meeting": "ItCppCon",
    "number": 2043,
    "speakers": [
       "Franco Diaspro"
@@ -31732,6 +31725,7 @@
    "tags": [
       "Rust",
       "online",
+      "rust",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/dZiWkbnaQe8/0.jpg",
@@ -32688,7 +32682,6 @@
       "Louis Dionne"
    ],
    "tags": [
-      "c++",
       "live",
       "talk"
    ],
@@ -34054,6 +34047,7 @@
    ],
    "tags": [
       "live",
+      "rust",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/BmjqAhRtvHI/0.jpg",
@@ -34073,6 +34067,7 @@
    "tags": [
       "Rust",
       "online",
+      "rust",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/PXaSUiGgyEw/0.jpg",
@@ -34174,10 +34169,10 @@
 },{
    "duration": 3310,
    "edition": "2020",
-   "identifier": "Italian C++ Conference-2020-4",
+   "identifier": "ItCppCon-2020-4",
    "language": "English",
    "level": 0,
-   "meeting": "Italian C++ Conference",
+   "meeting": "ItCppCon",
    "number": 2034,
    "speakers": [
       "Ivan Cukic"
@@ -34638,6 +34633,7 @@
    "tags": [
       "Rust",
       "online",
+      "rust",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/GFi_EdS_s_c/0.jpg",
@@ -34665,10 +34661,10 @@
 },{
    "duration": 3446,
    "edition": "2020",
-   "identifier": "Italian C++ Conference-2020-8",
+   "identifier": "ItCppCon-2020-8",
    "language": "English",
    "level": 0,
-   "meeting": "Italian C++ Conference",
+   "meeting": "ItCppCon",
    "number": 2038,
    "speakers": [
       "Conor Hoekstra"
@@ -35091,6 +35087,7 @@
    ],
    "tags": [
       "live",
+      "rust",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/ukVqQGbxM9A/0.jpg",
@@ -35143,7 +35140,6 @@
       "Piotr Osiewicz"
    ],
    "tags": [
-      "c++",
       "live",
       "talk"
    ],
@@ -37005,6 +37001,7 @@
    "tags": [
       "Rust",
       "online",
+      "rust",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/rYp0bUmcbMs/0.jpg",
@@ -37220,10 +37217,10 @@
 },{
    "duration": 2834,
    "edition": "2021",
-   "identifier": "Italian C++ Conference-2021-10",
+   "identifier": "ItCppCon-2021-10",
    "language": "English",
    "level": 0,
-   "meeting": "Italian C++ Conference",
+   "meeting": "ItCppCon",
    "number": 2053,
    "speakers": [
       "Marek Krajewski"
@@ -37550,6 +37547,7 @@
    "tags": [
       "Rust",
       "live",
+      "rust",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/s3Iga7FTnyA/0.jpg",
@@ -38309,7 +38307,6 @@
       "Vicente J. Botet Escriba"
    ],
    "tags": [
-      "c++",
       "live",
       "talk"
    ],
@@ -38497,7 +38494,6 @@
       "Bjorn Fahller"
    ],
    "tags": [
-      "c++",
       "live",
       "talk"
    ],
@@ -38516,7 +38512,6 @@
       "Bjorn Fahller"
    ],
    "tags": [
-      "c++",
       "online",
       "talk"
    ],
@@ -38631,6 +38626,7 @@
    "tags": [
       "Rust",
       "online",
+      "rust",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/qoCryIy4bFE/0.jpg",
@@ -39218,6 +39214,7 @@
    "tags": [
       "Rust",
       "live",
+      "rust",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/o01QmYVluSw/0.jpg",
@@ -40157,10 +40154,10 @@
 },{
    "duration": 3514,
    "edition": "2021",
-   "identifier": "Italian C++ Conference-2021-5",
+   "identifier": "ItCppCon-2021-5",
    "language": "English",
    "level": 0,
-   "meeting": "Italian C++ Conference",
+   "meeting": "ItCppCon",
    "number": 2049,
    "speakers": [
       "Clare Macrae"
@@ -40392,6 +40389,7 @@
    "tags": [
       "Rust",
       "online",
+      "rust",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/Tr9CiKg-z4c/0.jpg",
@@ -40783,6 +40781,7 @@
    "tags": [
       "Rust",
       "online",
+      "rust",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/RSrZzrLAO8A/0.jpg",
@@ -41041,6 +41040,7 @@
    ],
    "tags": [
       "live",
+      "rust",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/sCSfyQYDImM/0.jpg",
@@ -41061,7 +41061,8 @@
    "tags": [
       "Rust",
       "lightning",
-      "online"
+      "online",
+      "rust"
    ],
    "thumbnail": "http://img.youtube.com/vi/YJMxLIwEl6c/0.jpg",
    "title": "Rust as foundation in a polyglot development environment",
@@ -41079,6 +41080,7 @@
    ],
    "tags": [
       "live",
+      "rust",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/j0SIcN-Y-LA/0.jpg",
@@ -41098,7 +41100,8 @@
    "tags": [
       "Rust",
       "keynote",
-      "online"
+      "online",
+      "rust"
    ],
    "thumbnail": "http://img.youtube.com/vi/KFpU30xluxo/0.jpg",
    "title": "Rust beyond Rust",
@@ -41117,6 +41120,7 @@
    "tags": [
       "Rust",
       "online",
+      "rust",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/9tHTCNr5H8s/0.jpg",
@@ -41136,6 +41140,7 @@
    "tags": [
       "Rust",
       "online",
+      "rust",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/pR43XBBzvSc/0.jpg",
@@ -41155,6 +41160,7 @@
    "tags": [
       "Rust",
       "online",
+      "rust",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/BBvcK_nXUEg/0.jpg",
@@ -41174,7 +41180,8 @@
    "tags": [
       "Rust",
       "lightning",
-      "online"
+      "online",
+      "rust"
    ],
    "thumbnail": "http://img.youtube.com/vi/MPXGHc93bkY/0.jpg",
    "title": "Rust for Safer Protocol Development",
@@ -41193,6 +41200,7 @@
    "tags": [
       "Rust",
       "online",
+      "rust",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/AZsgdCEQjFo/0.jpg",
@@ -41213,7 +41221,8 @@
    "tags": [
       "Rust",
       "lightning",
-      "live"
+      "live",
+      "rust"
    ],
    "thumbnail": "http://img.youtube.com/vi/j_ha1-1w6sw/0.jpg",
    "title": "Rust in China",
@@ -41230,7 +41239,8 @@
    "tags": [
       "Rust",
       "online",
-      "panel"
+      "panel",
+      "rust"
    ],
    "thumbnail": "http://img.youtube.com/vi/g7VVM_t72NE/0.jpg",
    "title": "Rust in Safety Critical Systems",
@@ -41249,6 +41259,7 @@
    "tags": [
       "c++",
       "live",
+      "rust",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/lO1z-7cuRYI/0.jpg",
@@ -41268,6 +41279,7 @@
    "tags": [
       "Rust",
       "online",
+      "rust",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/GtcZ0ZOcO5w/0.jpg",
@@ -43322,7 +43334,6 @@
       "Paul Williams"
    ],
    "tags": [
-      "c++",
       "lightning",
       "online"
    ],
@@ -44346,7 +44357,6 @@
       "Scott Meyers"
    ],
    "tags": [
-      "c++",
       "live",
       "talk"
    ],
@@ -44871,7 +44881,8 @@
    "tags": [
       "Rust",
       "lightning",
-      "online"
+      "online",
+      "rust"
    ],
    "thumbnail": "http://img.youtube.com/vi/EWldB-KXLeY/0.jpg",
    "title": "Talk Intro by Andre Bogus (llogiq) the Rust Bard",
@@ -45756,6 +45767,7 @@
    "tags": [
       "Rust",
       "online",
+      "rust",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/oMskswu1SxM/0.jpg",
@@ -46271,10 +46283,10 @@
 },{
    "duration": 2514,
    "edition": "2020",
-   "identifier": "Italian C++ Conference-2020-3",
+   "identifier": "ItCppCon-2020-3",
    "language": "English",
    "level": 0,
-   "meeting": "Italian C++ Conference",
+   "meeting": "ItCppCon",
    "number": 2033,
    "speakers": [
       "Fabio Fracassi"
@@ -47696,7 +47708,8 @@
    "tags": [
       "Rust",
       "lightning",
-      "online"
+      "online",
+      "rust"
    ],
    "thumbnail": "http://img.youtube.com/vi/CV5CjUlcqsw/0.jpg",
    "title": "The Importance of Not Over-Optimizing in Rust",
@@ -48738,10 +48751,10 @@
 },{
    "duration": 3593,
    "edition": "2021",
-   "identifier": "Italian C++ Conference-2021-3",
+   "identifier": "ItCppCon-2021-3",
    "language": "English",
    "level": 0,
-   "meeting": "Italian C++ Conference",
+   "meeting": "ItCppCon",
    "number": 2047,
    "speakers": [
       "Victor Ciura"
@@ -48898,6 +48911,7 @@
    "tags": [
       "Rust",
       "online",
+      "rust",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/AN9FoZgLcFg/0.jpg",
@@ -49033,6 +49047,25 @@
    "thumbnail": "http://img.youtube.com/vi/wHu6TGela6A/0.jpg",
    "title": "The Shapes of Multi-Dimensional Arrays",
    "video": "https://youtube.com/watch?v=wHu6TGela6A"
+},{
+   "duration": 3016,
+   "edition": "2020",
+   "identifier": "ItCppCon-2020-7",
+   "language": "English",
+   "level": 0,
+   "meeting": "ItCppCon",
+   "number": 2037,
+   "speakers": [
+      "Nicolo Valigi"
+   ],
+   "tags": [
+      "c++",
+      "online",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/vKfXw5VdbB8/0.jpg",
+   "title": "The Silicon Valley coding interview",
+   "video": "https://youtube.com/watch?v=vKfXw5VdbB8"
 },{
    "duration": 248,
    "edition": "2017",
@@ -49310,6 +49343,7 @@
       "Rust",
       "c++",
       "online",
+      "rust",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/YZomx3Jt4Xs/0.jpg",
@@ -49778,6 +49812,7 @@
    "tags": [
       "Rust",
       "online",
+      "rust",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/m_zGSFyINhY/0.jpg",
@@ -50074,6 +50109,7 @@
    "tags": [
       "Rust",
       "online",
+      "rust",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/OZPXhmy-wVw/0.jpg",
@@ -50277,6 +50313,7 @@
    ],
    "tags": [
       "live",
+      "rust",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/S6vIekisOJA/0.jpg",
@@ -51564,6 +51601,7 @@
    "tags": [
       "Rust",
       "online",
+      "rust",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/2b8InauuRqw/0.jpg",
@@ -52204,6 +52242,7 @@
    "tags": [
       "Rust",
       "online",
+      "rust",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/v376Ds9_ITs/0.jpg",
@@ -52318,6 +52357,7 @@
    "tags": [
       "Rust",
       "online",
+      "rust",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/DUVE86yTfKU/0.jpg",
@@ -52391,7 +52431,6 @@
       "Peter Sommerlad"
    ],
    "tags": [
-      "c++",
       "live",
       "talk"
    ],
@@ -53222,6 +53261,25 @@
    "title": "War is Peace, Freedom is Slavery, Ignorance is Strength, Scrum is Agile",
    "video": "https://youtube.com/watch?v=F42A3R28WMU"
 },{
+   "duration": 6644,
+   "edition": "2021",
+   "identifier": "ItCppCon-2021-1",
+   "language": "English",
+   "level": 0,
+   "meeting": "ItCppCon",
+   "number": 2045,
+   "speakers": [
+      "Sean Parent"
+   ],
+   "tags": [
+      "c++",
+      "keynote",
+      "online"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/NO5wHzI_oug/0.jpg",
+   "title": "WARNING: std::find is broken",
+   "video": "https://youtube.com/watch?v=NO5wHzI_oug"
+},{
    "duration": 3511,
    "edition": "2017",
    "identifier": "CppCon-2017-98",
@@ -53357,10 +53415,10 @@
 },{
    "duration": 3673,
    "edition": "2021",
-   "identifier": "Italian C++ Conference-2021-2",
+   "identifier": "ItCppCon-2021-2",
    "language": "English",
    "level": 0,
-   "meeting": "Italian C++ Conference",
+   "meeting": "ItCppCon",
    "number": 2046,
    "speakers": [
       "Paolo Severini"
@@ -53410,31 +53468,12 @@
    "title": "WebThings : Your IoT with privacy by design",
    "video": "https://youtube.com/watch?v=sa3OXyIibYs"
 },{
-   "duration": 6644,
-   "edition": "2021",
-   "identifier": "Italian C++ Conference-2021-1",
-   "language": "English",
-   "level": 0,
-   "meeting": "Italian C++ Conference",
-   "number": 2045,
-   "speakers": [
-      "Sean Parent"
-   ],
-   "tags": [
-      "c++",
-      "keynote",
-      "online"
-   ],
-   "thumbnail": "http://img.youtube.com/vi/NO5wHzI_oug/0.jpg",
-   "title": "Welcome (Marco Arena) +  'WARNING: std::find is broken'",
-   "video": "https://youtube.com/watch?v=NO5wHzI_oug"
-},{
    "duration": 7580,
    "edition": "2020",
-   "identifier": "Italian C++ Conference-2020-1",
+   "identifier": "ItCppCon-2020-1",
    "language": "English",
    "level": 0,
-   "meeting": "Italian C++ Conference",
+   "meeting": "ItCppCon",
    "number": 2031,
    "speakers": [
       "Nicolai Josuttis"
@@ -54972,6 +55011,7 @@
    "tags": [
       "Rust",
       "online",
+      "rust",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/m-Qg3OoPIdc/0.jpg",
@@ -55924,10 +55964,10 @@
 },{
    "duration": 1599,
    "edition": "2020",
-   "identifier": "Italian C++ Conference-2020-12",
+   "identifier": "ItCppCon-2020-12",
    "language": "English",
    "level": 0,
-   "meeting": "Italian C++ Conference",
+   "meeting": "ItCppCon",
    "number": 2042,
    "speakers": [
       "Larry Bank"
@@ -56011,7 +56051,8 @@
    "tags": [
       "Rust",
       "lightning",
-      "online"
+      "online",
+      "rust"
    ],
    "thumbnail": "http://img.youtube.com/vi/D1NAREuicNs/0.jpg",
    "title": "Writing the Fastest GBDT Library in Rust",
@@ -56321,6 +56362,7 @@
    ],
    "tags": [
       "live",
+      "rust",
       "talk"
    ],
    "thumbnail": "http://img.youtube.com/vi/Pn-1so-Ibsg/0.jpg",

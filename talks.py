@@ -25,25 +25,13 @@
 # python cleanup
 # full regeneration takes ~ 26m, and sometimes a failure: cache things?
 # log all prints to a log file?
-# one talk in 'panel' that isn't a panel
 # add some trivia (top nr of talks, nr of minutes)
 # FOSDEM (lots of talks, but maybe not so interesting?)
 # embo++, ADC++ (no playlists?)
 # Meetup Modena/Online 2021 - all italian?
-# code::dive 2016 conference – Chandler Carruth – Panel-style extended Q&A / AmA
-# Core C++ 2019 :: Rafi Wiener :: Interview Question
-# itCppCon20 - The Silicon Valley coding interview (Nicolo Valigi)
-# Welcome (Marco Arena) + 'WARNING: std::find is broken
-# javascript: try first write only the fixed text, then full rewrite
-# eliminate empty edition from the list (or none??) also for speaker??
-# Meeting, Edition etc. (fix inside Javascript)                                  
-# going native 'panel'? https://www.youtube.com/watch?v=gk5gI2VAdy8
+# javascript: try first write only the fixed text, then full rewrite                             
 # going native - add speakers, if I ever have the time
-#
-# more tags: units, naming
-# how to record tags??
-# tag 'time travel': units
-# When Should You Give Two Things the Same Name?: naming, quality
+# maybe not capitalize meetings?
 #
 # Great titles and phrases: (add random phrase display?)
 # ======================================================
@@ -275,7 +263,7 @@ class talks:
       self.list.append( talk )
       self.dict[ talk.identifier ] = talk
       if talk.meeting != "": self.meetings.add( talk.meeting )      
-      self.editions.add( talk.edition )
+      if talk.edition != "": self.editions.add( talk.edition )
       self.titles.add( talk.title )
       self.speakers.update( talk.speakers ) 
       self.tags.update( talk.tags )  
@@ -650,14 +638,14 @@ must_total_replace = [
         " : Threads and shared variables" ],    
    [ "rand() Considered Harmful",
         " : rand() Considered Harmful" ],    
-   [ "",
-        "" ],    
-   [ "",
-        "" ],    
-   [ "",
-        "" ],    
-   [ "",
-        "" ],    
+   [ "Core C++ 2019 :: Rafi Wiener :: Interview Question",
+        "Core C++ 2019 :: Rafi Wiener :: Inter$remove$view Question" ],    
+   [ "code::dive 2016 conference - Chandler Carruth - Panel-style extended Q&A / AmA",
+        "code::dive 2016 conference - Chandler Carruth - Ask Me Anything" ],    
+   [ "itCppCon20 - The Silicon Valley coding interview (Nicolo Valigi)",
+        "itCppCon20 - The Silicon Valley coding inter$remove$view (Nicolo Valigi)" ],    
+   [ "itCppCon21 Welcome (Marco Arena) + KEYNOTE 'WARNING: std::find is broken' (Sean Parent)",
+        "KEYNOTE 'WARNING: std::find is broken' (Sean Parent)" ],    
    [ "",
         "" ],    
    [ "",
@@ -1410,6 +1398,11 @@ def split_speakers_and_title( meeting, edition, s, splitter ):
    
    
 # ===========================================================================
+
+def words( s ):
+   for c in "',:;.":
+      s = s.replace( c, " " )
+   return s.split()   
    
 def add_talk( 
    talks, meeting, edition, youtube_id, nr, v, splitter, tags_string 
@@ -1483,17 +1476,29 @@ def add_talk(
       else: 
         tags.append( "talk" )      
         
+   for c in [ 
+      "c++",
+      "rust"
+   ]:
+      if c in words( title.lower() ):
+         if not c in tags: 
+            tags.append( c )
+        
    for c in tags_string:
-      tags.append( {
-         'l' : "live",
+      t = { 'l' : "live",
          'o' : "online",
          '+' : "c++",
          'r' : "Rust",
          'e' : "embedded",
-      }[ c ] )   
+      }[ c ]
+      if not t in tags: 
+         tags.append( t )
+         
+   for t in additional_tags.get( id, "" ).split():
+      if not t in tags: 
+         tags.append( t )   
       
-   if title.lower().find( "c++" ) > -1 and not "c++" in tags:
-      tags.append( "c++" )
+   title = title.replace( "$remove$", "" )
       
    id = "%s-%s-%d " % ( meeting, edition, nr )
    print( "%s : %s \"%s\" " % ( id, speakers, title ) )
@@ -1662,7 +1667,7 @@ playlists = [
                  [ "PL5XXu3X6L7juIhIykfhFmjyl4D5Tvjvdh", split_ts,    "o"  ]]],
    ]], [ "C++ Day", [ 
       [ "2020", [[ "PLsCm1Hs016LX6l97Royt5DSYy7V05nZmS", split_par,   "o+"  ]]],
-   ]], [ "Italian C++ Conference", [ # checked
+   ]], [ "ItCppCon", [ 
       [ "2020", [[ "PLsCm1Hs016LWIjOrEftUA42ZwxsF30vZB", split_par,   "o+"  ]]],
       [ "2021", [[ "PLsCm1Hs016LV9BRKIqrNWEXfa5ggpiyki", split_par,   "o+"  ]]],
    ]], [ "C++ on sea", [ 
@@ -1838,6 +1843,10 @@ function sanitize( s ){
    return s.replace( " ", "_" ).replace( "'", "" ).replace( ".", "_" )
 }
 
+function cap_first_letter( s ){
+   return s.charAt(0).toUpperCase() + s.slice(1)
+}   
+
 
 // ==========================================================================
 //
@@ -1961,23 +1970,32 @@ function url_with_parameters(){
 //
 // ==========================================================================
 
+function max_entry( a ){
+   return a.reduce((iMax, x, i, arr) => x > arr[iMax] ? i : iMax, 0)
+}   
+
 function rewrite(){
    var t = ""
 
-   t += "<HTML><IMG SRC=C++.png>"
-   t += "<BODY bgcolor=#94b89d><H1>C++ Talks List</H1>"
-   t += "Last updated " + date_and_time + ".<BR>"
+   t += "<HTML><BODY bgcolor=#94b89d>"
+   t += "<TABLE><TR><TD>"
+   t += "<IMG SRC=C++.png height=177 width=162>"
+   t += "</TD><TD>&nbsp;</TD><TD>"
+   t += "<H1>CTL: C++ (and embedded, Rust, ...) Talks List</H1>"
+   t += "Last updated " + date_and_time + ".<BR/>"
    t += "Compiled by Wouter van Ooijen (wouter@voti.nl).<BR>"
-   t += "Raw data avaiulable at <A HREF=https://www.github.com/wovo/ctl>"
+   t += "Raw data available from <A HREF=https://www.github.com/wovo/ctl>"
    t += "www.github.com/wovo/ctl</A>.<P>"
    t += "This is a list of talks about C++, Rust, embedded "
    t += "and related subjects "
    t += "I compiled from youtube playlists. "
    t += "Suggestions for other conferences to be included are welcome. "
    t += "I apologize for any inaccuracies and omissions, "
-   t += "feel free to supply corrections. "
+   t += "feel free to supply corrections! "
    t += "For additions, provide youtube playlist(s), but please please "
-   t += "use a consistent title format, like 'speaker, speaker : title'."
+   t += "use a consistent title format, "
+   t += "like 'speaker, speaker : title [other stuff]'."
+   t += "</TD></TR><TABLE>"
    t += "<HR>"
    
    // the checkboxes for meetings, editions, etc.
@@ -2006,17 +2024,31 @@ function rewrite(){
    var n = 0
    var t2 = ""
    var d = 0
+   var speaker_count = []
+   var speaker_minutes []
+   for s in speakers:
+      speaker_count[ s ] = 0;
+      speaker_minutes[ s ] = 0
    for( const talk of talks ) { 
       if( include_talk( talk )) {
          n += 1
          t2 += talk_html( talk )
          d += talk.duration
+         count = if talk.speaker
+         speaker_count[ talk.speaker ] += 1
+         speaker_minutes[ talk.speaker ] += talk.duration
       }   
    }
    t += n.toString() + " entries ("
    t += format_duration( d ) + ") "
    t += '<A HREF="' + url_with_parameters()
-   t += '">url for this selection' + "</A><BR>" + t2
+   t += '">url for this selection' + "</A>"
+   t += " top speakers "
+   n = max_entry( speaker_count )
+   t += speakers( n ) + " (" + toString( speaker_count[ n ] ) + " talks), "
+   n = max_entry( speaker_minutes )
+   t += speakers( n ) + " (" + format_duration( speaker_minutes[ n ] ) + "); "
+   t += "<BR>" + t2
   
    t += "</BODY></HTML>"
    document.open()
@@ -2099,9 +2131,9 @@ function selection_html( name ){
 // ==========================================================================
 
 function name_as_shown( s ){
-   return s.replace( "select_", "" )
+   return cap_first_letter( s.replace( "select_", "" )
       .replace( "include_", "" )
-      .replace( "show_", "" )
+      .replace( "show_", "" ))
 }
 
 function checkbox_update( name ){
@@ -2149,7 +2181,8 @@ function criterium_html( name ){
       criteria_fields[ sel ] = ""
    }   
    const val = criteria_fields[ sel ].replace( "'", "" )
-   t += "<label for=_" + sel + ">" + name + "&nbsp;&nbsp;</label>"
+   t += "<label for=_" + sel + ">" + cap_first_letter( name )
+   t += "&nbsp;&nbsp;</label>"
    t += "<input onchange='criterum_changed();' type=text size=32" 
    t += " value='" + val + "' "
    t += "   id=_" + sel + " name=_" + sel + ">"
@@ -2210,7 +2243,14 @@ date_and_time = "<date-and-time>"
 
 </SCRIPT>\n</BODY>
    
-"""
+""",
+
+additional_tags = {
+   "OQgFEkgKx2s" : "naming quality",
+   "VN0VNoykxtk" : "units",
+   "" : "",
+   "" : "",
+}
 
 
 # ===========================================================================
