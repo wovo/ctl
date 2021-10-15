@@ -23,7 +23,7 @@
 # show both ctl- and meeting-edition-nr
 # cleanup 'ignores' list (generate)
 # python cleanup
-# full regeneration takes ~ 26m, and sometimes a failure: cache things?
+# full regeneration takes ~ 37m, and sometimes a failure: cache things?
 # log all prints to a log file?
 # add some trivia (top nr of talks, nr of minutes)
 # FOSDEM (lots of talks, but maybe not so interesting?)
