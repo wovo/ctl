@@ -15,7 +15,10 @@
 # changed to [] to get( .., 0 )
 # same for dislikes
 #
+# ===========================================================================
+#
 # notes & todo:
+# =============
 # talk nr is sometimes 'wrong'
 # show both ctl- and meeting-edition-nr
 # cleanup 'ignores' list (generate)
@@ -32,26 +35,22 @@
 # itCppCon20 - The Silicon Valley coding interview (Nicolo Valigi)
 # Welcome (Marco Arena) + 'WARNING: std::find is broken
 # javascript: try first write only the fixed text, then full rewrite
-# C++ now 21 has light talks, earlier don't - add
-# first write only the fixed text, then full rewrite
-# accept 'direct links' to set tags, like for an author, ctl-nr or conference
-# -> provide URL of that selection
 # eliminate empty edition from the list (or none??) also for speaker??
 # Meeting, Edition etc. (fix inside Javascript)                                  
 # going native 'panel'? https://www.youtube.com/watch?v=gk5gI2VAdy8
-# going native - add speakers, if I have the time
-#
-# add 
+# going native - add speakers, if I ever have the time
 #
 # more tags: units, naming
 # how to record tags??
 # tag 'time travel': units
 # When Should You Give Two Things the Same Name?: naming, quality
 #
-# Great titles and phrases:
+# Great titles and phrases: (add random phrase display?)
+# ======================================================
 # War is Peace, Freedom is Slavery, Ignorance is Strength, Scrum is Agile (Allen Holub)
 # the agile-industrial complex (Allen Holub?)
-# Errors are just conditionms we refuse to take seriously (Michael Feathers)
+# Errors are just conditions we refuse to take seriously (Michael Feathers)
+# If you're arguing, you're losing
 #
 # ===========================================================================
 
@@ -1291,6 +1290,7 @@ def split_speakers_and_title( meeting, edition, s, splitter ):
       "C++Now 2015",
       "C++Now 2017",
       "C++Now 2018",
+      "C++Now 2019",
       " - Meeting Cpp 2019",
       "code::dive conference 2014 -",
       "code::dive conference 2015 -",
@@ -1601,10 +1601,14 @@ playlists = [
       [ "2014", [[ "PL_AKIMJc4roXG7rOmqsb_wDG1btCzhS8F", split_ts,    "l+"  ]]],
       [ "2015", [[ "PL_AKIMJc4roX665MVPoqbzHVZFMBzgytT", split_st,    "l+"  ]]],
       [ "2016", [[ "PL_AKIMJc4roU0F3w20Ac77YeOFyvFmaJD", split_st,    "l+"  ]]],
-      [ "2017", [[ "PL_AKIMJc4roXJldxjJGtH8PJb4dY6nN1D", split_sqt,   "l+"  ]]],
-      [ "2018", [[ "PL_AKIMJc4roVSbTTfHReQTl1dc9ms0lWH", split_sqt,   "l+"  ]]],
-      [ "2019", [[ "PL_AKIMJc4roW3jQgghyouFoX15m84YYB0", split_sqt,   "l+"  ]]],
-      [ "2021", [[ "PL_AKIMJc4roXvFWuYzTL7Xe7j4qukOXPq", split_ts,    "o+"  ]]],
+      [ "2017", [[ "PL_AKIMJc4roXJldxjJGtH8PJb4dY6nN1D", split_sqt,   "l+"  ],
+                 [ "PL_AKIMJc4roV-ATm4VQH5Tc78_0bruUuI", split_sqt,   "l+"  ]]],
+      [ "2018", [[ "PL_AKIMJc4roVSbTTfHReQTl1dc9ms0lWH", split_sqt,   "l+"  ],
+                 [ "PL_AKIMJc4roWtkG_Qiw6uwNWcjjG5WLHE", split_sqt,   "l+"  ]]],
+      [ "2019", [[ "PL_AKIMJc4roW3jQgghyouFoX15m84YYB0", split_sqt,   "l+"  ],
+                 [ "PL_AKIMJc4roXZPycnYPqK-FamxJdISihj", split_sqt,   "l+"  ]]],
+      [ "2021", [[ "PL_AKIMJc4roXvFWuYzTL7Xe7j4qukOXPq", split_ts,    "o+"  ],
+                 [ "PL_AKIMJc4roXczzBYPB-rsRmG8QTVsfeS", split_ts,    "o+"  ]]],
    ]], [ "Meeting C++", [ 
       [ "2014", [[ "PLRyNF2Y6sca0Luy-3XreR2l2aQ7Hf5ODl", split_ts,    "l+"  ]]],
       [ "2015", [[ "PLRyNF2Y6sca0UKKZ2PTSwF3WrDjABQdcL", split_ts,    "l+"  ]]],
@@ -1790,6 +1794,9 @@ or I somehow introduced a javascript error.
 
 <SCRIPT type="text/javascript">
 
+// === copy-back first line =================================================
+
+
 // ==========================================================================
 //
 // C++ Talks List
@@ -1810,8 +1817,10 @@ function talk_reference( talk, s ){
 }
 
 function talk_thumbnail( talk ){
-   return '<img src="' + talk.thumbnail + '" height="' 
-      + thumbnail_size.toString() + '"' + ">"
+   return '<img src="' + talk.thumbnail 
+      + '" height="' + thumbnail_height.toString() + '"' 
+      + '" width="'  + thumbnail_width.toString() + '"' 
+      + ">"
 }
 
 function format_duration( n ){
@@ -1820,7 +1829,7 @@ function format_duration( n ){
    var t = date.toISOString().substr(11, 8);
    n = Math.round( n / ( 24 * 60 * 60 ))
    if( n > 0 ){
-      t = n.toString() + ":" + t
+      t = n.toString() + "d " + t
    }      
    return t
 }
@@ -1836,7 +1845,8 @@ function sanitize( s ){
 //
 // ==========================================================================
 
-var thumbnail_size = 75
+var thumbnail_height = 75
+var thumbnail_width = 100
 
 var selection_criteria = [ 
    "meeting", 
@@ -1849,6 +1859,14 @@ var selection_criteria = [
 var search_criteria = [ 
    "title", 
    "speaker" 
+]
+
+const show_checkboxes = [ 
+   "all", 
+   "thumbnail", 
+   "speakers", 
+   "details", 
+   "tags" 
 ]
 
 checked_boxes = []
@@ -1864,12 +1882,76 @@ criteria_fields = []
 function startup(){
    const queryString = window.location.search
    const urlParams = new URLSearchParams( queryString )
-   for( c of search_criteria ){
-      if( urlParams.has( c ) ){
-         criteria_fields[ sel ] = urlParams.get( c )
+   
+   checked_boxes.show_all = true
+   for( b of show_checkboxes ){
+      b = "show_" + b
+      if( urlParams.has( b ) ){
+         checked_boxes[ b ] = true
+         checked_boxes.show_all = false
+      }
+   }      
+   
+   for( c of selection_criteria ){
+      for( tag of window[ c + "s" ] ){
+         sane = "include_" + sanitize( tag )
+         if( urlParams.has( sane ) ){
+            checked_boxes[ "select_" + c ] = true
+            checked_boxes[ sane ] = true 
+         }            
       }
    }
+   
+   for( c of search_criteria ){
+      c = "match_" + c
+      if( urlParams.has( c ) ){
+         criteria_fields[ c ] = urlParams.get( c )
+      }
+   }
+   
    rewrite()
+}
+
+function add_parameter( s, p ){
+   return s + (( s == "" ) ? "?" : "&" ) + p
+}
+
+function url_with_parameters(){
+   t = ""
+   
+   for( b of show_checkboxes ){
+      if( b != "all" ){
+         b = "show_" + b
+         if( ( b in checked_boxes ) && ( checked_boxes[ b ] ) ){
+            t = add_parameter( t, b )
+         }
+      }   
+   }
+   
+   for( c of selection_criteria ){
+      sel = "select_" + c
+      if(( sel in checked_boxes ) && ( checked_boxes[ sel ] )){
+         for( tag of window[ c + "s" ] ){
+            sane = "include_" + sanitize( tag )
+            if( ( sane in checked_boxes ) && ( checked_boxes[ sane ] ) ){
+               t = add_parameter( t, sane )
+            }   
+         }            
+      }
+   }
+   
+   for( crit of search_criteria ){
+      crit = "match_" + crit
+      if( crit in criteria_fields ){
+         v = criteria_fields[ crit ]
+         if( v != "" ){
+            t = add_parameter( t, crit + "=" + v )
+         }
+      }
+   }
+   
+   t = window.location.origin+window.location.pathname + t
+   return t
 }
 
 
@@ -1892,8 +1974,8 @@ function rewrite(){
    t += "and related subjects "
    t += "I compiled from youtube playlists. "
    t += "Suggestions for other conferences to be included are welcome. "
-   t += "I apologize for any inaccuracies and omissions. "
-   t += "Feel free to supply corrections. "
+   t += "I apologize for any inaccuracies and omissions, "
+   t += "feel free to supply corrections. "
    t += "For additions, provide youtube playlist(s), but please please "
    t += "use a consistent title format, like 'speaker, speaker : title'."
    t += "<HR>"
@@ -1914,9 +1996,9 @@ function rewrite(){
     
    // the checkboxes that determine what to show 
    t += "<TABLE><TR><TD>Show</TD>"
-   for( c of [ "all", "thumbnail", "speakers", "details", "tags" ] ){
+   for( c of show_checkboxes ){
       t += "<TD>" + checkbox_html( 
-         "show_" + c, c == "all", "" ) + "</TD>"
+         "show_" + c, false, "" ) + "</TD>"
    }
    t += "</TR></TABLE><HR>"
    
@@ -1932,7 +2014,9 @@ function rewrite(){
       }   
    }
    t += n.toString() + " entries ("
-   t += format_duration( d ) + ")<BR>" + t2
+   t += format_duration( d ) + ") "
+   t += '<A HREF="' + url_with_parameters()
+   t += '">url for this selection' + "</A><BR>" + t2
   
    t += "</BODY></HTML>"
    document.open()
@@ -1999,7 +2083,7 @@ function selection_html( name ){
    if( checked_boxes[ sel ] ){
       t += "<table><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;</td><td>"
       for( c of window[ name + "s" ] ){
-         c = "_include_" + c
+         c = "include_" + c
          t += "   " + checkbox_html( c, false, "" )
       }   
       t += "</td></tr></table>"
@@ -2016,7 +2100,6 @@ function selection_html( name ){
 
 function name_as_shown( s ){
    return s.replace( "select_", "" )
-      .replace( "_include_", "" )
       .replace( "include_", "" )
       .replace( "show_", "" )
 }
@@ -2087,7 +2170,7 @@ function include_talk( talk ){
       if( checked_boxes[ "select_" + c ] ){
          sub_use = false
          for( tag of window[ c + "s" ] ){
-            if( checked_boxes[ "_include_" + sanitize( tag ) ] ){
+            if( checked_boxes[ "include_" + sanitize( tag ) ] ){
                var suffix = ""
                if( [ "speaker", "tag" ].includes( c ) ) suffix = "s"
                if( talk[ c + suffix ].includes( tag ) ){
@@ -2118,7 +2201,8 @@ function include_talk( talk ){
    return use   
 }
 
-// ==========================================================================
+// === copy-back last line ==================================================
+
 
 date_and_time = "<date-and-time>"
 
