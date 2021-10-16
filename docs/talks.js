@@ -20,6 +20,7 @@ var meetings = [
    "ItCppCon",
    "Live Embedded Event",
    "Meeting C++",
+   "Meeting C++ online",
    "Meeting Embedded",
    "MUC++",
    "Oxidize Global",
@@ -1187,6 +1188,7 @@ var speakers = [
    "Sarbhukan",
    "Sasa Juric",
    "Sascha Mollering",
+   "Satya Das",
    "Saurabh Joshi",
    "Schalk Cronje",
    "Scott Helme",
@@ -1396,2880 +1398,2887 @@ var speakers = [
 ]
 
 var titles = [
-   "High-Radix Concurrent C++",
-   "Learning and teaching modern C++",
-   "Compile-time reflection, Serialization and ORM",
-   "Clang Static Analysis",
-   "Full-stack Reactive Java with Project Reactor & Spring Boot 2",
-   "CopperSpice: The Next Generation of Signals",
-   "Coroutines: what can't they do?",
-   "Back to Basics: Const as a Promise",
-   "Fastware",
-   "What's new about fake news?",
-   "Gradually Adopt GraphQL Without Writing any Backend Code",
-   "The hidden languages of C++",
-   "AI in Healthcare",
-   "Open Source at Balena",
-   "Decision Fatigue and coding guidelines",
-   "Use Voice Recognition with Alexa to Control Your Home",
-   "A Veterans Guide To Transitioning Android Teams Into Kotlin",
-   "The One-Decade Task: Putting std::atomic in CUDA.",
-   "Multithreading is the answer. What was the question? Part II",
-   "Dynamic C++",
-   "Become a GDB Power User",
-   "Abusing Your Memory Model for Fun and Profit",
-   "Parsing C++ with GCC plugins",
-   "PipeWire: the new adaptable multimedia service, now ready for automotive",
-   "Hierarchy of C++ needs",
-   "Using Deep Learning to hunt Optical Counterparts to (...)",
-   "Non-Allocating std::future/promise",
-   "The Continuing Future of C++ Concurrency",
-   "The Seniority Trap",
-   "How to Build a Self-driving RC Car",
-   "Better Code with C++ Attributes",
-   "Cloud Business Solution Increasing Supply Chain Profitability",
-   "Microsoft w/ C++ to Deliver Office Across Different Platforms, Part II",
-   "The Evolution of C++ Past, Present and Future",
-   "libcppa -- Designing an Actor Semantic for C++11",
-   "The 7 Quests of Resilient Software Design",
-   "Modern User Interfaces for C++",
-   "7 reasons to move your C++ code to Visual Studio 2017",
-   "Threads and shared variables",
-   "Getting customized runtime hardware details at compile-time for (...)",
-   "C++ Committee's Library Evolution Working Group",
-   "Zephyr, retour d'experience sur une des fondation de Stimio SDK",
-   "Enabling Teams to Embrace Change",
-   "Range-Based Text Formatting For a Future Range-Based Standard Library",
-   "Augmented Reality - The State of Play",
-   "A new look at TMP",
-   "A Semi Compile/Run-time Map with (Nearly) Zero Overhead Lookup",
-   "Why in heaven is there no dependency management for C++?",
-   "Device Tree overlays and U-boot extension board management",
-   "The Incredible Shrinking Standard",
-   "Sanitize your C++ code",
-   "Welcome +  Let's Move-The Hidden Features and Traps of C++ Move Semantics",
-   "AST Construction with the Universal Tree",
-   "Parallelizing the Standard Template Library",
-   "EA's Secret Weapon: Packages and Modules",
-   "Optimizing compilation times with Templates",
-   "Don't Get Blamed for Your Choices",
-   "105 STL Algorithms in Less Than an Hour",
-   "How to Design C++ Implementations of Complex Combinatorial Algorithms",
-   "Deploying C++ modules to 100s of millions of lines of code",
-   "Old Is the New New",
-   "No Sane Compiler Would Optimize Atomics",
-   "Exceptional Performance",
-   "Generators, Coroutines and Other Brain Unrolling Sweetness",
-   "Passwords. Are. Not. Hard!",
-   "What Do We Mean When We Say Nothing At All?",
-   "Embedded Domain Specific Languages for Embedded Bare Metal Projects",
-   "Eoliennes Connectees",
-   "Building Distributed Systems with Kubernetes",
-   "Lifetime analysis for everyone",
-   "Good Enough Architecture",
-   "Bringing Clang-tidy Magic to Visual Studio C++ Developers",
-   "Kotlin 4 vs. Scala 3",
-   "A Physical Units Library For the Next C++",
-   "Gamgee: A C++14 library for genomics data processing and analysis",
-   "Web | C++' SLIDES FIXED",
-   "Building a Blockchain in Erlang",
-   "Introducing CHAP: A program to clarify dynamic memory usage in un-instrumented cores",
-   "A Simple GUI Programming Setup for Beginners",
-   "Keeping Up with Java",
-   "ConceptClang: An Implementation Model for C++ Concepts",
-   "How Thinking Small is Changing Software Development Big Time",
-   "C++ in Space Plasma Model Development",
-   "These 10 tricks that only library implementors know!",
-   "Keyword Abuse",
-   "A look at C++ through the glasses of a language tool",
-   "Web | C++' (different) VIDEO AVAILABLE WITH IN SYNC SLIDES",
-   "Rust in China",
-   "What is the basic interface? (part 2 of 2)",
-   "Deliver Results, Not Just Releases: Control & Observability in CD",
-   "Disambiguation: The Black Technology",
-   "Coroutines - the future of future (and more)",
-   "Build a Q&A Bot with DeepLearning4J",
-   "Objects vs Values: Value Oriented Programming in an Object Oriented World",
-   "Why You Need a Software Delivery Machine",
-   "Using Concepts: C++ Design in a Concept World (part 2 of 2)",
-   "5 Things I figured out while ...   2017",
-   "C++ Community Organizers",
-   "Type safe C++ - LOL! :-)",
-   "How we reason about procedural programs",
-   "Practical Memory Pool Based Allocators For Modern C++",
-   "Writing better embedded Software",
-   "Bringing the power of C++ to the web",
-   "Type-safe configuration library",
-   "The C++20 Synchronization Library",
-   "Full use of Rust on edge and cloud: AI and IoT use cases",
-   "C++17 Features",
-   "Oh The Humanity!",
-   "Executors: The Art of Generating Composable APIs",
-   "Rebuilding Boost Date-Time for C++11",
-   "Design and Evolution of cyber-dojo",
-   "Optimizing Generic Algorithms",
-   "Template Normal Programming (part 2 of 2)",
-   "Boost Your Program's Health by Adding Fibers to your Coroutine",
-   "VC11 and Beyond with Steve Teixeira and Tarek Madkour",
-   "A generic binary tree: why grow your own?",
-   "CopperSpice: A Pure C++ GUI Library",
-   "Integrating Docker containers in Yocto",
-   "Words of Wisdom",
-   "Faces of undefined behavior",
-   "From STL to Ranges: Using Ranges Effectively",
-   "Generic Parallel Programming",
-   "The Importance of Not Over-Optimizing in Rust",
-   "Create your own Refactoring Tool in Clang",
-   "How Compilers Reason About Exceptions",
-   "Next generation unit testing using static reflection",
-   "Implementing variant Visitation Using Lambdas",
-   "Bash and All That; Why Ancient *NIX Tools Are Still Essential",
-   "Principles for Developing More Secure Systems",
-   "Making Allocators Work, Part I",
-   "Racing The File System",
-   "Why Business Cases are Toxic",
-   "Understanding compiler optimization",
-   "Ray: A System for Distributed Applications",
-   "WebAssembly: an overview",
-   "Thread-safe Observer Pattern - You're doing it wrong",
-   "5G programmable world",
-   "Audio in standard C++",
-   "std::optional and the m word",
-   "Documenting C++ Using the Right Tools",
-   "Adventures In Updating A Legacy Codebase",
-   "Intro &  LEE 2020",
-   "Breaking Black-box AI",
-   "How to build architecture of your system",
-   "Typegrind - Type preserving heap profiler for C++",
-   "A State of Compile Time Regular Expressions",
-   "Extending and Wrapping C and C++ with Python",
-   "C++ Programming for the Heap-Deprived",
-   "Finding Nemo, or Evolution of a for Loop",
-   "Python as C++'s limiting case",
-   "Breaking Things on Purpose",
-   "Refactoring C++ with Clang",
-   "Eye tracking / reading",
-   "On C++, Javascript and WebSockets",
-   "Talking With Tech Leads",
-   "What about lambdas",
-   "Asynchronous, yet readable, code",
-   "Convergent Evolution",
-   "Why I love Kubernetes Failure Stories and You Should Too",
-   "A Crash Course in Unicode for C++ Developers",
-   "Industrial Applications of Reinforcement Learning",
-   "Improving Sense of Smell Low-Level Debugging",
-   "A deep dive into the Gilded Rose",
-   "What is an ABI and Why is Breaking it a Problem?",
-   "The human cost of development",
-   "Large Scale C++ with Modules: What You Should Know",
-   "Runtime Polymorphism: Back to the Basics",
-   "C++ Build Systems",
-   "Linux dynamic library versioning",
-   "constexpr: Introduction",
-   "Patterns and Techniques Used in the Houdini 3D Graphics Application",
-   "C++ Dependency Management the Meson Way",
-   "Introduction to C++ AMP (GPGPU Computing)",
-   "Low Latency GPGPU",
-   "Conjuguer modèles ouverts et propriete intellectuelle dans l'embarque",
-   "Smart Output Iterators",
-   "One Friend Ain't Enough",
-   "MPark.Patterns: Pattern Matching in C++",
-   "The Dawn of a new Error",
-   "Polymorphic Task   2017",
-   "Choosing the correct vectorization method",
-   "The Promise and Limitations of AI",
-   "Prioritizing Technical Debt as if Time and Money Matters",
-   "Eye tracking in code reviews",
-   "The C++ ABI From the Ground Up",
-   "Metaparse -- Compile-time parsing with template metaprogramming",
-   "From Spring Boot Apps to Functional Kotlin",
-   "Build Agility with Design Sprints",
-   "Wishful Thinking",
-   "C++ ecosystem: the renaissance edition",
-   "Practical TMP: A C++17 Compile Time Register Machine",
-   "Virtual assistants - our journey from extensive (...)",
-   "How to: Colony",
-   "Building microservices with Rust",
-   "Why algebraic data types are important",
-   "Taking Machine Learning from Research to Production",
-   "Instruction Re-ordering Everywhere: The C++ As-If' Rule and the Role of Sequence'",
-   "Raising the abstraction level",
-   "Slab allocators",
-   "Learning Rust with Humility and in Three Steps",
-   "C++20: the small things",
-   "A Short Life span<> For a Regular Mess",
-   "Programming with less effort in C++...",
-   "C++ Modules",
-   "Ranges and Iterators for numerical problems",
-   "Metaprogramming with Boost.Hana: Unifying Boost.Fusion and Boost.MPL",
-   "Going Multiplatform with Kotlin",
-   "TMI on UDLs: Mechanics, Uses, and Abuses of User-Defined Literals",
-   "Building Secure React Applications",
-   "Boost.Dispatch -- Generalized Tag Dispatching Infrastructure Library",
-   "hardware aided computing",
-   "C++ Modules and Large-Scale Development",
-   "Go forth with C++",
-   "Modern C++ in Embedded Systems",
-   "C++17 in Breadth (part 2 of 2)",
-   "The Different Perspectives needed for Self-organization",
-   "Flatulence, Crystals, and Happy Little Accidents",
-   "How eSIM can help industrialisation",
-   "Software Is Details",
-   "Pragmatic Event-Driven Microservices",
-   "Architect a High-performance SQL Query Engine in Rust",
-   "Test-Drive Performance",
-   "Enums four ways",
-   "Avoiding Virtual Call in CRTP",
-   "Memory mapped storage",
-   "Stop Teaching C",
-   "Building a Smart Security Camera with Raspberry Pi Zero, Java and AWS",
-   "0xBADC0DE",
-   "A story about vectorisation and compiler bug report",
-   "Shipping a stable compiler every six weeks",
-   "COVID-19: Data Science & Expertise",
-   "No raw std::thread! - Live Tweet Analysis in C++",
-   "The Nightmare of Initialization in C++",
-   "Internationalization is a Piece of Cake",
-   "Practical Patterns with the Networking TS",
-   "C++ 20 Overview: The Big Four",
-   "Latest and Greatest in the Visual Studio Family for C++ Developers 2018",
-   "C++20 Language Features for a new Library",
-   "How to write more reliable code",
-   "Missing Optimizations on Node-based Containers",
-   "the 6th event",
-   "Rethinking Usage of C++ Templates",
-   "constexpr ALL the things!",
-   "Haskell Design Patterns for Genericity & Asynchronous Behavior",
-   "The fastest template metaprogramming in the West",
-   "Impostor Syndrome",
-   "Initialisation in modern C++",
-   "C++ in Open Source Robotics",
-   "Converting a State Machine to a C++ 20 Coroutine",
-   "From Tic Tac Toe to AlphaGo: Playing Games with AI",
-   "It's People! Code is made out of people!",
-   "A Microservices Journey",
-   "Multithreading is the answer. What was the question? Part I",
-   "C++: Unexpected Behaviour",
-   "Experiment to Innovate",
-   "Cross-Platform Apps with Dropbox's Djinni...",
-   "Introduction to Quantum Computing",
-   "The MAME story: From C to Modern C++",
-   "C++ Function Templates: How Do They Really Work?",
-   "Deep Learning with C++",
-   "The Future of Security",
-   "Reuse bill",
-   "Generalized fold expressions",
-   "#ToyFail",
-   "Experiences in Teaching Modern C++ to Beginners",
-   "Build Everything From Source: A Case Study in Fear",
-   "Operator Overloading: History, Principles and Practice",
-   "constrain yourself",
-   "Simplest Strong Typing instead of Language Proposal ( P0109 )",
-   "Did We(b Development) Lose the Right Direction?",
-   "API & ABI Versioning...",
-   "C++ Insights: How stuff works, Lambdas and more!",
-   "Developing embedded IOT device code using micropython: is this reasonable choice?",
-   "Optimization Tips - Mo' Hustle Mo' Problems",
-   "Continuable asynchronous programming with allocation aware futures",
-   "Secret Management with Hashicorp's Vault",
-   "How We Used To Be",
-   "Towards an Open Ecosystem of Empowered UI Development",
-   "Making Your Library More Reliable with Fuzzing",
-   "State Machines Battlefield - Naive vs STL vs Boost",
-   "Kubernetes-ize your Java Application",
-   "C++ Use in High Performance Computing Within DOE: Past and Future",
-   "Implementing tuple in C++17",
-   "We've Always Been at War with East Constia",
-   "A Practical-ish Introduction to Data Science",
-   "So, you inherited a large code base...",
-   "Just-in-Time Compilation: The Next Big Thing?",
-   "Modules the beginner's guide",
-   "Observability for Data Pipelines: Monitoring, Alerting & Tracing Lineage",
-   "Type-safe Programming",
-   "Right inside the database",
-   "Using Rust in Metal Fabrication",
-   "function_ref",
-   "Learning to Live with Errors",
-   "SECURYZR LIGHT   The solution to fit with the design-for-security methodology",
-   "ISO/IEC 14882",
-   "There is a new future",
-   "Code Samples That Compile Even More Easily",
-   "Machine Learning with Python Case Study",
-   "Another fundamental shift in Parallelism Paradigm?",
-   "Hacking rustc: Contributing to the Compiler",
-   "How Ubisoft Develops Games for Multicore - Before and After C++11",
-   "Creating Debian-Based Embedded Systems using Debos",
-   "C++: Engineers Wanted, Programmers not so Much",
-   "cppreference.com: documenting C++ one edit at a time",
-   "interview with Hartmut Kaiser and Scott Meyers",
-   "A variant of recursive decent parsing",
-   "Behind Enemy Lines - Reverse Engineering C++ in Modern Ages",
-   "C++14: Through the Looking Glass",
-   "Cryptography for Programmers",
-   "CPU design effects",
-   "Exception-Safe Code, Part I",
-   "Enforce Inform Ignore Assume - Gradual Adoption of Contracts In Production Code",
-   "Windows Native API",
-   "Our first game using UE4 and C++",
-   "Code Analysis++",
-   "Secure Coding Best Practices",
-   "A refresher on the floating-point computations and the standard library.",
-   "Concepts As She Is Spoke",
-   "The Incredibles: Creating an Awesome PO Team",
-   "Value semantics: It ain't about the syntax!",
-   "What to Expect from a Next-Generation C++ Build System",
-   "embeddr - C with Abstractions",
-   "AAAARGH!? Adopting Almost Always Auto Reinforces Good Habits!?",
-   "Don't do what I did",
-   "The Symbiotic Relationship of C++ and Rust",
-   "Transducers: from Clojure to C++",
-   "Errors: forgotten, but not gone",
-   "Thinking in coroutines",
-   "Plain Threads are the GOTO of todays computing",
-   "Parallelizing the C++ Standard Template Library",
-   "Build all the things with Spack: a package manager for more than C++",
-   "Surveying the C++ Community",
-   "interview with C++ Committee's Library Evolution Working Group",
-   "Qt event loop, networking and I/O API",
-   "An inspiring introduction to template metaprogramming",
-   "Reaching Beyond Traditional Boundaries with Clojure",
-   "Computers are Stupid: Protecting 'AI' from Itself",
-   "Without Data, you're just another Person with Opinions",
-   "Regular Types and why do I care?",
-   "How C++ Debuggers work",
-   "Using VV = merge_t(std::variant, std::vector);",
-   "DynaMix: A New Take on Polymorphism",
-   "Test Driven C++ with Catch",
-   "Update on C++ Core Guidelines Lifetime Analysis",
-   "Some Things C++ Does Right",
-   "Racing Robocars",
-   "Mind as Code - Mindfulness for Developers and Knowledge Workers",
-   "Woes of Scope Guards and Unique_Resource - 5+ years in the making",
-   "C++20 Coroutines: What's next?",
-   "Improving Performance Through Compiler Switches...",
-   "Which Machine Am I Coding To?",
-   "Benchmarking Compilation Times",
-   "SOLID, Revisited",
-   "Blockchain in Healthcare",
-   "Lies, Damned Lies, and Metrics",
-   "Using Boost.Coroutine to untangle a state machine",
-   "From Algorithm to Generic, Parallel Code",
-   "A linear algebra library for C++23",
-   "Birth of Study Group 14...",
-   "Get Off My Thread: Techniques for Moving Work to Background Threads",
-   "Keeping Your CI-CD Pipeline as Fast as it Needs to Be",
-   "Back to Basics: Unit Tests",
-   "Supercharging Your Code With Five Little-Known Attributes",
-   "Volatile none of the things",
-   "A lock-free concurrency toolkit for deferred reclamation and optimistic speculation",
-   "Modular Monoliths",
-   "Exploring Embedded Rust for Functional Safety",
-   "interview with Alex Bolboaca",
-   "Attitude of Iteration",
-   "Error Handling is Cancelling Operations",
-   "Rust beyond Rust",
-   "The Future of the Web",
-   "Piecing together Rust: It is more than just writing code",
-   "Design Rationale for the chrono Library",
-   "Range Algorithms, Views and Actions: A Comprehensive Guide",
-   "Partially-formed Objects for fun and profit",
-   "Designing APIs for performance",
-   "Design Journeys with Skoot, a Peer Oriented Generic Networking Library",
-   "C++ SIMD parallelism with Intel Cilk Plus and OpenMP 4.0",
-   "How to go to Google.com",
-   "The C++17 Parallel Algorithms Library and Beyond",
-   "Instantiations Must Go!",
-   "Modern Template Techniques",
-   "Template Shenanigans",
-   "How to call C libraries from C++",
-   "Asynchronous Computation in C++",
-   "How to make a large C++-code base manageable",
-   "Developing PHP Extensions with PHP CPP",
-   "Boost.TMP: Your DSL for Metaprogramming",
-   "When C++ wants to meet Java",
-   "An Introduction to Bluetooth mesh for Developers",
-   "Production use of Boost.Test",
-   "The Effective Structured Data Marshalling/Demarshalling Through Boost.Fusion",
-   "Combining Modern C++ and Lua",
-   "The Forgotten Art of Structured Programming",
-   "The many faces of Number -- String conversions",
-   "Simplicity: Not Just For Beginners",
-   "Introduction to Stateful Stream Processing with Apache Flink",
-   "Efficiency with Algorithms, Performance with Data Structures",
-   "Agent based class design",
-   "Preprocessor-aware Automated Refactoring",
-   "These Aren't the COM Objects You're Looking For",
-   "Taking Template Classes Further with Opaque Types & Generic NTTPs",
-   "Phantastic Code Smells and where to find them",
-   "Simplicity: not just for beginners",
-   "Quick Game Development with C++11 / C++14",
-   "Thinking Like a Data Scientist",
-   "The Complete Guide to 'return x;'",
-   "Higher Order Functions for ordinary developers",
-   "yet another paradigm shift (yaps) -- (A Meta4 model of concurrency)",
-   "M-PIN Authentication in Vehicle Tracking",
-   "Unwinding the Stack: Exploring How C++ Exceptions Work on Windows",
-   "C++ Mixins",
-   "UEFI Applications With Modern C++",
-   "What We've Learned From the C++ Community",
-   "Asynchronous programming with ranges",
-   "Practical C++11: What I Learned Adding C++11 Support to ODB",
-   "C++20 Concepts: The Base Classes of Generic Programming? or Not?",
-   "Augmented Reality and Machine Learning Cooperation on Mobile",
-   "Distributed parametric optimization with the Geneva library",
-   "Three years of Rust - A look around",
-   "Exploring C++17 and Beyond",
-   "Software Engineering Is About Tradeoffs",
-   "Bayesian Computation for Deep Learning in Modern C++",
-   "(...) How to work effectively being remote",
-   "Cloud Foundry Container Runtime: BOSH-Powered Kubernetes",
-   "Back to Basics: Understanding Value Categories",
-   "In Search of the Perfect Cloud Native Developer Experience",
-   "Mastering the Cell Broadband Engine via a Boost-based library",
-   "Metaprogramming for the brave",
-   "Tastes Like Chicken ()",
-   "Kafka as a Platform: The Ecosystem from the Ground Up",
-   "Advanced Tools for Better Productivity",
-   "What Everyone Should Know About How Amazing Compilers Are",
-   "Local (Arena) Memory Allocators Part 1",
-   "Homogenous Variadic Functions -  A Lightning-Library Approach in ~11.54 sec/LOC",
-   "Expression Templates: Past, Present, Future (PART 3)",
-   "How C++20 Changes the Way We Write Code",
-   "Beyond the Floating Point Computations - What's New, What's Useful?",
-   "Mastering the Linux Command Line",
-   "Pointless Pointers - How to make our interfaces efficient?",
-   "Distributed Data Stores on Kubernetes",
-   "Bringing Automation to Web App Hosting and Deployment",
-   "Boost your API Development with GraphQL & Prisma",
-   "Assume Worst Intent (Designing for the Abusive Ex)",
-   "A vision for C++20, and std2 (part 3 of 3)",
-   "GSL ad hoc overview",
-   "Serverless Beyond the Hype",
-   "Time brings all things to pass",
-   "Writing Fast Code I",
-   "The Complete Guide to return x;",
-   "Implementing 'static' control flow in C++14",
-   "C++, QML and static reflection",
-   "Practical API Design",
-   "Concepts and Contracts: When, What, and How",
-   "Go for DevOps, Go for microservices, and what Go is (...)",
-   "Practicalities of Productionizing Distributed Systems",
-   "The Woos and Woes of Open-Source FPGA-Tools: A journey",
-   "Structured bindings uncovered",
-   "Packaging Applications in a Serverless World!",
-   "boost.tmp: Your DSL for /*Metaprogramming*/ all the things",
-   "How to manage your distributed electronic architecture?",
-   "Making Sense Of Microservices",
-   "Impact on maintainability and refactoring for higher-level design features",
-   "The Power of Event-Driven Systems without Burning your Hands or Budgets",
-   "Rust for Non-Systems Programmers",
-   "An inspiring introduction into Template Meta Programming",
-   "Generic Programming in C++: A Real-World Example",
-   "Crazy Code, Crazy Coders",
-   "Modern techniques for keeping your code DRY",
-   "What I Wish They Told Me - Part 2 of 2",
-   "The Corporate Scale Engine",
-   "Choosing hardware components : A software guy's point of view.",
-   "Go: Optimizing For Correctness",
-   "Depression and Burnout: the Hardest Refactor I've ever done",
-   "Principles of Play 2.0",
-   "An allocator model for std2",
-   "Using Modern CMake Patterns to Enforce a Good Modular Design",
-   "Amazing Code Reviews: Creating a Superhero Collective",
-   "Inside a static analyzer: type system",
-   "Pipes: How Plumbing Can Make Your C++ Code More Expressive",
-   "Experience Report - Teaching Kids to Code for 10 Years",
-   "retpoline",
-   "Burnout",
-   "Return Value Optimization: Harder Than It Looks",
-   "AppSec: From the OWASP Top Ten(s) to the OWASP ASVS",
-   "Don't constexpr All the Things",
-   "Functional Data Structures in C++",
-   "C++ Standards Committee Fireside Chat",
-   "CI Your Presentation for Fun and Profit",
-   "The Object Upside Down",
-   "Site Reliability Engineering",
-   "The Badlands of C++: Professional Game Development",
-   "interview with Clare Macrae",
-   "C++ Core Guidelines - Safer C++",
-   "The Do's and Don'ts of Error Handling",
-   "A Whirlwind Overview of C++11",
-   "Docker Based C++ Dependency and Build Management",
-   "Welcome To The Time Zone",
-   "Polyglot Agile",
-   "Back to Basics: Move Semantics",
-   "Selected C++11 Template Toffees From sqlpp11 (Part1)",
-   "Rust as foundation in a polyglot development environment",
-   "Considerations for choosing the parallel computing strategy",
-   "A C++14 approach to dates and times",
-   "Intro to Empirical Software Engineering: What We Know We Don't Know",
-   "Space adventures",
-   "Is this available?",
-   "How to test static_assert?",
-   "Visualizing Cloud Systems",
-   "How you can make a Boost C++ Library",
-   "Monotron - a 1980s style home computer written in Rust",
-   "C++ at Build 2012, Inside Profile Guided Optimization",
-   "D as a Better C",
-   "functional: What's New, And Proper Usage",
-   "#include <os>: from bootloader to REST API with the new C++",
-   "Halide: A Language for Fast, Portable Computation on Images and Tensors",
-   "The C++20 Firehose Talk",
-   "A short story about...",
-   "The Ongoing Saga of ISO-C++ Executors",
-   "Undefined behaviour in the STL",
-   "Algorithmic and microarchitecture optimizations of C++ applications",
-   "Uncoupling",
-   "The Plan for Tomorrow: Extension Points in C++ Applications",
-   "The Research Software Engineer - a new career path in academia",
-   "Whoops! I Rewrote It in Rust",
-   "C++20 Lambdas: Familiar Template Syntax",
-   "A Zephyr Overview of C++11 (Part I)",
-   "OO Considered Harmful",
-   "R-Evolution: A Story of Rust Adoption",
-   "How Kotlin makes your Java code better",
-   "Should I care about CPU cache?",
-   "Compile-time programming and reflection in C++20 and beyond",
-   "Writing the Fastest GBDT Library in Rust",
-   "Complecting Made Easy",
-   "How we Built Google Tulip Using Serverless Tech & ML",
-   "Parallel Design Patterns and Stream Parallelism",
-   "Lambdas - uses and abuses",
-   "Examining applications that do not terminate on std::bad_alloc",
-   "Live Kubernetes Debugging with the Elastic Stack",
-   "Let's All just Agree: Achieving Consensus in Blockchain-based Systems",
-   "Functional reactive programming in C++",
-   "Yomm11: Open Multi-Methods for C++11",
-   "An Adventure in Race Conditions",
-   "C++ is NOT a Hammer",
-   "Using Concepts: C++ Design in a Concept World (part 1 of 2)",
-   "Variadic Templates in C++11 / C++14 - An Introduction",
-   "Parallel Computing Visualization",
-   "Building C++ Modules",
-   "Rapid Java Innovation",
-   "Rethinking Strings",
-   "Easy Binary Compatible C++ Interfaces Across Compilers",
-   "Analyzing Pwned Passwords with Apache Spark",
-   "The Many Variants of std::variant",
-   "Embedded & C++",
-   "The next big Thing",
-   "Your Superpower User Manual",
-   "Templator: Demo of a nice tool...",
-   "dynamic_cast From Scratch",
-   "Move Constructors: Is it Possible?",
-   "Rolling Your Own Circuit Simulator",
-   "Stdfwd - Forward Declarations for C++ Standard Library",
-   "template<template...>",
-   "Politics & Hierarchy: How We Create It & How to Stop",
-   "Computer Science - A Guide for the Perplexed",
-   "UT - C++20 Unit Testing Framework",
-   "C++11 Library Design",
-   "C++ Performance in Practice: Align, Vectorise, Cache, Jump!",
-   "Structure aware fuzzing",
-   "Design Patterns for Handling/Reporting Errors in C++ - Parallel Algorithms & Executors",
-   "Semantic Sugar: Tips for Effective Template Library APIs",
-   "AI: Actual Intelligence",
-   "Disrupting QA - Emerging Trends in Code Quality Automation",
-   "How Embedded Rust can be the next Arduino in 5 easy steps",
-   "How to Hack OAuth",
-   "Designing A Feature That Doesn't Fit",
-   "Multithreading is the answer. What is the question? (part 2 of 2)",
-   "A Unifying Abstraction for Async in C++",
-   "Secure boot in embedded Linux systems",
-   "Why C++0x is the Awesomest Language for Network Programming",
-   "LLVM: A Modern, Open C++ Toolchain",
-   "Scaling with C++11",
-   "Using Trompeloeil, a mocking framework for modern C++",
-   "Clang Concepts",
-   "Unicode in C++",
-   "Conversation AI, the new User Experience",
-   "Seeing the bigger picture -- part I",
-   "async/await with async-std",
-   "Life of an async fn",
-   "Tailored static tooling using Clang: Clazy",
-   "Functional Programming for the Web with Elm",
-   "So You Think You Know How to Work With Concepts?",
-   "Engineering Software Integral Types",
-   "Enhanced Support for Value Semantics in C++17",
-   "Removing Metaprogramming From C++, Part 1 of N: constexpr Function Params",
-   "An Average Working Day on Visionary NASA Projects",
-   "Spirit: History and Evolution",
-   "An Overview of the Embedded Rust Ecosystem",
-   "Artificial Intelligence Reloaded - AI Apps in the Industry",
-   "Lessons Learned: Recruiting & Onboarding Agile Teams",
-   "Facts You May Not Know About Kotlin",
-   "When C++ Style Guides Contradict",
-   "Lakos'20: The 'Dam' Book is Done!",
-   "Points of Order",
-   "CMake: One Tool To Build Them All",
-   "Drinking from the Fire Hose: Keeping up with the evolving landscape of C++",
-   "Bringing Magic To Microservice Architecture Development",
-   "From Iterators to Ranges: The Upcoming Evolution Of the STL",
-   "Sane and Safe C++ Classes",
-   "Type Deduction in C++14",
-   "When warnings become errors. A case-study of latent bugs (...)",
-   "Macchina a Stati Finiti con il Functor Pattern",
-   "Status quo: clang-tidy & AddressSanitizer on Windows",
-   "The Projucer: Live coding with C++ and the LLVM JIT engine",
-   "Undefined Behavior in  (part 1 of 2)",
-   "Variable Templates and Compile-Time Computation with C++14",
-   "Quantum Computing Q&A",
-   "Building a Telegram Bot with Apache Kafka, Go & ksqlDB",
-   "Haskell -- The Pseudocode Language for C++ Template Metaprogramming (Part 2)",
-   "Back to Basics: Design Patterns",
-   "Agility at Scale: A Meeting of Mindsets",
-   "Where C++17 is going",
-   "Techniques for mocking in C++",
-   "It Really is Easier to Ask for Forgiveness (than Permission)",
-   "When Paradigms Collide",
-   "Introduction to encryption for embedded Linux developers",
-   "Value Semantics: It ain't about the syntax!, Part I",
-   "How to pass (my) candidate screening",
-   "Words Of Power",
-   "How to Write Effective Documentation for C++ Libraries...",
-   "Bootstrapped by Boost",
-   "Elsewhere Memory (C++20 Abstract Machine) + Virtual Memory",
-   "Redux Architecture",
-   "SSD lifetime, data integrity and real-time: compromises and lessons learned",
-   "Kotlin/Native: The Good, The Bad, and the Ugly",
-   "Boost.Process: Process management in C++",
-   "C++ Puzzlers",
-   "The Coaching Leader & Architect",
-   "66 hours of Rust",
-   "Costless Software Abstractions for Parallel Architectures",
-   "Rise of the State Machines",
-   "Is C++ really a highperformance language?",
-   "The Committee Experience",
-   "The C++20 firehose talk",
-   "Kotlin: Dissecting the stdlib",
-   "Serverless is the Abstraction We Deserve",
-   "You Really Don't Need All that JavaScript, I Promise",
-   "Design Patterns in Modern C++",
-   "3 Common Pitfalls in Microservice Integration & How to Avoid Them",
-   "Type Traits - what are they and why should I use them?",
-   "C++ Execution Model In Five Minutes",
-   "A perfect async RPC Framework?",
-   "Making C++ Code Beautiful",
-   "Beyond C++17",
-   "Thin LTO",
-   "Deprecating Simplicity - Building a New Test Culture",
-   "The C++20 Standard Library - Beyond Ranges",
-   "Expression Templates - Past, Present, Future (PART 1)",
-   "Ethereum Fundamentals",
-   "Building conversational voice bots - lessons learned",
-   "What Technical Leads Can Learn from Great General Managers",
-   "Logic Paradigm for C++",
-   "Friendship in Service of Testing",
-   "When Python Practices Go Wrong",
-   "Using Open Source Observability with Lambda",
-   "Naivety of Creating Cross-Platform, Modern C++ Libraries...",
-   "Virtual assembly for web application",
-   "Deep C Diving - Fast and Scalable Text Interfaces at the Bottom",
-   "Better embedded library interfaces with modern C++",
-   "How to Preserve your Institutional Knowledge",
-   "Bringing Rust Home to Meet the Parents",
-   "Effective Remote C++ Development with Codespaces",
-   "An Intro to Project Riff, a FaaS Built on Top of Knative",
-   "Rapid Prototyping in C++",
-   "C++ is like Javascript",
-   "Enhancing STL containers",
-   "Reducing Memory Allocations in a Large C++ Application",
-   "C++0x Progress and Status",
-   "Serverless Architectural Patterns and Best Practices",
-   "Strong types for strong interfaces",
-   "Adopting gRPC: Overcoming Team and Technical Hurdles",
-   "Better mutual exclusion on the filesystem using Boost.AFIO",
-   "Refactoring Trust on Your Team",
-   "Workflow Modeling with Boost Graph Library",
-   "Writing Fast Code II",
-   "Functional Reactive Programming - Cleanly Abstracted Interactivity",
-   "Standardizing a linear algebra library",
-   "Euclid's Algorithm & STL",
-   "C++ Reflection via Clang LibTooling",
-   "The Bad Big Wolf Meets Riding Hood Little Red",
-   "The C++ Type System Is Your Friend",
-   "Project managing in Data Science teams",
-   "Can we make a faster linked list?",
-   "From security to performance to GPU programming...",
-   "Can software developers draw pictures?",
-   "CppComponents- A Modern Portable C++11 Component System",
-   "The performance Addict's Toolbox",
-   "tuple<>: What's New and How it Works",
-   "The Best Type Traits that C++ Doesn't Have",
-   "probe-rs: Your Embedded Tome",
-   "C++ atomics, from basic to advanced.  What do they really do?",
-   "std::shared_ptr/T/",
-   "Build for everyday programmers and why should they care",
-   "Zen and the Art of Convincing Your Company to Use Rust",
-   "The Performance Price of Dynamic Memory in C++",
-   "More Modern CMake",
-   "Getting Started with Quantum Programming",
-   "The better parts",
-   "Software Visualization: The humane solution",
-   "From Electron, to Wasm, to Rust (Aaand Back to Electron)",
-   "Mobile Edge Clouds...",
-   "Boosting knowledge sharing",
-   "Modern C++ API Design: From Rvalue-References to Type Design",
-   "If You Can't Open It, You Don't Own It",
-   "Toward Native XML Processing Using Multi-paradigm Design in C++",
-   "Thinking Portable: How and why to make your C++ cross platform",
-   "GraalVM: Run Programs Faster Anywhere",
-   "#DigitalNudge - The Hidden Forces that Shape our Digital Decisions",
-   "Grill the C++ Committee with Jon Kalb",
-   "10 Core Guidelines You Need to Start Using Now",
-   "Game Audio Programming in C++",
-   "An Overview of Transport Layer Security (TLS) Protocol Version 1.3",
-   "Secure Coding Best Practices: Your First Line Is The Last Line Of Defense (2 of 2)",
-   "Large-Scale C++: Advanced Levelization Techniques, Part II",
-   "Executors for C++ - A Long Story ...",
-   "Correct by Construction: APIs That Are Easy to Use and Hard to Misuse",
-   "Inextricably Linked: Reproducibility & Productivity in Data Science & AI",
-   "Option(al) is not a failure",
-   "Interactive, Introspected C++ at CERN",
-   "Generating OpenCL/CUDA source code from C++ expressions in VexCL",
-   "Generic Programming",
-   "A Multi-threaded, Transaction-Based Locking Strategy for Containers",
-   "True parallelism, with no concept of threads",
-   "Typing types at type level",
-   "Esoteric Data Structures and Where to Find Them",
-   "High Velocity Development of Microservices",
-   "What's My Object?",
-   "Class Template Argument Deduction in C++17",
-   "Designing value classes for modern C++",
-   "C++ API & ABI versioning",
-   "Common API Security Pitfalls",
-   "Everything is serialization",
-   "Rust 2018: Access All Areas",
-   "How bad is meta-programming still today?",
-   "Are Your Builds Running Separately from Your Production Cluster? (Q1)",
-   "On the Road to Artificial General Intelligence",
-   "Software Engineering - Development in 100 Years Time",
-   "2FA in 2020 and Beyond",
-   "Axiomatic Programming: From Euclidean Deductions to C++ Templates and Beyond",
-   "Postmodern Immutable Data Structures",
-   "Designated Initializers: Remembering Every Struct Member in Declaration Order Is Hard",
-   "Modules are Coming",
-   "A Test a Day Keeps Your Manager Away!",
-   "C++ Package Manager",
-   "Turning MQTT v5 inside out",
-   "Fight, Flight, or Freeze - Releasing Organizational Trauma",
-   "What is Open Source, and Why Should You Care?",
-   "Read, Copy, Update, then what? RCU for non-kernel programmers",
-   "Introducing RTEMS, a serious real-time OS",
-   "Qt as a C++ Framework: History, Present State and Future",
-   "How to Evolve Your Way Out of a Paper Bag",
-   "Boostache Exposed : the internals of Boost's template engine",
-   "Regex in C++11 and Boost",
-   "Class Template Argument Deduction: A New Abstraction",
-   "Software Transaction Memory, For Reals",
-   "Modern C++ as Concurrent Assembly",
-   "Lock-Free Programming (or, Juggling Razor Blades), Part I",
-   "Mocking C++",
-   "Compile Time Regular Expressions with A Deterministic Finite Automaton",
-   "Programming challenges in converting R to C++",
-   "Jami on i.MX6: bring fully distributed & secure comm. capabilities to embedded products",
-   "Improving Debuggability with GDB's Python API",
-   "Introduction to Bazel to build C++ and Python",
-   "Server-side Kotlin with Coroutines",
-   "Multitype Pool: fixed type allocation",
-   "When a Microsecond Is an Eternity: High Performance Trading Systems in C++",
-   "Habits of Efficient Developers",
-   "The Networking TS in Practice: Testable, Composable Asynchronous I/O in C++",
-   "If you're arguing, you're losing",
-   "Allocators in C++11",
-   "array_ref: Multidimensional Array References for the C++ Standard Library",
-   "Clean Coders Hate (...) When You Use These (...) Tricks",
-   "Common Webapp Vulnerabilities and What to Do About Them",
-   "Arguments over Arguments",
-   "Why don't the cool kids like OOP?",
-   "Think About Front-end Web Development with Rust",
-   "Powering Crowd-sourcing of Public Transit Delays with Rust",
-   "A Quantum Computing Lab Tour at D-Wave",
-   "Gradual typing of production applications",
-   "Binary compatibility for library developers",
-   "Finding Bugs with Clang at Compile and Run Time",
-   "Don't Walk Away from Complexity, Run",
-   "Thoughts on Metaclasses",
-   "Assertions of Competence",
-   "Clean code in Go",
-   "10 Techniques to Understand Code You Don't Know",
-   "Structure and Interpretation of Test Cases",
-   "Practical Cloud Native: What Works, What Doesn't",
-   "Back to Basics: Test-driven Development",
-   "Clang Automated Refactoring for everyone with clangmetatool",
-   "Expect the Expected",
-   "C++ Metaprogramming: A Paradigm Shift",
-   "Undefined Behavior is Not an Error",
-   "The Smart Pointers I Wish I Had",
-   "What C++ is and what it will become",
-   "Algorithms and Iterators for Multidimensional Arrays",
-   "The CPU Cache: Instruction Re-Ordering Made Obvious",
-   "How to use correctly the const qualifier?",
-   "Diagnose your Golang App anytime anywhere!",
-   "Image Signal Processing (ISP) Drivers & How to Merge One Upstream",
-   "Building LPWAN Solutions that last for Years",
-   "Form an Israeli C++ National Body",
-   "Why I Was Wrong About TypeScript",
-   "Delegate this! Designing with delegates in modern C++",
-   "Cross Platform GUID Association with Types",
-   "What's New in Visual C++ 2015 and Future Directions",
-   "What I Talk About When I Talk About Cross Platform Development",
-   "11 Years of Boost at Conservancy",
-   "Life After Java 8",
-   "Pulling Visitors",
-   "The Worst Best Practices",
-   "Interoperable AI: ONNX & ONNXRuntime in C++",
-   "Debugging using an exact recording of a program's execution",
-   "Variadic templates are funadic",
-   "HORRORLARITY",
-   "Why you should (...) compiling your code into web assembly",
-   "Effective Code Review",
-   "179 range algorithms in less than an hour",
-   "Concepts Lite: Constraining Templates with Predicates",
-   "Developing EDSL's for Boost.Spirit",
-   "The Grand Challenge and Promise of Quantum Computing",
-   "Refactoring Superpowers",
-   "Introduction to C++ Coroutines",
-   "Legacy Evolution - The Innovation Opportunity!",
-   "Effective Qt",
-   "Using Spirit X3, Part II",
-   "So you want to test your templated code? I know your type",
-   "The Silicon Valley coding interview",
-   "2020: The Year of Sanitizers?",
-   "No Return: Beyond Transactions in Code and Life",
-   "What's New in Swift",
-   "Functional Design Explained",
-   "C++ Coroutines - a negative overhead abstraction",
-   "Rust: Learning through the language itself — RustFest Global 2020",
-   "Comparison is not simple, but it can be simpler",
-   "C++ and Persistent Memory Technologies, Like Intel's 3D-XPoint",
-   "C++ Integer Promotion is Completely Broken",
-   "The Intellectual Ascent to Agda",
-   "Networking TS Workshop (part 1 of 2)",
-   "Generic programming for structure-aware algorithms",
-   "Three Cool Things about D",
-   "Building a 'Backend-less' URL Shortener",
-   "What Does THIS Button Do? Serverless and IoT",
-   "Ask Me Anything",
-   "The Past, Present and Future of Cloud Native API Gateways",
-   "From Experimentation to Products: The Production Machine Learning Journey",
-   "std::accumulate: Exploring an Algorithmic Empire",
-   "Threads and Shared Variables in C++0x",
-   "noexcept considered harmful ???",
-   "Futures Without Type Erasure",
-   "Dynamic, Recursive, Heterogeneous Types in Statically-Typed Languages",
-   "What a View! Building Your Own (Lazy) Range Adaptors (part 1 of 2)",
-   "C++11/14/17 atomics and memory model...",
-   "fixed_point",
-   "Thinking Asynchronously",
-   "New standards to the rescue: the view through an IDE's glasses",
-   "Sitting Considered Deadly",
-   "Not Leaving Performance On The Jump Table",
-   "It's DNS, Jim, but not as we know it",
-   "Making C++ and the STL Work in the Linux / Windows Kernels",
-   "Lambdas from First Principles: A Whirlwind Tour of C++",
-   "The missing piece of the continuous integration puzzle",
-   "DevSecOps, Containers & Shift-Left, are those just Buzzwords?",
-   "All the defaults are backwards",
-   "Advanced Levelization Techniques (part 1 of 3)",
-   "Undefined Behavior - Not what you expected",
-   "The Clacks in Discworld and Roundworld",
-   "Building Software Capital: How to write the highest quality code and why",
-   "Iterators May Stay",
-   "A clean and minimal map API",
-   "Standardised Coroutine Concurrency in Python 3",
-   "Portable yet thin OS abstractions",
-   "Simple, Extensible Pattern Matching in C++14",
-   "Functional Error and Optional-value Handling with STX",
-   "Less Code = More Software",
-   "The Future of Sustainable Transportation",
-   "SPMD Programming Using C++ and ISPC",
-   "Cross-platform C++ development is challenging - let tools help!",
-   "Git, CMake, Conan: How to Ship and Reuse our C++ Projects",
-   "Fueling the Quantum Application Era with the Cloud",
-   "Recreational C++",
-   "3 Practices for Effective DevOps Adoption",
-   "My Little Optimizer: Undefined Behavior is Magic",
-   "How to make Augmented Reality with Qt/QML and OpenCV ?",
-   "Modern Continuous Delivery",
-   "Waltzing with Branches",
-   "Using C++20 Ranges Effectively",
-   "The evolving search for modern APIs in Boost",
-   "Defensive Programming Done Right, Part II",
-   "A Practical Approach to Error Handling",
-   "Type-safe state machines with C++17 std::variant",
-   "Microservice API Management, Discovery Documentation and all that Jazz",
-   "Overloading: The Bane of All Higher-Order Functions",
-   "Library Approaches for Strong Type Aliases",
-   "Implementing a Domain Specific Embedded Language with Boost Proto",
-   "Would 'reserve'/'upgrade'/'downgrade' Methods Improve 'std::shared_mutex'?",
-   "Writing A Python Interpreter for Fun & Profit",
-   "Elegant Filesystem Interactions in Python using pathlib",
-   "Boost.Graph for Beginners",
-   "Exception-Safe Coding in C++ (Part I)",
-   "Intel's C++ STM Compiler and Transactional Language Constructs for C++",
-   "Bootiful GraphQL with Kotlin",
-   "Move-only types can save the API",
-   "map[Code, Performance] myMCU{?}",
-   "What is the basic interface?",
-   "Managarm: A Fully Asynchronous OS Based on Modern C++",
-   "The Development Metrics You Should Use (but Don't)",
-   "Designing Multithreaded Code for Scalability",
-   "SG14 (the GameDev & low latency ISO C++ working group)",
-   "GameDays: Practice Thoughtful Chaos Engineering",
-   "Thinking Outside the Synchronisation Quadrant",
-   "Quickly and Effectively Testing Legacy C++ Code with Approval Tests",
-   "How Profile-Guided Optimization Makes Your Code Faster Without Any Code Changes",
-   "Building Evolutionary Infrastructure",
-   "C++ based mobile application",
-   "Scheme Lisp: Feel the Cool",
-   "Common-sense acceleration of your MLOC build",
-   "Persuasive Design",
-   "C++ Catastrophes: A Poem",
-   "Faster Code Through Parallelism on CPUs and GPUs",
-   "Functional Programming: data",
-   "Using tasks to simplify concurrency in modern C++",
-   "Lockfree Programming Part 2: Data Structures",
-   "Executors in C++",
-   "Compile Time Regular Expressions",
-   "Functional Geometry: Producing Pure Spaces",
-   "C++ Concepts for ill-posed Inverse-Problems",
-   "interview with Klaus Iglberger",
-   "How To Move Fast Without Breaking Everything",
-   "An Overview of C++11/14, Part I",
-   "Thoughts on a more powerful and simpler C++ (5 of N)",
-   "Time Travel Debugging",
-   "Getting type name at compile time",
-   "Atomic's memory orders, what for?",
-   "From the OWASP Top Ten(s) to the OWASP ASVS",
-   "Love Letter to the Computer",
-   "Compile-Time Social Coordination",
-   "The hidden rules of world-class C++ code",
-   "Data-Oriented Design for Object-Oriented Programmers",
-   "Contracts programming after C++17",
-   "Is Parallel Programming still hard? PART 2 of 2",
-   "Reflections: Compile-time Introspection of Source Code",
-   "Ai4Prod: the ecosystem to bring AI in production through C++",
-   "C++20 Ranges: Code Expressively with Ranges",
-   "What C++ Programmers Need to Know about Header <random>",
-   "Introduction to Qt 3D",
-   "Back to Basics: Pointers and Memory",
-   "C++17 - The Good and the Ugly",
-   "Pragmatic Unit Testing in C++",
-   "Rust: Hack Without Fear!",
-   "Your CPU is binary",
-   "WebThings : Your IoT with privacy by design",
-   "C/C++ is very similar to Java/JavaScript",
-   "Functional Programming in C++",
-   "Grill the Committee",
-   "What's new in Visual Studio Code for C++ development",
-   "The core C++ guidelines for safer Code",
-   "#Hashing ( Hashing Values )",
-   "Scaling up an iOS Codebase",
-   "C++20: What's in it for you?",
-   "Next Generation Debugging",
-   "ADL: introduction in name taxonomy, customization points and use cases",
-   "Object-Oriented Program: Best Practices",
-   "Investigation and Creation of Software",
-   "Structured Bindings demystified",
-   "You're Testing WHAT?",
-   "Looking Back to Look Forward",
-   "The View from a Standard Library Implementor",
-   "Ranges for the Standard Library",
-   "Cache consistency and the C++ memory model: writing code to (...)",
-   "Balancing Choreography and Orchestration",
-   "FPGA for software developers",
-   "How I Used Rust to Become Extremely Offline",
-   "Networking TS Workshop (part 2 of 2)",
-   "Bringing Business Logic Back to C++",
-   "Make your programs more reliable with Fuzzing",
-   "Scale, Flow and Microservices",
-   "What did C++ do for Transactional Memory?",
-   "interview with Peter Hilton",
-   "Esolangs",
-   "Responsible AI for Business Leaders",
-   "Project Necromancy: How to Revive a Dead Rust Project",
-   "Securing APIs and Microservices with OAuth and OpenID Connect",
-   "Defensive Programming Done Right, Part I",
-   "Better CTAD for C++20",
-   "More GDB wizardry and 8 other essential Linux application debugging tools",
-   "Talking with Tech Leads",
-   "Introduction to C++ python extensions and embedding Python in C++ Apps",
-   "Device Tree: hardware description for everybody!",
-   "Lightweight Object Persistence With Relocatable Heaps in Modern C++",
-   "Debugging Linux C++",
-   "Fast numerical computation in C++: Expression Templates",
-   "A modern formatting library for C++",
-   "Fighting Git Workflows",
-   "C++ - the Newest Old Language",
-   "Navigating the development and evolution of a library",
-   "What's New In The C++14 Library",
-   "C++ Cryptozoology - A Compendium of Cryptic Characters",
-   "Using Compile-time Code Generation to build an LLVM IR Pattern Matcher",
-   "The Future is Istio",
-   "Asynchronous C++ Programming",
-   "Motivated reasoning",
-   "No raw loops with no OS",
-   "Fastbuild",
-   "Increase App Confidence Using CI/CD and Infrastructure as Code",
-   "C++ Insights: How Stuff Works, Lambdas and More!",
-   "A Fool's Consistency",
-   "Object-relational mapping with ODB and Boost",
-   "Making C++ easier, faster, safer (part 2)",
-   "Enough string_view to Hang Ourselves",
-   "The taming of the Software: C++, embedded... and more",
-   "Kotlin as Java++",
-   "Programming utilities for Unix-like systems in Python",
-   "JavaScript can get faster, WebAssembly can get even faster",
-   "Product Security, From the dark side to the light",
-   "Optimally Shooting Furry Balls out of Vulkanoes",
-   "Flowz: towards an EDSL for digital signal processing",
-   "Mongrel Monads, Dirty, Dirty, Dirty",
-   "The Dawn Of A New Error",
-   "Anatomy of a Smart Pointer",
-   "What a View! Building Your Own (Lazy) Range Adaptors (part 2 of 2)",
-   "Getting Jiggy with Proto - Hands-on Tutorial on C++ EDSL Design",
-   "My First Rust Project: Creating a Roguelike with Amethyst",
-   "Creating intuitive APIs",
-   "Meta: Thoughts on generative C++",
-   "My Least Favorite Anti-Pattern",
-   "Tier 3 Means Getting Your Hands Dirty",
-   "Live Lock-Free or Deadlock (Practical Lock-free Programming) (PART 2)",
-   "Higher-order functions in Modern C++: existing techniques and function_ref",
-   "Loop Exit Blocks: A proposal for C++20",
-   "Real time 101",
-   "Closing the Gap between Rust and C++ Using Principles of Static Analysis",
-   "How to Refactor Millions of Line of Code Without Alienating your Colleagues",
-   "Lock-Free Programming (or, Juggling Razor Blades), Part II",
-   "Explore your Microservices Architecture with Graph Theory & Network Science",
-   "Mobile App Development for Multiple Platforms with Visual C++,",
-   "Event-based Architecture and Implementations with Kafka and Atom",
-   "Black-box performance analysis",
-   "Design for Cost VS Cost of Design",
-   "Applied Hierarchical Reuse: Capitalizing on Bloomberg's Foundation Libraries",
-   "C++ metaprogramming: a paradigm shift",
-   "Experimental comparison...",
-   "The stand up",
-   "An Introduction to Systems & Service Monitoring with Prometheus",
-   "boost.tmp: Your DSL for Metaprogramming - Part 2 of 2",
-   "Calling Functions: A Tutorial",
-   "DNS at 30",
-   "Seven Languages in 90 Minutes",
-   "Can You Prevent Container Drift? (Q6)",
-   "C++: Fast and Small - What are the Costs of Language Features",
-   "Log Analytics: Understanding Complex Systems at Scale",
-   "Accept No Visitors",
-   "Spirit.Qi in the Real World",
-   "Safe Software for Autonomous Mobility With Modern C++",
+   "Easy::Jit: A Just-in-Time compilation library for C++",
+   "Code samples that actually compile",
    "Abseil's Open Source Hashtables: 2 Years In",
-   "Making Fast Incremental Compiler for Huge Codebase",
-   "STL Algorithms - How to Use Them and How to Write Your Own",
-   "The Surprising Costs of void() (and Other Not-Quite-Innocuous Evils)",
-   "Smart Pointer Parameters",
-   "How to Lead through Turbulence w/ Compassion & Confidence",
-   "Oh No! More Modern CMake",
-   "Grill The Committee",
-   "(Ab)using C++17",
-   "What did I learn teaching C++ to beginners",
-   "Mostly Invalid: flat_map, Exception Guarantees, and the STL",
-   "Reflection in C++ Next",
-   "What Every C++ Programmer Should Know About Modern Compilers",
-   "If I Had My 'Druthers: A Proposal for Improving the Containers in C++2x",
-   "De-fragmenting C++: Making exceptions more affordable and usable",
-   "Model - View - Whatever MVW",
-   "Talk to me! The art of reporting a bug",
-   "EDSL Infinity Wars: Mainstreaming Symbolic Computation",
-   "Practical Techniques for Improving C++ Build Times",
-   "New Build System for New C++",
-   "OPC UA, La norme d'interoperabilite securisee pour l'Industrie 4.0 et l'IoT",
-   "Socializing with {fmt}",
-   "The Rough Road Towards Upgrading to C++ Modules",
-   "Optimizing the Emergent Structures of C++",
-   "SFINAE: Substitution Failure Is Not An Error",
-   "Five Things Every Developer Should Know about Software Architecture",
-   "C++ on GPUs done right?",
-   "Modern Software Needs Embedded Modern C++ Programming",
-   "Building a C++ Reflection System",
-   "Expression Templates Everywhere with C++14 and Yap",
-   "No Touchy! A Case Study of Software Architecture with Immutable Objects",
-   "C++ Mixins: Customization Through Compile Time Composition",
-   "Generic Programming with Concepts Lite, Part II",
-   "Writing Good C++14",
-   "Macro-Free Testing With C++20",
-   "Monads in Chains",
-   "Practical Cross-Platform Mobile C++ Development",
-   "Thinking Asynchronously: Designing Applications with Boost.Asio",
-   "Two practical applications of the Brigand TMP library",
-   "Building Better Worlds: Developing a Procedural City Tool for Alien...",
-   "Mastering Git's index",
-   "Rpath and binary reuse",
-   "Rusty USB Gadgets Make Barking BeagleBones",
-   "War is Peace, Freedom is Slavery, Ignorance is Strength, Scrum is Agile",
-   "The Database Unbundled: Commit Logs in an Age of Microservices",
-   "Making Allocators Work, Part II",
-   "Better Algorithm Intuition",
-   "Memory Tagging and how it improves C/C++ memory safety",
-   "Template Magic For Beginners",
-   "Taking Security Seriously",
-   "Polymorphism with Unions",
-   "Embedded rust on the beagleboard X15",
-   "Build your own Language: Why & How?",
-   "Undefined behaviour is awesome!",
-   "How to Preserve Privacy on a Blockchain",
-   "Making Chaos Engineering Boring: Debunking Myths Hampering Adoption",
-   "Pattern Matching: Match Me If You Can",
-   "This is why we can('t) have nice things",
-   "An Interesting Lock-free Queue - Part 2 of N",
-   "Inference in C++: The big picture",
-   "A Complete Overview on Boost.Jam and Boost.Build",
-   "PSD2, SCA, WTF?",
-   "A Possible Future of Embedded Software Development",
-   "Dynamic Non-Events",
-   "Coworking Spaces - a Journey through the Concepts",
-   "Learnable Programming with Rust",
-   "Touring the Tips of the Week Series",
-   "Exception-Safe Coding in C++ (Part II)",
-   "Hunting the mammoth in the modern age",
-   "DevOps is not only for IT players!",
-   "Cyclomatic Complexity pmccabe as a Refactor Aid",
-   "Enum to string using metaprogramming",
-   "Developing C++ @ Facebook Scale",
-   "How Embedded Developers work from home using labgrid",
-   "Project Update: Libs Team",
-   "My Little *this Deduction: Friendship is ... Uniform?",
-   "From (Big) Data Mess to Data as an Innovation Enabler",
-   "The Need for Role Model Ladders",
-   "Let's Get Lazy: Exploring the Real Power of Streams",
-   "A system for resource deadlock prevention using intrusive dynamic analysis",
-   "GDB - A Lot More Than You Knew",
-   "A Glimpse of Trygve: From Class-oriented Programming to Real OO",
-   "Sane and Safe C++ Class Types",
-   "Apex.AI: Safe and certified software for autonomous mobility",
-   "Time Programming Fundamentals",
-   "New C++ features for writing DSLs",
-   "Diet for your Templates - Reducing Code Bloat in Your Templated Library",
-   "Local ('Arena') Memory Allocators (part 2 of 2)",
-   "Asynchronous Programming Using the Boost.MetaStateMachine and the Upcoming Asynchrnonous Library",
-   "Why You Should Care about Sparse Matrices",
-   "Inside Fresh Paint - A C++ + XAML + DirectX Windows Store App",
-   "C++20 in Breadth",
-   "STL Algorithms as Expressions",
-   "Breaking Dependencies: The SOLID Principles",
-   "Oo Considered Harmful",
-   "Moving Fast At Scale",
-   "Real-world Reactive Programming in Java: The Definitive Guide",
-   "Quickly testing legacy code",
-   "Who includes me?",
-   "Let's make a telegram bot with C++",
-   "Simulating the Universe Using Modern C++",
-   "Classes With Many Fields",
-   "A thorough look into spatial mapping with HoloLens",
-   "Ensuring Exception Safety Through Testing",
-   "Immediately Invoked Lambda Expressions",
-   "Fortransformers: A Field Study",
-   "SOLID Elixir",
-   "TDD/BDD and DI",
-   "Just-in-Time Compilation",
-   "Spectre: Secrets, Side-Channels, Sandboxes, and Security",
-   "Secure & Fast microVM for Serverless Computing",
-   "Call: A Library that Will Change the Way You Think about Function Invocations (2 of 2)",
-   "With Age Comes Wisdom: Lessons Learned in 15 Years of Building Software",
-   "C++ vs C the embedded perspective",
-   "Critical Code analysis with Observer Pattern",
-   "Surveying the Community - What Could Possibly Go Wrong",
-   "Value Semantics and Range Algorithms - Composability and Efficiency",
-   "Copy Elision",
-   "A Tutorial Introduction to C++11 & 14 Part 1",
-   "C++ Code Smells",
-   "The Basics of Lock-free Programming",
-   "Building Prediction Pipelines that Rock in the Real World",
-   "Serverless: Five Key Things you need to Know",
-   "Unconditional Code",
-   "The Hitchhiker's Guide to Faster Builds - Part 2 of 2",
-   "Adventures in SIMD-Thinking (part 1 of 2)",
-   "Generative Programming in Action: Emulating the 3DS",
-   "Day 2",
-   "The need for a package manager interface",
-   "The Concepts of concepts",
-   "Procedural Programming: It's Back? It Never Went Away",
-   "RTIC: Real Time Interrupt driven Concurrency",
-   "How C++20 changes the way we write code",
-   "Alignment in C++: Use, Limitations, and Extension",
-   "Hate yourself? Keep using Python 2",
-   "Why Your Private Cloud is Probably a Bad Idea",
-   "Better Tools in Your Clang Toolbox",
-   "Embrace No Paradigm Programming!",
-   "Embarking on Your Security Journey",
-   "Technical documentation is a backup so make sure it works @ CppEurope",
-   "Finding hard to find bugs with Address Sanitizer",
-   "Go: Concurrency Design",
-   "Improving Readability With Class Template Argument Deduction",
-   "Practical constexpr",
-   "A Beginner's Guide to eBPF Programming with Go",
-   "Rethinking the Way We Do Templates in C++ even more",
-   "Embarcadero Case Study: Bringing CLANG/LLVM To Windows",
-   "Using build2, C++ Build Toolchain",
-   "Compiling Multi-Million Line C++ Code Bases Effortlessly with the Meson Build System",
-   "Small is beautiful: Techniques to minimise memory footprint",
-   "Non-conforming C++: the Secrets the Committee Is Hiding From You",
-   "The Story of Villagers, Marbles and Oh, A Blockchain",
-   "WG21-SG14: The Story So Far",
-   "C++ Puzzler",
-   "LauncherOne rocket with C++ engine",
-   "Analyzing Configuration of Cellular Networks at Nokia with (...)",
-   "Reducing Template Compilation Overhead, Using  C++11, 14, 17, and 20.",
-   "HTTP Headers for the Responsible Developer",
-   "A Deep Dive into 2 Cross-Platform Mobile Apps Written in C++",
-   "Specialising Linear Algebra for Geometry",
-   "Removing Undefined behavior from integer operations: The bounded::integer library",
-   "folly::Function: A Non-copyable Alternative to std::function",
-   "How to Cook a Chicken",
-   "string_view",
-   "Considering Rust for scientific software",
-   "C++17's std::pmr Comes With a Cost",
-   "What Neighborhoods Owe Each Other: Rights, Duties, Immunities & Disabilities of Functions & Objects",
-   "There and Back Again: An Incremental C++ Modules Design",
-   "Learn Programming, then Learn how to Be a Programmer",
-   "People First Leadership",
-   "Undefined Behavior and Compiler Optimizations",
-   "3D Face Tracking and Reconstruction using Modern C++",
-   "Selected C++11 Template Toffees From sqlpp11 (Part4)",
-   "C++17 : The Biggest Traps",
-   "Trusting your Raspberry Pi - An introduction to the TPM and IoT",
-   "C++ Development with Visual Studio Code",
-   "Lightweight 2D graphics with io2d",
-   "Faster Complex Numbers",
-   "Named Arguments from Scratch",
-   "Recent developments and future outlook of Qt",
-   "Introducing Microsoft's New Open Source Fuzzing Platform",
-   "The Holy Grail!? A Persistent Hash-Array-Mapped Trie for C++",
-   "Ranges for distributed and asynchronous systems",
-   "Pruning Error Messages From Your C++ Template Code",
-   "Pimp my Log()",
-   "Diving into a large, legacy code::base as a youngster",
-   "Multiple Interface Class Inheritance and Name Hiding",
-   "Initialization in modern C++",
-   "Kubernetes Operability Tooling",
-   "Avoiding Disasters with Strongly Typed C++",
-   "C++ Component Extensions for WinRT",
-   "Using TensorFlow in Embedded Rust",
-   "Fun with Type Erasure: Implementing a Value Wrapper for Polymorphic Types",
-   "Generic Programming with Concepts Lite, Part I",
-   "What Has My Compiler Done for Me Lately? Unbolting the Compiler's Lid",
-   "Efficient GPU Programming with Modern C++",
-   "An Overview of Standard Ranges",
-   "Combined Short Talks",
-   "zbus Fearless IPC for embedded Linux is finally here",
-   "An Introduction to the Proposed Coroutine Support for C++",
-   "Numerical Weather Prediction: Facing the Future with C++",
-   "C++ Standard Library",
-   "Accu Overload",
-   "Make Classes Great Again! (Using Concepts for Customization Points)",
-   "Contracts for Dependable C++",
-   "Want fast C++? Know your hardware!",
-   "ThinLTO: Scalable and Incremental Link-Time Optimization",
-   "Benchmarking in C++",
-   "Class Fixes; Or, You Become the Rust Compiler",
-   "Lessons Learned",
-   "EOS Software development for additive manufacturing",
-   "constexpr: Applications",
-   "C++ Today: The Beast is Back",
-   "Snakes Into Snake Oil - What Blockchains Are And Why They're Terrible",
-   "Is your Agile agile?",
-   "If You're Happy and You Know It (Inside the Mind of a Developer)",
-   "Going Static in a Dynamic World with Hasura and Nuxt.js",
-   "Iterators and Ranges: Comparing C++ to D to Rust",
-   "Making New Friends",
-   "Bridging Languages Cross-Platform...",
-   "Rcpp: Seamless R and C++ Integration",
-   "Inside Spirit X3: Redesigning Boost.Spirit for C++11",
-   "Reducing OS noise using offload driver",
-   "C++ Coroutines: Under the covers",
-   "Databases on Kubernetes: Why You Should Care!",
-   "The Future of C++ Parallel and Concurrency Safety Guidelines",
-   "Contract Programming: What, Why, and How?",
-   "Data oriented design in practice",
-   "The Internet of Things",
-   "Confusion in the Land of the Serverless",
-   "Work Stealing",
-   "Hook: The C++ library you were waiting for",
-   "C++ Test-driven Development",
-   "Improving Performance and Maintainability in Modern C++",
-   "Better Code",
-   "Nbdl: A library that uses metaprogramming... A lot",
-   "Helping Developers to Help Each Other",
-   "Concept Based Testing",
-   "pinned_vector",
-   "aa-scan3 - an AppArmor profiles generator",
-   "Object-Oriented Programming in Modern C++",
-   "Easy to Use, Hard to Misuse: Declarative Style in C++",
-   "Monolithic Delivery",
-   "Without Warning: Keeping the Noise Down in Legacy Code Builds",
-   "Modern C++ in Embedded OS Dev",
-   "Interconnection security - SS7 and diameter",
-   "Breaking Language Barriers with AI",
-   "What is the basic interface? (part 1 of 2)",
-   "Software development - learning to walk again",
-   "WARNING: std::find is broken",
-   "Quickly & Effectively Testing Legacy C++ Code with Approval Tests",
-   "C++11/14 at Scale: What Have We Learned?",
-   "Using Freestanding C++ for C++17 in Shellcode, UEFI, Embedded & Unikernels",
-   "How Google SRE and Developers Work Together",
-   "Open is Good - yomm2: Fast, Orthogonal Open Methods",
-   "Using Functional Programming Patterns...",
-   "Algorithms from a Compiler Developer's Toolbox",
-   "interview with Jose Daniel Garcia",
-   "C++20: C++ at 40",
-   "Linear programming made easy with Boost Proto",
-   "The Anatomy of Error Messages in Rust",
-   "Cloud Native Development Without the Toil",
-   "Agent-based class design - a step towards betters customizations points",
-   "Advanced Levelization Techniques (part 2 of 3)",
-   "Future C++1x proposals",
-   "Hey C, This Is What Performance Looks like",
-   "There is a Better Future",
-   "Best practices when accessing Big Data or any other data!",
-   "Learn Robotics with C++ in 1 Hour",
-   "DevUX: Improving Developer-Designer Collaboration",
-   "The Three Little Dots and the Big Bad Lambdas",
-   "Heterogeneous Programming in C++ with SYCL 2020",
-   "UX Tips to Avoid Losing Users' Attention",
-   "Simplest Safe Integers",
-   "Introducing Casablanca - A Modern C++ API for Connected Computing",
-   "Techniques for Overloading any_invocable",
-   "Networking TS w/Algorithms",
-   "Teach Your Computer to Code FizzBuzz",
-   "Implementing C++ Semantics in Python",
-   "Lessons Learned Developing the C++11 Standard Library",
-   "How bananas could save your project. Understanding UX",
-   "The Life of a CPU Instruction",
-   "These two ints have different types. A Data Oriented Design story",
-   "An Approach to Dealing with Reference Types in the Generic Programming Paradigm",
-   "Diversity and Inclusion   2017",
-   "Back to Basics: Move Semantics (part 2 of 2)",
-   "Range-Based Text Formatting - For a Future Range-Based Standard Library",
-   "The cost of simple programs",
-   "Objection! A language lawyer story",
-   "Haskell taketh away: limiting side effects for parallel programming",
-   "How to Herd 1,000 Libraries",
-   "Boosting Libraries for TR2",
-   "C++17 in Breadth (part 1 of 2)",
-   "Writing Node.js/Electron native C++ addons for beginners",
-   "Compiled C++ Coding Standards",
-   "Where do you want to put the comma?",
-   "Hands-On With Abseil",
-   "Jepsen 9: A Fsyncing Feeling",
-   "interview with Augustin Popa & Elizabeth Morrow",
-   "Rainbow Six Siege: Quest for Performance",
-   "Is Parallel Programming still hard? PART 1 of 2",
-   "Clean Architecture with ASP.NET Core 3.0",
-   "Secrets of Effective Communication You Can Learn (from my Failures!)",
-   "C++ Today: The beast is back",
-   "Continuous Integration of C/C++ Apps for IoT Devices",
-   "Generic Binding",
-   "C++ Community Surveys",
-   "CPU optimized data structures - more fun with assembler",
-   "Learning to Love your Non-functionals",
-   "Can AI replace programmers?",
-   "Building a Coroutine based Job System without Standard Library",
-   "Dino Apps Deserve Love Too!",
-   "Destructor Case Studies: Best Practices for Safe and Efficient Teardown",
-   "Funqual: user-defined statically-checked call graph constraints in C++",
-   "How to understand million-line C++ projects",
-   "The Science of Unit Tests",
-   "GNU/Linux ou Android comme système d'exploitation embarque ?",
-   "How to get rid of Obsession?",
-   "A C++ MQTT Message Broker for the Enterprise",
-   "Modern C++ Design (part 1 of 2)",
-   "The Language of Programming",
-   "C++ Modules: The State of The Union",
-   "Raising a Coder in an Educational Maelstrom: Advice & Lessons Learned",
-   "Extrema:  Correctly Calculating min and max",
-   "Is Boost Broken?",
-   "Are You Ready for IPv6?",
-   "Boosting MPL with Haskell elements",
-   "The Continuing Saga of the Lock-free Queue: Part 3 of N",
-   "Frozen data structures in C++14",
-   "Improving Business Resiliency with Chaos Engineering",
-   "Diagnosing Memory Leaks",
-   "How to mock in the 21st century",
-   "Contract Programming in C++(20) (part 2 of 2)",
-   "Types Don't Know #",
-   "Conference Opening",
-   "Creating an Incremental Architecture for your System",
-   "Smart References: There and Back Again",
-   "What do you mean by 'cache friendly'?",
-   "Back to Basics: Smart Pointers",
-   "Monitoring: Turning Noise into Signal",
-   "Reactive Spring",
-   "Improve your C++ with inspirations from other languages",
-   "Java Current and Future",
-   "True Continuous Improvement with Toyota Kata",
-   "Better Code: Data Structures",
-   "C/C++ Memory Model",
-   "(Deep) Learning to Fly",
-   "Kubernetes Day 3: The State of Kubernetes Development Tooling",
-   "Ladon -- A Distributed State-Machine Framework",
-   "Git from the Ground Up",
-   "Modern C++ Interfaces...",
-   "Deep Learning for Developers",
-   "Modern C++ Coming to Terms With Terms",
-   "Easing into Modern C++",
-   "test_resource: the pmr detective",
-   "Multithreading Using Lockless Lists and RCU",
-   "Boost.Generic: Concepts without Concepts",
-   "Implementation of a multithreaded compile-time ECS in C++14",
-   "Benchmarking C++ Code",
-   "Practical Functional Programming in C++",
-   "What We Left Behind - 10 Valuable Skills From The 1990s",
-   "Understanding Lvalues and Rvalues",
-   "Leveraging the range based for loop",
-   "A Code-Driven Introduction to Reinforcement Learning",
-   "Awaiting for the ranges: C++17",
-   "STL Algorithms in Action",
-   "sqlpp11, An SQL Library Worthy Of Modern C++",
-   "Rethinking Pointers",
-   "Containers in Boost",
-   "Integrating generators EDSL's for Spirit X3 (WIP)",
-   "boost::string_ref",
-   "Requirement: Creativity",
-   "The Shape of a Program",
-   "Re-architecting 2-tier to 3-tier",
-   "Writing cache friendly C++",
-   "Distributed applications are easy. Just read the fine print",
-   "Grill the Committee!",
-   "Surfacing Composition",
-   "All The World's A Staging Server",
-   "CPU-Friendly Code",
-   "Introduction to Micronaut",
-   "Cloud Native Java",
-   "Modern Template Metaprogramming: A Compendium, Part I",
-   "Incident Analysis Before Chaos Engineering",
-   "Keys to Building Machine Learning Systems",
-   "When Should You Give Two Things the Same Name?",
-   "50.000 Orange Stickies Later",
-   "An allocator is a handle to a heap",
-   "Trivially Relocatable",
-   "Machine learning and image processing",
-   "How custom gdb commands help in C++ development",
-   "Some Programming Myths Revisited",
-   "Simplifying control flow",
-   "Cloud Native C++: Modern architecture for (...)",
-   "Welcome Words",
-   "Reader-Writer Lock versus Mutex - Understanding a Lost Bet",
-   "Writing Great Libraries: 89 Easy Steps",
-   "High performance data structures in boost",
-   "Local (Arena) Allocators Part II",
-   "Live Hacking Session Part 1",
-   "The DiRT on Chaos Engineering at Google",
-   "Algorithm Intuition",
-   "Fantastic Algorithms and Where To Find Them",
-   "A little Rusty in Quantum Physics",
-   "How Business Is The Key To Making The World A Happier Place",
-   "From nothing to too much: growing a tech community in the East of England",
-   "Secure Coding Best Practices - Threat Hunting",
-   "Turning Particle-Astro-Physicist-Hackers into Software Engineers",
-   "CMake + Conan: 3 Years Later",
-   "Introduction from co-organizers",
-   "multi_span<...>",
-   "Garbage In, Garbage Out: Arguing about Undefined Behavior...",
-   "Parallelism on Ranges: Should We?",
-   "Conference Closing",
-   "C++ template metaprogramming, a practical approach",
-   "Automatic Task-based Code Generation for High Performance DSEL",
-   "ODB, Advanced Weapons and Tactics",
-   "Range-based text formatting",
-   "std variant and the power of pattern matching",
-   "C++11's Quiet Little Gem: <system_error>",
-   "The Set of Natural Code",
-   "MicroEJ, un environnement virtualise pour l'embarque",
-   "Making Iterators, Views and Containers Easier to Write with Boost.STLInterfaces",
-   "List",
-   "How to Write Well-Behaved Value Wrappers",
-   "Support for Embedded Programming in C++11 and C++14",
-   "Building an Accessibility Culture",
-   "Time Travel: Applying Gradual Typing to Time Types with Clang's LibTooling",
-   "Introduction to hpxMP",
-   "Next-Generation Programming: Rust & Elm",
-   "Security & Trust in a Microservices World",
-   "ODB, an ORM for C++(11)",
-   "Naming is Hard: Let's Do Better",
-   "Running Zephyr and Linux on the same SoC: making both worlds live together !",
-   "A Crash Course in Open Source Licensing",
-   "Survey of Multi-Threaded Programming Support in C++11 and Boost",
-   "Back to Basics: Concurrency",
-   "AI/ML, Quantum Comp. & 5G - Opportunities, Challenges & Impact on Society",
-   "HTML: How to Make Loveliness",
-   "Where We're Going, We Don't Need Servers!",
-   "On the road to a trusted boot chain on STM32MP1 series",
-   "HTTP/3 Is Next Generation HTTP. Is It QUIC Enough?",
-   "AsyncIO and Music",
-   "Generic programming of Generic Spaces: Compile-Time Geometric Algebra with C++11",
-   "Co- and Contra-: Adding a Little Variance",
-   "HPX: A C++11 parallel runtime system",
-   "Expression Templates: Past, Present, Future (PART 2)",
-   "How I learned to Stop Worrying and Love the C++ Type System",
-   "Responsible AI for Engineers",
-   "Meta Monads",
-   "Fireside Chat About OAuth 2.0 @ Aaron Parecki & Eric Johnson @ GOTO 2021",
-   "ConceptClang: Theoretical Advances with Full C++ Concepts",
-   "Reasoning with function signatures",
-   "ASoC: Audio on an embedded board",
-   "Futurology for Developers",
-   "This Videogame Programmer Used the STL and You Will Never Guess What Happened Next",
-   "C++17 coroutines for app and library developers",
-   "Putting Your Security on the Wire",
-   "How Microteams Change the Way We Collaborate. Again",
-   "The Implementation of Value Types",
-   "Interaction Protocols: It's All About Good Manners",
-   "and , the View From Inside",
-   "Miri, Undefined Behavior and Foreign Functions",
-   "An Update on Sealed Rust",
-   "Learning and Teaching Modern C++",
-   "Introduction to brigand",
-   "Making It Count: Quality is NOT an Option",
-   "You Really Don't Need All That JavaScript, I Promise",
-   "Implementing a Modern C++ MQTT Client for Embedded Devices",
-   "C++20 String Formatting Library: An Overview and Use with Custom Types",
-   "JSR-385: Learning from the $125 Million Mars Climate Orbiter Mistake",
-   "Safe Numerics Library",
-   "C++ Metaprogramming: evolution and future direction",
-   "Troubleshooting Tiered Tragedy: A Peek Into Failure",
-   "How to Become a Great Software Architect",
-   "Come Stream with Me",
-   "generic-programming-with-concepts",
-   "Achieving Functional Programming in Java",
-   "Large-Scale Refactoring @ Google",
-   "completion T : Improving the future T with monads",
-   "Building Resilient Frontend Architecture",
-   "Debugging with LLVM XRay",
-   "Identifying Monoids: Exploiting Compositional Structure in Code",
-   "Data Science for Everyone with ISLE",
-   "Design And Implementation Of DBMS Asynchronous Client Library",
-   "Asynchronous Programming in Modern C++",
-   "VC11 Auto-Vectorizer, C++ NOW, Lang.NEXT",
-   "Taking the Plunge Towards CMake in Boost",
-   "What belongs in the C++ Standard Library",
-   "Building an Intuition for Composition",
-   "OAuth Tokens As Your Identity API",
-   "Parametric Expressions: A Proposed Language Feature",
-   "CERN, from an IT Perspective",
-   "Preconditions, Postconditions, Invariants: How They Help Write Robust Programs",
-   "Debug C++ Without Running",
-   "Better C++ using Machine Learning on Large Projects",
-   "C++ in Elvenland",
-   "The C++ Execution Model",
-   "Make It Fixable: Preparing for Security Vulnerability Reports",
-   "John Deere Operations Center Development Journey & Ecosystems",
-   "Pattern Matching in C++14",
-   "The Julia Language and C++: The Perfect Marriage?",
-   "Stop Punching Yourself in the Face",
-   "Parallel Programming using Charm++",
-   "The Asynchronous Enterprise",
-   "API & ABI versioning",
-   "The Blaze High Performance Math Library",
-   "Introduction to OAuth 2.0 and OpenID Connect",
-   "Server Driven UI on Mobile",
-   "Practical SIMD acceleration with Boost.SIMD",
-   "What Do You Mean?",
-   "Making C++ easier, faster and safer (part 1)",
-   "Code Reviews - Why, what and how",
-   "std::allocator...",
-   "Get Ready to Rock with Sonic Pi - The Live Coding Music Synth for Everyone",
-   "Surprises in Object Lifetime",
-   "Teaching old compilers new tricks",
-   "What happened to...: Deprecated and Removed Features of C++",
-   "Fewer bugs",
-   "Lambda? You Keep Using that Letter",
-   "The Untapped Potential of Software Visualization",
-   "C++ Dependency Management: from Package Consumption to Project Development",
-   "Infiltrating a Code Base: Moving Toward a Better C",
-   "Are you Avoiding --privileged? (Q3)",
-   "A lock-free concurrent toolkit for hazard pointers",
-   "Controlling Telescope Hardware with Rust",
-   "Live Compiler Development with Cross-Platform Tooling",
-   "Quickly Testing Qt Desktop Applications with Approval Tests",
-   "Preparing the C++11 Library AFIO for Boost Peer Review",
-   "Accelerating Machine Learning DevOps with Kubeflow",
-   "Boost.Geometry takes on the globe",
-   "C++ Tool Support: Where We Are and Where We Are Heading",
-   "Understanding value categories in C++",
-   "Understanding U-Boot Falcon Mode and adding support for new boards",
-   "boost.tmp: Your DSL for Metaprogramming - Part 1 of 2",
-   "Build your own (Rust-y) robot!",
-   "An alternative design for C++20 customization points",
-   "Haskell -- The Pseudocode Language for C++ Template Metaprogramming (Part 1)",
-   "HPX and GPU parallelized STL",
-   "Advanced Feature Flagging: It's All About The Data",
-   "Variadic and Variable Templates in C++14",
-   "Property-Based Declarative Containers",
-   "Algorithm Design For Values Distributed In Time",
-   "C++ as a 'Live at Head' Language",
-   "Cloud Native is about Culture, not Containers",
-   "Expected- An exception-friendly Error Monad",
-   "The Abilities of Good Code",
-   "Risks in Systems Design: Chaos Engineering in Apps & Cloud Security",
-   "Now What? A vignette in three parts",
-   "Ø",
-   "C++ on small micro controllers",
-   "Automatic Hybrid MPI+OpenMP Code Generation",
-   "Multithreading is the answer. What is the question? (part 1 of 2)",
-   "Modules are coming",
-   "What does it mean to trust your boot process?",
-   "Exceptions Under the Spotlight",
-   "Introduction to Undodb",
-   "The Story of a Product Startup from a Founder's Perspective",
-   "Building Modern Native Applications with Gradle",
-   "Augmented Reality, Beyond Virtual Objects Floating in Physical Space",
-   "Debugging memory corruptions in C++",
-   "Software Automation in a Polyglot Stack",
-   "The MLIR Framework: A Brief Introduction to Deep Learning Compilers",
-   "Testing the Limits of Allocator Awareness",
-   "std::variant & Blockchain",
-   "Async... oh, wait",
-   "FPGA and open hardware",
-   "Product types for C++20?",
-   "Almost no raw loops",
-   "C++20 Text Formatting",
-   "Leveraging Serverless in Full-stack Development",
-   "Why Open Source Firmware is Important",
-   "Concurrency and Parallelism in C++17 and C++20/23",
-   "Seventeenification: Porting sqlpp11 to C++17",
-   "When you hit 'Error: memory is not aligned.'",
-   "Policy-based design in C++20",
-   "Extending C++ with Co-Array semantics",
-   "Writing a reflection engine from scratch",
-   "Distributed Mutual Exclusion using Proposed Boost.AFIO",
-   "interview with Manuel Benche",
-   "Puzzler",
-   "Counting Nanoseconds Microbenchmarking C++ Code",
-   "Game engine using STD C++ 11",
-   "Reader-Writer Lock versus Mutex",
-   "Iron Man vs Pony",
-   "Dynamic Reteaming at Fast-Growing Companies",
-   "A concept design for C++",
-   "The 5 Pillars of Collaborative Product Ownership",
-   "The Rust 2018 Module System",
-   "Mocking Framworks considered, harmful?!",
-   "Knowledge is Power: Getting out of Trouble by Understanding Git",
-   "C++ STL best and worst performance features and how to learn from them",
-   "Expression Templates Revisited",
-   "Random numbers are hard",
-   "Pimpl idiom, multiple Inheritance and facet pattern",
-   "Understanding Boost.Build",
-   "Keep your code sane with clang-tidy",
-   "Atomics, Locks, and Tasks (part 2 of 2)",
-   "Anchored metadata",
-   "The Mathematical Underpinnings of Promises in C++",
-   "Applied WebAssembly: Compiling and Running C++ in Your Web Browser",
-   "Ranges v3 and microcontrollers, a revolution",
-   "Fuzzing Class Interfaces for Generating and Running Tests with libFuzzer",
-   "Expertise Research in Software Engineering C/C++ Code Reviews",
-   "Phoenix V3 -- An Overview",
-   "Why and How to Roll Your Own std::function Implementation",
-   "Back To Basics: Lambda Expressions",
-   "Multidimensional Iterators",
-   "Intro to Rust",
-   "Back to Basics: Templates (part 1 of 2)",
-   "for_each_argument explained and expanded",
-   "Why I should run my applications in containers (or, at least, consider doing it)?",
-   "How to answer 'why will yours succeed, when X, Y, and Z have failed?'",
-   "Upgrade Time: Choose Java 11+ or the 'Other' One...Kotlin",
-   "These aren't the COM Objects you're looking for",
-   "Reflection Techniques in C++",
-   "Is std::function really the best we can do?",
-   "Doxygen to DoxyPress...",
-   "Standardizing Linux Boot process for RISC-V platforms",
-   "Deeply Embedded C++",
-   "An Allocator is a Handle to a Heap",
-   "Building for the Best of Us: Design and Development with Kids in Mind",
-   "Upgrade Time: Choose Java 11 or the 'other' one...Kotlin",
-   "Applying functional programming in code design",
-   "yomm2: Fast, Orthogonal, Open Methods in a Library",
-   "Building efficient I/O intensive applications with Seastar",
-   "Standard Slam",
-   "A Quantum Data Structure For Classical Computers",
-   "WebAssembly for non-beginners",
-   "Numbers",
-   "Cross plattform C++ development is challenging",
-   "Plenary: Performance Matters",
-   "The Detection Idiom - a simpler way to SFINAE",
-   "An application for private inheritance",
-   "Crafting EDSL In C++ using Metaprogramming, Operator Overloading, & Lambda Expressions",
-   "Empirically Measuring, & Reducing, C++'s Accidental Complexity",
-   "Parallelism in Modern C++",
-   "Black Box Optimization of Compile Times",
-   "Tools to Ease Cross-Platform C++ Development @ CppEurope 2020",
-   "When dependency hell freezes over",
-   "It's Complicated",
-   "Grill the C++ committee -  Discussion",
-   "Azure Sphere",
-   "Conan, le gestionnaire de paquets C/C++",
-   "Code review",
-   "Dependency Injection - a 25-dollar term for a 5-cent concept",
-   "Higher-order functions and 'function_ref",
-   "The Story of CyberDojo (so far)",
-   "LLVM C/C++ compiler frontend in Java",
-   "Fireside Chat: Brave New World of Software",
-   "Content Security Policies: Let's Break Stuff",
-   "The Future of Machine Learning & JavaScript",
-   "Breadcrumbs won't help: how not to get lost in a lambda forest",
-   "C++ Potpourri 2",
-   "Beyond C++17 (Part 2 of N)",
-   "C++ Metaprogramming: Journey from simple to insanity and back",
-   "Dashboards to the Rescue",
-   "Building safe & Secure embedded systems by means of hypervisor approach",
-   "Rust for Safer Protocol Development",
-   "Reflection",
-   "Finally Executors for C++",
-   "Temporal Modelling",
-   "Why Are Distributed Systems so Hard?",
-   "Effective Practices for Engineering Teams",
-   "Embedded: Customizing Dynamic Memory Management in C++",
-   "Hello World From Scratch",
-   "Simple hand written parsers",
-   "Making Microservices Micro with Istio and Kubernetes",
-   "Messing Around with fn main() and Getting Away with it",
-   "Generic Programming And the Boost Graph Library",
-   "C++ for cross-platform VR",
-   "Abstraction by the rule of 10",
-   "Fun with C11 generic selection expression",
-   "Value Semantics and Concepts-based Polymorphism",
-   "MPL11: A New Metaprogramming Library for C++11",
-   "Fresh Async With Kotlin",
-   "The Hidden Secrets of Move Semantics",
-   "Customization points that suck less",
-   "Fun with Tuples",
-   "Take your microservices to the next level with gRPC",
-   "Time Travel Debugging...",
-   "How Everyday Technology Can Be Used to Help the Climate",
-   "A Food pairing device, with offline AI and edge computing",
-   "Boost.Asio and Boost.Serialization, Part I",
-   "The C++20 Standard Library: Beyond Ranges",
-   "Taming dynamic memory - An introduction to custom allocators in C++",
-   "Les outils open source pour les FPGA",
-   "Modern embedded APIs...",
-   "C++ in Huge AAA Games",
-   "Become A Game Developer In 5 Minutes Or Less",
-   "Type punning in modern C++",
-   "Small Lie in Big O",
-   "Modernizing Legacy C++ Code",
-   "Millisecond Full Stack Acceptance Tests",
-   "Beyond Microservices: Streams, State and Scalability",
-   "Dependency management in C++",
-   "Meta Polymorphism",
-   "Read and write considered harmful",
-   "Frictionless Allocators",
-   "Learning (and teaching) modern C++ - Challenges and Resources",
-   "Modules in C++",
-   "Under a Microscope: Exploring Fast and Safe Rust for Biology",
-   "Deconstructing the OS: The devil's In the side effects",
-   "Mocking Frameworks considered harmful",
-   "What Could Possibly Go Wrong?: A Tale of Expectations and Exceptions",
-   "Red teaming in Poland - test cases",
-   "Functional Programming in 40 Minutes",
-   "The Design of a New C++ Build Toolchain",
-   "C++17 - the upcoming revolution",
-   "C++ Concepts Lite' in Practice'",
-   "Modern generic programming using the Tick and Fit libraries",
-   "Template meta-programming: Why you must get it",
-   "Value Semantics: It ain't about the syntax!, Part II",
-   "Initializer Lists Are Broken, Let's Fix Them",
-   "Taming dynamic memory",
-   "What Engineering Managers Should Do (and Why We Don't)",
-   "Developing an embedded application for the IoT",
-   "Exception-Safe Code, Part II",
-   "Writing a cache-friendly C++ code",
-   "Error handling Isn't All About Errors",
-   "A C++ Approach to Physical Units",
-   "C++20 - My Favourite Code Examples",
-   "Better Code: Concurrency",
-   "C++11 library components to make a scientist happy",
-   "Evolving array_view and string_view for safe C++ code",
-   "Observability, Distributed Tracing & the Complex World",
-   "Amp Up Web Audio Applications with Rust and WebAssembly",
-   "Sooner rather than later",
-   "Combining Chaos, Observability & Resilience to get Chaos Engineering",
-   "SICP Cover Demystified",
-   "Deep Learning in Medicine",
-   "Beyond AI",
-   "An implementer's view of Boost.SIMD",
-   "The Asynchronous C++ Parallel Programming Model",
-   "Property based testing in C++",
-   "Towards contract programming in C++",
-   "From Flying Cars to Humans on Mars",
-   "Fun with structured bindings",
-   "How C++20 Can Simplify std::tuple",
-   "Concept Driven Design with Dependency Injection",
-   "Designing XML API for Modern C++",
-   "Product Types for C++2x",
-   "History of Time: Asynchronous C++",
-   "C++ as Assembly 2.0 - Hello Nim",
-   "Catch [^]: Unicode for C++23",
-   "Modern CMake for modular design",
-   "C++11 was only the beginning",
-   "Optimizing Performance of Stateful Apps for Globally Distributed Users",
-   "Implementing A Modern C++ MQTT Client for Embedded Devices",
-   "Functional Programming, a pragmatic approach",
-   "How to Write a Custom Allocator",
-   "Dealing with Embedded Limitations",
-   "Rich Code for Tiny Computers: A Simple Commodore 64 Game in C++17",
-   "Using Types Effectively",
-   "I'm falling in love with Globals",
-   "Captioning and Translating C++ Videos- Part 2 of 2",
-   "Programming with C++ Constraints: Background, Utility, and Gotchas",
-   "Why you don't see Blockchain in your Everyday Life...yet",
-   "Best Practices for Concurrency",
-   "Better C++14 reflections",
-   "The Lifecycle of an A/B Test",
-   "Using weakly ordered C++ atomics correctly",
-   "Taming the performance Beast",
-   "Machine learning - when big data is not enough",
-   "StringViews, StringViews everywhere!",
-   "Hacker's guide to Rust Programming",
-   "20 years of extending C++: What can we learn?",
-   "Functional Programming - Technical reasons to adapt",
-   "Boost.Text: Fixing std::string, and Adding Unicode to Standard C++ (part 2)",
-   "Tools from the C++ Ecosystem to save a leg",
-   "LINQ for C/C++, Native Rx",
-   "Distributed Object Abstraction in HPX",
-   "Template Normal Programming (part 1 of 2)",
-   "Interview Question",
-   "Taskflow: A Parallel and Heterogeneous Task Programming System Using Modern C++",
-   "Thoughts on Curiously Recurring Template Pattern",
-   "Sqlpp11, An EDSL For Type-Safe SQL In C++11",
-   "Lightning Strikes!",
-   "Boost.Units",
-   "Functional C++ for Fun and Profit",
-   "Data Structure Visualizers in Visual Studio 2010",
-   "C++ on the Edge – Machine Learning + Microcontrollers + C++",
-   "The C++ Rvalue Lifetime Disaster",
-   "Swearing, Nudity and Other Vulnerable Positions",
-   "Naked coroutines live (with networking)",
-   "Diversity & Inclusivity in Tech",
-   "Pragmatic Type Erasure: Solving OOP Problems w/ Elegant Design Pattern",
-   "Visualize Template Instantiations - Understand your Template Bugs",
-   "OAuth and OpenID Connect in Plain English",
-   "A <chrono> Tutorial",
-   "High Cost Tests and High Value Tests",
-   "Biicode, a C/C++ dependency manager with a hosting service",
-   "Tuning C++: Benchmarks, and CPUs, and Compilers! Oh My!",
-   "C++: lambda Demystified",
-   "SW compatibility, plan it or face eventual consequences",
-   "Mob Programming and the Power of Flow",
-   "Why Aren't You A Data-Driven AI Company Yet?",
-   "The life changing magic of tidying up",
-   "Effective CMake",
-   "Mach7: The Design and Evolution of a Pattern Matching Library for C++",
-   "C++ Modules & Large-Scale Development",
-   "Embind and Emscripten: Blending C++11, JavaScript, and the Web Browser",
-   "CUDA Kernels with C++",
-   "The Landscape and Exciting New Future of Safe Reclamation for High Performance",
-   "Mix tests and production code with doctest (...)",
-   "It's Getting Faster",
-   "An introduction to Kotlin by example",
-   "Local ('Arena') Memory Allocators",
-   "Calendars for Humans - How to Undo the All-day Cram",
-   "What's new in Visual Studio IDE for C++ Developers",
-   "Windows, MacOS and Web: Lessons from Cross-platform Development @ think-cell",
-   "How Python Wins New Friends",
-   "Multi-Threading With C++11 and Boost",
-   "Behind the scenes of upgrading a static analyzer to C++20",
-   "What Programmers Should Know About Memory Allocation",
-   "Machine Ethics",
-   "Designing and Implementing a new Allocator model",
-   "Using Units, Qantities, and Dimensions in C++14",
-   "Equivalence in cross-compilation compiler warnings",
-   "Progressive Delivery: Patterns & Benefits of Decoupling Deploy from Release",
-   "The Problem with 'Cutting Edge C++",
-   "The Speed Game: Automated Trading Systems in C++",
-   "Clean Integral Code",
-   "opt-viewer: Inspecting compiler optimizations in high-level code",
-   "C++ Memory Model Meets High-Update-Rate Data Structures",
-   "Moving Fast at Scale",
-   "Concepts -  Evolution or Revolution",
-   "Optimizing Kubernetes Deployments with Helm",
-   "Embracing the Future in a Multi-Platform World: A Kotlin Story",
-   "My Four Year Bug",
-   "Metaprogramming Applied to Numerical Problems",
-   "Moving Faster: Everyday Efficiency in Modern C++",
-   "C++, Abstract Algebra and Practical Applications",
-   "How does Git actually work?",
-   "Good Enough Architecture Part 1",
-   "What a Conference! NOW 30 That's What I Call C++",
-   "Function default arguments: Slingshot or Shotgun?",
-   "High Performance Graphics and Text Rendering on the GPU",
-   "Modern C++ Design (part 2 of 2)",
-   "Developing a Linux driver in Rust for ARM",
-   "FourCCs Done Right",
-   "The Design of the C++ Runtime for AWS Lambda",
-   "No lightsaber is needed to break the Wookey",
-   "Solving World Problems with Fusion",
-   "Deliver Results, Not Just Releases",
-   "Serialization in C++ has never been easier! But wait, there's more",
-   "Ryppl -- A New Platform for Boost Development",
-   "An Introduction to C++ Coroutines",
-   "Data-Driven Engineering",
-   "Supersonic, Subatomic Eclipse MicroProfile",
-   "Latest & Greatest in Visual Studio for C++ developers",
-   "Introduction to Modern C++ Techniques (Part I)",
-   "Generic Conversion & Segmentation for Ranges: A Solution for Unicode",
-   "Computer Architecture, C++, and High Performance",
-   "Tacit DSL All the Things",
-   "There Are No Zero-cost Abstractions",
-   "Variants: Past, Present, and Future",
-   "Metaprogramming for dummies",
-   "Concepts vs Typeclasses vs Traits vs Protocols",
-   "Placement New",
-   "Atomics, Locks, and Tasks (part 1 of 2)",
-   "Include C++",
-   "Video Rendering on Frontend and Backend",
-   "Role of Product Manager",
-   "Rust Async Programming in 2018",
-   "Lesson to Learn   2017",
-   "The Science of Sleep",
-   "Are Your Secrets Encrypted at Rest and in Transit? (Q5)",
-   "Great C++ is_trivial",
-   "The Current State of (free) Static Analysis",
-   "Reactive Stream Processing in Industrial IoT using DDS and Rx.cpp",
-   "On 'simple' Optimizations",
-   "Contract use: Past, Present, and Future",
-   "Design Patterns for Low-Level Real-Time Rendering",
-   "Serverless Tales from the Trenches",
-   "The Art of Code",
-   "The 'Detection idiom:' A Better Way to SFINAE",
-   "Mastering the IoT with C++ and JavaScript",
-   "The New Old Thing, of Fun with Lambdas",
-   "Easier said than done. Self-organized teams",
-   "Maximizing Java Application Performance with GraalVM",
-   "Selected C++11 Template Toffees From sqlpp11 (Part2)",
-   "Core principles and creating lightweight design",
-   "Splash screen for Embedded Linux 101: How to customize your boot sequence",
-   "TensorFlow Lite: Accelerate your Android and iOS App with AI",
-   "Hybrid Intelligence: First Rate Humans, Not Second Class Robots",
-   "Introducing Parallelism to the Ranges TS",
-   "Secure Coding Best Practices: Your First Line Is The Last Line Of Defense (1 of 2)",
-   "I have to make a confession",
-   "Variations on variants",
-   "Competitive Advantage with D",
-   "Making Mutants Work for You",
-   "Modern C++ Design reloaded",
-   "Template Metaprogramming: Type Traits (part 1 of 2)",
-   "Lock-free by Example: Towards an Interesting Lock-free MPMC Queue",
-   "Delivering software that is secure & usable - who's job is it?",
-   "How I Code and Why",
-   "Fuzz Driven Development",
-   "The World after Microservice Migration w/ Service Mesh & Contract Testing",
-   "Poetry",
-   "The ABI challenge",
-   "Event-Driven Microservices, the Sense, the Non-sense and a Way Forward",
-   "Effective Qt ( edition)",
-   "Boost.Blockchain: A new business model for open source",
-   "Linux User/Kernel ABI: the realities of how C and C++ programs really talk to the OS",
-   "The Point of Views: Multidimensional Ranges for HPC",
-   "WG21 Paper in Markdown",
-   "Welcome to Serverless 2.0",
-   "Overloading the Member Access Operator",
-   "Pattern Matching: A Sneak Peek",
-   "What boost could learn from QT",
-   "Converting to C++20 Modules",
-   "Proper Inheritance (part 1 of 2)",
-   "High Performance Code 201: Hybrid Data Structures",
-   "A View to a View",
-   "40 Years Of Evolution from Functions to Coroutines",
-   "Debugging and Profiling C++ Template Metaprograms",
-   "A Question of Ownership",
-   "Techniques in Flexible Header-Only C++ Network Library Implementations",
-   "Your Brain on Software Development",
-   "Details Matter",
-   "C++ on the Web: Ponies for developers without pwn'ing users",
-   "MFC - the M's for Mixin",
-   "STL Features And Implementation Techniques",
-   "odeint -- Solving ordinary differential equations in C++",
-   "The most valuable values",
-   "Weak Interfaces -> Weak Defences: The Bane of Implicit Conversion in Function Calls",
-   "Extending clang-tidy in the Present and in the Future",
-   "Putting 'integer_sequence' on a diet",
-   "The Best Parts of C++",
-   "What is Telco Cloud",
-   "Getting to Grips with Kubernetes RBAC",
-   "Nullable Reference Types in C# 8",
-   "Machine Learning for a rescue",
-   "Static Analysis and C++: More Than Lint",
-   "OpenMP for better high-level parallelism, not just for High Performance Computing",
-   "Basic Web Applications Security",
-   "Back to the future",
-   "Using Spirit X3 to Write Parsers",
-   "GPU processing of V4L2 live video on NVIDIA Jetson with CUDA",
-   "C++ Conferences",
-   "Promises in C++: The Universal Glue for Asynchronous Programs",
-   "Vue and You",
-   "Secure C++ Programming",
-   "Meta++: Language Support for Advanced Generative Programming",
-   "A Multithreaded,Transaction-Based Locking Strategy for Containers",
-   "Structured logging",
-   "Introducing the Ranges TS",
-   "Reactive Systems",
-   "Re-engineering Inclusion",
-   "Fighting Compiler warnings",
-   "Clang",
-   "Practical Performance Practices",
-   "Bringing Clang and C++ to GPUs: An Open-Source, CUDA-Compatible GPU C++ Compiler",
-   "Boost.Asio and Boost.Serialization: Design Patterns for Object Transmission",
-   "Writing Standard Library Compliant Data Structures and Algorithms",
    "Undefined Behavior in C++: What is it, and why do you care?",
-   "Driving Into the Future With Modern C++: A Look at Adaptive Autosar",
-   "Going Serverless with VueJS",
-   "You Can Do Better than std::unordered_map: New Improvements to Hash Table Performance",
-   "A Visions For std2",
-   "An Overview of Program Optimization Techniques",
-   "Introduction to proposed std::expected",
-   "Microsoft w/ C++ to Deliver Office Across Different Platforms, Part I",
-   "Back to Basics: The Structure of a Program",
-   "Programming with Contracts in C++20",
-   "Objects? No Thanks!",
-   "The Future of Accelerator Programming in C++",
-   "Good FIFOs Make Good Thread Neighbors",
-   "Low Level Threading with C++11",
-   "Consistently Inconsistent",
-   "PMRs for performance in C++17/20",
+   "Common API Security Pitfalls",
+   "Platform Engineering as a (Community) Service",
+   "Taking Machine Learning from Research to Production",
+   "Bitmaps! Or 'Images and Animations Without Linking External Libraries'",
+   "Boost.Process: Process management in C++",
+   "Crafting the Core - Why and How We Built the Core Banking System",
+   "Designing value classes for modern C++",
+   "Defensive Programming Done Right, Part II",
+   "Object-relational mapping with ODB and Boost",
+   "Low Latency C++ for Fun and Profit",
+   "Reflection",
+   "D Programming Language",
+   "Turning Particle-Astro-Physicist-Hackers into Software Engineers",
+   "Generic Parallel Programming",
+   "From Iterators to Ranges: The Upcoming Evolution Of the STL",
+   "C++14: Through the Looking Glass",
+   "What is Telco Cloud",
+   "OOP Is Dead, Long Live Data-oriented Design",
+   "These two ints have different types. A Data Oriented Design story",
+   "C++ Performance in Practice: Align, Vectorise, Cache, Jump!",
+   "Boost Units Library for Correct Code",
+   "Exploration of C++20 Meta Programming",
+   "Zephyr, retour d'experience sur une des fondation de Stimio SDK",
+   "GraalVM: Run Programs Faster Anywhere",
+   "Introduction to Undodb",
+   "Developing embedded IOT device code using micropython: is this reasonable choice?",
+   "The Art of Code",
+   "A CTO's guide to Modern C++",
+   "From Experimentation to Products: The Production Machine Learning Journey",
+   "Writing a cache-friendly C++ code",
+   "Reader-Writer Lock versus Mutex - Understanding a Lost Bet",
+   "A Quantum Computing Lab Tour at D-Wave",
+   "The History of Berlin (Special Appearance)",
+   "What I Talk About When I Talk About Cross Platform Development",
+   "An array of problems. An array of solutions",
+   "Fun with Tuples",
    "Locally Atomic Capabilities and How to Count Them",
-   "Building IoT solutions using Contiki-NG and AWS",
-   "Kubernetes: Crossing the Chasm",
-   "Accelerated Learning: How Agile Can Help You?",
-   "How to make your data structures wait-free for reads",
-   "Why and How To Add Scripting",
-   "Regular Types and Why Do I Care ?",
-   "Building Modules",
-   "De-fragmenting C++: Making Exceptions and RTTI More Affordable and Usable",
-   "Sphinx won't bite you! Documenting Python code",
-   "Self-healing, Highly Scalable & Secured Jenkins in the Cloud",
-   "Associative containers",
-   "A quick view into a compiler",
-   "Variadic expansion in examples",
-   "Emulating the Nintendo 3DS: Generative & Declarative Programming in Action",
-   "The Forest - Artist Performance",
-   "Exceptions Demystified",
-   "Designing (New) C++ Hardware",
-   "Keep it Clean: Why Bad Data Ruins Projects and How to Fix it",
-   "Design Patterns for Hardware Packet Processing on FPGAs",
-   "a small tool to browse your backtraces",
-   "An Overview of the Linux and Userspace Graphics Stack",
-   "Welcome to a New Age of Refereeing in 7 Minutes",
-   "Nano-coroutines to the Rescue! (Using Coroutines TS, of Course)",
-   "Becoming an Empowered Software Developer",
-   "A Framework for RAD Spirit",
-   "Answering a Question From My Talk...",
-   "Compiler Explorer: Behind The Scenes",
-   "Prerequisites for Chaos Engineering",
-   "Faster than memcpy",
-   "Agile the hard(ware) way",
-   "Customization Points That Suck Less",
-   "Taming Dynamic Memory - An Introduction to Custom Allocators",
-   "A Zephyr Overview of C++11 (Part II)",
-   "Practical Quantum Computing with D-Wave",
-   "Large-Scale C++: Advanced Levelization Techniques, Part I",
-   "Proper Inheritance (part 2 of 2)",
-   "Goodbye metaprogramming, and hello functional",
-   "Safe bool idiom",
-   "Data-oriented design in practice",
-   "The Hitchhiker's Guide to Faster Builds - Part 1 of 2",
-   "Modern C++ tips & trics",
-   "BDE Libraries, An Orientation",
-   "Two phase name lookup for C++ templates (C++ Beginner's Lighning Talk)",
-   "5 Reasons to use Reactive Programming if you are not eBay",
-   "Simplification and Automation in Java: Yesterday, Today and Tomorrow",
-   "Life After Business Objects - Confessions of an OOP Veteran",
-   "Meaningful casts",
-   "Putting Coroutines to Work with the Windows Runtime",
-   "Modern C++ Safety and Security At 20",
-   "The Fiber Library",
-   "Managing C++ Build Complexity Using Cuppa: A SCons-based Build System",
-   "Effective dependency management with CMake",
-   "QtCreator",
-   "Cpu Caches and Why You Care",
-   "Utilize your CPU power",
-   "Using Spirit X3, Part I",
-   "Getting Allocators out of Our Way",
-   "What I Talk about When I Talk about Cross Platform Development",
-   "switchAny: A Practical Exercise in Template Metaprogramming",
-   "Alexa, Let's Build a Serverless Skill",
-   "Functional programming in C++",
-   "Governing Agile Delivery",
-   "Postcards from the Cross-platform Frontier",
-   "STL Algorithms - why you should use them, and how to write your own",
-   "Heterogeneous Programming in C++ today",
-   "Production Model Deployment",
-   "Cross-Platform Mobile App Development with Visual C++",
-   "Does Agile Make Us Less Secure?",
-   "High Performance C++ Concurrent Transactional Data Structures",
-   "Back to Basics: Move Semantics (part 1 of 2)",
-   "Journeys To Cloud Native Architecture: Sun, Sea & Emergencies",
-   "Augmented reality dev journey",
-   "Taking Back 'Software Engineering'",
-   "The Rule of Seven (Plus or Minus Two): Modern C++ Boilerplate",
-   "C++: How I learned to stop worrying and love metaprogramming",
-   "Back to Basics: Algebraic Data Types",
-   "The Construction and Use of C++ Algorithms",
-   "An Overview of C++11/14, Part II",
-   "A First Look at Proto-0x",
-   "Neural networks interactively - right in your browser!",
-   "Template Metaprogramming: Type Traits (part 2 of 2)",
-   "How we switched to C++11 at SolidFire and how it worked out",
-   "Using Kubernetes for Machine Learning Frameworks",
-   "Implementing 'variant' visitation using lambdas",
-   "Story of autonomous drone racing",
-   "HPX: A C++ Runtime System For Parallel And Distributed Computing",
-   "Mise a jour : les bonnes questions a se poser",
-   "Concurrency TS Editor's Report",
-   "Virtual Tables OR The Overhead Of Magic",
-   "Compile-time contract checking with nn",
-   "Migration of C++ Libraries to C++14",
-   "What are hash trees? and why you should care",
-   "The Exception Situation",
-   "Scaling Slack",
-   "interview with speakers",
-   "Two new C++ libraries for atmospheric research",
-   "Kotlin Flows and Channels for Android",
-   "Human-Computer Partnerships",
-   "Coroutine TS a new way of thinking",
-   "Boostache",
-   "Hello World from Scratch",
+   "C++17's std::pmr Comes With a Cost",
+   "Proper Inheritance",
+   "Powering Crowd-sourcing of Public Transit Delays with Rust",
+   "Polymorphism A La Carte",
+   "Practical C++11: What I Learned Adding C++11 Support to ODB",
+   "Let's All just Agree: Achieving Consensus in Blockchain-based Systems",
+   "An Overview of the Embedded Rust Ecosystem",
+   "The World after Microservice Migration w/ Service Mesh & Contract Testing",
+   "Initialization in modern C++",
+   "Observability for Data Pipelines: Monitoring, Alerting & Tracing Lineage",
+   "std::accumulate: Exploring an Algorithmic Empire",
+   "Faster Complex Numbers",
+   "Go: Optimizing For Correctness",
+   "A lock-free concurrent toolkit for hazard pointers",
+   "Networking TS w/Algorithms",
+   "Diagnosing Memory Leaks",
+   "Embedded Linux 'from scratch' in 45 minutes... on Risc-V",
+   "Combining Chaos, Observability & Resilience to get Chaos Engineering",
+   "What Everyone Should Know About How Amazing Compilers Are",
+   "Retour d'experience sur l'IoT: cas concret dans la location de materiel de TP",
+   "Bruce Lee",
+   "Increase App Confidence Using CI/CD and Infrastructure as Code",
+   "In Search of the Perfect Cloud Native Developer Experience",
+   "C++ in Open Source Robotics",
+   "Octopus: A Policy-Driven Framework for CFD Simulations",
+   "Good Enough Architecture Part 2",
+   "Threading dos and don'ts",
    "CNL: A Compositional Numeric Library",
+   "Latest & Greatest in Visual Studio for C++ developers",
+   "C++ Hardware Register Access",
+   "Making Allocators Work, Part I",
+   "Learning Rust with Humility and in Three Steps",
+   "Kubernetes-ize your Java Application",
+   "Understanding and mastering C++'s complexities",
+   "REST beyond the Obvious - API Design for ever Evolving Systems",
+   "Self-healing, Highly Scalable & Secured Jenkins in the Cloud",
+   "Goodbye metaprogramming, and hello functional",
+   "Secrets of Effective Communication You Can Learn (from my Failures!)",
+   "Better Code: Data Structures",
+   "Deep C Diving - Fast and Scalable Text Interfaces at the Bottom",
+   "Using Units, Qantities, and Dimensions in C++14",
+   "Practical Memory Pool Based Allocators For Modern C++",
+   "Scaling Slack",
+   "The Anatomy of Error Messages in Rust",
+   "A C++ MQTT Message Broker for the Enterprise",
+   "Seventeenification: Porting sqlpp11 to C++17",
+   "Mob Programming and the Power of Flow",
+   "Using the Groovy Ecosystem for Rapid Development on the JVM",
+   "Lies, Damned Lies, and Metrics",
+   "Disrupting QA - Emerging Trends in Code Quality Automation",
+   "Back to Basics: Pointers and Memory",
+   "Introduction to Modern C++ Techniques (Part II)",
+   "C++ Community Organizers",
+   "Rule of DesDeMovA",
+   "Magic & secrets",
+   "Monotron - a 1980s style home computer written in Rust",
+   "An Overview on Encryption in C++",
+   "Bringing Clang-tidy Magic to Visual Studio C++ Developers",
+   "Async sequences and algorithms to compose them",
+   "Back to Basics: Exceptions",
+   "Latency Observability",
+   "Mix tests and production code with doctest (...)",
+   "Troubleshooting Tiered Tragedy: A Peek Into Failure",
+   "Reader-Writer Lock versus Mutex",
+   "It's Getting Faster",
+   "Undefined Behavior is Not an Error",
+   "The Promise and Limitations of AI",
+   "Anatomy of the Conditional Operator",
+   "Programming utilities for Unix-like systems in Python",
+   "Machine Ethics",
+   "Customization points that suck less",
+   "QtCreator",
+   "The Internet of Things",
+   "Argument Passing, Core Guidelines, and Aliasing",
+   "The cell as a computer: Turing complete and massively parallel",
+   "Object-Oriented Programming in Modern C++",
+   "C++ on the Web: Ponies for developers without pwn'ing users",
+   "Yocto Cooker, a meta-buildtool for Yocto Project",
+   "What Does THIS Button Do? Serverless and IoT",
+   "The Current State of (free) Static Analysis",
+   "and , the View From Inside",
+   "Get Off My Thread: Techniques for Moving Work to Background Threads",
+   "The C++20 Standard Library - Beyond Ranges",
+   "Functional Reactive Programming - Cleanly Abstracted Interactivity",
+   "Windows, MacOS and Web: Lessons from Cross-platform Development @ think-cell",
+   "Property-Based Declarative Containers",
+   "Introduction to Modern C++ Techniques (Part I)",
+   "Git, CMake, Conan: How to Ship and Reuse our C++ Projects",
+   "This is Why We Can't Have Nice Things",
+   "Interactive, Introspected C++ at CERN",
+   "The Dawn of a new Error",
+   "C++ Core Guidelines - Safer C++",
+   "War is Peace, Freedom is Slavery, Ignorance is Strength, Scrum is Agile",
+   "HTTP Headers for the Responsible Developer",
+   "Intro to Functional Programming in C++",
+   "Using TensorFlow in Embedded Rust",
+   "Keyword Abuse",
+   "Reducing Memory Allocations in a Large C++ Application",
+   "Maximizing Java Application Performance with GraalVM",
+   "Consistent Comparison in C++20",
+   "Secure Coding Best Practices - Threat Hunting",
+   "Easier said than done. Self-organized teams",
+   "Thread-safe Observer Pattern - You're doing it wrong",
+   "Raising the abstraction level",
+   "CIB - ABI stable architecture for a C++ SDK",
+   "Smart Pointer Parameters",
+   "Memory mapped storage",
+   "SaaS Deep Dive: Designing and Building Multi-Tenant Solutions",
+   "Large-Scale C++: Advanced Levelization Techniques, Part II",
+   "Python as C++'s limiting case",
+   "More GDB wizardry and 8 other essential Linux application debugging tools",
+   "The Automation Challenge: Kubernetes Operators vs Helm Charts",
+   "Lakos'20: The 'Dam' Book is Done!",
+   "UX Tips to Avoid Losing Users' Attention",
+   "AI in Healthcare",
+   "These Aren't the COM Objects You're Looking For",
+   "Device Tree: hardware description for everybody!",
+   "Techniques for Overloading any_invocable",
+   "Become a GDB Power User",
+   "Google Sheets for Developers",
+   "Debugging memory corruptions in C++",
+   "Introducing RTEMS, a serious real-time OS",
+   "Algorithms from a Compiler Developer's Toolbox",
+   "Include C++",
+   "Thinking Portable: How and why to make your C++ cross platform",
+   "Networking TS Workshop (part 2 of 2)",
+   "Abstraction by the rule of 10",
+   "Pragmatic Unit Testing in C++",
+   "A Question of Ownership",
+   "Leveraging the range based for loop",
+   "A linear algebra library for C++23",
+   "Kotlin: Dissecting the stdlib",
+   "Crossing the River by Feeling the Stones",
+   "All the Default's Are Backwards",
+   "C++ in Space Plasma Model Development",
+   "Parsing C++",
+   "The Research Software Engineer - a new career path in academia",
+   "Kickstarting Your Azure Pipeline with Templates",
+   "How to Start a Solo Project that You'll Stick With",
+   "History of Time: Asynchronous C++",
+   "Bootiful GraphQL with Kotlin",
+   "How to answer 'why will yours succeed, when X, Y, and Z have failed?'",
+   "EOS Software development for additive manufacturing",
+   "Compile Time Regular Expressions",
+   "What Belongs in the C++ Standard Library",
+   "Tales of C, the 6502 and the BBC (with added python)",
+   "Expression Templates Everywhere with C++14 and Yap",
+   "boost.tmp: your DSL for Metaprogramming",
+   "Compile Fast, Run Faster, Scale Forever: A Look into the sol2 Lua Library",
+   "The beast is becoming functional",
+   "C++17 key features",
+   "OpenMP for better high-level parallelism, not just for High Performance Computing",
+   "Computers are Stupid: Protecting 'AI' from Itself",
+   "I Can Sell You Observability, But You Can't Buy It",
+   "C++20 Ranges: Code Expressively with Ranges",
+   "Secure & Fast microVM for Serverless Computing",
+   "Instruction Re-ordering Everywhere: The C++ As-If' Rule and the Role of Sequence'",
+   "Strong types for strong interfaces",
+   "Modern C++ Coming to Terms With Terms",
+   "Back to Basics: The Structure of a Program",
+   "Why I love Kubernetes Failure Stories and You Should Too",
+   "Design Journeys with Skoot, a Peer Oriented Generic Networking Library",
+   "Spirit.Qi in the Real World",
+   "Haskell -- The Pseudocode Language for C++ Template Metaprogramming (Part 1)",
+   "Turning MQTT v5 inside out",
+   "Now What? A vignette in three parts",
+   "The Continuing Future of C++ Concurrency",
+   "How I Learned to Stop Worrying About Generics and Love Go",
+   "Beware of C++17",
+   "Introduction to proposed std::expected",
+   "Introducing Parallelism to the Ranges TS",
+   "Rusty USB Gadgets Make Barking BeagleBones",
+   "Using VV = merge_t(std::variant, std::vector);",
+   "C++20: The small things",
+   "Learning (and teaching) modern C++ - Challenges and Resources",
    "The most important API design principle",
-   "Asynchronous IO Using Boost.Asio",
-   "Taskflow: A Heterogeneous Task Graph Programming System with Control Flow",
-   "Matchine: Pattern Matching for Open Sum Types",
-   "Linear Algebra for the Standard C++ Library",
-   "How Software can be Thought of as a Force for Good",
+   "Where Should I Be?",
+   "What is an ABI and Why is Breaking it a Problem?",
+   "C++ is NOT a Hammer",
+   "Developing Smart Contracts",
+   "An alternative design for C++20 customization points",
+   "Depression and Burnout: the Hardest Refactor I've ever done",
+   "Everything Is Terrible",
+   "Algorithm Design For Values Distributed In Time",
+   "A Veterans Guide To Transitioning Android Teams Into Kotlin",
+   "The Hitchhiker's Guide to Faster Builds",
+   "Closing the Gap between Rust and C++ Using Principles of Static Analysis",
+   "Disambiguation: The Black Technology",
+   "Latest and Greatest in the Visual Studio Family for C++ Developers 2018",
+   "Support for Embedded Programming in C++11 and C++14",
+   "Large-Scale Refactoring @ Google",
+   "Kotlin/Native: The Good, The Bad, and the Ugly",
+   "Fuzz or lose...",
+   "The Development Metrics You Should Use (But Don't)",
+   "Metaprogramming with Boost.Hana: Unifying Boost.Fusion and Boost.MPL",
+   "Microservices Out In the Wild",
+   "Facts You May Not Know About Kotlin",
+   "Variations on Variant",
+   "You're Testing WHAT?",
+   "Plain Threads are the GOTO of todays computing",
+   "The Shapes of Multi-Dimensional Arrays",
+   "How to Cook a Chicken",
+   "Bash and All That; Why Ancient *NIX Tools Are Still Essential",
+   "hardware aided computing",
+   "Cloud Foundry Container Runtime: BOSH-Powered Kubernetes",
+   "Behaviour-Driven Development, BDD, with Cucumber",
+   "The Best Parts of C++",
+   "Internationalization is a Piece of Cake",
+   "Crazy Code, Crazy Coders",
+   "Back to Basics: Design Patterns",
+   "Iterators and Ranges: Comparing C++ to D to Rust",
+   "Analyzing Configuration of Cellular Networks at Nokia with (...)",
+   "Amp Up Web Audio Applications with Rust and WebAssembly",
+   "[BOOST].SML STATE MACHINE LANGUAGE",
+   "Rapid Prototyping in C++",
+   "Closing Message",
+   "Implementing a web game in C++14",
+   "A Tutorial Introduction to C++11/14 - Part II",
+   "Windows, macOS and the Web - Lessons from cross platform development",
+   "The Julia Language and C++: The Perfect Marriage?",
+   "Costless Software Abstractions for Parallel Architectures",
+   "Augmented Reality, Beyond Virtual Objects Floating in Physical Space",
+   "C++ Dependency Management: from Package Consumption to Project Development",
+   "What C++ Programmers Need to Know about Header <random>",
+   "Save $$ Testing Code the Playback-Based Way",
    "Conversational AI Demystified",
+   "Quantum Computing Q&A",
+   "Spirit: History and Evolution",
+   "You must type it three times",
+   "Answering a Question From My Talk...",
+   "Behind Enemy Lines - Reverse Engineering C++ in Modern Ages",
+   "C++ at Build 2012, Inside Profile Guided Optimization",
+   "LINQ for C/C++, Native Rx",
+   "Why Business Cases are Toxic",
+   "Three years of Rust - A look around",
+   "C++ Constants",
+   "constexpr: C++ At Compile Time",
+   "Enums four ways",
+   "Leveraging Serverless in Full-stack Development",
+   "boost.tmp: Your DSL for Metaprogramming - Part 1 of 2",
+   "Modern C++ testing with Catch2",
+   "True Continuous Improvement with Toyota Kata",
+   "Benchmarking C++ - From video games to algorithmic trading",
+   "#ToyFail",
+   "Your Superpower User Manual",
+   "Clean Coders Hate (...) When You Use These (...) Tricks",
+   "My Little *this Deduction: Friendship is ... Uniform?",
+   "Converting a State Machine to a C++ 20 Coroutine",
+   "Debug C++ Without Running",
+   "The need for a package manager interface",
+   "Goals for Better Code - Implement Complete Types",
+   "We stopped teaching C",
+   "The C++ rvalue lifetime disaster",
+   "JSR-385: Learning from the $125 Million Mars Climate Orbiter Mistake",
+   "Containers From Scratch",
+   "Expression Templates - Past, Present, Future (PART 1)",
+   "A Practical-ish Introduction to Data Science",
+   "The Best Type Traits that C++ Doesn't Have",
+   "Understanding value categories in C++",
+   "Delegate this! Designing with delegates in modern C++",
+   "Tuning C++: Benchmarks, and CPUs, and Compilers! Oh My!",
+   "Journeys To Cloud Native Architecture: Sun, Sea & Emergencies",
+   "Organization: A Tool for Software Architects",
+   "C++ SIMD parallelism with Intel Cilk Plus and OpenMP 4.0",
+   "3D Face Tracking and Reconstruction using Modern C++",
+   "Move Constructors: Is it Possible?",
+   "Design Rationale for the chrono Library",
+   "How C++20 changes the way we write code",
+   "Sales & Tech - Our Differences Make the Difference",
+   "Breaking Dependencies: The SOLID Principles",
+   "A thorough look into spatial mapping with HoloLens",
+   "Upgrade Time: Choose Java 11 or the 'other' one...Kotlin",
+   "Selected C++11 Template Toffees From sqlpp11 (Part2)",
+   "Fresh Async With Kotlin",
+   "Seeing the bigger picture part II",
+   "How we reason about procedural programs",
+   "Keep it Small",
+   "The Future of Sustainable Transportation",
+   "A First Look at Proto-0x",
+   "Azure Sphere",
+   "C++ Templates Revised",
+   "Everything You Ever Wanted to Know about DLLs",
+   "You can run but you can't hide from it: Edge cloud is here, now!",
+   "Adventures in SIMD-Thinking",
+   "Executors for C++ - A Long Story ...",
+   "Modern Linux C++ debugging tools - under the covers",
+   "C++ Today: The Beast is Back",
+   "Modern C++ in Embedded Systems",
+   "Designing APIs for performance",
+   "Optimizing Embedded Hard Real-Time Code in C++",
+   "Developing an embedded application for the IoT",
+   "Quantum Computing",
+   "Comfort Zone",
+   "Modern CMake for modular design",
+   "C++0x Progress and Status",
+   "40 Years Of Evolution from Functions to Coroutines",
+   "Responsible AI for Engineers",
+   "If you're arguing, you're losing",
+   "A little Rusty in Quantum Physics",
+   "A story about vectorisation and compiler bug report",
+   "C++ - the Newest Old Language",
+   "Initializer Lists Are Broken, Let's Fix Them",
+   "50 shades of C++",
+   "How to Write a Custom Allocator",
+   "C++ Metaprogramming: evolution and future direction",
+   "List",
+   "Type safe C++ - LOL! :-)",
+   "Beyond AI",
+   "Haskell taketh away: limiting side effects for parallel programming",
+   "Beyond Microservices: Streams, State and Scalability",
+   "Cross plattform C++ development is challenging",
+   "The Dawn of a New Error",
+   "Visualize Template Instantiations - Understand your Template Bugs",
+   "The Effective Structured Data Marshalling/Demarshalling Through Boost.Fusion",
+   "Using Trompeloeil, a mocking framework for modern C++",
+   "The C++17 Parallel Algorithms Library and Beyond",
+   "Back to the future",
+   "Source Instrumentation for Monitoring C++ in Production",
+   "Freestanding C++ - Past, Present, and Future",
+   "Mastering the IoT with C++ and JavaScript",
+   "Pessimistic Programming",
+   "A clean and minimal map API",
+   "Attitude of Iteration",
+   "Parallelism in Modern C++",
+   "Zero-allocation & no type erasure futures",
+   "The Asynchronous C++ Parallel Programming Model",
+   "When Paradigms Collide",
+   "2FA in 2020 and Beyond",
+   "Is All Executable Code Added to a Container Image at Build Time? (Q2)",
+   "Semantic Sugar: Tips for Effective Template Library APIs",
+   "OO Considered Harmful",
+   "Parsing C++ with GCC plugins",
+   "Shipping a stable compiler every six weeks",
+   "Inference in C++: The big picture",
+   "Objects? No Thanks!",
+   "Refactor your codebase with Clang tooling",
+   "Technical documentation is a backup so make sure it works @ CppEurope",
+   "The Asynchronous Enterprise",
+   "Implementing variant Visitation Using Lambdas",
+   "Nbdl: A library that uses metaprogramming... A lot",
+   "Building for the Best of Us: Design and Development with Kids in Mind",
+   "Impact on maintainability and refactoring for higher-level design features",
+   "Rise of the State Machines",
+   "Lock-Free Programming (or, Juggling Razor Blades), Part I",
+   "A Critical Look at the Coding Standards Landscape",
+   "Software Transaction Memory, For Reals",
+   "The Robustness of Go",
+   "Serialization in C++ has never been easier! But wait, there's more",
+   "Back To Basics: Lambda Expressions",
+   "Rust in China",
+   "Low Latency GPGPU",
+   "De-fragmenting C++: Making exceptions more affordable and usable",
+   "retpoline",
+   "Writing the Fastest GBDT Library in Rust",
+   "Generalized fold expressions",
+   "Programming in the Large With C++ 20",
+   "Java Current and Future",
+   "Tailored static tooling using Clang: Clazy",
+   "Product Security, From the dark side to the light",
+   "#DigitalNudge - The Hidden Forces that Shape our Digital Decisions",
+   "How to mock in the 21st century",
+   "Obfuscation and beyond: securing your binary",
+   "Rust: Hack Without Fear!",
+   "Template Metaprogramming: Type Traits (part 1 of 2)",
+   "Library Approaches for Strong Type Aliases",
+   "Cross-Platform Mobile App Development with Visual C++",
+   "Distributed applications are easy. Just read the fine print",
+   "Yocto is not (only) BitBake",
+   "Option(al) is not a failure",
+   "Hook: The C++ library you were waiting for",
+   "Large Scale C++ with Modules: What You Should Know",
+   "Survey of Multi-Threaded Programming Support in C++11 and Boost",
+   "Fancy Pointers for Fun and Profit",
+   "Git from the Ground Up",
+   "Quick Game Development with C++11 / C++14",
+   "Five Things Every Developer Should Know about Software Architecture",
+   "Composite Arithmetic Types Are > the + of Their Parts",
+   "ODB, Advanced Weapons and Tactics",
+   "Hello World From Scratch",
+   "Kotlin/Native - Embracing existing ecosystems",
+   "Efficiency with Algorithms, Performance with Data Structures",
+   "Undefined behavoiur",
+   "A Short Life span<> For a Regular Mess",
+   "Modern C++ in Embedded OS Dev",
+   "Cpu Caches and Why You Care",
+   "Mastering the Cell Broadband Engine via a Boost-based library",
+   "StringViews, StringViews everywhere!",
+   "Introduction to Vector Parallelism",
+   "Understanding U-Boot Falcon Mode and adding support for new boards",
+   "Fast by Default: Near Instant Load Times at Scale with GatsbyJS",
+   "Balancing Choreography and Orchestration",
+   "Discovering RESTful Web Microservices: A Traveler's Guide",
+   "Writing A Python Interpreter for Fun & Profit",
+   "Implementation of a multithreaded compile-time ECS in C++14",
+   "Rust as foundation in a polyglot development environment",
+   "How Embedded Developers work from home using labgrid",
+   "Programming with less effort in C++...",
+   "Bringing Magic To Microservice Architecture Development",
+   "The C++ Rvalue Lifetime Disaster",
+   "Concepts driven design",
+   "Seven Languages in 90 Minutes",
+   "Beyond the Floating Point Computations - What's New, What's Useful?",
+   "Dr Module and Sister #include",
+   "Axiomatic Programming: From Euclidean Deductions to C++ Templates and Beyond",
+   "interview with Marius Bancila",
+   "Time Travel Debugging",
+   "extern c: Talking to C Programmers about C++",
+   "Representing Memory Mapped Devices as Objects",
+   "Intro to Rust",
+   "Concepts As She Is Spoke",
+   "Building Prediction Pipelines that Rock in the Real World",
+   "Nano-coroutines to the Rescue! (Using Coroutines TS, of Course)",
+   "A Case For Outside-In Design",
+   "Containers in Boost",
+   "Progress on Contract Support for C++17",
+   "The Mathematical Underpinnings of Promises in C++",
+   "Production Model Deployment",
+   "Can I change my organisation?",
+   "Introduction to C++ Coroutines",
+   "Should I care about CPU cache?",
+   "Mobile App Development for Multiple Platforms with Visual C++,",
+   "Random numbers are hard",
+   "Using weakly ordered C++ atomics correctly",
+   "Next generation unit testing using static reflection",
+   "Non-conforming C++: the Secrets the Committee Is Hiding From You",
+   "The Forgotten Art of Structured Programming",
+   "Why and How to Roll Your Own std::function Implementation",
+   "Backporting to the Future",
+   "Property based testing in C++",
+   "Functional C++ For Fun And Profit",
+   "Compile-time programming and reflection in C++20 and beyond",
+   "The Point of Views: Multidimensional Ranges for HPC",
+   "zbus Fearless IPC for embedded Linux is finally here",
+   "Modern special function register abstraction",
+   "Slab allocators",
+   "Reasoning with function signatures",
+   "Things not to do in Python",
+   "What Technical Leads Can Learn from Great General Managers",
+   "What We Left Behind - 10 Valuable Skills From The 1990s",
+   "Modernizing Legacy C++ Code",
+   "C++ is like Javascript",
+   "Amazing Code Reviews: Creating a Superhero Collective",
+   "Hypercritical C++ Code Review",
+   "The Magic of Music Matching",
+   "C++ Potpourri 2",
+   "An easy to use RPC framework implemented in C++11/14",
+   "Creating intuitive APIs",
+   "Using Rust in Metal Fabrication",
+   "Algorithm Intuition",
+   "Preparing the C++11 Library AFIO for Boost Peer Review",
+   "The Past, Present and Future of Cloud Native API Gateways",
+   "Everything you know about colour is wrong",
+   "Functional Programming with Kotlin",
+   "Haskell -- The Pseudocode Language for C++ Template Metaprogramming (Part 2)",
+   "Exceptions Under the Spotlight",
+   "If I Had My 'Druthers: A Proposal for Improving the Containers in C++2x",
+   "Qt as a C++ Framework: History, Present State and Future",
+   "C++11/14/17 atomics and memory model...",
+   "Mocking C++",
+   "Awaiting for the ranges: C++17",
+   "Who includes me?",
+   "The Seniority Trap",
+   "Code Analysis++",
+   "Keys to Building Machine Learning Systems",
+   "Dynamic, Recursive, Heterogeneous Types in Statically-Typed Languages",
+   "Writing cache friendly C++",
+   "The Unexceptional Exceptions",
+   "Macros for a More Productive Rust",
+   "Surveying the Community - What Could Possibly Go Wrong",
+   "How bananas could save your project. Understanding UX",
+   "Instantiations Must Go!",
+   "The Many Variants of std::variant",
+   "Understanding Lvalues and Rvalues",
+   "Frozen data structures in C++14",
+   "UI prototyping and development for multiple devices in C++",
+   "Memory and C++ debugging at Electronic Arts",
+   "What's new in Visual Studio Code for C++ development",
+   "The better parts",
+   "Policy-based design in C++20",
+   "Practical End-to-End Container Security at Scale",
+   "A review of C++ 11/14 only Boost libraries - Fiber, AFIO, DI and APIBind",
+   "Finding hard to find bugs with Address Sanitizer",
+   "Messing Around with fn main() and Getting Away with it",
+   "Smart References: There and Back Again",
+   "Serverless Architectural Patterns and Best Practices",
+   "The Evolution of C++ Past, Present and Future",
+   "The Ethics of Software - some practical considerations",
+   "Snakes Into Snake Oil - What Blockchains Are And Why They're Terrible",
+   "SECURYZR LIGHT   The solution to fit with the design-for-security methodology",
+   "Drinking from the Fire Hose: Keeping up with the evolving landscape of C++",
+   "Better CTAD for C++20",
+   "Ensuring Exception Safety Through Testing",
+   "Bringing Rust Home to Meet the Parents",
+   "Software Automation in a Polyglot Stack",
+   "WebAssembly: an overview",
+   "Parallelism on Ranges: Should We?",
+   "Plenary: Performance Matters",
+   "GPU programming with modern C++",
+   "Talk to me! The art of reporting a bug",
+   "Rethinking the Way We Do Templates in C++ even more",
+   "Scaling development of a large C++ project: Chromium (Part 1)",
+   "Les outils open source pour les FPGA",
+   "Boost Your Program's Health by Adding Fibers to your Coroutine",
+   "Kotlin as Java++",
+   "Dealing with software dependencies",
+   "The Worst Best Practices",
+   "The Clacks in Discworld and Roundworld",
+   "The Bad Big Wolf Meets Riding Hood Little Red",
+   "Grill the C++ Committee with Jon Kalb",
+   "Leadership During Chaos",
+   "15 Years of Spring: Evolving a Java Application Framework",
+   "Alices adventures in Template Land",
+   "Structured logging",
+   "Transactional Memory in Practice",
+   "How to do practical Data Science? From real-world examples (...)",
+   "Driving Into the Future With Modern C++: A Look at Adaptive Autosar",
+   "Code Samples That Compile Even More Easily",
+   "My Little Optimizer: Undefined Behavior is Magic",
+   "20 years of extending C++: What can we learn?",
+   "Go Get Better (Go Programming Language)",
+   "Integrating generators EDSL's for Spirit X3 (WIP)",
+   "Democratizing Distr. Systems: Kubernetes, Brigade, Metaparticle & Beyond",
+   "Optimization Tips - Mo' Hustle Mo' Problems",
+   "Test-Drive Performance",
+   "Migration of C++ Libraries to C++14",
+   "Building Resilient Frontend Architecture",
+   "Product Types for C++2x",
+   "Looking Back to Look Forward",
+   "Modules the beginner's guide",
+   "Compile Time Regular Expressions with A Deterministic Finite Automaton",
+   "Where We're Going, We Don't Need Servers!",
+   "the asynchronous library",
+   "Homogenous Variadic Functions -  A Lightning-Library Approach in ~11.54 sec/LOC",
+   "An implementer's view of Boost.SIMD",
+   "Design Patterns for Low-Level Real-Time Rendering",
+   "The Basics of Lock-free Programming",
+   "What are hash trees? and why you should care",
+   "How to Preserve Privacy on a Blockchain",
+   "Better mutual exclusion on the filesystem using Boost.AFIO",
+   "Type-safe Programming",
+   "The memory model in C++",
+   "10 Techniques to Understand Code You Don't Know",
+   "A generic binary tree: why grow your own?",
+   "Can we make a faster linked list?",
+   "Rust for Non-Systems Programmers",
+   "Project Update: Lang Team",
+   "MFC - the M's for Mixin",
+   "Objection! A language lawyer story",
+   "Dino Apps Deserve Love Too!",
+   "R-Evolution: A Story of Rust Adoption",
+   "Plenary: Neighborhoods Banding Together: Reasoning Globally about Programs",
+   "Where C++17 is going",
+   "Effective replacement of dynamic polymorphism with std::variant",
+   "Becoming an Empowered Software Developer",
+   "Static Analysis and C++: More Than Lint",
+   "Secrets of the Shenandoah Garbage Collector",
+   "Accept No Visitors",
+   "The ongoing design and evolution of cyber-dojo",
+   "Parallel Programming using Charm++",
+   "Reflection in C++ Next",
+   "What Do We Mean When We Say Nothing At All?",
+   "Implementing tuple in C++17",
+   "If You Can't Open It, You Don't Own It",
+   "HTTP/3 is next Generation HTTP. Is it QUIC enough?",
+   "When you hit 'Error: memory is not aligned.'",
+   "The core C++ guidelines for safer Code",
+   "Generic Conversion & Segmentation for Ranges: A Solution for Unicode",
+   "Non-Allocating std::future/promise",
+   "Specialising Linear Algebra for Geometry",
+   "Good Concepts",
+   "Role of App Integration in Cloud Native & Microservices Landscape",
+   "HTML: How to Make Loveliness",
+   "Vue and You",
+   "Event-Driven Microservices - not (just) about Events!",
+   "Designing Concurrent C++ Applications",
+   "The life changing magic of tidying up",
+   "How Software can be Thought of as a Force for Good",
+   "Embedded Systems 101",
+   "Selected C++11 Template Toffees From sqlpp11 (Part4)",
+   "C++ Concepts Lite' in Practice'",
+   "Hybrid Intelligence: First Rate Humans, Not Second Class Robots",
+   "FPGA for software developers",
+   "The Future of the Web",
+   "Extending C++ with Co-Array semantics",
+   "C++ Insights: How stuff works, Lambdas and more!",
+   "105 STL Algorithms in Less Than an Hour",
+   "Esolangs",
+   "Multiplatform C++",
+   "FPGA and open hardware",
+   "What do you mean by 'cache friendly'?",
+   "Linux User/Kernel ABI: the realities of how C and C++ programs really talk to the OS",
+   "Learning to Live with Errors",
+   "Bayesian Computation for Deep Learning in Modern C++",
+   "Variations on variants",
+   "C++ 20 Overview: The Big Four",
+   "A Practical Approach to Error Handling",
+   "Unconditional Code",
+   "Why in heaven is there no dependency management for C++?",
+   "Asynchronous Computation in C++",
+   "A Unifying Abstraction for Async in C++",
+   "Meta Monads",
+   "Generic Binding",
+   "Miri, Undefined Behavior and Foreign Functions",
+   "The Holy Grail!? A Persistent Hash-Array-Mapped Trie for C++",
+   "These aren't the COM Objects you're looking for",
+   "A Tour of Deep Learning With C++",
+   "Generic Programming",
+   "Faster Code Through Parallelism on CPUs and GPUs",
+   "Lightning Talk",
+   "Grill the Committee!",
+   "How to Write Effective Documentation for C++ Libraries...",
+   "Ranges for the Standard Library",
+   "Agile the hard(ware) way",
+   "Back to Basics: Exception Handling and Exception Safety",
+   "How Embedded Rust can be the next Arduino in 5 easy steps",
+   "Option(al) Is Not a Failure",
+   "Free your functions!",
+   "A Semi Compile/Run-time Map with (Nearly) Zero Overhead Lookup",
+   "Machine Learning on Source Code",
+   "Implementing 'variant' visitation using lambdas",
+   "C++11 use in Qt5: Challanges and Solutions",
+   "await 2.0: Stackless Resumable Functions",
+   "Modern embedded APIs...",
+   "Old Is the New New",
+   "The evolving search for effective C++",
+   "Contract Programming in C++(20) (part 1 of 2)",
+   "Creating an Incremental Architecture for your System",
+   "Rust for Weld, a High Performance Parallell JIT Compiler",
+   "An Approach to Dealing with Reference Types in the Generic Programming Paradigm",
+   "Simplicity: Not Just For Beginners",
+   "Progressive Delivery: Patterns & Benefits of Decoupling Deploy from Release",
+   "C++20: All the small things",
+   "Calling Functions: A Tutorial",
+   "The Complete Guide to return x;",
+   "Splash screen for Embedded Linux 101: How to customize your boot sequence",
+   "Clang Static Analysis",
+   "Lightweight Object Persistence With Relocatable Heaps in Modern C++",
+   "Concept Driven Design with Dependency Injection",
+   "The Future of Accelerator Programming in C++",
+   "Sane and Safe C++ Classes",
+   "Customization Points That Suck Less",
+   "PMRs for performance in C++17/20",
+   "Pattern Matching in C++14",
+   "C++ Concepts",
+   "Getting type name at compile time",
+   "How custom gdb commands help in C++ development",
+   "C++ Package Manager",
+   "Back to Basics: Unit Tests",
+   "Puzzler",
+   "Boosting knowledge sharing",
+   "Boost.Asio and Boost.Serialization, Part II",
+   "Variable Templates and Compile-Time Computation with C++14",
+   "Type-safe state machines with C++17 std::variant",
+   "std variant and the power of pattern matching",
+   "Value Semantics and Concepts-based Polymorphism",
+   "Value-oriented design in an object-oriented system",
+   "Learning and teaching modern C++",
+   "Your CPU is binary",
+   "Trivially Relocatable",
+   "Programming with Contracts in C++20",
+   "Value Semantics: It aint about the syntax!",
+   "Let's make a web match-3 game in C++14",
+   "How We Used To Be",
+   "Event-based Architecture and Implementations with Kafka and Atom",
+   "Founding C++ User Groups",
+   "Practical Aspects of Microservice Architecture",
+   "How to Lead through Turbulence w/ Compassion & Confidence",
+   "Formatting floating-point numbers",
+   "Expression Templates: Past, Present, Future (PART 3)",
+   "GDB - A Lot More Than You Knew",
+   "Hands-On With Abseil",
+   "When C++ wants to meet Java",
+   "The Perils of Strict Aliasing",
+   "Engineering Software Integral Types",
+   "Template Normal Programming (part 2 of 2)",
+   "So, you inherited a large code base...",
+   "The Badlands of C++: Professional Game Development",
+   "Two practical applications of the Brigand TMP library",
+   "Project managing in Data Science teams",
+   "C++ and Memory: Between Correctness and Performance",
+   "Diving into a large, legacy code::base as a youngster",
+   "Be your own Threatbuster!",
+   "Why you don't see Blockchain in your Everyday Life...yet",
+   "Thinking Fast and Slow",
+   "How to Evolve Your Way Out of a Paper Bag",
+   "Ways to Handle Non-blocking Returns in Message-passing Programs...",
+   "Exceptional Performance",
+   "Coroutines - the future of future (and more)",
+   "Emulating Rust's borrow checker in C++",
+   "Is this available?",
+   "Why you should (...) compiling your code into web assembly",
+   "M-PIN Authentication in Vehicle Tracking",
+   "Introduction to hpxMP",
+   "HTTP/3 Is Next Generation HTTP. Is It QUIC Enough?",
+   "std::variant & Blockchain",
+   "A Simple GUI Programming Setup for Beginners",
+   "We've Always Been at War with East Constia",
+   "Best Practices for Concurrency",
+   "Open Source at Balena",
+   "Agent based class design",
+   "Local (arena) Memory Allocators",
+   "Finally Executors for C++",
+   "When C++ Style Guides Contradict",
+   "Designing C++ portable SIMD support",
+   "Phoenix V3 -- An Overview",
+   "Your Brain on Software Development",
+   "Creating Debian-Based Embedded Systems using Debos",
+   "The Design of the C++ Runtime for AWS Lambda",
+   "Better Code: Concurrency",
+   "Template Magic For Beginners",
+   "Generic Programming with Concepts Lite, Part I",
+   "The Nightmare of Initialization in C++",
+   "Viewing The World Through Array-Shaped Glasses",
+   "Troubleshooting & Debugging Microservices in Kubernetes",
+   "Game engine using STD C++ 11",
+   "Modules are Coming",
+   "Considerations for choosing the parallel computing",
+   "Mind as Code - Mindfulness for Developers and Knowledge Workers",
+   "HPX: A C++ Runtime System For Parallel And Distributed Computing",
+   "Reactive Systems",
+   "Standardizing the Data Distribution Service (DDS) API for Modern C++",
+   "Getting Started with Quantum Programming",
+   "Best practices when accessing Big Data or any other data!",
+   "There is a new future",
+   "Bringing Clean Code to large scale legacy Applications",
+   "What I Talk about When I Talk about Cross Platform Development",
+   "Yomm11: Open Multi-Methods for C++11",
+   "#include <os>: from bootloader to REST API with the new C++",
+   "Empirically Measuring, & Reducing, C++'s Accidental Complexity",
+   "Hey C, This Is What Performance Looks like",
+   "Boost.Asio and Boost.Serialization, Part I",
+   "Fun with (user-defined) attributes",
+   "function_ref",
+   "Improving Sense of Smell Low-Level Debugging",
+   "C++ Catastrophes: A Poem",
+   "The DiRT on Chaos Engineering at Google",
+   "What Else Has My Compiler Done For Me Lately?",
+   "Overloading: The Bane of All Higher-Order Functions",
+   "What did I learn teaching C++ to beginners",
+   "Making C++ easier, faster, safer (part 2)",
+   "Using build2, C++ Build Toolchain",
+   "Expertise Research in Software Engineering C/C++ Code Reviews",
+   "CPU-Friendly Code",
+   "Placement New",
+   "C++ Modules and Large-Scale Development",
+   "Site Reliability Engineering at Google",
+   "Multi-Precision Arithmetic for Cryptology in C++, at Run-Time and at Compile-Time",
+   "C++ Puzzlers",
+   "Less Code = More Software",
+   "Stop Teaching C",
+   "Sanitize your C++ code",
+   "Web | C++' SLIDES FIXED",
+   "High Performance Graphics and Text Rendering on the GPU",
+   "Distributed Mutual Exclusion using Proposed Boost.AFIO",
+   "Machine Learning: Alchemy for the Modern Computer Scientist",
+   "Lambdas - uses and abuses",
+   "Touring the Tips of the Week Series",
+   "Software Engineer in the Machine Learning world",
+   "C++ Coroutines: Under the covers",
+   "Are you Avoiding --privileged? (Q3)",
+   "Practical Type Erasure",
+   "Expected- An exception-friendly Error Monad",
+   "C++20 Coroutines: Introduction",
+   "Redux Architecture",
+   "Return Value Optimization: Harder Than It Looks",
+   "Live Kubernetes Debugging with the Elastic Stack",
+   "The Life of a CPU Instruction",
+   "Racing Robocars",
+   "The human cost of development",
+   "Eye tracking in code reviews",
+   "Using Modern CMake Patterns to Enforce a Good Modular Design",
+   "Making Allocators Work, Part II",
+   "Euclid's Algorithm & STL",
+   "Implementing Physical Units Library for C++",
+   "Testdriven C++ with Catch",
+   "Preconditions, postconditions, invariants - how they (...)",
+   "std::allocator...",
+   "From Functional to Parallel: Stochastic Modeling in C++",
+   "A Test of Strength",
+   "Developing a Linux driver in Rust for ARM",
+   "Selected C++11 Template Toffees From sqlpp11 (Part1)",
+   "Speed Is Found In The Minds of People",
+   "An introduction to Kotlin by example",
+   "Five Cloud Services Every Developer Should Know",
+   "Calendars for Humans - How to Undo the All-day Cram",
+   "Putting 'integer_sequence' on a diet",
+   "Implementing MOF based Modeling Languages with C++ and Qt",
+   "Git, CMake, Conan - How to ship and reuse our C++ projects",
+   "HPX: A C++11 parallel runtime system",
+   "Augmented Reality and Machine Learning Cooperation on Mobile",
+   "One Friend Ain't Enough",
+   "How bad is Meta-Programming still today?",
+   "Finding Nemo, or Evolution of a for Loop",
+   "Fast Conversion From UTF-8 with C++, DFAs, and SSE Intrinsics",
+   "What belongs in the C++ Standard Library",
+   "Cross Platform GUID Association with Types",
+   "Boost.Geometry: an introduction to geographic computation",
+   "Use Voice Recognition with Alexa to Control Your Home",
+   "The Design of a New C++ Build Toolchain",
+   "C++ on its way to exascale and beyond",
+   "C++20 STL Features: One Year of Development on GitHub",
+   "Effective Remote C++ Development with Codespaces",
+   "Introducing Microsoft's New Open Source Fuzzing Platform",
+   "Ranges and Iterators for numerical problems",
+   "Calling Functions",
+   "Software Engineering - Development in 100 Years Time",
+   "The Speed Game: Automated Trading Systems in C++",
+   "Rust for Freshmen",
+   "Sweating the Small Stuff: Brace Initialization, Unions and Enums",
+   "Modern C++ tips & trics",
+   "scnlib: Formatted input library",
+   "WG21-SG14 - Making C++ better for games, embedded and financial developers",
+   "Is C++ really a highperformance language?",
+   "Big Data Analytics in Telecommunication",
+   "Rpath and binary reuse",
+   "From Electron, to Wasm, to Rust (Aaand Back to Electron)",
+   "interview with C++ Committee's Library Evolution Working Group",
+   "Practical constexpr",
+   "AppSec: From the OWASP Top Ten(s) to the OWASP ASVS",
+   "Spread the LOVE for IoT - How I created a full day IoT workshop",
+   "Structure and Interpretation of Computer Programs: SICP",
+   "Update on C++ Core Guidelines Lifetime Analysis",
+   "Exception-Safe Code, Part III",
+   "Understanding Boost.Build",
+   "Proper Inheritance (part 1 of 2)",
+   "Meta Polymorphism",
+   "Gamgee: A C++14 library for genomics data processing and analysis",
+   "If You're Happy and You Know It (Inside the Mind of a Developer)",
+   "Open is Good - yomm2: Fast, Orthogonal Open Methods",
+   "An Update on Sealed Rust",
+   "Software development - learning to walk again",
+   "How to Teach C++ and Influence a Generation",
+   "Cross-platform C++ development is challenging - let tools help!",
+   "C++ Modules: The State of The Union",
+   "Structure aware fuzzing",
+   "Using tasks to simplify concurrency in modern C++",
+   "What to Expect from a Next-Generation C++ Build System",
+   "Lock-free programming with modern C++",
+   "Red teaming in Poland - test cases",
+   "Conversation AI, the new User Experience",
+   "Beware of C++",
+   "Agent-based class design - a step towards betters customizations points",
+   "Confusion in the Land of the Serverless",
+   "This is why we can('t) have nice things",
+   "Mastering Git's index",
+   "Prerequisites for Chaos Engineering",
+   "What Has My Compiler Done for Me Lately? Unbolting the Compiler's Lid",
+   "Code review",
+   "Lifetime analysis for everyone",
+   "Lessons in Sustainability...",
+   "The Essence of C++: With Examples in C++84, C++98, C++11, and C++14",
+   "Status quo: clang-tidy & AddressSanitizer on Windows",
+   "Rethinking Pointers",
+   "Variants: Past, Present, and Future",
+   "Lock-free by Example",
+   "High Cost Tests and High Value Tests",
+   "C++11 library components to make a scientist happy",
+   "The Performance Price of Dynamic Memory in C++",
+   "Functional Programming - Technical reasons to adapt",
+   "Coroutines: what can't they do?",
+   "Clean code in Go",
+   "How to Build a Consultancy People Enjoy Working for",
+   "STL Algorithms - why you should use them, and how to write your own",
+   "Return Values Take A Closure Walk",
+   "Waltzing with Branches",
+   "How to: Colony",
+   "CUDA Kernels with C++",
+   "Using Freestanding C++ for C++17 in Shellcode, UEFI, Embedded & Unikernels",
+   "Type Based Template Metaprogramming is Not Dead",
+   "Beyond C++17 (Part 2 of N)",
+   "Requirement: Creativity",
+   "C++17 : The Biggest Traps",
+   "Why don't the cool kids like OOP?",
+   "Details Matter",
+   "Grill the C++ committee -  Discussion",
+   "Simplicity Not Just for Beginners (Part 1)",
+   "The Rule of Seven (Plus or Minus Two): Modern C++ Boilerplate",
+   "Monoids, Monads, and Applicative Functors: Repeated Software Patterns",
+   "Practical API Design",
+   "C++17 - The Good and the Ugly",
+   "Building a Smart Security Camera with Raspberry Pi Zero, Java and AWS",
+   "C++ on GPUs done right?",
+   "Migrating a C++03 library to C++11 case study: Wt 4",
+   "Better Tools in Your Clang Toolbox",
+   "Demystifying Floating Point",
+   "Expect the expected",
+   "Class Fixes; Or, You Become the Rust Compiler",
+   "Functional Programming, a pragmatic approach",
+   "Energy and Education Access for Remote Communities",
+   "CPU optimized data structures - more fun with assembler",
+   "Resilience patterns in practice",
+   "Optimizing Generic Algorithms",
+   "Meta: Thoughts on generative C++",
+   "Is Parallel Programming still hard? PART 1 of 2",
+   "Back to Basics: Lambdas from Scratch",
+   "Building IoT solutions using Contiki-NG and AWS",
+   "There Is A Better Future",
+   "Advanced Levelization Techniques (part 1 of 3)",
+   "Eye tracking / reading",
+   "An allocator model for std2",
+   "Hacking rustc: Contributing to the Compiler",
+   "Parallel Design Patterns and Stream Parallelism",
+   "Using Spirit X3, Part II",
+   "The Language of Programming",
+   "Programming with C++ Modules: Guide for the Working",
+   "Where Does the Real World End - The Blurring of the Physical & Digital",
+   "AAAARGH!? Adopting Almost Always Auto Reinforces Good Habits!?",
+   "Convergent Evolution",
+   "Threads and Locks must Go",
+   "Visualizing C++ for Faster Comprehension",
+   "Boost.Geometry takes on the globe",
+   "What is the basic interface? (part 2 of 2)",
+   "It's DNS, Jim, but not as we know it",
+   "Clean(er) Code for Large Scale Legacy Applications",
+   "Multithreading 101: Concurrency Primitives From Scratch",
+   "Live Compiler Development with Cross-Platform Tooling",
+   "Simple, Extensible Pattern Matching in C++14",
+   "Lock-Free Programming (or, Juggling Razor Blades), Part II",
+   "Learnable Programming with Rust",
+   "Don't Walk Away from Complexity, Run",
+   "Developing PHP Extensions with PHP CPP",
+   "Continuous Integration of C/C++ Apps for IoT Devices",
+   "The Problem with 'Cutting Edge C++",
+   "It's Complicated",
+   "Numerical Differentiation ++",
+   "Dealing with Embedded Limitations",
+   "Copy Elision",
+   "An application for private inheritance",
+   "A Short Life span For a Regular Mess",
+   "interview with Augustin Popa & Elizabeth Morrow",
+   "Counting Nanoseconds Microbenchmarking C++ Code",
+   "Understanding Optimizers: Helping the Compiler Help You",
+   "Attitude Determines Altitude: Engineering Yourself & Your Teams",
+   "Apex.AI: Safe and certified software for autonomous mobility",
+   "On 'simple' Optimizations",
+   "Back to Basics: Class Layout",
+   "Associative containers",
+   "Fuzzing Class Interfaces for Generating and Running Tests with libFuzzer",
+   "Eoliennes Connectees",
+   "An Introduction to C++20's Concepts",
+   "Compiled C++ Coding Standards",
+   "Introduction from co-organizers",
+   "Meaningful casts",
+   "Modules are coming",
+   "Introduction to encryption for embedded Linux developers",
+   "An Introduction to Bluetooth mesh for Developers",
+   "Modern Template Metaprogramming: A Compendium, Part I",
+   "Generic Programming in C++: A Real-World Example",
+   "Techniques for mocking in C++",
+   "Kubernetes: Crossing the Chasm",
+   "C++, QML and static reflection",
+   "Build all the things with Spack: a package manager for more than C++",
+   "Testing the Limits of Allocator Awareness",
+   "Mastering the Linux Command Line",
+   "What a Conference! NOW 30 That's What I Call C++",
+   "Writing robust code",
+   "C++ in the Audio Industry",
+   "C++ Execution Model In Five Minutes",
+   "The Tragedy of the value based architecture",
+   "The C++ Type System Is Your Friend",
+   "Frugal Innovation",
+   "Are You Keeping Hosts Up to Date with the Latest Security Releases? (Q4)",
+   "Thinking Asynchronously",
+   "DNS at 30",
+   "clang-useful: Building useful tools with LLVM and clang for fun and profit",
+   "2020: The Year of Sanitizers?",
+   "Interactive Metaprogramming Shell based on Clang",
+   "Inside Fresh Paint - A C++ + XAML + DirectX Windows Store App",
+   "Unicode Strings: Why the Implementation Matters",
+   "Algorithms and Iterators for Multidimensional Arrays",
+   "How eSIM can help industrialisation",
+   "Implementing C++ Semantics in Python",
+   "Modern C++ API Design: From Rvalue-References to Type Design",
+   "Beyond the Issaquah Challenge: High-Performance Scalable Complex Updates",
+   "Modern C++ as Concurrent Assembly",
+   "Datum: A Compact Bitwise Copyable Variant Type",
+   "Think like a Hacker",
+   "C++ Standards Committee Fireside Chat",
+   "The C++ Memory Model",
+   "Implementing A Modern C++ MQTT Client for Embedded Devices",
+   "Putting Coroutines to Work with the Windows Runtime",
+   "Dealing with aliasing using contracts",
+   "How to Write a Heap Memory Profiler",
+   "Two phase name lookup for C++ templates (C++ Beginner's Lighning Talk)",
+   "A Letter to My Descendents",
+   "Value semantics: It ain't about the syntax!",
+   "Kubernetes Day 3: The State of Kubernetes Development Tooling",
+   "The Numerical Template Toolbox for High Performance Computing",
+   "Advanced Unit Testing in C & C++",
+   "DynaMix: A New Take on Polymorphism",
+   "CopperSpice: The Next Generation of Signals",
+   "Building efficient I/O intensive applications with Seastar",
+   "Command Line Parser Library   2017",
+   "Introduction to OAuth 2.0 and OpenID Connect",
+   "Nim - First natively compiled language w/ hot code-reloading at runtime",
+   "Decision Fatigue and coding guidelines",
+   "Principles for Developing More Secure Systems",
+   "Modern User Interfaces for C++",
+   "Time brings all things to pass",
+   "Type Punning in C++17: Avoiding Pun-defined Behavior",
+   "Sooner rather than later",
+   "Concurrency and Parallelism in C++17 and C++20/23",
+   "C++ programming in a parallel world @ CppEurope 2020",
+   "Removing Undefined behavior from integer operations: The bounded::integer library",
+   "CERN, from an IT Perspective",
+   "C++ and Persistent Memory Technologies, Like Intel's 3D-XPoint",
+   "How Google SRE and Developers Work Together",
+   "STL Algorithms - How to Use Them and How to Write Your Own",
+   "An Overview of the Linux and Userspace Graphics Stack",
+   "How to Herd 1,000 Libraries",
+   "A Multithreaded,Transaction-Based Locking Strategy for Containers",
+   "5G programmable world",
+   "How to Design C++ Implementations of Complex Combinatorial Algorithms",
+   "template<template...>",
+   "Local (Arena) Allocators Part II",
+   "Functional programming: functors and monads",
+   "How to go to Google.com",
+   "Thoughts on Metaclasses",
+   "How bad is meta-programming still today?",
+   "No Sane Compiler Would Optimize Atomics",
+   "I just wanted to point to something!",
+   "What the committee did next!",
+   "Thread-safe and Thread-neutral Bags",
+   "A new look at TMP",
+   "Multicore Synchronization: The Lesser-Known Primitives",
+   "Sitting Considered Deadly",
+   "Using Boost.Coroutine to untangle a state machine",
+   "Lambda Functions",
+   "Speeding up code with C++17 Polymorphic Memory Resources",
+   "Coworking Spaces - a Journey through the Concepts",
+   "Great C++ is_trivial",
+   "Boost.Units",
+   "The taming of the Software: C++, embedded... and more",
+   "Analyzing Pwned Passwords with Apache Spark",
+   "A Multi-threaded, Transaction-Based Locking Strategy for Containers",
+   "Reuse bill",
+   "The Importance of Laughter",
+   "Time Travel: Applying Gradual Typing to Time Types with Clang's LibTooling",
+   "Practical Type Erasure: A boost::any Based Configuration Framework",
+   "Easy to Use, Hard to Misuse: Declarative Style in C++",
+   "Algorithm Intuition (part 2 of 2)",
+   "C++ as a 'Live at Head' Language",
+   "Faces of undefined behavior",
+   "Ladon -- A Distributed State-Machine Framework",
+   "yomm2: Fast, Orthogonal, Open Methods in a Library",
+   "Tier 3 Means Getting Your Hands Dirty",
+   "(R)evolution of C++",
+   "Applied AI: Real-World Use Cases for Microsoft's Azure Cognitive Services",
+   "An Adventure in Race Conditions",
+   "Biicode, a C/C++ dependency manager with a hosting service",
+   "Finding Bugs with Clang at Compile and Run Time",
+   "What's My Object?",
+   "Day 2",
+   "Aliasing Redefined",
+   "Using C++20 Ranges Effectively",
+   "The strange details of std::string at Facebook",
+   "PSD2, SCA, WTF?",
+   "A Visions For std2",
+   "A Crash Course in Open Source Licensing",
+   "OPC UA, La norme d'interoperabilite securisee pour l'Industrie 4.0 et l'IoT",
+   "Exceptional C++",
+   "Toward Native XML Processing Using Multi-paradigm Design in C++",
+   "C++: Fast and Small - What are the Costs of Language Features",
+   "Deep Learning for Developers",
+   "Scaling up an iOS Codebase",
+   "Debugging using an exact recording of a program's execution",
+   "Boostache",
+   "Considering Rust for scientific software",
+   "Building Secure React Applications",
+   "Is This Magic!? Ferris Explores Rustc!",
+   "Microcontrollers in Micro-increments A Test-driven C++ Workflow",
+   "Talking with Tech Leads",
+   "Birth of Study Group 14...",
+   "Call: A Library that Will Change the Way You Think about Function Invocations (1 of 2)",
+   "A system for resource deadlock prevention using intrusive dynamic analysis",
+   "Virtual assistants - our journey from extensive (...)",
+   "A View to a View",
+   "The New Old Thing, of Fun with Lambdas",
+   "Undefined behaviour is awesome!",
+   "Writing Performant C++ Code",
+   "Scale, Flow and Microservices",
+   "generic-programming-with-concepts",
+   "How to make Augmented Reality with Qt/QML and OpenCV ?",
+   "179 range algorithms in less than an hour",
+   "Building LPWAN Solutions that last for Years",
+   "Undefined behaviour in the STL",
+   "Fast numerical computation in C++: Expression Templates",
+   "Numerical Weather Prediction: Facing the Future with C++",
+   "tuple<>: What's New and How it Works",
+   "Parametric Expressions: A Proposed Language Feature",
+   "The 'Detection idiom:' A Better Way to SFINAE",
+   "C++ Today: The beast is back",
+   "De-fragmenting C++: Making Exceptions and RTTI More Affordable and Usable",
+   "Clean Integral Code",
+   "Come Stream with Me",
+   "Trusting your Raspberry Pi - An introduction to the TPM and IoT",
+   "C++20: What's in it for you?",
+   "interview with Jose Daniel Garcia",
+   "10 Core Guidelines You Need to Start Using Now",
+   "What Programmers Should Know About Memory Allocation",
+   "Bringing the power of C++ to the web",
+   "Secure C++ Programming",
+   "How to get rid of Obsession?",
+   "What is the basic interface? (part 1 of 2)",
+   "C++20 Text Formatting",
+   "Thriving in a crowded and changing world: C++ 2006-2020",
+   "Are Your Secrets Encrypted at Rest and in Transit? (Q5)",
+   "Socializing with {fmt}",
+   "Contract Programming in C++(20) (part 2 of 2)",
+   "Networking TS Workshop (part 1 of 2)",
+   "Memory Efficient Java",
+   "C++20: the small things",
+   "Experiences in Teaching Modern C++ to Beginners",
+   "C++ Dependency Management the Meson Way",
+   "Choosing the correct vectorization method",
+   "The Set of Natural Code",
+   "Concurrency in cloud applications",
+   "A Microservices Journey",
+   "Making Games Start Fast: A Story About Concurrency",
+   "CQRS & Event Sourcing Apps with Axon & Pivotal Cloud Foundry",
+   "An Asio Based Flash XML Server",
+   "C++17 in Breadth (part 2 of 2)",
+   "BDE Libraries, An Orientation",
+   "Futures Without Type Erasure",
+   "Bringing Business Logic Back to C++",
+   "How to Apply Engineering Practices to Embedded Software Development",
+   "Go: Concurrency Design",
+   "Rich Code for Tiny Computers: A Simple Commodore 64 Game in C++17",
+   "ASoC: Audio on an embedded board",
+   "Implementing a Modern C++ MQTT Client for Embedded Devices",
+   "A concept design for C++",
+   "Cloud Native C++: Modern architecture for (...)",
+   "Bluff your way in x64 assembler",
+   "No lightsaber is needed to break the Wookey",
+   "Enough x86 Assembly to Be Dangerous",
+   "Keep your code sane with clang-tidy",
+   "Metaprogramming in C++14",
+   "Using Concepts: C++ Design in a Concept World (part 2 of 2)",
+   "Template Metaprogramming: Type Traits (part 2 of 2)",
+   "Accu Overload",
+   "C++ Committee's Library Evolution Working Group",
+   "Deep Learning with C++",
+   "Improving Debuggability with GDB's Python API",
+   "The Networking TS from Scratch: I/O Objects",
+   "Variadic and Variable Templates in C++14",
+   "Multithreading is the answer. What was the question? Part II",
+   "Make Friends with the Clang Static Analysis Tools",
+   "Can You Prevent Container Drift? (Q6)",
+   "An Engineer's Guide To Burnout And How To Hack It",
+   "The MLIR Framework: A Brief Introduction to Deep Learning Compilers",
+   "Introduction to gRPC",
+   "From (Big) Data Mess to Data as an Innovation Enabler",
+   "Concept Based Testing",
+   "The Slot Map Data Structure",
+   "State Machines Battlefield - Naive vs STL vs Boost",
+   "(Ab)using C++17",
+   "How to make a large C++-code base manageable",
+   "Lambdas from First Principles: A Whirlwind Tour of C++",
+   "Modern generic programming using the Tick and Fit libraries",
+   "Fighting Git Workflows",
+   "Retiring the Singleton Pattern",
+   "SW compatibility, plan it or face eventual consequences",
+   "This Videogame Programmer Used the STL and You Will Never Guess What Happened Next",
+   "Simplest Safe Integers",
+   "test_resource: the pmr detective",
+   "Architecture is (not) everything",
+   "array_ref: Multidimensional Array References for the C++ Standard Library",
+   "Asynchronous C++ Programming",
+   "Executors in C++",
+   "Read and write considered harmful",
+   "How C++ Debuggers Work",
+   "The 5 Pillars of Collaborative Product Ownership",
+   "My Least Favorite Anti-Pattern",
+   "lambda Demystified",
+   "Multitype Pool: fixed type allocation",
+   "Static if I had a hammer",
+   "Time Programming Fundamentals",
+   "Advanced Tools for Better Productivity",
+   "Why Are Distributed Systems so Hard?",
+   "Writing a C++20 Module",
+   "Supersonic, Subatomic Eclipse MicroProfile",
+   "Delivering software that is secure & usable - who's job is it?",
+   "Designated Initializers: Remembering Every Struct Member in Declaration Order Is Hard",
+   "An Intro to Project Riff, a FaaS Built on Top of Knative",
+   "Compile-time contract checking with nn",
+   "CI Your Presentation for Fun and Profit",
+   "Enhanced Support for Value Semantics in C++17",
+   "Integrating Docker containers in Yocto",
+   "Diagnose your Golang App anytime anywhere!",
+   "C++11 was only the beginning",
+   "Parallel Computing Visualization",
+   "Regex in C++11 and Boost",
+   "Why C++0x is the Awesomest Language for Network Programming",
+   "The C++20 Standard Library: Beyond Ranges",
+   "Modern C++ Safety and Security At 20",
+   "Monolith to Microservices",
+   "Experiment to Innovate",
+   "What did C++ do for Transactional Memory?",
+   "Think About Front-end Web Development with Rust",
+   "Practical (?) Applications of Reflection",
+   "Macro-Free Testing With C++20",
+   "constexpr ALL the Things!",
+   "The C++ ABI From the Ground Up",
+   "Agility at Scale: A Meeting of Mindsets",
+   "Text Formatting For a Future Range-Based Standard Library",
+   "Os Matters",
+   "Empirical Unit Testing",
+   "Haskell Design Patterns for Genericity & Asynchronous Behavior",
+   "Monolith Decomposition Patterns",
+   "C++ Insights: How Stuff Works, Lambdas and More!",
+   "Towards Painless Testing",
+   "Benchmarking in C++",
+   "Fishbowl  - Working on Large Code Bases",
+   "Equivalence in cross-compilation compiler warnings",
+   "interview with speakers",
+   "Constant Fun",
+   "Choosing the Right Integer Types in C and C++",
+   "Latest and Greatest from the Visual Studio Family for C++ Developers",
+   "An Overview of Program Optimization Techniques",
+   "GameDays: Practice Thoughtful Chaos Engineering",
+   "DevUX: Improving Developer-Designer Collaboration",
+   "Algorithm Intuition (part 1 of 2)",
+   "Device Tree overlays and U-boot extension board management",
+   "Life of an async fn",
+   "Ai4Prod: the ecosystem to bring AI in production through C++",
+   "Live Lock-Free or Deadlock (Practical Lock-free Programming) (PART 2)",
+   "Boost.Generic: Concepts without Concepts",
+   "An inspiring introduction to template metaprogramming",
+   "Easing into Modern C++",
+   "Dependency Injection - a 25-dollar term for a 5-cent concept",
+   "Introduction to Quantum Computing",
+   "Composing Bach Chorales Using Deep Learning",
+   "Designing A Feature That Doesn't Fit",
    "Leveraging Modern C++ in Quantitative Finance",
+   "Kubernetes Operability Tooling",
+   "Reducing Template Compilation Overhead, Using  C++11, 14, 17, and 20.",
+   "Writing Great Libraries: 89 Easy Steps",
+   "Character Encodings Hate Us All",
+   "Building Modules",
+   "Scaling development of a large C++ project: Chromium (Part 2)",
+   "Secure Coding Best Practices: Your First Line Is The Last Line Of Defense (1 of 2)",
+   "A Deep Dive into 2 Cross-Platform Mobile Apps Written in C++",
+   "Lessons Learned",
+   "IoC++ - A IoC framework for C++",
+   "How C++20 Changes the Way We Write Code",
+   "There Are No Zero-cost Abstractions",
+   "Talking With Tech Leads",
+   "Just-in-Time Compilation: The Next Big Thing?",
+   "std::optional and the m word",
+   "Embind and Emscripten: Blending C++11, JavaScript, and the Web Browser",
+   "Diet for your Templates - Reducing Code Bloat in Your Templated Library",
+   "IIFE in C++ for Performance and Safety",
+   "STL Algorithms as Expressions",
+   "HORRORLARITY",
+   "Create your own Refactoring Tool in Clang",
+   "OAuth and OpenID Connect in Plain English",
+   "Fortransformers: A Field Study",
+   "Burnout",
+   "The Quest For A Better Crash",
+   "Using Compile-time Code Generation to build an LLVM IR Pattern Matcher",
+   "How can we write the best device driver?",
+   "LauncherOne rocket with C++ engine",
+   "Embrace No Paradigm Programming!",
+   "Windows Native API",
+   "The Blaze High Performance Math Library",
+   "Back to Basics: The Abstract Machine",
+   "From Spring Boot Apps to Functional Kotlin",
+   "How we switched to C++11 at SolidFire and how it worked out",
+   "No Touchy! A Case Study of Software Architecture with Immutable Objects",
+   "Grill The Committee",
+   "Moving Fast at Scale",
+   "Concepts Lite: Constraining Templates with Predicates",
+   "Interactive C++: Meet Jupyter / Cling",
+   "Read, Copy, Update, then what? RCU for non-kernel programmers",
+   "Classes With Many Fields",
+   "Hacker's guide to Web Assembly",
+   "The Audacity of Chapel: Scalable Parallel Programming Done Right",
+   "C++20 Coroutines: Asynchronity reimagined",
+   "C++11: New Tools for Class and Library Authors",
+   "C/C++ vs Security!",
+   "Would 'reserve'/'upgrade'/'downgrade' Methods Improve 'std::shared_mutex'?",
+   "Serverless Tales from the Trenches",
+   "The Development Metrics You Should Use (but Don't)",
+   "A modern formatting library for C++",
+   "Security & Trust in a Microservices World",
+   "Practical Performance Practices",
+   "A short story about...",
+   "The C++ Reflection TS",
+   "Practical Patterns with the Networking TS",
+   "The Woos and Woes of Open-Source FPGA-Tools: A journey",
+   "C++ in Elvenland",
+   "Gradually Adopt GraphQL Without Writing any Backend Code",
+   "We have always been at war with West Constia",
+   "Contracts programming after C++17",
+   "Designing Features for Mature Systems: Lessons Learned from Manta",
+   "Programming challenges in converting R to C++",
+   "Controlling Telescope Hardware with Rust",
+   "Threads and shared variables",
+   "What a View! Building Your Own (Lazy) Range Adaptors (part 2 of 2)",
+   "The C++20 Synchronization Library",
+   "Defensive Programming Done Right, Part I",
+   "MPL11: A New Metaprogramming Library for C++11",
+   "C++ ecosystem: For better, for worse",
+   "Multithreading Using Lockless Lists and RCU",
+   "Secure Coding Best Practices: Your First Line Is The Last Line Of Defense (2 of 2)",
+   "constrain yourself",
+   "CMake: One Tool To Build Them All",
+   "Modern C++",
+   "Safe Numerics",
+   "interview with Peter Hilton",
+   "Optimizing Kubernetes Deployments with Helm",
+   "Boost.Dispatch -- Generalized Tag Dispatching Infrastructure Library",
+   "C++20: An (Almost) Complete Overview",
+   "My Thoughts on Large Code Base Change Ripple Management in C++",
+   "Building an Intuition for Composition",
+   "std::launder",
+   "Docker Based C++ Dependency and Build Management",
+   "Better C++ Ranges",
+   "Critical Code analysis with Observer Pattern",
+   "Building HTTP API SDKs that Really Are a Kit",
+   "Designing APIs for 150 Million Orders",
+   "Embracing Standard C++ for the Windows Runtime",
+   "probe-rs: Your Embedded Tome",
+   "Serverless Beyond the Hype",
+   "Efficient data aggregation with Fenwick trees",
+   "Techniques in Flexible Header-Only C++ Network Library Implementations",
+   "Lesson to Learn   2017",
+   "10 Techniques to Understand Existing Code",
+   "Cloud Native Development Without the Toil",
+   "The Proposed Boost B-tree Library",
+   "Practical Functional Programming in C++",
+   "On C++, Javascript and WebSockets",
+   "MPark.Patterns: Pattern Matching in C++",
+   "The Finer Points of Parameter Packs",
+   "C++ Standard Library",
+   "The Evolution of Threat Models for Secure Communication Products",
+   "Ryppl -- A New Platform for Boost Development",
+   "10 years of Poco C++ Libraries",
+   "Pattern Matching: Match Me If You Can",
+   "Coroutines and C++ DSLs for Human Scale Concurrency",
+   "The 7 Quests of Resilient Software Design",
+   "Generative Programming in Action: Emulating the 3DS",
+   "The CUDA C++ Standard Library",
+   "Naming is Hard: Let's Do Better",
+   "C++ Modules & Large-Scale Development",
+   "How C++ Debuggers work",
+   "CI/CD is just the Beginning: Optimize Value Creation with Flow Framework",
+   "On the road to a trusted boot chain on STM32MP1 series",
+   "Don't do what I did",
+   "What Could Possibly Go Wrong?: A Tale of Expectations and Exceptions",
+   "The C++ rvalue lifetime disaster @ CppEurope2020",
+   "Full-stack Reactive Java with Project Reactor & Spring Boot 2",
+   "Points of Order",
+   "Are we ready for modules?",
+   "Qt event loop, networking and I/O API",
+   "Loop Exit Blocks: A proposal for C++20",
+   "AST Construction with the Universal Tree",
+   "The Object Upside Down",
+   "Emulating the Nintendo 3DS: Generative & Declarative Programming in Action",
+   "Postmodern C++",
+   "Introduction to Micronaut",
+   "The Truth of a Procedure",
+   "C++20 Coroutines: Generators, and Brain Unrolling Sweetness",
+   "HPX and GPU parallelized STL",
+   "How to Refactor Millions of Line of Code Without Alienating your Colleagues",
+   "Monolithic Delivery",
+   "Objects? No thanks!",
+   "An Allocator is a Handle to a Heap",
+   "Class Template Argument Deduction in C++17",
+   "Mix Tests and Production Code With Doctest...",
+   "Look ma, 'update DB to HTML5 using C++', no hands!",
+   "How I learned to Stop Worrying and Love the C++ Type System",
+   "Simplicity: not just for beginners",
+   "Making Chaos Engineering Boring: Debunking Myths Hampering Adoption",
+   "66 hours of Rust",
+   "Why and How To Add Scripting",
+   "Future of communications...",
+   "Quickly and Effectively Testing Legacy C++ Code with Approval Tests",
+   "Life After Business Objects - Confessions of an OOP Veteran",
+   "An allocator is a handle to a heap",
+   "Faster Delivery of Large C/C++ Projects with...",
+   "C++ Cryptozoology - A Compendium of Cryptic Characters",
+   "Compile-time reflection, Serialization and ORM",
+   "Cryptography for Programmers",
+   "Multidimensional Iterators",
+   "Meet the Authors",
+   "Local ('arena') memory allocator",
+   "The fantastic four coding patterns of Continuous Delivery",
+   "What Engineering Managers Should Do (and Why We Don't)",
+   "Improving Performance and Maintainability in Modern C++",
+   "Design Patterns for Hardware Packet Processing on FPGAs",
+   "Design for Cost VS Cost of Design",
+   "The Lifecycle of an A/B Test",
+   "GNU/Linux ou Android comme système d'exploitation embarque ?",
+   "Polymorphism with Unions",
+   "Let's Move",
+   "Cross-Platform Apps with Dropbox's Djinni...",
+   "Effective Practices for Engineering Teams",
+   "Programming with C++ Constraints: Background, Utility, and Gotchas",
+   "Dragging C++ into the Modern era",
+   "Legacy Evolution - The Innovation Opportunity!",
+   "RTIC: Real Time Interrupt driven Concurrency",
+   "Conference Opening",
+   "Local ('Arena') Memory Allocators (part 2 of 2)",
+   "Deeply Embedded C++",
+   "Introduction to Qt 3D",
+   "SFINAE: Substitution Failure Is Not An Error",
+   "High Performance C++ Concurrent Transactional Data Structures",
+   "Catch [^]: Unicode for C++23",
+   "Template Shenanigans",
+   "An Introduction to the Proposed Coroutine Support for C++",
+   "Human-Computer Partnerships",
+   "Apps, Algorithms & Abstractions",
+   "Back to Basics: Concurrency",
+   "The Hitchhiker's Guide to Faster Builds - Part 2 of 2",
+   "Clang Concepts",
+   "Deploying C++ modules to 100s of millions of lines of code",
+   "Battle of the Circuit Breakers: Resilience4J vs Istio",
+   "Why You Need a Software Delivery Machine",
+   "How to understand million-line C++ projects",
+   "The Landscape of Parallelism",
+   "Recent developments and future outlook of Qt",
+   "Building finite-element matrix expressions with Boost Proto and the Eigen library",
+   "C++ Concepts for ill-posed Inverse-Problems",
+   "Embedded cryptography: RustCrypto + Veriform",
+   "FourCCs Done Right",
+   "Kafka as a Platform: The Ecosystem from the Ground Up",
+   "How Everyday Technology Can Be Used to Help the Climate",
    "Colonies, performance and why you should care",
+   "Effective dependency management with CMake",
+   "What about lambdas",
+   "STL Algorithms in Action",
+   "Extrema:  Correctly Calculating min and max",
+   "Achieving Functional Programming in Java",
+   "The Hidden Secrets of Move Semantics",
+   "Distributed Object Abstraction in HPX",
+   "Project Necromancy: How to Revive a Dead Rust Project",
+   "Hardening Your Code",
+   "Breaking Things on Purpose",
+   "Building a C++ Reflection System",
+   "Model - View - Whatever MVW",
+   "Let's Get Lazy: Exploring the Real Power of Streams",
+   "Universal Function Call Syntax in C++20",
+   "Content Security Policies: Let's Break Stuff",
+   "sqlpp11, An SQL Library Worthy Of Modern C++",
+   "The C++ Execution Model",
+   "The Rough Road Towards Upgrading to C++ Modules",
+   "Blockchain in Healthcare",
+   "Combining Modern C++ and Lua",
+   "How to test static_assert?",
+   "I have to make a confession",
+   "Data Science for Everyone with ISLE",
+   "Building Distributed Systems with Kubernetes",
+   "ReasonML: React as a Language and what the Future looks like",
+   "When Should You Give Two Things the Same Name?",
+   "What is the basic interface?",
+   "Build a Q&A Bot with DeepLearning4J",
+   "Taskflow: A Heterogeneous Task Graph Programming System with Control Flow",
+   "for_each_argument explained and expanded",
+   "Refactoring hacked",
+   "When Python Practices Go Wrong",
+   "SSD lifetime, data integrity and real-time: compromises and lessons learned",
+   "Assertions of Competence",
+   "On the Road to Artificial General Intelligence",
+   "Automatic Task-based Code Generation for High Performance DSEL",
+   "VC11 Auto-Vectorizer, C++ NOW, Lang.NEXT",
+   "An Overview of C++11/14, Part II",
+   "From Parsing to sema: Making Sense of Syntax Trees",
+   "Simulating the Universe Using Modern C++",
+   "Exhuming 'Castlequest'",
+   "Writing Good C++14",
+   "Building C++ Modules",
+   "C++, Abstract Algebra and Practical Applications",
+   "High-Radix Concurrent C++",
+   "Good FIFOs Make Good Thread Neighbors",
+   "How you can make a Boost C++ Library",
+   "Architect a High-performance SQL Query Engine in Rust",
+   "Debugview++",
+   "Microservice Message Routing on Kubernetes",
+   "Recreational C++",
+   "Behind the scenes of upgrading a static analyzer to C++20",
+   "ADL: introduction in name taxonomy, customization points and use cases",
+   "Concurrency in Rust",
+   "Polymorphic Task   2017",
+   "It Really is Easier to Ask for Forgiveness (than Permission)",
+   "Packaging Applications in a Serverless World!",
+   "Tacit DSL All the Things",
+   "C++17 - the upcoming revolution",
+   "C++20 Coroutines: What's next?",
+   "Zen and the Art of Convincing Your Company to Use Rust",
+   "So You Think You Know How to Work With Concepts?",
+   "Making Mutants Work for You",
+   "The Detection Idiom - a simpler way to SFINAE",
+   "Linear programming made easy with Boost Proto",
+   "zbus: Yet another D-Bus library",
+   "VC11 and Beyond with Steve Teixeira and Tarek Madkour",
+   "John Deere Operations Center Development Journey & Ecosystems",
+   "How to Hack OAuth",
+   "Lessons Learned: Recruiting & Onboarding Agile Teams",
+   "Elsewhere Memory (C++20 Abstract Machine) + Virtual Memory",
+   "An Overview of C++11/14, Part I",
+   "The Many Shades of reference_wrapper",
+   "Iron Man vs Pony",
+   "From embedded Linux boat sensors to the cloud, a data journey",
+   "Better Spotify Playlists through Music Theory & Discrete Optimization",
+   "Local (Arena) Memory Allocators Part 1",
+   "What I Wish They Told Me - Part 1 of 2",
+   "Lockfree Programming Part 2: Data Structures",
+   "Initialisation in modern C++",
+   "GoLand Tips & Tricks",
+   "Code Reviews - Why, what and how",
+   "Breaking Language Barriers with AI",
+   "Game Engine API Design",
+   "Modern C++ in Embedded Systems - The Saga Continues",
+   "Metaprogramming for the brave",
+   "C++11's Quiet Little Gem: <system_error>",
+   "Safe and Sane C++ Types",
+   "The evolving search for modern APIs in Boost",
+   "You Really Don't Need All That JavaScript, I Promise",
+   "noexcept considered harmful ???",
+   "Common-sense acceleration of your MLOC build",
+   "An Introduction to Systems & Service Monitoring with Prometheus",
+   "The Jai Programming Language and What Can We Learn From It",
+   "How Java & Scala are Imitating Functional Languages",
+   "Agent Based Class Design",
+   "Good Enough Architecture",
+   "C++20 String Formatting Library: An Overview and Use with Custom Types",
+   "Lock-free by Example: Towards an Interesting Lock-free MPMC Queue",
+   "Live Hacking Session Part 2",
+   "With Age Comes Wisdom: Lessons Learned in 15 Years of Building Software",
+   "Advanced Levelization Techniques (part 2 of 3)",
+   "Three Cool Things about D",
+   "Secret Management with Hashicorp's Vault",
+   "C++ Mixins: Customization Through Compile Time Composition",
+   "Understanding compiler optimization",
+   "C++ Build Systems",
+   "Undefined Behavior and Compiler Optimizations",
+   "Sane and Safe C++ Class Types",
+   "ForTransformers vs deCeePeePeeticons",
+   "Standardised Coroutine Concurrency in Python 3",
+   "Rolling Your Own Circuit Simulator",
+   "C++ Coroutines - a negative overhead abstraction",
+   "Matchine: Pattern Matching for Open Sum Types",
+   "Cluster Consensus: when Aeron met Raft",
+   "Is Boost Broken?",
+   "Diversity & Inclusivity in Tech",
+   "boost.tmp: Your DSL for Metaprogramming - Part 2 of 2",
+   "Metaprogramming for dummies",
+   "Interconnection security - SS7 and diameter",
+   "C++17 - The Best Features",
+   "odeint -- Solving ordinary differential equations in C++",
+   "The Forest - Artist Performance",
+   "C++ Memory Model Meets High-Update-Rate Data Structures",
+   "Whoops! I Rewrote It in Rust",
+   "C++ API & ABI versioning",
+   "Make your programs more reliable with Fuzzing",
+   "Striving for ultimate low latency",
+   "C++ Past vs. Future",
+   "Making New Friends",
+   "Temporal Modelling",
+   "Incident Analysis Before Chaos Engineering",
+   "C++20 in Breadth",
+   "Identifying Pokemon Cards",
+   "Enforce Inform Ignore Assume - Gradual Adoption of Contracts In Production Code",
+   "An Introduction to C++ Coroutines",
+   "Naked coroutines live (with networking)",
+   "East const but constexpr West",
+   "Boost.Text: Fixing std::string, and Adding Unicode to Standard C++ (part 1)",
+   "The fastest template metaprogramming in the West",
+   "Pulling Visitors",
+   "Weak Interfaces -> Weak Defences: The Bane of Implicit Conversion in Function Calls",
+   "A variant of recursive decent parsing",
+   "Interview Question",
+   "Smart Output Iterators",
+   "The Pragmatic Programmer 20 Years Later",
+   "Lessons Learned From An Embedded RTPS in Modern C++",
+   "C++ Testing Techniques, Tips and Tricks @ CppEurope 2020",
+   "Let's make a telegram bot with C++",
+   "Raising a Coder in an Educational Maelstrom: Advice & Lessons Learned",
+   "Performance analysis and optimization of C++ standard libraries",
+   "Standardizing Linux Boot process for RISC-V platforms",
+   "Scaling with C++11",
+   "constexpr ALL the things!",
+   "Enhancing STL containers",
+   "Modern techniques for keeping your code DRY",
+   "Reflections: Compile-time Introspection of Source Code",
+   "Meta++: Language Support for Advanced Generative Programming",
+   "Working on modular projects with Git",
+   "Sweep-Line Algorithm for Voronoi Diagrams",
+   "Exceptions Demystified",
+   "What I Wish They Told Me - Part 2 of 2",
+   "Applied WebAssembly: Compiling and Running C++ in Your Web Browser",
+   "Data-Driven Engineering",
+   "Regular Types and Why Do I Care ?",
+   "Procedural Programming: It's Back? It Never Went Away",
+   "How C++20 Can Simplify std::tuple",
+   "Examining applications that do not terminate on std::bad_alloc",
+   "How Kotlin makes your Java code better",
+   "Small is beautiful: Techniques to minimise memory footprint",
+   "A quick view into a compiler",
+   "Value Proposition: Allocator-Aware (AA) Software",
+   "From security to performance to GPU programming...",
+   "Managing C++ Build Complexity Using Cuppa: A SCons-based Build System",
+   "Destructor Case Studies: Best Practices for Safe and Efficient Teardown",
+   "Learning and Teaching Modern C++",
+   "Impostor Syndrome",
+   "Bringing Clang and C++ to GPUs: An Open-Source, CUDA-Compatible GPU C++ Compiler",
+   "A Complete Overview on Boost.Jam and Boost.Build",
+   "CopperSpice: A Pure C++ GUI Library",
+   "Adventures in SIMD-Thinking (part 2 of 2)",
+   "Thinking outside the synchronisation quadrant",
+   "Space adventures",
+   "Clang Automated Refactoring for everyone with clangmetatool",
+   "Don't constexpr All the Things",
+   "Game Audio Programming in C++",
+   "Software Engineering Is About Tradeoffs",
+   "Argot: Simplifying Variants, Tuples, and Futures",
+   "Security vulnerability tracking tools in Buildroot",
+   "Writing Libraries is Terrible",
+   "Comparison is not simple, but it can be simpler",
+   "Sorting in less than O(n log n): Generalizing and optimizing radix sort",
+   "How to use correctly the const qualifier?",
+   "The C++20 Firehose Talk",
+   "Undefined Behavior in  (part 2 of 2)",
+   "Interactive C++ in a Jupyter Notebook Using Modules for Incremental Compilation",
+   "Generalized Full Duplex Messaging",
+   "Behind the Scenes of a C++ Build System",
+   "Syscalls for Rustaceans",
+   "This Week in Rust: 400 Issues and Counting!",
+   "Reducing OS noise using offload driver",
+   "Cloud Native is about Culture, not Containers",
+   "Higher-order functions and 'function_ref",
+   "Practical Techniques for Improving C++ Build Times",
+   "3 things they didn't tell you about Agile",
+   "Basic Web Applications Security",
+   "Modern C++ Testing with Catch2",
+   "Back to Basics: Templates (part 2 of 2)",
+   "Rebuilding Boost Date-Time for C++11",
+   "There and Back Again: An Incremental C++ Modules Design",
+   "The Networking TS in Practice: Testable, Composable Asynchronous I/O in C++",
+   "Conan, a C and C++ package manager for developers",
+   "Embarking on Your Security Journey",
+   "Patterns and Techniques Used in the Houdini 3D Graphics Application",
+   "Selected C++11 Template Toffees From sqlpp11 (Part3)",
+   "Postcards from the Cross-platform Frontier",
+   "Standard Slam",
+   "C++17, is it great or just OK...",
+   "Optimizing compilation times with Templates",
+   "Spectre: Secrets, Side-Channels, Sandboxes, and Security",
+   "Intel® Graphics Technology for general purpose computing",
+   "No more coffee breaks - reducing C/C++ project compilation time",
+   "Regular Types and why do I care?",
+   "Augmented Reality - The State of Play",
+   "Love Letter to the Computer",
+   "Data oriented design in practice",
+   "Extending and Wrapping C and C++ with Python",
+   "Pruning Error Messages From Your C++ Template Code",
+   "Welcome To The Time Zone",
+   "MicroEJ, un environnement virtualise pour l'embarque",
+   "WebAssembly Beyond the Browser",
+   "Why I should run my applications in containers (or, at least, consider doing it)?",
+   "Data Driven Observability & Incident Response",
+   "a small tool to browse your backtraces",
+   "Why iterators got it all wrong",
+   "Inside Spirit X3: Redesigning Boost.Spirit for C++11",
+   "Modern C++ Design (part 1 of 2)",
+   "Get Ready to Rock with Sonic Pi - The Live Coding Music Synth for Everyone",
+   "Embedded Domain Specific Languages for Embedded Bare Metal Projects",
+   "Optimally Shooting Furry Balls out of Vulkanoes",
+   "New Build System for New C++",
+   "Concurrent Code - Test It! - How?",
+   "How Profile-Guided Optimization Makes Your Code Faster Without Any Code Changes",
+   "Using Concepts: C++ Design in a Concept World (part 1 of 2)",
+   "Expect the Expected",
+   "Concepts and Contracts: When, What, and How",
+   "Machine Learning with Python Case Study",
+   "Designing XML API for Modern C++",
+   "Form an Israeli C++ National Body",
+   "Azure Serverless for Developers",
+   "Typegrind - Type preserving heap profiler for C++",
+   "Bringing clang-tidy magic to Visual Studio C++ Developers",
+   "Range-Based Text Formatting - For a Future Range-Based Standard Library",
+   "What C++ is and what it will become",
+   "Thinking Outside the Synchronisation Quadrant",
+   "Immediately Invoked Lambda Expressions",
+   "Functional C++ for Fun and Profit",
+   "High Performance Code 201: Hybrid Data Structures",
+   "Current trends in the C++ Community",
+   "Optimizing the Emergent Structures of C++",
+   "Easy Binary Compatible C++ Interfaces Across Compilers",
+   "Asynchronous IO Using Boost.Asio",
+   "Dashboards to the Rescue",
+   "Bridging Languages Cross-Platform...",
+   "Hunting the mammoth in the modern age",
+   "Automatic Hybrid MPI+OpenMP Code Generation",
+   "A C++ Approach to Physical Units",
+   "Secure Coding Best Practices",
+   "Modern Continuous Delivery",
+   "Ownership model in C++ and beyond",
+   "Infiltrating a Code Base: Moving Toward a Better C",
+   "The hidden languages of C++",
+   "Controlling Overload Resolution with SFINAE",
+   "Server Driven UI on Mobile",
+   "C++ ecosystem: the renaissance edition",
+   "The C++20 firehose talk",
+   "Developing Blockchain Software",
+   "Safe bool idiom",
+   "Conversions & Diamonds",
+   "Rust 2018: Access All Areas",
+   "Type Deduction in C++14",
+   "The Construction and Use of C++ Algorithms",
+   "Real-world Reactive Programming in Java: The Definitive Guide",
+   "PipeWire: the new adaptable multimedia service, now ready for automotive",
+   "Metaprogramming in C++",
+   "Cache consistency and the C++ memory model: writing code to (...)",
+   "Writing Node.js/Electron native C++ addons for beginners",
+   "C++ Metaprogramming: A Paradigm Shift",
+   "Concepts, Type Traits and Specialization",
+   "Piecing together Rust: It is more than just writing code",
+   "Programming in a different domain",
+   "C++ Metaprogramming: Journey from simple to insanity and back",
+   "Production use of Boost.Test",
+   "Writing Fast Code I",
+   "RFC: Secret types in Rust",
+   "Diving into SWUpdate: adding new platform support with Yocto/OE",
+   "What boost could learn from QT",
+   "COVID-19: Data Science & Expertise",
+   "Build Everything From Source: A Case Study in Fear",
+   "Seeing the bigger picture -- part I",
+   "Oh The Humanity!",
+   "What Do You Mean?",
+   "Making C++ Code Beautiful",
+   "Mobile Edge Clouds...",
+   "Can software developers draw pictures?",
+   "Concurrency, Parallelism and Coroutines",
+   "The Grand Challenge and Promise of Quantum Computing",
+   "C++ Reflection via Clang LibTooling",
+   "Why C++ for Large Scale Systems?",
+   "A Test a Day Keeps Your Manager Away!",
+   "Developing C++ @ Facebook Scale",
+   "TMI on UDLs: Mechanics, Uses, and Abuses of User-Defined Literals",
+   "Property Bindings in C++11",
+   "Functional Programming: data",
+   "A modern database interface for C++",
+   "From Tic Tac Toe to AlphaGo: Playing Games with AI",
+   "Are you Open enough to Innovate? ;)",
+   "Embarcadero Case Study: Bringing CLANG/LLVM To Windows",
+   "Intro &  LEE 2020",
+   "Investigation and Creation of Software",
+   "A Physical Units Library For the Next C++",
+   "Clang",
+   "What's New in Swift",
+   "From Iterators To Ranges - The Upcoming Evolution Of the Standard Library",
+   "Modern Template Techniques",
+   "From Algorithm to Generic, Parallel Code",
+   "Simplifying control flow",
+   "Mocking Framworks considered, harmful?!",
+   "Machine learning and image processing",
+   "The many faces of Number -- String conversions",
+   "Augmented reality dev journey",
+   "When dependency hell freezes over",
+   "C++20 Ranges in Practice",
+   "An inspiring introduction into Template Meta Programming",
+   "Common Webapp Vulnerabilities and What to Do About Them",
+   "Tools to Ease Cross-Platform C++ Development @ CppEurope 2020",
+   "A Relaxed Guide to memory_order_relaxed",
+   "The Dawn Of A New Error",
+   "Dependency management in C++",
+   "A TypeScript Fan's KotlinJS Adventures",
+   "Motivated reasoning",
+   "Principles of Play 2.0",
+   "Co- and Contra-: Adding a Little Variance",
+   "Towards Heterogeneous Programming in C++",
+   "sizeof",
+   "C++17 in Breadth (part 1 of 2)",
+   "Decomposing a Problem for Parallel Execution",
+   "Thinking Like a Data Scientist",
+   "Ustring -- A Modern Alternative to std::string",
+   "Variadic templates are funadic",
+   "Boosting Libraries for TR2",
+   "Deliver Results, Not Just Releases",
+   "Abusing Your Memory Model for Fun and Profit",
+   "Easy High Constancy",
+   "C++ Function Templates: How Do They Really Work?",
+   "Threads and Shared Variables in C++0x",
+   "Fantastic Algorithms and Where To Find Them",
+   "Boost.TMP: Your DSL for Metaprogramming",
+   "The One-Decade Task: Putting std::atomic in CUDA.",
+   "Anchored metadata",
+   "Dynamic Reteaming at Fast-Growing Companies",
+   "Uncoupling",
+   "Parallelizing the Standard Template Library",
+   "Why and How we fixed std::thread by std::jthread",
+   "Habits of Efficient Developers",
+   "Making Your Library More Reliable with Fuzzing",
+   "Explore your Microservices Architecture with Graph Theory & Network Science",
+   "Concepts: The Future of Generic Programming (the future is here)",
+   "Value Semantics: It ain't about the syntax!, Part I",
+   "Better Code",
+   "SOLID Elixir",
+   "Cloud Native Communication Patterns with gRPC",
+   "Testing Battle.net (before deploying to millions of players)",
+   "Unwinding the Stack: Exploring How C++ Exceptions Work on Windows",
+   "Pipes: How Plumbing Can Make Your C++ Code More Expressive",
+   "AsyncIO and Music",
+   "Rainbow Six Siege: Quest for Performance",
+   "Life After Java 8",
+   "Machine Learning for a rescue",
+   "Grill the Committee",
+   "Developing C++ @ Facebook scale",
+   "High Velocity Development of Microservices",
+   "Building a Telegram Bot with Apache Kafka, Go & ksqlDB",
+   "Pruning Error Messages From C++ Template Code",
+   "Rethinking the Way We Do Templates in C++",
+   "Better C++14 reflections",
+   "Wishful Thinking",
+   "The art of keeping your project from falling apart",
+   "std::shared_ptr/T/",
+   "AI: Actual Intelligence",
+   "Making Sense Of Microservices",
+   "Software Visualization: The humane solution",
+   "The cost of simple programs",
+   "Tastes Like Chicken ()",
+   "Big Projects, and CMake, and Git, Oh My!",
+   "Designing Multithreaded Code for Scalability",
+   "Some Programming Myths Revisited",
+   "Exploring Embedded Rust for Functional Safety",
+   "Practical C++17",
+   "Removing Metaprogramming From C++, Part 1 of N: constexpr Function Params",
+   "Asynchronous Programming Using the Boost.MetaStateMachine and the Upcoming Asynchrnonous Library",
+   "What's new about fake news?",
+   "Distributed parametric optimization with the Geneva library",
+   "Flowz: towards an EDSL for digital signal processing",
+   "Alexa, Let's Build a Serverless Skill",
+   "Low Level Threading with C++11",
+   "Building an Accessibility Culture",
+   "Error handling Isn't All About Errors",
+   "The Exception Situation",
+   "A Glimpse of Trygve: From Class-oriented Programming to Real OO",
+   "Securing the JVM",
+   "Pointless Pointers - How to make our interfaces efficient?",
+   "Monitoring: Turning Noise into Signal",
+   "AI/ML, Quantum Comp. & 5G - Opportunities, Challenges & Impact on Society",
+   "Code Generation: The Lisp Way",
+   "Utilize your CPU power",
+   "Managarm: A Fully Asynchronous OS Based on Modern C++",
+   "A modern, scalable risk system architecture",
+   "Garbage In, Garbage Out: Arguing about Undefined Behavior...",
+   "Crafting EDSL In C++ using Metaprogramming, Operator Overloading, & Lambda Expressions",
+   "Functional Programming in 40 Minutes",
+   "The Holy Grail! A Hash Array Mapped Trie for C++",
+   "Dynamic C++",
+   "The next big Thing",
+   "Putting Your Security on the Wire",
+   "Rust beyond Rust",
+   "Fun with Type Erasure: Implementing a Value Wrapper for Polymorphic Types",
+   "The Future of Security",
+   "Embedded: Customizing Dynamic Memory Management in C++",
+   "Full use of Rust on edge and cloud: AI and IoT use cases",
+   "Mongrel Monads, Dirty, Dirty, Dirty",
+   "Contract Programming: What, Why, and How?",
+   "Design Patterns in Modern C++",
+   "Microservice API Management, Discovery Documentation and all that Jazz",
+   "Compile-time tools supporting generic programming in C++",
+   "The Database Unbundled: Commit Logs in an Age of Microservices",
+   "What You see",
+   "Getting customized runtime hardware details at compile-time for (...)",
+   "WG21 Paper in Markdown",
+   "interview with Alex Bolboaca",
+   "Deprecating Simplicity",
+   "Ray: A System for Distributed Applications",
+   "The Smart Pointers I Wish I Had",
+   "C++ Tool Support: Where We Are and Where We Are Heading",
+   "Don't Try This at Work -- Low Level Threading with C++11",
+   "Fireside Chat About OAuth 2.0 @ Aaron Parecki & Eric Johnson @ GOTO 2021",
+   "Learn Programming, then Learn how to Be a Programmer",
+   "Organizational Leadership with Modern C++",
+   "embeddr - C with Abstractions",
+   "Reactive Spring",
+   "Microsoft w/ C++ to Deliver Office Across Different Platforms, Part I",
+   "11 Years of Boost at Conservancy",
+   "Converting to C++20 Modules",
+   "EMF4CPP Generating Ecore Models for C++",
+   "who the f**k is eric? by odin and the nerds",
+   "JavaScript can get faster, WebAssembly can get even faster",
+   "switchAny: A Practical Exercise in Template Metaprogramming",
+   "Improving Performance Through Compiler Switches...",
+   "Tokio-Trace: Scoped, Structured, Async-Aware Diagnostics",
+   "C++20 Language Features for a new Library",
+   "Boost.Compute: A library for GPU/parallel computing",
+   "Types Don't Know #",
+   "Rethinking Exceptions",
+   "Moving Boost to Git",
+   "API & ABI versioning",
+   "The Story of a Product Startup from a Founder's Perspective",
+   "(Deep) Learning to Fly",
+   "Compile-Time/Run-Time Functional Programming in C++",
+   "Writing Good C++14... By Default",
+   "Better Code: Relationships",
+   "Implementing 'static' control flow in C++14",
+   "Safe Numerics Library",
+   "Call: A Library that Will Change the Way You Think about Function Invocations (2 of 2)",
+   "Evolving array_view and string_view for safe C++ code",
+   "A Possible Future of Embedded Software Development",
+   "WG21-SG14: The Story So Far",
+   "Boost.Text: Fixing std::string, and Adding Unicode to Standard C++ (part 2)",
+   "Racing The File System",
+   "Fundamentals of Type-Dependent Code Reuse in C++",
+   "Scheme Lisp: Feel the Cool",
+   "IoT Compute at the Edge with AWS Greengrass",
+   "Functional reactive programming in C++",
+   "Expression Templates: Past, Present, Future (PART 2)",
+   "The worst feature of modern C++: default behaviour",
+   "Simple hand written parsers",
+   "C++11 Library Design",
+   "Are You Ready for IPv6?",
+   "SYCL building blocks for C++ libraries",
+   "Embedded & C++",
+   "C++ atomics, from basic to advanced.  What do they really do?",
+   "Conjuguer modèles ouverts et propriete intellectuelle dans l'embarque",
+   "Asynchronous IO with Boost.Asio",
+   "Lifetime and Usage of Global, Thread-local, and Static Data",
+   "Enabling Teams to Embrace Change",
+   "Safe Software for Autonomous Mobility With Modern C++",
+   "Upgrade Time: Choose Java 11+ or the 'Other' One...Kotlin",
+   "Back to Basics: Move Semantics (part 1 of 2)",
+   "How we Built Google Tulip Using Serverless Tech & ML",
+   "Event Storage in Axon Server - How does it work?",
+   "Application Security at High Velocity",
+   "Type punning in modern C++",
+   "A deep dive into the Gilded Rose",
+   "Rethinking Usage of C++ Templates",
+   "Adopt GraphQL without Writing any Backend Code",
+   "Asynchrony and Coroutines",
+   "Assume Worst Intent (Designing for the Abusive Ex)",
+   "Bootstrapped by Boost",
+   "HTTP 2 - The feature of www",
+   "Alchemical Code Rejuvenation",
+   "Design Patterns - Facts and Misconceptions",
+   "Asynchronous, yet readable, code",
+   "Bending the Curve: A Personal Tutor at Your Fingertips",
+   "Quickly testing legacy code",
+   "True parallelism, with no concept of threads",
+   "Back to Basics: Move Semantics",
+   "Introduction to Stateful Stream Processing with Apache Flink",
+   "Designing for Efficient Cache Usage",
+   "Our first game using UE4 and C++",
+   "Core principles and creating lightweight design",
+   "Multiple Interface Class Inheritance and Name Hiding",
+   "The deal with -ffast-math",
+   "People First Leadership",
+   "C++ libraries for daily use @ CppEurope 2020",
+   "My First Rust Project: Creating a Roguelike with Amethyst",
+   "Databases on Kubernetes: Why You Should Care!",
+   "Computer Architecture, C++, and High Performance",
+   "Can AI replace programmers?",
+   "How Python Wins New Friends",
+   "Lightweight 2D graphics with io2d",
+   "The performance Addict's Toolbox",
+   "Efficient GPU Programming with Modern C++",
+   "Logic Paradigm for C++",
+   "RaftLib: Simpler Parallel Programming",
+   "Microsoft w/ C++ to Deliver Office Across Different Platforms, Part II",
+   "When a Microsecond Is an Eternity: High Performance Trading Systems in C++",
+   "Haxe: An understated powerhouse for software development",
+   "Learn Robotics with C++ in 1 Hour",
+   "How Ubisoft Develops Games for Multicore - Before and After C++11",
+   "An Alternate Smart Pointer Hierarchy",
+   "Thoughts on Curiously Recurring Template Pattern",
+   "C++ Concepts and Ranges",
+   "Leaving The Dark Side - Developing a C++ Based Medical Device",
+   "Woes of Scope Guards and Unique_Resource - 5+ years in the making",
+   "Project Update: Libs Team",
+   "The Science of Sleep",
+   "Practical Cloud Native: What Works, What Doesn't",
+   "cppreference.com: documenting C++ one edit at a time",
+   "Workflow Modeling with Boost Graph Library",
+   "Contracts for Dependable C++",
+   "New C++ features for writing DSLs",
+   "Developing EDSL's for Boost.Spirit",
+   "Re-engineering Inclusion",
+   "Phantastic Code Smells and where to find them",
+   "Preprocessor-aware Automated Refactoring",
+   "rand() Considered Harmful",
+   "Command vs Strategy",
+   "Numbers",
+   "The Story of Villagers, Marbles and Oh, A Blockchain",
+   "The CPU Cache: Instruction Re-Ordering Made Obvious",
+   "A trusted trip in the cloud - working with trusted hardware (...)",
+   "50.000 Orange Stickies Later",
+   "Memory Tagging and how it improves C/C++ memory safety",
+   "Sqlpp11, An EDSL For Type-Safe SQL In C++11",
+   "Want fast C++? Know your hardware!",
+   "C++11 style",
+   "Tools from the C++ Ecosystem to save a leg",
+   "Correct by Construction: APIs That Are Easy to Use and Hard to Misuse",
+   "Building safe & Secure embedded systems by means of hypervisor approach",
+   "C++ vs C the embedded perspective",
+   "Standardizing a linear algebra library",
+   "C++11: High-Level Threading",
+   "A State of Compile Time Regular Expressions",
+   "Heterogeneous Programming in C++ with SYCL 2020",
+   "Event-Driven Microservices, the Sense, the Non-sense and a Way Forward",
+   "Processing Streaming Data with KSQL",
+   "Using Open Source Observability with Lambda",
+   "Design and Evolution of cyber-dojo",
+   "How Microteams Change the Way We Collaborate. Again",
+   "Declarative Thinking, Declarative Practice",
+   "Clean Architecture with ASP.NET Core 3.0",
+   "Complecting Made Easy",
+   "Conference Closing",
+   "DevOps transformation - It's not just an R&D thing",
+   "Future C++1x proposals",
+   "Understanding Compiler Optimization",
+   "Reactive Equations",
+   "Exploring C++17 and Beyond",
+   "IoT. Building machine vision system...",
+   "Knowledge is Power: Getting out of Trouble by Understanding Git",
+   "C++20: C++ at 40",
+   "Elegant Filesystem Interactions in Python using pathlib",
+   "I Just Wanted a Random Integer!",
+   "C++ Component Extensions for WinRT",
+   "A Code-Driven Introduction to Reinforcement Learning",
+   "Deliver Results, Not Just Releases: Control & Observability in CD",
+   "Virtual assembly for web application",
+   "Taking Constant Evaluation to the Limit",
+   "A Crash Course in Unicode for C++ Developers",
+   "Thinking outside of the framework",
+   "Next-Generation Programming: Rust & Elm",
+   "Is Team Self-selection the Obvious Choice?",
+   "C++ template metaprogramming, a practical approach",
+   "Optimising a small real-world C++ application",
+   "ConceptClang: An Implementation Model for C++ Concepts",
+   "Pimpl idiom, multiple Inheritance and facet pattern",
+   "The Ongoing Saga of ISO-C++ Executors",
+   "A Little Order: Delving into the STL sorting algorithms",
+   "WARNING: std::find is broken",
+   "Type Traits - what are they and why should I use them?",
+   "C++ enums with stringified enumerators using C++14",
+   "TDD is not about testing - C++ version",
+   "ThinLTO: Scalable and Incremental Link-Time Optimization",
+   "Back to Basics: Move Semantics (part 2 of 2)",
+   "C++ Mixins",
+   "async/await with async-std",
+   "An Interesting Lock-free Queue - Part 2 of N",
+   "Better Algorithm Intuition",
+   "Functional Geometry: Producing Pure Spaces",
+   "From Flying Cars to Humans on Mars",
+   "Going Serverless with VueJS",
+   "The Distributed Version Control Revolution",
+   "Funqual: user-defined statically-checked call graph constraints in C++",
+   "Hate yourself? Keep using Python 2",
+   "Serverless 2.0: Get started with the PLONK Stack",
+   "Thoughts on a more powerful and simpler C++ (5 of N)",
+   "Benchmarking Compilation Times",
+   "Beyond C++17",
+   "Reaching Beyond Traditional Boundaries with Clojure",
+   "An Overview of Standard Ranges",
+   "Lambda? You Keep Using that Letter",
+   "Refactoring C++ with Clang",
+   "Taking the Plunge Towards CMake in Boost",
+   "EDSL Infinity Wars: Mainstreaming Symbolic Computation",
+   "Is your Agile agile?",
+   "Metaparse -- Compile-time parsing with template metaprogramming",
+   "The missing piece of the continuous integration puzzle",
+   "The Do's and Don'ts of Error Handling",
+   "What We've Learned From the C++ Community",
+   "The Intellectual Ascent to Agda",
+   "The Surprising Costs of void() (and Other Not-Quite-Innocuous Evils)",
+   "#Hashing ( Hashing Values )",
+   "The Future of Machine Learning & JavaScript",
+   "CPU design effects",
+   "A Language Stack for Implementing Contracts",
+   "Teaching old compilers new tricks",
+   "Boost.Graph for Beginners",
+   "Taming dynamic memory - An introduction to custom allocators in C++",
+   "Standardese",
+   "Make Classes Great Again! (Using Concepts for Customization Points)",
+   "C++ on the Edge – Machine Learning + Microcontrollers + C++",
+   "Heterogeneous Programming in C++ today",
+   "The Coaching Leader & Architect",
+   "Compile-Time Social Coordination",
+   "Design Patterns in C++ Done Right",
+   "Practical SIMD acceleration with Boost.SIMD",
+   "The most valuable values",
+   "These 10 tricks that only library implementors know!",
+   "How Thinking Small is Changing Software Development Big Time",
+   "Breadcrumbs won't help: how not to get lost in a lambda forest",
+   "Combined Short Talks",
+   "How to call C libraries from C++",
+   "C++ Atomics...",
+   "Using Functional Programming Patterns...",
+   "Fresh Paint",
+   "Spectre",
+   "Writing Fast Code II",
+   "interview with Clare Macrae",
+   "completion T : Improving the future T with monads",
+   "Jepsen 9: A Fsyncing Feeling",
+   "Frictionless Allocators",
+   "Fewer bugs",
+   "Using Spirit V2: Qi and Karma",
+   "C++ Use in High Performance Computing Within DOE: Past and Future",
+   "Low-Latency Trading: Micro-Optimisations and the Impact of Compliers",
+   "The hidden rules of world-class C++ code",
+   "constexpr: Introduction",
+   "C++ Conferences",
+   "Errors: forgotten, but not gone",
+   "Designing and Implementing a new Allocator model",
+   "WebAssembly for non-beginners",
+   "How to build architecture of your system",
+   "The Concepts of concepts",
+   "A Few Gentle Rules (*) but One in Particular",
+   "Writing better embedded Software",
+   "Another fundamental shift in Parallelism Paradigm?",
+   "JavaScript from C++ developer perspective",
+   "Rust in Safety Critical Systems",
+   "How to Become a Great Software Architect",
+   "Thinking Asynchronously: Designing Applications with Boost.Asio",
+   "Does Agile Make Us Less Secure?",
+   "Boost.Blockchain: A new business model for open source",
+   "C++ Multi-dimensional Arrays...",
+   "Build for everyday programmers and why should they care",
+   "SPMD Programming Using C++ and ISPC",
+   "Atomic's memory orders, what for?",
+   "Where do you want to put the comma?",
+   "Boost statechart visualisation",
+   "Local ('Arena') Memory Allocators (part 1 of 2)",
+   "Code + AI: Will Robots Take Our Coding Jobs? ML Applied to Programming",
+   "Rust for Safer Protocol Development",
+   "UEFI Applications With Modern C++",
+   "Diversity and Inclusion   2017",
+   "Considerations for choosing the parallel computing strategy",
+   "Pragmatic Event-Driven Microservices",
+   "The Optimization of a Boost.Asio-based Networking Server",
+   "Concepts -  Evolution or Revolution",
+   "Refactoring C++ legacy code through pure functions @ CppEurope 2020",
+   "Parallelizing the Standard Algorithms Library",
+   "The Quiet Little Gem in Modern C++: <system_error>",
+   "The State of Package Management in C++",
+   "Making It Count: Quality is NOT an Option",
+   "Without Data, you're just another Person with Opinions",
+   "D as a Better C",
+   "Web | C++' (different) VIDEO AVAILABLE WITH IN SYNC SLIDES",
+   "How to Write Well-Behaved Value Wrappers",
+   "Halide: A Language for Fast, Portable Computation on Images and Tensors",
+   "The Networking TS in Practice: Patterns for Real World Problems",
+   "Keeping Up with Java",
+   "A lock-free concurrency toolkit for deferred reclamation and optimistic speculation",
+   "Refactoring Superpowers",
+   "Why I Was Wrong About TypeScript",
+   "Fun with C11 generic selection expression",
+   "C++14 version of Boost.MSM-eUML",
+   "Making Iterators, Views and Containers Easier to Write with Boost.STLInterfaces",
+   "Building Better Worlds: Developing a Procedural City Tool for Alien...",
+   "Introduction to C++ AMP (GPGPU Computing)",
+   "Function default arguments: Slingshot or Shotgun?",
+   "Making C++ and the STL Work in the Linux / Windows Kernels",
+   "Welcome Words",
+   "C/C++ Memory Model",
+   "Millisecond Full Stack Acceptance Tests",
+   "Taking Security Seriously",
+   "LLVM C/C++ compiler frontend in Java",
+   "The Power of Event-Driven Systems without Burning your Hands or Budgets",
+   "A Retrospective from My Perspective",
+   "Audio in standard C++",
+   "Experience from Feature Toggling Platform (...)",
+   "Log Analytics: Understanding Complex Systems at Scale",
+   "How does Git actually work?",
+   "Technical Specifications & C++17",
+   "Generators, Coroutines and Other Brain Unrolling Sweetness",
+   "No raw loops with no OS",
+   "Parallelizing the C++ Standard Template Library",
+   "Better Code with C++ Attributes",
+   "Rapid Java Innovation",
+   "Variadic expansion in examples",
+   "C++ Insights - How stuff works, C++20 and more!",
+   "map[Code, Performance] myMCU{?}",
+   "Multithreading is the answer. What is the question? (part 1 of 2)",
+   "Generic programming for structure-aware algorithms",
+   "Better embedded library interfaces with modern C++",
+   "What is a Good Code",
+   "STL Features And Implementation Techniques",
+   "Generic programming of Generic Spaces: Compile-Time Geometric Algebra with C++11",
+   "Sustainable Software Engineering, Building Carbon-Efficient Applications",
+   "The Plan for Tomorrow: Extension Points in C++ Applications",
+   "A Fool's Consistency",
+   "Serverless: Five Key Things you need to Know",
+   "Welcome +  Let's Move-The Hidden Features and Traps of C++ Move Semantics",
+   "A Taste of Julia",
+   "Structured bindings uncovered",
+   "Go forth with C++",
+   "Compile-time 'reparsing'",
+   "Talking to Typelists",
+   "Tracking DDR ECC issues on a standalone application",
+   "UT - C++20 Unit Testing Framework",
+   "How I Code and Why",
+   "Asynchronous programming with ranges",
+   "Batching vs. Streaming - Scale & Process Millions of Measurements a Second",
+   "Benchmarking C++, From video games to algorithmic trading",
+   "C++: lambda Demystified",
+   "Pragmatic Type Erasure: Solving OOP Problems w/ Elegant Design Pattern",
+   "Surveying the C++ Community",
+   "High Frequency Trading and Ultra Low Latency development techniques",
+   "Design Patterns for Handling/Reporting Errors in C++ - Parallel Algorithms & Executors",
+   "A Beginner's Guide to eBPF Programming with Go",
+   "Test Driven C++ with Catch",
+   "Back to Basics: Templates (part 1 of 2)",
+   "The Nightmare of Move Semantics for Trivial Classes",
+   "All The World's A Staging Server",
+   "GraphQL, gRPC and REST, Oh My! A Method for Unified API Design",
+   "Building a 'Backend-less' URL Shortener",
+   "Esoteric Data Structures and Where to Find Them",
+   "Anatomy of a Smart Pointer",
+   "How to make your data structures wait-free for reads",
+   "Modern C++ Design (part 2 of 2)",
+   "The Soul of Erlang and Elixir",
+   "The ABI challenge",
+   "GPU processing of V4L2 live video on NVIDIA Jetson with CUDA",
+   "Welcome to a New Age of Refereeing in 7 Minutes",
+   "A Zephyr Overview of C++11 (Part I)",
+   "Not Just Events: Developing Asynchronous Microservices",
+   "Right inside the database",
+   "C++ Test-driven Development",
+   "Lightning Strikes!",
+   "The Static Initialization Order Fiasco",
+   "Embrace No-Paradigm Programming!",
+   "Quickly & Effectively Testing Legacy C++ Code with Approval Tests",
+   "Tools from the C++ eco-system to save a leg",
+   "Statistical scientific programming OO patterns: accumulators",
+   "Boostache Exposed - the internals of Boost's template engine",
+   "Talk Intro by Andre Bogus (llogiq) the Rust Bard",
+   "How to write more reliable code",
+   "Exception-Safe Coding in C++ (Part I)",
+   "Using C++ to Connect to Web Services",
+   "Securing APIs and Microservices with OAuth and OpenID Connect",
+   "Intel's C++ STM Compiler and Transactional Language Constructs for C++",
+   "Continuable asynchronous programming with allocation aware futures",
+   "SSL/TLS for Mortals",
+   "Naivety of Creating Cross-Platform, Modern C++ Libraries...",
+   "Getting Allocators out of Our Way",
+   "Rethinking Strings",
+   "Building a Tech Community in the East from (almost) Nothing",
+   "A <chrono> Tutorial",
+   "Making Microservices Micro with Istio and Kubernetes",
+   "Test Driven C++",
+   "How to Preserve your Institutional Knowledge",
+   "Coroutines, Fibers and Threads, Oh My",
+   "Introduction to Bazel to build C++ and Python",
+   "ThinLTO Whole Program Optimization",
+   "The Different Perspectives needed for Self-organization",
+   "Why Aren't You A Data-Driven AI Company Yet?",
+   "Mostly Invalid: flat_map, Exception Guarantees, and the STL",
+   "yet another paradigm shift (yaps) -- (A Meta4 model of concurrency)",
+   "Two new C++ libraries for atmospheric research",
+   "Cloud Business Solution Increasing Supply Chain Profitability",
+   "The Complete Guide to 'return x;'",
+   "Design Patterns in the 21st Century",
+   "C/C++ is very similar to Java/JavaScript",
+   "Building and Extending the Iterator Hierarchy in a Modern, Multicore World",
+   "Writing games in very modern C++",
+   "A Cartoon Quest: New Adventures for WebAssembly",
+   "Named Arguments from Scratch",
+   "Multithreading is the answer. What was the question? Part I",
+   "Real time 101",
+   "Automating Processes in Modern Architectures",
+   "Value Semantics and Range Algorithms - Composability and Efficiency",
+   "Time Travel Debugging...",
+   "C++ as Assembly 2.0 - Hello Nim",
+   "From Functions to Coroutines",
+   "The Need for Role Model Ladders",
+   "Embracing the Future in a Multi-Platform World: A Kotlin Story",
+   "Functional Data Structures in C++",
+   "A bird's-eye view of template C++",
+   "Creating Boost.Asio extensions",
+   "Undefined Behavior in  (part 1 of 2)",
+   "High performance data structures in boost",
+   "Ask Me Anything",
+   "Common Retrospectives Traps & Solutions",
+   "SOLID, Revisited",
+   "interview with Klaus Iglberger",
+   "A Framework for RAD Spirit",
+   "Keeping Your CI-CD Pipeline as Fast as it Needs to Be",
+   "The MAME story: From C to Modern C++",
+   "Data-arithmetic optimization of embedded applications",
+   "Functional Design Explained",
+   "C++ Class Natures",
+   "Reflection Techniques in C++",
+   "Fastware",
+   "The Anatomy of an Exploit",
+   "Modern Template Metaprogramming: A Compendium, Part II",
+   "LLVM: A Modern, Open C++ Toolchain",
+   "Sphinx won't bite you! Documenting Python code",
+   "Dungeons, Dragons & Developers",
+   "C++ STL best and worst performance features and how to learn from them",
+   "Choose proper container... automatically?",
+   "Unicode in C++",
+   "Visualizing Cloud Systems",
+   "Hacker's guide to Rust Programming",
+   "Preconditions, Postconditions, Invariants: How They Help Write Robust Programs",
+   "Helping Developers to Help Each Other",
+   "Introduction to brigand",
+   "Alignment in C++: Use, Limitations, and Extension",
+   "ConceptClang: Theoretical Advances with Full C++ Concepts",
+   "Things I learned from the static analyzer",
+   "Towards an Open Ecosystem of Empowered UI Development",
+   "Industrial Applications of Reinforcement Learning",
+   "Designing OSTree based embedded Linux systems",
+   "Compiling Multi-Million Line C++ Code Bases Effortlessly with the Meson Build System",
+   "Making Fast Incremental Compiler for Huge Codebase",
+   "A Quantum Data Structure For Classical Computers",
+   "Exception-Safe Code, Part I",
+   "Nullable Reference Types in C# 8",
+   "Almost no raw loops",
+   "Building microservices with Rust",
+   "Promises in C++: The Universal Glue for Asynchronous Programs",
+   "Adopting gRPC: Overcoming Team and Technical Hurdles",
+   "Why GraphQL Between Microservices Is the Worst & Best Idea",
+   "How to pass (my) candidate screening",
+   "The stand up",
+   "Typing types at type level",
+   "Agility at scale with LeSS",
+   "Using Spirit X3, Part I",
+   "C++: Unexpected Behaviour",
+   "Applied Hierarchical Reuse: Capitalizing on Bloomberg's Foundation Libraries",
+   "What happened to...: Deprecated and Removed Features of C++",
+   "Is std::function really the best we can do?",
+   "GSL ad hoc overview",
+   "Taking Back 'Software Engineering'",
+   "Mise a jour : les bonnes questions a se poser",
+   "Expression Templates Revisited",
+   "From the OWASP Top Ten(s) to the OWASP ASVS",
+   "Functions Want To Be Free",
+   "hop: A Language to Design Function-Overload-Sets",
+   "Re-architecting 2-tier to 3-tier",
+   "Interaction Protocols: It's All About Good Manners",
+   "Effective Code Review",
+   "Async... oh, wait",
+   "C++: How I learned to stop worrying and love metaprogramming",
+   "The Future is Istio",
+   "Governing Agile Delivery",
+   "Proper Inheritance (part 2 of 2)",
+   "Just-in-Time Compilation",
+   "Effective Qt ( edition)",
+   "C++17 Features",
+   "Interoperable AI: ONNX & ONNXRuntime in C++",
+   "Local ('Arena') Memory Allocators",
+   "C++ based mobile application",
+   "Iterators May Stay",
+   "lemniscate C++++++...",
+   "Build your own Language: Why & How?",
+   "Taming dynamic memory",
+   "C++17 coroutines for app and library developers",
+   "Cache Optimized Hash Tables",
+   "Flatulence, Crystals, and Happy Little Accidents",
+   "An Average Working Day on Visionary NASA Projects",
+   "Server-side Kotlin with Coroutines",
+   "Mach7: The Design and Evolution of a Pattern Matching Library for C++",
+   "Everything is serialization",
+   "Templator: Demo of a nice tool...",
+   "Data-oriented design in practice",
+   "Structure and Interpretation of Test Cases",
+   "0xBADC0DE",
+   "The Power of Reflection with Facebook's Thrift",
+   "Modern Design Patterns with Modern C++",
+   "Hourglass Interfaces for C++ APIs",
+   "Enum to string using metaprogramming",
+   "The three secret spices of C++ Modules",
+   "Getting Jiggy with Proto - Hands-on Tutorial on C++ EDSL Design",
+   "folly::Function: A Non-copyable Alternative to std::function",
+   "Mocking Frameworks considered harmful",
+   "A look at C++ through the glasses of a language tool",
+   "Software is feeding the World",
+   "How To Move Fast Without Breaking Everything",
+   "7 reasons to move your C++ code to Visual Studio 2017",
+   "Class Template Argument Deduction: A New Abstraction",
+   "Avoiding Virtual Call in CRTP",
+   "Is Parallel Programming still hard? PART 2 of 2",
+   "Software Architecture in the Age of Things",
+   "Comma Chameleon",
+   "A little order",
+   "Generic Programming And the Boost Graph Library",
+   "multi_span<...>",
+   "Competitive Advantage with D",
+   "The Three Little Dots and the Big Bad Lambdas",
+   "Towards contract programming in C++",
+   "Identifying Monoids: Exploiting Compositional Structure in Code",
+   "Generic Programming with Concepts Lite, Part II",
+   "Allocator-Aware (AA) Software",
+   "Pattern Matching: A Sneak Peek",
+   "Go for DevOps, Go for microservices, and what Go is (...)",
+   "Portable yet thin OS abstractions",
+   "PopcornFlow: If Change is Hard, Make it Continuous",
+   "Benchmarking C++ Code",
+   "Artificial Intelligence Reloaded - AI Apps in the Industry",
+   "Persuasive Design",
+   "Rust: Learning through the language itself — RustFest Global 2020",
+   "Metaprogramming Applied to Numerical Problems",
+   "Nothing is better than copy or move",
+   "Captioning and Translating C++ Videos- Part 2 of 2",
+   "Building Software Capital: How to write the highest quality code and why",
+   "Fighting Compiler warnings",
+   "Some Things C++ Does Right",
+   "How Compilers Reason About Exceptions",
+   "ODB, an ORM for C++(11)",
+   "Passwords. Are. Not. Hard!",
+   "SWARMing: Scaling Without A Religious Methodology",
+   "Avoiding Disasters with Strongly Typed C++",
+   "Introducing Casablanca - A Modern C++ API for Connected Computing",
+   "Teach Your Computer to Code FizzBuzz",
+   "Introducing the Ranges TS",
+   "Improving Business Resiliency with Chaos Engineering",
+   "40 Jenkins Features & Plugins You Wished You had Known about Before!",
+   "The Future of C++ Parallel and Concurrency Safety Guidelines",
+   "Back to Basics: Const as a Promise",
+   "Image Signal Processing (ISP) Drivers & How to Merge One Upstream",
+   "TensorFlow Lite: Accelerate your Android and iOS App with AI",
+   "CppComponents- A Modern Portable C++11 Component System",
+   "Improving Readability With Class Template Argument Deduction",
+   "The speed of concurrency (is lock-free faster?)",
+   "The Implementation of Value Types",
+   "You Can Do Better than std::unordered_map: New Improvements to Hash Table Performance",
+   "Swizzling",
+   "Without Warning: Keeping the Noise Down in Legacy Code Builds",
+   "Boostache Exposed : the internals of Boost's template engine",
+   "Building Modern Native Applications with Gradle",
+   "Implementation of a component-based entity system in modern C++",
+   "A C++14 Dependency Injection Library",
+   "CMake + Conan: 3 Years Later",
+   "Comunicazione real-time con WebRTC in C++",
+   "C++20 Lambdas: Familiar Template Syntax",
+   "It's People! Code is made out of people!",
+   "Overloading",
+   "Cloud Native Java",
+   "clang-tidy: write your own linting tool",
+   "Fuzz Driven Development",
+   "Ranges v3 and microcontrollers, a revolution",
+   "C++ for cross-platform VR",
+   "The View from a Standard Library Implementor",
+   "Refactoring Superpowers: Make Your C++ IDE Do Your Work, Faster and More Safely",
+   "Live Hacking Session Part 1",
+   "Modules in C++",
+   "How to manage your distributed electronic architecture?",
+   "Qt's moc and QMetaObject reflection",
+   "C++ Algorithms in Haskell and the Haskell Playground",
+   "The case for Vendored Builds",
+   "Higher-order functions in Modern C++: existing techniques and function_ref",
+   "Did We(b Development) Lose the Right Direction?",
+   "C++11/14 at Scale: What Have We Learned?",
+   "C++11 Multithreading done right?",
+   "Deprecating Simplicity - Building a New Test Culture",
+   "SG14 (the GameDev & low latency ISO C++ working group)",
+   "Objects vs Values: Value Oriented Programming in an Object Oriented World",
+   "Error Handling is Cancelling Operations",
+   "Prioritizing Technical Debt as if Time and Money Matters",
+   "What's New In The C++14 Library",
+   "A C++14 approach to dates and times",
+   "Embedded Android in real life",
+   "Monotron - Building a Retro Computer in Embedded Rust",
+   "Large-Scale C++: Advanced Levelization Techniques, Part I",
+   "Fun with Boost.Hana",
+   "Macchina a Stati Finiti con il Functor Pattern",
+   "Inextricably Linked: Reproducibility & Productivity in Data Science & AI",
+   "Functional Programming in C++",
+   "New standards to the rescue: the view through an IDE's glasses",
+   "Using Types Effectively",
+   "the 6th event",
+   "Embedded rust on the beagleboard X15",
+   "Quickly Testing Qt Desktop Applications with Approval Tests",
+   "Choosing hardware components : A software guy's point of view.",
+   "Move-only types can save the API",
+   "How I Used Rust to Become Extremely Offline",
+   "Compile time regular expressions",
+   "my favorite C++ feature  - Meeting C++",
+   "Virtual Tables OR The Overhead Of Magic",
+   "Cross-Platform Pitfalls and How to Avoid Them",
+   "Arguments over Arguments",
+   "Type punning done right",
+   "Work Stealing",
+   "Experience Report - Teaching Kids to Code for 10 Years",
+   "The Symbiotic Relationship of C++ and Rust",
+   "Modular Monoliths",
+   "Type to string conversions, and vice-versa",
+   "Modern C++ Interfaces...",
+   "Introduction to C++ python extensions and embedding Python in C++ Apps",
+   "C++20 - My Favourite Code Examples",
+   "Functional Programming for the Web with Elm",
+   "Thin LTO",
+   "Improve your C++ with inspirations from other languages",
+   "Product types for C++20?",
+   "Extending clang-tidy in the Present and in the Future",
+   "Kotlin Flows and Channels for Android",
+   "Template meta-programming: Why you must get it",
+   "Introduction to OpenAPI",
+   "What is Open Source, and Why Should You Care?",
+   "Distributed Data Stores on Kubernetes",
+   "C++: Engineers Wanted, Programmers not so Much",
+   "The Shape of a Program",
+   "Constructing Generic Algorithms: Principles and Practice",
+   "Boost.Asio and Boost.Serialization: Design Patterns for Object Transmission",
+   "Deprecating Simplicity 3.0",
+   "EA's Secret Weapon: Packages and Modules",
+   "The Story of CyberDojo (so far)",
+   "Friendship in Service of Testing",
+   "A Discussion of Selected Vienna-Libraries for Computational Science",
+   "The Landscape and Exciting New Future of Safe Reclamation for High Performance",
+   "Introduction to RAUC",
+   "Thinking in coroutines",
+   "Automatic C++ source code generation with clang",
+   "All the defaults are backwards",
+   "A New Open Source Virtual File System - running on Windows in User mode!",
+   "How Beauteous Technology is! O Brave New World",
+   "Better C++ using Machine Learning on Large Projects",
+   "Ethereum Fundamentals",
+   "DevSecOps, Containers & Shift-Left, are those just Buzzwords?",
+   "Boosting MPL with Haskell elements",
+   "Building Evolutionary Infrastructure",
+   "Howling at the Moon: Lua for C++ Programmers",
+   "Going Static in a Dynamic World with Hasura and Nuxt.js",
+   "The Incredibles: Creating an Awesome PO Team",
+   "Designing (New) C++ Hardware",
+   "An Overview of Transport Layer Security (TLS) Protocol Version 1.3",
+   "The Silicon Valley coding interview",
+   "Range Algorithms, Views and Actions: A Comprehensive Guide",
+   "Runtime Polymorphism: Back to the Basics",
+   "Black Box Optimization of Compile Times",
+   "Turtles! Hill climbing! Hammers! Paper bags!",
+   "Fun with structured bindings",
+   "Secure boot in embedded Linux systems",
+   "Back to Basics: Test-driven Development",
+   "Higher-order functions and function_ref",
+   "What are FPGAs and How Do They Work",
+   "Practical Cross-Platform Mobile C++ Development",
+   "The Hitchhiker's Guide to Faster Builds - Part 1 of 2",
+   "Developing a Chaos Architecture Mindset",
+   "Kotlin 4 vs. Scala 3",
+   "constexpr: Applications",
+   "The Incredible Shrinking Standard",
+   "Ø",
+   "Atomics, Locks, and Tasks (part 1 of 2)",
+   "Operator Overloading: History, Principles and Practice",
+   "Object-Oriented Program: Best Practices",
+   "Regular Expressions in C++, Present and Future",
+   "Building a Blockchain in Erlang",
+   "The Untapped Potential of Software Visualization",
+   "Politics & Hierarchy: How We Create It & How to Stop",
+   "Plenary: The Beauty and Power of 'Primitive' C++",
+   "Debugging Linux C++",
+   "Consistent architecture diagrams for C++ projects",
+   "Template Normal Programming (part 1 of 2)",
+   "Structured Bindings demystified",
+   "Build Agility with Design Sprints",
+   "Rust for Artists. Art for Rustaceans.",
+   "Atomics, Locks, and Tasks (part 2 of 2)",
+   "Ranges for distributed and asynchronous systems",
+   "Are Your Builds Running Separately from Your Production Cluster? (Q1)",
+   "Solving World Problems with Fusion",
+   "interview with Hartmut Kaiser and Scott Meyers",
+   "pinned_vector",
+   "Intro to Empirical Software Engineering: What We Know We Don't Know",
+   "Refactoring Trust on Your Team",
+   "Taming Dynamic Memory - An Introduction to Custom Allocators",
+   "Rust Async Programming in 2018",
+   "Under a Microscope: Exploring Fast and Safe Rust for Biology",
+   "Oh No! More Modern CMake",
+   "string_view",
+   "Multithreading is the answer. What is the question? (part 2 of 2)",
+   "Asynchronous Programming in Modern C++",
+   "Streaming with Structure",
+   "Leak-Freedom in C++... By Default.",
+   "Boundary Conditions",
+   "Gradual typing of production applications",
+   "Observability, Distributed Tracing & the Complex World",
+   "Take your microservices to the next level with gRPC",
+   "A perfect async RPC Framework?",
+   "libcppa -- Designing an Actor Semantic for C++11",
+   "Rcpp: Seamless R and C++ Integration",
+   "Functional programming in C++",
+   "Multi-Threading With C++11 and Boost",
+   "Going Docker, Swarm and Kubernetes Production Like a Pro",
+   "Keep it Clean: Why Bad Data Ruins Projects and How to Fix it",
+   "More Modern CMake",
+   "Fueling the Quantum Application Era with the Cloud",
+   "Enough string_view to Hang Ourselves",
+   "Not Leaving Performance On The Jump Table",
+   "TDD/BDD and DI",
+   "Role of Product Manager",
+   "Making C++ easier, faster and safer (part 1)",
+   "Type-safe configuration library",
+   "Variadic Templates in C++11 / C++14 - An Introduction",
+   "Dynamic Polymorphism with Metaclasses and Code Injection",
+   "5 Reasons to use Reactive Programming if you are not eBay",
+   "Declarative Control Flow",
+   "What a View! Building Your Own (Lazy) Range Adaptors (part 1 of 2)",
+   "You Really Don't Need All that JavaScript, I Promise",
+   "API & ABI Versioning...",
+   "Neural networks interactively - right in your browser!",
+   "fixed_point",
+   "for_each_adjacent<N>",
+   "Let's Make It Easy",
+   "A Tutorial Introduction to C++11 & 14 Part 1",
+   "What Belongs In The C++ Standard Library?",
+   "Beyond Sanitizers...",
+   "From STL to Ranges: Using Ranges Effectively",
+   "Taming the performance Beast",
+   "Design Compact Deep Learning Models: Small is the New Big",
+   "Exception-Safe Code, Part II",
+   "Building a Coroutine based Job System without Standard Library",
+   "Machine learning - when big data is not enough",
+   "Here's my number; call me, maybe. Callbacks in a multithreaded world",
+   "functional: What's New, And Proper Usage",
+   "Overloading the Member Access Operator",
+   "Experimental comparison...",
+   "The Hitchhikers guide to faster builds",
+   "The Abilities of Good Code",
+   "How to be Exceptional in a Technical Due Diligence",
+   "Total War: how AI can deliver entertainment.",
+   "Value Semantics: It ain't about the syntax!, Part II",
+   "3 Practices for Effective DevOps Adoption",
+   "Writing a reflection engine from scratch",
+   "Bringing Automation to Web App Hosting and Deployment",
+   "Almost Unlimited Modern C++ in Kernel-Mode Applications",
+   "Why algebraic data types are important",
+   "Undefined Behavior - Not what you expected",
+   "Expression Templates for Efficient, Generic Finance Code",
+   "Introducing CHAP: A program to clarify dynamic memory usage in un-instrumented cores",
+   "Fight, Flight, or Freeze - Releasing Organizational Trauma",
+   "Swearing, Nudity and Other Vulnerable Positions",
+   "Data Structure Visualizers in Visual Studio 2010",
+   "Emscripten and asm.js: C++'s role in the modern web",
+   "Partially-formed Objects for fun and profit",
+   "Using Spirit X3 to Write Parsers",
+   "Stop Punching Yourself in the Face",
+   "Conan, le gestionnaire de paquets C/C++",
+   "A refresher on the floating-point computations and the standard library.",
+   "Why You Should Care about Sparse Matrices",
+   "The Fiber Library",
+   "Exploring C++17 and beyond",
+   "Back to Basics: Virtual Dispatch and its Alternatives",
+   "SICP Cover Demystified",
+   "How to write a programming language",
+   "Story of autonomous drone racing",
+   "Maintainability and Refactoring Impact of Higher-Level Design Features",
+   "Modern Software Needs Embedded Modern C++ Programming",
+   "Introduction to Azure Sphere",
+   "Collaborative C++ Development with Visual Studio Code",
+   "Linear Algebra for the Standard C++ Library",
+   "Ochre: Highly portable GPU-accelerated vector graphics",
+   "The Corporate Scale Engine",
+   "Allocators in C++11",
+   "dynamic_cast From Scratch",
+   "C++ Core Guidelines - Modernize your C++ Code Base",
+   "Generating OpenCL/CUDA source code from C++ expressions in VexCL",
+   "ISO/IEC 14882",
+   "So you want to test your templated code? I know your type",
+   "Compiler Explorer: Behind The Scenes",
+   "Combining C++17 Features",
+   "C++ Community Surveys",
+   "Computer Science - A Guide for the Perplexed",
+   "The Importance of Not Over-Optimizing in Rust",
+   "Make It Fixable: Preparing for Security Vulnerability Reports",
+   "Range-Based Text Formatting For a Future Range-Based Standard Library",
+   "(...) How to work effectively being remote",
+   "Embedded Application Development (for Web Developers)",
+   "Words Of Power",
+   "Doxygen to DoxyPress...",
+   "Which Machine Am I Coding To?",
+   "boost::string_ref",
+   "Concepts vs Typeclasses vs Traits vs Protocols",
+   "Why Open Source Firmware is Important",
+   "A vision for C++20, and std2 (part 3 of 3)",
+   "Dealing with function failures in C++",
+   "C++ in Huge AAA Games",
+   "Range-based text formatting",
+   "Futurology for Developers",
+   "Software Is Details",
+   "How to Build a Self-driving RC Car",
+   "Using Deep Learning to hunt Optical Counterparts to (...)",
+   "From nothing to too much: growing a tech community in the East of England",
+   "Delivering AI on Code: Live Demo of source{d}",
+   "Breaking Black-box AI",
+   "Why Your Private Cloud is Probably a Bad Idea",
+   "WebThings : Your IoT with privacy by design",
+   "Practicalities of Productionizing Distributed Systems",
+   "Words of Wisdom",
+   "Site Reliability Engineering",
+   "C++ Integer Promotion is Completely Broken",
+   "Binary compatibility for library developers",
+   "Design And Implementation Of DBMS Asynchronous Client Library",
+   "What Neighborhoods Owe Each Other: Rights, Duties, Immunities & Disabilities of Functions & Objects",
+   "Black-box performance analysis",
+   "Adventures In Updating A Legacy Codebase",
+   "Everyday Efficiency: In-Place Construction (Back to Basics?)",
+   "Concurrency TS Editor's Report",
+   "Can Quantum Computing Help to Unlock the Secrets of the Universe?",
+   "How Business Is The Key To Making The World A Happier Place",
+   "Consistently Inconsistent",
+   "Design For The Utopia You Want, Not The Dystopia You're In",
+   "boost.tmp: Your DSL for /*Metaprogramming*/ all the things",
+   "Surprises in Object Lifetime",
+   "Don't package your libraries, write packagable libraries!",
+   "Taskflow: A Parallel and Heterogeneous Task Programming System Using Modern C++",
+   "C++ Code Smells",
+   "Serverless is the Abstraction We Deserve",
+   "Oo Considered Harmful",
+   "Small Lie in Big O",
+   "My Four Year Bug",
+   "Jami on i.MX6: bring fully distributed & secure comm. capabilities to embedded products",
+   "Effective CMake",
+   "Getting to Grips with Kubernetes RBAC",
+   "Effective Qt",
+   "Boost your API Development with GraphQL & Prisma",
+   "GraphQL Anywhere - Our Journey With GraphQL Mesh & Schema Stitching",
+   "A Browse Through ES",
+   "Supercharging Your Code With Five Little-Known Attributes",
+   "Functional Error and Optional-value Handling with STX",
+   "Modern C++ Design reloaded",
+   "3 Common Pitfalls in Microservice Integration & How to Avoid Them",
+   "Stdfwd - Forward Declarations for C++ Standard Library",
+   "Using Kubernetes for Machine Learning Frameworks",
+   "Deep Learning in Medicine",
+   "Inside a static analyzer: type system",
+   "Next Generation Debugging",
+   "Lessons Learned Developing the C++11 Standard Library",
+   "The Projucer: Live coding with C++ and the LLVM JIT engine",
+   "No raw std::thread! - Live Tweet Analysis in C++",
+   "How to initialize x from expression y",
+   "Applying functional programming in code design",
+   "Implementing a Domain Specific Embedded Language with Boost Proto",
+   "Polyglot Agile",
+   "Print C++ Like Its Python'",
+   "Anatomy of Initializer Lists",
+   "The Science of Unit Tests",
+   "C++ Programming for the Heap-Deprived",
+   "Real Time Investment Alerts using Apache Kafka at ING Bank",
+   "Monads in Chains",
+   "Become A Game Developer In 5 Minutes Or Less",
+   "Responsible AI for Business Leaders",
+   "Build your own (Rust-y) robot!",
+   "What Every C++ Programmer Should Know About Modern Compilers",
+   "What's New in Visual C++ 2015 and Future Directions",
+   "Building conversational voice bots - lessons learned",
+   "Running Zephyr and Linux on the same SoC: making both worlds live together !",
+   "Good Enough Architecture Part 1",
+   "A Food pairing device, with offline AI and edge computing",
+   "Exception-Safe Coding in C++ (Part II)",
+   "No Return: Beyond Transactions in Code and Life",
+   "A Zephyr Overview of C++11 (Part II)",
+   "Fastbuild",
+   "From Iterators To Ranges - The Upcoming Evolution Of the Std Lib",
+   "Value Semantics: Fast, Safe, and Correct by Default",
+   "Executors: The Art of Generating Composable APIs",
+   "Linux dynamic library versioning",
+   "C++ Modules",
+   "C++ on small micro controllers",
+   "5 Things I figured out while ...   2017",
+   "Debugging and Profiling C++ Template Metaprograms",
+   "Adventures in SIMD-Thinking (part 1 of 2)",
+   "aa-scan3 - an AppArmor profiles generator",
+   "Reliable optimizations for idiomatic Rust",
+   "Practical Quantum Computing with D-Wave",
+   "opt-viewer: Inspecting compiler optimizations in high-level code",
+   "Taking Template Classes Further with Opaque Types & Generic NTTPs",
    "static_if in C++14",
    "Upgrade from 'permissive C++' to 'modern C++' with Visual Studio",
-   "A review of C++ 11/14 only Boost libraries - Fiber, AFIO, DI and APIBind",
-   "Concurrency, Parallelism and Coroutines",
-   "Anatomy of Initializer Lists",
-   "Embrace No-Paradigm Programming!",
-   "Magic & secrets",
-   "How can we write the best device driver?",
-   "From Iterators To Ranges - The Upcoming Evolution Of the Std Lib",
-   "SaaS Deep Dive: Designing and Building Multi-Tenant Solutions",
-   "Organization: A Tool for Software Architects",
-   "Rule of DesDeMovA",
-   "Comma Chameleon",
-   "Lightning Talk",
-   "C++ Templates Revised",
-   "Performance analysis and optimization of C++ standard libraries",
-   "Design For The Utopia You Want, Not The Dystopia You're In",
-   "What Belongs In The C++ Standard Library?",
-   "How I Learned to Stop Worrying About Generics and Love Go",
-   "Type Based Template Metaprogramming is Not Dead",
-   "An easy to use RPC framework implemented in C++11/14",
-   "Writing Libraries is Terrible",
-   "Resilience patterns in practice",
-   "Rethinking the Way We Do Templates in C++",
-   "Composing Bach Chorales Using Deep Learning",
-   "Back to Basics: Class Layout",
-   "Freestanding C++ - Past, Present, and Future",
-   "Is Team Self-selection the Obvious Choice?",
-   "The Proposed Boost B-tree Library",
-   "What I Wish They Told Me - Part 1 of 2",
-   "C++20 Ranges in Practice",
-   "Frugal Innovation",
-   "Programming with C++ Modules: Guide for the Working",
-   "Hypercritical C++ Code Review",
-   "Value Semantics: Fast, Safe, and Correct by Default",
-   "Everything Is Terrible",
-   "IoC++ - A IoC framework for C++",
-   "A Browse Through ES",
-   "Constant Fun",
-   "A Test of Strength",
-   "The deal with -ffast-math",
-   "await 2.0: Stackless Resumable Functions",
-   "A little order",
-   "Choose proper container... automatically?",
-   "sizeof",
-   "Undefined Behavior in  (part 2 of 2)",
-   "Mix Tests and Production Code With Doctest...",
-   "Things not to do in Python",
-   "How to Teach C++ and Influence a Generation",
-   "The Essence of C++: With Examples in C++84, C++98, C++11, and C++14",
-   "How to write a programming language",
-   "Maintainability and Refactoring Impact of Higher-Level Design Features",
-   "CQRS & Event Sourcing Apps with Axon & Pivotal Cloud Foundry",
-   "Yocto Cooker, a meta-buildtool for Yocto Project",
-   "Option(al) Is Not a Failure",
-   "C++ Multi-dimensional Arrays...",
-   "Let's make a web match-3 game in C++14",
-   "C++ Concepts",
-   "Sales & Tech - Our Differences Make the Difference",
-   "Code + AI: Will Robots Take Our Coding Jobs? ML Applied to Programming",
-   "Event Storage in Axon Server - How does it work?",
-   "Dealing with function failures in C++",
-   "The Distributed Version Control Revolution",
-   "Can Quantum Computing Help to Unlock the Secrets of the Universe?",
-   "Towards Heterogeneous Programming in C++",
-   "Bitmaps! Or 'Images and Animations Without Linking External Libraries'",
-   "WebAssembly Beyond the Browser",
-   "The evolving search for effective C++",
-   "Safe and Sane C++ Types",
-   "Implementation of a component-based entity system in modern C++",
-   "An Introduction to C++20's Concepts",
-   "Democratizing Distr. Systems: Kubernetes, Brigade, Metaparticle & Beyond",
-   "Creating Boost.Asio extensions",
-   "Composite Arithmetic Types Are > the + of Their Parts",
-   "The Numerical Template Toolbox for High Performance Computing",
-   "How bad is Meta-Programming still today?",
-   "Don't Try This at Work -- Low Level Threading with C++11",
-   "10 Techniques to Understand Existing Code",
-   "The History of Berlin (Special Appearance)",
-   "Os Matters",
-   "The Networking TS from Scratch: I/O Objects",
-   "Securing the JVM",
-   "Bluff your way in x64 assembler",
-   "Building HTTP API SDKs that Really Are a Kit",
-   "Unicode Strings: Why the Implementation Matters",
-   "Numerical Differentiation ++",
-   "Conversions & Diamonds",
-   "How to be Exceptional in a Technical Due Diligence",
-   "How Java & Scala are Imitating Functional Languages",
-   "Security vulnerability tracking tools in Buildroot",
-   "Beyond the Issaquah Challenge: High-Performance Scalable Complex Updates",
-   "Software Engineer in the Machine Learning world",
-   "Emulating Rust's borrow checker in C++",
-   "Software is feeding the World",
-   "I just wanted to point to something!",
-   "Monolith Decomposition Patterns",
-   "HTTP/3 is next Generation HTTP. Is it QUIC enough?",
-   "Design Patterns in the 21st Century",
-   "Compile-time 'reparsing'",
-   "Exception-Safe Code, Part III",
-   "Practical Type Erasure: A boost::any Based Configuration Framework",
-   "The case for Vendored Builds",
-   "The Nightmare of Move Semantics for Trivial Classes",
-   "Cloud Native Communication Patterns with gRPC",
-   "Be your own Threatbuster!",
-   "Boost.Asio and Boost.Serialization, Part II",
-   "A Retrospective from My Perspective",
-   "Concepts: The Future of Generic Programming (the future is here)",
-   "Testing Battle.net (before deploying to millions of players)",
-   "Microservices Out In the Wild",
-   "ForTransformers vs deCeePeePeeticons",
-   "C++11 use in Qt5: Challanges and Solutions",
-   "C++20: The small things",
-   "Interactive C++ in a Jupyter Notebook Using Modules for Incremental Compilation",
-   "Future of communications...",
-   "C++ Past vs. Future",
-   "Dealing with aliasing using contracts",
-   "A Relaxed Guide to memory_order_relaxed",
-   "Lifetime and Usage of Global, Thread-local, and Static Data",
-   "Fast Conversion From UTF-8 with C++, DFAs, and SSE Intrinsics",
-   "Intro to Functional Programming in C++",
-   "Swizzling",
-   "The Quest For A Better Crash",
-   "The Development Metrics You Should Use (But Don't)",
-   "Modern C++ Testing with Catch2",
-   "Why C++ for Large Scale Systems?",
-   "Functions Want To Be Free",
-   "The Tragedy of the value based architecture",
-   "Moving Boost to Git",
-   "the asynchronous library",
-   "Site Reliability Engineering at Google",
-   "How to Build a Consultancy People Enjoy Working for",
-   "Containers From Scratch",
-   "Functional programming: functors and monads",
-   "Optimising a small real-world C++ application",
-   "Tokio-Trace: Scoped, Structured, Async-Aware Diagnostics",
-   "What Belongs in the C++ Standard Library",
-   "Empirical Unit Testing",
-   "for_each_adjacent<N>",
-   "Software Architecture in the Age of Things",
-   "Think like a Hacker",
-   "The Pragmatic Programmer 20 Years Later",
-   "An Alternate Smart Pointer Hierarchy",
-   "Good Concepts",
-   "What You see",
-   "Adventures in SIMD-Thinking",
-   "Hardening Your Code",
-   "Insecure Transit - Microservice",
-   "An Introduction to JVM Performance",
-   "Tracking DDR ECC issues on a standalone application",
-   "Here's my number; call me, maybe. Callbacks in a multithreaded world",
-   "The Power of Reflection with Facebook's Thrift",
-   "Can I change my organisation?",
-   "Qt's moc and QMetaObject reflection",
-   "Fundamentals of Type-Dependent Code Reuse in C++",
-   "Back to Basics: Lambdas from Scratch",
-   "The fantastic four coding patterns of Continuous Delivery",
-   "Value-oriented design in an object-oriented system",
-   "A New Open Source Virtual File System - running on Windows in User mode!",
-   "Low Latency C++ for Fun and Profit",
-   "Practical (?) Applications of Reflection",
-   "A TypeScript Fan's KotlinJS Adventures",
-   "Good Enough Architecture Part 2",
-   "Metaprogramming in C++",
-   "Working on modular projects with Git",
-   "Leaving The Dark Side - Developing a C++ Based Medical Device",
-   "Boost.Compute: A library for GPU/parallel computing",
-   "Dr Module and Sister #include",
-   "Transactional Memory in Practice",
-   "C++17, is it great or just OK...",
-   "Are you Open enough to Innovate? ;)",
-   "Practical Aspects of Microservice Architecture",
-   "GoLand Tips & Tricks",
-   "Scaling development of a large C++ project: Chromium (Part 2)",
-   "C++11: High-Level Threading",
-   "Automating Processes in Modern Architectures",
-   "Monotron - Building a Retro Computer in Embedded Rust",
-   "Agent Based Class Design",
-   "Parallelizing the Standard Algorithms Library",
-   "What the committee did next!",
-   "Zero-allocation & no type erasure futures",
-   "Structure and Interpretation of Computer Programs: SICP",
-   "Agility at scale with LeSS",
-   "Choosing the Right Integer Types in C and C++",
-   "Advanced Unit Testing in C & C++",
-   "The speed of concurrency (is lock-free faster?)",
-   "Better C++ Ranges",
-   "Platform Engineering as a (Community) Service",
-   "Back to Basics: Virtual Dispatch and its Alternatives",
-   "Declarative Thinking, Declarative Practice",
-   "Haxe: An understated powerhouse for software development",
-   "Faster Delivery of Large C/C++ Projects with...",
-   "Are we ready for modules?",
-   "50 shades of C++",
-   "Don't package your libraries, write packagable libraries!",
-   "High Frequency Trading and Ultra Low Latency development techniques",
-   "Fun with Boost.Hana",
-   "The Shapes of Multi-Dimensional Arrays",
-   "Sustainable Software Engineering, Building Carbon-Efficient Applications",
-   "C++20: An (Almost) Complete Overview",
-   "Keep it Small",
-   "Functional C++ For Fun And Profit",
-   "Modern Template Metaprogramming: A Compendium, Part II",
-   "(R)evolution of C++",
-   "The life-changing magic of tidying up",
-   "Understanding Compiler Optimization",
-   "The C++ rvalue lifetime disaster @ CppEurope2020",
-   "Designing Concurrent C++ Applications",
-   "Introduction to Modern C++ Techniques (Part II)",
-   "Expect the expected",
-   "Tales of C, the 6502 and the BBC (with added python)",
-   "Test Driven C++",
-   "lambda Demystified",
-   "A modern database interface for C++",
-   "Plenary: The Beauty and Power of 'Primitive' C++",
-   "hop: A Language to Design Function-Overload-Sets",
-   "Experience from Feature Toggling Platform (...)",
-   "The Hitchhiker's Guide to Faster Builds",
-   "A bird's-eye view of template C++",
-   "Meet the Authors",
-   "Attitude Determines Altitude: Engineering Yourself & Your Teams",
-   "Command vs Strategy",
-   "The C++ rvalue lifetime disaster",
-   "Aliasing Redefined",
-   "Easy::Jit: A Just-in-Time compilation library for C++",
-   "Reactive Equations",
-   "Retour d'experience sur l'IoT: cas concret dans la location de materiel de TP",
-   "Testdriven C++ with Catch",
-   "Five Cloud Services Every Developer Should Know",
-   "Functional Programming with Kotlin",
-   "Polymorphism A La Carte",
-   "Statistical scientific programming OO patterns: accumulators",
-   "Live Hacking Session Part 2",
-   "A Tour of Deep Learning With C++",
-   "Lambda Functions",
-   "How to do practical Data Science? From real-world examples (...)",
-   "Return Values Take A Closure Walk",
-   "Leadership During Chaos",
-   "Adopt GraphQL without Writing any Backend Code",
-   "The C++ Reflection TS",
-   "Speed Is Found In The Minds of People",
-   "C++20 STL Features: One Year of Development on GitHub",
-   "Going Docker, Swarm and Kubernetes Production Like a Pro",
-   "Memory and C++ debugging at Electronic Arts",
-   "The Robustness of Go",
-   "The Static Initialization Order Fiasco",
-   "A Tutorial Introduction to C++11/14 - Part II",
-   "OOP Is Dead, Long Live Data-oriented Design",
-   "Implementing a web game in C++14",
-   "C++20: All the small things",
-   "Discovering RESTful Web Microservices: A Traveler's Guide",
-   "Plenary: Neighborhoods Banding Together: Reasoning Globally about Programs",
-   "Asynchronous IO with Boost.Asio",
-   "SYCL building blocks for C++ libraries",
-   "The strange details of std::string at Facebook",
-   "The memory model in C++",
-   "Lessons in Sustainability...",
-   "Algorithm Intuition (part 1 of 2)",
-   "Architecture is (not) everything",
-   "Compile-Time/Run-Time Functional Programming in C++",
-   "A Little Order: Delving into the STL sorting algorithms",
-   "The worst feature of modern C++: default behaviour",
-   "Beware of C++17",
-   "Troubleshooting & Debugging Microservices in Kubernetes",
-   "CI/CD is just the Beginning: Optimize Value Creation with Flow Framework",
-   "Exhuming 'Castlequest'",
-   "Decomposing a Problem for Parallel Execution",
-   "Microservice Message Routing on Kubernetes",
-   "Developing C++ @ Facebook scale",
-   "GraphQL, gRPC and REST, Oh My! A Method for Unified API Design",
-   "IoT Compute at the Edge with AWS Greengrass",
-   "GraphQL Anywhere - Our Journey With GraphQL Mesh & Schema Stitching",
-   "Concepts driven design",
-   "The Slot Map Data Structure",
-   "Sorting in less than O(n log n): Generalizing and optimizing radix sort",
-   "Writing Performant C++ Code",
-   "Interactive C++: Meet Jupyter / Cling",
-   "Fancy Pointers for Fun and Profit",
-   "How to Apply Engineering Practices to Embedded Software Development",
-   "Everything You Ever Wanted to Know about DLLs",
-   "constexpr: C++ At Compile Time",
-   "Benchmarking C++ - From video games to algorithmic trading",
-   "Better Code: Relationships",
-   "Ochre: Highly portable GPU-accelerated vector graphics",
-   "Yocto is not (only) BitBake",
-   "An Overview on Encryption in C++",
-   "Asynchrony and Coroutines",
-   "Expression Templates for Efficient, Generic Finance Code",
-   "Programming in a different domain",
-   "Embedded Android in real life",
-   "Everyday Efficiency: In-Place Construction (Back to Basics?)",
-   "From Iterators To Ranges - The Upcoming Evolution Of the Standard Library",
-   "Making Testing C++ Binaries Practical @ Facebook Scale: A CI Story",
-   "Nothing is better than copy or move",
-   "Syscalls for Rustaceans",
-   "my favorite C++ feature  - Meeting C++",
-   "Multicore Synchronization: The Lesser-Known Primitives",
-   "C++ Algorithms in Haskell and the Haskell Playground",
-   "SWARMing: Scaling Without A Religious Methodology",
-   "Selected C++11 Template Toffees From sqlpp11 (Part3)",
-   "We have always been at war with West Constia",
-   "An array of problems. An array of solutions",
-   "The Magic of Music Matching",
-   "Embedded Linux 'from scratch' in 45 minutes... on Risc-V",
-   "Automatic C++ source code generation with clang",
-   "Implementing Physical Units Library for C++",
-   "Lessons Learned From An Embedded RTPS in Modern C++",
-   "The Networking TS in Practice: Patterns for Real World Problems",
-   "Fresh Paint",
-   "C++17 - The Best Features",
-   "Not Just Events: Developing Asynchronous Microservices",
-   "C/C++ vs Security!",
-   "ThinLTO Whole Program Optimization",
-   "Migrating a C++03 library to C++11 case study: Wt 4",
-   "From Functions to Coroutines",
-   "The State of Package Management in C++",
-   "Sweep-Line Algorithm for Voronoi Diagrams",
-   "Combining C++17 Features",
-   "Debugview++",
-   "extern c: Talking to C Programmers about C++",
-   "Fast by Default: Near Instant Load Times at Scale with GatsbyJS",
-   "A Case For Outside-In Design",
-   "How to initialize x from expression y",
-   "Delivering AI on Code: Live Demo of source{d}",
-   "The Finer Points of Parameter Packs",
-   "Thinking outside of the framework",
-   "Global Scale Multi-Cloud, Multi-CDN Load Balancing with C++",
-   "Considerations for choosing the parallel computing",
-   "EMF4CPP Generating Ecore Models for C++",
-   "PopcornFlow: If Change is Hard, Make it Continuous",
-   "Source Instrumentation for Monitoring C++ in Production",
-   "An Agile (hi)story",
-   "Latency Observability",
-   "Introduction to RAUC",
-   "A Letter to My Descendents",
-   "All the Default's Are Backwards",
-   "Easy High Constancy",
-   "Refactor your codebase with Clang tooling",
-   "Boost Units Library for Correct Code",
-   "Design Compact Deep Learning Models: Small is the New Big",
-   "Is All Executable Code Added to a Container Image at Build Time? (Q2)",
-   "Using C++ to Connect to Web Services",
-   "Value Proposition: Allocator-Aware (AA) Software",
-   "Emscripten and asm.js: C++'s role in the modern web",
-   "Representing Memory Mapped Devices as Objects",
-   "Tools from the C++ eco-system to save a leg",
-   "who the f**k is eric? by odin and the nerds",
-   "Concurrent Code - Test It! - How?",
-   "The beast is becoming functional",
-   "How Beauteous Technology is! O Brave New World",
-   "Technical Specifications & C++17",
-   "Command Line Parser Library   2017",
-   "Make Friends with the Clang Static Analysis Tools",
-   "Variations on Variant",
-   "Safe Numerics",
-   "You must type it three times",
-   "Progress on Contract Support for C++17",
-   "Cache Optimized Hash Tables",
-   "A Cartoon Quest: New Adventures for WebAssembly",
-   "You can run but you can't hide from it: Edge cloud is here, now!",
-   "Role of App Integration in Cloud Native & Microservices Landscape",
-   "Reliable optimizations for idiomatic Rust",
-   "C++20 Coroutines: Generators, and Brain Unrolling Sweetness",
-   "Type Punning in C++17: Avoiding Pun-defined Behavior",
-   "Speeding up code with C++17 Polymorphic Memory Resources",
-   "Introduction to OpenAPI",
-   "Embedded Systems 101",
-   "Modern Design Patterns with Modern C++",
-   "Lock-free by Example",
-   "Embedded Application Development (for Web Developers)",
-   "This is Why We Can't Have Nice Things",
-   "What is a Good Code",
-   "Demystifying Floating Point",
-   "Deprecating Simplicity 3.0",
-   "Crafting the Core - Why and How We Built the Core Banking System",
-   "Interactive Metaprogramming Shell based on Clang",
-   "Modern Linux C++ debugging tools - under the covers",
-   "A Critical Look at the Coding Standards Landscape",
-   "Rust in Safety Critical Systems",
-   "Goals for Better Code - Implement Complete Types",
-   "Multithreading 101: Concurrency Primitives From Scratch",
-   "Design Patterns in C++ Done Right",
-   "C++ Testing Techniques, Tips and Tricks @ CppEurope 2020",
-   "The Hitchhikers guide to faster builds",
-   "Efficient data aggregation with Fenwick trees",
-   "Understanding &&",
-   "Text Formatting For a Future Range-Based Standard Library",
-   "Is This Magic!? Ferris Explores Rustc!",
-   "Effective replacement of dynamic polymorphism with std::variant",
-   "Identifying Pokemon Cards",
-   "Practical End-to-End Container Security at Scale",
-   "DevOps transformation - It's not just an R&D thing",
-   "My Thoughts on Large Code Base Change Ripple Management in C++",
-   "I Just Wanted a Random Integer!",
-   "Threads and Locks must Go",
-   "Programming in the Large With C++ 20",
-   "WG21-SG14 - Making C++ better for games, embedded and financial developers",
-   "Understanding Optimizers: Helping the Compiler Help You",
-   "JavaScript from C++ developer perspective",
-   "Developing Blockchain Software",
-   "Deprecating Simplicity",
-   "Thinking Fast and Slow",
-   "Print C++ Like Its Python'",
-   "Concurrency in cloud applications",
-   "Behind the Scenes of a C++ Build System",
-   "The Anatomy of an Exploit",
-   "Look ma, 'update DB to HTML5 using C++', no hands!",
-   "Consistent Comparison in C++20",
-   "REST beyond the Obvious - API Design for ever Evolving Systems",
-   "Static if I had a hammer",
-   "An Asio Based Flash XML Server",
-   "Taking Constant Evaluation to the Limit",
-   "Application Security at High Velocity",
-   "Things I learned from the static analyzer",
-   "Universal Function Call Syntax in C++20",
-   "Exceptional C++",
-   "Fun with (user-defined) attributes",
-   "Modern C++ testing with Catch2",
-   "A Few Gentle Rules (*) but One in Particular",
-   "Allocator-Aware (AA) Software",
-   "Refactoring Superpowers: Make Your C++ IDE Do Your Work, Faster and More Safely",
-   "Formatting floating-point numbers",
-   "Practical C++17",
-   "Beyond Sanitizers...",
-   "Big Data Analytics in Telecommunication",
-   "Controlling Overload Resolution with SFINAE",
-   "The Jai Programming Language and What Can We Learn From It",
-   "Nim - First natively compiled language w/ hot code-reloading at runtime",
-   "Standardizing the Data Distribution Service (DDS) API for Modern C++",
-   "The Automation Challenge: Kubernetes Operators vs Helm Charts",
-   "Bringing Clean Code to large scale legacy Applications",
-   "Go Get Better (Go Programming Language)",
-   "HTTP 2 - The feature of www",
-   "lemniscate C++++++...",
-   "Emotional Code",
-   "Let's Make It Easy",
-   "Monolith to Microservices",
-   "Leak-Freedom in C++... By Default.",
-   "C++ Concepts and Ranges",
-   "Concepts, Type Traits and Specialization",
-   "Common Retrospectives Traps & Solutions",
-   "Macros for a More Productive Rust",
-   "Cross-Platform Pitfalls and How to Avoid Them",
-   "C++ programming in a parallel world @ CppEurope 2020",
-   "[BOOST].SML STATE MACHINE LANGUAGE",
-   "RFC: Secret types in Rust",
-   "Where Does the Real World End - The Blurring of the Physical & Digital",
-   "The Perils of Strict Aliasing",
-   "A Discussion of Selected Vienna-Libraries for Computational Science",
-   "SSL/TLS for Mortals",
-   "Machine Learning on Source Code",
-   "Backporting to the Future",
-   "The ongoing design and evolution of cyber-dojo",
-   "Seeing the bigger picture part II",
-   "Two years of libcamera: are complex cameras now easy?",
-   "Dragging C++ into the Modern era",
-   "Bringing clang-tidy magic to Visual Studio C++ Developers",
-   "Towards Painless Testing",
-   "Game Engine API Design",
-   "Thinking outside the synchronisation quadrant",
-   "Apps, Algorithms & Abstractions",
-   "C++ in the Audio Industry",
-   "A trusted trip in the cloud - working with trusted hardware (...)",
-   "The Quiet Little Gem in Modern C++: <system_error>",
-   "Back to Basics: Exception Handling and Exception Safety",
-   "Writing games in very modern C++",
-   "Founding C++ User Groups",
-   "Energy and Education Access for Remote Communities",
-   "Algorithm Intuition (part 2 of 2)",
-   "What Else Has My Compiler Done For Me Lately?",
-   "Call: A Library that Will Change the Way You Think about Function Invocations (1 of 2)",
-   "10 years of Poco C++ Libraries",
-   "Data-arithmetic optimization of embedded applications",
-   "Local (arena) Memory Allocators",
-   "Big Projects, and CMake, and Git, Oh My!",
-   "Using Spirit V2: Qi and Karma",
-   "Beware of C++",
-   "Writing Good C++14... By Default",
-   "C++ libraries for daily use @ CppEurope 2020",
-   "Calling Functions",
-   "Exploring C++17 and beyond",
-   "Parsing C++",
-   "C++ Hardware Register Access",
-   "Ustring -- A Modern Alternative to std::string",
-   "C++ Core Guidelines - Modernize your C++ Code Base",
-   "Argot: Simplifying Variants, Tuples, and Futures",
-   "From Parsing to sema: Making Sense of Syntax Trees",
-   "Async sequences and algorithms to compose them",
-   "Building a Tech Community in the East from (almost) Nothing",
-   "Value Semantics: It aint about the syntax!",
-   "Enough x86 Assembly to Be Dangerous",
-   "From embedded Linux boat sensors to the cloud, a data journey",
-   "Designing APIs for 150 Million Orders",
-   "Declarative Control Flow",
-   "Pessimistic Programming",
-   "Spread the LOVE for IoT - How I created a full day IoT workshop",
-   "Why and How we fixed std::thread by std::jthread",
-   "Datum: A Compact Bitwise Copyable Variant Type",
-   "Better Spotify Playlists through Music Theory & Discrete Optimization",
-   "Google Sheets for Developers",
-   "Sweating the Small Stuff: Brace Initialization, Unions and Enums",
-   "C++ ecosystem: For better, for worse",
-   "Modern C++ in Embedded Systems - The Saga Continues",
-   "Lock-free programming with modern C++",
-   "Ways to Handle Non-blocking Returns in Message-passing Programs...",
-   "Type to string conversions, and vice-versa",
-   "C++20 Coroutines: Introduction",
-   "Writing a C++20 Module",
-   "Crossing the River by Feeling the Stones",
-   "Rust for Weld, a High Performance Parallell JIT Compiler",
-   "Rethinking Exceptions",
-   "Boundary Conditions",
-   "From Functional to Parallel: Stochastic Modeling in C++",
-   "Preconditions, postconditions, invariants - how they (...)",
-   "constexpr ALL the Things!",
-   "Scaling development of a large C++ project: Chromium (Part 1)",
-   "Standardese",
-   "Howling at the Moon: Lua for C++ Programmers",
-   "C++ Class Natures",
-   "Rust for Freshmen",
-   "Dungeons, Dragons & Developers",
-   "Overloading",
-   "Kotlin/Native - Embracing existing ecosystems",
-   "Comfort Zone",
-   "The Evolution of Threat Models for Secure Communication Products",
-   "Quantum Computing",
-   "Local ('arena') memory allocator",
-   "Spectre",
-   "Undefined behavoiur",
-   "Refactoring C++ legacy code through pure functions @ CppEurope 2020",
-   "Free your functions!",
-   "Conan, a C and C++ package manager for developers",
-   "I Can Sell You Observability, But You Can't Buy It",
-   "C++11: New Tools for Class and Library Authors",
-   "Understanding and mastering C++'s complexities",
-   "C++ Constants",
-   "Property Bindings in C++11",
-   "Are You Keeping Hosts Up to Date with the Latest Security Releases? (Q4)",
-   "Project Update: Lang Team",
-   "zbus: Yet another D-Bus library",
-   "East const but constexpr West",
-   "A CTO's guide to Modern C++",
-   "The Soul of Erlang and Elixir",
-   "Declarative thinking, declarative practice",
+   "Faster than memcpy",
+   "interview with Manuel Benche",
+   "Don't Get Blamed for Your Choices",
+   "C++ Development with Visual Studio Code",
+   "DevOps is not only for IT players!",
+   "A Whirlwind Overview of C++11",
    "Swift Driven Development",
-   "Comunicazione real-time con WebRTC in C++",
-   "Talk Intro by Andre Bogus (llogiq) the Rust Bard",
-   "Kickstarting Your Azure Pipeline with Templates",
-   "The Unexceptional Exceptions",
-   "Proper Inheritance",
-   "Benchmarking C++, From video games to algorithmic trading",
-   "The Optimization of a Boost.Asio-based Networking Server",
-   "Git, CMake, Conan - How to ship and reuse our C++ projects",
-   "The Ethics of Software - some practical considerations",
-   "C++14 version of Boost.MSM-eUML",
-   "Back to Basics: Exceptions",
-   "There Is A Better Future",
-   "Machine Learning: Alchemy for the Modern Computer Scientist",
-   "Multi-Precision Arithmetic for Cryptology in C++, at Run-Time and at Compile-Time",
-   "15 Years of Spring: Evolving a Java Application Framework",
-   "Threading dos and don'ts",
-   "Where Should I Be?",
-   "Pruning Error Messages From C++ Template Code",
-   "Octopus: A Policy-Driven Framework for CFD Simulations",
-   "The importance of being native",
-   "Viewing The World Through Array-Shaped Glasses",
-   "GPU programming with modern C++",
-   "Obfuscation and beyond: securing your binary",
-   "Event-Driven Microservices - not (just) about Events!",
-   "Dealing with software dependencies",
-   "C++ and Memory: Between Correctness and Performance",
-   "Regular Expressions in C++, Present and Future",
-   "An Engineer's Guide To Burnout And How To Hack It",
-   "Introduction to Azure Sphere",
-   "We stopped teaching C",
-   "Fishbowl  - Working on Large Code Bases",
-   "Coroutines, Fibers and Threads, Oh My",
-   "Exploration of C++20 Meta Programming",
-   "Objects? No thanks!",
-   "Total War: how AI can deliver entertainment.",
-   "scnlib: Formatted input library",
-   "C++ on its way to exascale and beyond",
-   "Almost Unlimited Modern C++ in Kernel-Mode Applications",
-   "Cluster Consensus: when Aeron met Raft",
-   "Clean(er) Code for Large Scale Legacy Applications",
-   "Concurrency in Rust",
-   "Low-Latency Trading: Micro-Optimisations and the Impact of Compliers",
-   "Streaming with Structure",
-   "Rust for Artists. Art for Rustaceans.",
-   "Latest and Greatest from the Visual Studio Family for C++ Developers",
-   "The Landscape of Parallelism",
-   "What are FPGAs and How Do They Work",
-   "Postmodern C++",
-   "Building finite-element matrix expressions with Boost Proto and the Eigen library",
-   "Hourglass Interfaces for C++ APIs",
-   "Secure by Design - Security Principles for the Working Architect",
-   "Introduction to gRPC",
-   "Argument Passing, Core Guidelines, and Aliasing",
-   "The art of keeping your project from falling apart",
-   "Adventures in SIMD-Thinking (part 2 of 2)",
-   "Anatomy of the Conditional Operator",
-   "Alices adventures in Template Land",
-   "Using the Groovy Ecosystem for Rapid Development on the JVM",
-   "Real Time Investment Alerts using Apache Kafka at ING Bank",
-   "The Truth of a Procedure",
-   "Developing a Chaos Architecture Mindset",
-   "C++17 key features",
-   "IoT. Building machine vision system...",
-   "rand() Considered Harmful",
-   "Data Driven Observability & Incident Response",
-   "clang-tidy: write your own linting tool",
-   "interview with Marius Bancila",
-   "Diving into SWUpdate: adding new platform support with Yocto/OE",
-   "How to Write a Heap Memory Profiler",
-   "3 things they didn't tell you about Agile",
-   "How C++ Debuggers Work",
-   "Introduction to Vector Parallelism",
-   "Collaborative C++ Development with Visual Studio Code",
-   "A Taste of Julia",
-   "ReasonML: React as a Language and what the Future looks like",
-   "Boost.Text: Fixing std::string, and Adding Unicode to Standard C++ (part 1)",
-   "C++ enums with stringified enumerators using C++14",
-   "Boost statechart visualisation",
-   "Turtles! Hill climbing! Hammers! Paper bags!",
-   "Azure Serverless for Developers",
-   "Embracing Standard C++ for the Windows Runtime",
-   "UI prototyping and development for multiple devices in C++",
-   "Ownership model in C++ and beyond",
-   "Talking to Typelists",
-   "The Importance of Laughter",
-   "Compile-time tools supporting generic programming in C++",
-   "Retiring the Singleton Pattern",
-   "The C++ Memory Model",
-   "Practical Type Erasure",
-   "Alchemical Code Rejuvenation",
-   "Type punning done right",
-   "C++11 Multithreading done right?",
-   "Higher-order functions and function_ref",
-   "Code samples that actually compile",
-   "Batching vs. Streaming - Scale & Process Millions of Measurements a Second",
-   "Save $$ Testing Code the Playback-Based Way",
-   "Always generate all your serialization code",
-   "Fuzz or lose...",
-   "Boost.Geometry: an introduction to geographic computation",
-   "Building and Extending the Iterator Hierarchy in a Modern, Multicore World",
-   "Monoids, Monads, and Applicative Functors: Repeated Software Patterns",
-   "Local ('Arena') Memory Allocators (part 1 of 2)",
-   "Organizational Leadership with Modern C++",
-   "Why GraphQL Between Microservices Is the Worst & Best Idea",
-   "Current trends in the C++ Community",
-   "Designing Features for Mature Systems: Lessons Learned from Manta",
-   "TDD is not about testing - C++ version",
-   "D Programming Language",
-   "Processing Streaming Data with KSQL",
-   "Thread-safe and Thread-neutral Bags",
-   "Microcontrollers in Micro-increments A Test-driven C++ Workflow",
-   "Bending the Curve: A Personal Tutor at Your Fingertips",
-   "Writing robust code",
-   "The Holy Grail! A Hash Array Mapped Trie for C++",
-   "Making Games Start Fast: A Story About Concurrency",
-   "Secrets of the Shenandoah Garbage Collector",
-   "Back to Basics: The Abstract Machine",
-   "A Language Stack for Implementing Contracts",
-   "clang-useful: Building useful tools with LLVM and clang for fun and profit",
-   "IIFE in C++ for Performance and Safety",
-   "A modern, scalable risk system architecture",
-   "Modern special function register abstraction",
-   "C++20 Coroutines: Asynchronity reimagined",
-   "Closing Message",
-   "Hacker's guide to Web Assembly",
-   "Designing for Efficient Cache Usage",
-   "Behaviour-Driven Development, BDD, with Cucumber",
-   "Metaprogramming in C++14",
-   "Back to Basics: Templates (part 2 of 2)",
-   "Applied AI: Real-World Use Cases for Microsoft's Azure Cognitive Services",
-   "Intro to TDD and BDD",
-   "Character Encodings Hate Us All",
-   "std::launder",
-   "Reduce: From functional programming to C++17 Fold expressions",
-   "Coroutines and C++ DSLs for Human Scale Concurrency",
-   "Intel® Graphics Technology for general purpose computing",
-   "Optimizing Embedded Hard Real-Time Code in C++",
-   "Multiplatform C++",
-   "Dynamic Polymorphism with Metaclasses and Code Injection",
-   "Implementing MOF based Modeling Languages with C++ and Qt",
-   "Simplicity Not Just for Beginners (Part 1)",
-   "Refactoring hacked",
-   "This Week in Rust: 400 Issues and Counting!",
-   "Live Lock-Free or Deadlock (Practical Lock-free Programming) (PART 1)",
-   "Consistent architecture diagrams for C++ projects",
-   "Generalized Full Duplex Messaging",
-   "40 Jenkins Features & Plugins You Wished You had Known about Before!",
-   "A Short Life span For a Regular Mess",
-   "No more coffee breaks - reducing C/C++ project compilation time",
-   "Designing C++ portable SIMD support",
-   "Serverless 2.0: Get started with the PLONK Stack",
-   "The Dawn of a New Error",
-   "Code Generation: The Lisp Way",
+   "Postmodern Immutable Data Structures",
    "Ask us anything",
-   "C++11 style",
-   "Visualizing C++ for Faster Comprehension",
-   "Compile Fast, Run Faster, Scale Forever: A Look into the sol2 Lua Library",
-   "Bruce Lee",
-   "Why iterators got it all wrong",
-   "The cell as a computer: Turing complete and massively parallel",
-   "Contract Programming in C++(20) (part 1 of 2)",
-   "Striving for ultimate low latency",
-   "Thriving in a crowded and changing world: C++ 2006-2020",
-   "Embedded cryptography: RustCrypto + Veriform",
-   "Developing Smart Contracts",
-   "Designing OSTree based embedded Linux systems",
-   "boost.tmp: your DSL for Metaprogramming",
-   "The Many Shades of reference_wrapper",
-   "Battle of the Circuit Breakers: Resilience4J vs Istio",
-   "Boostache Exposed - the internals of Boost's template engine",
-   "Compile time regular expressions",
-   "The Audacity of Chapel: Scalable Parallel Programming Done Right",
-   "Let's Move",
-   "RaftLib: Simpler Parallel Programming",
-   "Memory Efficient Java",
-   "How to Start a Solo Project that You'll Stick With",
-   "Constructing Generic Algorithms: Principles and Practice",
-   "C++ Atomics...",
-   "A C++14 Dependency Injection Library",
-   "Modern C++"
+   "Live Lock-Free or Deadlock (Practical Lock-free Programming) (PART 1)",
+   "Learning to Love your Non-functionals",
+   "Higher Order Functions for ordinary developers",
+   "Welcome to Serverless 2.0",
+   "Simplification and Automation in Java: Yesterday, Today and Tomorrow",
+   "Back to Basics: Understanding Value Categories",
+   "C++20 Concepts: The Base Classes of Generic Programming? or Not?",
+   "Declarative thinking, declarative practice",
+   "Hierarchy of C++ needs",
+   "Missing Optimizations on Node-based Containers",
+   "What's new in Visual Studio IDE for C++ Developers",
+   "Dynamic Non-Events",
+   "Algorithmic and microarchitecture optimizations of C++ applications",
+   "Reduce: From functional programming to C++17 Fold expressions",
+   "Making Testing C++ Binaries Practical @ Facebook Scale: A CI Story",
+   "Back to Basics: Algebraic Data Types",
+   "There is a Better Future",
+   "Writing Standard Library Compliant Data Structures and Algorithms",
+   "Volatile none of the things",
+   "Poetry",
+   "The Committee Experience",
+   "Always generate all your serialization code",
+   "The life-changing magic of tidying up",
+   "An Introduction to JVM Performance",
+   "Navigating the development and evolution of a library",
+   "C++ Puzzler",
+   "Global Scale Multi-Cloud, Multi-CDN Load Balancing with C++",
+   "Insecure Transit - Microservice",
+   "Optimizing Performance of Stateful Apps for Globally Distributed Users",
+   "Debugging with LLVM XRay",
+   "Pimp my Log()",
+   "Moving Faster: Everyday Efficiency in Modern C++",
+   "Deconstructing the OS: The devil's In the side effects",
+   "The Continuing Saga of the Lock-free Queue: Part 3 of N",
+   "Secure by Design - Security Principles for the Working Architect",
+   "What does it mean to trust your boot process?",
+   "Surfacing Composition",
+   "Video Rendering on Frontend and Backend",
+   "Advanced Feature Flagging: It's All About The Data",
+   "Risks in Systems Design: Chaos Engineering in Apps & Cloud Security",
+   "Going Multiplatform with Kotlin",
+   "C++ metaprogramming: a paradigm shift",
+   "Understanding &&",
+   "When warnings become errors. A case-study of latent bugs (...)",
+   "I'm falling in love with Globals",
+   "Transducers: from Clojure to C++",
+   "Documenting C++ Using the Right Tools",
+   "Fireside Chat: Brave New World of Software",
+   "Data-Oriented Design for Object-Oriented Programmers",
+   "Simplest Strong Typing instead of Language Proposal ( P0109 )",
+   "OAuth Tokens As Your Identity API",
+   "Back to Basics: Smart Pointers",
+   "Accelerated Learning: How Agile Can Help You?",
+   "Emotional Code",
+   "Accelerating Machine Learning DevOps with Kubeflow",
+   "Contract use: Past, Present, and Future",
+   "The importance of being native",
+   "The Rust 2018 Module System",
+   "Two years of libcamera: are complex cameras now easy?",
+   "Moving Fast At Scale",
+   "Reactive Stream Processing in Industrial IoT using DDS and Rx.cpp",
+   "Cyclomatic Complexity pmccabe as a Refactor Aid",
+   "Practical TMP: A C++17 Compile Time Register Machine",
+   "An Agile (hi)story",
+   "Coroutine TS a new way of thinking",
+   "Intro to TDD and BDD",
+   "Hello World from Scratch"
 ]
 
 var tags = [
@@ -4291,7 +4300,7 @@ var tags = [
 
 const talks = [
    {
-          number: 2730,
+          number: 2737,
       identifier: "GOTO Chicago-2020-41",
          meeting: "GOTO Chicago",
          edition: "2020",
@@ -4310,7 +4319,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1939,
+          number: 1946,
       identifier: "accu-2019-14",
          meeting: "accu",
          edition: "2019",
@@ -4329,7 +4338,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1085,
+          number: 1092,
       identifier: "CppCon-2016-24",
          meeting: "CppCon",
          edition: "2016",
@@ -4349,7 +4358,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2462,
+          number: 2469,
       identifier: "GOTO Amsterdam-2018-40",
          meeting: "GOTO Amsterdam",
          edition: "2018",
@@ -4369,7 +4378,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1688,
+          number: 1695,
       identifier: "code::dive-2018-18",
          meeting: "code::dive",
          edition: "2018",
@@ -4409,7 +4418,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2540,
+          number: 2547,
       identifier: "GOTO Berlin-2018-37",
          meeting: "GOTO Berlin",
          edition: "2018",
@@ -4429,7 +4438,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1612,
+          number: 1619,
       identifier: "code::dive-2016-23",
          meeting: "code::dive",
          edition: "2016",
@@ -4469,7 +4478,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 945,
+          number: 952,
       identifier: "CppCon-2014-84",
          meeting: "CppCon",
          edition: "2014",
@@ -4489,7 +4498,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1229,
+          number: 1236,
       identifier: "CppCon-2017-68",
          meeting: "CppCon",
          edition: "2017",
@@ -4509,7 +4518,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1931,
+          number: 1938,
       identifier: "accu-2019-6",
          meeting: "accu",
          edition: "2019",
@@ -4528,7 +4537,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1421,
+          number: 1428,
       identifier: "CppCon-2019-64",
          meeting: "CppCon",
          edition: "2019",
@@ -4568,7 +4577,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1293,
+          number: 1300,
       identifier: "CppCon-2018-32",
          meeting: "CppCon",
          edition: "2018",
@@ -4588,7 +4597,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1878,
+          number: 1885,
       identifier: "accu-2018-8",
          meeting: "accu",
          edition: "2018",
@@ -4627,7 +4636,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2513,
+          number: 2520,
       identifier: "GOTO Berlin-2018-10",
          meeting: "GOTO Berlin",
          edition: "2018",
@@ -4646,7 +4655,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2146,
+          number: 2153,
       identifier: "Core C++-2019-10",
          meeting: "Core C++",
          edition: "2019",
@@ -4686,7 +4695,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1480,
+          number: 1487,
       identifier: "CppCon-2020-23",
          meeting: "CppCon",
          edition: "2020",
@@ -4706,7 +4715,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2735,
+          number: 2742,
       identifier: "GOTO Chicago-2020-46",
          meeting: "GOTO Chicago",
          edition: "2020",
@@ -4725,7 +4734,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2562,
+          number: 2569,
       identifier: "GOTO Berlin-2019-12",
          meeting: "GOTO Berlin",
          edition: "2019",
@@ -4744,7 +4753,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2865,
+          number: 2872,
       identifier: "GOTOpia-2020-22",
          meeting: "GOTOpia",
          edition: "2020",
@@ -4763,7 +4772,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1691,
+          number: 1698,
       identifier: "code::dive-2018-21",
          meeting: "code::dive",
          edition: "2018",
@@ -4782,7 +4791,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1021,
+          number: 1028,
       identifier: "CppCon-2015-60",
          meeting: "CppCon",
          edition: "2015",
@@ -4802,7 +4811,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2750,
+          number: 2757,
       identifier: "GOTO Copenhagen-2018-11",
          meeting: "GOTO Copenhagen",
          edition: "2018",
@@ -4821,7 +4830,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1473,
+          number: 1480,
       identifier: "CppCon-2020-16",
          meeting: "CppCon",
          edition: "2020",
@@ -4841,7 +4850,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2527,
+          number: 2534,
       identifier: "GOTO Berlin-2018-24",
          meeting: "GOTO Berlin",
          edition: "2018",
@@ -4900,7 +4909,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2428,
+          number: 2435,
       identifier: "GOTO Amsterdam-2018-6",
          meeting: "GOTO Amsterdam",
          edition: "2018",
@@ -4919,7 +4928,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1573,
+          number: 1580,
       identifier: "code::dive-2015-3",
          meeting: "code::dive",
          edition: "2015",
@@ -4939,7 +4948,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2973,
+          number: 2980,
       identifier: "RustFest-2019-4",
          meeting: "RustFest",
          edition: "2019",
@@ -4960,7 +4969,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1717,
+          number: 1724,
       identifier: "code::dive-2018-47",
          meeting: "code::dive",
          edition: "2018",
@@ -4980,7 +4989,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2365,
+          number: 2372,
       identifier: "MUC++--32",
          meeting: "MUC++",
          edition: "",
@@ -5020,7 +5029,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1125,
+          number: 1132,
       identifier: "CppCon-2016-64",
          meeting: "CppCon",
          edition: "2016",
@@ -5040,8 +5049,8 @@ const talks = [
         language: "English"
    },
    {
-          number: 2903,
-      identifier: "GOTOpia-2021-2",
+          number: 2909,
+      identifier: "GOTOpia-2021-1",
          meeting: "GOTOpia",
          edition: "2021",
            title: "A Beginner's Guide to eBPF Programming with Go",
@@ -5059,7 +5068,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2051,
+          number: 2058,
       identifier: "ItCppCon-2021-8",
          meeting: "ItCppCon",
          edition: "2021",
@@ -5079,7 +5088,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1865,
+          number: 1872,
       identifier: "accu-2017-53",
          meeting: "accu",
          edition: "2017",
@@ -5098,7 +5107,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1399,
+          number: 1406,
       identifier: "CppCon-2019-42",
          meeting: "CppCon",
          edition: "2019",
@@ -5118,7 +5127,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1154,
+          number: 1161,
       identifier: "CppCon-2016-93",
          meeting: "CppCon",
          edition: "2016",
@@ -5138,7 +5147,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1054,
+          number: 1061,
       identifier: "CppCon-2015-93",
          meeting: "CppCon",
          edition: "2015",
@@ -5178,7 +5187,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2534,
+          number: 2541,
       identifier: "GOTO Berlin-2018-31",
          meeting: "GOTO Berlin",
          edition: "2018",
@@ -5197,7 +5206,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2645,
+          number: 2652,
       identifier: "GOTO Chicago-2019-14",
          meeting: "GOTO Chicago",
          edition: "2019",
@@ -5236,7 +5245,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2900,
+          number: 2907,
       identifier: "GOTOpia-2020-60",
          meeting: "GOTOpia",
          edition: "2020",
@@ -5275,7 +5284,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2418,
+          number: 2425,
       identifier: "Going Native-2012-14",
          meeting: "Going Native",
          edition: "2012",
@@ -5295,7 +5304,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1050,
+          number: 1057,
       identifier: "CppCon-2015-89",
          meeting: "CppCon",
          edition: "2015",
@@ -5335,7 +5344,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1442,
+          number: 1449,
       identifier: "CppCon-2019-85",
          meeting: "CppCon",
          edition: "2019",
@@ -5355,7 +5364,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 864,
+          number: 871,
       identifier: "CppCon-2014-3",
          meeting: "CppCon",
          edition: "2014",
@@ -5375,7 +5384,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 923,
+          number: 930,
       identifier: "CppCon-2014-62",
          meeting: "CppCon",
          edition: "2014",
@@ -5396,7 +5405,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2111,
+          number: 2118,
       identifier: "C++ on sea-2020-36",
          meeting: "C++ on sea",
          edition: "2020",
@@ -5476,7 +5485,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2308,
+          number: 2315,
       identifier: "Live Embedded Event-2021-27",
          meeting: "Live Embedded Event",
          edition: "2021",
@@ -5557,7 +5566,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1789,
+          number: 1796,
       identifier: "accu-2016-1",
          meeting: "accu",
          edition: "2016",
@@ -5576,7 +5585,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2455,
+          number: 2462,
       identifier: "GOTO Amsterdam-2018-33",
          meeting: "GOTO Amsterdam",
          edition: "2018",
@@ -5595,7 +5604,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2148,
+          number: 2155,
       identifier: "Core C++-2019-12",
          meeting: "Core C++",
          edition: "2019",
@@ -5615,7 +5624,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2011,
+          number: 2018,
       identifier: "accu-2021-14",
          meeting: "accu",
          edition: "2021",
@@ -5634,7 +5643,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2069,
+          number: 2076,
       identifier: "C++ on sea-2019-14",
          meeting: "C++ on sea",
          edition: "2019",
@@ -5674,7 +5683,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1271,
+          number: 1278,
       identifier: "CppCon-2018-10",
          meeting: "CppCon",
          edition: "2018",
@@ -5694,7 +5703,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 3014,
+          number: 3021,
       identifier: "Oxidize Global-2020-11",
          meeting: "Oxidize Global",
          edition: "2020",
@@ -5714,7 +5723,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1099,
+          number: 1106,
       identifier: "CppCon-2016-38",
          meeting: "CppCon",
          edition: "2016",
@@ -5776,7 +5785,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1823,
+          number: 1830,
       identifier: "accu-2017-2",
          meeting: "accu",
          edition: "2017",
@@ -5796,7 +5805,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2439,
+          number: 2446,
       identifier: "GOTO Amsterdam-2018-17",
          meeting: "GOTO Amsterdam",
          edition: "2018",
@@ -5815,7 +5824,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1105,
+          number: 1112,
       identifier: "CppCon-2016-44",
          meeting: "CppCon",
          edition: "2016",
@@ -5835,7 +5844,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1187,
+          number: 1194,
       identifier: "CppCon-2017-26",
          meeting: "CppCon",
          edition: "2017",
@@ -5855,7 +5864,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1966,
+          number: 1973,
       identifier: "accu-2019-52",
          meeting: "accu",
          edition: "2019",
@@ -5874,7 +5883,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1515,
+          number: 1522,
       identifier: "CppCon-2020-58",
          meeting: "CppCon",
          edition: "2020",
@@ -5934,7 +5943,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1999,
+          number: 2006,
       identifier: "accu-2019-88",
          meeting: "accu",
          edition: "2019",
@@ -5973,7 +5982,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1477,
+          number: 1484,
       identifier: "CppCon-2020-20",
          meeting: "CppCon",
          edition: "2020",
@@ -5993,7 +6002,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 858,
+          number: 865,
       identifier: "Meeting Embedded-2018-9",
          meeting: "Meeting Embedded",
          edition: "2018",
@@ -6013,7 +6022,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2044,
+          number: 2051,
       identifier: "ItCppCon-2020-14",
          meeting: "ItCppCon",
          edition: "2020",
@@ -6033,7 +6042,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2841,
+          number: 2848,
       identifier: "GOTO Oslo-2018-12",
          meeting: "GOTO Oslo",
          edition: "2018",
@@ -6052,7 +6061,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2715,
+          number: 2722,
       identifier: "GOTO Chicago-2020-26",
          meeting: "GOTO Chicago",
          edition: "2020",
@@ -6091,7 +6100,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1880,
+          number: 1887,
       identifier: "accu-2018-10",
          meeting: "accu",
          edition: "2018",
@@ -6110,7 +6119,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2377,
+          number: 2384,
       identifier: "MUC++--44",
          meeting: "MUC++",
          edition: "",
@@ -6150,7 +6159,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2084,
+          number: 2091,
       identifier: "C++ on sea-2020-3",
          meeting: "C++ on sea",
          edition: "2020",
@@ -6170,7 +6179,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1508,
+          number: 1515,
       identifier: "CppCon-2020-51",
          meeting: "CppCon",
          edition: "2020",
@@ -6191,7 +6200,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2082,
+          number: 2089,
       identifier: "C++ on sea-2020-1",
          meeting: "C++ on sea",
          edition: "2020",
@@ -6231,7 +6240,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1317,
+          number: 1324,
       identifier: "CppCon-2018-56",
          meeting: "CppCon",
          edition: "2018",
@@ -6251,7 +6260,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1757,
+          number: 1764,
       identifier: "code::dive-2019-27",
          meeting: "code::dive",
          edition: "2019",
@@ -6270,7 +6279,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1418,
+          number: 1425,
       identifier: "CppCon-2019-61",
          meeting: "CppCon",
          edition: "2019",
@@ -6350,7 +6359,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1380,
+          number: 1387,
       identifier: "CppCon-2019-23",
          meeting: "CppCon",
          edition: "2019",
@@ -6370,7 +6379,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2118,
+          number: 2125,
       identifier: "C++ on sea-2020-46",
          meeting: "C++ on sea",
          edition: "2020",
@@ -6410,7 +6419,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1798,
+          number: 1805,
       identifier: "accu-2016-13",
          meeting: "accu",
          edition: "2016",
@@ -6429,7 +6438,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1239,
+          number: 1246,
       identifier: "CppCon-2017-78",
          meeting: "CppCon",
          edition: "2017",
@@ -6449,7 +6458,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1826,
+          number: 1833,
       identifier: "accu-2017-5",
          meeting: "accu",
          edition: "2017",
@@ -6468,7 +6477,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1654,
+          number: 1661,
       identifier: "code::dive-2017-23",
          meeting: "code::dive",
          edition: "2017",
@@ -6487,7 +6496,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1254,
+          number: 1261,
       identifier: "CppCon-2017-93",
          meeting: "CppCon",
          edition: "2017",
@@ -6507,7 +6516,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1726,
+          number: 1733,
       identifier: "code::dive-2018-56",
          meeting: "code::dive",
          edition: "2018",
@@ -6566,7 +6575,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2866,
+          number: 2873,
       identifier: "GOTOpia-2020-23",
          meeting: "GOTOpia",
          edition: "2020",
@@ -6586,7 +6595,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1413,
+          number: 1420,
       identifier: "CppCon-2019-56",
          meeting: "CppCon",
          edition: "2019",
@@ -6627,7 +6636,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2827,
+          number: 2834,
       identifier: "GOTO Copenhagen-2019-46",
          meeting: "GOTO Copenhagen",
          edition: "2019",
@@ -6767,7 +6776,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2262,
+          number: 2269,
       identifier: "Live Embedded Event-2020-16",
          meeting: "Live Embedded Event",
          edition: "2020",
@@ -6787,7 +6796,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1082,
+          number: 1089,
       identifier: "CppCon-2016-21",
          meeting: "CppCon",
          edition: "2016",
@@ -6807,7 +6816,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1390,
+          number: 1397,
       identifier: "CppCon-2019-33",
          meeting: "CppCon",
          edition: "2019",
@@ -6847,7 +6856,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1383,
+          number: 1390,
       identifier: "CppCon-2019-26",
          meeting: "CppCon",
          edition: "2019",
@@ -6868,7 +6877,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2530,
+          number: 2537,
       identifier: "GOTO Berlin-2018-27",
          meeting: "GOTO Berlin",
          edition: "2018",
@@ -6887,7 +6896,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2671,
+          number: 2678,
       identifier: "GOTO Chicago-2019-40",
          meeting: "GOTO Chicago",
          edition: "2019",
@@ -6906,7 +6915,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 960,
+          number: 967,
       identifier: "CppCon-2014-99",
          meeting: "CppCon",
          edition: "2014",
@@ -6946,7 +6955,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2641,
+          number: 2648,
       identifier: "GOTO Chicago-2019-10",
          meeting: "GOTO Chicago",
          edition: "2019",
@@ -6965,7 +6974,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1385,
+          number: 1392,
       identifier: "CppCon-2019-28",
          meeting: "CppCon",
          edition: "2019",
@@ -6985,7 +6994,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2707,
+          number: 2714,
       identifier: "GOTO Chicago-2020-18",
          meeting: "GOTO Chicago",
          edition: "2020",
@@ -7004,7 +7013,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2651,
+          number: 2658,
       identifier: "GOTO Chicago-2019-20",
          meeting: "GOTO Chicago",
          edition: "2019",
@@ -7023,7 +7032,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2704,
+          number: 2711,
       identifier: "GOTO Chicago-2020-15",
          meeting: "GOTO Chicago",
          edition: "2020",
@@ -7042,7 +7051,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1160,
+          number: 1167,
       identifier: "CppCon-2016-99",
          meeting: "CppCon",
          edition: "2016",
@@ -7062,7 +7071,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1161,
+          number: 1168,
       identifier: "CppCon-2016-100",
          meeting: "CppCon",
          edition: "2016",
@@ -7102,7 +7111,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 977,
+          number: 984,
       identifier: "CppCon-2015-16",
          meeting: "CppCon",
          edition: "2015",
@@ -7142,7 +7151,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1535,
+          number: 1542,
       identifier: "CppCon-2020-78",
          meeting: "CppCon",
          edition: "2020",
@@ -7162,7 +7171,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1533,
+          number: 1540,
       identifier: "CppCon-2020-76",
          meeting: "CppCon",
          edition: "2020",
@@ -7182,7 +7191,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 952,
+          number: 959,
       identifier: "CppCon-2014-91",
          meeting: "CppCon",
          edition: "2014",
@@ -7202,7 +7211,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1213,
+          number: 1220,
       identifier: "CppCon-2017-52",
          meeting: "CppCon",
          edition: "2017",
@@ -7222,7 +7231,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2376,
+          number: 2383,
       identifier: "MUC++--43",
          meeting: "MUC++",
          edition: "",
@@ -7242,7 +7251,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2191,
+          number: 2198,
       identifier: "C++ Europe-2018-5",
          meeting: "C++ Europe",
          edition: "2018",
@@ -7262,7 +7271,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1774,
+          number: 1781,
       identifier: "code::dive-2019-44",
          meeting: "code::dive",
          edition: "2019",
@@ -7281,7 +7290,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1607,
+          number: 1614,
       identifier: "code::dive-2016-18",
          meeting: "code::dive",
          edition: "2016",
@@ -7300,7 +7309,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2894,
+          number: 2901,
       identifier: "GOTOpia-2020-54",
          meeting: "GOTOpia",
          edition: "2020",
@@ -7320,7 +7329,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1747,
+          number: 1754,
       identifier: "code::dive-2019-17",
          meeting: "code::dive",
          edition: "2019",
@@ -7339,7 +7348,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2500,
+          number: 2507,
       identifier: "GOTO Amsterdam-2019-37",
          meeting: "GOTO Amsterdam",
          edition: "2019",
@@ -7358,7 +7367,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2050,
+          number: 2057,
       identifier: "ItCppCon-2021-7",
          meeting: "ItCppCon",
          edition: "2021",
@@ -7379,7 +7388,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1855,
+          number: 1862,
       identifier: "accu-2017-40",
          meeting: "accu",
          edition: "2017",
@@ -7398,7 +7407,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1891,
+          number: 1898,
       identifier: "accu-2018-24",
          meeting: "accu",
          edition: "2018",
@@ -7417,7 +7426,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2618,
+          number: 2625,
       identifier: "GOTO Chicago-2018-29",
          meeting: "GOTO Chicago",
          edition: "2018",
@@ -7436,7 +7445,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1147,
+          number: 1154,
       identifier: "CppCon-2016-86",
          meeting: "CppCon",
          edition: "2016",
@@ -7476,7 +7485,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1453,
+          number: 1460,
       identifier: "CppCon-2019-96",
          meeting: "CppCon",
          edition: "2019",
@@ -7496,7 +7505,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1454,
+          number: 1461,
       identifier: "CppCon-2019-97",
          meeting: "CppCon",
          edition: "2019",
@@ -7516,7 +7525,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2103,
+          number: 2110,
       identifier: "C++ on sea-2020-28",
          meeting: "C++ on sea",
          edition: "2020",
@@ -7636,7 +7645,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2136,
+          number: 2143,
       identifier: "C++ on sea-2021-17",
          meeting: "C++ on sea",
          edition: "2021",
@@ -7676,7 +7685,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2678,
+          number: 2685,
       identifier: "GOTO Chicago-2019-47",
          meeting: "GOTO Chicago",
          edition: "2019",
@@ -7695,7 +7704,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1992,
+          number: 1999,
       identifier: "accu-2019-81",
          meeting: "accu",
          edition: "2019",
@@ -7734,7 +7743,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2364,
+          number: 2371,
       identifier: "MUC++--31",
          meeting: "MUC++",
          edition: "",
@@ -7754,7 +7763,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1179,
+          number: 1186,
       identifier: "CppCon-2017-18",
          meeting: "CppCon",
          edition: "2017",
@@ -7794,7 +7803,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2558,
+          number: 2565,
       identifier: "GOTO Berlin-2019-8",
          meeting: "GOTO Berlin",
          edition: "2019",
@@ -7813,7 +7822,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2976,
+          number: 2983,
       identifier: "RustFest-2019-7",
          meeting: "RustFest",
          edition: "2019",
@@ -7834,7 +7843,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1932,
+          number: 1939,
       identifier: "accu-2019-7",
          meeting: "accu",
          edition: "2019",
@@ -7853,7 +7862,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1776,
+          number: 1783,
       identifier: "code::dive-2019-46",
          meeting: "code::dive",
          edition: "2019",
@@ -7912,7 +7921,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1328,
+          number: 1335,
       identifier: "CppCon-2018-67",
          meeting: "CppCon",
          edition: "2018",
@@ -7932,7 +7941,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1186,
+          number: 1193,
       identifier: "CppCon-2017-25",
          meeting: "CppCon",
          edition: "2017",
@@ -7972,7 +7981,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1625,
+          number: 1632,
       identifier: "code::dive-2016-36",
          meeting: "code::dive",
          edition: "2016",
@@ -7991,7 +8000,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2395,
+          number: 2402,
       identifier: "MUC++--67",
          meeting: "MUC++",
          edition: "",
@@ -8031,7 +8040,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2339,
+          number: 2346,
       identifier: "MUC++--6",
          meeting: "MUC++",
          edition: "",
@@ -8071,7 +8080,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2876,
+          number: 2883,
       identifier: "GOTOpia-2020-33",
          meeting: "GOTOpia",
          edition: "2020",
@@ -8110,7 +8119,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2571,
+          number: 2578,
       identifier: "GOTO Berlin-2019-21",
          meeting: "GOTO Berlin",
          edition: "2019",
@@ -8169,7 +8178,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1644,
+          number: 1651,
       identifier: "code::dive-2017-13",
          meeting: "code::dive",
          edition: "2017",
@@ -8208,7 +8217,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2543,
+          number: 2550,
       identifier: "GOTO Berlin-2018-40",
          meeting: "GOTO Berlin",
          edition: "2018",
@@ -8227,7 +8236,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2519,
+          number: 2526,
       identifier: "GOTO Berlin-2018-16",
          meeting: "GOTO Berlin",
          edition: "2018",
@@ -8266,7 +8275,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2098,
+          number: 2105,
       identifier: "C++ on sea-2020-20",
          meeting: "C++ on sea",
          edition: "2020",
@@ -8286,7 +8295,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2838,
+          number: 2845,
       identifier: "GOTO Oslo-2018-9",
          meeting: "GOTO Oslo",
          edition: "2018",
@@ -8305,7 +8314,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1833,
+          number: 1840,
       identifier: "accu-2017-15",
          meeting: "accu",
          edition: "2017",
@@ -8324,7 +8333,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2472,
+          number: 2479,
       identifier: "GOTO Amsterdam-2019-9",
          meeting: "GOTO Amsterdam",
          edition: "2019",
@@ -8343,7 +8352,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2226,
+          number: 2233,
       identifier: "Pacific C++-2017-2",
          meeting: "Pacific C++",
          edition: "2017",
@@ -8363,7 +8372,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 955,
+          number: 962,
       identifier: "CppCon-2014-94",
          meeting: "CppCon",
          edition: "2014",
@@ -8383,7 +8392,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 954,
+          number: 961,
       identifier: "CppCon-2014-93",
          meeting: "CppCon",
          edition: "2014",
@@ -8403,7 +8412,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1837,
+          number: 1844,
       identifier: "accu-2017-19",
          meeting: "accu",
          edition: "2017",
@@ -8422,7 +8431,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1374,
+          number: 1381,
       identifier: "CppCon-2019-17",
          meeting: "CppCon",
          edition: "2019",
@@ -8442,7 +8451,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 3012,
+          number: 3019,
       identifier: "Oxidize Global-2020-9",
          meeting: "Oxidize Global",
          edition: "2020",
@@ -8463,7 +8472,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2281,
+          number: 2288,
       identifier: "Live Embedded Event-2020-35",
          meeting: "Live Embedded Event",
          edition: "2020",
@@ -8483,7 +8492,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2272,
+          number: 2279,
       identifier: "Live Embedded Event-2020-26",
          meeting: "Live Embedded Event",
          edition: "2020",
@@ -8523,7 +8532,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1038,
+          number: 1045,
       identifier: "CppCon-2015-77",
          meeting: "CppCon",
          edition: "2015",
@@ -8543,7 +8552,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 3004,
+          number: 3011,
       identifier: "Oxidize Global-2020-1",
          meeting: "Oxidize Global",
          edition: "2020",
@@ -8564,7 +8573,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1787,
+          number: 1794,
       identifier: "code::dive-2020-12",
          meeting: "code::dive",
          edition: "2020",
@@ -8583,7 +8592,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2623,
+          number: 2630,
       identifier: "GOTO Chicago-2018-34",
          meeting: "GOTO Chicago",
          edition: "2018",
@@ -8602,7 +8611,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 886,
+          number: 893,
       identifier: "CppCon-2014-25",
          meeting: "CppCon",
          edition: "2014",
@@ -8622,7 +8631,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2392,
+          number: 2399,
       identifier: "MUC++--62",
          meeting: "MUC++",
          edition: "",
@@ -8642,7 +8651,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2393,
+          number: 2400,
       identifier: "MUC++--63",
          meeting: "MUC++",
          edition: "",
@@ -8662,7 +8671,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1951,
+          number: 1958,
       identifier: "accu-2019-30",
          meeting: "accu",
          edition: "2019",
@@ -8701,7 +8710,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 939,
+          number: 946,
       identifier: "CppCon-2014-78",
          meeting: "CppCon",
          edition: "2014",
@@ -8781,7 +8790,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1228,
+          number: 1235,
       identifier: "CppCon-2017-67",
          meeting: "CppCon",
          edition: "2017",
@@ -8801,7 +8810,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2728,
+          number: 2735,
       identifier: "GOTO Chicago-2020-39",
          meeting: "GOTO Chicago",
          edition: "2020",
@@ -8820,7 +8829,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2435,
+          number: 2442,
       identifier: "GOTO Amsterdam-2018-13",
          meeting: "GOTO Amsterdam",
          edition: "2018",
@@ -8859,7 +8868,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1360,
+          number: 1367,
       identifier: "CppCon-2019-3",
          meeting: "CppCon",
          edition: "2019",
@@ -8879,7 +8888,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1046,
+          number: 1053,
       identifier: "CppCon-2015-85",
          meeting: "CppCon",
          edition: "2015",
@@ -8899,7 +8908,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2879,
+          number: 2886,
       identifier: "GOTOpia-2020-39",
          meeting: "GOTOpia",
          edition: "2020",
@@ -8918,7 +8927,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2648,
+          number: 2655,
       identifier: "GOTO Chicago-2019-17",
          meeting: "GOTO Chicago",
          edition: "2019",
@@ -8937,7 +8946,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2987,
+          number: 2994,
       identifier: "RustFest-2020-7",
          meeting: "RustFest",
          edition: "2020",
@@ -8958,7 +8967,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1653,
+          number: 1660,
       identifier: "code::dive-2017-22",
          meeting: "code::dive",
          edition: "2017",
@@ -8997,7 +9006,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2867,
+          number: 2874,
       identifier: "GOTOpia-2020-24",
          meeting: "GOTOpia",
          edition: "2020",
@@ -9016,7 +9025,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2870,
+          number: 2877,
       identifier: "GOTOpia-2020-27",
          meeting: "GOTOpia",
          edition: "2020",
@@ -9035,7 +9044,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1690,
+          number: 1697,
       identifier: "code::dive-2018-20",
          meeting: "code::dive",
          edition: "2018",
@@ -9074,7 +9083,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2868,
+          number: 2875,
       identifier: "GOTOpia-2020-25",
          meeting: "GOTOpia",
          edition: "2020",
@@ -9093,7 +9102,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2873,
+          number: 2880,
       identifier: "GOTOpia-2020-30",
          meeting: "GOTOpia",
          edition: "2020",
@@ -9132,7 +9141,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2178,
+          number: 2185,
       identifier: "Core C++-2021-14",
          meeting: "Core C++",
          edition: "2021",
@@ -9152,7 +9161,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2144,
+          number: 2151,
       identifier: "Core C++-2019-8",
          meeting: "Core C++",
          edition: "2019",
@@ -9193,7 +9202,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2537,
+          number: 2544,
       identifier: "GOTO Berlin-2018-34",
          meeting: "GOTO Berlin",
          edition: "2018",
@@ -9212,7 +9221,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1627,
+          number: 1634,
       identifier: "code::dive-2016-38",
          meeting: "code::dive",
          edition: "2016",
@@ -9231,7 +9240,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2416,
+          number: 2423,
       identifier: "Going Native-2012-12",
          meeting: "Going Native",
          edition: "2012",
@@ -9251,7 +9260,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2278,
+          number: 2285,
       identifier: "Live Embedded Event-2020-32",
          meeting: "Live Embedded Event",
          edition: "2020",
@@ -9271,7 +9280,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 892,
+          number: 899,
       identifier: "CppCon-2014-31",
          meeting: "CppCon",
          edition: "2014",
@@ -9311,7 +9320,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1973,
+          number: 1980,
       identifier: "accu-2019-59",
          meeting: "accu",
          edition: "2019",
@@ -9350,7 +9359,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 870,
+          number: 877,
       identifier: "CppCon-2014-9",
          meeting: "CppCon",
          edition: "2014",
@@ -9370,7 +9379,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1779,
+          number: 1786,
       identifier: "code::dive-2020-4",
          meeting: "code::dive",
          edition: "2020",
@@ -9389,7 +9398,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2977,
+          number: 2984,
       identifier: "RustFest-2019-8",
          meeting: "RustFest",
          edition: "2019",
@@ -9429,7 +9438,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 947,
+          number: 954,
       identifier: "CppCon-2014-86",
          meeting: "CppCon",
          edition: "2014",
@@ -9469,7 +9478,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1139,
+          number: 1146,
       identifier: "CppCon-2016-78",
          meeting: "CppCon",
          edition: "2016",
@@ -9489,7 +9498,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1432,
+          number: 1439,
       identifier: "CppCon-2019-75",
          meeting: "CppCon",
          edition: "2019",
@@ -9529,7 +9538,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2319,
+          number: 2326,
       identifier: "corehard-2018-1",
          meeting: "corehard",
          edition: "2018",
@@ -9549,7 +9558,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1618,
+          number: 1625,
       identifier: "code::dive-2016-29",
          meeting: "code::dive",
          edition: "2016",
@@ -9588,7 +9597,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1742,
+          number: 1749,
       identifier: "code::dive-2019-12",
          meeting: "code::dive",
          edition: "2019",
@@ -9607,7 +9616,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1828,
+          number: 1835,
       identifier: "accu-2017-7",
          meeting: "accu",
          edition: "2017",
@@ -9626,7 +9635,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1428,
+          number: 1435,
       identifier: "CppCon-2019-71",
          meeting: "CppCon",
          edition: "2019",
@@ -9646,7 +9655,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1429,
+          number: 1436,
       identifier: "CppCon-2019-72",
          meeting: "CppCon",
          edition: "2019",
@@ -9666,7 +9675,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2603,
+          number: 2610,
       identifier: "GOTO Chicago-2018-14",
          meeting: "GOTO Chicago",
          edition: "2018",
@@ -9685,7 +9694,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2489,
+          number: 2496,
       identifier: "GOTO Amsterdam-2019-26",
          meeting: "GOTO Amsterdam",
          edition: "2019",
@@ -9724,7 +9733,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1945,
+          number: 1952,
       identifier: "accu-2019-24",
          meeting: "accu",
          edition: "2019",
@@ -9744,7 +9753,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1715,
+          number: 1722,
       identifier: "code::dive-2018-45",
          meeting: "code::dive",
          edition: "2018",
@@ -9763,7 +9772,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2769,
+          number: 2776,
       identifier: "GOTO Copenhagen-2018-30",
          meeting: "GOTO Copenhagen",
          edition: "2018",
@@ -9782,7 +9791,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1641,
+          number: 1648,
       identifier: "code::dive-2017-10",
          meeting: "code::dive",
          edition: "2017",
@@ -9802,7 +9811,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2775,
+          number: 2782,
       identifier: "GOTO Copenhagen-2018-36",
          meeting: "GOTO Copenhagen",
          edition: "2018",
@@ -9821,7 +9830,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1856,
+          number: 1863,
       identifier: "accu-2017-41",
          meeting: "accu",
          edition: "2017",
@@ -9882,7 +9891,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2851,
+          number: 2858,
       identifier: "GOTOpia-2020-8",
          meeting: "GOTOpia",
          edition: "2020",
@@ -9901,7 +9910,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1282,
+          number: 1289,
       identifier: "CppCon-2018-21",
          meeting: "CppCon",
          edition: "2018",
@@ -9941,7 +9950,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 865,
+          number: 872,
       identifier: "CppCon-2014-4",
          meeting: "CppCon",
          edition: "2014",
@@ -10001,7 +10010,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2821,
+          number: 2828,
       identifier: "GOTO Copenhagen-2019-40",
          meeting: "GOTO Copenhagen",
          edition: "2019",
@@ -10020,7 +10029,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2254,
+          number: 2261,
       identifier: "Live Embedded Event-2020-8",
          meeting: "Live Embedded Event",
          edition: "2020",
@@ -10040,7 +10049,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1487,
+          number: 1494,
       identifier: "CppCon-2020-30",
          meeting: "CppCon",
          edition: "2020",
@@ -10060,7 +10069,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1463,
+          number: 1470,
       identifier: "CppCon-2020-6",
          meeting: "CppCon",
          edition: "2020",
@@ -10080,7 +10089,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1523,
+          number: 1530,
       identifier: "CppCon-2020-66",
          meeting: "CppCon",
          edition: "2020",
@@ -10100,7 +10109,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1379,
+          number: 1386,
       identifier: "CppCon-2019-22",
          meeting: "CppCon",
          edition: "2019",
@@ -10120,7 +10129,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1503,
+          number: 1510,
       identifier: "CppCon-2020-46",
          meeting: "CppCon",
          edition: "2020",
@@ -10140,7 +10149,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1440,
+          number: 1447,
       identifier: "CppCon-2019-83",
          meeting: "CppCon",
          edition: "2019",
@@ -10160,7 +10169,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1521,
+          number: 1528,
       identifier: "CppCon-2020-64",
          meeting: "CppCon",
          edition: "2020",
@@ -10180,7 +10189,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1488,
+          number: 1495,
       identifier: "CppCon-2020-31",
          meeting: "CppCon",
          edition: "2020",
@@ -10201,7 +10210,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1441,
+          number: 1448,
       identifier: "CppCon-2019-84",
          meeting: "CppCon",
          edition: "2019",
@@ -10221,7 +10230,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1505,
+          number: 1512,
       identifier: "CppCon-2020-48",
          meeting: "CppCon",
          edition: "2020",
@@ -10241,7 +10250,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1375,
+          number: 1382,
       identifier: "CppCon-2019-18",
          meeting: "CppCon",
          edition: "2019",
@@ -10261,7 +10270,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1376,
+          number: 1383,
       identifier: "CppCon-2019-19",
          meeting: "CppCon",
          edition: "2019",
@@ -10281,7 +10290,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1478,
+          number: 1485,
       identifier: "CppCon-2020-21",
          meeting: "CppCon",
          edition: "2020",
@@ -10301,7 +10310,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1434,
+          number: 1441,
       identifier: "CppCon-2019-77",
          meeting: "CppCon",
          edition: "2019",
@@ -10321,7 +10330,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1507,
+          number: 1514,
       identifier: "CppCon-2020-50",
          meeting: "CppCon",
          edition: "2020",
@@ -10341,7 +10350,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1472,
+          number: 1479,
       identifier: "CppCon-2020-15",
          meeting: "CppCon",
          edition: "2020",
@@ -10361,7 +10370,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1474,
+          number: 1481,
       identifier: "CppCon-2020-17",
          meeting: "CppCon",
          edition: "2020",
@@ -10381,7 +10390,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1381,
+          number: 1388,
       identifier: "CppCon-2019-24",
          meeting: "CppCon",
          edition: "2019",
@@ -10401,7 +10410,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1458,
+          number: 1465,
       identifier: "CppCon-2020-1",
          meeting: "CppCon",
          edition: "2020",
@@ -10421,7 +10430,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1459,
+          number: 1466,
       identifier: "CppCon-2020-2",
          meeting: "CppCon",
          edition: "2020",
@@ -10441,7 +10450,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1393,
+          number: 1400,
       identifier: "CppCon-2019-36",
          meeting: "CppCon",
          edition: "2019",
@@ -10461,7 +10470,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1493,
+          number: 1500,
       identifier: "CppCon-2020-36",
          meeting: "CppCon",
          edition: "2020",
@@ -10481,7 +10490,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1367,
+          number: 1374,
       identifier: "CppCon-2019-10",
          meeting: "CppCon",
          edition: "2019",
@@ -10523,7 +10532,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2239,
+          number: 2246,
       identifier: "Pacific C++-2018-5",
          meeting: "Pacific C++",
          edition: "2018",
@@ -10543,7 +10552,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2886,
+          number: 2893,
       identifier: "GOTOpia-2020-46",
          meeting: "GOTOpia",
          edition: "2020",
@@ -10562,7 +10571,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2615,
+          number: 2622,
       identifier: "GOTO Chicago-2018-26",
          meeting: "GOTO Chicago",
          edition: "2018",
@@ -10581,7 +10590,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1729,
+          number: 1736,
       identifier: "code::dive-2018-59",
          meeting: "code::dive",
          edition: "2018",
@@ -10600,7 +10609,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2719,
+          number: 2726,
       identifier: "GOTO Chicago-2020-30",
          meeting: "GOTO Chicago",
          edition: "2020",
@@ -10619,7 +10628,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2568,
+          number: 2575,
       identifier: "GOTO Berlin-2019-18",
          meeting: "GOTO Berlin",
          edition: "2019",
@@ -10638,7 +10647,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2056,
+          number: 2063,
       identifier: "ItCppCon-2021-13",
          meeting: "ItCppCon",
          edition: "2021",
@@ -10658,7 +10667,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1107,
+          number: 1114,
       identifier: "CppCon-2016-46",
          meeting: "CppCon",
          edition: "2016",
@@ -10678,7 +10687,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1929,
+          number: 1936,
       identifier: "accu-2019-4",
          meeting: "accu",
          edition: "2019",
@@ -10698,7 +10707,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1546,
+          number: 1553,
       identifier: "CppCon-2020-89",
          meeting: "CppCon",
          edition: "2020",
@@ -10718,7 +10727,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1811,
+          number: 1818,
       identifier: "accu-2016-29",
          meeting: "accu",
          edition: "2016",
@@ -10737,7 +10746,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2565,
+          number: 2572,
       identifier: "GOTO Berlin-2019-15",
          meeting: "GOTO Berlin",
          edition: "2019",
@@ -10756,7 +10765,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2196,
+          number: 2203,
       identifier: "C++ Europe-2019-3",
          meeting: "C++ Europe",
          edition: "2019",
@@ -10776,7 +10785,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2163,
+          number: 2170,
       identifier: "Core C++-2019-47",
          meeting: "Core C++",
          edition: "2019",
@@ -10796,7 +10805,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1365,
+          number: 1372,
       identifier: "CppCon-2019-8",
          meeting: "CppCon",
          edition: "2019",
@@ -10816,7 +10825,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2125,
+          number: 2132,
       identifier: "C++ on sea-2021-6",
          meeting: "C++ on sea",
          edition: "2021",
@@ -10836,7 +10845,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2240,
+          number: 2247,
       identifier: "Pacific C++-2018-6",
          meeting: "Pacific C++",
          edition: "2018",
@@ -10856,7 +10865,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1039,
+          number: 1046,
       identifier: "CppCon-2015-78",
          meeting: "CppCon",
          edition: "2015",
@@ -10916,7 +10925,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1806,
+          number: 1813,
       identifier: "accu-2016-24",
          meeting: "accu",
          edition: "2016",
@@ -10936,7 +10945,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2951,
+          number: 2958,
       identifier: "RustConf-2020-5",
          meeting: "RustConf",
          edition: "2020",
@@ -10976,7 +10985,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1995,
+          number: 2002,
       identifier: "accu-2019-84",
          meeting: "accu",
          edition: "2019",
@@ -11015,7 +11024,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1771,
+          number: 1778,
       identifier: "code::dive-2019-41",
          meeting: "code::dive",
          edition: "2019",
@@ -11054,7 +11063,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1350,
+          number: 1357,
       identifier: "CppCon-2018-93",
          meeting: "CppCon",
          edition: "2018",
@@ -11115,7 +11124,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1592,
+          number: 1599,
       identifier: "code::dive-2016-3",
          meeting: "code::dive",
          edition: "2016",
@@ -11134,7 +11143,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1402,
+          number: 1409,
       identifier: "CppCon-2019-45",
          meeting: "CppCon",
          edition: "2019",
@@ -11174,7 +11183,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1598,
+          number: 1605,
       identifier: "code::dive-2016-9",
          meeting: "code::dive",
          edition: "2016",
@@ -11193,7 +11202,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 964,
+          number: 971,
       identifier: "CppCon-2015-3",
          meeting: "CppCon",
          edition: "2015",
@@ -11213,7 +11222,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1361,
+          number: 1368,
       identifier: "CppCon-2019-4",
          meeting: "CppCon",
          edition: "2019",
@@ -11253,7 +11262,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1950,
+          number: 1957,
       identifier: "accu-2019-29",
          meeting: "accu",
          edition: "2019",
@@ -11273,7 +11282,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1084,
+          number: 1091,
       identifier: "CppCon-2016-23",
          meeting: "CppCon",
          edition: "2016",
@@ -11293,7 +11302,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2683,
+          number: 2690,
       identifier: "GOTO Chicago-2019-52",
          meeting: "GOTO Chicago",
          edition: "2019",
@@ -11312,7 +11321,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1323,
+          number: 1330,
       identifier: "CppCon-2018-62",
          meeting: "CppCon",
          edition: "2018",
@@ -11352,7 +11361,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2324,
+          number: 2331,
       identifier: "corehard-2018-6",
          meeting: "corehard",
          edition: "2018",
@@ -11372,7 +11381,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2778,
+          number: 2785,
       identifier: "GOTO Copenhagen-2018-39",
          meeting: "GOTO Copenhagen",
          edition: "2018",
@@ -11431,7 +11440,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2691,
+          number: 2698,
       identifier: "GOTO Chicago-2020-2",
          meeting: "GOTO Chicago",
          edition: "2020",
@@ -11450,7 +11459,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 975,
+          number: 982,
       identifier: "CppCon-2015-14",
          meeting: "CppCon",
          edition: "2015",
@@ -11470,7 +11479,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2124,
+          number: 2131,
       identifier: "C++ on sea-2021-5",
          meeting: "C++ on sea",
          edition: "2021",
@@ -11490,7 +11499,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1093,
+          number: 1100,
       identifier: "CppCon-2016-32",
          meeting: "CppCon",
          edition: "2016",
@@ -11510,7 +11519,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1578,
+          number: 1585,
       identifier: "code::dive-2015-8",
          meeting: "code::dive",
          edition: "2015",
@@ -11589,7 +11598,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1060,
+          number: 1067,
       identifier: "CppCon-2015-99",
          meeting: "CppCon",
          edition: "2015",
@@ -11610,7 +11619,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2135,
+          number: 2142,
       identifier: "C++ on sea-2021-16",
          meeting: "C++ on sea",
          edition: "2021",
@@ -11630,7 +11639,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2357,
+          number: 2364,
       identifier: "MUC++--24",
          meeting: "MUC++",
          edition: "",
@@ -11650,7 +11659,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1744,
+          number: 1751,
       identifier: "code::dive-2019-14",
          meeting: "code::dive",
          edition: "2019",
@@ -11669,7 +11678,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2457,
+          number: 2464,
       identifier: "GOTO Amsterdam-2018-35",
          meeting: "GOTO Amsterdam",
          edition: "2018",
@@ -11688,7 +11697,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1825,
+          number: 1832,
       identifier: "accu-2017-4",
          meeting: "accu",
          edition: "2017",
@@ -11727,7 +11736,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1023,
+          number: 1030,
       identifier: "CppCon-2015-62",
          meeting: "CppCon",
          edition: "2015",
@@ -11747,7 +11756,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2516,
+          number: 2523,
       identifier: "GOTO Berlin-2018-13",
          meeting: "GOTO Berlin",
          edition: "2018",
@@ -11766,7 +11775,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1230,
+          number: 1237,
       identifier: "CppCon-2017-69",
          meeting: "CppCon",
          edition: "2017",
@@ -11786,7 +11795,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 930,
+          number: 937,
       identifier: "CppCon-2014-69",
          meeting: "CppCon",
          edition: "2014",
@@ -11806,7 +11815,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 929,
+          number: 936,
       identifier: "CppCon-2014-68",
          meeting: "CppCon",
          edition: "2014",
@@ -11948,7 +11957,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2194,
+          number: 2201,
       identifier: "C++ Europe-2019-1",
          meeting: "C++ Europe",
          edition: "2019",
@@ -12049,7 +12058,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2001,
+          number: 2008,
       identifier: "accu-2021-1",
          meeting: "accu",
          edition: "2021",
@@ -12068,7 +12077,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2059,
+          number: 2066,
       identifier: "C++ on sea-2019-1",
          meeting: "C++ on sea",
          edition: "2019",
@@ -12128,7 +12137,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1672,
+          number: 1679,
       identifier: "code::dive-2018-2",
          meeting: "code::dive",
          edition: "2018",
@@ -12147,7 +12156,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1673,
+          number: 1680,
       identifier: "code::dive-2018-3",
          meeting: "code::dive",
          edition: "2018",
@@ -12206,7 +12215,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 874,
+          number: 881,
       identifier: "CppCon-2014-13",
          meeting: "CppCon",
          edition: "2014",
@@ -12246,7 +12255,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1031,
+          number: 1038,
       identifier: "CppCon-2015-70",
          meeting: "CppCon",
          edition: "2015",
@@ -12266,7 +12275,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1694,
+          number: 1701,
       identifier: "code::dive-2018-24",
          meeting: "code::dive",
          edition: "2018",
@@ -12325,7 +12334,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2718,
+          number: 2725,
       identifier: "GOTO Chicago-2020-29",
          meeting: "GOTO Chicago",
          edition: "2020",
@@ -12344,7 +12353,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1998,
+          number: 2005,
       identifier: "accu-2019-87",
          meeting: "accu",
          edition: "2019",
@@ -12403,7 +12412,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2583,
+          number: 2590,
       identifier: "GOTO Berlin-2019-33",
          meeting: "GOTO Berlin",
          edition: "2019",
@@ -12422,7 +12431,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1468,
+          number: 1475,
       identifier: "CppCon-2020-11",
          meeting: "CppCon",
          edition: "2020",
@@ -12442,7 +12451,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2590,
+          number: 2597,
       identifier: "GOTO Berlin-2019-40",
          meeting: "GOTO Berlin",
          edition: "2019",
@@ -12461,7 +12470,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2447,
+          number: 2454,
       identifier: "GOTO Amsterdam-2018-25",
          meeting: "GOTO Amsterdam",
          edition: "2018",
@@ -12480,7 +12489,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1044,
+          number: 1051,
       identifier: "CppCon-2015-83",
          meeting: "CppCon",
          edition: "2015",
@@ -12501,7 +12510,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2573,
+          number: 2580,
       identifier: "GOTO Berlin-2019-23",
          meeting: "GOTO Berlin",
          edition: "2019",
@@ -12520,7 +12529,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1702,
+          number: 1709,
       identifier: "code::dive-2018-32",
          meeting: "code::dive",
          edition: "2018",
@@ -12540,7 +12549,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1128,
+          number: 1135,
       identifier: "CppCon-2016-67",
          meeting: "CppCon",
          edition: "2016",
@@ -12580,7 +12589,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1227,
+          number: 1234,
       identifier: "CppCon-2017-66",
          meeting: "CppCon",
          edition: "2017",
@@ -12620,7 +12629,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2751,
+          number: 2758,
       identifier: "GOTO Copenhagen-2018-12",
          meeting: "GOTO Copenhagen",
          edition: "2018",
@@ -12639,7 +12648,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2937,
+          number: 2944,
       identifier: "RustConf-2019-7",
          meeting: "RustConf",
          edition: "2019",
@@ -12700,7 +12709,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2532,
+          number: 2539,
       identifier: "GOTO Berlin-2018-29",
          meeting: "GOTO Berlin",
          edition: "2018",
@@ -12719,7 +12728,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2536,
+          number: 2543,
       identifier: "GOTO Berlin-2018-33",
          meeting: "GOTO Berlin",
          edition: "2018",
@@ -12738,7 +12747,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2897,
+          number: 2904,
       identifier: "GOTOpia-2020-57",
          meeting: "GOTOpia",
          edition: "2020",
@@ -12757,7 +12766,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1555,
+          number: 1562,
       identifier: "CppCon-2020-98",
          meeting: "CppCon",
          edition: "2020",
@@ -12777,7 +12786,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1543,
+          number: 1550,
       identifier: "CppCon-2020-86",
          meeting: "CppCon",
          edition: "2020",
@@ -12797,7 +12806,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1754,
+          number: 1761,
       identifier: "code::dive-2019-24",
          meeting: "code::dive",
          edition: "2019",
@@ -12816,7 +12825,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2989,
+          number: 2996,
       identifier: "RustFest-2020-10",
          meeting: "RustFest",
          edition: "2020",
@@ -12836,7 +12845,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2443,
+          number: 2450,
       identifier: "GOTO Amsterdam-2018-21",
          meeting: "GOTO Amsterdam",
          edition: "2018",
@@ -12855,7 +12864,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2803,
+          number: 2810,
       identifier: "GOTO Copenhagen-2019-22",
          meeting: "GOTO Copenhagen",
          edition: "2019",
@@ -12874,7 +12883,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2805,
+          number: 2812,
       identifier: "GOTO Copenhagen-2019-24",
          meeting: "GOTO Copenhagen",
          edition: "2019",
@@ -12913,7 +12922,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1491,
+          number: 1498,
       identifier: "CppCon-2020-34",
          meeting: "CppCon",
          edition: "2020",
@@ -12933,7 +12942,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2755,
+          number: 2762,
       identifier: "GOTO Copenhagen-2018-16",
          meeting: "GOTO Copenhagen",
          edition: "2018",
@@ -12952,7 +12961,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1881,
+          number: 1888,
       identifier: "accu-2018-14",
          meeting: "accu",
          edition: "2018",
@@ -12971,7 +12980,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2896,
+          number: 2903,
       identifier: "GOTOpia-2020-56",
          meeting: "GOTOpia",
          edition: "2020",
@@ -12990,7 +12999,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2736,
+          number: 2743,
       identifier: "GOTO Chicago-2020-47",
          meeting: "GOTO Chicago",
          edition: "2020",
@@ -13029,7 +13038,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1484,
+          number: 1491,
       identifier: "CppCon-2020-27",
          meeting: "CppCon",
          edition: "2020",
@@ -13049,7 +13058,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1143,
+          number: 1150,
       identifier: "CppCon-2016-82",
          meeting: "CppCon",
          edition: "2016",
@@ -13069,7 +13078,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1189,
+          number: 1196,
       identifier: "CppCon-2017-28",
          meeting: "CppCon",
          edition: "2017",
@@ -13089,7 +13098,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1238,
+          number: 1245,
       identifier: "CppCon-2017-77",
          meeting: "CppCon",
          edition: "2017",
@@ -13109,7 +13118,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1748,
+          number: 1755,
       identifier: "code::dive-2019-18",
          meeting: "code::dive",
          edition: "2019",
@@ -13128,7 +13137,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2605,
+          number: 2612,
       identifier: "GOTO Chicago-2018-16",
          meeting: "GOTO Chicago",
          edition: "2018",
@@ -13147,7 +13156,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2164,
+          number: 2171,
       identifier: "Core C++-2019-48",
          meeting: "Core C++",
          edition: "2019",
@@ -13167,7 +13176,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2486,
+          number: 2493,
       identifier: "GOTO Amsterdam-2019-23",
          meeting: "GOTO Amsterdam",
          edition: "2019",
@@ -13206,7 +13215,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1244,
+          number: 1251,
       identifier: "CppCon-2017-83",
          meeting: "CppCon",
          edition: "2017",
@@ -13226,7 +13235,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2813,
+          number: 2820,
       identifier: "GOTO Copenhagen-2019-32",
          meeting: "GOTO Copenhagen",
          edition: "2019",
@@ -13245,7 +13254,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2261,
+          number: 2268,
       identifier: "Live Embedded Event-2020-15",
          meeting: "Live Embedded Event",
          edition: "2020",
@@ -13265,7 +13274,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2551,
+          number: 2558,
       identifier: "GOTO Berlin-2018-48",
          meeting: "GOTO Berlin",
          edition: "2018",
@@ -13284,7 +13293,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1665,
+          number: 1672,
       identifier: "code::dive-2017-34",
          meeting: "code::dive",
          edition: "2017",
@@ -13304,7 +13313,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1921,
+          number: 1928,
       identifier: "accu-2018-60",
          meeting: "accu",
          edition: "2018",
@@ -13323,7 +13332,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1426,
+          number: 1433,
       identifier: "CppCon-2019-69",
          meeting: "CppCon",
          edition: "2019",
@@ -13343,7 +13352,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2458,
+          number: 2465,
       identifier: "GOTO Amsterdam-2018-36",
          meeting: "GOTO Amsterdam",
          edition: "2018",
@@ -13362,7 +13371,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2555,
+          number: 2562,
       identifier: "GOTO Berlin-2019-5",
          meeting: "GOTO Berlin",
          edition: "2019",
@@ -13381,7 +13390,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2253,
+          number: 2260,
       identifier: "Live Embedded Event-2020-7",
          meeting: "Live Embedded Event",
          edition: "2020",
@@ -13401,7 +13410,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2570,
+          number: 2577,
       identifier: "GOTO Berlin-2019-20",
          meeting: "GOTO Berlin",
          edition: "2019",
@@ -13420,7 +13429,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1141,
+          number: 1148,
       identifier: "CppCon-2016-80",
          meeting: "CppCon",
          edition: "2016",
@@ -13460,7 +13469,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2593,
+          number: 2600,
       identifier: "GOTO Chicago-2018-4",
          meeting: "GOTO Chicago",
          edition: "2018",
@@ -13480,7 +13489,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2175,
+          number: 2182,
       identifier: "Core C++-2021-11",
          meeting: "Core C++",
          edition: "2021",
@@ -13520,7 +13529,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1676,
+          number: 1683,
       identifier: "code::dive-2018-6",
          meeting: "code::dive",
          edition: "2018",
@@ -13540,7 +13549,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1255,
+          number: 1262,
       identifier: "CppCon-2017-94",
          meeting: "CppCon",
          edition: "2017",
@@ -13560,7 +13569,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1904,
+          number: 1911,
       identifier: "accu-2018-40",
          meeting: "accu",
          edition: "2018",
@@ -13580,7 +13589,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1163,
+          number: 1170,
       identifier: "CppCon-2017-2",
          meeting: "CppCon",
          edition: "2017",
@@ -13600,7 +13609,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1751,
+          number: 1758,
       identifier: "code::dive-2019-21",
          meeting: "code::dive",
          edition: "2019",
@@ -13620,7 +13629,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2411,
+          number: 2418,
       identifier: "Going Native-2012-7",
          meeting: "Going Native",
          edition: "2012",
@@ -13640,7 +13649,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1192,
+          number: 1199,
       identifier: "CppCon-2017-31",
          meeting: "CppCon",
          edition: "2017",
@@ -13660,7 +13669,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1005,
+          number: 1012,
       identifier: "CppCon-2015-44",
          meeting: "CppCon",
          edition: "2015",
@@ -13680,7 +13689,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1657,
+          number: 1664,
       identifier: "code::dive-2017-26",
          meeting: "code::dive",
          edition: "2017",
@@ -13700,7 +13709,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2354,
+          number: 2361,
       identifier: "MUC++--21",
          meeting: "MUC++",
          edition: "",
@@ -13720,7 +13729,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2023,
+          number: 2030,
       identifier: "accu-2021-41",
          meeting: "accu",
          edition: "2021",
@@ -13740,7 +13749,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2081,
+          number: 2088,
       identifier: "C++ on sea-2019-30",
          meeting: "C++ on sea",
          edition: "2019",
@@ -13780,7 +13789,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1732,
+          number: 1739,
       identifier: "code::dive-2019-2",
          meeting: "code::dive",
          edition: "2019",
@@ -13800,7 +13809,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1517,
+          number: 1524,
       identifier: "CppCon-2020-60",
          meeting: "CppCon",
          edition: "2020",
@@ -13820,7 +13829,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1531,
+          number: 1538,
       identifier: "CppCon-2020-74",
          meeting: "CppCon",
          edition: "2020",
@@ -13840,7 +13849,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1547,
+          number: 1554,
       identifier: "CppCon-2020-90",
          meeting: "CppCon",
          edition: "2020",
@@ -13880,7 +13889,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1562,
+          number: 1569,
       identifier: "code::dive-2014-5",
          meeting: "code::dive",
          edition: "2014",
@@ -13940,7 +13949,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1816,
+          number: 1823,
       identifier: "accu-2016-37",
          meeting: "accu",
          edition: "2016",
@@ -13960,7 +13969,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 895,
+          number: 902,
       identifier: "CppCon-2014-34",
          meeting: "CppCon",
          edition: "2014",
@@ -14020,7 +14029,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1839,
+          number: 1846,
       identifier: "accu-2017-21",
          meeting: "accu",
          edition: "2017",
@@ -14040,7 +14049,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2374,
+          number: 2381,
       identifier: "MUC++--41",
          meeting: "MUC++",
          edition: "",
@@ -14060,7 +14069,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1028,
+          number: 1035,
       identifier: "CppCon-2015-67",
          meeting: "CppCon",
          edition: "2015",
@@ -14080,7 +14089,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1148,
+          number: 1155,
       identifier: "CppCon-2016-87",
          meeting: "CppCon",
          edition: "2016",
@@ -14100,7 +14109,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1674,
+          number: 1681,
       identifier: "code::dive-2018-4",
          meeting: "code::dive",
          edition: "2018",
@@ -14120,7 +14129,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1554,
+          number: 1561,
       identifier: "CppCon-2020-97",
          meeting: "CppCon",
          edition: "2020",
@@ -14140,7 +14149,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1303,
+          number: 1310,
       identifier: "CppCon-2018-42",
          meeting: "CppCon",
          edition: "2018",
@@ -14200,7 +14209,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1173,
+          number: 1180,
       identifier: "CppCon-2017-12",
          meeting: "CppCon",
          edition: "2017",
@@ -14220,7 +14229,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2041,
+          number: 2048,
       identifier: "ItCppCon-2020-11",
          meeting: "ItCppCon",
          edition: "2020",
@@ -14240,7 +14249,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1982,
+          number: 1989,
       identifier: "accu-2019-68",
          meeting: "accu",
          edition: "2019",
@@ -14260,7 +14269,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2161,
+          number: 2168,
       identifier: "Core C++-2019-43",
          meeting: "Core C++",
          edition: "2019",
@@ -14280,7 +14289,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2091,
+          number: 2098,
       identifier: "C++ on sea-2020-10",
          meeting: "C++ on sea",
          edition: "2020",
@@ -14300,7 +14309,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2401,
+          number: 2408,
       identifier: "MUC++--91",
          meeting: "MUC++",
          edition: "",
@@ -14340,7 +14349,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 984,
+          number: 991,
       identifier: "CppCon-2015-23",
          meeting: "CppCon",
          edition: "2015",
@@ -14360,7 +14369,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1327,
+          number: 1334,
       identifier: "CppCon-2018-66",
          meeting: "CppCon",
          edition: "2018",
@@ -14380,7 +14389,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2010,
+          number: 2017,
       identifier: "accu-2021-13",
          meeting: "accu",
          edition: "2021",
@@ -14400,7 +14409,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2068,
+          number: 2075,
       identifier: "C++ on sea-2019-13",
          meeting: "C++ on sea",
          edition: "2019",
@@ -14420,7 +14429,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 883,
+          number: 890,
       identifier: "CppCon-2014-22",
          meeting: "CppCon",
          edition: "2014",
@@ -14440,7 +14449,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1321,
+          number: 1328,
       identifier: "CppCon-2018-60",
          meeting: "CppCon",
          edition: "2018",
@@ -14460,7 +14469,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 879,
+          number: 886,
       identifier: "CppCon-2014-18",
          meeting: "CppCon",
          edition: "2014",
@@ -14480,7 +14489,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1058,
+          number: 1065,
       identifier: "CppCon-2015-97",
          meeting: "CppCon",
          edition: "2015",
@@ -14521,7 +14530,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 978,
+          number: 985,
       identifier: "CppCon-2015-17",
          meeting: "CppCon",
          edition: "2015",
@@ -14535,6 +14544,26 @@ const talks = [
             tags: [
                      "c++",
                      "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 852,
+      identifier: "Meeting C++ online--3",
+         meeting: "Meeting C++ online",
+         edition: "",
+           title: "C++ Insights - How stuff works, C++20 and more!",
+        speakers: [
+                     "Andreas Fertig"
+                  ],
+           video: "https://youtube.com/watch?v=3M77F-u3mjI",
+       thumbnail: "http://img.youtube.com/vi/3M77F-u3mjI/0.jpg",
+        duration: 4188,
+            tags: [
+                     "c++",
+                     "online",
                      "talk"
                   ],
            level: 0,
@@ -14561,7 +14590,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1955,
+          number: 1962,
       identifier: "accu-2019-38",
          meeting: "accu",
          edition: "2019",
@@ -14581,7 +14610,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2186,
+          number: 2193,
       identifier: "Core C++-2021-23",
          meeting: "Core C++",
          edition: "2021",
@@ -14601,7 +14630,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2019,
+          number: 2026,
       identifier: "accu-2021-37",
          meeting: "accu",
          edition: "2021",
@@ -14621,7 +14650,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2077,
+          number: 2084,
       identifier: "C++ on sea-2019-26",
          meeting: "C++ on sea",
          edition: "2019",
@@ -14641,7 +14670,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2145,
+          number: 2152,
       identifier: "Core C++-2019-9",
          meeting: "Core C++",
          edition: "2019",
@@ -14661,7 +14690,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2209,
+          number: 2216,
       identifier: "C++ Europe-2020-7",
          meeting: "C++ Europe",
          edition: "2020",
@@ -14681,7 +14710,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 903,
+          number: 910,
       identifier: "CppCon-2014-42",
          meeting: "CppCon",
          edition: "2014",
@@ -14721,7 +14750,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 971,
+          number: 978,
       identifier: "CppCon-2015-10",
          meeting: "CppCon",
          edition: "2015",
@@ -14761,7 +14790,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1059,
+          number: 1066,
       identifier: "CppCon-2015-98",
          meeting: "CppCon",
          edition: "2015",
@@ -14821,7 +14850,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1356,
+          number: 1363,
       identifier: "CppCon-2018-99",
          meeting: "CppCon",
          edition: "2018",
@@ -14861,7 +14890,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1893,
+          number: 1900,
       identifier: "accu-2018-26",
          meeting: "accu",
          edition: "2018",
@@ -14881,7 +14910,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1957,
+          number: 1964,
       identifier: "accu-2019-40",
          meeting: "accu",
          edition: "2019",
@@ -14901,7 +14930,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1113,
+          number: 1120,
       identifier: "CppCon-2016-52",
          meeting: "CppCon",
          edition: "2016",
@@ -14921,7 +14950,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 972,
+          number: 979,
       identifier: "CppCon-2015-11",
          meeting: "CppCon",
          edition: "2015",
@@ -15001,7 +15030,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2180,
+          number: 2187,
       identifier: "Core C++-2021-17",
          meeting: "Core C++",
          edition: "2021",
@@ -15021,7 +15050,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1010,
+          number: 1017,
       identifier: "CppCon-2015-49",
          meeting: "CppCon",
          edition: "2015",
@@ -15041,7 +15070,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 881,
+          number: 888,
       identifier: "CppCon-2014-20",
          meeting: "CppCon",
          edition: "2014",
@@ -15061,7 +15090,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2236,
+          number: 2243,
       identifier: "Pacific C++-2018-2",
          meeting: "Pacific C++",
          edition: "2018",
@@ -15121,7 +15150,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2140,
+          number: 2147,
       identifier: "Core C++-2019-4",
          meeting: "Core C++",
          edition: "2019",
@@ -15141,7 +15170,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2207,
+          number: 2214,
       identifier: "C++ Europe-2020-5",
          meeting: "C++ Europe",
          edition: "2020",
@@ -15181,7 +15210,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 891,
+          number: 898,
       identifier: "CppCon-2014-30",
          meeting: "CppCon",
          edition: "2014",
@@ -15241,7 +15270,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1068,
+          number: 1075,
       identifier: "CppCon-2016-7",
          meeting: "CppCon",
          edition: "2016",
@@ -15261,7 +15290,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1485,
+          number: 1492,
       identifier: "CppCon-2020-28",
          meeting: "CppCon",
          edition: "2020",
@@ -15281,7 +15310,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2096,
+          number: 2103,
       identifier: "C++ on sea-2020-18",
          meeting: "C++ on sea",
          edition: "2020",
@@ -15301,7 +15330,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1615,
+          number: 1622,
       identifier: "code::dive-2016-26",
          meeting: "code::dive",
          edition: "2016",
@@ -15321,7 +15350,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1233,
+          number: 1240,
       identifier: "CppCon-2017-72",
          meeting: "CppCon",
          edition: "2017",
@@ -15341,7 +15370,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1873,
+          number: 1880,
       identifier: "accu-2018-3",
          meeting: "accu",
          edition: "2018",
@@ -15361,7 +15390,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 906,
+          number: 913,
       identifier: "CppCon-2014-45",
          meeting: "CppCon",
          edition: "2014",
@@ -15381,7 +15410,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2213,
+          number: 2220,
       identifier: "C++ Europe-2020-11",
          meeting: "C++ Europe",
          edition: "2020",
@@ -15421,7 +15450,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1911,
+          number: 1918,
       identifier: "accu-2018-47",
          meeting: "accu",
          edition: "2018",
@@ -15441,7 +15470,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2220,
+          number: 2227,
       identifier: "C++IndiaCon-2021-1",
          meeting: "C++IndiaCon",
          edition: "2021",
@@ -15501,7 +15530,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1589,
+          number: 1596,
       identifier: "code::dive-2015-19",
          meeting: "code::dive",
          edition: "2015",
@@ -15521,7 +15550,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1150,
+          number: 1157,
       identifier: "CppCon-2016-89",
          meeting: "CppCon",
          edition: "2016",
@@ -15641,7 +15670,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2419,
+          number: 2426,
       identifier: "Going Native-2012-15",
          meeting: "Going Native",
          edition: "2012",
@@ -15681,7 +15710,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2351,
+          number: 2358,
       identifier: "MUC++--18",
          meeting: "MUC++",
          edition: "",
@@ -15742,7 +15771,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1056,
+          number: 1063,
       identifier: "CppCon-2015-95",
          meeting: "CppCon",
          edition: "2015",
@@ -15842,7 +15871,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1888,
+          number: 1895,
       identifier: "accu-2018-21",
          meeting: "accu",
          edition: "2018",
@@ -15861,7 +15890,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2200,
+          number: 2207,
       identifier: "C++ Europe-2019-7",
          meeting: "C++ Europe",
          edition: "2019",
@@ -15881,7 +15910,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1577,
+          number: 1584,
       identifier: "code::dive-2015-7",
          meeting: "code::dive",
          edition: "2015",
@@ -15900,7 +15929,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2009,
+          number: 2016,
       identifier: "accu-2021-12",
          meeting: "accu",
          edition: "2021",
@@ -15919,7 +15948,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2067,
+          number: 2074,
       identifier: "C++ on sea-2019-12",
          meeting: "C++ on sea",
          edition: "2019",
@@ -15979,7 +16008,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1070,
+          number: 1077,
       identifier: "CppCon-2016-9",
          meeting: "CppCon",
          edition: "2016",
@@ -15999,7 +16028,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1076,
+          number: 1083,
       identifier: "CppCon-2016-15",
          meeting: "CppCon",
          edition: "2016",
@@ -16019,7 +16048,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2170,
+          number: 2177,
       identifier: "Core C++-2021-6",
          meeting: "Core C++",
          edition: "2021",
@@ -16059,7 +16088,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1590,
+          number: 1597,
       identifier: "code::dive-2016-1",
          meeting: "code::dive",
          edition: "2016",
@@ -16078,7 +16107,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2126,
+          number: 2133,
       identifier: "C++ on sea-2021-7",
          meeting: "C++ on sea",
          edition: "2021",
@@ -16098,7 +16127,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2223,
+          number: 2230,
       identifier: "C++IndiaCon-2021-4",
          meeting: "C++IndiaCon",
          edition: "2021",
@@ -16118,7 +16147,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1764,
+          number: 1771,
       identifier: "code::dive-2019-34",
          meeting: "code::dive",
          edition: "2019",
@@ -16137,7 +16166,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1763,
+          number: 1770,
       identifier: "code::dive-2019-33",
          meeting: "code::dive",
          edition: "2019",
@@ -16156,7 +16185,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1762,
+          number: 1769,
       identifier: "code::dive-2019-32",
          meeting: "code::dive",
          edition: "2019",
@@ -16175,7 +16204,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1765,
+          number: 1772,
       identifier: "code::dive-2019-35",
          meeting: "code::dive",
          edition: "2019",
@@ -16214,7 +16243,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1550,
+          number: 1557,
       identifier: "CppCon-2020-93",
          meeting: "CppCon",
          edition: "2020",
@@ -16254,7 +16283,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1526,
+          number: 1533,
       identifier: "CppCon-2020-69",
          meeting: "CppCon",
          edition: "2020",
@@ -16274,7 +16303,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2222,
+          number: 2229,
       identifier: "C++IndiaCon-2021-3",
          meeting: "C++IndiaCon",
          edition: "2021",
@@ -16294,7 +16323,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1481,
+          number: 1488,
       identifier: "CppCon-2020-24",
          meeting: "CppCon",
          edition: "2020",
@@ -16314,7 +16343,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1501,
+          number: 1508,
       identifier: "CppCon-2020-44",
          meeting: "CppCon",
          edition: "2020",
@@ -16334,7 +16363,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2032,
+          number: 2039,
       identifier: "ItCppCon-2020-2",
          meeting: "ItCppCon",
          edition: "2020",
@@ -16354,7 +16383,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2083,
+          number: 2090,
       identifier: "C++ on sea-2020-2",
          meeting: "C++ on sea",
          edition: "2020",
@@ -16374,7 +16403,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1486,
+          number: 1493,
       identifier: "CppCon-2020-29",
          meeting: "CppCon",
          edition: "2020",
@@ -16394,7 +16423,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1358,
+          number: 1365,
       identifier: "CppCon-2019-1",
          meeting: "CppCon",
          edition: "2019",
@@ -16434,7 +16463,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1445,
+          number: 1452,
       identifier: "CppCon-2019-88",
          meeting: "CppCon",
          edition: "2019",
@@ -16454,7 +16483,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2333,
+          number: 2340,
       identifier: "corehard-2019-8",
          meeting: "corehard",
          edition: "2019",
@@ -16474,7 +16503,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1455,
+          number: 1462,
       identifier: "CppCon-2019-98",
          meeting: "CppCon",
          edition: "2019",
@@ -16514,7 +16543,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2202,
+          number: 2209,
       identifier: "C++ Europe-2019-9",
          meeting: "C++ Europe",
          edition: "2019",
@@ -16534,7 +16563,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1000,
+          number: 1007,
       identifier: "CppCon-2015-39",
          meeting: "CppCon",
          edition: "2015",
@@ -16554,7 +16583,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1758,
+          number: 1765,
       identifier: "code::dive-2019-28",
          meeting: "code::dive",
          edition: "2019",
@@ -16595,7 +16624,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2152,
+          number: 2159,
       identifier: "Core C++-2019-16",
          meeting: "Core C++",
          edition: "2019",
@@ -16615,7 +16644,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2159,
+          number: 2166,
       identifier: "Core C++-2019-41",
          meeting: "Core C++",
          edition: "2019",
@@ -16635,7 +16664,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1725,
+          number: 1732,
       identifier: "code::dive-2018-55",
          meeting: "code::dive",
          edition: "2018",
@@ -16654,7 +16683,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1769,
+          number: 1776,
       identifier: "code::dive-2019-39",
          meeting: "code::dive",
          edition: "2019",
@@ -16674,7 +16703,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1073,
+          number: 1080,
       identifier: "CppCon-2016-12",
          meeting: "CppCon",
          edition: "2016",
@@ -16694,7 +16723,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2620,
+          number: 2627,
       identifier: "GOTO Chicago-2018-31",
          meeting: "GOTO Chicago",
          edition: "2018",
@@ -16773,7 +16802,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1467,
+          number: 1474,
       identifier: "CppCon-2020-10",
          meeting: "CppCon",
          edition: "2020",
@@ -16793,7 +16822,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2335,
+          number: 2342,
       identifier: "MUC++--2",
          meeting: "MUC++",
          edition: "",
@@ -16833,7 +16862,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1899,
+          number: 1906,
       identifier: "accu-2018-35",
          meeting: "accu",
          edition: "2018",
@@ -16852,7 +16881,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2493,
+          number: 2500,
       identifier: "GOTO Amsterdam-2019-30",
          meeting: "GOTO Amsterdam",
          edition: "2019",
@@ -16871,7 +16900,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1545,
+          number: 1552,
       identifier: "CppCon-2020-88",
          meeting: "CppCon",
          edition: "2020",
@@ -16891,7 +16920,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2227,
+          number: 2234,
       identifier: "Pacific C++-2017-3",
          meeting: "Pacific C++",
          edition: "2017",
@@ -16911,7 +16940,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2872,
+          number: 2879,
       identifier: "GOTOpia-2020-29",
          meeting: "GOTOpia",
          edition: "2020",
@@ -16930,7 +16959,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1180,
+          number: 1187,
       identifier: "CppCon-2017-19",
          meeting: "CppCon",
          edition: "2017",
@@ -16950,7 +16979,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1398,
+          number: 1405,
       identifier: "CppCon-2019-41",
          meeting: "CppCon",
          edition: "2019",
@@ -16970,7 +16999,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2526,
+          number: 2533,
       identifier: "GOTO Berlin-2018-23",
          meeting: "GOTO Berlin",
          edition: "2018",
@@ -16989,7 +17018,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1730,
+          number: 1737,
       identifier: "code::dive-2018-60",
          meeting: "code::dive",
          edition: "2018",
@@ -17028,7 +17057,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2307,
+          number: 2314,
       identifier: "Live Embedded Event-2021-26",
          meeting: "Live Embedded Event",
          edition: "2021",
@@ -17068,7 +17097,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1671,
+          number: 1678,
       identifier: "code::dive-2018-1",
          meeting: "code::dive",
          edition: "2018",
@@ -17088,7 +17117,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2133,
+          number: 2140,
       identifier: "C++ on sea-2021-14",
          meeting: "C++ on sea",
          edition: "2021",
@@ -17108,7 +17137,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2661,
+          number: 2668,
       identifier: "GOTO Chicago-2019-30",
          meeting: "GOTO Chicago",
          edition: "2019",
@@ -17127,7 +17156,27 @@ const talks = [
         language: "English"
    },
    {
-          number: 2414,
+          number: 851,
+      identifier: "Meeting C++ online--2",
+         meeting: "Meeting C++ online",
+         edition: "",
+           title: "CIB - ABI stable architecture for a C++ SDK",
+        speakers: [
+                     "Satya Das"
+                  ],
+           video: "https://youtube.com/watch?v=cp-MtGe-f6M",
+       thumbnail: "http://img.youtube.com/vi/cp-MtGe-f6M/0.jpg",
+        duration: 3083,
+            tags: [
+                     "c++",
+                     "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 2421,
       identifier: "Going Native-2012-10",
          meeting: "Going Native",
          edition: "2012",
@@ -17167,7 +17216,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2158,
+          number: 2165,
       identifier: "Core C++-2019-40",
          meeting: "Core C++",
          edition: "2019",
@@ -17207,7 +17256,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1604,
+          number: 1611,
       identifier: "code::dive-2016-15",
          meeting: "code::dive",
          edition: "2016",
@@ -17247,7 +17296,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2946,
+          number: 2953,
       identifier: "RustConf-2019-16",
          meeting: "RustConf",
          edition: "2019",
@@ -17268,7 +17317,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1894,
+          number: 1901,
       identifier: "accu-2018-27",
          meeting: "accu",
          edition: "2018",
@@ -17287,7 +17336,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1222,
+          number: 1229,
       identifier: "CppCon-2017-61",
          meeting: "CppCon",
          edition: "2017",
@@ -17327,7 +17376,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2785,
+          number: 2792,
       identifier: "GOTO Copenhagen-2019-4",
          meeting: "GOTO Copenhagen",
          edition: "2019",
@@ -17346,7 +17395,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1681,
+          number: 1688,
       identifier: "code::dive-2018-11",
          meeting: "code::dive",
          edition: "2018",
@@ -17365,7 +17414,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1623,
+          number: 1630,
       identifier: "code::dive-2016-34",
          meeting: "code::dive",
          edition: "2016",
@@ -17404,7 +17453,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1989,
+          number: 1996,
       identifier: "accu-2019-78",
          meeting: "accu",
          edition: "2019",
@@ -17423,7 +17472,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2040,
+          number: 2047,
       identifier: "ItCppCon-2020-10",
          meeting: "ItCppCon",
          edition: "2020",
@@ -17444,7 +17493,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2058,
+          number: 2065,
       identifier: "ItCppCon-2021-15",
          meeting: "ItCppCon",
          edition: "2021",
@@ -17464,7 +17513,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1466,
+          number: 1473,
       identifier: "CppCon-2020-9",
          meeting: "CppCon",
          edition: "2020",
@@ -17485,7 +17534,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1786,
+          number: 1793,
       identifier: "code::dive-2020-11",
          meeting: "code::dive",
          edition: "2020",
@@ -17504,7 +17553,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2631,
+          number: 2638,
       identifier: "GOTO Chicago-2018-42",
          meeting: "GOTO Chicago",
          edition: "2018",
@@ -17523,7 +17572,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1761,
+          number: 1768,
       identifier: "code::dive-2019-31",
          meeting: "code::dive",
          edition: "2019",
@@ -17544,7 +17593,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2858,
+          number: 2865,
       identifier: "GOTOpia-2020-15",
          meeting: "GOTOpia",
          edition: "2020",
@@ -17563,7 +17612,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2913,
+          number: 2920,
       identifier: "GOTOpia-2021-12",
          meeting: "GOTOpia",
          edition: "2021",
@@ -17582,7 +17631,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2770,
+          number: 2777,
       identifier: "GOTO Copenhagen-2018-31",
          meeting: "GOTO Copenhagen",
          edition: "2018",
@@ -17601,7 +17650,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2613,
+          number: 2620,
       identifier: "GOTO Chicago-2018-24",
          meeting: "GOTO Chicago",
          edition: "2018",
@@ -17620,7 +17669,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2606,
+          number: 2613,
       identifier: "GOTO Chicago-2018-17",
          meeting: "GOTO Chicago",
          edition: "2018",
@@ -17679,7 +17728,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1212,
+          number: 1219,
       identifier: "CppCon-2017-51",
          meeting: "CppCon",
          edition: "2017",
@@ -17699,7 +17748,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1349,
+          number: 1356,
       identifier: "CppCon-2018-92",
          meeting: "CppCon",
          edition: "2018",
@@ -17719,7 +17768,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2655,
+          number: 2662,
       identifier: "GOTO Chicago-2019-24",
          meeting: "GOTO Chicago",
          edition: "2019",
@@ -17778,7 +17827,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1581,
+          number: 1588,
       identifier: "code::dive-2015-11",
          meeting: "code::dive",
          edition: "2015",
@@ -17817,7 +17866,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2117,
+          number: 2124,
       identifier: "C++ on sea-2020-45",
          meeting: "C++ on sea",
          edition: "2020",
@@ -17837,7 +17886,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1541,
+          number: 1548,
       identifier: "CppCon-2020-84",
          meeting: "CppCon",
          edition: "2020",
@@ -17857,7 +17906,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1462,
+          number: 1469,
       identifier: "CppCon-2020-5",
          meeting: "CppCon",
          edition: "2020",
@@ -17877,7 +17926,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1075,
+          number: 1082,
       identifier: "CppCon-2016-14",
          meeting: "CppCon",
          edition: "2016",
@@ -17897,7 +17946,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2035,
+          number: 2042,
       identifier: "ItCppCon-2020-5",
          meeting: "ItCppCon",
          edition: "2020",
@@ -17937,7 +17986,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2924,
+          number: 2931,
       identifier: "GOTOpia-2021-23",
          meeting: "GOTOpia",
          edition: "2021",
@@ -17956,7 +18005,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2104,
+          number: 2111,
       identifier: "C++ on sea-2020-29",
          meeting: "C++ on sea",
          edition: "2020",
@@ -17996,7 +18045,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1821,
+          number: 1828,
       identifier: "accu-2016-42",
          meeting: "accu",
          edition: "2016",
@@ -18015,7 +18064,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2116,
+          number: 2123,
       identifier: "C++ on sea-2020-44",
          meeting: "C++ on sea",
          edition: "2020",
@@ -18055,7 +18104,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2398,
+          number: 2405,
       identifier: "MUC++--75",
          meeting: "MUC++",
          edition: "",
@@ -18075,7 +18124,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2474,
+          number: 2481,
       identifier: "GOTO Amsterdam-2019-11",
          meeting: "GOTO Amsterdam",
          edition: "2019",
@@ -18094,7 +18143,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2895,
+          number: 2902,
       identifier: "GOTOpia-2020-55",
          meeting: "GOTOpia",
          edition: "2020",
@@ -18113,7 +18162,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1886,
+          number: 1893,
       identifier: "accu-2018-19",
          meeting: "accu",
          edition: "2018",
@@ -18132,7 +18181,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 912,
+          number: 919,
       identifier: "CppCon-2014-51",
          meeting: "CppCon",
          edition: "2014",
@@ -18152,7 +18201,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1051,
+          number: 1058,
       identifier: "CppCon-2015-90",
          meeting: "CppCon",
          edition: "2015",
@@ -18232,7 +18281,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2147,
+          number: 2154,
       identifier: "Core C++-2019-11",
          meeting: "Core C++",
          edition: "2019",
@@ -18292,7 +18341,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1016,
+          number: 1023,
       identifier: "CppCon-2015-55",
          meeting: "CppCon",
          edition: "2015",
@@ -18312,7 +18361,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1272,
+          number: 1279,
       identifier: "CppCon-2018-11",
          meeting: "CppCon",
          edition: "2018",
@@ -18332,7 +18381,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1242,
+          number: 1249,
       identifier: "CppCon-2017-81",
          meeting: "CppCon",
          edition: "2017",
@@ -18352,7 +18401,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2967,
+          number: 2974,
       identifier: "RustConf-2021-11",
          meeting: "RustConf",
          edition: "2021",
@@ -18372,7 +18421,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1035,
+          number: 1042,
       identifier: "CppCon-2015-74",
          meeting: "CppCon",
          edition: "2015",
@@ -18413,7 +18462,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1406,
+          number: 1413,
       identifier: "CppCon-2019-49",
          meeting: "CppCon",
          edition: "2019",
@@ -18433,7 +18482,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1450,
+          number: 1457,
       identifier: "CppCon-2019-93",
          meeting: "CppCon",
          edition: "2019",
@@ -18453,7 +18502,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1270,
+          number: 1277,
       identifier: "CppCon-2018-9",
          meeting: "CppCon",
          edition: "2018",
@@ -18493,7 +18542,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 995,
+          number: 1002,
       identifier: "CppCon-2015-34",
          meeting: "CppCon",
          edition: "2015",
@@ -18513,7 +18562,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2826,
+          number: 2833,
       identifier: "GOTO Copenhagen-2019-45",
          meeting: "GOTO Copenhagen",
          edition: "2019",
@@ -18572,7 +18621,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1124,
+          number: 1131,
       identifier: "CppCon-2016-63",
          meeting: "CppCon",
          edition: "2016",
@@ -18592,7 +18641,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2596,
+          number: 2603,
       identifier: "GOTO Chicago-2018-7",
          meeting: "GOTO Chicago",
          edition: "2018",
@@ -18611,7 +18660,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2539,
+          number: 2546,
       identifier: "GOTO Berlin-2018-36",
          meeting: "GOTO Berlin",
          edition: "2018",
@@ -18630,7 +18679,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2027,
+          number: 2034,
       identifier: "C++ Day-2020-5",
          meeting: "C++ Day",
          edition: "2020",
@@ -18650,7 +18699,7 @@ const talks = [
         language: "Italian"
    },
    {
-          number: 1129,
+          number: 1136,
       identifier: "CppCon-2016-68",
          meeting: "CppCon",
          edition: "2016",
@@ -18670,7 +18719,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2258,
+          number: 2265,
       identifier: "Live Embedded Event-2020-12",
          meeting: "Live Embedded Event",
          edition: "2020",
@@ -18690,7 +18739,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1892,
+          number: 1899,
       identifier: "accu-2018-25",
          meeting: "accu",
          edition: "2018",
@@ -18790,7 +18839,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1305,
+          number: 1312,
       identifier: "CppCon-2018-44",
          meeting: "CppCon",
          edition: "2018",
@@ -18810,7 +18859,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1326,
+          number: 1333,
       identifier: "CppCon-2018-65",
          meeting: "CppCon",
          edition: "2018",
@@ -18890,7 +18939,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2054,
+          number: 2061,
       identifier: "ItCppCon-2021-11",
          meeting: "ItCppCon",
          edition: "2021",
@@ -18910,7 +18959,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1262,
+          number: 1269,
       identifier: "CppCon-2018-1",
          meeting: "CppCon",
          edition: "2018",
@@ -18930,7 +18979,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2197,
+          number: 2204,
       identifier: "C++ Europe-2019-4",
          meeting: "C++ Europe",
          edition: "2019",
@@ -18950,7 +18999,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2321,
+          number: 2328,
       identifier: "corehard-2018-3",
          meeting: "corehard",
          edition: "2018",
@@ -18970,7 +19019,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1572,
+          number: 1579,
       identifier: "code::dive-2015-2",
          meeting: "code::dive",
          edition: "2015",
@@ -18989,7 +19038,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1633,
+          number: 1640,
       identifier: "code::dive-2017-2",
          meeting: "code::dive",
          edition: "2017",
@@ -19009,7 +19058,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1004,
+          number: 1011,
       identifier: "CppCon-2015-43",
          meeting: "CppCon",
          edition: "2015",
@@ -19029,7 +19078,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1210,
+          number: 1217,
       identifier: "CppCon-2017-49",
          meeting: "CppCon",
          edition: "2017",
@@ -19049,7 +19098,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1866,
+          number: 1873,
       identifier: "accu-2017-54",
          meeting: "accu",
          edition: "2017",
@@ -19068,7 +19117,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1777,
+          number: 1784,
       identifier: "code::dive-2020-2",
          meeting: "code::dive",
          edition: "2020",
@@ -19087,7 +19136,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2956,
+          number: 2963,
       identifier: "RustConf-2020-10",
          meeting: "RustConf",
          edition: "2020",
@@ -19107,7 +19156,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2931,
+          number: 2938,
       identifier: "RustConf-2019-1",
          meeting: "RustConf",
          edition: "2019",
@@ -19128,7 +19177,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2947,
+          number: 2954,
       identifier: "RustConf-2020-1",
          meeting: "RustConf",
          edition: "2020",
@@ -19149,7 +19198,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2426,
+          number: 2433,
       identifier: "GOTO Amsterdam-2018-4",
          meeting: "GOTO Amsterdam",
          edition: "2018",
@@ -19168,7 +19217,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2263,
+          number: 2270,
       identifier: "Live Embedded Event-2020-17",
          meeting: "Live Embedded Event",
          edition: "2020",
@@ -19188,7 +19237,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2318,
+          number: 2325,
       identifier: "corehard-2017-3",
          meeting: "corehard",
          edition: "2017",
@@ -19228,7 +19277,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2999,
+          number: 3006,
       identifier: "RustFest-2020-23",
          meeting: "RustFest",
          edition: "2020",
@@ -19269,7 +19318,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2195,
+          number: 2202,
       identifier: "C++ Europe-2019-2",
          meeting: "C++ Europe",
          edition: "2019",
@@ -19309,7 +19358,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1087,
+          number: 1094,
       identifier: "CppCon-2016-26",
          meeting: "CppCon",
          edition: "2016",
@@ -19329,7 +19378,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1814,
+          number: 1821,
       identifier: "accu-2016-32",
          meeting: "accu",
          edition: "2016",
@@ -19369,7 +19418,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1176,
+          number: 1183,
       identifier: "CppCon-2017-15",
          meeting: "CppCon",
          edition: "2017",
@@ -19390,7 +19439,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1006,
+          number: 1013,
       identifier: "CppCon-2015-45",
          meeting: "CppCon",
          edition: "2015",
@@ -19430,7 +19479,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 981,
+          number: 988,
       identifier: "CppCon-2015-20",
          meeting: "CppCon",
          edition: "2015",
@@ -19450,7 +19499,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1584,
+          number: 1591,
       identifier: "code::dive-2015-14",
          meeting: "code::dive",
          edition: "2015",
@@ -19469,7 +19518,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1496,
+          number: 1503,
       identifier: "CppCon-2020-39",
          meeting: "CppCon",
          edition: "2020",
@@ -19489,7 +19538,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2424,
+          number: 2431,
       identifier: "GOTO Amsterdam-2018-2",
          meeting: "GOTO Amsterdam",
          edition: "2018",
@@ -19528,7 +19577,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2759,
+          number: 2766,
       identifier: "GOTO Copenhagen-2018-20",
          meeting: "GOTO Copenhagen",
          edition: "2018",
@@ -19567,7 +19616,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 855,
+          number: 862,
       identifier: "Meeting Embedded-2018-6",
          meeting: "Meeting Embedded",
          edition: "2018",
@@ -19588,7 +19637,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1312,
+          number: 1319,
       identifier: "CppCon-2018-51",
          meeting: "CppCon",
          edition: "2018",
@@ -19608,7 +19657,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1313,
+          number: 1320,
       identifier: "CppCon-2018-52",
          meeting: "CppCon",
          edition: "2018",
@@ -19628,7 +19677,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2224,
+          number: 2231,
       identifier: "C++IndiaCon-2021-5",
          meeting: "C++IndiaCon",
          edition: "2021",
@@ -19648,7 +19697,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1411,
+          number: 1418,
       identifier: "CppCon-2019-54",
          meeting: "CppCon",
          edition: "2019",
@@ -19668,7 +19717,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1047,
+          number: 1054,
       identifier: "CppCon-2015-86",
          meeting: "CppCon",
          edition: "2015",
@@ -19688,7 +19737,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1847,
+          number: 1854,
       identifier: "accu-2017-32",
          meeting: "accu",
          edition: "2017",
@@ -19707,7 +19756,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2383,
+          number: 2390,
       identifier: "MUC++--50",
          meeting: "MUC++",
          edition: "",
@@ -19727,7 +19776,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2953,
+          number: 2960,
       identifier: "RustConf-2020-7",
          meeting: "RustConf",
          edition: "2020",
@@ -19748,7 +19797,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 882,
+          number: 889,
       identifier: "CppCon-2014-21",
          meeting: "CppCon",
          edition: "2014",
@@ -19768,7 +19817,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2498,
+          number: 2505,
       identifier: "GOTO Amsterdam-2019-35",
          meeting: "GOTO Amsterdam",
          edition: "2019",
@@ -19787,7 +19836,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2812,
+          number: 2819,
       identifier: "GOTO Copenhagen-2019-31",
          meeting: "GOTO Copenhagen",
          edition: "2019",
@@ -19806,7 +19855,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2399,
+          number: 2406,
       identifier: "MUC++--79",
          meeting: "MUC++",
          edition: "",
@@ -19846,7 +19895,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1407,
+          number: 1414,
       identifier: "CppCon-2019-50",
          meeting: "CppCon",
          edition: "2019",
@@ -19866,7 +19915,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1061,
+          number: 1068,
       identifier: "CppCon-2015-100",
          meeting: "CppCon",
          edition: "2015",
@@ -19928,7 +19977,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1568,
+          number: 1575,
       identifier: "code::dive-2014-11",
          meeting: "code::dive",
          edition: "2014",
@@ -19967,7 +20016,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2142,
+          number: 2149,
       identifier: "Core C++-2019-6",
          meeting: "Core C++",
          edition: "2019",
@@ -19987,7 +20036,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1858,
+          number: 1865,
       identifier: "accu-2017-43",
          meeting: "accu",
          edition: "2017",
@@ -20027,7 +20076,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1175,
+          number: 1182,
       identifier: "CppCon-2017-14",
          meeting: "CppCon",
          edition: "2017",
@@ -20047,7 +20096,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2087,
+          number: 2094,
       identifier: "C++ on sea-2020-6",
          meeting: "C++ on sea",
          edition: "2020",
@@ -20067,7 +20116,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 904,
+          number: 911,
       identifier: "CppCon-2014-43",
          meeting: "CppCon",
          edition: "2014",
@@ -20107,7 +20156,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2738,
+          number: 2745,
       identifier: "GOTO Chicago-2020-49",
          meeting: "GOTO Chicago",
          edition: "2020",
@@ -20126,7 +20175,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2546,
+          number: 2553,
       identifier: "GOTO Berlin-2018-43",
          meeting: "GOTO Berlin",
          edition: "2018",
@@ -20165,7 +20214,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 911,
+          number: 918,
       identifier: "CppCon-2014-50",
          meeting: "CppCon",
          edition: "2014",
@@ -20185,7 +20234,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1570,
+          number: 1577,
       identifier: "code::dive-2014-13",
          meeting: "code::dive",
          edition: "2014",
@@ -20224,7 +20273,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1990,
+          number: 1997,
       identifier: "accu-2019-79",
          meeting: "accu",
          edition: "2019",
@@ -20243,7 +20292,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1704,
+          number: 1711,
       identifier: "code::dive-2018-34",
          meeting: "code::dive",
          edition: "2018",
@@ -20262,7 +20311,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2482,
+          number: 2489,
       identifier: "GOTO Amsterdam-2019-19",
          meeting: "GOTO Amsterdam",
          edition: "2019",
@@ -20282,7 +20331,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1314,
+          number: 1321,
       identifier: "CppCon-2018-53",
          meeting: "CppCon",
          edition: "2018",
@@ -20302,7 +20351,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2855,
+          number: 2862,
       identifier: "GOTOpia-2020-12",
          meeting: "GOTOpia",
          edition: "2020",
@@ -20361,7 +20410,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1923,
+          number: 1930,
       identifier: "accu-2018-62",
          meeting: "accu",
          edition: "2018",
@@ -20400,7 +20449,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2249,
+          number: 2256,
       identifier: "Live Embedded Event-2020-3",
          meeting: "Live Embedded Event",
          edition: "2020",
@@ -20420,7 +20469,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2306,
+          number: 2313,
       identifier: "Live Embedded Event-2021-25",
          meeting: "Live Embedded Event",
          edition: "2021",
@@ -20460,7 +20509,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1613,
+          number: 1620,
       identifier: "code::dive-2016-24",
          meeting: "code::dive",
          edition: "2016",
@@ -20479,7 +20528,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 875,
+          number: 882,
       identifier: "CppCon-2014-14",
          meeting: "CppCon",
          edition: "2014",
@@ -20519,7 +20568,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1205,
+          number: 1212,
       identifier: "CppCon-2017-44",
          meeting: "CppCon",
          edition: "2017",
@@ -20539,7 +20588,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2247,
+          number: 2254,
       identifier: "Pacific C++-2018-13",
          meeting: "Pacific C++",
          edition: "2018",
@@ -20559,7 +20608,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1001,
+          number: 1008,
       identifier: "CppCon-2015-40",
          meeting: "CppCon",
          edition: "2015",
@@ -20580,7 +20629,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1489,
+          number: 1496,
       identifier: "CppCon-2020-32",
          meeting: "CppCon",
          edition: "2020",
@@ -20600,7 +20649,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2744,
+          number: 2751,
       identifier: "GOTO Copenhagen-2018-5",
          meeting: "GOTO Copenhagen",
          edition: "2018",
@@ -20619,7 +20668,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1913,
+          number: 1920,
       identifier: "accu-2018-49",
          meeting: "accu",
          edition: "2018",
@@ -20638,7 +20687,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1276,
+          number: 1283,
       identifier: "CppCon-2018-15",
          meeting: "CppCon",
          edition: "2018",
@@ -20658,7 +20707,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2036,
+          number: 2043,
       identifier: "ItCppCon-2020-6",
          meeting: "ItCppCon",
          edition: "2020",
@@ -20698,7 +20747,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1660,
+          number: 1667,
       identifier: "code::dive-2017-29",
          meeting: "code::dive",
          edition: "2017",
@@ -20737,7 +20786,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2403,
+          number: 2410,
       identifier: "MUC++--94",
          meeting: "MUC++",
          edition: "",
@@ -20757,7 +20806,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2405,
+          number: 2412,
       identifier: "Going Native-2012-1",
          meeting: "Going Native",
          edition: "2012",
@@ -20798,7 +20847,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2680,
+          number: 2687,
       identifier: "GOTO Chicago-2019-49",
          meeting: "GOTO Chicago",
          edition: "2019",
@@ -20838,7 +20887,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2733,
+          number: 2740,
       identifier: "GOTO Chicago-2020-44",
          meeting: "GOTO Chicago",
          edition: "2020",
@@ -20877,7 +20926,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2315,
+          number: 2322,
       identifier: "Live Embedded Event-2021-34",
          meeting: "Live Embedded Event",
          edition: "2021",
@@ -20897,7 +20946,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2666,
+          number: 2673,
       identifier: "GOTO Chicago-2019-35",
          meeting: "GOTO Chicago",
          edition: "2019",
@@ -20916,7 +20965,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2101,
+          number: 2108,
       identifier: "C++ on sea-2020-23",
          meeting: "C++ on sea",
          edition: "2020",
@@ -20936,7 +20985,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1718,
+          number: 1725,
       identifier: "code::dive-2018-48",
          meeting: "code::dive",
          edition: "2018",
@@ -20955,7 +21004,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2835,
+          number: 2842,
       identifier: "GOTO Oslo-2018-6",
          meeting: "GOTO Oslo",
          edition: "2018",
@@ -20974,7 +21023,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1295,
+          number: 1302,
       identifier: "CppCon-2018-34",
          meeting: "CppCon",
          edition: "2018",
@@ -20994,7 +21043,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2412,
+          number: 2419,
       identifier: "Going Native-2012-8",
          meeting: "Going Native",
          edition: "2012",
@@ -21014,7 +21063,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1362,
+          number: 1369,
       identifier: "CppCon-2019-5",
          meeting: "CppCon",
          edition: "2019",
@@ -21034,7 +21083,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1940,
+          number: 1947,
       identifier: "accu-2019-19",
          meeting: "accu",
          edition: "2019",
@@ -21074,7 +21123,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1482,
+          number: 1489,
       identifier: "CppCon-2020-25",
          meeting: "CppCon",
          edition: "2020",
@@ -21094,7 +21143,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1705,
+          number: 1712,
       identifier: "code::dive-2018-35",
          meeting: "code::dive",
          edition: "2018",
@@ -21155,7 +21204,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1341,
+          number: 1348,
       identifier: "CppCon-2018-82",
          meeting: "CppCon",
          edition: "2018",
@@ -21175,7 +21224,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1903,
+          number: 1910,
       identifier: "accu-2018-39",
          meeting: "accu",
          edition: "2018",
@@ -21195,7 +21244,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2004,
+          number: 2011,
       identifier: "accu-2021-4",
          meeting: "accu",
          edition: "2021",
@@ -21215,7 +21264,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2062,
+          number: 2069,
       identifier: "C++ on sea-2019-4",
          meeting: "C++ on sea",
          edition: "2019",
@@ -21235,7 +21284,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2320,
+          number: 2327,
       identifier: "corehard-2018-2",
          meeting: "corehard",
          edition: "2018",
@@ -21275,7 +21324,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1299,
+          number: 1306,
       identifier: "CppCon-2018-38",
          meeting: "CppCon",
          edition: "2018",
@@ -21335,7 +21384,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2232,
+          number: 2239,
       identifier: "Pacific C++-2017-8",
          meeting: "Pacific C++",
          edition: "2017",
@@ -21375,7 +21424,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2114,
+          number: 2121,
       identifier: "C++ on sea-2020-42",
          meeting: "C++ on sea",
          edition: "2020",
@@ -21395,7 +21444,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1045,
+          number: 1052,
       identifier: "CppCon-2015-84",
          meeting: "CppCon",
          edition: "2015",
@@ -21435,7 +21484,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1809,
+          number: 1816,
       identifier: "accu-2016-27",
          meeting: "accu",
          edition: "2016",
@@ -21454,7 +21503,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 948,
+          number: 955,
       identifier: "CppCon-2014-87",
          meeting: "CppCon",
          edition: "2014",
@@ -21474,7 +21523,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1185,
+          number: 1192,
       identifier: "CppCon-2017-24",
          meeting: "CppCon",
          edition: "2017",
@@ -21494,7 +21543,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2097,
+          number: 2104,
       identifier: "C++ on sea-2020-19",
          meeting: "C++ on sea",
          edition: "2020",
@@ -21514,7 +21563,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2448,
+          number: 2455,
       identifier: "GOTO Amsterdam-2018-26",
          meeting: "GOTO Amsterdam",
          edition: "2018",
@@ -21533,7 +21582,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2450,
+          number: 2457,
       identifier: "GOTO Amsterdam-2018-28",
          meeting: "GOTO Amsterdam",
          edition: "2018",
@@ -21592,7 +21641,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 934,
+          number: 941,
       identifier: "CppCon-2014-73",
          meeting: "CppCon",
          edition: "2014",
@@ -21612,7 +21661,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 933,
+          number: 940,
       identifier: "CppCon-2014-72",
          meeting: "CppCon",
          edition: "2014",
@@ -21632,7 +21681,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1223,
+          number: 1230,
       identifier: "CppCon-2017-62",
          meeting: "CppCon",
          edition: "2017",
@@ -21652,7 +21701,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2800,
+          number: 2807,
       identifier: "GOTO Copenhagen-2019-19",
          meeting: "GOTO Copenhagen",
          edition: "2019",
@@ -21671,7 +21720,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2657,
+          number: 2664,
       identifier: "GOTO Chicago-2019-26",
          meeting: "GOTO Chicago",
          edition: "2019",
@@ -21690,7 +21739,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2616,
+          number: 2623,
       identifier: "GOTO Chicago-2018-27",
          meeting: "GOTO Chicago",
          edition: "2018",
@@ -21709,7 +21758,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1926,
+          number: 1933,
       identifier: "accu-2019-1",
          meeting: "accu",
          edition: "2019",
@@ -21728,7 +21777,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2438,
+          number: 2445,
       identifier: "GOTO Amsterdam-2018-16",
          meeting: "GOTO Amsterdam",
          edition: "2018",
@@ -21747,7 +21796,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1017,
+          number: 1024,
       identifier: "CppCon-2015-56",
          meeting: "CppCon",
          edition: "2015",
@@ -21787,7 +21836,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1756,
+          number: 1763,
       identifier: "code::dive-2019-26",
          meeting: "code::dive",
          edition: "2019",
@@ -21807,7 +21856,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1071,
+          number: 1078,
       identifier: "CppCon-2016-10",
          meeting: "CppCon",
          edition: "2016",
@@ -21827,7 +21876,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2601,
+          number: 2608,
       identifier: "GOTO Chicago-2018-12",
          meeting: "GOTO Chicago",
          edition: "2018",
@@ -21846,7 +21895,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2914,
+          number: 2921,
       identifier: "GOTOpia-2021-13",
          meeting: "GOTOpia",
          edition: "2021",
@@ -21865,7 +21914,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2642,
+          number: 2649,
       identifier: "GOTO Chicago-2019-11",
          meeting: "GOTO Chicago",
          edition: "2019",
@@ -21884,7 +21933,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2638,
+          number: 2645,
       identifier: "GOTO Chicago-2019-7",
          meeting: "GOTO Chicago",
          edition: "2019",
@@ -21903,7 +21952,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1851,
+          number: 1858,
       identifier: "accu-2017-36",
          meeting: "accu",
          edition: "2017",
@@ -21942,7 +21991,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2729,
+          number: 2736,
       identifier: "GOTO Chicago-2020-40",
          meeting: "GOTO Chicago",
          edition: "2020",
@@ -21961,7 +22010,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2251,
+          number: 2258,
       identifier: "Live Embedded Event-2020-5",
          meeting: "Live Embedded Event",
          edition: "2020",
@@ -21981,7 +22030,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2814,
+          number: 2821,
       identifier: "GOTO Copenhagen-2019-33",
          meeting: "GOTO Copenhagen",
          edition: "2019",
@@ -22020,7 +22069,27 @@ const talks = [
         language: "English"
    },
    {
-          number: 1504,
+          number: 854,
+      identifier: "Meeting C++ online--5",
+         meeting: "Meeting C++ online",
+         edition: "",
+           title: "Design Patterns - Facts and Misconceptions",
+        speakers: [
+                     "Klaus Iglberger"
+                  ],
+           video: "https://youtube.com/watch?v=u5EAJTHPJN8",
+       thumbnail: "http://img.youtube.com/vi/u5EAJTHPJN8/0.jpg",
+        duration: 3452,
+            tags: [
+                     "c++",
+                     "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 1511,
       identifier: "CppCon-2020-47",
          meeting: "CppCon",
          edition: "2020",
@@ -22040,7 +22109,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2176,
+          number: 2183,
       identifier: "Core C++-2021-12",
          meeting: "Core C++",
          edition: "2021",
@@ -22060,7 +22129,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1200,
+          number: 1207,
       identifier: "CppCon-2017-39",
          meeting: "CppCon",
          edition: "2017",
@@ -22080,7 +22149,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2373,
+          number: 2380,
       identifier: "MUC++--40",
          meeting: "MUC++",
          edition: "",
@@ -22100,7 +22169,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1800,
+          number: 1807,
       identifier: "accu-2016-15",
          meeting: "accu",
          edition: "2016",
@@ -22180,7 +22249,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1167,
+          number: 1174,
       identifier: "CppCon-2017-6",
          meeting: "CppCon",
          edition: "2017",
@@ -22200,7 +22269,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1216,
+          number: 1223,
       identifier: "CppCon-2017-55",
          meeting: "CppCon",
          edition: "2017",
@@ -22240,7 +22309,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2566,
+          number: 2573,
       identifier: "GOTO Berlin-2019-16",
          meeting: "GOTO Berlin",
          edition: "2019",
@@ -22260,7 +22329,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2245,
+          number: 2252,
       identifier: "Pacific C++-2018-11",
          meeting: "Pacific C++",
          edition: "2018",
@@ -22280,7 +22349,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1159,
+          number: 1166,
       identifier: "CppCon-2016-98",
          meeting: "CppCon",
          edition: "2016",
@@ -22320,7 +22389,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2625,
+          number: 2632,
       identifier: "GOTO Chicago-2018-36",
          meeting: "GOTO Chicago",
          edition: "2018",
@@ -22339,7 +22408,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2244,
+          number: 2251,
       identifier: "Pacific C++-2018-10",
          meeting: "Pacific C++",
          edition: "2018",
@@ -22359,7 +22428,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2353,
+          number: 2360,
       identifier: "MUC++--20",
          meeting: "MUC++",
          edition: "",
@@ -22379,7 +22448,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2305,
+          number: 2312,
       identifier: "Live Embedded Event-2021-24",
          meeting: "Live Embedded Event",
          edition: "2021",
@@ -22439,7 +22508,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1431,
+          number: 1438,
       identifier: "CppCon-2019-74",
          meeting: "CppCon",
          edition: "2019",
@@ -22479,7 +22548,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2604,
+          number: 2611,
       identifier: "GOTO Chicago-2018-15",
          meeting: "GOTO Chicago",
          edition: "2018",
@@ -22498,7 +22567,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2304,
+          number: 2311,
       identifier: "Live Embedded Event-2021-23",
          meeting: "Live Embedded Event",
          edition: "2021",
@@ -22539,7 +22608,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1066,
+          number: 1073,
       identifier: "CppCon-2016-5",
          meeting: "CppCon",
          edition: "2016",
@@ -22559,7 +22628,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1155,
+          number: 1162,
       identifier: "CppCon-2016-94",
          meeting: "CppCon",
          edition: "2016",
@@ -22579,7 +22648,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1667,
+          number: 1674,
       identifier: "code::dive-2017-36",
          meeting: "code::dive",
          edition: "2017",
@@ -22619,7 +22688,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2303,
+          number: 2310,
       identifier: "Live Embedded Event-2021-22",
          meeting: "Live Embedded Event",
          edition: "2021",
@@ -22639,7 +22708,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2368,
+          number: 2375,
       identifier: "MUC++--35",
          meeting: "MUC++",
          edition: "",
@@ -22659,7 +22728,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2451,
+          number: 2458,
       identifier: "GOTO Amsterdam-2018-29",
          meeting: "GOTO Amsterdam",
          edition: "2018",
@@ -22678,7 +22747,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2302,
+          number: 2309,
       identifier: "Live Embedded Event-2021-21",
          meeting: "Live Embedded Event",
          edition: "2021",
@@ -22698,7 +22767,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2279,
+          number: 2286,
       identifier: "Live Embedded Event-2020-33",
          meeting: "Live Embedded Event",
          edition: "2020",
@@ -22718,7 +22787,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1652,
+          number: 1659,
       identifier: "code::dive-2017-21",
          meeting: "code::dive",
          edition: "2017",
@@ -22737,7 +22806,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1666,
+          number: 1673,
       identifier: "code::dive-2017-35",
          meeting: "code::dive",
          edition: "2017",
@@ -22756,7 +22825,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2676,
+          number: 2683,
       identifier: "GOTO Chicago-2019-45",
          meeting: "GOTO Chicago",
          edition: "2019",
@@ -22776,7 +22845,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2576,
+          number: 2583,
       identifier: "GOTO Berlin-2019-26",
          meeting: "GOTO Berlin",
          edition: "2019",
@@ -22796,7 +22865,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1743,
+          number: 1750,
       identifier: "code::dive-2019-13",
          meeting: "code::dive",
          edition: "2019",
@@ -22815,7 +22884,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2356,
+          number: 2363,
       identifier: "MUC++--23",
          meeting: "MUC++",
          edition: "",
@@ -22835,7 +22904,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2881,
+          number: 2888,
       identifier: "GOTOpia-2020-41",
          meeting: "GOTOpia",
          edition: "2020",
@@ -22874,7 +22943,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2630,
+          number: 2637,
       identifier: "GOTO Chicago-2018-41",
          meeting: "GOTO Chicago",
          edition: "2018",
@@ -22913,7 +22982,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2646,
+          number: 2653,
       identifier: "GOTO Chicago-2019-15",
          meeting: "GOTO Chicago",
          edition: "2019",
@@ -22932,7 +23001,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2650,
+          number: 2657,
       identifier: "GOTO Chicago-2019-19",
          meeting: "GOTO Chicago",
          edition: "2019",
@@ -22951,7 +23020,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1659,
+          number: 1666,
       identifier: "code::dive-2017-28",
          meeting: "code::dive",
          edition: "2017",
@@ -22970,7 +23039,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2599,
+          number: 2606,
       identifier: "GOTO Chicago-2018-10",
          meeting: "GOTO Chicago",
          edition: "2018",
@@ -22989,7 +23058,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1796,
+          number: 1803,
       identifier: "accu-2016-11",
          meeting: "accu",
          edition: "2016",
@@ -23048,7 +23117,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1876,
+          number: 1883,
       identifier: "accu-2018-6",
          meeting: "accu",
          edition: "2018",
@@ -23087,7 +23156,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1707,
+          number: 1714,
       identifier: "code::dive-2018-37",
          meeting: "code::dive",
          edition: "2018",
@@ -23106,7 +23175,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2270,
+          number: 2277,
       identifier: "Live Embedded Event-2020-24",
          meeting: "Live Embedded Event",
          edition: "2020",
@@ -23126,7 +23195,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1838,
+          number: 1845,
       identifier: "accu-2017-20",
          meeting: "accu",
          edition: "2017",
@@ -23186,7 +23255,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2815,
+          number: 2822,
       identifier: "GOTO Copenhagen-2019-34",
          meeting: "GOTO Copenhagen",
          edition: "2019",
@@ -23225,7 +23294,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2174,
+          number: 2181,
       identifier: "Core C++-2021-10",
          meeting: "Core C++",
          edition: "2021",
@@ -23245,7 +23314,7 @@ const talks = [
         language: "Hebrew"
    },
    {
-          number: 2837,
+          number: 2844,
       identifier: "GOTO Oslo-2018-8",
          meeting: "GOTO Oslo",
          edition: "2018",
@@ -23264,7 +23333,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1288,
+          number: 1295,
       identifier: "CppCon-2018-27",
          meeting: "CppCon",
          edition: "2018",
@@ -23304,7 +23373,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2740,
+          number: 2747,
       identifier: "GOTO Copenhagen-2018-1",
          meeting: "GOTO Copenhagen",
          edition: "2018",
@@ -23323,7 +23392,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 986,
+          number: 993,
       identifier: "CppCon-2015-25",
          meeting: "CppCon",
          edition: "2015",
@@ -23384,7 +23453,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1552,
+          number: 1559,
       identifier: "CppCon-2020-95",
          meeting: "CppCon",
          edition: "2020",
@@ -23404,7 +23473,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1231,
+          number: 1238,
       identifier: "CppCon-2017-70",
          meeting: "CppCon",
          edition: "2017",
@@ -23424,7 +23493,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2915,
+          number: 2922,
       identifier: "GOTOpia-2021-14",
          meeting: "GOTOpia",
          edition: "2021",
@@ -23463,7 +23532,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2610,
+          number: 2617,
       identifier: "GOTO Chicago-2018-21",
          meeting: "GOTO Chicago",
          edition: "2018",
@@ -23482,7 +23551,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1495,
+          number: 1502,
       identifier: "CppCon-2020-38",
          meeting: "CppCon",
          edition: "2020",
@@ -23502,7 +23571,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2658,
+          number: 2665,
       identifier: "GOTO Chicago-2019-27",
          meeting: "GOTO Chicago",
          edition: "2019",
@@ -23542,7 +23611,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1206,
+          number: 1213,
       identifier: "CppCon-2017-45",
          meeting: "CppCon",
          edition: "2017",
@@ -23562,7 +23631,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1344,
+          number: 1351,
       identifier: "CppCon-2018-85",
          meeting: "CppCon",
          edition: "2018",
@@ -23582,7 +23651,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1178,
+          number: 1185,
       identifier: "CppCon-2017-17",
          meeting: "CppCon",
          edition: "2017",
@@ -23602,7 +23671,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1689,
+          number: 1696,
       identifier: "code::dive-2018-19",
          meeting: "code::dive",
          edition: "2018",
@@ -23642,7 +23711,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1699,
+          number: 1706,
       identifier: "code::dive-2018-29",
          meeting: "code::dive",
          edition: "2018",
@@ -23681,7 +23750,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1859,
+          number: 1866,
       identifier: "accu-2017-44",
          meeting: "accu",
          edition: "2017",
@@ -23720,7 +23789,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1275,
+          number: 1282,
       identifier: "CppCon-2018-14",
          meeting: "CppCon",
          edition: "2018",
@@ -23740,7 +23809,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1401,
+          number: 1408,
       identifier: "CppCon-2019-44",
          meeting: "CppCon",
          edition: "2019",
@@ -23781,7 +23850,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2386,
+          number: 2393,
       identifier: "MUC++--53",
          meeting: "MUC++",
          edition: "",
@@ -23801,7 +23870,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1784,
+          number: 1791,
       identifier: "code::dive-2020-9",
          meeting: "code::dive",
          edition: "2020",
@@ -23820,7 +23889,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2385,
+          number: 2392,
       identifier: "MUC++--52",
          meeting: "MUC++",
          edition: "",
@@ -23840,7 +23909,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1693,
+          number: 1700,
       identifier: "code::dive-2018-23",
          meeting: "code::dive",
          edition: "2018",
@@ -23879,7 +23948,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1247,
+          number: 1254,
       identifier: "CppCon-2017-86",
          meeting: "CppCon",
          edition: "2017",
@@ -23899,7 +23968,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1492,
+          number: 1499,
       identifier: "CppCon-2020-35",
          meeting: "CppCon",
          edition: "2020",
@@ -23919,7 +23988,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1357,
+          number: 1364,
       identifier: "CppCon-2018-100",
          meeting: "CppCon",
          edition: "2018",
@@ -23939,7 +24008,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1971,
+          number: 1978,
       identifier: "accu-2019-57",
          meeting: "accu",
          edition: "2019",
@@ -23958,7 +24027,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 909,
+          number: 916,
       identifier: "CppCon-2014-48",
          meeting: "CppCon",
          edition: "2014",
@@ -23978,7 +24047,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1843,
+          number: 1850,
       identifier: "accu-2017-28",
          meeting: "accu",
          edition: "2017",
@@ -23997,7 +24066,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1422,
+          number: 1429,
       identifier: "CppCon-2019-65",
          meeting: "CppCon",
          edition: "2019",
@@ -24017,7 +24086,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1808,
+          number: 1815,
       identifier: "accu-2016-26",
          meeting: "accu",
          edition: "2016",
@@ -24036,7 +24105,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1981,
+          number: 1988,
       identifier: "accu-2019-67",
          meeting: "accu",
          edition: "2019",
@@ -24055,7 +24124,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 880,
+          number: 887,
       identifier: "CppCon-2014-19",
          meeting: "CppCon",
          edition: "2014",
@@ -24075,7 +24144,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2928,
+          number: 2935,
       identifier: "GOTOpia-2021-27",
          meeting: "GOTOpia",
          edition: "2021",
@@ -24114,7 +24183,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2301,
+          number: 2308,
       identifier: "Live Embedded Event-2021-20",
          meeting: "Live Embedded Event",
          edition: "2021",
@@ -24134,7 +24203,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2581,
+          number: 2588,
       identifier: "GOTO Berlin-2019-31",
          meeting: "GOTO Berlin",
          edition: "2019",
@@ -24153,7 +24222,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 3006,
+          number: 3013,
       identifier: "Oxidize Global-2020-3",
          meeting: "Oxidize Global",
          edition: "2020",
@@ -24193,7 +24262,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2269,
+          number: 2276,
       identifier: "Live Embedded Event-2020-23",
          meeting: "Live Embedded Event",
          edition: "2020",
@@ -24213,7 +24282,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 854,
+          number: 861,
       identifier: "Meeting Embedded-2018-5",
          meeting: "Meeting Embedded",
          edition: "2018",
@@ -24234,7 +24303,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1783,
+          number: 1790,
       identifier: "code::dive-2020-8",
          meeting: "code::dive",
          edition: "2020",
@@ -24253,7 +24322,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1483,
+          number: 1490,
       identifier: "CppCon-2020-26",
          meeting: "CppCon",
          edition: "2020",
@@ -24273,7 +24342,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 861,
+          number: 868,
       identifier: "Meeting Embedded-2020-2",
          meeting: "Meeting Embedded",
          edition: "2020",
@@ -24293,7 +24362,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 949,
+          number: 956,
       identifier: "CppCon-2014-88",
          meeting: "CppCon",
          edition: "2014",
@@ -24313,7 +24382,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2345,
+          number: 2352,
       identifier: "MUC++--12",
          meeting: "MUC++",
          edition: "",
@@ -24333,7 +24402,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2219,
+          number: 2226,
       identifier: "C++ Europe-2020-17",
          meeting: "C++ Europe",
          edition: "2020",
@@ -24353,7 +24422,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1121,
+          number: 1128,
       identifier: "CppCon-2016-60",
          meeting: "CppCon",
          edition: "2016",
@@ -24374,7 +24443,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2675,
+          number: 2682,
       identifier: "GOTO Chicago-2019-44",
          meeting: "GOTO Chicago",
          edition: "2019",
@@ -24393,7 +24462,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2355,
+          number: 2362,
       identifier: "MUC++--22",
          meeting: "MUC++",
          edition: "",
@@ -24413,7 +24482,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1984,
+          number: 1991,
       identifier: "accu-2019-73",
          meeting: "accu",
          edition: "2019",
@@ -24432,7 +24501,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2337,
+          number: 2344,
       identifier: "MUC++--4",
          meeting: "MUC++",
          edition: "",
@@ -24452,7 +24521,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1540,
+          number: 1547,
       identifier: "CppCon-2020-83",
          meeting: "CppCon",
          edition: "2020",
@@ -24472,7 +24541,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 913,
+          number: 920,
       identifier: "CppCon-2014-52",
          meeting: "CppCon",
          edition: "2014",
@@ -24513,7 +24582,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1342,
+          number: 1349,
       identifier: "CppCon-2018-83",
          meeting: "CppCon",
          edition: "2018",
@@ -24533,7 +24602,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2446,
+          number: 2453,
       identifier: "GOTO Amsterdam-2018-24",
          meeting: "GOTO Amsterdam",
          edition: "2018",
@@ -24552,7 +24621,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2549,
+          number: 2556,
       identifier: "GOTO Berlin-2018-46",
          meeting: "GOTO Berlin",
          edition: "2018",
@@ -24571,7 +24640,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1956,
+          number: 1963,
       identifier: "accu-2019-39",
          meeting: "accu",
          edition: "2019",
@@ -24610,7 +24679,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1191,
+          number: 1198,
       identifier: "CppCon-2017-30",
          meeting: "CppCon",
          edition: "2017",
@@ -24630,7 +24699,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1042,
+          number: 1049,
       identifier: "CppCon-2015-81",
          meeting: "CppCon",
          edition: "2015",
@@ -24650,7 +24719,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1301,
+          number: 1308,
       identifier: "CppCon-2018-40",
          meeting: "CppCon",
          edition: "2018",
@@ -24670,7 +24739,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1195,
+          number: 1202,
       identifier: "CppCon-2017-34",
          meeting: "CppCon",
          edition: "2017",
@@ -24690,7 +24759,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1274,
+          number: 1281,
       identifier: "CppCon-2018-13",
          meeting: "CppCon",
          edition: "2018",
@@ -24750,7 +24819,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2260,
+          number: 2267,
       identifier: "Live Embedded Event-2020-14",
          meeting: "Live Embedded Event",
          edition: "2020",
@@ -24770,7 +24839,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2359,
+          number: 2366,
       identifier: "MUC++--26",
          meeting: "MUC++",
          edition: "",
@@ -24790,7 +24859,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2231,
+          number: 2238,
       identifier: "Pacific C++-2017-7",
          meeting: "Pacific C++",
          edition: "2017",
@@ -24810,7 +24879,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1419,
+          number: 1426,
       identifier: "CppCon-2019-62",
          meeting: "CppCon",
          edition: "2019",
@@ -24830,7 +24899,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2948,
+          number: 2955,
       identifier: "RustConf-2020-2",
          meeting: "RustConf",
          edition: "2020",
@@ -24890,7 +24959,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1190,
+          number: 1197,
       identifier: "CppCon-2017-29",
          meeting: "CppCon",
          edition: "2017",
@@ -24910,7 +24979,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2449,
+          number: 2456,
       identifier: "GOTO Amsterdam-2018-27",
          meeting: "GOTO Amsterdam",
          edition: "2018",
@@ -24949,7 +25018,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2494,
+          number: 2501,
       identifier: "GOTO Amsterdam-2019-31",
          meeting: "GOTO Amsterdam",
          edition: "2019",
@@ -24968,7 +25037,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2510,
+          number: 2517,
       identifier: "GOTO Berlin-2018-7",
          meeting: "GOTO Berlin",
          edition: "2018",
@@ -24987,7 +25056,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2509,
+          number: 2516,
       identifier: "GOTO Berlin-2018-6",
          meeting: "GOTO Berlin",
          edition: "2018",
@@ -25006,7 +25075,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2470,
+          number: 2477,
       identifier: "GOTO Amsterdam-2019-7",
          meeting: "GOTO Amsterdam",
          edition: "2019",
@@ -25025,7 +25094,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1438,
+          number: 1445,
       identifier: "CppCon-2019-81",
          meeting: "CppCon",
          edition: "2019",
@@ -25045,7 +25114,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2986,
+          number: 2993,
       identifier: "RustFest-2020-6",
          meeting: "RustFest",
          edition: "2020",
@@ -25085,7 +25154,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1202,
+          number: 1209,
       identifier: "CppCon-2017-41",
          meeting: "CppCon",
          edition: "2017",
@@ -25105,7 +25174,27 @@ const talks = [
         language: "English"
    },
    {
-          number: 1043,
+          number: 853,
+      identifier: "Meeting C++ online--4",
+         meeting: "Meeting C++ online",
+         edition: "",
+           title: "Everything you know about colour is wrong",
+        speakers: [
+                     "Guy Davidson"
+                  ],
+           video: "https://youtube.com/watch?v=_zQ_uBAHA4A",
+       thumbnail: "http://img.youtube.com/vi/_zQ_uBAHA4A/0.jpg",
+        duration: 2991,
+            tags: [
+                     "c++",
+                     "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 1050,
       identifier: "CppCon-2015-82",
          meeting: "CppCon",
          edition: "2015",
@@ -25125,7 +25214,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1132,
+          number: 1139,
       identifier: "CppCon-2016-71",
          meeting: "CppCon",
          edition: "2016",
@@ -25145,7 +25234,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 944,
+          number: 951,
       identifier: "CppCon-2014-83",
          meeting: "CppCon",
          edition: "2014",
@@ -25165,7 +25254,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 943,
+          number: 950,
       identifier: "CppCon-2014-82",
          meeting: "CppCon",
          edition: "2014",
@@ -25185,7 +25274,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 942,
+          number: 949,
       identifier: "CppCon-2014-81",
          meeting: "CppCon",
          edition: "2014",
@@ -25245,7 +25334,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2121,
+          number: 2128,
       identifier: "C++ on sea-2021-2",
          meeting: "C++ on sea",
          edition: "2021",
@@ -25305,7 +25394,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1522,
+          number: 1529,
       identifier: "CppCon-2020-65",
          meeting: "CppCon",
          edition: "2020",
@@ -25325,7 +25414,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 987,
+          number: 994,
       identifier: "CppCon-2015-26",
          meeting: "CppCon",
          edition: "2015",
@@ -25405,7 +25494,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1343,
+          number: 1350,
       identifier: "CppCon-2018-84",
          meeting: "CppCon",
          edition: "2018",
@@ -25425,7 +25514,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2192,
+          number: 2199,
       identifier: "C++ Europe-2018-6",
          meeting: "C++ Europe",
          edition: "2018",
@@ -25465,7 +25554,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1781,
+          number: 1788,
       identifier: "code::dive-2020-6",
          meeting: "code::dive",
          edition: "2020",
@@ -25485,7 +25574,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2547,
+          number: 2554,
       identifier: "GOTO Berlin-2018-44",
          meeting: "GOTO Berlin",
          edition: "2018",
@@ -25525,7 +25614,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2585,
+          number: 2592,
       identifier: "GOTO Berlin-2019-35",
          meeting: "GOTO Berlin",
          edition: "2019",
@@ -25544,7 +25633,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1605,
+          number: 1612,
       identifier: "code::dive-2016-16",
          meeting: "code::dive",
          edition: "2016",
@@ -25565,7 +25654,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2349,
+          number: 2356,
       identifier: "MUC++--16",
          meeting: "MUC++",
          edition: "",
@@ -25585,7 +25674,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1500,
+          number: 1507,
       identifier: "CppCon-2020-43",
          meeting: "CppCon",
          edition: "2020",
@@ -25605,7 +25694,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2561,
+          number: 2568,
       identifier: "GOTO Berlin-2019-11",
          meeting: "GOTO Berlin",
          edition: "2019",
@@ -25644,7 +25733,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1634,
+          number: 1641,
       identifier: "code::dive-2017-3",
          meeting: "code::dive",
          edition: "2017",
@@ -25663,7 +25752,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 3005,
+          number: 3012,
       identifier: "Oxidize Global-2020-2",
          meeting: "Oxidize Global",
          edition: "2020",
@@ -25684,7 +25773,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 968,
+          number: 975,
       identifier: "CppCon-2015-7",
          meeting: "CppCon",
          edition: "2015",
@@ -25724,7 +25813,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1409,
+          number: 1416,
       identifier: "CppCon-2019-52",
          meeting: "CppCon",
          edition: "2019",
@@ -25764,7 +25853,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 979,
+          number: 986,
       identifier: "CppCon-2015-18",
          meeting: "CppCon",
          edition: "2015",
@@ -25784,7 +25873,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 983,
+          number: 990,
       identifier: "CppCon-2015-22",
          meeting: "CppCon",
          edition: "2015",
@@ -25804,7 +25893,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1817,
+          number: 1824,
       identifier: "accu-2016-38",
          meeting: "accu",
          edition: "2016",
@@ -25844,7 +25933,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1996,
+          number: 2003,
       identifier: "accu-2019-85",
          meeting: "accu",
          edition: "2019",
@@ -25863,7 +25952,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1064,
+          number: 1071,
       identifier: "CppCon-2016-3",
          meeting: "CppCon",
          edition: "2016",
@@ -25883,7 +25972,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2057,
+          number: 2064,
       identifier: "ItCppCon-2021-14",
          meeting: "ItCppCon",
          edition: "2021",
@@ -25903,7 +25992,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2348,
+          number: 2355,
       identifier: "MUC++--15",
          meeting: "MUC++",
          edition: "",
@@ -25923,7 +26012,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2347,
+          number: 2354,
       identifier: "MUC++--14",
          meeting: "MUC++",
          edition: "",
@@ -25943,7 +26032,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1642,
+          number: 1649,
       identifier: "code::dive-2017-11",
          meeting: "code::dive",
          edition: "2017",
@@ -25962,7 +26051,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2861,
+          number: 2868,
       identifier: "GOTOpia-2020-18",
          meeting: "GOTOpia",
          edition: "2020",
@@ -26001,7 +26090,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1352,
+          number: 1359,
       identifier: "CppCon-2018-95",
          meeting: "CppCon",
          edition: "2018",
@@ -26041,7 +26130,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2575,
+          number: 2582,
       identifier: "GOTO Berlin-2019-25",
          meeting: "GOTO Berlin",
          edition: "2019",
@@ -26080,7 +26169,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1277,
+          number: 1284,
       identifier: "CppCon-2018-16",
          meeting: "CppCon",
          edition: "2018",
@@ -26140,7 +26229,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1443,
+          number: 1450,
       identifier: "CppCon-2019-86",
          meeting: "CppCon",
          edition: "2019",
@@ -26160,7 +26249,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 970,
+          number: 977,
       identifier: "CppCon-2015-9",
          meeting: "CppCon",
          edition: "2015",
@@ -26180,7 +26269,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1188,
+          number: 1195,
       identifier: "CppCon-2017-27",
          meeting: "CppCon",
          edition: "2017",
@@ -26200,7 +26289,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1738,
+          number: 1745,
       identifier: "code::dive-2019-8",
          meeting: "code::dive",
          edition: "2019",
@@ -26219,7 +26308,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1802,
+          number: 1809,
       identifier: "accu-2016-17",
          meeting: "accu",
          edition: "2016",
@@ -26238,7 +26327,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1620,
+          number: 1627,
       identifier: "code::dive-2016-31",
          meeting: "code::dive",
          edition: "2016",
@@ -26257,7 +26346,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2679,
+          number: 2686,
       identifier: "GOTO Chicago-2019-48",
          meeting: "GOTO Chicago",
          edition: "2019",
@@ -26296,7 +26385,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1970,
+          number: 1977,
       identifier: "accu-2019-56",
          meeting: "accu",
          edition: "2019",
@@ -26315,7 +26404,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1885,
+          number: 1892,
       identifier: "accu-2018-18",
          meeting: "accu",
          edition: "2018",
@@ -26335,7 +26424,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1792,
+          number: 1799,
       identifier: "accu-2016-4",
          meeting: "accu",
          edition: "2016",
@@ -26394,7 +26483,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2919,
+          number: 2926,
       identifier: "GOTOpia-2021-18",
          meeting: "GOTOpia",
          edition: "2021",
@@ -26413,7 +26502,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2773,
+          number: 2780,
       identifier: "GOTO Copenhagen-2018-34",
          meeting: "GOTO Copenhagen",
          edition: "2018",
@@ -26432,7 +26521,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2201,
+          number: 2208,
       identifier: "C++ Europe-2019-8",
          meeting: "C++ Europe",
          edition: "2019",
@@ -26452,7 +26541,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2842,
+          number: 2849,
       identifier: "GOTO Oslo-2018-13",
          meeting: "GOTO Oslo",
          edition: "2018",
@@ -26471,7 +26560,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2877,
+          number: 2884,
       identifier: "GOTOpia-2020-37",
          meeting: "GOTOpia",
          edition: "2020",
@@ -26490,7 +26579,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1158,
+          number: 1165,
       identifier: "CppCon-2016-97",
          meeting: "CppCon",
          edition: "2016",
@@ -26510,7 +26599,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2938,
+          number: 2945,
       identifier: "RustConf-2019-8",
          meeting: "RustConf",
          edition: "2019",
@@ -26550,7 +26639,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1196,
+          number: 1203,
       identifier: "CppCon-2017-35",
          meeting: "CppCon",
          edition: "2017",
@@ -26590,7 +26679,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1013,
+          number: 1020,
       identifier: "CppCon-2015-52",
          meeting: "CppCon",
          edition: "2015",
@@ -26610,7 +26699,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2151,
+          number: 2158,
       identifier: "Core C++-2019-15",
          meeting: "Core C++",
          edition: "2019",
@@ -26630,7 +26719,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1961,
+          number: 1968,
       identifier: "accu-2019-44",
          meeting: "accu",
          edition: "2019",
@@ -26689,7 +26778,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 921,
+          number: 928,
       identifier: "CppCon-2014-60",
          meeting: "CppCon",
          edition: "2014",
@@ -26750,7 +26839,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1651,
+          number: 1658,
       identifier: "code::dive-2017-20",
          meeting: "code::dive",
          edition: "2017",
@@ -26789,7 +26878,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1416,
+          number: 1423,
       identifier: "CppCon-2019-59",
          meeting: "CppCon",
          edition: "2019",
@@ -26809,7 +26898,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2756,
+          number: 2763,
       identifier: "GOTO Copenhagen-2018-17",
          meeting: "GOTO Copenhagen",
          edition: "2018",
@@ -26888,7 +26977,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2545,
+          number: 2552,
       identifier: "GOTO Berlin-2018-42",
          meeting: "GOTO Berlin",
          edition: "2018",
@@ -26907,7 +26996,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1378,
+          number: 1385,
       identifier: "CppCon-2019-21",
          meeting: "CppCon",
          edition: "2019",
@@ -26927,7 +27016,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2943,
+          number: 2950,
       identifier: "RustConf-2019-13",
          meeting: "RustConf",
          edition: "2019",
@@ -26948,7 +27037,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2300,
+          number: 2307,
       identifier: "Live Embedded Event-2021-19",
          meeting: "Live Embedded Event",
          edition: "2021",
@@ -26968,7 +27057,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2926,
+          number: 2933,
       identifier: "GOTOpia-2021-25",
          meeting: "GOTOpia",
          edition: "2021",
@@ -26987,7 +27076,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2505,
+          number: 2512,
       identifier: "GOTO Amsterdam-2019-42",
          meeting: "GOTO Amsterdam",
          edition: "2019",
@@ -27006,7 +27095,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1055,
+          number: 1062,
       identifier: "CppCon-2015-94",
          meeting: "CppCon",
          edition: "2015",
@@ -27046,7 +27135,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2190,
+          number: 2197,
       identifier: "C++ Europe-2018-4",
          meeting: "C++ Europe",
          edition: "2018",
@@ -27066,7 +27155,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2090,
+          number: 2097,
       identifier: "C++ on sea-2020-9",
          meeting: "C++ on sea",
          edition: "2020",
@@ -27106,7 +27195,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1962,
+          number: 1969,
       identifier: "accu-2019-48",
          meeting: "accu",
          edition: "2019",
@@ -27145,7 +27234,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1194,
+          number: 1201,
       identifier: "CppCon-2017-33",
          meeting: "CppCon",
          edition: "2017",
@@ -27165,7 +27254,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2475,
+          number: 2482,
       identifier: "GOTO Amsterdam-2019-12",
          meeting: "GOTO Amsterdam",
          edition: "2019",
@@ -27184,7 +27273,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1364,
+          number: 1371,
       identifier: "CppCon-2019-7",
          meeting: "CppCon",
          edition: "2019",
@@ -27204,7 +27293,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2529,
+          number: 2536,
       identifier: "GOTO Berlin-2018-26",
          meeting: "GOTO Berlin",
          edition: "2018",
@@ -27223,7 +27312,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2496,
+          number: 2503,
       identifier: "GOTO Amsterdam-2019-33",
          meeting: "GOTO Amsterdam",
          edition: "2019",
@@ -27242,7 +27331,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1333,
+          number: 1340,
       identifier: "CppCon-2018-72",
          meeting: "CppCon",
          edition: "2018",
@@ -27262,7 +27351,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2550,
+          number: 2557,
       identifier: "GOTO Berlin-2018-47",
          meeting: "GOTO Berlin",
          edition: "2018",
@@ -27281,7 +27370,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2689,
+          number: 2696,
       identifier: "GOTO Chicago-2019-58",
          meeting: "GOTO Chicago",
          edition: "2019",
@@ -27300,7 +27389,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2688,
+          number: 2695,
       identifier: "GOTO Chicago-2019-57",
          meeting: "GOTO Chicago",
          edition: "2019",
@@ -27319,7 +27408,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2983,
+          number: 2990,
       identifier: "RustFest-2020-3",
          meeting: "RustFest",
          edition: "2020",
@@ -27340,7 +27429,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2434,
+          number: 2441,
       identifier: "GOTO Amsterdam-2018-12",
          meeting: "GOTO Amsterdam",
          edition: "2018",
@@ -27459,7 +27548,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2130,
+          number: 2137,
       identifier: "C++ on sea-2021-11",
          meeting: "C++ on sea",
          edition: "2021",
@@ -27479,7 +27568,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1203,
+          number: 1210,
       identifier: "CppCon-2017-42",
          meeting: "CppCon",
          edition: "2017",
@@ -27539,7 +27628,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1863,
+          number: 1870,
       identifier: "accu-2017-51",
          meeting: "accu",
          edition: "2017",
@@ -27579,7 +27668,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 994,
+          number: 1001,
       identifier: "CppCon-2015-33",
          meeting: "CppCon",
          edition: "2015",
@@ -27599,7 +27688,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1534,
+          number: 1541,
       identifier: "CppCon-2020-77",
          meeting: "CppCon",
          edition: "2020",
@@ -27639,7 +27728,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1567,
+          number: 1574,
       identifier: "code::dive-2014-10",
          meeting: "code::dive",
          edition: "2014",
@@ -27658,7 +27747,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1841,
+          number: 1848,
       identifier: "accu-2017-23",
          meeting: "accu",
          edition: "2017",
@@ -27677,7 +27766,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2506,
+          number: 2513,
       identifier: "GOTO Berlin-2018-3",
          meeting: "GOTO Berlin",
          edition: "2018",
@@ -27736,7 +27825,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1616,
+          number: 1623,
       identifier: "code::dive-2016-27",
          meeting: "code::dive",
          edition: "2016",
@@ -27756,7 +27845,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2188,
+          number: 2195,
       identifier: "C++ Europe-2018-2",
          meeting: "C++ Europe",
          edition: "2018",
@@ -27776,7 +27865,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2198,
+          number: 2205,
       identifier: "C++ Europe-2019-5",
          meeting: "C++ Europe",
          edition: "2019",
@@ -27796,7 +27885,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2427,
+          number: 2434,
       identifier: "GOTO Amsterdam-2018-5",
          meeting: "GOTO Amsterdam",
          edition: "2018",
@@ -27815,7 +27904,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1614,
+          number: 1621,
       identifier: "code::dive-2016-25",
          meeting: "code::dive",
          edition: "2016",
@@ -27854,7 +27943,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1049,
+          number: 1056,
       identifier: "CppCon-2015-88",
          meeting: "CppCon",
          edition: "2015",
@@ -27914,7 +28003,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 991,
+          number: 998,
       identifier: "CppCon-2015-30",
          meeting: "CppCon",
          edition: "2015",
@@ -27954,7 +28043,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1593,
+          number: 1600,
       identifier: "code::dive-2016-4",
          meeting: "code::dive",
          edition: "2016",
@@ -27974,7 +28063,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1332,
+          number: 1339,
       identifier: "CppCon-2018-71",
          meeting: "CppCon",
          edition: "2018",
@@ -28014,7 +28103,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1602,
+          number: 1609,
       identifier: "code::dive-2016-13",
          meeting: "code::dive",
          edition: "2016",
@@ -28053,7 +28142,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2898,
+          number: 2905,
       identifier: "GOTOpia-2020-58",
          meeting: "GOTOpia",
          edition: "2020",
@@ -28072,7 +28161,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2962,
+          number: 2969,
       identifier: "RustConf-2021-6",
          meeting: "RustConf",
          edition: "2021",
@@ -28092,7 +28181,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1197,
+          number: 1204,
       identifier: "CppCon-2017-36",
          meeting: "CppCon",
          edition: "2017",
@@ -28112,7 +28201,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1536,
+          number: 1543,
       identifier: "CppCon-2020-79",
          meeting: "CppCon",
          edition: "2020",
@@ -28132,7 +28221,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1241,
+          number: 1248,
       identifier: "CppCon-2017-80",
          meeting: "CppCon",
          edition: "2017",
@@ -28172,7 +28261,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1135,
+          number: 1142,
       identifier: "CppCon-2016-74",
          meeting: "CppCon",
          edition: "2016",
@@ -28192,7 +28281,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2541,
+          number: 2548,
       identifier: "GOTO Berlin-2018-38",
          meeting: "GOTO Berlin",
          edition: "2018",
@@ -28211,7 +28300,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 868,
+          number: 875,
       identifier: "CppCon-2014-7",
          meeting: "CppCon",
          edition: "2014",
@@ -28231,7 +28320,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1145,
+          number: 1152,
       identifier: "CppCon-2016-84",
          meeting: "CppCon",
          edition: "2016",
@@ -28251,7 +28340,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1101,
+          number: 1108,
       identifier: "CppCon-2016-40",
          meeting: "CppCon",
          edition: "2016",
@@ -28351,7 +28440,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1397,
+          number: 1404,
       identifier: "CppCon-2019-40",
          meeting: "CppCon",
          edition: "2019",
@@ -28371,7 +28460,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2171,
+          number: 2178,
       identifier: "Core C++-2021-7",
          meeting: "Core C++",
          edition: "2021",
@@ -28451,7 +28540,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1703,
+          number: 1710,
       identifier: "code::dive-2018-33",
          meeting: "code::dive",
          edition: "2018",
@@ -28470,7 +28559,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2235,
+          number: 2242,
       identifier: "Pacific C++-2018-1",
          meeting: "Pacific C++",
          edition: "2018",
@@ -28570,7 +28659,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 957,
+          number: 964,
       identifier: "CppCon-2014-96",
          meeting: "CppCon",
          edition: "2014",
@@ -28590,7 +28679,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 956,
+          number: 963,
       identifier: "CppCon-2014-95",
          meeting: "CppCon",
          edition: "2014",
@@ -28630,7 +28719,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1506,
+          number: 1513,
       identifier: "CppCon-2020-49",
          meeting: "CppCon",
          edition: "2020",
@@ -28650,7 +28739,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2592,
+          number: 2599,
       identifier: "GOTO Chicago-2018-3",
          meeting: "GOTO Chicago",
          edition: "2018",
@@ -28669,7 +28758,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1448,
+          number: 1455,
       identifier: "CppCon-2019-91",
          meeting: "CppCon",
          edition: "2019",
@@ -28690,7 +28779,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1778,
+          number: 1785,
       identifier: "code::dive-2020-3",
          meeting: "code::dive",
          edition: "2020",
@@ -28729,7 +28818,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2659,
+          number: 2666,
       identifier: "GOTO Chicago-2019-28",
          meeting: "GOTO Chicago",
          edition: "2019",
@@ -28748,7 +28837,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2484,
+          number: 2491,
       identifier: "GOTO Amsterdam-2019-21",
          meeting: "GOTO Amsterdam",
          edition: "2019",
@@ -28767,7 +28856,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1706,
+          number: 1713,
       identifier: "code::dive-2018-36",
          meeting: "code::dive",
          edition: "2018",
@@ -28786,7 +28875,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2721,
+          number: 2728,
       identifier: "GOTO Chicago-2020-32",
          meeting: "GOTO Chicago",
          edition: "2020",
@@ -28805,7 +28894,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1334,
+          number: 1341,
       identifier: "CppCon-2018-73",
          meeting: "CppCon",
          edition: "2018",
@@ -28865,7 +28954,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2267,
+          number: 2274,
       identifier: "Live Embedded Event-2020-21",
          meeting: "Live Embedded Event",
          edition: "2020",
@@ -28885,7 +28974,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1679,
+          number: 1686,
       identifier: "code::dive-2018-9",
          meeting: "code::dive",
          edition: "2018",
@@ -28924,7 +29013,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2000,
+          number: 2007,
       identifier: "accu-2019-89",
          meeting: "accu",
          edition: "2019",
@@ -28943,7 +29032,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1643,
+          number: 1650,
       identifier: "code::dive-2017-12",
          meeting: "code::dive",
          edition: "2017",
@@ -28962,7 +29051,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1639,
+          number: 1646,
       identifier: "code::dive-2017-8",
          meeting: "code::dive",
          edition: "2017",
@@ -29001,7 +29090,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2560,
+          number: 2567,
       identifier: "GOTO Berlin-2019-10",
          meeting: "GOTO Berlin",
          edition: "2019",
@@ -29020,7 +29109,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1941,
+          number: 1948,
       identifier: "accu-2019-20",
          meeting: "accu",
          edition: "2019",
@@ -29039,7 +29128,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2670,
+          number: 2677,
       identifier: "GOTO Chicago-2019-39",
          meeting: "GOTO Chicago",
          edition: "2019",
@@ -29058,7 +29147,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2871,
+          number: 2878,
       identifier: "GOTOpia-2020-28",
          meeting: "GOTOpia",
          edition: "2020",
@@ -29077,7 +29166,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1684,
+          number: 1691,
       identifier: "code::dive-2018-14",
          meeting: "code::dive",
          edition: "2018",
@@ -29116,7 +29205,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2552,
+          number: 2559,
       identifier: "GOTO Berlin-2019-2",
          meeting: "GOTO Berlin",
          edition: "2019",
@@ -29135,7 +29224,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2882,
+          number: 2889,
       identifier: "GOTOpia-2020-42",
          meeting: "GOTOpia",
          edition: "2020",
@@ -29154,7 +29243,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2885,
+          number: 2892,
       identifier: "GOTOpia-2020-45",
          meeting: "GOTOpia",
          edition: "2020",
@@ -29213,7 +29302,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2795,
+          number: 2802,
       identifier: "GOTO Copenhagen-2019-14",
          meeting: "GOTO Copenhagen",
          edition: "2019",
@@ -29233,7 +29322,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2748,
+          number: 2755,
       identifier: "GOTO Copenhagen-2018-9",
          meeting: "GOTO Copenhagen",
          edition: "2018",
@@ -29252,7 +29341,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2275,
+          number: 2282,
       identifier: "Live Embedded Event-2020-29",
          meeting: "Live Embedded Event",
          edition: "2020",
@@ -29272,7 +29361,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1983,
+          number: 1990,
       identifier: "accu-2019-69",
          meeting: "accu",
          edition: "2019",
@@ -29292,7 +29381,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2522,
+          number: 2529,
       identifier: "GOTO Berlin-2018-19",
          meeting: "GOTO Berlin",
          edition: "2018",
@@ -29311,7 +29400,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1668,
+          number: 1675,
       identifier: "code::dive-2017-37",
          meeting: "code::dive",
          edition: "2017",
@@ -29330,7 +29419,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2860,
+          number: 2867,
       identifier: "GOTOpia-2020-17",
          meeting: "GOTOpia",
          edition: "2020",
@@ -29349,7 +29438,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2911,
+          number: 2918,
       identifier: "GOTOpia-2021-10",
          meeting: "GOTOpia",
          edition: "2021",
@@ -29368,7 +29457,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2694,
+          number: 2701,
       identifier: "GOTO Chicago-2020-5",
          meeting: "GOTO Chicago",
          edition: "2020",
@@ -29387,7 +29476,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2852,
+          number: 2859,
       identifier: "GOTOpia-2020-9",
          meeting: "GOTOpia",
          edition: "2020",
@@ -29406,7 +29495,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1373,
+          number: 1380,
       identifier: "CppCon-2019-16",
          meeting: "CppCon",
          edition: "2019",
@@ -29426,7 +29515,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1868,
+          number: 1875,
       identifier: "accu-2017-56",
          meeting: "accu",
          edition: "2017",
@@ -29446,7 +29535,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1912,
+          number: 1919,
       identifier: "accu-2018-48",
          meeting: "accu",
          edition: "2018",
@@ -29466,7 +29555,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 862,
+          number: 869,
       identifier: "CppCon-2014-1",
          meeting: "CppCon",
          edition: "2014",
@@ -29486,7 +29575,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 990,
+          number: 997,
       identifier: "CppCon-2015-29",
          meeting: "CppCon",
          edition: "2015",
@@ -29506,7 +29595,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1062,
+          number: 1069,
       identifier: "CppCon-2016-1",
          meeting: "CppCon",
          edition: "2016",
@@ -29526,7 +29615,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1198,
+          number: 1205,
       identifier: "CppCon-2017-37",
          meeting: "CppCon",
          edition: "2017",
@@ -29546,7 +29635,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2325,
+          number: 2332,
       identifier: "corehard-2018-7",
          meeting: "corehard",
          edition: "2018",
@@ -29586,7 +29675,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2832,
+          number: 2839,
       identifier: "GOTO Oslo-2018-3",
          meeting: "GOTO Oslo",
          edition: "2018",
@@ -29605,7 +29694,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1919,
+          number: 1926,
       identifier: "accu-2018-58",
          meeting: "accu",
          edition: "2018",
@@ -29625,7 +29714,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1906,
+          number: 1913,
       identifier: "accu-2018-42",
          meeting: "accu",
          edition: "2018",
@@ -29644,7 +29733,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2968,
+          number: 2975,
       identifier: "RustConf-2021-12",
          meeting: "RustConf",
          edition: "2021",
@@ -29664,7 +29753,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1475,
+          number: 1482,
       identifier: "CppCon-2020-18",
          meeting: "CppCon",
          edition: "2020",
@@ -29684,7 +29773,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1220,
+          number: 1227,
       identifier: "CppCon-2017-59",
          meeting: "CppCon",
          edition: "2017",
@@ -29704,7 +29793,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 961,
+          number: 968,
       identifier: "CppCon-2014-100",
          meeting: "CppCon",
          edition: "2014",
@@ -29724,7 +29813,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1619,
+          number: 1626,
       identifier: "code::dive-2016-30",
          meeting: "code::dive",
          edition: "2016",
@@ -29783,7 +29872,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 982,
+          number: 989,
       identifier: "CppCon-2015-21",
          meeting: "CppCon",
          edition: "2015",
@@ -29823,7 +29912,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1740,
+          number: 1747,
       identifier: "code::dive-2019-10",
          meeting: "code::dive",
          edition: "2019",
@@ -29842,7 +29931,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1993,
+          number: 2000,
       identifier: "accu-2019-82",
          meeting: "accu",
          edition: "2019",
@@ -29861,7 +29950,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1451,
+          number: 1458,
       identifier: "CppCon-2019-94",
          meeting: "CppCon",
          edition: "2019",
@@ -29882,7 +29971,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1952,
+          number: 1959,
       identifier: "accu-2019-31",
          meeting: "accu",
          edition: "2019",
@@ -29902,7 +29991,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1938,
+          number: 1945,
       identifier: "accu-2019-13",
          meeting: "accu",
          edition: "2019",
@@ -29921,7 +30010,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1942,
+          number: 1949,
       identifier: "accu-2019-21",
          meeting: "accu",
          edition: "2019",
@@ -29940,7 +30029,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1925,
+          number: 1932,
       identifier: "accu-2018-64",
          meeting: "accu",
          edition: "2018",
@@ -29960,7 +30049,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1498,
+          number: 1505,
       identifier: "CppCon-2020-41",
          meeting: "CppCon",
          edition: "2020",
@@ -30021,7 +30110,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2609,
+          number: 2616,
       identifier: "GOTO Chicago-2018-20",
          meeting: "GOTO Chicago",
          edition: "2018",
@@ -30040,7 +30129,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2162,
+          number: 2169,
       identifier: "Core C++-2019-45",
          meeting: "Core C++",
          edition: "2019",
@@ -30060,7 +30149,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1080,
+          number: 1087,
       identifier: "CppCon-2016-19",
          meeting: "CppCon",
          edition: "2016",
@@ -30081,7 +30170,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1096,
+          number: 1103,
       identifier: "CppCon-2016-35",
          meeting: "CppCon",
          edition: "2016",
@@ -30142,7 +30231,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2714,
+          number: 2721,
       identifier: "GOTO Chicago-2020-25",
          meeting: "GOTO Chicago",
          edition: "2020",
@@ -30162,7 +30251,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1308,
+          number: 1315,
       identifier: "CppCon-2018-47",
          meeting: "CppCon",
          edition: "2018",
@@ -30222,7 +30311,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1927,
+          number: 1934,
       identifier: "accu-2019-2",
          meeting: "accu",
          edition: "2019",
@@ -30241,7 +30330,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1439,
+          number: 1446,
       identifier: "CppCon-2019-82",
          meeting: "CppCon",
          edition: "2019",
@@ -30261,7 +30350,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1854,
+          number: 1861,
       identifier: "accu-2017-39",
          meeting: "accu",
          edition: "2017",
@@ -30301,7 +30390,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2055,
+          number: 2062,
       identifier: "ItCppCon-2021-12",
          meeting: "ItCppCon",
          edition: "2021",
@@ -30341,7 +30430,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2579,
+          number: 2586,
       identifier: "GOTO Berlin-2019-29",
          meeting: "GOTO Berlin",
          edition: "2019",
@@ -30360,7 +30449,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 905,
+          number: 912,
       identifier: "CppCon-2014-44",
          meeting: "CppCon",
          edition: "2014",
@@ -30400,7 +30489,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1114,
+          number: 1121,
       identifier: "CppCon-2016-53",
          meeting: "CppCon",
          edition: "2016",
@@ -30420,7 +30509,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1736,
+          number: 1743,
       identifier: "code::dive-2019-6",
          meeting: "code::dive",
          edition: "2019",
@@ -30439,7 +30528,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2774,
+          number: 2781,
       identifier: "GOTO Copenhagen-2018-35",
          meeting: "GOTO Copenhagen",
          edition: "2018",
@@ -30458,7 +30547,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2687,
+          number: 2694,
       identifier: "GOTO Chicago-2019-56",
          meeting: "GOTO Chicago",
          edition: "2019",
@@ -30497,7 +30586,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1309,
+          number: 1316,
       identifier: "CppCon-2018-48",
          meeting: "CppCon",
          edition: "2018",
@@ -30517,7 +30606,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1928,
+          number: 1935,
       identifier: "accu-2019-3",
          meeting: "accu",
          edition: "2019",
@@ -30556,7 +30645,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1539,
+          number: 1546,
       identifier: "CppCon-2020-82",
          meeting: "CppCon",
          edition: "2020",
@@ -30576,7 +30665,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 3010,
+          number: 3017,
       identifier: "Oxidize Global-2020-7",
          meeting: "Oxidize Global",
          edition: "2020",
@@ -30616,7 +30705,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2372,
+          number: 2379,
       identifier: "MUC++--39",
          meeting: "MUC++",
          edition: "",
@@ -30636,7 +30725,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1936,
+          number: 1943,
       identifier: "accu-2019-11",
          meeting: "accu",
          edition: "2019",
@@ -30656,7 +30745,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2277,
+          number: 2284,
       identifier: "Live Embedded Event-2020-31",
          meeting: "Live Embedded Event",
          edition: "2020",
@@ -30676,7 +30765,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 3008,
+          number: 3015,
       identifier: "Oxidize Global-2020-5",
          meeting: "Oxidize Global",
          edition: "2020",
@@ -30697,7 +30786,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2299,
+          number: 2306,
       identifier: "Live Embedded Event-2021-18",
          meeting: "Live Embedded Event",
          edition: "2021",
@@ -30717,7 +30806,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2586,
+          number: 2593,
       identifier: "GOTO Berlin-2019-36",
          meeting: "GOTO Berlin",
          edition: "2019",
@@ -30736,7 +30825,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2908,
+          number: 2915,
       identifier: "GOTOpia-2021-7",
          meeting: "GOTOpia",
          edition: "2021",
@@ -30775,7 +30864,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1680,
+          number: 1687,
       identifier: "code::dive-2018-10",
          meeting: "code::dive",
          edition: "2018",
@@ -30814,7 +30903,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2965,
+          number: 2972,
       identifier: "RustConf-2021-9",
          meeting: "RustConf",
          edition: "2021",
@@ -30835,7 +30924,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2798,
+          number: 2805,
       identifier: "GOTO Copenhagen-2019-17",
          meeting: "GOTO Copenhagen",
          edition: "2019",
@@ -30855,7 +30944,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1949,
+          number: 1956,
       identifier: "accu-2019-28",
          meeting: "accu",
          edition: "2019",
@@ -30874,7 +30963,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2909,
+          number: 2916,
       identifier: "GOTOpia-2021-8",
          meeting: "GOTOpia",
          edition: "2021",
@@ -30893,7 +30982,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2127,
+          number: 2134,
       identifier: "C++ on sea-2021-8",
          meeting: "C++ on sea",
          edition: "2021",
@@ -30913,7 +31002,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1884,
+          number: 1891,
       identifier: "accu-2018-17",
          meeting: "accu",
          edition: "2018",
@@ -30932,7 +31021,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2548,
+          number: 2555,
       identifier: "GOTO Berlin-2018-45",
          meeting: "GOTO Berlin",
          edition: "2018",
@@ -30951,7 +31040,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2473,
+          number: 2480,
       identifier: "GOTO Amsterdam-2019-10",
          meeting: "GOTO Amsterdam",
          edition: "2019",
@@ -30970,7 +31059,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2102,
+          number: 2109,
       identifier: "C++ on sea-2020-27",
          meeting: "C++ on sea",
          edition: "2020",
@@ -30990,7 +31079,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1819,
+          number: 1826,
       identifier: "accu-2016-40",
          meeting: "accu",
          edition: "2016",
@@ -31009,7 +31098,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2807,
+          number: 2814,
       identifier: "GOTO Copenhagen-2019-26",
          meeting: "GOTO Copenhagen",
          edition: "2019",
@@ -31028,7 +31117,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2553,
+          number: 2560,
       identifier: "GOTO Berlin-2019-3",
          meeting: "GOTO Berlin",
          edition: "2019",
@@ -31047,7 +31136,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2533,
+          number: 2540,
       identifier: "GOTO Berlin-2018-30",
          meeting: "GOTO Berlin",
          edition: "2018",
@@ -31068,7 +31157,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2582,
+          number: 2589,
       identifier: "GOTO Berlin-2019-32",
          meeting: "GOTO Berlin",
          edition: "2019",
@@ -31087,7 +31176,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1561,
+          number: 1568,
       identifier: "code::dive-2014-4",
          meeting: "code::dive",
          edition: "2014",
@@ -31106,7 +31195,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 919,
+          number: 926,
       identifier: "CppCon-2014-58",
          meeting: "CppCon",
          edition: "2014",
@@ -31126,7 +31215,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1556,
+          number: 1563,
       identifier: "CppCon-2020-99",
          meeting: "CppCon",
          edition: "2020",
@@ -31166,7 +31255,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1710,
+          number: 1717,
       identifier: "code::dive-2018-40",
          meeting: "code::dive",
          edition: "2018",
@@ -31185,7 +31274,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1793,
+          number: 1800,
       identifier: "accu-2016-5",
          meeting: "accu",
          edition: "2016",
@@ -31204,7 +31293,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1629,
+          number: 1636,
       identifier: "code::dive-2016-40",
          meeting: "code::dive",
          edition: "2016",
@@ -31243,7 +31332,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2711,
+          number: 2718,
       identifier: "GOTO Chicago-2020-22",
          meeting: "GOTO Chicago",
          edition: "2020",
@@ -31262,7 +31351,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1382,
+          number: 1389,
       identifier: "CppCon-2019-25",
          meeting: "CppCon",
          edition: "2019",
@@ -31302,7 +31391,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2732,
+          number: 2739,
       identifier: "GOTO Chicago-2020-43",
          meeting: "GOTO Chicago",
          edition: "2020",
@@ -31322,7 +31411,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2317,
+          number: 2324,
       identifier: "corehard-2017-2",
          meeting: "corehard",
          edition: "2017",
@@ -31342,7 +31431,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2256,
+          number: 2263,
       identifier: "Live Embedded Event-2020-10",
          meeting: "Live Embedded Event",
          edition: "2020",
@@ -31362,7 +31451,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1034,
+          number: 1041,
       identifier: "CppCon-2015-73",
          meeting: "CppCon",
          edition: "2015",
@@ -31382,7 +31471,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2298,
+          number: 2305,
       identifier: "Live Embedded Event-2021-17",
          meeting: "Live Embedded Event",
          edition: "2021",
@@ -31402,7 +31491,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 856,
+          number: 863,
       identifier: "Meeting Embedded-2018-7",
          meeting: "Meeting Embedded",
          edition: "2018",
@@ -31422,7 +31511,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2440,
+          number: 2447,
       identifier: "GOTO Amsterdam-2018-18",
          meeting: "GOTO Amsterdam",
          edition: "2018",
@@ -31441,7 +31530,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2156,
+          number: 2163,
       identifier: "Core C++-2019-28",
          meeting: "Core C++",
          edition: "2019",
@@ -31461,7 +31550,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2459,
+          number: 2466,
       identifier: "GOTO Amsterdam-2018-37",
          meeting: "GOTO Amsterdam",
          edition: "2018",
@@ -31480,7 +31569,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2611,
+          number: 2618,
       identifier: "GOTO Chicago-2018-22",
          meeting: "GOTO Chicago",
          edition: "2018",
@@ -31499,7 +31588,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2107,
+          number: 2114,
       identifier: "C++ on sea-2020-32",
          meeting: "C++ on sea",
          edition: "2020",
@@ -31519,7 +31608,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2949,
+          number: 2956,
       identifier: "RustConf-2020-3",
          meeting: "RustConf",
          edition: "2020",
@@ -31539,7 +31628,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1302,
+          number: 1309,
       identifier: "CppCon-2018-41",
          meeting: "CppCon",
          edition: "2018",
@@ -31559,7 +31648,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1997,
+          number: 2004,
       identifier: "accu-2019-86",
          meeting: "accu",
          edition: "2019",
@@ -31599,7 +31688,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1136,
+          number: 1143,
       identifier: "CppCon-2016-75",
          meeting: "CppCon",
          edition: "2016",
@@ -31639,7 +31728,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2052,
+          number: 2059,
       identifier: "ItCppCon-2021-9",
          meeting: "ItCppCon",
          edition: "2021",
@@ -31659,7 +31748,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1253,
+          number: 1260,
       identifier: "CppCon-2017-92",
          meeting: "CppCon",
          edition: "2017",
@@ -31679,7 +31768,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1392,
+          number: 1399,
       identifier: "CppCon-2019-35",
          meeting: "CppCon",
          edition: "2019",
@@ -31699,7 +31788,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1829,
+          number: 1836,
       identifier: "accu-2017-8",
          meeting: "accu",
          edition: "2017",
@@ -31718,7 +31807,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1199,
+          number: 1206,
       identifier: "CppCon-2017-38",
          meeting: "CppCon",
          edition: "2017",
@@ -31758,7 +31847,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1307,
+          number: 1314,
       identifier: "CppCon-2018-46",
          meeting: "CppCon",
          edition: "2018",
@@ -31778,7 +31867,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2006,
+          number: 2013,
       identifier: "accu-2021-9",
          meeting: "accu",
          edition: "2021",
@@ -31797,7 +31886,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2064,
+          number: 2071,
       identifier: "C++ on sea-2019-9",
          meeting: "C++ on sea",
          edition: "2019",
@@ -31837,7 +31926,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 866,
+          number: 873,
       identifier: "CppCon-2014-5",
          meeting: "CppCon",
          edition: "2014",
@@ -31857,7 +31946,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2495,
+          number: 2502,
       identifier: "GOTO Amsterdam-2019-32",
          meeting: "GOTO Amsterdam",
          edition: "2019",
@@ -31918,7 +32007,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1551,
+          number: 1558,
       identifier: "CppCon-2020-94",
          meeting: "CppCon",
          edition: "2020",
@@ -31938,7 +32027,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 935,
+          number: 942,
       identifier: "CppCon-2014-74",
          meeting: "CppCon",
          edition: "2014",
@@ -31958,7 +32047,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1663,
+          number: 1670,
       identifier: "code::dive-2017-32",
          meeting: "code::dive",
          edition: "2017",
@@ -31978,7 +32067,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2379,
+          number: 2386,
       identifier: "MUC++--46",
          meeting: "MUC++",
          edition: "",
@@ -32061,7 +32150,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2705,
+          number: 2712,
       identifier: "GOTO Chicago-2020-16",
          meeting: "GOTO Chicago",
          edition: "2020",
@@ -32080,7 +32169,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1576,
+          number: 1583,
       identifier: "code::dive-2015-6",
          meeting: "code::dive",
          edition: "2015",
@@ -32099,7 +32188,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2559,
+          number: 2566,
       identifier: "GOTO Berlin-2019-9",
          meeting: "GOTO Berlin",
          edition: "2019",
@@ -32118,7 +32207,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2791,
+          number: 2798,
       identifier: "GOTO Copenhagen-2019-10",
          meeting: "GOTO Copenhagen",
          edition: "2019",
@@ -32137,7 +32226,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2884,
+          number: 2891,
       identifier: "GOTOpia-2020-44",
          meeting: "GOTOpia",
          edition: "2020",
@@ -32156,7 +32245,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2782,
+          number: 2789,
       identifier: "GOTO Copenhagen-2018-43",
          meeting: "GOTO Copenhagen",
          edition: "2018",
@@ -32195,7 +32284,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2930,
+          number: 2937,
       identifier: "GOTOpia-2021-29",
          meeting: "GOTOpia",
          edition: "2021",
@@ -32214,7 +32303,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2086,
+          number: 2093,
       identifier: "C++ on sea-2020-5",
          meeting: "C++ on sea",
          edition: "2020",
@@ -32234,7 +32323,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2722,
+          number: 2729,
       identifier: "GOTO Chicago-2020-33",
          meeting: "GOTO Chicago",
          edition: "2020",
@@ -32273,7 +32362,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1142,
+          number: 1149,
       identifier: "CppCon-2016-81",
          meeting: "CppCon",
          edition: "2016",
@@ -32293,7 +32382,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1872,
+          number: 1879,
       identifier: "accu-2018-2",
          meeting: "accu",
          edition: "2018",
@@ -32312,7 +32401,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2241,
+          number: 2248,
       identifier: "Pacific C++-2018-7",
          meeting: "Pacific C++",
          edition: "2018",
@@ -32352,7 +32441,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2961,
+          number: 2968,
       identifier: "RustConf-2021-5",
          meeting: "RustConf",
          edition: "2021",
@@ -32412,7 +32501,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1452,
+          number: 1459,
       identifier: "CppCon-2019-95",
          meeting: "CppCon",
          edition: "2019",
@@ -32452,7 +32541,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1902,
+          number: 1909,
       identifier: "accu-2018-38",
          meeting: "accu",
          edition: "2018",
@@ -32491,7 +32580,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2252,
+          number: 2259,
       identifier: "Live Embedded Event-2020-6",
          meeting: "Live Embedded Event",
          edition: "2020",
@@ -32511,7 +32600,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2394,
+          number: 2401,
       identifier: "MUC++--66",
          meeting: "MUC++",
          edition: "",
@@ -32531,7 +32620,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1958,
+          number: 1965,
       identifier: "accu-2019-41",
          meeting: "accu",
          edition: "2019",
@@ -32550,7 +32639,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 967,
+          number: 974,
       identifier: "CppCon-2015-6",
          meeting: "CppCon",
          edition: "2015",
@@ -32650,7 +32739,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1078,
+          number: 1085,
       identifier: "CppCon-2016-17",
          meeting: "CppCon",
          edition: "2016",
@@ -32730,7 +32819,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1153,
+          number: 1160,
       identifier: "CppCon-2016-92",
          meeting: "CppCon",
          edition: "2016",
@@ -32770,7 +32859,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2184,
+          number: 2191,
       identifier: "Core C++-2021-21",
          meeting: "Core C++",
          edition: "2021",
@@ -32790,7 +32879,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2366,
+          number: 2373,
       identifier: "MUC++--33",
          meeting: "MUC++",
          edition: "",
@@ -32830,7 +32919,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1963,
+          number: 1970,
       identifier: "accu-2019-49",
          meeting: "accu",
          edition: "2019",
@@ -32850,7 +32939,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2332,
+          number: 2339,
       identifier: "corehard-2019-7",
          meeting: "corehard",
          edition: "2019",
@@ -32890,7 +32979,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1862,
+          number: 1869,
       identifier: "accu-2017-50",
          meeting: "accu",
          edition: "2017",
@@ -32909,7 +32998,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2015,
+          number: 2022,
       identifier: "accu-2021-33",
          meeting: "accu",
          edition: "2021",
@@ -32928,7 +33017,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2073,
+          number: 2080,
       identifier: "C++ on sea-2019-22",
          meeting: "C++ on sea",
          edition: "2019",
@@ -32968,7 +33057,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2929,
+          number: 2936,
       identifier: "GOTOpia-2021-28",
          meeting: "GOTOpia",
          edition: "2021",
@@ -33007,7 +33096,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1810,
+          number: 1817,
       identifier: "accu-2016-28",
          meeting: "accu",
          edition: "2016",
@@ -33027,7 +33116,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1069,
+          number: 1076,
       identifier: "CppCon-2016-8",
          meeting: "CppCon",
          edition: "2016",
@@ -33047,7 +33136,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2094,
+          number: 2101,
       identifier: "C++ on sea-2020-16",
          meeting: "C++ on sea",
          edition: "2020",
@@ -33067,7 +33156,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1848,
+          number: 1855,
       identifier: "accu-2017-33",
          meeting: "accu",
          edition: "2017",
@@ -33086,7 +33175,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2491,
+          number: 2498,
       identifier: "GOTO Amsterdam-2019-28",
          meeting: "GOTO Amsterdam",
          edition: "2019",
@@ -33105,7 +33194,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2916,
+          number: 2923,
       identifier: "GOTOpia-2021-15",
          meeting: "GOTOpia",
          edition: "2021",
@@ -33124,7 +33213,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2346,
+          number: 2353,
       identifier: "MUC++--13",
          meeting: "MUC++",
          edition: "",
@@ -33144,7 +33233,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2731,
+          number: 2738,
       identifier: "GOTO Chicago-2020-42",
          meeting: "GOTO Chicago",
          edition: "2020",
@@ -33163,7 +33252,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2862,
+          number: 2869,
       identifier: "GOTOpia-2020-19",
          meeting: "GOTOpia",
          edition: "2020",
@@ -33182,7 +33271,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2781,
+          number: 2788,
       identifier: "GOTO Copenhagen-2018-42",
          meeting: "GOTO Copenhagen",
          edition: "2018",
@@ -33201,7 +33290,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1410,
+          number: 1417,
       identifier: "CppCon-2019-53",
          meeting: "CppCon",
          edition: "2019",
@@ -33221,7 +33310,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1396,
+          number: 1403,
       identifier: "CppCon-2019-39",
          meeting: "CppCon",
          edition: "2019",
@@ -33241,7 +33330,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2165,
+          number: 2172,
       identifier: "Core C++-2019-49",
          meeting: "Core C++",
          edition: "2019",
@@ -33301,7 +33390,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2514,
+          number: 2521,
       identifier: "GOTO Berlin-2018-11",
          meeting: "GOTO Berlin",
          edition: "2018",
@@ -33320,7 +33409,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2048,
+          number: 2055,
       identifier: "ItCppCon-2021-4",
          meeting: "ItCppCon",
          edition: "2021",
@@ -33340,7 +33429,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2410,
+          number: 2417,
       identifier: "Going Native-2012-6",
          meeting: "Going Native",
          edition: "2012",
@@ -33401,7 +33490,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1118,
+          number: 1125,
       identifier: "CppCon-2016-57",
          meeting: "CppCon",
          edition: "2016",
@@ -33421,7 +33510,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2257,
+          number: 2264,
       identifier: "Live Embedded Event-2020-11",
          meeting: "Live Embedded Event",
          edition: "2020",
@@ -33441,7 +33530,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 998,
+          number: 1005,
       identifier: "CppCon-2015-37",
          meeting: "CppCon",
          edition: "2015",
@@ -33501,7 +33590,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2577,
+          number: 2584,
       identifier: "GOTO Berlin-2019-27",
          meeting: "GOTO Berlin",
          edition: "2019",
@@ -33540,7 +33629,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1964,
+          number: 1971,
       identifier: "accu-2019-50",
          meeting: "accu",
          edition: "2019",
@@ -33621,7 +33710,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1645,
+          number: 1652,
       identifier: "code::dive-2017-14",
          meeting: "code::dive",
          edition: "2017",
@@ -33640,7 +33729,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2811,
+          number: 2818,
       identifier: "GOTO Copenhagen-2019-30",
          meeting: "GOTO Copenhagen",
          edition: "2019",
@@ -33659,7 +33748,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2029,
+          number: 2036,
       identifier: "C++ Day-2020-7",
          meeting: "C++ Day",
          edition: "2020",
@@ -33680,7 +33769,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2155,
+          number: 2162,
       identifier: "Core C++-2019-27",
          meeting: "Core C++",
          edition: "2019",
@@ -33700,7 +33789,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2216,
+          number: 2223,
       identifier: "C++ Europe-2020-14",
          meeting: "C++ Europe",
          edition: "2020",
@@ -33720,7 +33809,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2204,
+          number: 2211,
       identifier: "C++ Europe-2020-2",
          meeting: "C++ Europe",
          edition: "2020",
@@ -33740,7 +33829,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1532,
+          number: 1539,
       identifier: "CppCon-2020-75",
          meeting: "CppCon",
          edition: "2020",
@@ -33760,7 +33849,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2212,
+          number: 2219,
       identifier: "C++ Europe-2020-10",
          meeting: "C++ Europe",
          edition: "2020",
@@ -33800,7 +33889,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2206,
+          number: 2213,
       identifier: "C++ Europe-2020-4",
          meeting: "C++ Europe",
          edition: "2020",
@@ -33820,7 +33909,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2214,
+          number: 2221,
       identifier: "C++ Europe-2020-12",
          meeting: "C++ Europe",
          edition: "2020",
@@ -33840,7 +33929,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2215,
+          number: 2222,
       identifier: "C++ Europe-2020-13",
          meeting: "C++ Europe",
          edition: "2020",
@@ -33860,7 +33949,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2208,
+          number: 2215,
       identifier: "C++ Europe-2020-6",
          meeting: "C++ Europe",
          edition: "2020",
@@ -33880,7 +33969,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2210,
+          number: 2217,
       identifier: "C++ Europe-2020-8",
          meeting: "C++ Europe",
          edition: "2020",
@@ -33920,7 +34009,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2248,
+          number: 2255,
       identifier: "Live Embedded Event-2020-2",
          meeting: "Live Embedded Event",
          edition: "2020",
@@ -33940,7 +34029,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2637,
+          number: 2644,
       identifier: "GOTO Chicago-2019-6",
          meeting: "GOTO Chicago",
          edition: "2019",
@@ -33979,7 +34068,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1650,
+          number: 1657,
       identifier: "code::dive-2017-19",
          meeting: "code::dive",
          edition: "2017",
@@ -33999,7 +34088,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1850,
+          number: 1857,
       identifier: "accu-2017-35",
          meeting: "accu",
          edition: "2017",
@@ -34018,7 +34107,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2407,
+          number: 2414,
       identifier: "Going Native-2012-3",
          meeting: "Going Native",
          edition: "2012",
@@ -34058,7 +34147,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1537,
+          number: 1544,
       identifier: "CppCon-2020-80",
          meeting: "CppCon",
          edition: "2020",
@@ -34079,7 +34168,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2237,
+          number: 2244,
       identifier: "Pacific C++-2018-3",
          meeting: "Pacific C++",
          edition: "2018",
@@ -34099,7 +34188,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2297,
+          number: 2304,
       identifier: "Live Embedded Event-2021-16",
          meeting: "Live Embedded Event",
          edition: "2021",
@@ -34119,7 +34208,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1638,
+          number: 1645,
       identifier: "code::dive-2017-7",
          meeting: "code::dive",
          edition: "2017",
@@ -34138,7 +34227,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2282,
+          number: 2289,
       identifier: "Live Embedded Event-2021-1",
          meeting: "Live Embedded Event",
          edition: "2021",
@@ -34158,7 +34247,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2311,
+          number: 2318,
       identifier: "Live Embedded Event-2021-30",
          meeting: "Live Embedded Event",
          edition: "2021",
@@ -34178,7 +34267,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1782,
+          number: 1789,
       identifier: "code::dive-2020-7",
          meeting: "code::dive",
          edition: "2020",
@@ -34219,7 +34308,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 950,
+          number: 957,
       identifier: "CppCon-2014-89",
          meeting: "CppCon",
          edition: "2014",
@@ -34239,7 +34328,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1102,
+          number: 1109,
       identifier: "CppCon-2016-41",
          meeting: "CppCon",
          edition: "2016",
@@ -34259,7 +34348,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1131,
+          number: 1138,
       identifier: "CppCon-2016-70",
          meeting: "CppCon",
          edition: "2016",
@@ -34279,7 +34368,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2310,
+          number: 2317,
       identifier: "Live Embedded Event-2021-29",
          meeting: "Live Embedded Event",
          edition: "2021",
@@ -34299,7 +34388,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1766,
+          number: 1773,
       identifier: "code::dive-2019-36",
          meeting: "code::dive",
          edition: "2019",
@@ -34338,7 +34427,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2471,
+          number: 2478,
       identifier: "GOTO Amsterdam-2019-8",
          meeting: "GOTO Amsterdam",
          edition: "2019",
@@ -34397,7 +34486,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2508,
+          number: 2515,
       identifier: "GOTO Berlin-2018-5",
          meeting: "GOTO Berlin",
          edition: "2018",
@@ -34416,7 +34505,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2786,
+          number: 2793,
       identifier: "GOTO Copenhagen-2019-5",
          meeting: "GOTO Copenhagen",
          edition: "2019",
@@ -34455,7 +34544,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1869,
+          number: 1876,
       identifier: "accu-2017-57",
          meeting: "accu",
          edition: "2017",
@@ -34474,7 +34563,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2649,
+          number: 2656,
       identifier: "GOTO Chicago-2019-18",
          meeting: "GOTO Chicago",
          edition: "2019",
@@ -34493,7 +34582,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2309,
+          number: 2316,
       identifier: "Live Embedded Event-2021-28",
          meeting: "Live Embedded Event",
          edition: "2021",
@@ -34513,7 +34602,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2469,
+          number: 2476,
       identifier: "GOTO Amsterdam-2019-6",
          meeting: "GOTO Amsterdam",
          edition: "2019",
@@ -34532,7 +34621,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 897,
+          number: 904,
       identifier: "CppCon-2014-36",
          meeting: "CppCon",
          edition: "2014",
@@ -34552,7 +34641,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1152,
+          number: 1159,
       identifier: "CppCon-2016-91",
          meeting: "CppCon",
          edition: "2016",
@@ -34572,7 +34661,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2703,
+          number: 2710,
       identifier: "GOTO Chicago-2020-14",
          meeting: "GOTO Chicago",
          edition: "2020",
@@ -34611,7 +34700,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2442,
+          number: 2449,
       identifier: "GOTO Amsterdam-2018-20",
          meeting: "GOTO Amsterdam",
          edition: "2018",
@@ -34630,7 +34719,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1631,
+          number: 1638,
       identifier: "code::dive-2016-42",
          meeting: "code::dive",
          edition: "2016",
@@ -34649,7 +34738,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1560,
+          number: 1567,
       identifier: "code::dive-2014-3",
          meeting: "code::dive",
          edition: "2014",
@@ -34668,7 +34757,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2869,
+          number: 2876,
       identifier: "GOTOpia-2020-26",
          meeting: "GOTOpia",
          edition: "2020",
@@ -34727,7 +34816,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1183,
+          number: 1190,
       identifier: "CppCon-2017-22",
          meeting: "CppCon",
          edition: "2017",
@@ -34749,7 +34838,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1184,
+          number: 1191,
       identifier: "CppCon-2017-23",
          meeting: "CppCon",
          edition: "2017",
@@ -34791,7 +34880,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2822,
+          number: 2829,
       identifier: "GOTO Copenhagen-2019-41",
          meeting: "GOTO Copenhagen",
          edition: "2019",
@@ -34831,7 +34920,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2934,
+          number: 2941,
       identifier: "RustConf-2019-4",
          meeting: "RustConf",
          edition: "2019",
@@ -34852,7 +34941,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1687,
+          number: 1694,
       identifier: "code::dive-2018-17",
          meeting: "code::dive",
          edition: "2018",
@@ -34891,8 +34980,8 @@ const talks = [
         language: "English"
    },
    {
-          number: 2674,
-      identifier: "GOTO Chicago-2019-43",
+          number: 2680,
+      identifier: "GOTO Chicago-2019-42",
          meeting: "GOTO Chicago",
          edition: "2019",
            title: "It Really is Easier to Ask for Forgiveness (than Permission)",
@@ -34930,7 +35019,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1967,
+          number: 1974,
       identifier: "accu-2019-53",
          meeting: "accu",
          edition: "2019",
@@ -34949,7 +35038,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2490,
+          number: 2497,
       identifier: "GOTO Amsterdam-2019-27",
          meeting: "GOTO Amsterdam",
          edition: "2019",
@@ -34968,7 +35057,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1965,
+          number: 1972,
       identifier: "accu-2019-51",
          meeting: "accu",
          edition: "2019",
@@ -35028,7 +35117,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2296,
+          number: 2303,
       identifier: "Live Embedded Event-2021-15",
          meeting: "Live Embedded Event",
          edition: "2021",
@@ -35048,7 +35137,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2652,
+          number: 2659,
       identifier: "GOTO Chicago-2019-21",
          meeting: "GOTO Chicago",
          edition: "2019",
@@ -35068,7 +35157,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1727,
+          number: 1734,
       identifier: "code::dive-2018-57",
          meeting: "code::dive",
          edition: "2018",
@@ -35087,7 +35176,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1600,
+          number: 1607,
       identifier: "code::dive-2016-11",
          meeting: "code::dive",
          edition: "2016",
@@ -35107,7 +35196,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2600,
+          number: 2607,
       identifier: "GOTO Chicago-2018-11",
          meeting: "GOTO Chicago",
          edition: "2018",
@@ -35126,7 +35215,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2739,
+          number: 2746,
       identifier: "GOTO Chicago-2020-50",
          meeting: "GOTO Chicago",
          edition: "2020",
@@ -35145,7 +35234,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2488,
+          number: 2495,
       identifier: "GOTO Amsterdam-2019-25",
          meeting: "GOTO Amsterdam",
          edition: "2019",
@@ -35164,7 +35253,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2656,
+          number: 2663,
       identifier: "GOTO Chicago-2019-25",
          meeting: "GOTO Chicago",
          edition: "2019",
@@ -35183,7 +35272,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1930,
+          number: 1937,
       identifier: "accu-2019-5",
          meeting: "accu",
          edition: "2019",
@@ -35202,7 +35291,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1476,
+          number: 1483,
       identifier: "CppCon-2020-19",
          meeting: "CppCon",
          edition: "2020",
@@ -35222,7 +35311,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1497,
+          number: 1504,
       identifier: "CppCon-2020-40",
          meeting: "CppCon",
          edition: "2020",
@@ -35243,7 +35332,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2849,
+          number: 2856,
       identifier: "GOTOpia-2020-6",
          meeting: "GOTOpia",
          edition: "2020",
@@ -35262,7 +35351,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2887,
+          number: 2894,
       identifier: "GOTOpia-2020-47",
          meeting: "GOTOpia",
          edition: "2020",
@@ -35281,7 +35370,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2662,
+          number: 2669,
       identifier: "GOTO Chicago-2019-31",
          meeting: "GOTO Chicago",
          edition: "2019",
@@ -35300,7 +35389,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2199,
+          number: 2206,
       identifier: "C++ Europe-2019-6",
          meeting: "C++ Europe",
          edition: "2019",
@@ -35340,7 +35429,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2518,
+          number: 2525,
       identifier: "GOTO Berlin-2018-15",
          meeting: "GOTO Berlin",
          edition: "2018",
@@ -35359,7 +35448,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1818,
+          number: 1825,
       identifier: "accu-2016-39",
          meeting: "accu",
          edition: "2016",
@@ -35378,7 +35467,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2724,
+          number: 2731,
       identifier: "GOTO Chicago-2020-35",
          meeting: "GOTO Chicago",
          edition: "2020",
@@ -35417,7 +35506,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2921,
+          number: 2928,
       identifier: "GOTOpia-2021-20",
          meeting: "GOTOpia",
          edition: "2021",
@@ -35438,7 +35527,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2477,
+          number: 2484,
       identifier: "GOTO Amsterdam-2019-14",
          meeting: "GOTO Amsterdam",
          edition: "2019",
@@ -35457,7 +35546,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2831,
+          number: 2838,
       identifier: "GOTO Oslo-2018-2",
          meeting: "GOTO Oslo",
          edition: "2018",
@@ -35497,7 +35586,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2697,
+          number: 2704,
       identifier: "GOTO Chicago-2020-8",
          meeting: "GOTO Chicago",
          edition: "2020",
@@ -35516,7 +35605,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1895,
+          number: 1902,
       identifier: "accu-2018-28",
          meeting: "accu",
          edition: "2018",
@@ -35535,7 +35624,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2799,
+          number: 2806,
       identifier: "GOTO Copenhagen-2019-18",
          meeting: "GOTO Copenhagen",
          edition: "2019",
@@ -35554,7 +35643,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2654,
+          number: 2661,
       identifier: "GOTO Chicago-2019-23",
          meeting: "GOTO Chicago",
          edition: "2019",
@@ -35573,7 +35662,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2563,
+          number: 2570,
       identifier: "GOTO Berlin-2019-13",
          meeting: "GOTO Berlin",
          edition: "2019",
@@ -35592,8 +35681,8 @@ const talks = [
         language: "English"
    },
    {
-          number: 2673,
-      identifier: "GOTO Chicago-2019-42",
+          number: 2681,
+      identifier: "GOTO Chicago-2019-43",
          meeting: "GOTO Chicago",
          edition: "2019",
            title: "Kubernetes Operability Tooling",
@@ -35611,7 +35700,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2752,
+          number: 2759,
       identifier: "GOTO Copenhagen-2018-13",
          meeting: "GOTO Copenhagen",
          edition: "2018",
@@ -35630,7 +35719,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2444,
+          number: 2451,
       identifier: "GOTO Amsterdam-2018-22",
          meeting: "GOTO Amsterdam",
          edition: "2018",
@@ -35669,7 +35758,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1530,
+          number: 1537,
       identifier: "CppCon-2020-73",
          meeting: "CppCon",
          edition: "2020",
@@ -35689,7 +35778,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2154,
+          number: 2161,
       identifier: "Core C++-2019-18",
          meeting: "Core C++",
          edition: "2019",
@@ -35729,7 +35818,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2106,
+          number: 2113,
       identifier: "C++ on sea-2020-31",
          meeting: "C++ on sea",
          edition: "2020",
@@ -35769,7 +35858,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 974,
+          number: 981,
       identifier: "CppCon-2015-13",
          meeting: "CppCon",
          edition: "2015",
@@ -35789,7 +35878,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 997,
+          number: 1004,
       identifier: "CppCon-2015-36",
          meeting: "CppCon",
          edition: "2015",
@@ -35849,7 +35938,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 932,
+          number: 939,
       identifier: "CppCon-2014-71",
          meeting: "CppCon",
          edition: "2014",
@@ -35869,7 +35958,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2182,
+          number: 2189,
       identifier: "Core C++-2021-19",
          meeting: "Core C++",
          edition: "2021",
@@ -35889,7 +35978,7 @@ const talks = [
         language: "Hebrew"
    },
    {
-          number: 1170,
+          number: 1177,
       identifier: "CppCon-2017-9",
          meeting: "CppCon",
          edition: "2017",
@@ -35910,7 +35999,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1091,
+          number: 1098,
       identifier: "CppCon-2016-30",
          meeting: "CppCon",
          edition: "2016",
@@ -35931,7 +36020,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1286,
+          number: 1293,
       identifier: "CppCon-2018-25",
          meeting: "CppCon",
          edition: "2018",
@@ -35952,7 +36041,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1257,
+          number: 1264,
       identifier: "CppCon-2017-96",
          meeting: "CppCon",
          edition: "2017",
@@ -35972,7 +36061,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2920,
+          number: 2927,
       identifier: "GOTOpia-2021-19",
          meeting: "GOTOpia",
          edition: "2021",
@@ -35991,7 +36080,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1067,
+          number: 1074,
       identifier: "CppCon-2016-6",
          meeting: "CppCon",
          edition: "2016",
@@ -36011,7 +36100,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2131,
+          number: 2138,
       identifier: "C++ on sea-2021-12",
          meeting: "C++ on sea",
          edition: "2021",
@@ -36052,7 +36141,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2988,
+          number: 2995,
       identifier: "RustFest-2020-9",
          meeting: "RustFest",
          edition: "2020",
@@ -36073,7 +36162,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1835,
+          number: 1842,
       identifier: "accu-2017-17",
          meeting: "accu",
          edition: "2017",
@@ -36093,7 +36182,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2014,
+          number: 2021,
       identifier: "accu-2021-32",
          meeting: "accu",
          edition: "2021",
@@ -36113,7 +36202,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2072,
+          number: 2079,
       identifier: "C++ on sea-2019-21",
          meeting: "C++ on sea",
          edition: "2019",
@@ -36153,7 +36242,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1162,
+          number: 1169,
       identifier: "CppCon-2017-1",
          meeting: "CppCon",
          edition: "2017",
@@ -36173,7 +36262,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2996,
+          number: 3003,
       identifier: "RustFest-2020-19",
          meeting: "RustFest",
          edition: "2020",
@@ -36194,7 +36283,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2624,
+          number: 2631,
       identifier: "GOTO Chicago-2018-35",
          meeting: "GOTO Chicago",
          edition: "2018",
@@ -36213,7 +36302,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2626,
+          number: 2633,
       identifier: "GOTO Chicago-2018-37",
          meeting: "GOTO Chicago",
          edition: "2018",
@@ -36232,7 +36321,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1801,
+          number: 1808,
       identifier: "accu-2016-16",
          meeting: "accu",
          edition: "2016",
@@ -36252,7 +36341,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2627,
+          number: 2634,
       identifier: "GOTO Chicago-2018-38",
          meeting: "GOTO Chicago",
          edition: "2018",
@@ -36271,7 +36360,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2141,
+          number: 2148,
       identifier: "Core C++-2019-5",
          meeting: "Core C++",
          edition: "2019",
@@ -36291,7 +36380,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2295,
+          number: 2302,
       identifier: "Live Embedded Event-2021-14",
          meeting: "Live Embedded Event",
          edition: "2021",
@@ -36311,7 +36400,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 893,
+          number: 900,
       identifier: "CppCon-2014-32",
          meeting: "CppCon",
          edition: "2014",
@@ -36351,7 +36440,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1008,
+          number: 1015,
       identifier: "CppCon-2015-47",
          meeting: "CppCon",
          edition: "2015",
@@ -36411,7 +36500,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1089,
+          number: 1096,
       identifier: "CppCon-2016-28",
          meeting: "CppCon",
          edition: "2016",
@@ -36431,7 +36520,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2899,
+          number: 2906,
       identifier: "GOTOpia-2020-59",
          meeting: "GOTOpia",
          edition: "2020",
@@ -36451,7 +36540,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2454,
+          number: 2461,
       identifier: "GOTO Amsterdam-2018-32",
          meeting: "GOTO Amsterdam",
          edition: "2018",
@@ -36470,7 +36559,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2749,
+          number: 2756,
       identifier: "GOTO Copenhagen-2018-10",
          meeting: "GOTO Copenhagen",
          edition: "2018",
@@ -36489,7 +36578,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2024,
+          number: 2031,
       identifier: "C++ Day-2020-2",
          meeting: "C++ Day",
          edition: "2020",
@@ -36529,7 +36618,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2907,
+          number: 2914,
       identifier: "GOTOpia-2021-6",
          meeting: "GOTOpia",
          edition: "2021",
@@ -36568,7 +36657,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1386,
+          number: 1393,
       identifier: "CppCon-2019-29",
          meeting: "CppCon",
          edition: "2019",
@@ -36588,7 +36677,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2717,
+          number: 2724,
       identifier: "GOTO Chicago-2020-28",
          meeting: "GOTO Chicago",
          edition: "2020",
@@ -36607,7 +36696,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2358,
+          number: 2365,
       identifier: "MUC++--25",
          meeting: "MUC++",
          edition: "",
@@ -36668,7 +36757,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2792,
+          number: 2799,
       identifier: "GOTO Copenhagen-2019-11",
          meeting: "GOTO Copenhagen",
          edition: "2019",
@@ -36687,7 +36776,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2839,
+          number: 2846,
       identifier: "GOTO Oslo-2018-10",
          meeting: "GOTO Oslo",
          edition: "2018",
@@ -36706,7 +36795,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2893,
+          number: 2900,
       identifier: "GOTOpia-2020-53",
          meeting: "GOTOpia",
          edition: "2020",
@@ -36725,7 +36814,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2466,
+          number: 2473,
       identifier: "GOTO Amsterdam-2019-3",
          meeting: "GOTO Amsterdam",
          edition: "2019",
@@ -36744,7 +36833,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2978,
+          number: 2985,
       identifier: "RustFest-2019-9",
          meeting: "RustFest",
          edition: "2019",
@@ -36764,7 +36853,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1384,
+          number: 1391,
       identifier: "CppCon-2019-27",
          meeting: "CppCon",
          edition: "2019",
@@ -36805,7 +36894,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2039,
+          number: 2046,
       identifier: "ItCppCon-2020-9",
          meeting: "ItCppCon",
          edition: "2020",
@@ -36845,7 +36934,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1340,
+          number: 1347,
       identifier: "CppCon-2018-81",
          meeting: "CppCon",
          edition: "2018",
@@ -36865,7 +36954,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1090,
+          number: 1097,
       identifier: "CppCon-2016-29",
          meeting: "CppCon",
          edition: "2016",
@@ -36925,7 +37014,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2408,
+          number: 2415,
       identifier: "Going Native-2012-4",
          meeting: "Going Native",
          edition: "2012",
@@ -36945,7 +37034,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2294,
+          number: 2301,
       identifier: "Live Embedded Event-2021-13",
          meeting: "Live Embedded Event",
          edition: "2021",
@@ -36965,7 +37054,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1909,
+          number: 1916,
       identifier: "accu-2018-45",
          meeting: "accu",
          edition: "2018",
@@ -36985,7 +37074,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2016,
+          number: 2023,
       identifier: "accu-2021-34",
          meeting: "accu",
          edition: "2021",
@@ -37004,7 +37093,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2074,
+          number: 2081,
       identifier: "C++ on sea-2019-23",
          meeting: "C++ on sea",
          edition: "2019",
@@ -37024,7 +37113,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2093,
+          number: 2100,
       identifier: "C++ on sea-2020-15",
          meeting: "C++ on sea",
          edition: "2020",
@@ -37044,7 +37133,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2864,
+          number: 2871,
       identifier: "GOTOpia-2020-21",
          meeting: "GOTOpia",
          edition: "2020",
@@ -37063,7 +37152,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2875,
+          number: 2882,
       identifier: "GOTOpia-2020-32",
          meeting: "GOTOpia",
          edition: "2020",
@@ -37082,7 +37171,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2809,
+          number: 2816,
       identifier: "GOTO Copenhagen-2019-28",
          meeting: "GOTO Copenhagen",
          edition: "2019",
@@ -37101,7 +37190,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 980,
+          number: 987,
       identifier: "CppCon-2015-19",
          meeting: "CppCon",
          edition: "2015",
@@ -37121,7 +37210,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 985,
+          number: 992,
       identifier: "CppCon-2015-24",
          meeting: "CppCon",
          edition: "2015",
@@ -37141,7 +37230,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1852,
+          number: 1859,
       identifier: "accu-2017-37",
          meeting: "accu",
          edition: "2017",
@@ -37160,7 +37249,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2225,
+          number: 2232,
       identifier: "Pacific C++-2017-1",
          meeting: "Pacific C++",
          edition: "2017",
@@ -37180,7 +37269,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1646,
+          number: 1653,
       identifier: "code::dive-2017-15",
          meeting: "code::dive",
          edition: "2017",
@@ -37219,7 +37308,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1234,
+          number: 1241,
       identifier: "CppCon-2017-73",
          meeting: "CppCon",
          edition: "2017",
@@ -37239,7 +37328,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1217,
+          number: 1224,
       identifier: "CppCon-2017-56",
          meeting: "CppCon",
          edition: "2017",
@@ -37279,7 +37368,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1840,
+          number: 1847,
       identifier: "accu-2017-22",
          meeting: "accu",
          edition: "2017",
@@ -37338,7 +37427,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 940,
+          number: 947,
       identifier: "CppCon-2014-79",
          meeting: "CppCon",
          edition: "2014",
@@ -37378,7 +37467,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 938,
+          number: 945,
       identifier: "CppCon-2014-77",
          meeting: "CppCon",
          edition: "2014",
@@ -37398,7 +37487,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 937,
+          number: 944,
       identifier: "CppCon-2014-76",
          meeting: "CppCon",
          edition: "2014",
@@ -37418,7 +37507,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1830,
+          number: 1837,
       identifier: "accu-2017-9",
          meeting: "accu",
          edition: "2017",
@@ -37458,7 +37547,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2892,
+          number: 2899,
       identifier: "GOTOpia-2020-52",
          meeting: "GOTOpia",
          edition: "2020",
@@ -37517,7 +37606,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2923,
+          number: 2930,
       identifier: "GOTOpia-2021-22",
          meeting: "GOTOpia",
          edition: "2021",
@@ -37556,7 +37645,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2584,
+          number: 2591,
       identifier: "GOTO Berlin-2019-34",
          meeting: "GOTO Berlin",
          edition: "2019",
@@ -37575,7 +37664,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2230,
+          number: 2237,
       identifier: "Pacific C++-2017-6",
          meeting: "Pacific C++",
          edition: "2017",
@@ -37635,7 +37724,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2203,
+          number: 2210,
       identifier: "C++ Europe-2019-10",
          meeting: "C++ Europe",
          edition: "2019",
@@ -37655,7 +37744,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1974,
+          number: 1981,
       identifier: "accu-2019-60",
          meeting: "accu",
          edition: "2019",
@@ -37674,7 +37763,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2043,
+          number: 2050,
       identifier: "ItCppCon-2020-13",
          meeting: "ItCppCon",
          edition: "2020",
@@ -37714,7 +37803,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2499,
+          number: 2506,
       identifier: "GOTO Amsterdam-2019-36",
          meeting: "GOTO Amsterdam",
          edition: "2019",
@@ -37733,7 +37822,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1571,
+          number: 1578,
       identifier: "code::dive-2015-1",
          meeting: "code::dive",
          edition: "2015",
@@ -37752,7 +37841,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1574,
+          number: 1581,
       identifier: "code::dive-2015-4",
          meeting: "code::dive",
          edition: "2015",
@@ -37771,7 +37860,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1608,
+          number: 1615,
       identifier: "code::dive-2016-19",
          meeting: "code::dive",
          edition: "2016",
@@ -37790,7 +37879,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2760,
+          number: 2767,
       identifier: "GOTO Copenhagen-2018-21",
          meeting: "GOTO Copenhagen",
          edition: "2018",
@@ -37809,7 +37898,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1849,
+          number: 1856,
       identifier: "accu-2017-34",
          meeting: "accu",
          edition: "2017",
@@ -37828,7 +37917,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2754,
+          number: 2761,
       identifier: "GOTO Copenhagen-2018-15",
          meeting: "GOTO Copenhagen",
          edition: "2018",
@@ -37847,7 +37936,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1553,
+          number: 1560,
       identifier: "CppCon-2020-96",
          meeting: "CppCon",
          edition: "2020",
@@ -37867,7 +37956,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2954,
+          number: 2961,
       identifier: "RustConf-2020-8",
          meeting: "RustConf",
          edition: "2020",
@@ -37888,7 +37977,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2420,
+          number: 2427,
       identifier: "Going Native-2012-16",
          meeting: "Going Native",
          edition: "2012",
@@ -37908,7 +37997,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1403,
+          number: 1410,
       identifier: "CppCon-2019-46",
          meeting: "CppCon",
          edition: "2019",
@@ -37928,7 +38017,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1248,
+          number: 1255,
       identifier: "CppCon-2017-87",
          meeting: "CppCon",
          edition: "2017",
@@ -37948,7 +38037,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1134,
+          number: 1141,
       identifier: "CppCon-2016-73",
          meeting: "CppCon",
          edition: "2016",
@@ -37968,7 +38057,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1336,
+          number: 1343,
       identifier: "CppCon-2018-75",
          meeting: "CppCon",
          edition: "2018",
@@ -37988,7 +38077,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1960,
+          number: 1967,
       identifier: "accu-2019-43",
          meeting: "accu",
          edition: "2019",
@@ -38007,7 +38096,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 907,
+          number: 914,
       identifier: "CppCon-2014-46",
          meeting: "CppCon",
          edition: "2014",
@@ -38027,7 +38116,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 901,
+          number: 908,
       identifier: "CppCon-2014-40",
          meeting: "CppCon",
          edition: "2014",
@@ -38047,7 +38136,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1146,
+          number: 1153,
       identifier: "CppCon-2016-85",
          meeting: "CppCon",
          edition: "2016",
@@ -38067,7 +38156,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 918,
+          number: 925,
       identifier: "CppCon-2014-57",
          meeting: "CppCon",
          edition: "2014",
@@ -38088,7 +38177,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1591,
+          number: 1598,
       identifier: "code::dive-2016-2",
          meeting: "code::dive",
          edition: "2016",
@@ -38108,7 +38197,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1622,
+          number: 1629,
       identifier: "code::dive-2016-33",
          meeting: "code::dive",
          edition: "2016",
@@ -38128,7 +38217,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2927,
+          number: 2934,
       identifier: "GOTOpia-2021-26",
          meeting: "GOTOpia",
          edition: "2021",
@@ -38147,7 +38236,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1752,
+          number: 1759,
       identifier: "code::dive-2019-22",
          meeting: "code::dive",
          edition: "2019",
@@ -38166,7 +38255,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1510,
+          number: 1517,
       identifier: "CppCon-2020-53",
          meeting: "CppCon",
          edition: "2020",
@@ -38186,7 +38275,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2602,
+          number: 2609,
       identifier: "GOTO Chicago-2018-13",
          meeting: "GOTO Chicago",
          edition: "2018",
@@ -38205,7 +38294,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1469,
+          number: 1476,
       identifier: "CppCon-2020-12",
          meeting: "CppCon",
          edition: "2020",
@@ -38225,7 +38314,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2512,
+          number: 2519,
       identifier: "GOTO Berlin-2018-9",
          meeting: "GOTO Berlin",
          edition: "2018",
@@ -38244,7 +38333,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2819,
+          number: 2826,
       identifier: "GOTO Copenhagen-2019-38",
          meeting: "GOTO Copenhagen",
          edition: "2019",
@@ -38263,7 +38352,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1296,
+          number: 1303,
       identifier: "CppCon-2018-35",
          meeting: "CppCon",
          edition: "2018",
@@ -38283,7 +38372,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1824,
+          number: 1831,
       identifier: "accu-2017-3",
          meeting: "accu",
          edition: "2017",
@@ -38302,7 +38391,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1387,
+          number: 1394,
       identifier: "CppCon-2019-30",
          meeting: "CppCon",
          edition: "2019",
@@ -38342,7 +38431,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1520,
+          number: 1527,
       identifier: "CppCon-2020-63",
          meeting: "CppCon",
          edition: "2020",
@@ -38362,7 +38451,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1805,
+          number: 1812,
       identifier: "accu-2016-23",
          meeting: "accu",
          edition: "2016",
@@ -38382,7 +38471,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 853,
+          number: 860,
       identifier: "Meeting Embedded-2018-4",
          meeting: "Meeting Embedded",
          edition: "2018",
@@ -38402,7 +38491,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1857,
+          number: 1864,
       identifier: "accu-2017-42",
          meeting: "accu",
          edition: "2017",
@@ -38463,7 +38552,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2467,
+          number: 2474,
       identifier: "GOTO Amsterdam-2019-4",
          meeting: "GOTO Amsterdam",
          edition: "2019",
@@ -38502,7 +38591,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2710,
+          number: 2717,
       identifier: "GOTO Chicago-2020-21",
          meeting: "GOTO Chicago",
          edition: "2020",
@@ -38541,7 +38630,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 872,
+          number: 879,
       identifier: "CppCon-2014-11",
          meeting: "CppCon",
          edition: "2014",
@@ -38561,7 +38650,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 969,
+          number: 976,
       identifier: "CppCon-2015-8",
          meeting: "CppCon",
          edition: "2015",
@@ -38581,7 +38670,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2712,
+          number: 2719,
       identifier: "GOTO Chicago-2020-23",
          meeting: "GOTO Chicago",
          edition: "2020",
@@ -38600,7 +38689,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2854,
+          number: 2861,
       identifier: "GOTOpia-2020-11",
          meeting: "GOTOpia",
          edition: "2020",
@@ -38639,7 +38728,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1351,
+          number: 1358,
       identifier: "CppCon-2018-94",
          meeting: "CppCon",
          edition: "2018",
@@ -38659,7 +38748,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2940,
+          number: 2947,
       identifier: "RustConf-2019-10",
          meeting: "RustConf",
          edition: "2019",
@@ -38719,7 +38808,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1389,
+          number: 1396,
       identifier: "CppCon-2019-32",
          meeting: "CppCon",
          edition: "2019",
@@ -38739,7 +38828,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1164,
+          number: 1171,
       identifier: "CppCon-2017-3",
          meeting: "CppCon",
          edition: "2017",
@@ -38841,7 +38930,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1563,
+          number: 1570,
       identifier: "code::dive-2014-6",
          meeting: "code::dive",
          edition: "2014",
@@ -38861,7 +38950,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2334,
+          number: 2341,
       identifier: "MUC++--1",
          meeting: "MUC++",
          edition: "",
@@ -38881,7 +38970,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1822,
+          number: 1829,
       identifier: "accu-2017-1",
          meeting: "accu",
          edition: "2017",
@@ -38900,7 +38989,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 958,
+          number: 965,
       identifier: "CppCon-2014-97",
          meeting: "CppCon",
          edition: "2014",
@@ -38940,7 +39029,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2193,
+          number: 2200,
       identifier: "C++ Europe-2018-7",
          meeting: "C++ Europe",
          edition: "2018",
@@ -38960,7 +39049,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2264,
+          number: 2271,
       identifier: "Live Embedded Event-2020-18",
          meeting: "Live Embedded Event",
          edition: "2020",
@@ -38980,7 +39069,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2441,
+          number: 2448,
       identifier: "GOTO Amsterdam-2018-19",
          meeting: "GOTO Amsterdam",
          edition: "2018",
@@ -38999,7 +39088,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2445,
+          number: 2452,
       identifier: "GOTO Amsterdam-2018-23",
          meeting: "GOTO Amsterdam",
          edition: "2018",
@@ -39018,7 +39107,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2727,
+          number: 2734,
       identifier: "GOTO Chicago-2020-38",
          meeting: "GOTO Chicago",
          edition: "2020",
@@ -39039,7 +39128,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 927,
+          number: 934,
       identifier: "CppCon-2014-66",
          meeting: "CppCon",
          edition: "2014",
@@ -39059,7 +39148,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 920,
+          number: 927,
       identifier: "CppCon-2014-59",
          meeting: "CppCon",
          edition: "2014",
@@ -39079,7 +39168,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1193,
+          number: 1200,
       identifier: "CppCon-2017-32",
          meeting: "CppCon",
          edition: "2017",
@@ -39119,7 +39208,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2479,
+          number: 2486,
       identifier: "GOTO Amsterdam-2019-16",
          meeting: "GOTO Amsterdam",
          edition: "2019",
@@ -39138,7 +39227,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2524,
+          number: 2531,
       identifier: "GOTO Berlin-2018-21",
          meeting: "GOTO Berlin",
          edition: "2018",
@@ -39157,7 +39246,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2993,
+          number: 3000,
       identifier: "RustFest-2020-15",
          meeting: "RustFest",
          edition: "2020",
@@ -39177,7 +39266,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2271,
+          number: 2278,
       identifier: "Live Embedded Event-2020-25",
          meeting: "Live Embedded Event",
          edition: "2020",
@@ -39197,7 +39286,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1860,
+          number: 1867,
       identifier: "accu-2017-45",
          meeting: "accu",
          edition: "2017",
@@ -39216,7 +39305,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1649,
+          number: 1656,
       identifier: "code::dive-2017-18",
          meeting: "code::dive",
          edition: "2017",
@@ -39235,7 +39324,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1251,
+          number: 1258,
       identifier: "CppCon-2017-90",
          meeting: "CppCon",
          edition: "2017",
@@ -39255,7 +39344,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2567,
+          number: 2574,
       identifier: "GOTO Berlin-2019-17",
          meeting: "GOTO Berlin",
          edition: "2019",
@@ -39274,7 +39363,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1109,
+          number: 1116,
       identifier: "CppCon-2016-48",
          meeting: "CppCon",
          edition: "2016",
@@ -39294,7 +39383,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1603,
+          number: 1610,
       identifier: "code::dive-2016-14",
          meeting: "code::dive",
          edition: "2016",
@@ -39353,7 +39442,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1204,
+          number: 1211,
       identifier: "CppCon-2017-43",
          meeting: "CppCon",
          edition: "2017",
@@ -39373,7 +39462,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1889,
+          number: 1896,
       identifier: "accu-2018-22",
          meeting: "accu",
          edition: "2018",
@@ -39392,7 +39481,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1558,
+          number: 1565,
       identifier: "code::dive-2014-1",
          meeting: "code::dive",
          edition: "2014",
@@ -39491,7 +39580,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1316,
+          number: 1323,
       identifier: "CppCon-2018-55",
          meeting: "CppCon",
          edition: "2018",
@@ -39511,7 +39600,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1345,
+          number: 1352,
       identifier: "CppCon-2018-86",
          meeting: "CppCon",
          edition: "2018",
@@ -39531,7 +39620,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1867,
+          number: 1874,
       identifier: "accu-2017-55",
          meeting: "accu",
          edition: "2017",
@@ -39591,7 +39680,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1291,
+          number: 1298,
       identifier: "CppCon-2018-30",
          meeting: "CppCon",
          edition: "2018",
@@ -39611,7 +39700,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1174,
+          number: 1181,
       identifier: "CppCon-2017-13",
          meeting: "CppCon",
          edition: "2017",
@@ -39631,7 +39720,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1509,
+          number: 1516,
       identifier: "CppCon-2020-52",
          meeting: "CppCon",
          edition: "2020",
@@ -39671,7 +39760,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1315,
+          number: 1322,
       identifier: "CppCon-2018-54",
          meeting: "CppCon",
          edition: "2018",
@@ -39691,7 +39780,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2378,
+          number: 2385,
       identifier: "MUC++--45",
          meeting: "MUC++",
          edition: "",
@@ -39711,7 +39800,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1594,
+          number: 1601,
       identifier: "code::dive-2016-5",
          meeting: "code::dive",
          edition: "2016",
@@ -39752,7 +39841,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2468,
+          number: 2475,
       identifier: "GOTO Amsterdam-2019-5",
          meeting: "GOTO Amsterdam",
          edition: "2019",
@@ -39771,7 +39860,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2557,
+          number: 2564,
       identifier: "GOTO Berlin-2019-7",
          meeting: "GOTO Berlin",
          edition: "2019",
@@ -39790,7 +39879,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2696,
+          number: 2703,
       identifier: "GOTO Chicago-2020-7",
          meeting: "GOTO Chicago",
          edition: "2020",
@@ -39809,7 +39898,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2183,
+          number: 2190,
       identifier: "Core C++-2021-20",
          meeting: "Core C++",
          edition: "2021",
@@ -39829,7 +39918,7 @@ const talks = [
         language: "Hebrew"
    },
    {
-          number: 1606,
+          number: 1613,
       identifier: "code::dive-2016-17",
          meeting: "code::dive",
          edition: "2016",
@@ -39868,7 +39957,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1372,
+          number: 1379,
       identifier: "CppCon-2019-15",
          meeting: "CppCon",
          edition: "2019",
@@ -39888,7 +39977,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1479,
+          number: 1486,
       identifier: "CppCon-2020-22",
          meeting: "CppCon",
          edition: "2020",
@@ -39928,7 +40017,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1749,
+          number: 1756,
       identifier: "code::dive-2019-19",
          meeting: "code::dive",
          edition: "2019",
@@ -39947,7 +40036,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 925,
+          number: 932,
       identifier: "CppCon-2014-64",
          meeting: "CppCon",
          edition: "2014",
@@ -39967,7 +40056,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 922,
+          number: 929,
       identifier: "CppCon-2014-61",
          meeting: "CppCon",
          edition: "2014",
@@ -40007,7 +40096,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2350,
+          number: 2357,
       identifier: "MUC++--17",
          meeting: "MUC++",
          edition: "",
@@ -40027,7 +40116,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 988,
+          number: 995,
       identifier: "CppCon-2015-27",
          meeting: "CppCon",
          edition: "2015",
@@ -40047,7 +40136,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2187,
+          number: 2194,
       identifier: "C++ Europe-2018-1",
          meeting: "C++ Europe",
          edition: "2018",
@@ -40067,7 +40156,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2507,
+          number: 2514,
       identifier: "GOTO Berlin-2018-4",
          meeting: "GOTO Berlin",
          edition: "2018",
@@ -40106,7 +40195,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2160,
+          number: 2167,
       identifier: "Core C++-2019-42",
          meeting: "Core C++",
          edition: "2019",
@@ -40186,7 +40275,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1864,
+          number: 1871,
       identifier: "accu-2017-52",
          meeting: "accu",
          edition: "2017",
@@ -40205,7 +40294,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1953,
+          number: 1960,
       identifier: "accu-2019-32",
          meeting: "accu",
          edition: "2019",
@@ -40244,7 +40333,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1511,
+          number: 1518,
       identifier: "CppCon-2020-54",
          meeting: "CppCon",
          edition: "2020",
@@ -40264,7 +40353,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2554,
+          number: 2561,
       identifier: "GOTO Berlin-2019-4",
          meeting: "GOTO Berlin",
          edition: "2019",
@@ -40283,7 +40372,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2840,
+          number: 2847,
       identifier: "GOTO Oslo-2018-11",
          meeting: "GOTO Oslo",
          edition: "2018",
@@ -40303,7 +40392,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1918,
+          number: 1925,
       identifier: "accu-2018-57",
          meeting: "accu",
          edition: "2018",
@@ -40322,7 +40411,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1980,
+          number: 1987,
       identifier: "accu-2019-66",
          meeting: "accu",
          edition: "2019",
@@ -40342,7 +40431,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2935,
+          number: 2942,
       identifier: "RustConf-2019-5",
          meeting: "RustConf",
          edition: "2019",
@@ -40363,7 +40452,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1944,
+          number: 1951,
       identifier: "accu-2019-23",
          meeting: "accu",
          edition: "2019",
@@ -40402,7 +40491,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1424,
+          number: 1431,
       identifier: "CppCon-2019-67",
          meeting: "CppCon",
          edition: "2019",
@@ -40422,7 +40511,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1582,
+          number: 1589,
       identifier: "code::dive-2015-12",
          meeting: "code::dive",
          edition: "2015",
@@ -40441,7 +40530,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2959,
+          number: 2966,
       identifier: "RustConf-2021-3",
          meeting: "RustConf",
          edition: "2021",
@@ -40461,7 +40550,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2034,
+          number: 2041,
       identifier: "ItCppCon-2020-4",
          meeting: "ItCppCon",
          edition: "2020",
@@ -40501,7 +40590,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2569,
+          number: 2576,
       identifier: "GOTO Berlin-2019-19",
          meeting: "GOTO Berlin",
          edition: "2019",
@@ -40520,7 +40609,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2709,
+          number: 2716,
       identifier: "GOTO Chicago-2020-20",
          meeting: "GOTO Chicago",
          edition: "2020",
@@ -40559,7 +40648,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1207,
+          number: 1214,
       identifier: "CppCon-2017-46",
          meeting: "CppCon",
          edition: "2017",
@@ -40599,7 +40688,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1320,
+          number: 1327,
       identifier: "CppCon-2018-59",
          meeting: "CppCon",
          edition: "2018",
@@ -40739,7 +40828,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 917,
+          number: 924,
       identifier: "CppCon-2014-56",
          meeting: "CppCon",
          edition: "2014",
@@ -40759,7 +40848,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2370,
+          number: 2377,
       identifier: "MUC++--37",
          meeting: "MUC++",
          edition: "",
@@ -40799,7 +40888,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1209,
+          number: 1216,
       identifier: "CppCon-2017-48",
          meeting: "CppCon",
          edition: "2017",
@@ -40819,7 +40908,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1214,
+          number: 1221,
       identifier: "CppCon-2017-53",
          meeting: "CppCon",
          edition: "2017",
@@ -40899,7 +40988,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1728,
+          number: 1735,
       identifier: "code::dive-2018-58",
          meeting: "code::dive",
          edition: "2018",
@@ -40938,7 +41027,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2952,
+          number: 2959,
       identifier: "RustConf-2020-6",
          meeting: "RustConf",
          edition: "2020",
@@ -40959,7 +41048,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 884,
+          number: 891,
       identifier: "CppCon-2014-23",
          meeting: "CppCon",
          edition: "2014",
@@ -40979,7 +41068,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2038,
+          number: 2045,
       identifier: "ItCppCon-2020-8",
          meeting: "ItCppCon",
          edition: "2020",
@@ -40999,7 +41088,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2340,
+          number: 2347,
       identifier: "MUC++--7",
          meeting: "MUC++",
          edition: "",
@@ -41039,7 +41128,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1095,
+          number: 1102,
       identifier: "CppCon-2016-34",
          meeting: "CppCon",
          edition: "2016",
@@ -41079,7 +41168,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1232,
+          number: 1239,
       identifier: "CppCon-2017-71",
          meeting: "CppCon",
          edition: "2017",
@@ -41099,7 +41188,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1256,
+          number: 1263,
       identifier: "CppCon-2017-95",
          meeting: "CppCon",
          edition: "2017",
@@ -41119,7 +41208,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1355,
+          number: 1362,
       identifier: "CppCon-2018-98",
          meeting: "CppCon",
          edition: "2018",
@@ -41139,7 +41228,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1437,
+          number: 1444,
       identifier: "CppCon-2019-80",
          meeting: "CppCon",
          edition: "2019",
@@ -41159,7 +41248,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2100,
+          number: 2107,
       identifier: "C++ on sea-2020-22",
          meeting: "C++ on sea",
          edition: "2020",
@@ -41179,7 +41268,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1269,
+          number: 1276,
       identifier: "CppCon-2018-8",
          meeting: "CppCon",
          edition: "2018",
@@ -41199,7 +41288,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1935,
+          number: 1942,
       identifier: "accu-2019-10",
          meeting: "accu",
          edition: "2019",
@@ -41298,7 +41387,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1711,
+          number: 1718,
       identifier: "code::dive-2018-41",
          meeting: "code::dive",
          edition: "2018",
@@ -41337,7 +41426,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2331,
+          number: 2338,
       identifier: "corehard-2019-6",
          meeting: "corehard",
          edition: "2019",
@@ -41357,7 +41446,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1171,
+          number: 1178,
       identifier: "CppCon-2017-10",
          meeting: "CppCon",
          edition: "2017",
@@ -41397,7 +41486,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1433,
+          number: 1440,
       identifier: "CppCon-2019-76",
          meeting: "CppCon",
          edition: "2019",
@@ -41417,7 +41506,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2692,
+          number: 2699,
       identifier: "GOTO Chicago-2020-3",
          meeting: "GOTO Chicago",
          edition: "2020",
@@ -41437,7 +41526,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1988,
+          number: 1995,
       identifier: "accu-2019-77",
          meeting: "accu",
          edition: "2019",
@@ -41456,7 +41545,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2250,
+          number: 2257,
       identifier: "Live Embedded Event-2020-4",
          meeting: "Live Embedded Event",
          edition: "2020",
@@ -41476,7 +41565,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1753,
+          number: 1760,
       identifier: "code::dive-2019-23",
          meeting: "code::dive",
          edition: "2019",
@@ -41495,7 +41584,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 860,
+          number: 867,
       identifier: "Meeting Embedded-2020-1",
          meeting: "Meeting Embedded",
          edition: "2020",
@@ -41535,7 +41624,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2713,
+          number: 2720,
       identifier: "GOTO Chicago-2020-24",
          meeting: "GOTO Chicago",
          edition: "2020",
@@ -41574,7 +41663,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1079,
+          number: 1086,
       identifier: "CppCon-2016-18",
          meeting: "CppCon",
          edition: "2016",
@@ -41594,7 +41683,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1524,
+          number: 1531,
       identifier: "CppCon-2020-67",
          meeting: "CppCon",
          edition: "2020",
@@ -41614,7 +41703,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2018,
+          number: 2025,
       identifier: "accu-2021-36",
          meeting: "accu",
          edition: "2021",
@@ -41633,7 +41722,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2076,
+          number: 2083,
       identifier: "C++ on sea-2019-25",
          meeting: "C++ on sea",
          edition: "2019",
@@ -41673,7 +41762,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1388,
+          number: 1395,
       identifier: "CppCon-2019-31",
          meeting: "CppCon",
          edition: "2019",
@@ -41693,7 +41782,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2633,
+          number: 2640,
       identifier: "GOTO Chicago-2019-2",
          meeting: "GOTO Chicago",
          edition: "2019",
@@ -41712,7 +41801,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1527,
+          number: 1534,
       identifier: "CppCon-2020-70",
          meeting: "CppCon",
          edition: "2020",
@@ -41732,7 +41821,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1875,
+          number: 1882,
       identifier: "accu-2018-5",
          meeting: "accu",
          edition: "2018",
@@ -41771,7 +41860,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2793,
+          number: 2800,
       identifier: "GOTO Copenhagen-2019-12",
          meeting: "GOTO Copenhagen",
          edition: "2019",
@@ -41790,7 +41879,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1647,
+          number: 1654,
       identifier: "code::dive-2017-16",
          meeting: "code::dive",
          edition: "2017",
@@ -41849,7 +41938,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2702,
+          number: 2709,
       identifier: "GOTO Chicago-2020-13",
          meeting: "GOTO Chicago",
          edition: "2020",
@@ -41868,7 +41957,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2797,
+          number: 2804,
       identifier: "GOTO Copenhagen-2019-16",
          meeting: "GOTO Copenhagen",
          edition: "2019",
@@ -41887,7 +41976,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2179,
+          number: 2186,
       identifier: "Core C++-2021-16",
          meeting: "Core C++",
          edition: "2021",
@@ -41907,7 +41996,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2110,
+          number: 2117,
       identifier: "C++ on sea-2020-35",
          meeting: "C++ on sea",
          edition: "2020",
@@ -41927,7 +42016,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2328,
+          number: 2335,
       identifier: "corehard-2019-3",
          meeting: "corehard",
          edition: "2019",
@@ -41967,7 +42056,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2119,
+          number: 2126,
       identifier: "C++ on sea-2020-47",
          meeting: "C++ on sea",
          edition: "2020",
@@ -41987,7 +42076,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1444,
+          number: 1451,
       identifier: "CppCon-2019-87",
          meeting: "CppCon",
          edition: "2019",
@@ -42027,7 +42116,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2323,
+          number: 2330,
       identifier: "corehard-2018-5",
          meeting: "corehard",
          edition: "2018",
@@ -42047,7 +42136,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2690,
+          number: 2697,
       identifier: "GOTO Chicago-2020-1",
          meeting: "GOTO Chicago",
          edition: "2020",
@@ -42066,7 +42155,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2640,
+          number: 2647,
       identifier: "GOTO Chicago-2019-9",
          meeting: "GOTO Chicago",
          edition: "2019",
@@ -42085,7 +42174,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2997,
+          number: 3004,
       identifier: "RustFest-2020-20",
          meeting: "RustFest",
          edition: "2020",
@@ -42125,7 +42214,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 908,
+          number: 915,
       identifier: "CppCon-2014-47",
          meeting: "CppCon",
          edition: "2014",
@@ -42206,7 +42295,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2005,
+          number: 2012,
       identifier: "accu-2021-5",
          meeting: "accu",
          edition: "2021",
@@ -42225,7 +42314,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2063,
+          number: 2070,
       identifier: "C++ on sea-2019-5",
          meeting: "C++ on sea",
          edition: "2019",
@@ -42245,7 +42334,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2591,
+          number: 2598,
       identifier: "GOTO Chicago-2018-2",
          meeting: "GOTO Chicago",
          edition: "2018",
@@ -42284,7 +42373,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1057,
+          number: 1064,
       identifier: "CppCon-2015-96",
          meeting: "CppCon",
          edition: "2015",
@@ -42304,7 +42393,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2293,
+          number: 2300,
       identifier: "Live Embedded Event-2021-12",
          meeting: "Live Embedded Event",
          edition: "2021",
@@ -42324,7 +42413,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2636,
+          number: 2643,
       identifier: "GOTO Chicago-2019-5",
          meeting: "GOTO Chicago",
          edition: "2019",
@@ -42343,7 +42432,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2745,
+          number: 2752,
       identifier: "GOTO Copenhagen-2018-6",
          meeting: "GOTO Copenhagen",
          edition: "2018",
@@ -42402,7 +42491,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1529,
+          number: 1536,
       identifier: "CppCon-2020-72",
          meeting: "CppCon",
          edition: "2020",
@@ -42422,7 +42511,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1325,
+          number: 1332,
       identifier: "CppCon-2018-64",
          meeting: "CppCon",
          edition: "2018",
@@ -42442,7 +42531,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2273,
+          number: 2280,
       identifier: "Live Embedded Event-2020-27",
          meeting: "Live Embedded Event",
          edition: "2020",
@@ -42462,7 +42551,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1318,
+          number: 1325,
       identifier: "CppCon-2018-57",
          meeting: "CppCon",
          edition: "2018",
@@ -42482,7 +42571,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2292,
+          number: 2299,
       identifier: "Live Embedded Event-2021-11",
          meeting: "Live Embedded Event",
          edition: "2021",
@@ -42522,7 +42611,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1292,
+          number: 1299,
       identifier: "CppCon-2018-31",
          meeting: "CppCon",
          edition: "2018",
@@ -42542,7 +42631,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2177,
+          number: 2184,
       identifier: "Core C++-2021-13",
          meeting: "Core C++",
          edition: "2021",
@@ -42562,7 +42651,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1144,
+          number: 1151,
       identifier: "CppCon-2016-83",
          meeting: "CppCon",
          edition: "2016",
@@ -42582,7 +42671,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1947,
+          number: 1954,
       identifier: "accu-2019-26",
          meeting: "accu",
          edition: "2019",
@@ -42602,7 +42691,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 936,
+          number: 943,
       identifier: "CppCon-2014-75",
          meeting: "CppCon",
          edition: "2014",
@@ -42622,7 +42711,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1261,
+          number: 1268,
       identifier: "CppCon-2017-100",
          meeting: "CppCon",
          edition: "2017",
@@ -42682,7 +42771,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2520,
+          number: 2527,
       identifier: "GOTO Berlin-2018-17",
          meeting: "GOTO Berlin",
          edition: "2018",
@@ -42701,7 +42790,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2453,
+          number: 2460,
       identifier: "GOTO Amsterdam-2018-31",
          meeting: "GOTO Amsterdam",
          edition: "2018",
@@ -42780,7 +42869,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2904,
+          number: 2911,
       identifier: "GOTOpia-2021-3",
          meeting: "GOTOpia",
          edition: "2021",
@@ -42799,7 +42888,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 996,
+          number: 1003,
       identifier: "CppCon-2015-35",
          meeting: "CppCon",
          edition: "2015",
@@ -42840,7 +42929,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2025,
+          number: 2032,
       identifier: "C++ Day-2020-3",
          meeting: "C++ Day",
          edition: "2020",
@@ -42900,7 +42989,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1335,
+          number: 1342,
       identifier: "CppCon-2018-74",
          meeting: "CppCon",
          edition: "2018",
@@ -42920,7 +43009,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2173,
+          number: 2180,
       identifier: "Core C++-2021-9",
          meeting: "Core C++",
          edition: "2021",
@@ -42940,7 +43029,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2452,
+          number: 2459,
       identifier: "GOTO Amsterdam-2018-30",
          meeting: "GOTO Amsterdam",
          edition: "2018",
@@ -42979,7 +43068,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1890,
+          number: 1897,
       identifier: "accu-2018-23",
          meeting: "accu",
          edition: "2018",
@@ -43020,7 +43109,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1092,
+          number: 1099,
       identifier: "CppCon-2016-31",
          meeting: "CppCon",
          edition: "2016",
@@ -43060,7 +43149,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 999,
+          number: 1006,
       identifier: "CppCon-2015-38",
          meeting: "CppCon",
          edition: "2015",
@@ -43081,7 +43170,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 915,
+          number: 922,
       identifier: "CppCon-2014-54",
          meeting: "CppCon",
          edition: "2014",
@@ -43141,7 +43230,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1289,
+          number: 1296,
       identifier: "CppCon-2018-28",
          meeting: "CppCon",
          edition: "2018",
@@ -43202,7 +43291,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1846,
+          number: 1853,
       identifier: "accu-2017-31",
          meeting: "accu",
          edition: "2017",
@@ -43241,7 +43330,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1391,
+          number: 1398,
       identifier: "CppCon-2019-34",
          meeting: "CppCon",
          edition: "2019",
@@ -43281,7 +43370,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1263,
+          number: 1270,
       identifier: "CppCon-2018-2",
          meeting: "CppCon",
          edition: "2018",
@@ -43301,7 +43390,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2725,
+          number: 2732,
       identifier: "GOTO Chicago-2020-36",
          meeting: "GOTO Chicago",
          edition: "2020",
@@ -43320,7 +43409,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2863,
+          number: 2870,
       identifier: "GOTOpia-2020-20",
          meeting: "GOTOpia",
          edition: "2020",
@@ -43360,7 +43449,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2768,
+          number: 2775,
       identifier: "GOTO Copenhagen-2018-29",
          meeting: "GOTO Copenhagen",
          edition: "2018",
@@ -43379,7 +43468,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1294,
+          number: 1301,
       identifier: "CppCon-2018-33",
          meeting: "CppCon",
          edition: "2018",
@@ -43440,7 +43529,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2985,
+          number: 2992,
       identifier: "RustFest-2020-5",
          meeting: "RustFest",
          edition: "2020",
@@ -43461,7 +43550,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 873,
+          number: 880,
       identifier: "CppCon-2014-12",
          meeting: "CppCon",
          edition: "2014",
@@ -43522,7 +43611,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1514,
+          number: 1521,
       identifier: "CppCon-2020-57",
          meeting: "CppCon",
          edition: "2020",
@@ -43542,7 +43631,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2255,
+          number: 2262,
       identifier: "Live Embedded Event-2020-9",
          meeting: "Live Embedded Event",
          edition: "2020",
@@ -43602,7 +43691,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2910,
+          number: 2917,
       identifier: "GOTOpia-2021-9",
          meeting: "GOTOpia",
          edition: "2021",
@@ -43621,7 +43710,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1513,
+          number: 1520,
       identifier: "CppCon-2020-56",
          meeting: "CppCon",
          edition: "2020",
@@ -43641,7 +43730,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1499,
+          number: 1506,
       identifier: "CppCon-2020-42",
          meeting: "CppCon",
          edition: "2020",
@@ -43661,7 +43750,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1470,
+          number: 1477,
       identifier: "CppCon-2020-13",
          meeting: "CppCon",
          edition: "2020",
@@ -43681,7 +43770,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2053,
+          number: 2060,
       identifier: "ItCppCon-2021-10",
          meeting: "ItCppCon",
          edition: "2021",
@@ -43721,7 +43810,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1658,
+          number: 1665,
       identifier: "code::dive-2017-27",
          meeting: "code::dive",
          edition: "2017",
@@ -43780,7 +43869,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2622,
+          number: 2629,
       identifier: "GOTO Chicago-2018-33",
          meeting: "GOTO Chicago",
          edition: "2018",
@@ -43799,7 +43888,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2771,
+          number: 2778,
       identifier: "GOTO Copenhagen-2018-32",
          meeting: "GOTO Copenhagen",
          edition: "2018",
@@ -43818,7 +43907,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2629,
+          number: 2636,
       identifier: "GOTO Chicago-2018-40",
          meeting: "GOTO Chicago",
          edition: "2018",
@@ -43878,7 +43967,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 899,
+          number: 906,
       identifier: "CppCon-2014-38",
          meeting: "CppCon",
          edition: "2014",
@@ -43898,7 +43987,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2761,
+          number: 2768,
       identifier: "GOTO Copenhagen-2018-22",
          meeting: "GOTO Copenhagen",
          edition: "2018",
@@ -43917,7 +44006,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2242,
+          number: 2249,
       identifier: "Pacific C++-2018-8",
          meeting: "Pacific C++",
          edition: "2018",
@@ -43937,7 +44026,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2234,
+          number: 2241,
       identifier: "Pacific C++-2017-10",
          meeting: "Pacific C++",
          edition: "2017",
@@ -43977,7 +44066,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1218,
+          number: 1225,
       identifier: "CppCon-2017-57",
          meeting: "CppCon",
          edition: "2017",
@@ -44017,7 +44106,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2975,
+          number: 2982,
       identifier: "RustFest-2019-6",
          meeting: "RustFest",
          edition: "2019",
@@ -44058,7 +44147,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2465,
+          number: 2472,
       identifier: "GOTO Amsterdam-2019-2",
          meeting: "GOTO Amsterdam",
          edition: "2019",
@@ -44077,7 +44166,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1735,
+          number: 1742,
       identifier: "code::dive-2019-5",
          meeting: "code::dive",
          edition: "2019",
@@ -44136,7 +44225,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1219,
+          number: 1226,
       identifier: "CppCon-2017-58",
          meeting: "CppCon",
          edition: "2017",
@@ -44156,7 +44245,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2912,
+          number: 2919,
       identifier: "GOTOpia-2021-11",
          meeting: "GOTOpia",
          edition: "2021",
@@ -44195,7 +44284,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 869,
+          number: 876,
       identifier: "CppCon-2014-8",
          meeting: "CppCon",
          edition: "2014",
@@ -44216,7 +44305,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2708,
+          number: 2715,
       identifier: "GOTO Chicago-2020-19",
          meeting: "GOTO Chicago",
          edition: "2020",
@@ -44235,7 +44324,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 926,
+          number: 933,
       identifier: "CppCon-2014-65",
          meeting: "CppCon",
          edition: "2014",
@@ -44255,7 +44344,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1494,
+          number: 1501,
       identifier: "CppCon-2020-37",
          meeting: "CppCon",
          edition: "2020",
@@ -44275,7 +44364,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1246,
+          number: 1253,
       identifier: "CppCon-2017-85",
          meeting: "CppCon",
          edition: "2017",
@@ -44315,7 +44404,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1106,
+          number: 1113,
       identifier: "CppCon-2016-45",
          meeting: "CppCon",
          edition: "2016",
@@ -44335,7 +44424,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2734,
+          number: 2741,
       identifier: "GOTO Chicago-2020-45",
          meeting: "GOTO Chicago",
          edition: "2020",
@@ -44375,7 +44464,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1252,
+          number: 1259,
       identifier: "CppCon-2017-91",
          meeting: "CppCon",
          edition: "2017",
@@ -44415,7 +44504,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 898,
+          number: 905,
       identifier: "CppCon-2014-37",
          meeting: "CppCon",
          edition: "2014",
@@ -44455,7 +44544,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2617,
+          number: 2624,
       identifier: "GOTO Chicago-2018-28",
          meeting: "GOTO Chicago",
          edition: "2018",
@@ -44474,7 +44563,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2425,
+          number: 2432,
       identifier: "GOTO Amsterdam-2018-3",
          meeting: "GOTO Amsterdam",
          edition: "2018",
@@ -44493,7 +44582,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 946,
+          number: 953,
       identifier: "CppCon-2014-85",
          meeting: "CppCon",
          edition: "2014",
@@ -44513,7 +44602,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 863,
+          number: 870,
       identifier: "CppCon-2014-2",
          meeting: "CppCon",
          edition: "2014",
@@ -44533,7 +44622,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1733,
+          number: 1740,
       identifier: "code::dive-2019-3",
          meeting: "code::dive",
          edition: "2019",
@@ -44612,7 +44701,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2925,
+          number: 2932,
       identifier: "GOTOpia-2021-24",
          meeting: "GOTOpia",
          edition: "2021",
@@ -44631,7 +44720,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2667,
+          number: 2674,
       identifier: "GOTO Chicago-2019-36",
          meeting: "GOTO Chicago",
          edition: "2019",
@@ -44650,7 +44739,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2767,
+          number: 2774,
       identifier: "GOTO Copenhagen-2018-28",
          meeting: "GOTO Copenhagen",
          edition: "2018",
@@ -44669,7 +44758,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2382,
+          number: 2389,
       identifier: "MUC++--49",
          meeting: "MUC++",
          edition: "",
@@ -44689,7 +44778,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2701,
+          number: 2708,
       identifier: "GOTO Chicago-2020-12",
          meeting: "GOTO Chicago",
          edition: "2020",
@@ -44708,7 +44797,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2787,
+          number: 2794,
       identifier: "GOTO Copenhagen-2019-6",
          meeting: "GOTO Copenhagen",
          edition: "2019",
@@ -44727,7 +44816,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2857,
+          number: 2864,
       identifier: "GOTOpia-2020-14",
          meeting: "GOTOpia",
          edition: "2020",
@@ -44746,7 +44835,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 3016,
+          number: 3023,
       identifier: "Oxidize Global-2020-13",
          meeting: "Oxidize Global",
          edition: "2020",
@@ -44766,7 +44855,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1896,
+          number: 1903,
       identifier: "accu-2018-29",
          meeting: "accu",
          edition: "2018",
@@ -44785,7 +44874,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2801,
+          number: 2808,
       identifier: "GOTO Copenhagen-2019-20",
          meeting: "GOTO Copenhagen",
          edition: "2019",
@@ -44804,7 +44893,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2259,
+          number: 2266,
       identifier: "Live Embedded Event-2020-13",
          meeting: "Live Embedded Event",
          edition: "2020",
@@ -44824,7 +44913,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1621,
+          number: 1628,
       identifier: "code::dive-2016-32",
          meeting: "code::dive",
          edition: "2016",
@@ -44863,7 +44952,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2621,
+          number: 2628,
       identifier: "GOTO Chicago-2018-32",
          meeting: "GOTO Chicago",
          edition: "2018",
@@ -44962,7 +45051,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1662,
+          number: 1669,
       identifier: "code::dive-2017-31",
          meeting: "code::dive",
          edition: "2017",
@@ -44981,7 +45070,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1168,
+          number: 1175,
       identifier: "CppCon-2017-7",
          meeting: "CppCon",
          edition: "2017",
@@ -45001,7 +45090,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1417,
+          number: 1424,
       identifier: "CppCon-2019-60",
          meeting: "CppCon",
          edition: "2019",
@@ -45021,7 +45110,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1978,
+          number: 1985,
       identifier: "accu-2019-64",
          meeting: "accu",
          edition: "2019",
@@ -45040,7 +45129,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2008,
+          number: 2015,
       identifier: "accu-2021-11",
          meeting: "accu",
          edition: "2021",
@@ -45059,7 +45148,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2066,
+          number: 2073,
       identifier: "C++ on sea-2019-11",
          meeting: "C++ on sea",
          edition: "2019",
@@ -45079,7 +45168,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1014,
+          number: 1021,
       identifier: "CppCon-2015-53",
          meeting: "CppCon",
          edition: "2015",
@@ -45119,7 +45208,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2889,
+          number: 2896,
       identifier: "GOTOpia-2020-49",
          meeting: "GOTOpia",
          edition: "2020",
@@ -45138,7 +45227,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1750,
+          number: 1757,
       identifier: "code::dive-2019-20",
          meeting: "code::dive",
          edition: "2019",
@@ -45157,7 +45246,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 3000,
+          number: 3007,
       identifier: "RustFest-2020-24",
          meeting: "RustFest",
          edition: "2020",
@@ -45179,7 +45268,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2957,
+          number: 2964,
       identifier: "RustConf-2021-1",
          meeting: "RustConf",
          edition: "2021",
@@ -45199,7 +45288,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2958,
+          number: 2965,
       identifier: "RustConf-2021-2",
          meeting: "RustConf",
          edition: "2021",
@@ -45239,7 +45328,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1795,
+          number: 1802,
       identifier: "accu-2016-7",
          meeting: "accu",
          edition: "2016",
@@ -45298,7 +45387,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1601,
+          number: 1608,
       identifier: "code::dive-2016-12",
          meeting: "code::dive",
          edition: "2016",
@@ -45318,7 +45407,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2371,
+          number: 2378,
       identifier: "MUC++--38",
          meeting: "MUC++",
          edition: "",
@@ -45378,7 +45467,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1019,
+          number: 1026,
       identifier: "CppCon-2015-58",
          meeting: "CppCon",
          edition: "2015",
@@ -45398,7 +45487,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2504,
+          number: 2511,
       identifier: "GOTO Amsterdam-2019-41",
          meeting: "GOTO Amsterdam",
          edition: "2019",
@@ -45458,7 +45547,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1122,
+          number: 1129,
       identifier: "CppCon-2016-61",
          meeting: "CppCon",
          edition: "2016",
@@ -45479,7 +45568,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2780,
+          number: 2787,
       identifier: "GOTO Copenhagen-2018-41",
          meeting: "GOTO Copenhagen",
          edition: "2018",
@@ -45518,7 +45607,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1686,
+          number: 1693,
       identifier: "code::dive-2018-16",
          meeting: "code::dive",
          edition: "2018",
@@ -45538,7 +45627,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1165,
+          number: 1172,
       identifier: "CppCon-2017-4",
          meeting: "CppCon",
          edition: "2017",
@@ -45618,7 +45707,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2783,
+          number: 2790,
       identifier: "GOTO Copenhagen-2019-2",
          meeting: "GOTO Copenhagen",
          edition: "2019",
@@ -45637,7 +45726,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2820,
+          number: 2827,
       identifier: "GOTO Copenhagen-2019-39",
          meeting: "GOTO Copenhagen",
          edition: "2019",
@@ -45657,7 +45746,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 959,
+          number: 966,
       identifier: "CppCon-2014-98",
          meeting: "CppCon",
          edition: "2014",
@@ -45677,7 +45766,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2336,
+          number: 2343,
       identifier: "MUC++--3",
          meeting: "MUC++",
          edition: "",
@@ -45697,7 +45786,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2085,
+          number: 2092,
       identifier: "C++ on sea-2020-4",
          meeting: "C++ on sea",
          edition: "2020",
@@ -45717,7 +45806,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2012,
+          number: 2019,
       identifier: "accu-2021-16",
          meeting: "accu",
          edition: "2021",
@@ -45736,7 +45825,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2070,
+          number: 2077,
       identifier: "C++ on sea-2019-16",
          meeting: "C++ on sea",
          edition: "2019",
@@ -45756,7 +45845,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1502,
+          number: 1509,
       identifier: "CppCon-2020-45",
          meeting: "CppCon",
          edition: "2020",
@@ -45776,7 +45865,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2970,
+          number: 2977,
       identifier: "RustFest-2019-1",
          meeting: "RustFest",
          edition: "2019",
@@ -45798,7 +45887,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2737,
+          number: 2744,
       identifier: "GOTO Chicago-2020-48",
          meeting: "GOTO Chicago",
          edition: "2020",
@@ -45817,7 +45906,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1012,
+          number: 1019,
       identifier: "CppCon-2015-51",
          meeting: "CppCon",
          edition: "2015",
@@ -45857,7 +45946,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1156,
+          number: 1163,
       identifier: "CppCon-2016-95",
          meeting: "CppCon",
          edition: "2016",
@@ -45877,7 +45966,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2685,
+          number: 2692,
       identifier: "GOTO Chicago-2019-54",
          meeting: "GOTO Chicago",
          edition: "2019",
@@ -45896,7 +45985,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1780,
+          number: 1787,
       identifier: "code::dive-2020-5",
          meeting: "code::dive",
          edition: "2020",
@@ -45915,7 +46004,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2423,
+          number: 2430,
       identifier: "Going Native-2013-3",
          meeting: "Going Native",
          edition: "2013",
@@ -45955,7 +46044,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1363,
+          number: 1370,
       identifier: "CppCon-2019-6",
          meeting: "CppCon",
          edition: "2019",
@@ -45995,7 +46084,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2122,
+          number: 2129,
       identifier: "C++ on sea-2021-3",
          meeting: "C++ on sea",
          edition: "2021",
@@ -46015,7 +46104,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1306,
+          number: 1313,
       identifier: "CppCon-2018-45",
          meeting: "CppCon",
          edition: "2018",
@@ -46055,7 +46144,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1934,
+          number: 1941,
       identifier: "accu-2019-9",
          meeting: "accu",
          edition: "2019",
@@ -46094,7 +46183,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 966,
+          number: 973,
       identifier: "CppCon-2015-5",
          meeting: "CppCon",
          edition: "2015",
@@ -46134,7 +46223,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2619,
+          number: 2626,
       identifier: "GOTO Chicago-2018-30",
          meeting: "GOTO Chicago",
          edition: "2018",
@@ -46173,7 +46262,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2706,
+          number: 2713,
       identifier: "GOTO Chicago-2020-17",
          meeting: "GOTO Chicago",
          edition: "2020",
@@ -46192,7 +46281,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1011,
+          number: 1018,
       identifier: "CppCon-2015-50",
          meeting: "CppCon",
          edition: "2015",
@@ -46212,7 +46301,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2810,
+          number: 2817,
       identifier: "GOTO Copenhagen-2019-29",
          meeting: "GOTO Copenhagen",
          edition: "2019",
@@ -46232,7 +46321,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2681,
+          number: 2688,
       identifier: "GOTO Chicago-2019-50",
          meeting: "GOTO Chicago",
          edition: "2019",
@@ -46251,7 +46340,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2758,
+          number: 2765,
       identifier: "GOTO Copenhagen-2018-19",
          meeting: "GOTO Copenhagen",
          edition: "2018",
@@ -46290,7 +46379,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2634,
+          number: 2641,
       identifier: "GOTO Chicago-2019-3",
          meeting: "GOTO Chicago",
          edition: "2019",
@@ -46309,7 +46398,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1036,
+          number: 1043,
       identifier: "CppCon-2015-75",
          meeting: "CppCon",
          edition: "2015",
@@ -46329,7 +46418,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2794,
+          number: 2801,
       identifier: "GOTO Copenhagen-2019-13",
          meeting: "GOTO Copenhagen",
          edition: "2019",
@@ -46348,7 +46437,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1887,
+          number: 1894,
       identifier: "accu-2018-20",
          meeting: "accu",
          edition: "2018",
@@ -46367,7 +46456,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1235,
+          number: 1242,
       identifier: "CppCon-2017-74",
          meeting: "CppCon",
          edition: "2017",
@@ -46407,7 +46496,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1249,
+          number: 1256,
       identifier: "CppCon-2017-88",
          meeting: "CppCon",
          edition: "2017",
@@ -46448,7 +46537,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2483,
+          number: 2490,
       identifier: "GOTO Amsterdam-2019-20",
          meeting: "GOTO Amsterdam",
          edition: "2019",
@@ -46468,7 +46557,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2432,
+          number: 2439,
       identifier: "GOTO Amsterdam-2018-10",
          meeting: "GOTO Amsterdam",
          edition: "2018",
@@ -46487,7 +46576,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1544,
+          number: 1551,
       identifier: "CppCon-2020-87",
          meeting: "CppCon",
          edition: "2020",
@@ -46507,7 +46596,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2644,
+          number: 2651,
       identifier: "GOTO Chicago-2019-13",
          meeting: "GOTO Chicago",
          edition: "2019",
@@ -46526,7 +46615,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 951,
+          number: 958,
       identifier: "CppCon-2014-90",
          meeting: "CppCon",
          edition: "2014",
@@ -46566,7 +46655,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1211,
+          number: 1218,
       identifier: "CppCon-2017-50",
          meeting: "CppCon",
          edition: "2017",
@@ -46586,7 +46675,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1635,
+          number: 1642,
       identifier: "code::dive-2017-4",
          meeting: "code::dive",
          edition: "2017",
@@ -46625,7 +46714,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2088,
+          number: 2095,
       identifier: "C++ on sea-2020-7",
          meeting: "C++ on sea",
          edition: "2020",
@@ -46645,7 +46734,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1714,
+          number: 1721,
       identifier: "code::dive-2018-44",
          meeting: "code::dive",
          edition: "2018",
@@ -46664,7 +46753,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1366,
+          number: 1373,
       identifier: "CppCon-2019-9",
          meeting: "CppCon",
          edition: "2019",
@@ -46684,7 +46773,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1722,
+          number: 1729,
       identifier: "code::dive-2018-52",
          meeting: "code::dive",
          edition: "2018",
@@ -46703,7 +46792,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1697,
+          number: 1704,
       identifier: "code::dive-2018-27",
          meeting: "code::dive",
          edition: "2018",
@@ -46722,7 +46811,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2217,
+          number: 2224,
       identifier: "C++ Europe-2020-15",
          meeting: "C++ Europe",
          edition: "2020",
@@ -46762,7 +46851,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1611,
+          number: 1618,
       identifier: "code::dive-2016-22",
          meeting: "code::dive",
          edition: "2016",
@@ -46781,7 +46870,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2049,
+          number: 2056,
       identifier: "ItCppCon-2021-5",
          meeting: "ItCppCon",
          edition: "2021",
@@ -46801,7 +46890,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2129,
+          number: 2136,
       identifier: "C++ on sea-2021-10",
          meeting: "C++ on sea",
          edition: "2021",
@@ -46821,7 +46910,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2720,
+          number: 2727,
       identifier: "GOTO Chicago-2020-31",
          meeting: "GOTO Chicago",
          edition: "2020",
@@ -46840,7 +46929,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1245,
+          number: 1252,
       identifier: "CppCon-2017-84",
          meeting: "CppCon",
          edition: "2017",
@@ -46880,7 +46969,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1007,
+          number: 1014,
       identifier: "CppCon-2015-46",
          meeting: "CppCon",
          edition: "2015",
@@ -46900,7 +46989,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1427,
+          number: 1434,
       identifier: "CppCon-2019-70",
          meeting: "CppCon",
          edition: "2019",
@@ -46940,7 +47029,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1123,
+          number: 1130,
       identifier: "CppCon-2016-62",
          meeting: "CppCon",
          edition: "2016",
@@ -46960,7 +47049,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1287,
+          number: 1294,
       identifier: "CppCon-2018-26",
          meeting: "CppCon",
          edition: "2018",
@@ -46980,7 +47069,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1994,
+          number: 2001,
       identifier: "accu-2019-83",
          meeting: "accu",
          edition: "2019",
@@ -47019,7 +47108,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 3015,
+          number: 3022,
       identifier: "Oxidize Global-2020-12",
          meeting: "Oxidize Global",
          edition: "2020",
@@ -47040,7 +47129,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1457,
+          number: 1464,
       identifier: "CppCon-2019-100",
          meeting: "CppCon",
          edition: "2019",
@@ -47080,7 +47169,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1583,
+          number: 1590,
       identifier: "code::dive-2015-13",
          meeting: "code::dive",
          edition: "2015",
@@ -47099,7 +47188,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1844,
+          number: 1851,
       identifier: "accu-2017-29",
          meeting: "accu",
          edition: "2017",
@@ -47118,7 +47207,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1734,
+          number: 1741,
       identifier: "code::dive-2019-4",
          meeting: "code::dive",
          edition: "2019",
@@ -47137,7 +47226,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2829,
+          number: 2836,
       identifier: "GOTO Copenhagen-2019-48",
          meeting: "GOTO Copenhagen",
          edition: "2019",
@@ -47156,7 +47245,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2828,
+          number: 2835,
       identifier: "GOTO Copenhagen-2019-47",
          meeting: "GOTO Copenhagen",
          edition: "2019",
@@ -47175,7 +47264,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2476,
+          number: 2483,
       identifier: "GOTO Amsterdam-2019-13",
          meeting: "GOTO Amsterdam",
          edition: "2019",
@@ -47194,7 +47283,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2228,
+          number: 2235,
       identifier: "Pacific C++-2017-4",
          meeting: "Pacific C++",
          edition: "2017",
@@ -47254,7 +47343,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1420,
+          number: 1427,
       identifier: "CppCon-2019-63",
          meeting: "CppCon",
          edition: "2019",
@@ -47274,7 +47363,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2108,
+          number: 2115,
       identifier: "C++ on sea-2020-33",
          meeting: "C++ on sea",
          edition: "2020",
@@ -47294,7 +47383,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1755,
+          number: 1762,
       identifier: "code::dive-2019-25",
          meeting: "code::dive",
          edition: "2019",
@@ -47334,7 +47423,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2276,
+          number: 2283,
       identifier: "Live Embedded Event-2020-30",
          meeting: "Live Embedded Event",
          edition: "2020",
@@ -47354,7 +47443,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2344,
+          number: 2351,
       identifier: "MUC++--11",
          meeting: "MUC++",
          edition: "",
@@ -47374,7 +47463,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1346,
+          number: 1353,
       identifier: "CppCon-2018-87",
          meeting: "CppCon",
          edition: "2018",
@@ -47394,7 +47483,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 894,
+          number: 901,
       identifier: "CppCon-2014-33",
          meeting: "CppCon",
          edition: "2014",
@@ -47414,7 +47503,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1719,
+          number: 1726,
       identifier: "code::dive-2018-49",
          meeting: "code::dive",
          edition: "2018",
@@ -47433,7 +47522,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2994,
+          number: 3001,
       identifier: "RustFest-2020-16",
          meeting: "RustFest",
          edition: "2020",
@@ -47455,7 +47544,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1065,
+          number: 1072,
       identifier: "CppCon-2016-4",
          meeting: "CppCon",
          edition: "2016",
@@ -47475,7 +47564,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2974,
+          number: 2981,
       identifier: "RustFest-2019-5",
          meeting: "RustFest",
          edition: "2019",
@@ -47516,7 +47605,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2918,
+          number: 2925,
       identifier: "GOTOpia-2021-17",
          meeting: "GOTOpia",
          edition: "2021",
@@ -47535,7 +47624,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2684,
+          number: 2691,
       identifier: "GOTO Chicago-2019-53",
          meeting: "GOTO Chicago",
          edition: "2019",
@@ -47554,7 +47643,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1609,
+          number: 1616,
       identifier: "code::dive-2016-20",
          meeting: "code::dive",
          edition: "2016",
@@ -47573,7 +47662,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 896,
+          number: 903,
       identifier: "CppCon-2014-35",
          meeting: "CppCon",
          edition: "2014",
@@ -47613,7 +47702,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 3011,
+          number: 3018,
       identifier: "Oxidize Global-2020-8",
          meeting: "Oxidize Global",
          edition: "2020",
@@ -47653,7 +47742,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2291,
+          number: 2298,
       identifier: "Live Embedded Event-2021-10",
          meeting: "Live Embedded Event",
          edition: "2021",
@@ -47693,7 +47782,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1871,
+          number: 1878,
       identifier: "accu-2018-1",
          meeting: "accu",
          edition: "2018",
@@ -47712,7 +47801,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2478,
+          number: 2485,
       identifier: "GOTO Amsterdam-2019-15",
          meeting: "GOTO Amsterdam",
          edition: "2019",
@@ -47732,7 +47821,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2991,
+          number: 2998,
       identifier: "RustFest-2020-13",
          meeting: "RustFest",
          edition: "2020",
@@ -47754,7 +47843,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2742,
+          number: 2749,
       identifier: "GOTO Copenhagen-2018-3",
          meeting: "GOTO Copenhagen",
          edition: "2018",
@@ -47774,7 +47863,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2932,
+          number: 2939,
       identifier: "RustConf-2019-2",
          meeting: "RustConf",
          edition: "2019",
@@ -47795,7 +47884,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2992,
+          number: 2999,
       identifier: "RustFest-2020-14",
          meeting: "RustFest",
          edition: "2020",
@@ -47816,7 +47905,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 3002,
+          number: 3009,
       identifier: "RustFest-2020-26",
          meeting: "RustFest",
          edition: "2020",
@@ -47837,7 +47926,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2955,
+          number: 2962,
       identifier: "RustConf-2020-9",
          meeting: "RustConf",
          edition: "2020",
@@ -47858,7 +47947,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2990,
+          number: 2997,
       identifier: "RustFest-2020-11",
          meeting: "RustFest",
          edition: "2020",
@@ -47879,7 +47968,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2936,
+          number: 2943,
       identifier: "RustConf-2019-6",
          meeting: "RustConf",
          edition: "2019",
@@ -47900,7 +47989,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2972,
+          number: 2979,
       identifier: "RustFest-2019-3",
          meeting: "RustFest",
          edition: "2019",
@@ -47922,7 +48011,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 3017,
+          number: 3024,
       identifier: "Oxidize Global-2020-14",
          meeting: "Oxidize Global",
          edition: "2020",
@@ -47964,7 +48053,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2981,
+          number: 2988,
       identifier: "RustFest-2020-1",
          meeting: "RustFest",
          edition: "2020",
@@ -47985,7 +48074,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 3007,
+          number: 3014,
       identifier: "Oxidize Global-2020-4",
          meeting: "Oxidize Global",
          edition: "2020",
@@ -48025,7 +48114,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2695,
+          number: 2702,
       identifier: "GOTO Chicago-2020-6",
          meeting: "GOTO Chicago",
          edition: "2020",
@@ -48044,7 +48133,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1985,
+          number: 1992,
       identifier: "accu-2019-74",
          meeting: "accu",
          edition: "2019",
@@ -48084,7 +48173,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1281,
+          number: 1288,
       identifier: "CppCon-2018-20",
          meeting: "CppCon",
          edition: "2018",
@@ -48104,7 +48193,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1157,
+          number: 1164,
       identifier: "CppCon-2016-96",
          meeting: "CppCon",
          edition: "2016",
@@ -48124,7 +48213,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1435,
+          number: 1442,
       identifier: "CppCon-2019-78",
          meeting: "CppCon",
          edition: "2019",
@@ -48144,7 +48233,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2461,
+          number: 2468,
       identifier: "GOTO Amsterdam-2018-39",
          meeting: "GOTO Amsterdam",
          edition: "2018",
@@ -48183,7 +48272,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1278,
+          number: 1285,
       identifier: "CppCon-2018-17",
          meeting: "CppCon",
          edition: "2018",
@@ -48203,7 +48292,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 931,
+          number: 938,
       identifier: "CppCon-2014-70",
          meeting: "CppCon",
          edition: "2014",
@@ -48223,7 +48312,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1298,
+          number: 1305,
       identifier: "CppCon-2018-37",
          meeting: "CppCon",
          edition: "2018",
@@ -48243,8 +48332,8 @@ const talks = [
         language: "English"
    },
    {
-          number: 2902,
-      identifier: "GOTOpia-2021-1",
+          number: 2910,
+      identifier: "GOTOpia-2021-2",
          meeting: "GOTOpia",
          edition: "2021",
            title: "Scale, Flow and Microservices",
@@ -48262,7 +48351,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2361,
+          number: 2368,
       identifier: "MUC++--28",
          meeting: "MUC++",
          edition: "",
@@ -48282,7 +48371,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2360,
+          number: 2367,
       identifier: "MUC++--27",
          meeting: "MUC++",
          edition: "",
@@ -48302,7 +48391,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2430,
+          number: 2437,
       identifier: "GOTO Amsterdam-2018-8",
          meeting: "GOTO Amsterdam",
          edition: "2018",
@@ -48321,7 +48410,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2823,
+          number: 2830,
       identifier: "GOTO Copenhagen-2019-42",
          meeting: "GOTO Copenhagen",
          edition: "2019",
@@ -48360,7 +48449,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1877,
+          number: 1884,
       identifier: "accu-2018-7",
          meeting: "accu",
          edition: "2018",
@@ -48399,7 +48488,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2525,
+          number: 2532,
       identifier: "GOTO Berlin-2018-22",
          meeting: "GOTO Berlin",
          edition: "2018",
@@ -48418,7 +48507,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2607,
+          number: 2614,
       identifier: "GOTO Chicago-2018-18",
          meeting: "GOTO Chicago",
          edition: "2018",
@@ -48437,7 +48526,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2856,
+          number: 2863,
       identifier: "GOTOpia-2020-13",
          meeting: "GOTOpia",
          edition: "2020",
@@ -48456,7 +48545,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2497,
+          number: 2504,
       identifier: "GOTO Amsterdam-2019-34",
          meeting: "GOTO Amsterdam",
          edition: "2019",
@@ -48476,7 +48565,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2290,
+          number: 2297,
       identifier: "Live Embedded Event-2021-9",
          meeting: "Live Embedded Event",
          edition: "2021",
@@ -48496,7 +48585,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1943,
+          number: 1950,
       identifier: "accu-2019-22",
          meeting: "accu",
          edition: "2019",
@@ -48515,7 +48604,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1018,
+          number: 1025,
       identifier: "CppCon-2015-57",
          meeting: "CppCon",
          edition: "2015",
@@ -48575,7 +48664,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1310,
+          number: 1317,
       identifier: "CppCon-2018-49",
          meeting: "CppCon",
          edition: "2018",
@@ -48595,7 +48684,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1311,
+          number: 1318,
       identifier: "CppCon-2018-50",
          meeting: "CppCon",
          edition: "2018",
@@ -48615,7 +48704,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2747,
+          number: 2754,
       identifier: "GOTO Copenhagen-2018-8",
          meeting: "GOTO Copenhagen",
          edition: "2018",
@@ -48634,7 +48723,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2663,
+          number: 2670,
       identifier: "GOTO Chicago-2019-32",
          meeting: "GOTO Chicago",
          edition: "2019",
@@ -48653,7 +48742,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2628,
+          number: 2635,
       identifier: "GOTO Chicago-2018-39",
          meeting: "GOTO Chicago",
          edition: "2018",
@@ -48672,7 +48761,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2289,
+          number: 2296,
       identifier: "Live Embedded Event-2021-8",
          meeting: "Live Embedded Event",
          edition: "2021",
@@ -48692,7 +48781,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2288,
+          number: 2295,
       identifier: "Live Embedded Event-2021-7",
          meeting: "Live Embedded Event",
          edition: "2021",
@@ -48712,7 +48801,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1566,
+          number: 1573,
       identifier: "code::dive-2014-9",
          meeting: "code::dive",
          edition: "2014",
@@ -48731,7 +48820,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1565,
+          number: 1572,
       identifier: "code::dive-2014-8",
          meeting: "code::dive",
          edition: "2014",
@@ -48750,7 +48839,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2391,
+          number: 2398,
       identifier: "MUC++--58",
          meeting: "MUC++",
          edition: "",
@@ -48770,7 +48859,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2390,
+          number: 2397,
       identifier: "MUC++--57",
          meeting: "MUC++",
          edition: "",
@@ -48790,7 +48879,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2389,
+          number: 2396,
       identifier: "MUC++--56",
          meeting: "MUC++",
          edition: "",
@@ -48810,7 +48899,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2388,
+          number: 2395,
       identifier: "MUC++--55",
          meeting: "MUC++",
          edition: "",
@@ -48830,7 +48919,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2456,
+          number: 2463,
       identifier: "GOTO Amsterdam-2018-34",
          meeting: "GOTO Amsterdam",
          edition: "2018",
@@ -48870,7 +48959,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2109,
+          number: 2116,
       identifier: "C++ on sea-2020-34",
          meeting: "C++ on sea",
          edition: "2020",
@@ -48890,7 +48979,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2723,
+          number: 2730,
       identifier: "GOTO Chicago-2020-34",
          meeting: "GOTO Chicago",
          edition: "2020",
@@ -48909,7 +48998,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2639,
+          number: 2646,
       identifier: "GOTO Chicago-2019-8",
          meeting: "GOTO Chicago",
          edition: "2019",
@@ -48928,7 +49017,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2572,
+          number: 2579,
       identifier: "GOTO Berlin-2019-22",
          meeting: "GOTO Berlin",
          edition: "2019",
@@ -48947,7 +49036,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2515,
+          number: 2522,
       identifier: "GOTO Berlin-2018-12",
          meeting: "GOTO Berlin",
          edition: "2018",
@@ -48966,7 +49055,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2743,
+          number: 2750,
       identifier: "GOTO Copenhagen-2018-4",
          meeting: "GOTO Copenhagen",
          edition: "2018",
@@ -48985,7 +49074,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2665,
+          number: 2672,
       identifier: "GOTO Chicago-2019-34",
          meeting: "GOTO Chicago",
          edition: "2019",
@@ -49004,7 +49093,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2614,
+          number: 2621,
       identifier: "GOTO Chicago-2018-25",
          meeting: "GOTO Chicago",
          edition: "2018",
@@ -49023,7 +49112,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2487,
+          number: 2494,
       identifier: "GOTO Amsterdam-2019-24",
          meeting: "GOTO Amsterdam",
          edition: "2019",
@@ -49042,7 +49131,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1820,
+          number: 1827,
       identifier: "accu-2016-41",
          meeting: "accu",
          edition: "2016",
@@ -49061,7 +49150,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1226,
+          number: 1233,
       identifier: "CppCon-2017-65",
          meeting: "CppCon",
          edition: "2017",
@@ -49121,7 +49210,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2979,
+          number: 2986,
       identifier: "RustFest-2019-10",
          meeting: "RustFest",
          edition: "2019",
@@ -49141,7 +49230,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1768,
+          number: 1775,
       identifier: "code::dive-2019-38",
          meeting: "code::dive",
          edition: "2019",
@@ -49160,7 +49249,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1542,
+          number: 1549,
       identifier: "CppCon-2020-85",
          meeting: "CppCon",
          edition: "2020",
@@ -49200,7 +49289,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 993,
+          number: 1000,
       identifier: "CppCon-2015-32",
          meeting: "CppCon",
          edition: "2015",
@@ -49260,7 +49349,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2367,
+          number: 2374,
       identifier: "MUC++--34",
          meeting: "MUC++",
          edition: "",
@@ -49280,7 +49369,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1264,
+          number: 1271,
       identifier: "CppCon-2018-3",
          meeting: "CppCon",
          edition: "2018",
@@ -49300,7 +49389,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1908,
+          number: 1915,
       identifier: "accu-2018-44",
          meeting: "accu",
          edition: "2018",
@@ -49319,7 +49408,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2243,
+          number: 2250,
       identifier: "Pacific C++-2018-9",
          meeting: "Pacific C++",
          edition: "2018",
@@ -49339,7 +49428,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2762,
+          number: 2769,
       identifier: "GOTO Copenhagen-2018-23",
          meeting: "GOTO Copenhagen",
          edition: "2018",
@@ -49358,7 +49447,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1720,
+          number: 1727,
       identifier: "code::dive-2018-50",
          meeting: "code::dive",
          edition: "2018",
@@ -49377,7 +49466,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 871,
+          number: 878,
       identifier: "CppCon-2014-10",
          meeting: "CppCon",
          edition: "2014",
@@ -49397,7 +49486,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1713,
+          number: 1720,
       identifier: "code::dive-2018-43",
          meeting: "code::dive",
          edition: "2018",
@@ -49416,7 +49505,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2433,
+          number: 2440,
       identifier: "GOTO Amsterdam-2018-11",
          meeting: "GOTO Amsterdam",
          edition: "2018",
@@ -49435,7 +49524,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1692,
+          number: 1699,
       identifier: "code::dive-2018-22",
          meeting: "code::dive",
          edition: "2018",
@@ -49454,7 +49543,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2375,
+          number: 2382,
       identifier: "MUC++--42",
          meeting: "MUC++",
          edition: "",
@@ -49494,7 +49583,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1408,
+          number: 1415,
       identifier: "CppCon-2019-51",
          meeting: "CppCon",
          edition: "2019",
@@ -49514,7 +49603,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1630,
+          number: 1637,
       identifier: "code::dive-2016-41",
          meeting: "code::dive",
          edition: "2016",
@@ -49553,7 +49642,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2402,
+          number: 2409,
       identifier: "MUC++--92",
          meeting: "MUC++",
          edition: "",
@@ -49573,7 +49662,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1353,
+          number: 1360,
       identifier: "CppCon-2018-96",
          meeting: "CppCon",
          edition: "2018",
@@ -49593,7 +49682,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1933,
+          number: 1940,
       identifier: "accu-2019-8",
          meeting: "accu",
          edition: "2019",
@@ -49652,7 +49741,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1258,
+          number: 1265,
       identifier: "CppCon-2017-97",
          meeting: "CppCon",
          edition: "2017",
@@ -49692,7 +49781,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2436,
+          number: 2443,
       identifier: "GOTO Amsterdam-2018-14",
          meeting: "GOTO Amsterdam",
          edition: "2018",
@@ -49711,7 +49800,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2612,
+          number: 2619,
       identifier: "GOTO Chicago-2018-23",
          meeting: "GOTO Chicago",
          edition: "2018",
@@ -49730,7 +49819,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1914,
+          number: 1921,
       identifier: "accu-2018-53",
          meeting: "accu",
          edition: "2018",
@@ -49749,7 +49838,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1712,
+          number: 1719,
       identifier: "code::dive-2018-42",
          meeting: "code::dive",
          edition: "2018",
@@ -49768,7 +49857,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2880,
+          number: 2887,
       identifier: "GOTOpia-2020-40",
          meeting: "GOTOpia",
          edition: "2020",
@@ -49787,7 +49876,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2128,
+          number: 2135,
       identifier: "C++ on sea-2021-9",
          meeting: "C++ on sea",
          edition: "2021",
@@ -49807,7 +49896,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2844,
+          number: 2851,
       identifier: "GOTOpia-2020-1",
          meeting: "GOTOpia",
          edition: "2020",
@@ -49826,7 +49915,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1741,
+          number: 1748,
       identifier: "code::dive-2019-11",
          meeting: "code::dive",
          edition: "2019",
@@ -49845,7 +49934,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 888,
+          number: 895,
       identifier: "CppCon-2014-27",
          meeting: "CppCon",
          edition: "2014",
@@ -49865,7 +49954,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1975,
+          number: 1982,
       identifier: "accu-2019-61",
          meeting: "accu",
          edition: "2019",
@@ -49884,7 +49973,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2753,
+          number: 2760,
       identifier: "GOTO Copenhagen-2018-14",
          meeting: "GOTO Copenhagen",
          edition: "2018",
@@ -49943,7 +50032,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1369,
+          number: 1376,
       identifier: "CppCon-2019-12",
          meeting: "CppCon",
          edition: "2019",
@@ -49963,7 +50052,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1538,
+          number: 1545,
       identifier: "CppCon-2020-81",
          meeting: "CppCon",
          edition: "2020",
@@ -49983,7 +50072,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1587,
+          number: 1594,
       identifier: "code::dive-2015-17",
          meeting: "code::dive",
          edition: "2015",
@@ -50022,7 +50111,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1280,
+          number: 1287,
       identifier: "CppCon-2018-19",
          meeting: "CppCon",
          edition: "2018",
@@ -50042,7 +50131,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2112,
+          number: 2119,
       identifier: "C++ on sea-2020-40",
          meeting: "C++ on sea",
          edition: "2020",
@@ -50062,7 +50151,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2089,
+          number: 2096,
       identifier: "C++ on sea-2020-8",
          meeting: "C++ on sea",
          edition: "2020",
@@ -50082,7 +50171,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1268,
+          number: 1275,
       identifier: "CppCon-2018-7",
          meeting: "CppCon",
          edition: "2018",
@@ -50102,7 +50191,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1267,
+          number: 1274,
       identifier: "CppCon-2018-6",
          meeting: "CppCon",
          edition: "2018",
@@ -50122,7 +50211,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1359,
+          number: 1366,
       identifier: "CppCon-2019-2",
          meeting: "CppCon",
          edition: "2019",
@@ -50142,7 +50231,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2020,
+          number: 2027,
       identifier: "accu-2021-38",
          meeting: "accu",
          edition: "2021",
@@ -50161,7 +50250,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2078,
+          number: 2085,
       identifier: "C++ on sea-2019-27",
          meeting: "C++ on sea",
          edition: "2019",
@@ -50181,7 +50270,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1685,
+          number: 1692,
       identifier: "code::dive-2018-15",
          meeting: "code::dive",
          edition: "2018",
@@ -50241,7 +50330,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2287,
+          number: 2294,
       identifier: "Live Embedded Event-2021-6",
          meeting: "Live Embedded Event",
          edition: "2021",
@@ -50261,7 +50350,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1100,
+          number: 1107,
       identifier: "CppCon-2016-39",
          meeting: "CppCon",
          edition: "2016",
@@ -50281,7 +50370,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 857,
+          number: 864,
       identifier: "Meeting Embedded-2018-8",
          meeting: "Meeting Embedded",
          edition: "2018",
@@ -50321,7 +50410,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 902,
+          number: 909,
       identifier: "CppCon-2014-41",
          meeting: "CppCon",
          edition: "2014",
@@ -50341,7 +50430,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2286,
+          number: 2293,
       identifier: "Live Embedded Event-2021-5",
          meeting: "Live Embedded Event",
          edition: "2021",
@@ -50361,7 +50450,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2521,
+          number: 2528,
       identifier: "GOTO Berlin-2018-18",
          meeting: "GOTO Berlin",
          edition: "2018",
@@ -50420,7 +50509,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1842,
+          number: 1849,
       identifier: "accu-2017-24",
          meeting: "accu",
          edition: "2017",
@@ -50459,7 +50548,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2265,
+          number: 2272,
       identifier: "Live Embedded Event-2020-19",
          meeting: "Live Embedded Event",
          edition: "2020",
@@ -50479,7 +50568,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2268,
+          number: 2275,
       identifier: "Live Embedded Event-2020-22",
          meeting: "Live Embedded Event",
          edition: "2020",
@@ -50519,7 +50608,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1266,
+          number: 1273,
       identifier: "CppCon-2018-5",
          meeting: "CppCon",
          edition: "2018",
@@ -50539,7 +50628,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1033,
+          number: 1040,
       identifier: "CppCon-2015-72",
          meeting: "CppCon",
          edition: "2015",
@@ -50559,7 +50648,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2413,
+          number: 2420,
       identifier: "Going Native-2012-9",
          meeting: "Going Native",
          edition: "2012",
@@ -50619,7 +50708,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1746,
+          number: 1753,
       identifier: "code::dive-2019-16",
          meeting: "code::dive",
          edition: "2019",
@@ -50658,7 +50747,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1098,
+          number: 1105,
       identifier: "CppCon-2016-37",
          meeting: "CppCon",
          edition: "2016",
@@ -50678,7 +50767,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1009,
+          number: 1016,
       identifier: "CppCon-2015-48",
          meeting: "CppCon",
          edition: "2015",
@@ -50738,7 +50827,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1610,
+          number: 1617,
       identifier: "code::dive-2016-21",
          meeting: "code::dive",
          edition: "2016",
@@ -50797,7 +50886,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1812,
+          number: 1819,
       identifier: "accu-2016-30",
          meeting: "accu",
          edition: "2016",
@@ -50816,7 +50905,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1149,
+          number: 1156,
       identifier: "CppCon-2016-88",
          meeting: "CppCon",
          edition: "2016",
@@ -50856,7 +50945,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1024,
+          number: 1031,
       identifier: "CppCon-2015-63",
          meeting: "CppCon",
          edition: "2015",
@@ -50876,7 +50965,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 941,
+          number: 948,
       identifier: "CppCon-2014-80",
          meeting: "CppCon",
          edition: "2014",
@@ -50896,7 +50985,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2888,
+          number: 2895,
       identifier: "GOTOpia-2020-48",
          meeting: "GOTOpia",
          edition: "2020",
@@ -50915,7 +51004,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1053,
+          number: 1060,
       identifier: "CppCon-2015-92",
          meeting: "CppCon",
          edition: "2015",
@@ -50935,7 +51024,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1745,
+          number: 1752,
       identifier: "code::dive-2019-15",
          meeting: "code::dive",
          edition: "2019",
@@ -50954,7 +51043,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2917,
+          number: 2924,
       identifier: "GOTOpia-2021-16",
          meeting: "GOTOpia",
          edition: "2021",
@@ -50973,7 +51062,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1020,
+          number: 1027,
       identifier: "CppCon-2015-59",
          meeting: "CppCon",
          edition: "2015",
@@ -51013,7 +51102,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1656,
+          number: 1663,
       identifier: "code::dive-2017-25",
          meeting: "code::dive",
          edition: "2017",
@@ -51032,7 +51121,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2327,
+          number: 2334,
       identifier: "corehard-2019-2",
          meeting: "corehard",
          edition: "2019",
@@ -51072,7 +51161,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1528,
+          number: 1535,
       identifier: "CppCon-2020-71",
          meeting: "CppCon",
          edition: "2020",
@@ -51092,7 +51181,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2123,
+          number: 2130,
       identifier: "C++ on sea-2021-4",
          meeting: "C++ on sea",
          edition: "2021",
@@ -51152,7 +51241,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2095,
+          number: 2102,
       identifier: "C++ on sea-2020-17",
          meeting: "C++ on sea",
          edition: "2020",
@@ -51172,7 +51261,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1648,
+          number: 1655,
       identifier: "code::dive-2017-17",
          meeting: "code::dive",
          edition: "2017",
@@ -51191,7 +51280,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2966,
+          number: 2973,
       identifier: "RustConf-2021-10",
          meeting: "RustConf",
          edition: "2021",
@@ -51211,7 +51300,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2686,
+          number: 2693,
       identifier: "GOTO Chicago-2019-55",
          meeting: "GOTO Chicago",
          edition: "2019",
@@ -51230,7 +51319,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1569,
+          number: 1576,
       identifier: "code::dive-2014-12",
          meeting: "code::dive",
          edition: "2014",
@@ -51249,7 +51338,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2238,
+          number: 2245,
       identifier: "Pacific C++-2018-4",
          meeting: "Pacific C++",
          edition: "2018",
@@ -51269,7 +51358,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1331,
+          number: 1338,
       identifier: "CppCon-2018-70",
          meeting: "CppCon",
          edition: "2018",
@@ -51349,7 +51438,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2859,
+          number: 2866,
       identifier: "GOTOpia-2020-16",
          meeting: "GOTOpia",
          edition: "2020",
@@ -51368,7 +51457,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1785,
+          number: 1792,
       identifier: "code::dive-2020-10",
          meeting: "code::dive",
          edition: "2020",
@@ -51387,7 +51476,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2608,
+          number: 2615,
       identifier: "GOTO Chicago-2018-19",
          meeting: "GOTO Chicago",
          edition: "2018",
@@ -51407,7 +51496,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2538,
+          number: 2545,
       identifier: "GOTO Berlin-2018-35",
          meeting: "GOTO Berlin",
          edition: "2018",
@@ -51467,7 +51556,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1879,
+          number: 1886,
       identifier: "accu-2018-9",
          meeting: "accu",
          edition: "2018",
@@ -51506,7 +51595,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2369,
+          number: 2376,
       identifier: "MUC++--36",
          meeting: "MUC++",
          edition: "",
@@ -51546,7 +51635,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2945,
+          number: 2952,
       identifier: "RustConf-2019-15",
          meeting: "RustConf",
          edition: "2019",
@@ -51586,7 +51675,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1976,
+          number: 1983,
       identifier: "accu-2019-62",
          meeting: "accu",
          edition: "2019",
@@ -51605,7 +51694,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1640,
+          number: 1647,
       identifier: "code::dive-2017-9",
          meeting: "code::dive",
          edition: "2017",
@@ -51624,7 +51713,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2830,
+          number: 2837,
       identifier: "GOTO Oslo-2018-1",
          meeting: "GOTO Oslo",
          edition: "2018",
@@ -51643,7 +51732,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2942,
+          number: 2949,
       identifier: "RustConf-2019-12",
          meeting: "RustConf",
          edition: "2019",
@@ -51663,7 +51752,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2802,
+          number: 2809,
       identifier: "GOTO Copenhagen-2019-21",
          meeting: "GOTO Copenhagen",
          edition: "2019",
@@ -51682,7 +51771,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2485,
+          number: 2492,
       identifier: "GOTO Amsterdam-2019-22",
          meeting: "GOTO Amsterdam",
          edition: "2019",
@@ -51701,7 +51790,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2818,
+          number: 2825,
       identifier: "GOTO Copenhagen-2019-37",
          meeting: "GOTO Copenhagen",
          edition: "2019",
@@ -51761,7 +51850,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1910,
+          number: 1917,
       identifier: "accu-2018-46",
          meeting: "accu",
          edition: "2018",
@@ -51780,7 +51869,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 3003,
+          number: 3010,
       identifier: "RustFest-2020-28",
          meeting: "RustFest",
          edition: "2020",
@@ -51821,7 +51910,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1347,
+          number: 1354,
       identifier: "CppCon-2018-90",
          meeting: "CppCon",
          edition: "2018",
@@ -51841,7 +51930,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2511,
+          number: 2518,
       identifier: "GOTO Berlin-2018-8",
          meeting: "GOTO Berlin",
          edition: "2018",
@@ -51860,7 +51949,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2883,
+          number: 2890,
       identifier: "GOTOpia-2020-43",
          meeting: "GOTOpia",
          edition: "2020",
@@ -51899,7 +51988,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1968,
+          number: 1975,
       identifier: "accu-2019-54",
          meeting: "accu",
          edition: "2019",
@@ -51918,7 +52007,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1677,
+          number: 1684,
       identifier: "code::dive-2018-7",
          meeting: "code::dive",
          edition: "2018",
@@ -51978,7 +52067,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1525,
+          number: 1532,
       identifier: "CppCon-2020-68",
          meeting: "CppCon",
          edition: "2020",
@@ -51998,7 +52087,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2404,
+          number: 2411,
       identifier: "MUC++--95",
          meeting: "MUC++",
          edition: "",
@@ -52018,7 +52107,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2030,
+          number: 2037,
       identifier: "C++ Day-2020-8",
          meeting: "C++ Day",
          edition: "2020",
@@ -52058,7 +52147,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1954,
+          number: 1961,
       identifier: "accu-2019-33",
          meeting: "accu",
          edition: "2019",
@@ -52098,7 +52187,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2211,
+          number: 2218,
       identifier: "C++ Europe-2020-9",
          meeting: "C++ Europe",
          edition: "2020",
@@ -52118,7 +52207,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1027,
+          number: 1034,
       identifier: "CppCon-2015-66",
          meeting: "CppCon",
          edition: "2015",
@@ -52138,7 +52227,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1669,
+          number: 1676,
       identifier: "code::dive-2017-38",
          meeting: "code::dive",
          edition: "2017",
@@ -52198,7 +52287,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2384,
+          number: 2391,
       identifier: "MUC++--51",
          meeting: "MUC++",
          edition: "",
@@ -52238,7 +52327,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1460,
+          number: 1467,
       identifier: "CppCon-2020-3",
          meeting: "CppCon",
          edition: "2020",
@@ -52258,7 +52347,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1461,
+          number: 1468,
       identifier: "CppCon-2020-4",
          meeting: "CppCon",
          edition: "2020",
@@ -52278,7 +52367,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1072,
+          number: 1079,
       identifier: "CppCon-2016-11",
          meeting: "CppCon",
          edition: "2016",
@@ -52298,7 +52387,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1077,
+          number: 1084,
       identifier: "CppCon-2016-16",
          meeting: "CppCon",
          edition: "2016",
@@ -52358,7 +52447,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1015,
+          number: 1022,
       identifier: "CppCon-2015-54",
          meeting: "CppCon",
          edition: "2015",
@@ -52378,7 +52467,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2480,
+          number: 2487,
       identifier: "GOTO Amsterdam-2019-17",
          meeting: "GOTO Amsterdam",
          edition: "2019",
@@ -52397,7 +52486,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2777,
+          number: 2784,
       identifier: "GOTO Copenhagen-2018-38",
          meeting: "GOTO Copenhagen",
          edition: "2018",
@@ -52416,7 +52505,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1471,
+          number: 1478,
       identifier: "CppCon-2020-14",
          meeting: "CppCon",
          edition: "2020",
@@ -52436,7 +52525,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1002,
+          number: 1009,
       identifier: "CppCon-2015-41",
          meeting: "CppCon",
          edition: "2015",
@@ -52456,7 +52545,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 876,
+          number: 883,
       identifier: "CppCon-2014-15",
          meeting: "CppCon",
          edition: "2014",
@@ -52536,7 +52625,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1052,
+          number: 1059,
       identifier: "CppCon-2015-91",
          meeting: "CppCon",
          edition: "2015",
@@ -52576,7 +52665,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2322,
+          number: 2329,
       identifier: "corehard-2018-4",
          meeting: "corehard",
          edition: "2018",
@@ -52616,7 +52705,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2817,
+          number: 2824,
       identifier: "GOTO Copenhagen-2019-36",
          meeting: "GOTO Copenhagen",
          edition: "2019",
@@ -52655,7 +52744,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2517,
+          number: 2524,
       identifier: "GOTO Berlin-2018-14",
          meeting: "GOTO Berlin",
          edition: "2018",
@@ -52694,7 +52783,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2381,
+          number: 2388,
       identifier: "MUC++--48",
          meeting: "MUC++",
          edition: "",
@@ -52714,7 +52803,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1937,
+          number: 1944,
       identifier: "accu-2019-12",
          meeting: "accu",
          edition: "2019",
@@ -52733,7 +52822,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2998,
+          number: 3005,
       identifier: "RustFest-2020-21",
          meeting: "RustFest",
          edition: "2020",
@@ -52754,7 +52843,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2833,
+          number: 2840,
       identifier: "GOTO Oslo-2018-4",
          meeting: "GOTO Oslo",
          edition: "2018",
@@ -52793,7 +52882,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1250,
+          number: 1257,
       identifier: "CppCon-2017-89",
          meeting: "CppCon",
          edition: "2017",
@@ -52813,7 +52902,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2726,
+          number: 2733,
       identifier: "GOTO Chicago-2020-37",
          meeting: "GOTO Chicago",
          edition: "2020",
@@ -52852,7 +52941,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1832,
+          number: 1839,
       identifier: "accu-2017-14",
          meeting: "accu",
          edition: "2017",
@@ -52871,7 +52960,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2905,
+          number: 2912,
       identifier: "GOTOpia-2021-4",
          meeting: "GOTOpia",
          edition: "2021",
@@ -52890,7 +52979,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1721,
+          number: 1728,
       identifier: "code::dive-2018-51",
          meeting: "code::dive",
          edition: "2018",
@@ -52909,7 +52998,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1882,
+          number: 1889,
       identifier: "accu-2018-15",
          meeting: "accu",
          edition: "2018",
@@ -52949,7 +53038,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2316,
+          number: 2323,
       identifier: "corehard-2017-1",
          meeting: "corehard",
          edition: "2017",
@@ -52969,7 +53058,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1414,
+          number: 1421,
       identifier: "CppCon-2019-57",
          meeting: "CppCon",
          edition: "2019",
@@ -52989,7 +53078,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2138,
+          number: 2145,
       identifier: "Core C++-2019-2",
          meeting: "Core C++",
          edition: "2019",
@@ -53029,7 +53118,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1637,
+          number: 1644,
       identifier: "code::dive-2017-6",
          meeting: "code::dive",
          edition: "2017",
@@ -53048,7 +53137,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1140,
+          number: 1147,
       identifier: "CppCon-2016-79",
          meeting: "CppCon",
          edition: "2016",
@@ -53068,7 +53157,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1425,
+          number: 1432,
       identifier: "CppCon-2019-68",
          meeting: "CppCon",
          edition: "2019",
@@ -53088,7 +53177,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1304,
+          number: 1311,
       identifier: "CppCon-2018-43",
          meeting: "CppCon",
          edition: "2018",
@@ -53108,7 +53197,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2139,
+          number: 2146,
       identifier: "Core C++-2019-3",
          meeting: "Core C++",
          edition: "2019",
@@ -53188,7 +53277,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2326,
+          number: 2333,
       identifier: "corehard-2019-1",
          meeting: "corehard",
          edition: "2019",
@@ -53208,7 +53297,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2218,
+          number: 2225,
       identifier: "C++ Europe-2020-16",
          meeting: "C++ Europe",
          edition: "2020",
@@ -53228,7 +53317,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1834,
+          number: 1841,
       identifier: "accu-2017-16",
          meeting: "accu",
          edition: "2017",
@@ -53248,7 +53337,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1081,
+          number: 1088,
       identifier: "CppCon-2016-20",
          meeting: "CppCon",
          edition: "2016",
@@ -53288,7 +53377,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2033,
+          number: 2040,
       identifier: "ItCppCon-2020-3",
          meeting: "ItCppCon",
          edition: "2020",
@@ -53328,7 +53417,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1449,
+          number: 1456,
       identifier: "CppCon-2019-92",
          meeting: "CppCon",
          edition: "2019",
@@ -53388,7 +53477,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1969,
+          number: 1976,
       identifier: "accu-2019-55",
          meeting: "accu",
          edition: "2019",
@@ -53407,7 +53496,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1900,
+          number: 1907,
       identifier: "accu-2018-36",
          meeting: "accu",
          edition: "2018",
@@ -53426,7 +53515,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2850,
+          number: 2857,
       identifier: "GOTOpia-2020-7",
          meeting: "GOTOpia",
          edition: "2020",
@@ -53445,7 +53534,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 910,
+          number: 917,
       identifier: "CppCon-2014-49",
          meeting: "CppCon",
          edition: "2014",
@@ -53485,7 +53574,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2342,
+          number: 2349,
       identifier: "MUC++--9",
          meeting: "MUC++",
          edition: "",
@@ -53525,7 +53614,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2341,
+          number: 2348,
       identifier: "MUC++--8",
          meeting: "MUC++",
          edition: "",
@@ -53545,7 +53634,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1111,
+          number: 1118,
       identifier: "CppCon-2016-50",
          meeting: "CppCon",
          edition: "2016",
@@ -53585,7 +53674,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 852,
+          number: 859,
       identifier: "Meeting Embedded-2018-3",
          meeting: "Meeting Embedded",
          edition: "2018",
@@ -53606,7 +53695,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2779,
+          number: 2786,
       identifier: "GOTO Copenhagen-2018-40",
          meeting: "GOTO Copenhagen",
          edition: "2018",
@@ -53625,7 +53714,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2362,
+          number: 2369,
       identifier: "MUC++--29",
          meeting: "MUC++",
          edition: "",
@@ -53665,7 +53754,27 @@ const talks = [
         language: "English"
    },
    {
-          number: 1030,
+          number: 850,
+      identifier: "Meeting C++ online--1",
+         meeting: "Meeting C++ online",
+         edition: "",
+           title: "The CUDA C++ Standard Library",
+        speakers: [
+                     "Bryce Adelstein-Lelbach"
+                  ],
+           video: "https://youtube.com/watch?v=-ENnYEWezKo",
+       thumbnail: "http://img.youtube.com/vi/-ENnYEWezKo/0.jpg",
+        duration: 2620,
+            tags: [
+                     "c++",
+                     "online",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 1037,
       identifier: "CppCon-2015-69",
          meeting: "CppCon",
          edition: "2015",
@@ -53685,7 +53794,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2796,
+          number: 2803,
       identifier: "GOTO Copenhagen-2019-15",
          meeting: "GOTO Copenhagen",
          edition: "2019",
@@ -53724,7 +53833,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1395,
+          number: 1402,
       identifier: "CppCon-2019-38",
          meeting: "CppCon",
          edition: "2019",
@@ -53744,7 +53853,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1959,
+          number: 1966,
       identifier: "accu-2019-42",
          meeting: "accu",
          edition: "2019",
@@ -53763,7 +53872,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1987,
+          number: 1994,
       identifier: "accu-2019-76",
          meeting: "accu",
          edition: "2019",
@@ -53782,7 +53891,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2157,
+          number: 2164,
       identifier: "Core C++-2019-39",
          meeting: "Core C++",
          edition: "2019",
@@ -53802,7 +53911,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2396,
+          number: 2403,
       identifier: "MUC++--69",
          meeting: "MUC++",
          edition: "",
@@ -53842,7 +53951,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1436,
+          number: 1443,
       identifier: "CppCon-2019-79",
          meeting: "CppCon",
          edition: "2019",
@@ -53862,7 +53971,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1827,
+          number: 1834,
       identifier: "accu-2017-6",
          meeting: "accu",
          edition: "2017",
@@ -53881,7 +53990,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2598,
+          number: 2605,
       identifier: "GOTO Chicago-2018-9",
          meeting: "GOTO Chicago",
          edition: "2018",
@@ -53900,7 +54009,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2845,
+          number: 2852,
       identifier: "GOTOpia-2020-2",
          meeting: "GOTOpia",
          edition: "2020",
@@ -53919,7 +54028,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2890,
+          number: 2897,
       identifier: "GOTOpia-2020-50",
          meeting: "GOTOpia",
          edition: "2020",
@@ -53938,7 +54047,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2542,
+          number: 2549,
       identifier: "GOTO Berlin-2018-39",
          meeting: "GOTO Berlin",
          edition: "2018",
@@ -53957,7 +54066,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2922,
+          number: 2929,
       identifier: "GOTOpia-2021-21",
          meeting: "GOTOpia",
          edition: "2021",
@@ -53976,7 +54085,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1815,
+          number: 1822,
       identifier: "accu-2016-36",
          meeting: "accu",
          edition: "2016",
@@ -53995,7 +54104,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2595,
+          number: 2602,
       identifier: "GOTO Chicago-2018-6",
          meeting: "GOTO Chicago",
          edition: "2018",
@@ -54035,7 +54144,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2422,
+          number: 2429,
       identifier: "Going Native-2013-1",
          meeting: "Going Native",
          edition: "2013",
@@ -54055,7 +54164,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1853,
+          number: 1860,
       identifier: "accu-2017-38",
          meeting: "accu",
          edition: "2017",
@@ -54074,7 +54183,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1063,
+          number: 1070,
       identifier: "CppCon-2016-2",
          meeting: "CppCon",
          edition: "2016",
@@ -54094,7 +54203,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2460,
+          number: 2467,
       identifier: "GOTO Amsterdam-2018-38",
          meeting: "GOTO Amsterdam",
          edition: "2018",
@@ -54153,7 +54262,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1103,
+          number: 1110,
       identifier: "CppCon-2016-42",
          meeting: "CppCon",
          edition: "2016",
@@ -54173,7 +54282,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1907,
+          number: 1914,
       identifier: "accu-2018-43",
          meeting: "accu",
          edition: "2018",
@@ -54192,7 +54301,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1655,
+          number: 1662,
       identifier: "code::dive-2017-24",
          meeting: "code::dive",
          edition: "2017",
@@ -54231,7 +54340,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2022,
+          number: 2029,
       identifier: "accu-2021-40",
          meeting: "accu",
          edition: "2021",
@@ -54250,7 +54359,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2080,
+          number: 2087,
       identifier: "C++ on sea-2019-29",
          meeting: "C++ on sea",
          edition: "2019",
@@ -54270,7 +54379,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2995,
+          number: 3002,
       identifier: "RustFest-2020-17",
          meeting: "RustFest",
          edition: "2020",
@@ -54290,7 +54399,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2003,
+          number: 2010,
       identifier: "accu-2021-3",
          meeting: "accu",
          edition: "2021",
@@ -54309,7 +54418,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2061,
+          number: 2068,
       identifier: "C++ on sea-2019-3",
          meeting: "C++ on sea",
          edition: "2019",
@@ -54329,7 +54438,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2431,
+          number: 2438,
       identifier: "GOTO Amsterdam-2018-9",
          meeting: "GOTO Amsterdam",
          edition: "2018",
@@ -54368,7 +54477,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1465,
+          number: 1472,
       identifier: "CppCon-2020-8",
          meeting: "CppCon",
          edition: "2020",
@@ -54389,7 +54498,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2806,
+          number: 2813,
       identifier: "GOTO Copenhagen-2019-25",
          meeting: "GOTO Copenhagen",
          edition: "2019",
@@ -54408,7 +54517,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2824,
+          number: 2831,
       identifier: "GOTO Copenhagen-2019-43",
          meeting: "GOTO Copenhagen",
          edition: "2019",
@@ -54427,7 +54536,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2901,
+          number: 2908,
       identifier: "GOTOpia-2020-61",
          meeting: "GOTOpia",
          edition: "2020",
@@ -54446,7 +54555,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2746,
+          number: 2753,
       identifier: "GOTO Copenhagen-2018-7",
          meeting: "GOTO Copenhagen",
          edition: "2018",
@@ -54465,7 +54574,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2501,
+          number: 2508,
       identifier: "GOTO Amsterdam-2019-38",
          meeting: "GOTO Amsterdam",
          edition: "2019",
@@ -54484,7 +54593,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2113,
+          number: 2120,
       identifier: "C++ on sea-2020-41",
          meeting: "C++ on sea",
          edition: "2020",
@@ -54524,7 +54633,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1464,
+          number: 1471,
       identifier: "CppCon-2020-7",
          meeting: "CppCon",
          edition: "2020",
@@ -54544,7 +54653,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2589,
+          number: 2596,
       identifier: "GOTO Berlin-2019-39",
          meeting: "GOTO Berlin",
          edition: "2019",
@@ -54563,7 +54672,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2329,
+          number: 2336,
       identifier: "corehard-2019-4",
          meeting: "corehard",
          edition: "2019",
@@ -54583,7 +54692,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1695,
+          number: 1702,
       identifier: "code::dive-2018-25",
          meeting: "code::dive",
          edition: "2018",
@@ -54602,7 +54711,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1696,
+          number: 1703,
       identifier: "code::dive-2018-26",
          meeting: "code::dive",
          edition: "2018",
@@ -54641,7 +54750,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1260,
+          number: 1267,
       identifier: "CppCon-2017-99",
          meeting: "CppCon",
          edition: "2017",
@@ -54681,7 +54790,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2980,
+          number: 2987,
       identifier: "RustFest-2019-11",
          meeting: "RustFest",
          edition: "2019",
@@ -54701,7 +54810,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 916,
+          number: 923,
       identifier: "CppCon-2014-55",
          meeting: "CppCon",
          edition: "2014",
@@ -54721,7 +54830,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2417,
+          number: 2424,
       identifier: "Going Native-2012-13",
          meeting: "Going Native",
          edition: "2012",
@@ -54741,7 +54850,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2587,
+          number: 2594,
       identifier: "GOTO Berlin-2019-37",
          meeting: "GOTO Berlin",
          edition: "2019",
@@ -54760,7 +54869,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2960,
+          number: 2967,
       identifier: "RustConf-2021-4",
          meeting: "RustConf",
          edition: "2021",
@@ -54781,7 +54890,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1901,
+          number: 1908,
       identifier: "accu-2018-37",
          meeting: "accu",
          edition: "2018",
@@ -54800,7 +54909,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2825,
+          number: 2832,
       identifier: "GOTO Copenhagen-2019-44",
          meeting: "GOTO Copenhagen",
          edition: "2019",
@@ -54839,7 +54948,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1579,
+          number: 1586,
       identifier: "code::dive-2015-9",
          meeting: "code::dive",
          edition: "2015",
@@ -54858,7 +54967,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1977,
+          number: 1984,
       identifier: "accu-2019-63",
          meeting: "accu",
          edition: "2019",
@@ -54898,7 +55007,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1300,
+          number: 1307,
       identifier: "CppCon-2018-39",
          meeting: "CppCon",
          edition: "2018",
@@ -54939,7 +55048,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2635,
+          number: 2642,
       identifier: "GOTO Chicago-2019-4",
          meeting: "GOTO Chicago",
          edition: "2019",
@@ -54978,7 +55087,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1767,
+          number: 1774,
       identifier: "code::dive-2019-37",
          meeting: "code::dive",
          edition: "2019",
@@ -54997,7 +55106,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2120,
+          number: 2127,
       identifier: "C++ on sea-2020-48",
          meeting: "C++ on sea",
          edition: "2020",
@@ -55017,7 +55126,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1675,
+          number: 1682,
       identifier: "code::dive-2018-5",
          meeting: "code::dive",
          edition: "2018",
@@ -55036,7 +55145,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2843,
+          number: 2850,
       identifier: "GOTO Oslo-2018-14",
          meeting: "GOTO Oslo",
          edition: "2018",
@@ -55055,7 +55164,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1074,
+          number: 1081,
       identifier: "CppCon-2016-13",
          meeting: "CppCon",
          edition: "2016",
@@ -55075,7 +55184,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2181,
+          number: 2188,
       identifier: "Core C++-2021-18",
          meeting: "Core C++",
          edition: "2021",
@@ -55095,7 +55204,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1490,
+          number: 1497,
       identifier: "CppCon-2020-33",
          meeting: "CppCon",
          edition: "2020",
@@ -55175,7 +55284,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1845,
+          number: 1852,
       identifier: "accu-2017-30",
          meeting: "accu",
          edition: "2017",
@@ -55194,7 +55303,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2172,
+          number: 2179,
       identifier: "Core C++-2021-8",
          meeting: "Core C++",
          edition: "2021",
@@ -55254,7 +55363,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2363,
+          number: 2370,
       identifier: "MUC++--30",
          meeting: "MUC++",
          edition: "",
@@ -55294,7 +55403,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2776,
+          number: 2783,
       identifier: "GOTO Copenhagen-2018-37",
          meeting: "GOTO Copenhagen",
          edition: "2018",
@@ -55313,7 +55422,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1519,
+          number: 1526,
       identifier: "CppCon-2020-62",
          meeting: "CppCon",
          edition: "2020",
@@ -55333,7 +55442,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1446,
+          number: 1453,
       identifier: "CppCon-2019-89",
          meeting: "CppCon",
          edition: "2019",
@@ -55353,7 +55462,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1354,
+          number: 1361,
       identifier: "CppCon-2018-97",
          meeting: "CppCon",
          edition: "2018",
@@ -55373,7 +55482,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 887,
+          number: 894,
       identifier: "CppCon-2014-26",
          meeting: "CppCon",
          edition: "2014",
@@ -55413,7 +55522,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1330,
+          number: 1337,
       identifier: "CppCon-2018-69",
          meeting: "CppCon",
          edition: "2018",
@@ -55433,7 +55542,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2352,
+          number: 2359,
       identifier: "MUC++--19",
          meeting: "MUC++",
          edition: "",
@@ -55453,7 +55562,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1201,
+          number: 1208,
       identifier: "CppCon-2017-40",
          meeting: "CppCon",
          edition: "2017",
@@ -55514,7 +55623,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1404,
+          number: 1411,
       identifier: "CppCon-2019-47",
          meeting: "CppCon",
          edition: "2019",
@@ -55534,7 +55643,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1898,
+          number: 1905,
       identifier: "accu-2018-34",
          meeting: "accu",
          edition: "2018",
@@ -55594,7 +55703,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2853,
+          number: 2860,
       identifier: "GOTOpia-2020-10",
          meeting: "GOTOpia",
          edition: "2020",
@@ -55653,7 +55762,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 889,
+          number: 896,
       identifier: "CppCon-2014-28",
          meeting: "CppCon",
          edition: "2014",
@@ -55693,7 +55802,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2380,
+          number: 2387,
       identifier: "MUC++--47",
          meeting: "MUC++",
          edition: "",
@@ -55713,7 +55822,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2878,
+          number: 2885,
       identifier: "GOTOpia-2020-38",
          meeting: "GOTOpia",
          edition: "2020",
@@ -55732,7 +55841,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1088,
+          number: 1095,
       identifier: "CppCon-2016-27",
          meeting: "CppCon",
          edition: "2016",
@@ -55752,7 +55861,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2848,
+          number: 2855,
       identifier: "GOTOpia-2020-5",
          meeting: "GOTOpia",
          edition: "2020",
@@ -55811,7 +55920,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2660,
+          number: 2667,
       identifier: "GOTO Chicago-2019-29",
          meeting: "GOTO Chicago",
          edition: "2019",
@@ -55870,7 +55979,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2047,
+          number: 2054,
       identifier: "ItCppCon-2021-3",
          meeting: "ItCppCon",
          edition: "2021",
@@ -55890,7 +55999,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1172,
+          number: 1179,
       identifier: "CppCon-2017-11",
          meeting: "CppCon",
          edition: "2017",
@@ -55910,7 +56019,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2017,
+          number: 2024,
       identifier: "accu-2021-35",
          meeting: "accu",
          edition: "2021",
@@ -55929,7 +56038,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2075,
+          number: 2082,
       identifier: "C++ on sea-2019-24",
          meeting: "C++ on sea",
          edition: "2019",
@@ -55949,7 +56058,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2597,
+          number: 2604,
       identifier: "GOTO Chicago-2018-8",
          meeting: "GOTO Chicago",
          edition: "2018",
@@ -55968,7 +56077,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2763,
+          number: 2770,
       identifier: "GOTO Copenhagen-2018-24",
          meeting: "GOTO Copenhagen",
          edition: "2018",
@@ -56027,7 +56136,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2939,
+          number: 2946,
       identifier: "RustConf-2019-9",
          meeting: "RustConf",
          edition: "2019",
@@ -56048,7 +56157,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2772,
+          number: 2779,
       identifier: "GOTO Copenhagen-2018-33",
          meeting: "GOTO Copenhagen",
          edition: "2018",
@@ -56067,7 +56176,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1516,
+          number: 1523,
       identifier: "CppCon-2020-59",
          meeting: "CppCon",
          edition: "2020",
@@ -56087,7 +56196,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2137,
+          number: 2144,
       identifier: "C++ on sea-2021-18",
          meeting: "C++ on sea",
          edition: "2021",
@@ -56107,7 +56216,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1597,
+          number: 1604,
       identifier: "code::dive-2016-8",
          meeting: "code::dive",
          edition: "2016",
@@ -56146,7 +56255,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1897,
+          number: 1904,
       identifier: "accu-2018-33",
          meeting: "accu",
          edition: "2018",
@@ -56165,7 +56274,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1512,
+          number: 1519,
       identifier: "CppCon-2020-55",
          meeting: "CppCon",
          edition: "2020",
@@ -56185,7 +56294,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2037,
+          number: 2044,
       identifier: "ItCppCon-2020-7",
          meeting: "ItCppCon",
          edition: "2020",
@@ -56225,7 +56334,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1371,
+          number: 1378,
       identifier: "CppCon-2019-14",
          meeting: "CppCon",
          edition: "2019",
@@ -56245,7 +56354,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2632,
+          number: 2639,
       identifier: "GOTO Chicago-2019-1",
          meeting: "GOTO Chicago",
          edition: "2019",
@@ -56284,7 +56393,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1138,
+          number: 1145,
       identifier: "CppCon-2016-77",
          meeting: "CppCon",
          edition: "2016",
@@ -56324,7 +56433,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1979,
+          number: 1986,
       identifier: "accu-2019-65",
          meeting: "accu",
          edition: "2019",
@@ -56364,7 +56473,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2343,
+          number: 2350,
       identifier: "MUC++--10",
          meeting: "MUC++",
          edition: "",
@@ -56384,7 +56493,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2502,
+          number: 2509,
       identifier: "GOTO Amsterdam-2019-39",
          meeting: "GOTO Amsterdam",
          edition: "2019",
@@ -56403,7 +56512,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1799,
+          number: 1806,
       identifier: "accu-2016-14",
          meeting: "accu",
          edition: "2016",
@@ -56422,7 +56531,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1972,
+          number: 1979,
       identifier: "accu-2019-58",
          meeting: "accu",
          edition: "2019",
@@ -56441,7 +56550,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1130,
+          number: 1137,
       identifier: "CppCon-2016-69",
          meeting: "CppCon",
          edition: "2016",
@@ -56461,7 +56570,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1518,
+          number: 1525,
       identifier: "CppCon-2020-61",
          meeting: "CppCon",
          edition: "2020",
@@ -56481,7 +56590,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2944,
+          number: 2951,
       identifier: "RustConf-2019-14",
          meeting: "RustConf",
          edition: "2019",
@@ -56503,7 +56612,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1599,
+          number: 1606,
       identifier: "code::dive-2016-10",
          meeting: "code::dive",
          edition: "2016",
@@ -56537,6 +56646,26 @@ const talks = [
             tags: [
                      "c++",
                      "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 855,
+      identifier: "Meeting C++ online--7",
+         meeting: "Meeting C++ online",
+         edition: "",
+           title: "The three secret spices of C++ Modules",
+        speakers: [
+                     "Daniela Engert"
+                  ],
+           video: "https://youtube.com/watch?v=l_83lyxWGtE",
+       thumbnail: "http://img.youtube.com/vi/l_83lyxWGtE/0.jpg",
+        duration: 4255,
+            tags: [
+                     "c++",
+                     "online",
                      "talk"
                   ],
            level: 0,
@@ -56603,7 +56732,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1029,
+          number: 1036,
       identifier: "CppCon-2015-68",
          meeting: "CppCon",
          edition: "2015",
@@ -56663,7 +56792,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2284,
+          number: 2291,
       identifier: "Live Embedded Event-2021-3",
          meeting: "Live Embedded Event",
          edition: "2021",
@@ -56683,7 +56812,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2523,
+          number: 2530,
       identifier: "GOTO Berlin-2018-20",
          meeting: "GOTO Berlin",
          edition: "2018",
@@ -56722,7 +56851,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1664,
+          number: 1671,
       identifier: "code::dive-2017-33",
          meeting: "code::dive",
          edition: "2017",
@@ -56742,7 +56871,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1115,
+          number: 1122,
       identifier: "CppCon-2016-54",
          meeting: "CppCon",
          edition: "2016",
@@ -56762,7 +56891,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1430,
+          number: 1437,
       identifier: "CppCon-2019-73",
          meeting: "CppCon",
          edition: "2019",
@@ -56782,7 +56911,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1700,
+          number: 1707,
       identifier: "code::dive-2018-30",
          meeting: "code::dive",
          edition: "2018",
@@ -56801,7 +56930,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1916,
+          number: 1923,
       identifier: "accu-2018-55",
          meeting: "accu",
          edition: "2018",
@@ -56840,7 +56969,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1917,
+          number: 1924,
       identifier: "accu-2018-56",
          meeting: "accu",
          edition: "2018",
@@ -56880,7 +57009,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1273,
+          number: 1280,
       identifier: "CppCon-2018-12",
          meeting: "CppCon",
          edition: "2018",
@@ -56900,7 +57029,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2115,
+          number: 2122,
       identifier: "C++ on sea-2020-43",
          meeting: "C++ on sea",
          edition: "2020",
@@ -56920,7 +57049,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1595,
+          number: 1602,
       identifier: "code::dive-2016-6",
          meeting: "code::dive",
          edition: "2016",
@@ -56959,7 +57088,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1682,
+          number: 1689,
       identifier: "code::dive-2018-12",
          meeting: "code::dive",
          edition: "2018",
@@ -56978,7 +57107,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2982,
+          number: 2989,
       identifier: "RustFest-2020-2",
          meeting: "RustFest",
          edition: "2020",
@@ -56999,7 +57128,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2574,
+          number: 2581,
       identifier: "GOTO Berlin-2019-24",
          meeting: "GOTO Berlin",
          edition: "2019",
@@ -57018,7 +57147,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2836,
+          number: 2843,
       identifier: "GOTO Oslo-2018-7",
          meeting: "GOTO Oslo",
          edition: "2018",
@@ -57057,7 +57186,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2790,
+          number: 2797,
       identifier: "GOTO Copenhagen-2019-9",
          meeting: "GOTO Copenhagen",
          edition: "2019",
@@ -57076,7 +57205,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1636,
+          number: 1643,
       identifier: "code::dive-2017-5",
          meeting: "code::dive",
          edition: "2017",
@@ -57095,7 +57224,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2492,
+          number: 2499,
       identifier: "GOTO Amsterdam-2019-29",
          meeting: "GOTO Amsterdam",
          edition: "2019",
@@ -57114,7 +57243,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1775,
+          number: 1782,
       identifier: "code::dive-2019-45",
          meeting: "code::dive",
          edition: "2019",
@@ -57133,7 +57262,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1626,
+          number: 1633,
       identifier: "code::dive-2016-37",
          meeting: "code::dive",
          edition: "2016",
@@ -57152,7 +57281,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1831,
+          number: 1838,
       identifier: "accu-2017-10",
          meeting: "accu",
          edition: "2017",
@@ -57211,7 +57340,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1224,
+          number: 1231,
       identifier: "CppCon-2017-63",
          meeting: "CppCon",
          edition: "2017",
@@ -57271,7 +57400,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1456,
+          number: 1463,
       identifier: "CppCon-2019-99",
          meeting: "CppCon",
          edition: "2019",
@@ -57291,7 +57420,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2969,
+          number: 2976,
       identifier: "RustConf-2021-13",
          meeting: "RustConf",
          edition: "2021",
@@ -57312,7 +57441,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1265,
+          number: 1272,
       identifier: "CppCon-2018-4",
          meeting: "CppCon",
          edition: "2018",
@@ -57352,7 +57481,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1870,
+          number: 1877,
       identifier: "accu-2017-58",
          meeting: "accu",
          edition: "2017",
@@ -57411,7 +57540,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1564,
+          number: 1571,
       identifier: "code::dive-2014-7",
          meeting: "code::dive",
          edition: "2014",
@@ -57450,7 +57579,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2421,
+          number: 2428,
       identifier: "Going Native-2012-17",
          meeting: "Going Native",
          edition: "2012",
@@ -57490,7 +57619,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1588,
+          number: 1595,
       identifier: "code::dive-2015-18",
          meeting: "code::dive",
          edition: "2015",
@@ -57509,7 +57638,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1874,
+          number: 1881,
       identifier: "accu-2018-4",
          meeting: "accu",
          edition: "2018",
@@ -57529,7 +57658,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2167,
+          number: 2174,
       identifier: "Core C++-2021-3",
          meeting: "Core C++",
          edition: "2021",
@@ -57549,7 +57678,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 3001,
+          number: 3008,
       identifier: "RustFest-2020-25",
          meeting: "RustFest",
          edition: "2020",
@@ -57569,7 +57698,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1701,
+          number: 1708,
       identifier: "code::dive-2018-31",
          meeting: "code::dive",
          edition: "2018",
@@ -57588,7 +57717,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 992,
+          number: 999,
       identifier: "CppCon-2015-31",
          meeting: "CppCon",
          edition: "2015",
@@ -57628,7 +57757,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2246,
+          number: 2253,
       identifier: "Pacific C++-2018-12",
          meeting: "Pacific C++",
          edition: "2018",
@@ -57648,7 +57777,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1177,
+          number: 1184,
       identifier: "CppCon-2017-16",
          meeting: "CppCon",
          edition: "2017",
@@ -57670,7 +57799,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1394,
+          number: 1401,
       identifier: "CppCon-2019-37",
          meeting: "CppCon",
          edition: "2019",
@@ -57691,7 +57820,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1405,
+          number: 1412,
       identifier: "CppCon-2019-48",
          meeting: "CppCon",
          edition: "2019",
@@ -57711,7 +57840,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2941,
+          number: 2948,
       identifier: "RustConf-2019-11",
          meeting: "RustConf",
          edition: "2019",
@@ -57731,7 +57860,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1221,
+          number: 1228,
       identifier: "CppCon-2017-60",
          meeting: "CppCon",
          edition: "2017",
@@ -57771,7 +57900,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2205,
+          number: 2212,
       identifier: "C++ Europe-2020-3",
          meeting: "C++ Europe",
          edition: "2020",
@@ -57792,7 +57921,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1920,
+          number: 1927,
       identifier: "accu-2018-59",
          meeting: "accu",
          edition: "2018",
@@ -57812,7 +57941,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1329,
+          number: 1336,
       identifier: "CppCon-2018-68",
          meeting: "CppCon",
          edition: "2018",
@@ -57854,7 +57983,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2933,
+          number: 2940,
       identifier: "RustConf-2019-3",
          meeting: "RustConf",
          edition: "2019",
@@ -57874,7 +58003,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2189,
+          number: 2196,
       identifier: "C++ Europe-2018-3",
          meeting: "C++ Europe",
          edition: "2018",
@@ -57894,7 +58023,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1086,
+          number: 1093,
       identifier: "CppCon-2016-25",
          meeting: "CppCon",
          edition: "2016",
@@ -57935,7 +58064,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2285,
+          number: 2292,
       identifier: "Live Embedded Event-2021-4",
          meeting: "Live Embedded Event",
          edition: "2021",
@@ -57955,7 +58084,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1041,
+          number: 1048,
       identifier: "CppCon-2015-80",
          meeting: "CppCon",
          edition: "2015",
@@ -57975,7 +58104,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1032,
+          number: 1039,
       identifier: "CppCon-2015-71",
          meeting: "CppCon",
          edition: "2015",
@@ -58015,7 +58144,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2531,
+          number: 2538,
       identifier: "GOTO Berlin-2018-28",
          meeting: "GOTO Berlin",
          edition: "2018",
@@ -58035,7 +58164,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2664,
+          number: 2671,
       identifier: "GOTO Chicago-2019-33",
          meeting: "GOTO Chicago",
          edition: "2019",
@@ -58055,7 +58184,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2588,
+          number: 2595,
       identifier: "GOTO Berlin-2019-38",
          meeting: "GOTO Berlin",
          edition: "2019",
@@ -58074,7 +58203,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2765,
+          number: 2772,
       identifier: "GOTO Copenhagen-2018-26",
          meeting: "GOTO Copenhagen",
          edition: "2018",
@@ -58113,7 +58242,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1773,
+          number: 1780,
       identifier: "code::dive-2019-43",
          meeting: "code::dive",
          edition: "2019",
@@ -58132,7 +58261,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 965,
+          number: 972,
       identifier: "CppCon-2015-4",
          meeting: "CppCon",
          edition: "2015",
@@ -58152,7 +58281,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1137,
+          number: 1144,
       identifier: "CppCon-2016-76",
          meeting: "CppCon",
          edition: "2016",
@@ -58172,7 +58301,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 859,
+          number: 866,
       identifier: "Meeting Embedded-2018-10",
          meeting: "Meeting Embedded",
          edition: "2018",
@@ -58192,7 +58321,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1104,
+          number: 1111,
       identifier: "CppCon-2016-43",
          meeting: "CppCon",
          edition: "2016",
@@ -58212,7 +58341,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1922,
+          number: 1929,
       identifier: "accu-2018-61",
          meeting: "accu",
          edition: "2018",
@@ -58251,7 +58380,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2397,
+          number: 2404,
       identifier: "MUC++--71",
          meeting: "MUC++",
          edition: "",
@@ -58271,7 +58400,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1097,
+          number: 1104,
       identifier: "CppCon-2016-36",
          meeting: "CppCon",
          edition: "2016",
@@ -58292,7 +58421,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2274,
+          number: 2281,
       identifier: "Live Embedded Event-2020-28",
          meeting: "Live Embedded Event",
          edition: "2020",
@@ -58372,7 +58501,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1240,
+          number: 1247,
       identifier: "CppCon-2017-79",
          meeting: "CppCon",
          edition: "2017",
@@ -58392,7 +58521,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1412,
+          number: 1419,
       identifier: "CppCon-2019-55",
          meeting: "CppCon",
          edition: "2019",
@@ -58412,7 +58541,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1915,
+          number: 1922,
       identifier: "accu-2018-54",
          meeting: "accu",
          edition: "2018",
@@ -58452,7 +58581,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1040,
+          number: 1047,
       identifier: "CppCon-2015-79",
          meeting: "CppCon",
          edition: "2015",
@@ -58512,7 +58641,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2233,
+          number: 2240,
       identifier: "Pacific C++-2017-9",
          meeting: "Pacific C++",
          edition: "2017",
@@ -58552,7 +58681,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 867,
+          number: 874,
       identifier: "CppCon-2014-6",
          meeting: "CppCon",
          edition: "2014",
@@ -58592,7 +58721,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1279,
+          number: 1286,
       identifier: "CppCon-2018-18",
          meeting: "CppCon",
          edition: "2018",
@@ -58612,7 +58741,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 928,
+          number: 935,
       identifier: "CppCon-2014-67",
          meeting: "CppCon",
          edition: "2014",
@@ -58632,7 +58761,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2594,
+          number: 2601,
       identifier: "GOTO Chicago-2018-5",
          meeting: "GOTO Chicago",
          edition: "2018",
@@ -58651,7 +58780,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2429,
+          number: 2436,
       identifier: "GOTO Amsterdam-2018-7",
          meeting: "GOTO Amsterdam",
          edition: "2018",
@@ -58710,7 +58839,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1236,
+          number: 1243,
       identifier: "CppCon-2017-75",
          meeting: "CppCon",
          edition: "2017",
@@ -58730,7 +58859,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1237,
+          number: 1244,
       identifier: "CppCon-2017-76",
          meeting: "CppCon",
          edition: "2017",
@@ -58770,7 +58899,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1337,
+          number: 1344,
       identifier: "CppCon-2018-76",
          meeting: "CppCon",
          edition: "2018",
@@ -58791,7 +58920,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1731,
+          number: 1738,
       identifier: "code::dive-2019-1",
          meeting: "code::dive",
          edition: "2019",
@@ -58811,7 +58940,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2099,
+          number: 2106,
       identifier: "C++ on sea-2020-21",
          meeting: "C++ on sea",
          edition: "2020",
@@ -58831,7 +58960,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1628,
+          number: 1635,
       identifier: "code::dive-2016-39",
          meeting: "code::dive",
          edition: "2016",
@@ -58850,7 +58979,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1624,
+          number: 1631,
       identifier: "code::dive-2016-35",
          meeting: "code::dive",
          edition: "2016",
@@ -58869,7 +58998,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2950,
+          number: 2957,
       identifier: "RustConf-2020-4",
          meeting: "RustConf",
          edition: "2020",
@@ -58910,7 +59039,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2185,
+          number: 2192,
       identifier: "Core C++-2021-22",
          meeting: "Core C++",
          edition: "2021",
@@ -58971,7 +59100,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1596,
+          number: 1603,
       identifier: "code::dive-2016-7",
          meeting: "code::dive",
          edition: "2016",
@@ -58990,7 +59119,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2150,
+          number: 2157,
       identifier: "Core C++-2019-14",
          meeting: "Core C++",
          edition: "2019",
@@ -59010,7 +59139,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1283,
+          number: 1290,
       identifier: "CppCon-2018-22",
          meeting: "CppCon",
          edition: "2018",
@@ -59030,7 +59159,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2283,
+          number: 2290,
       identifier: "Live Embedded Event-2021-2",
          meeting: "Live Embedded Event",
          edition: "2021",
@@ -59050,7 +59179,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2026,
+          number: 2033,
       identifier: "C++ Day-2020-4",
          meeting: "C++ Day",
          edition: "2020",
@@ -59110,7 +59239,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 878,
+          number: 885,
       identifier: "CppCon-2014-17",
          meeting: "CppCon",
          edition: "2014",
@@ -59130,7 +59259,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1182,
+          number: 1189,
       identifier: "CppCon-2017-21",
          meeting: "CppCon",
          edition: "2017",
@@ -59171,7 +59300,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1338,
+          number: 1345,
       identifier: "CppCon-2018-79",
          meeting: "CppCon",
          edition: "2018",
@@ -59191,7 +59320,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2330,
+          number: 2337,
       identifier: "corehard-2019-5",
          meeting: "corehard",
          edition: "2019",
@@ -59211,7 +59340,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1423,
+          number: 1430,
       identifier: "CppCon-2019-66",
          meeting: "CppCon",
          edition: "2019",
@@ -59231,7 +59360,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2481,
+          number: 2488,
       identifier: "GOTO Amsterdam-2019-18",
          meeting: "GOTO Amsterdam",
          edition: "2019",
@@ -59250,7 +59379,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2891,
+          number: 2898,
       identifier: "GOTOpia-2020-51",
          meeting: "GOTOpia",
          edition: "2020",
@@ -59269,7 +59398,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2464,
+          number: 2471,
       identifier: "GOTO Amsterdam-2018-42",
          meeting: "GOTO Amsterdam",
          edition: "2018",
@@ -59308,7 +59437,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1112,
+          number: 1119,
       identifier: "CppCon-2016-51",
          meeting: "CppCon",
          edition: "2016",
@@ -59328,7 +59457,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 900,
+          number: 907,
       identifier: "CppCon-2014-39",
          meeting: "CppCon",
          edition: "2014",
@@ -59368,7 +59497,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1322,
+          number: 1329,
       identifier: "CppCon-2018-61",
          meeting: "CppCon",
          edition: "2018",
@@ -59428,7 +59557,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1788,
+          number: 1795,
       identifier: "code::dive-2020-13",
          meeting: "code::dive",
          edition: "2020",
@@ -59447,7 +59576,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1400,
+          number: 1407,
       identifier: "CppCon-2019-43",
          meeting: "CppCon",
          edition: "2019",
@@ -59467,7 +59596,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1215,
+          number: 1222,
       identifier: "CppCon-2017-54",
          meeting: "CppCon",
          edition: "2017",
@@ -59488,7 +59617,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2677,
+          number: 2684,
       identifier: "GOTO Chicago-2019-46",
          meeting: "GOTO Chicago",
          edition: "2019",
@@ -59507,7 +59636,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1208,
+          number: 1215,
       identifier: "CppCon-2017-47",
          meeting: "CppCon",
          edition: "2017",
@@ -59527,7 +59656,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2874,
+          number: 2881,
       identifier: "GOTOpia-2020-31",
          meeting: "GOTOpia",
          edition: "2020",
@@ -59546,7 +59675,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2984,
+          number: 2991,
       identifier: "RustFest-2020-4",
          meeting: "RustFest",
          edition: "2020",
@@ -59587,7 +59716,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 989,
+          number: 996,
       identifier: "CppCon-2015-28",
          meeting: "CppCon",
          edition: "2015",
@@ -59649,7 +59778,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2229,
+          number: 2236,
       identifier: "Pacific C++-2017-5",
          meeting: "Pacific C++",
          edition: "2017",
@@ -59669,7 +59798,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 3009,
+          number: 3016,
       identifier: "Oxidize Global-2020-6",
          meeting: "Oxidize Global",
          edition: "2020",
@@ -59690,7 +59819,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1790,
+          number: 1797,
       identifier: "accu-2016-2",
          meeting: "accu",
          edition: "2016",
@@ -59709,7 +59838,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1861,
+          number: 1868,
       identifier: "accu-2017-46",
          meeting: "accu",
          edition: "2017",
@@ -59729,7 +59858,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1120,
+          number: 1127,
       identifier: "CppCon-2016-59",
          meeting: "CppCon",
          edition: "2016",
@@ -59749,7 +59878,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1797,
+          number: 1804,
       identifier: "accu-2016-12",
          meeting: "accu",
          edition: "2016",
@@ -59768,7 +59897,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2134,
+          number: 2141,
       identifier: "C++ on sea-2021-15",
          meeting: "C++ on sea",
          edition: "2021",
@@ -59788,7 +59917,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1151,
+          number: 1158,
       identifier: "CppCon-2016-90",
          meeting: "CppCon",
          edition: "2016",
@@ -59868,7 +59997,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2804,
+          number: 2811,
       identifier: "GOTO Copenhagen-2019-23",
          meeting: "GOTO Copenhagen",
          edition: "2019",
@@ -59907,7 +60036,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1447,
+          number: 1454,
       identifier: "CppCon-2019-90",
          meeting: "CppCon",
          edition: "2019",
@@ -59967,7 +60096,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1297,
+          number: 1304,
       identifier: "CppCon-2018-36",
          meeting: "CppCon",
          edition: "2018",
@@ -59987,7 +60116,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1632,
+          number: 1639,
       identifier: "code::dive-2017-1",
          meeting: "code::dive",
          edition: "2017",
@@ -60006,7 +60135,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1025,
+          number: 1032,
       identifier: "CppCon-2015-64",
          meeting: "CppCon",
          edition: "2015",
@@ -60026,7 +60155,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1026,
+          number: 1033,
       identifier: "CppCon-2015-65",
          meeting: "CppCon",
          edition: "2015",
@@ -60066,7 +60195,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2105,
+          number: 2112,
       identifier: "C++ on sea-2020-30",
          meeting: "C++ on sea",
          edition: "2020",
@@ -60086,7 +60215,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1037,
+          number: 1044,
       identifier: "CppCon-2015-76",
          meeting: "CppCon",
          edition: "2015",
@@ -60146,7 +60275,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1108,
+          number: 1115,
       identifier: "CppCon-2016-47",
          meeting: "CppCon",
          edition: "2016",
@@ -60166,7 +60295,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2415,
+          number: 2422,
       identifier: "Going Native-2012-11",
          meeting: "Going Native",
          edition: "2012",
@@ -60186,7 +60315,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 976,
+          number: 983,
       identifier: "CppCon-2015-15",
          meeting: "CppCon",
          edition: "2015",
@@ -60206,7 +60335,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1094,
+          number: 1101,
       identifier: "CppCon-2016-33",
          meeting: "CppCon",
          edition: "2016",
@@ -60226,7 +60355,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2338,
+          number: 2345,
       identifier: "MUC++--5",
          meeting: "MUC++",
          edition: "",
@@ -60266,7 +60395,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2409,
+          number: 2416,
       identifier: "Going Native-2012-5",
          meeting: "Going Native",
          edition: "2012",
@@ -60287,7 +60416,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2406,
+          number: 2413,
       identifier: "Going Native-2012-2",
          meeting: "Going Native",
          edition: "2012",
@@ -60307,7 +60436,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2168,
+          number: 2175,
       identifier: "Core C++-2021-4",
          meeting: "Core C++",
          edition: "2021",
@@ -60327,7 +60456,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 953,
+          number: 960,
       identifier: "CppCon-2014-92",
          meeting: "CppCon",
          edition: "2014",
@@ -60347,7 +60476,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1698,
+          number: 1705,
       identifier: "code::dive-2018-28",
          meeting: "code::dive",
          edition: "2018",
@@ -60366,7 +60495,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1683,
+          number: 1690,
       identifier: "code::dive-2018-13",
          meeting: "code::dive",
          edition: "2018",
@@ -60385,7 +60514,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2143,
+          number: 2150,
       identifier: "Core C++-2019-7",
          meeting: "Core C++",
          edition: "2019",
@@ -60405,7 +60534,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1803,
+          number: 1810,
       identifier: "accu-2016-21",
          meeting: "accu",
          edition: "2016",
@@ -60424,7 +60553,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2400,
+          number: 2407,
       identifier: "MUC++--88",
          meeting: "MUC++",
          edition: "",
@@ -60444,7 +60573,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2578,
+          number: 2585,
       identifier: "GOTO Berlin-2019-28",
          meeting: "GOTO Berlin",
          edition: "2019",
@@ -60463,7 +60592,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2716,
+          number: 2723,
       identifier: "GOTO Chicago-2020-27",
          meeting: "GOTO Chicago",
          edition: "2020",
@@ -60482,7 +60611,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2013,
+          number: 2020,
       identifier: "accu-2021-31",
          meeting: "accu",
          edition: "2021",
@@ -60501,7 +60630,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2071,
+          number: 2078,
       identifier: "C++ on sea-2019-20",
          meeting: "C++ on sea",
          edition: "2019",
@@ -60521,7 +60650,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2669,
+          number: 2676,
       identifier: "GOTO Chicago-2019-38",
          meeting: "GOTO Chicago",
          edition: "2019",
@@ -60540,7 +60669,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1794,
+          number: 1801,
       identifier: "accu-2016-6",
          meeting: "accu",
          edition: "2016",
@@ -60579,7 +60708,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1110,
+          number: 1117,
       identifier: "CppCon-2016-49",
          meeting: "CppCon",
          edition: "2016",
@@ -60599,7 +60728,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2698,
+          number: 2705,
       identifier: "GOTO Chicago-2020-9",
          meeting: "GOTO Chicago",
          edition: "2020",
@@ -60618,7 +60747,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2847,
+          number: 2854,
       identifier: "GOTOpia-2020-4",
          meeting: "GOTOpia",
          edition: "2020",
@@ -60637,7 +60766,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2045,
+          number: 2052,
       identifier: "ItCppCon-2021-1",
          meeting: "ItCppCon",
          edition: "2021",
@@ -60657,7 +60786,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1259,
+          number: 1266,
       identifier: "CppCon-2017-98",
          meeting: "CppCon",
          edition: "2017",
@@ -60697,7 +60826,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 851,
+          number: 858,
       identifier: "Meeting Embedded-2018-2",
          meeting: "Meeting Embedded",
          edition: "2018",
@@ -60718,7 +60847,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2132,
+          number: 2139,
       identifier: "C++ on sea-2021-13",
          meeting: "C++ on sea",
          edition: "2021",
@@ -60758,7 +60887,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1225,
+          number: 1232,
       identifier: "CppCon-2017-64",
          meeting: "CppCon",
          edition: "2017",
@@ -60778,7 +60907,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1243,
+          number: 1250,
       identifier: "CppCon-2017-82",
          meeting: "CppCon",
          edition: "2017",
@@ -60798,7 +60927,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2789,
+          number: 2796,
       identifier: "GOTO Copenhagen-2019-8",
          meeting: "GOTO Copenhagen",
          edition: "2019",
@@ -60817,7 +60946,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2046,
+          number: 2053,
       identifier: "ItCppCon-2021-2",
          meeting: "ItCppCon",
          edition: "2021",
@@ -60837,7 +60966,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2028,
+          number: 2035,
       identifier: "C++ Day-2020-6",
          meeting: "C++ Day",
          edition: "2020",
@@ -60857,7 +60986,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2266,
+          number: 2273,
       identifier: "Live Embedded Event-2020-20",
          meeting: "Live Embedded Event",
          edition: "2020",
@@ -60877,7 +61006,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2031,
+          number: 2038,
       identifier: "ItCppCon-2020-1",
          meeting: "ItCppCon",
          edition: "2020",
@@ -60897,7 +61026,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2580,
+          number: 2587,
       identifier: "GOTO Berlin-2019-30",
          meeting: "GOTO Berlin",
          edition: "2019",
@@ -60916,7 +61045,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2643,
+          number: 2650,
       identifier: "GOTO Chicago-2019-12",
          meeting: "GOTO Chicago",
          edition: "2019",
@@ -60935,7 +61064,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1133,
+          number: 1140,
       identifier: "CppCon-2016-72",
          meeting: "CppCon",
          edition: "2016",
@@ -60955,7 +61084,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2166,
+          number: 2173,
       identifier: "Core C++-2021-2",
          meeting: "Core C++",
          edition: "2021",
@@ -60995,7 +61124,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1119,
+          number: 1126,
       identifier: "CppCon-2016-58",
          meeting: "CppCon",
          edition: "2016",
@@ -61015,7 +61144,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1791,
+          number: 1798,
       identifier: "accu-2016-3",
          meeting: "accu",
          edition: "2016",
@@ -61054,7 +61183,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1368,
+          number: 1375,
       identifier: "CppCon-2019-11",
          meeting: "CppCon",
          edition: "2019",
@@ -61074,7 +61203,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1370,
+          number: 1377,
       identifier: "CppCon-2019-13",
          meeting: "CppCon",
          edition: "2019",
@@ -61114,7 +61243,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1724,
+          number: 1731,
       identifier: "code::dive-2018-54",
          meeting: "code::dive",
          edition: "2018",
@@ -61133,7 +61262,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1948,
+          number: 1955,
       identifier: "accu-2019-27",
          meeting: "accu",
          edition: "2019",
@@ -61172,7 +61301,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2221,
+          number: 2228,
       identifier: "C++IndiaCon-2021-2",
          meeting: "C++IndiaCon",
          edition: "2021",
@@ -61252,7 +61381,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1083,
+          number: 1090,
       identifier: "CppCon-2016-22",
          meeting: "CppCon",
          edition: "2016",
@@ -61272,7 +61401,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1290,
+          number: 1297,
       identifier: "CppCon-2018-29",
          meeting: "CppCon",
          edition: "2018",
@@ -61293,7 +61422,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 924,
+          number: 931,
       identifier: "CppCon-2014-63",
          meeting: "CppCon",
          edition: "2014",
@@ -61313,7 +61442,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1549,
+          number: 1556,
       identifier: "CppCon-2020-92",
          meeting: "CppCon",
          edition: "2020",
@@ -61333,7 +61462,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1285,
+          number: 1292,
       identifier: "CppCon-2018-24",
          meeting: "CppCon",
          edition: "2018",
@@ -61353,7 +61482,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1946,
+          number: 1953,
       identifier: "accu-2019-25",
          meeting: "accu",
          edition: "2019",
@@ -61372,7 +61501,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1770,
+          number: 1777,
       identifier: "code::dive-2019-40",
          meeting: "code::dive",
          edition: "2019",
@@ -61391,7 +61520,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1986,
+          number: 1993,
       identifier: "accu-2019-75",
          meeting: "accu",
          edition: "2019",
@@ -61410,7 +61539,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1772,
+          number: 1779,
       identifier: "code::dive-2019-42",
          meeting: "code::dive",
          edition: "2019",
@@ -61429,7 +61558,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2503,
+          number: 2510,
       identifier: "GOTO Amsterdam-2019-40",
          meeting: "GOTO Amsterdam",
          edition: "2019",
@@ -61448,7 +61577,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2682,
+          number: 2689,
       identifier: "GOTO Chicago-2019-51",
          meeting: "GOTO Chicago",
          edition: "2019",
@@ -61487,7 +61616,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2556,
+          number: 2563,
       identifier: "GOTO Berlin-2019-6",
          meeting: "GOTO Berlin",
          edition: "2019",
@@ -61506,7 +61635,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1804,
+          number: 1811,
       identifier: "accu-2016-22",
          meeting: "accu",
          edition: "2016",
@@ -61526,7 +61655,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2007,
+          number: 2014,
       identifier: "accu-2021-10",
          meeting: "accu",
          edition: "2021",
@@ -61545,7 +61674,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2065,
+          number: 2072,
       identifier: "C++ on sea-2019-10",
          meeting: "C++ on sea",
          edition: "2019",
@@ -61565,7 +61694,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1126,
+          number: 1133,
       identifier: "CppCon-2016-65",
          meeting: "CppCon",
          edition: "2016",
@@ -61585,7 +61714,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1166,
+          number: 1173,
       identifier: "CppCon-2017-5",
          meeting: "CppCon",
          edition: "2017",
@@ -61605,7 +61734,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1723,
+          number: 1730,
       identifier: "code::dive-2018-53",
          meeting: "code::dive",
          edition: "2018",
@@ -61624,7 +61753,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2002,
+          number: 2009,
       identifier: "accu-2021-2",
          meeting: "accu",
          edition: "2021",
@@ -61643,7 +61772,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2060,
+          number: 2067,
       identifier: "C++ on sea-2019-2",
          meeting: "C++ on sea",
          edition: "2019",
@@ -61663,7 +61792,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1708,
+          number: 1715,
       identifier: "code::dive-2018-38",
          meeting: "code::dive",
          edition: "2018",
@@ -61682,7 +61811,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1709,
+          number: 1716,
       identifier: "code::dive-2018-39",
          meeting: "code::dive",
          edition: "2018",
@@ -61701,7 +61830,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1559,
+          number: 1566,
       identifier: "code::dive-2014-2",
          meeting: "code::dive",
          edition: "2014",
@@ -61740,7 +61869,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1048,
+          number: 1055,
       identifier: "CppCon-2015-87",
          meeting: "CppCon",
          edition: "2015",
@@ -61760,7 +61889,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1580,
+          number: 1587,
       identifier: "code::dive-2015-10",
          meeting: "code::dive",
          edition: "2015",
@@ -61799,7 +61928,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1117,
+          number: 1124,
       identifier: "CppCon-2016-56",
          meeting: "CppCon",
          edition: "2016",
@@ -61819,7 +61948,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1116,
+          number: 1123,
       identifier: "CppCon-2016-55",
          meeting: "CppCon",
          edition: "2016",
@@ -61859,7 +61988,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1415,
+          number: 1422,
       identifier: "CppCon-2019-58",
          meeting: "CppCon",
          edition: "2019",
@@ -61881,7 +62010,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2647,
+          number: 2654,
       identifier: "GOTO Chicago-2019-16",
          meeting: "GOTO Chicago",
          edition: "2019",
@@ -61900,7 +62029,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 914,
+          number: 921,
       identifier: "CppCon-2014-53",
          meeting: "CppCon",
          edition: "2014",
@@ -61920,7 +62049,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1284,
+          number: 1291,
       identifier: "CppCon-2018-23",
          meeting: "CppCon",
          edition: "2018",
@@ -61940,7 +62069,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2834,
+          number: 2841,
       identifier: "GOTO Oslo-2018-5",
          meeting: "GOTO Oslo",
          edition: "2018",
@@ -61960,7 +62089,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1127,
+          number: 1134,
       identifier: "CppCon-2016-66",
          meeting: "CppCon",
          edition: "2016",
@@ -61981,7 +62110,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1575,
+          number: 1582,
       identifier: "code::dive-2015-5",
          meeting: "code::dive",
          edition: "2015",
@@ -62000,7 +62129,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1548,
+          number: 1555,
       identifier: "CppCon-2020-91",
          meeting: "CppCon",
          edition: "2020",
@@ -62020,7 +62149,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1905,
+          number: 1912,
       identifier: "accu-2018-41",
          meeting: "accu",
          edition: "2018",
@@ -62039,7 +62168,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2816,
+          number: 2823,
       identifier: "GOTO Copenhagen-2019-35",
          meeting: "GOTO Copenhagen",
          edition: "2019",
@@ -62058,7 +62187,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 877,
+          number: 884,
       identifier: "CppCon-2014-16",
          meeting: "CppCon",
          edition: "2014",
@@ -62078,7 +62207,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 973,
+          number: 980,
       identifier: "CppCon-2015-12",
          meeting: "CppCon",
          edition: "2015",
@@ -62099,7 +62228,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1319,
+          number: 1326,
       identifier: "CppCon-2018-58",
          meeting: "CppCon",
          edition: "2018",
@@ -62139,7 +62268,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1181,
+          number: 1188,
       identifier: "CppCon-2017-20",
          meeting: "CppCon",
          edition: "2017",
@@ -62159,7 +62288,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1377,
+          number: 1384,
       identifier: "CppCon-2019-20",
          meeting: "CppCon",
          edition: "2019",
@@ -62179,7 +62308,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1661,
+          number: 1668,
       identifier: "code::dive-2017-30",
          meeting: "code::dive",
          edition: "2017",
@@ -62239,7 +62368,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1739,
+          number: 1746,
       identifier: "code::dive-2019-9",
          meeting: "code::dive",
          edition: "2019",
@@ -62280,7 +62409,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1737,
+          number: 1744,
       identifier: "code::dive-2019-7",
          meeting: "code::dive",
          edition: "2019",
@@ -62299,7 +62428,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1678,
+          number: 1685,
       identifier: "code::dive-2018-8",
          meeting: "code::dive",
          edition: "2018",
@@ -62338,7 +62467,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2153,
+          number: 2160,
       identifier: "Core C++-2019-17",
          meeting: "Core C++",
          edition: "2019",
@@ -62358,7 +62487,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2463,
+          number: 2470,
       identifier: "GOTO Amsterdam-2018-41",
          meeting: "GOTO Amsterdam",
          edition: "2018",
@@ -62397,7 +62526,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2846,
+          number: 2853,
       identifier: "GOTOpia-2020-3",
          meeting: "GOTOpia",
          edition: "2020",
@@ -62416,7 +62545,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1169,
+          number: 1176,
       identifier: "CppCon-2017-8",
          meeting: "CppCon",
          edition: "2017",
@@ -62436,7 +62565,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2149,
+          number: 2156,
       identifier: "Core C++-2019-13",
          meeting: "Core C++",
          edition: "2019",
@@ -62456,7 +62585,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1670,
+          number: 1677,
       identifier: "code::dive-2017-42",
          meeting: "code::dive",
          edition: "2017",
@@ -62475,7 +62604,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2964,
+          number: 2971,
       identifier: "RustConf-2021-8",
          meeting: "RustConf",
          edition: "2021",
@@ -62496,7 +62625,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1716,
+          number: 1723,
       identifier: "code::dive-2018-46",
          meeting: "code::dive",
          edition: "2018",
@@ -62535,7 +62664,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1348,
+          number: 1355,
       identifier: "CppCon-2018-91",
          meeting: "CppCon",
          edition: "2018",
@@ -62555,7 +62684,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2092,
+          number: 2099,
       identifier: "C++ on sea-2020-14",
          meeting: "C++ on sea",
          edition: "2020",
@@ -62575,7 +62704,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2700,
+          number: 2707,
       identifier: "GOTO Chicago-2020-11",
          meeting: "GOTO Chicago",
          edition: "2020",
@@ -62594,7 +62723,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2808,
+          number: 2815,
       identifier: "GOTO Copenhagen-2019-27",
          meeting: "GOTO Copenhagen",
          edition: "2019",
@@ -62613,7 +62742,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2437,
+          number: 2444,
       identifier: "GOTO Amsterdam-2018-15",
          meeting: "GOTO Amsterdam",
          edition: "2018",
@@ -62632,7 +62761,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1557,
+          number: 1564,
       identifier: "CppCon-2020-100",
          meeting: "CppCon",
          edition: "2020",
@@ -62692,7 +62821,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2699,
+          number: 2706,
       identifier: "GOTO Chicago-2020-10",
          meeting: "GOTO Chicago",
          edition: "2020",
@@ -62711,7 +62840,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2564,
+          number: 2571,
       identifier: "GOTO Berlin-2019-14",
          meeting: "GOTO Berlin",
          edition: "2019",
@@ -62730,7 +62859,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2314,
+          number: 2321,
       identifier: "Live Embedded Event-2021-33",
          meeting: "Live Embedded Event",
          edition: "2021",
@@ -62750,7 +62879,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2741,
+          number: 2748,
       identifier: "GOTO Copenhagen-2018-2",
          meeting: "GOTO Copenhagen",
          edition: "2018",
@@ -62809,7 +62938,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2653,
+          number: 2660,
       identifier: "GOTO Chicago-2019-22",
          meeting: "GOTO Chicago",
          edition: "2019",
@@ -62828,7 +62957,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2535,
+          number: 2542,
       identifier: "GOTO Berlin-2018-32",
          meeting: "GOTO Berlin",
          edition: "2018",
@@ -62847,7 +62976,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2668,
+          number: 2675,
       identifier: "GOTO Chicago-2019-37",
          meeting: "GOTO Chicago",
          edition: "2019",
@@ -62866,7 +62995,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2766,
+          number: 2773,
       identifier: "GOTO Copenhagen-2018-27",
          meeting: "GOTO Copenhagen",
          edition: "2018",
@@ -62885,7 +63014,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1759,
+          number: 1766,
       identifier: "code::dive-2019-29",
          meeting: "code::dive",
          edition: "2019",
@@ -62924,7 +63053,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2784,
+          number: 2791,
       identifier: "GOTO Copenhagen-2019-3",
          meeting: "GOTO Copenhagen",
          edition: "2019",
@@ -62943,7 +63072,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1991,
+          number: 1998,
       identifier: "accu-2019-80",
          meeting: "accu",
          edition: "2019",
@@ -62956,6 +63085,26 @@ const talks = [
         duration: 5066,
             tags: [
                      "live",
+                     "talk"
+                  ],
+           level: 0,
+        language: "English"
+   },
+   {
+          number: 856,
+      identifier: "Meeting C++ online--8",
+         meeting: "Meeting C++ online",
+         edition: "",
+           title: "Windows, macOS and the Web - Lessons from cross platform development",
+        speakers: [
+                     "Sebastian Theophil"
+                  ],
+           video: "https://youtube.com/watch?v=57HoToBPspo",
+       thumbnail: "http://img.youtube.com/vi/57HoToBPspo/0.jpg",
+        duration: 3454,
+            tags: [
+                     "c++",
+                     "online",
                      "talk"
                   ],
            level: 0,
@@ -62982,7 +63131,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 885,
+          number: 892,
       identifier: "CppCon-2014-24",
          meeting: "CppCon",
          edition: "2014",
@@ -63002,7 +63151,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2757,
+          number: 2764,
       identifier: "GOTO Copenhagen-2018-18",
          meeting: "GOTO Copenhagen",
          edition: "2018",
@@ -63021,7 +63170,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2672,
+          number: 2679,
       identifier: "GOTO Chicago-2019-41",
          meeting: "GOTO Chicago",
          edition: "2019",
@@ -63040,7 +63189,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1807,
+          number: 1814,
       identifier: "accu-2016-25",
          meeting: "accu",
          edition: "2016",
@@ -63059,7 +63208,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1339,
+          number: 1346,
       identifier: "CppCon-2018-80",
          meeting: "CppCon",
          edition: "2018",
@@ -63079,7 +63228,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2021,
+          number: 2028,
       identifier: "accu-2021-39",
          meeting: "accu",
          edition: "2021",
@@ -63098,7 +63247,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2079,
+          number: 2086,
       identifier: "C++ on sea-2019-28",
          meeting: "C++ on sea",
          edition: "2019",
@@ -63138,7 +63287,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1022,
+          number: 1029,
       identifier: "CppCon-2015-61",
          meeting: "CppCon",
          edition: "2015",
@@ -63178,7 +63327,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1617,
+          number: 1624,
       identifier: "code::dive-2016-28",
          meeting: "code::dive",
          edition: "2016",
@@ -63197,7 +63346,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1883,
+          number: 1890,
       identifier: "accu-2018-16",
          meeting: "accu",
          edition: "2018",
@@ -63236,7 +63385,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2169,
+          number: 2176,
       identifier: "Core C++-2021-5",
          meeting: "Core C++",
          edition: "2021",
@@ -63256,7 +63405,7 @@ const talks = [
         language: "Hebrew"
    },
    {
-          number: 890,
+          number: 897,
       identifier: "CppCon-2014-29",
          meeting: "CppCon",
          edition: "2014",
@@ -63296,7 +63445,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 850,
+          number: 857,
       identifier: "Meeting Embedded-2018-1",
          meeting: "Meeting Embedded",
          edition: "2018",
@@ -63336,7 +63485,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1585,
+          number: 1592,
       identifier: "code::dive-2015-15",
          meeting: "code::dive",
          edition: "2015",
@@ -63355,7 +63504,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1586,
+          number: 1593,
       identifier: "code::dive-2015-16",
          meeting: "code::dive",
          edition: "2015",
@@ -63374,7 +63523,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1836,
+          number: 1843,
       identifier: "accu-2017-18",
          meeting: "accu",
          edition: "2017",
@@ -63394,7 +63543,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 962,
+          number: 969,
       identifier: "CppCon-2015-1",
          meeting: "CppCon",
          edition: "2015",
@@ -63414,7 +63563,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 963,
+          number: 970,
       identifier: "CppCon-2015-2",
          meeting: "CppCon",
          edition: "2015",
@@ -63434,7 +63583,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1003,
+          number: 1010,
       identifier: "CppCon-2015-42",
          meeting: "CppCon",
          edition: "2015",
@@ -63454,7 +63603,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1813,
+          number: 1820,
       identifier: "accu-2016-31",
          meeting: "accu",
          edition: "2016",
@@ -63473,7 +63622,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2387,
+          number: 2394,
       identifier: "MUC++--54",
          meeting: "MUC++",
          edition: "",
@@ -63493,7 +63642,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2042,
+          number: 2049,
       identifier: "ItCppCon-2020-12",
          meeting: "ItCppCon",
          edition: "2020",
@@ -63553,7 +63702,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1324,
+          number: 1331,
       identifier: "CppCon-2018-63",
          meeting: "CppCon",
          edition: "2018",
@@ -63573,7 +63722,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2963,
+          number: 2970,
       identifier: "RustConf-2021-7",
          meeting: "RustConf",
          edition: "2021",
@@ -63614,7 +63763,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2313,
+          number: 2320,
       identifier: "Live Embedded Event-2021-32",
          meeting: "Live Embedded Event",
          edition: "2021",
@@ -63634,7 +63783,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2312,
+          number: 2319,
       identifier: "Live Embedded Event-2021-31",
          meeting: "Live Embedded Event",
          edition: "2021",
@@ -63714,7 +63863,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 1760,
+          number: 1767,
       identifier: "code::dive-2019-30",
          meeting: "code::dive",
          edition: "2019",
@@ -63753,7 +63902,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2693,
+          number: 2700,
       identifier: "GOTO Chicago-2020-4",
          meeting: "GOTO Chicago",
          edition: "2020",
@@ -63772,7 +63921,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2788,
+          number: 2795,
       identifier: "GOTO Copenhagen-2019-7",
          meeting: "GOTO Copenhagen",
          edition: "2019",
@@ -63791,7 +63940,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2906,
+          number: 2913,
       identifier: "GOTOpia-2021-5",
          meeting: "GOTOpia",
          edition: "2021",
@@ -63810,7 +63959,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2764,
+          number: 2771,
       identifier: "GOTO Copenhagen-2018-25",
          meeting: "GOTO Copenhagen",
          edition: "2018",
@@ -63849,7 +63998,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2544,
+          number: 2551,
       identifier: "GOTO Berlin-2018-41",
          meeting: "GOTO Berlin",
          edition: "2018",
@@ -63868,7 +64017,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 3013,
+          number: 3020,
       identifier: "Oxidize Global-2020-10",
          meeting: "Oxidize Global",
          edition: "2020",
@@ -63888,7 +64037,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2971,
+          number: 2978,
       identifier: "RustFest-2019-2",
          meeting: "RustFest",
          edition: "2019",
@@ -63908,7 +64057,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2528,
+          number: 2535,
       identifier: "GOTO Berlin-2018-25",
          meeting: "GOTO Berlin",
          edition: "2018",
@@ -63928,7 +64077,7 @@ const talks = [
         language: "English"
    },
    {
-          number: 2280,
+          number: 2287,
       identifier: "Live Embedded Event-2020-34",
          meeting: "Live Embedded Event",
          edition: "2020",
@@ -63948,7 +64097,7 @@ const talks = [
         language: "French"
    },
    {
-          number: 1924,
+          number: 1931,
       identifier: "accu-2018-63",
          meeting: "accu",
          edition: "2018",
