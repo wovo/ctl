@@ -40,7 +40,7 @@ Conferences I included so far are:
 - GOTO Amsterdam,Berlin,Copenhagen,Chicago,pia 2018-2020
 - ItCppCon (Italian C++ Conference) 2020-2021
 - Live Embedded Event 2020-2021
-- Meeting C++ 2014-2020
+- Meeting C++ 2014-2020, online
 - Meeting Embedded 2018-2020
 - MUC++
 - Oxidize Global 2020
@@ -66,7 +66,7 @@ I used or plan to use these tags:
 - hardware, embedded, latency, freestanding, unit
 - git, make, cmake
 - exception, template, concept, constexpr, lambda, volatile, int
-- stl, container, algorithm
+- stl, container, algorithm, random
 - procedural, oo, functional
 - compilation, jit, emulation, retro
 - quality, naming, testing

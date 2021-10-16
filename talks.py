@@ -32,6 +32,7 @@
 # javascript: try first write only the fixed text, then full rewrite                             
 # going native - add speakers, if I ever have the time
 # maybe not capitalize meetings?
+# progress count
 #
 # Great titles and phrases: (add random phrase display?)
 # ======================================================
@@ -477,6 +478,18 @@ missing_speakers = [
      "Roland Bock" ],
    [ "- Windows, macOS and the Web - Lessons from cross platform development",
      "Sebastian Theophil" ],  
+   [ "rand() Considered Harmful",
+     "Stephan T. Lavavej" ],  
+   [ "",
+     "" ],  
+   [ "",
+     "" ],  
+   [ "",
+     "" ],  
+   [ "",
+     "" ],  
+   [ "",
+     "" ],  
    [ "",
      "" ],  
    [ "",
@@ -646,8 +659,8 @@ must_total_replace = [
         "itCppCon20 - The Silicon Valley coding inter$remove$view (Nicolo Valigi)" ],    
    [ "itCppCon21 Welcome (Marco Arena) + KEYNOTE 'WARNING: std::find is broken' (Sean Parent)",
         "KEYNOTE 'WARNING: std::find is broken' (Sean Parent)" ],    
-   [ "",
-        "" ],    
+   [ "[CppIndiaCon 2021] AMA with Bjarne Stroustrup",
+        "[CppIndiaCon 2021] Ask Me Anything by Bjarne Stroustrup" ],    
    [ "",
         "" ],    
    [ "",
@@ -1490,7 +1503,7 @@ def add_talk(
       t = { 'l' : "live",
          'o' : "online",
          '+' : "c++",
-         'r' : "Rust",
+         'r' : "rust",
          'e' : "embedded",
       }[ c ]
       if not t in tags: 
@@ -1599,55 +1612,7 @@ def add_playlist( talks, meeting, edition, playlists, nr1, nr2 ):
 # ===========================================================================
 
 playlists = [
-   [ "BoostCon", [ 
-      [ "2010", [[ "PL_AKIMJc4roVg67uMOpzEpsYTolMvhxho", split_st,    "l+"  ]]],
-      [ "2011", [[ "PL_AKIMJc4roWHqe9Wt6AwYS6rpE2P0Rqh", split_st,    "l+"  ]]],
-   ]], [ "C++Now", [ 
-      [ "2012", [[ "PL_AKIMJc4roWXECUOVFsSTn6zs-145shM", split_st,    "l+"  ]]],
-      [ "2013", [[ "PL_AKIMJc4roWzZsLGGhWbCAgr8l_Hr978", split_st,    "l+"  ]]],
-      [ "2014", [[ "PL_AKIMJc4roXG7rOmqsb_wDG1btCzhS8F", split_ts,    "l+"  ]]],
-      [ "2015", [[ "PL_AKIMJc4roX665MVPoqbzHVZFMBzgytT", split_st,    "l+"  ]]],
-      [ "2016", [[ "PL_AKIMJc4roU0F3w20Ac77YeOFyvFmaJD", split_st,    "l+"  ]]],
-      [ "2017", [[ "PL_AKIMJc4roXJldxjJGtH8PJb4dY6nN1D", split_sqt,   "l+"  ],
-                 [ "PL_AKIMJc4roV-ATm4VQH5Tc78_0bruUuI", split_sqt,   "l+"  ]]],
-      [ "2018", [[ "PL_AKIMJc4roVSbTTfHReQTl1dc9ms0lWH", split_sqt,   "l+"  ],
-                 [ "PL_AKIMJc4roWtkG_Qiw6uwNWcjjG5WLHE", split_sqt,   "l+"  ]]],
-      [ "2019", [[ "PL_AKIMJc4roW3jQgghyouFoX15m84YYB0", split_sqt,   "l+"  ],
-                 [ "PL_AKIMJc4roXZPycnYPqK-FamxJdISihj", split_sqt,   "l+"  ]]],
-      [ "2021", [[ "PL_AKIMJc4roXvFWuYzTL7Xe7j4qukOXPq", split_ts,    "o+"  ],
-                 [ "PL_AKIMJc4roXczzBYPB-rsRmG8QTVsfeS", split_ts,    "o+"  ]]],
-   ]], [ "Meeting C++", [ 
-      [ "2014", [[ "PLRyNF2Y6sca0Luy-3XreR2l2aQ7Hf5ODl", split_ts,    "l+"  ]]],
-      [ "2015", [[ "PLRyNF2Y6sca0UKKZ2PTSwF3WrDjABQdcL", split_ts,    "l+"  ]]],
-      [ "2016", [[ "PLRyNF2Y6sca06lulacjysyu8RIwfKgYoY", split_ts,    "l+"  ]]],
-      [ "2017", [[ "PLRyNF2Y6sca3EUO_RTNv5t7gUmppFl9R1", split_ts,    "l+"  ]]],
-      [ "2018", [[ "PLRyNF2Y6sca3bxLLAojbEWaZ2DueRPZVy", split_ts,    "l+"  ]]],
-      [ "2019", [[ "PLRyNF2Y6sca27wjBvjc5yg3F1QqZgazKb", split_ts,    "l+"  ],
-                 [ "PLRyNF2Y6sca1nKqNGjafqpTke8RmvZIji", split_ts,    "l+"  ]]],
-      [ "2020", [[ "PLRyNF2Y6sca0hXu0FG-5SP3lTI-g7srMW", split_st,    "o+"  ]]],
-   ]], [ "Meeting C++ online", [ 
-      [ "",     [[ "PLRyNF2Y6sca0J0CQje0ulSSPTaYkNE5yp", split_st,    "o+"  ]]],
-   ]], [ "Meeting Embedded", [ 
-      [ "2018", [[ "PLRyNF2Y6sca0eWtRoUIOW_5wVcghtm9rI", split_ts,    "le"  ]]],
-      [ "2020", [[ "PLRyNF2Y6sca3HLKGGixEdBhYHNf0Z0ZPe", split_st,    "oe"  ]]],     
-   ]], [ "CppCon", [ 
-      [ "2014", [[ "PLHTh1InhhwT7esTl1bRitiizeEnksGU7J", split_sqt,   "l+"  ]]],
-      [ "2015", [[ "PLHTh1InhhwT75gykhs7pqcR_uSiG601oh", split_sqt,   "l+"  ]]],
-      [ "2016", [[ "PLHTh1InhhwT7J5jl4vAhO1WvGHUUFgUQH", split_sqt,   "l+"  ]]],
-      [ "2017", [[ "PLHTh1InhhwT6bwIpRk0ZbCA0N2p1taxd6", split_sqt,   "l+"  ]]],
-      [ "2018", [[ "PLHTh1InhhwT6V9RVdFRoCG_Pm5udDxG1c", split_sqt,   "l+"  ]]],
-      [ "2019", [[ "PLHTh1InhhwT6KhvViwRiTR7I5s09dLCSw", split_sqt,   "l+"  ]]],
-      [ "2020", [[ "PLHTh1InhhwT6VxYHtoWIvOup9gz0p95Qr", split_ts,    "o+"  ]]],
-   ]], [ "code::dive", [ 
-      [ "2014", [[ "PLK3T2dt6T1fcZswWn2HbWpRHprPHyJ4wZ", split_st,    "l"   ]]],
-      [ "2015", [[ "PLK3T2dt6T1fc-Duvq7ZXz0ZQFcSgVKyl4", split_st,    "l"   ]]],
-      [ "2016", [[ "PLK3T2dt6T1fe_K81rfIBdGPfbMlLqeHBT", split_st,    "l"   ]]],
-      [ "2017", [[ "PLK3T2dt6T1fdoBo5uqDjhLg5OcZYKh_KU", split_st,    "l"   ],
-                 [ "Se9AEznM8TI",                        split_lee,   "l"   ]]],
-      [ "2018", [[ "PLK3T2dt6T1fd6PILMU2lg7K6pWnUKl34S", split_ts,    "l"   ]]],
-      [ "2019", [[ "PLK3T2dt6T1fd65u8sx01jRrp9aVquXIpN", split_ts,    "l"   ]]],
-      [ "2020", [[ "PLK3T2dt6T1feBLbwORz3dBdCylfe0lBlR", split_ts,    "o"   ]]],
-   ]], [ "accu", [ 
+   [ "accu", [ 
       [ "2016", [[ "PL9hrFapz4dsObkSjgBlyFl-aotNvk2GeP", split_ts,    "l"  ],
                  [ "PL9hrFapz4dsNx2fwGFwj8NtPzQr2SexTv", split_ts,    "l"  ],
                  [ "PL9hrFapz4dsM1B9bI8VmEE4JJlR0m-dvo", split_ts,    "l"  ],
@@ -1669,11 +1634,15 @@ playlists = [
                  [ "PL5XXu3X6L7jvWwbkUgMyGpA6VyqGrHbdv", split_ts,    "o"  ],
                  [ "PL5XXu3X6L7jvWwbkUgMyGpA6VyqGrHbdv", split_ts,    "o"  ],
                  [ "PL5XXu3X6L7juIhIykfhFmjyl4D5Tvjvdh", split_ts,    "o"  ]]],
+   ]], [ "BoostCon", [ 
+      [ "2010", [[ "PL_AKIMJc4roVg67uMOpzEpsYTolMvhxho", split_st,    "l+"  ]]],
+      [ "2011", [[ "PL_AKIMJc4roWHqe9Wt6AwYS6rpE2P0Rqh", split_st,    "l+"  ]]],
    ]], [ "C++ Day", [ 
       [ "2020", [[ "PLsCm1Hs016LX6l97Royt5DSYy7V05nZmS", split_par,   "o+"  ]]],
-   ]], [ "ItCppCon", [ 
-      [ "2020", [[ "PLsCm1Hs016LWIjOrEftUA42ZwxsF30vZB", split_par,   "o+"  ]]],
-      [ "2021", [[ "PLsCm1Hs016LV9BRKIqrNWEXfa5ggpiyki", split_par,   "o+"  ]]],
+   ]], [ "C++ Europe", [ 
+      [ "2018", [[ "PLKkbEnCSP7sfCuSYTm7gh0leP-HzN7O35", split_st,    "l+"  ]]],
+      [ "2019", [[ "PLKkbEnCSP7sezU3eY8f7NrbJp5g4Kfurl", split_st,    "l+"  ]]],
+      [ "2020", [[ "PLKkbEnCSP7sek-bn-Ae-b16aa7y_mc2EH", split_st,    "o+"  ]]],
    ]], [ "C++ on sea", [ 
       [ "2019", [[ "PL5XXu3X6L7jtk7-GIVq3-bkKDKDtoagj4", split_ts,    "l+"  ],
                  [ "PL5XXu3X6L7jvWwbkUgMyGpA6VyqGrHbdv", split_ts,    "l+"  ],
@@ -1684,23 +1653,34 @@ playlists = [
                  [ "PL5XXu3X6L7jtcXY9Ilpv7WhDS6lEo1hBz", split_ts,    "o+"  ]]],
       [ "2021", [[ "PL5XXu3X6L7jsIaVI82HXU3p2yRz2kVDZf", split_ts,    "o+"  ],
                  [ "PL5XXu3X6L7jtLi9qqEAfVfcas5inGLbk9", split_ts,    "o+"  ]]],
+   ]], [ "C++IndiaCon", [ 
+      [ "2021", [[ "PLZ3iYBI9Conj6Vbm0KZhDAYOiXPVfSfip", split_by,    "o+"  ]]],
+   ]], [ "C++Now", [ 
+      [ "2012", [[ "PL_AKIMJc4roWXECUOVFsSTn6zs-145shM", split_st,    "l+"  ]]],
+      [ "2013", [[ "PL_AKIMJc4roWzZsLGGhWbCAgr8l_Hr978", split_st,    "l+"  ]]],
+      [ "2014", [[ "PL_AKIMJc4roXG7rOmqsb_wDG1btCzhS8F", split_ts,    "l+"  ]]],
+      [ "2015", [[ "PL_AKIMJc4roX665MVPoqbzHVZFMBzgytT", split_st,    "l+"  ]]],
+      [ "2016", [[ "PL_AKIMJc4roU0F3w20Ac77YeOFyvFmaJD", split_st,    "l+"  ]]],
+      [ "2017", [[ "PL_AKIMJc4roXJldxjJGtH8PJb4dY6nN1D", split_sqt,   "l+"  ],
+                 [ "PL_AKIMJc4roV-ATm4VQH5Tc78_0bruUuI", split_sqt,   "l+"  ]]],
+      [ "2018", [[ "PL_AKIMJc4roVSbTTfHReQTl1dc9ms0lWH", split_sqt,   "l+"  ],
+                 [ "PL_AKIMJc4roWtkG_Qiw6uwNWcjjG5WLHE", split_sqt,   "l+"  ]]],
+      [ "2019", [[ "PL_AKIMJc4roW3jQgghyouFoX15m84YYB0", split_sqt,   "l+"  ],
+                 [ "PL_AKIMJc4roXZPycnYPqK-FamxJdISihj", split_sqt,   "l+"  ]]],
+      [ "2021", [[ "PL_AKIMJc4roXvFWuYzTL7Xe7j4qukOXPq", split_ts,    "o+"  ],
+                 [ "PL_AKIMJc4roXczzBYPB-rsRmG8QTVsfeS", split_ts,    "o+"  ]]],
+   ]], [ "code::dive", [ 
+      [ "2014", [[ "PLK3T2dt6T1fcZswWn2HbWpRHprPHyJ4wZ", split_st,    "l"   ]]],
+      [ "2015", [[ "PLK3T2dt6T1fc-Duvq7ZXz0ZQFcSgVKyl4", split_st,    "l"   ]]],
+      [ "2016", [[ "PLK3T2dt6T1fe_K81rfIBdGPfbMlLqeHBT", split_st,    "l"   ]]],
+      [ "2017", [[ "PLK3T2dt6T1fdoBo5uqDjhLg5OcZYKh_KU", split_st,    "l"   ],
+                 [ "Se9AEznM8TI",                        split_lee,   "l"   ]]],
+      [ "2018", [[ "PLK3T2dt6T1fd6PILMU2lg7K6pWnUKl34S", split_ts,    "l"   ]]],
+      [ "2019", [[ "PLK3T2dt6T1fd65u8sx01jRrp9aVquXIpN", split_ts,    "l"   ]]],
+      [ "2020", [[ "PLK3T2dt6T1feBLbwORz3dBdCylfe0lBlR", split_ts,    "o"   ]]],
    ]], [ "Core C++", [ 
       [ "2019", [[ "PLn4wYlDYx4bszUM8uUJi55czMYuilXfaR", split_cc,    "l+"  ]]],
       [ "2021", [[ "PLn4wYlDYx4bt5jDwyOleg6J4kTtAu2rU5", split_cc,    "l+"  ]]],
-   ]], [ "C++ Europe", [ 
-      [ "2018", [[ "PLKkbEnCSP7sfCuSYTm7gh0leP-HzN7O35", split_st,    "l+"  ]]],
-      [ "2019", [[ "PLKkbEnCSP7sezU3eY8f7NrbJp5g4Kfurl", split_st,    "l+"  ]]],
-      [ "2020", [[ "PLKkbEnCSP7sek-bn-Ae-b16aa7y_mc2EH", split_st,    "o+"  ]]],
-   ]], [ "C++IndiaCon", [ 
-      [ "2021", [[ "PLZ3iYBI9Conj6Vbm0KZhDAYOiXPVfSfip", split_by,    "o+"  ]]],
-   ]], [ "CPPP", [ 
-      # no playlist
-   ]], [ "Pacific C++", [ 
-      [ "2017", [[ "PLd4OrpVodmxUf6WsIJhb2KvYaq9RBuIr3", split_sqt,   "l+"  ]]],
-      [ "2018", [[ "PLd4OrpVodmxUCBpzlkPYsiP9hOtLFpAjk", split_sqt,   "l+"  ]]],
-   ]], [ "Live Embedded Event", [
-      [ "2020", [[ "PLn7YTy5_SF4_1ZLsQ29ZGpjZo7aNoLBIt", split_lee,   "oe"  ]]],
-      [ "2021", [[ "PLn7YTy5_SF4-FRyY-5zwsKuTCOBRUkY_h", split_lee,   "oe"  ]]],
    ]], [ "corehard", [ 
       [ "2017", [[ "XWn4_Vu7rUM",                        split_sdt,   "l+"  ],
                  [ "TX6aw2NtgVw",                        split_sdt,   "l+"  ],
@@ -1720,11 +1700,16 @@ playlists = [
                  [ "Vv3cz28Un3Y",                        split_tds,   "l+"  ],
                  [ "hcgL8QBmh2I",                        split_tds,   "l+"  ],
                  [ "4QO9FyH0KIY",                        split_tds,   "l+"  ]]],
-   ]], [ "MUC++", [ 
-      [ "",      [[ "PLOqQEh8zIeoBH4gOJM9uZveUMW-uNmty8", split_st,   "l+"  ],   # normal
-                  [ "PLO_1k6dh05Q_0yeJETerhbL6GlHsAt5RQ", split_st,   "l+"  ],   # lightning talks
-                  [ "PLO_1k6dh05Q9DDnH9-FFkPFxMmgaypLMu", split_st,   "l+"  ],   # LT 2017
-                  [ "PLO_1k6dh05Q8s2KA_9skFZdCN55F0tVyw", split_st,   "l+"  ]]], # LT spring 2018
+   ]], [ "CppCon", [ 
+      [ "2014", [[ "PLHTh1InhhwT7esTl1bRitiizeEnksGU7J", split_sqt,   "l+"  ]]],
+      [ "2015", [[ "PLHTh1InhhwT75gykhs7pqcR_uSiG601oh", split_sqt,   "l+"  ]]],
+      [ "2016", [[ "PLHTh1InhhwT7J5jl4vAhO1WvGHUUFgUQH", split_sqt,   "l+"  ]]],
+      [ "2017", [[ "PLHTh1InhhwT6bwIpRk0ZbCA0N2p1taxd6", split_sqt,   "l+"  ]]],
+      [ "2018", [[ "PLHTh1InhhwT6V9RVdFRoCG_Pm5udDxG1c", split_sqt,   "l+"  ]]],
+      [ "2019", [[ "PLHTh1InhhwT6KhvViwRiTR7I5s09dLCSw", split_sqt,   "l+"  ]]],
+      [ "2020", [[ "PLHTh1InhhwT6VxYHtoWIvOup9gz0p95Qr", split_ts,    "o+"  ]]],
+   ]], [ "CPPP", [ 
+      # no playlist
    ]], [ "Going Native", [
       [ "2012", [[ "PLGvfHSgImk4aSCKMmnDl8ZXwL2CY6g8lH", split_st,    "l+"  ]]],
       [ "2013", [[ "PLD0gpuCC5_-kVh4Kvr6DfNJ3cBkxiKw1Q", split_st,    "l+"  ]]],
@@ -1747,6 +1732,36 @@ playlists = [
       [ "2020", [[ "PLEx5khR4g7PIiAEHCt6LGMFnzq7JjO8we", split_goto,  "o"  ],
                  [ "PLEx5khR4g7PI4l8PnLCv9j3PlePzuQPbm", split_goto,  "o"  ]]],
       [ "2021", [[ "PLEx5khR4g7PI89_ZS_wz5suqCoqFgv-gO", split_goto,  "o"  ]]],
+   ]], [ "ItCppCon", [ 
+      [ "2020", [[ "PLsCm1Hs016LWIjOrEftUA42ZwxsF30vZB", split_par,   "o+"  ]]],
+      [ "2021", [[ "PLsCm1Hs016LV9BRKIqrNWEXfa5ggpiyki", split_par,   "o+"  ]]],
+   ]], [ "Live Embedded Event", [
+      [ "2020", [[ "PLn7YTy5_SF4_1ZLsQ29ZGpjZo7aNoLBIt", split_lee,   "oe"  ]]],
+      [ "2021", [[ "PLn7YTy5_SF4-FRyY-5zwsKuTCOBRUkY_h", split_lee,   "oe"  ]]],
+   ]], [ "Meeting C++", [ 
+      [ "2014", [[ "PLRyNF2Y6sca0Luy-3XreR2l2aQ7Hf5ODl", split_ts,    "l+"  ]]],
+      [ "2015", [[ "PLRyNF2Y6sca0UKKZ2PTSwF3WrDjABQdcL", split_ts,    "l+"  ]]],
+      [ "2016", [[ "PLRyNF2Y6sca06lulacjysyu8RIwfKgYoY", split_ts,    "l+"  ]]],
+      [ "2017", [[ "PLRyNF2Y6sca3EUO_RTNv5t7gUmppFl9R1", split_ts,    "l+"  ]]],
+      [ "2018", [[ "PLRyNF2Y6sca3bxLLAojbEWaZ2DueRPZVy", split_ts,    "l+"  ]]],
+      [ "2019", [[ "PLRyNF2Y6sca27wjBvjc5yg3F1QqZgazKb", split_ts,    "l+"  ],
+                 [ "PLRyNF2Y6sca1nKqNGjafqpTke8RmvZIji", split_ts,    "l+"  ]]],
+      [ "2020", [[ "PLRyNF2Y6sca0hXu0FG-5SP3lTI-g7srMW", split_st,    "o+"  ]]],
+   ]], [ "Meeting C++ online", [ 
+      [ "",     [[ "PLRyNF2Y6sca0J0CQje0ulSSPTaYkNE5yp", split_st,    "o+"  ]]],
+   ]], [ "Meeting Embedded", [ 
+      [ "2018", [[ "PLRyNF2Y6sca0eWtRoUIOW_5wVcghtm9rI", split_ts,    "le"  ]]],
+      [ "2020", [[ "PLRyNF2Y6sca3HLKGGixEdBhYHNf0Z0ZPe", split_st,    "oe"  ]]],   
+   ]], [ "MUC++", [ 
+      [ "",      [[ "PLOqQEh8zIeoBH4gOJM9uZveUMW-uNmty8", split_st,   "l+"  ],   # normal
+                  [ "PLO_1k6dh05Q_0yeJETerhbL6GlHsAt5RQ", split_st,   "l+"  ],   # lightning talks
+                  [ "PLO_1k6dh05Q9DDnH9-FFkPFxMmgaypLMu", split_st,   "l+"  ],   # LT 2017
+                  [ "PLO_1k6dh05Q8s2KA_9skFZdCN55F0tVyw", split_st,   "l+"  ]]], # LT spring 2018
+   ]], [ "Oxidize Global", [
+      [ "2020", [[ "PL85XCvVPmGQjbJxpRTopnzCVMUwAKsfB7", split_t,     "ro"  ]]],
+   ]], [ "Pacific C++", [ 
+      [ "2017", [[ "PLd4OrpVodmxUf6WsIJhb2KvYaq9RBuIr3", split_sqt,   "l+"  ]]],
+      [ "2018", [[ "PLd4OrpVodmxUCBpzlkPYsiP9hOtLFpAjk", split_sqt,   "l+"  ]]],
    ]], [ "RustConf", [
       [ "2019", [[ "PL85XCvVPmGQhDOUIZBe6u388GydeACbTt", split_by,    "ro"  ]]],
       [ "2020", [[ "PL85XCvVPmGQijqvMcMBfYAwExx1eBu1Ei", split_by,    "ro"  ]]],
@@ -1754,8 +1769,6 @@ playlists = [
    ]], [ "RustFest", [
       [ "2019", [[ "PL85XCvVPmGQg-dewHRpM08JkGrBPdIVHw", split_st,    "rl"  ]]],
       [ "2020", [[ "PL85XCvVPmGQiudPknCxiSpybc5RTfkXe6", split_st,    "ro"  ]]],
-   ]], [ "Oxidize Global", [
-      [ "2020", [[ "PL85XCvVPmGQjbJxpRTopnzCVMUwAKsfB7", split_t,     "ro"  ]]],
    ]], [ "", [
    ]],      
 ]
@@ -2035,6 +2048,7 @@ function rewrite(){
    var n = 0
    var t2 = ""
    var d = 0
+   var total_speakers = 0
    var speaker_count = []
    var speaker_minutes = []
    for( s of speakers ){
@@ -2048,23 +2062,29 @@ function rewrite(){
          d += talk.duration
          num_sp = talk.speakers.length
          for( speaker of talk.speakers ){
+            if( speaker_count[ speaker ] == 0 ){
+               total_speakers += 1
+            }   
             speaker_count[ speaker ] += ( 1 / num_sp )
             speaker_minutes[ speaker ] += ( talk.duration / num_sp )
          }
       }   
    }
-   t += n.toString() + " entries ("
-   t += format_duration( d ) + ") "
-   t += '<A HREF="' + url_with_parameters()
-   t += '">url for this selection' + "</A>"
+   t += n.toString() + " entries "
    if( n > 0 ){
-      t += " most talks: "
+      t += "(" + format_duration( d ) + ") "
+   }   
+   t += '<A HREF="' + url_with_parameters()
+   t += '">url for this selection' + "</A> "
+   if( total_speakers > 0 ){
+      t += total_speakers.toString() + " different speakers; "
+      t += "most talks: "
       name = index_of_max_entry( speaker_count )
       t += name + " (" 
-      t += Math.round( speaker_count[ name ] ).toString() + ") "
+      t += Math.round( speaker_count[ name ] ).toString() + "); "
       name = index_of_max_entry( speaker_minutes )
       t += "longest total speaking time: " +  name + " (" 
-      t += format_duration( Math.round( speaker_minutes[ name ]) ) + ") "
+      t += format_duration( Math.round( speaker_minutes[ name ]) ) + "). "
    }   
    t += "<BR>" + t2
   
@@ -2266,6 +2286,14 @@ date_and_time = "<date-and-time>"
 additional_tags = {
    "OQgFEkgKx2s" : "naming quality",
    "VN0VNoykxtk" : "units",
+   "2Yu8qYFS2R0" : "random",
+   "" : "",
+   "" : "",
+   "" : "",
+   "" : "",
+   "" : "",
+   "" : "",
+   "" : "",
    "" : "",
    "" : "",
 }
