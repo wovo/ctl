@@ -9,7 +9,7 @@
 # (See accompanying boost.txt file or copy at 
 # http://www.boost.org/LICENSE_1_0.txt)
 #
-# dependecies: python3.9 or higher, request, pafy
+# dependecies: python3.9 or higher, request, pytube, pafy
 #
 # C:\Python39\lib\site-packages\pafy\backend_youtube_dl.py", line 53
 # changed to [] to get( .., 0 )
@@ -23,16 +23,14 @@
 # show both ctl- and meeting-edition-nr
 # cleanup 'ignores' list (generate)
 # python cleanup
-# full regeneration takes ~ 37m, and sometimes a failure: cache things?
+# full regeneration now takes ~ 1:38, and sometimes a failure: cache things?
 # log all prints to a log file?
-# add some trivia (top nr of talks, nr of minutes)
-# FOSDEM (lots of talks, but maybe not so interesting?)
 # embo++, ADC++ (no playlists?)
 # Meetup Modena/Online 2021 - all italian?
 # javascript: try first write only the fixed text, then full rewrite                             
-# going native - add speakers, if I ever have the time
 # maybe not capitalize meetings?
-# progress count
+# https://www.youtube.com/c/EevblogDave/playlists 
+# only show 'most talks' when not ex equo
 #
 # Great titles and phrases: (add random phrase display?)
 # ======================================================
@@ -40,10 +38,32 @@
 # the agile-industrial complex (Allen Holub?)
 # Errors are just conditions we refuse to take seriously (Michael Feathers)
 # If you're arguing, you're losing
+# the paradox of the useless fence - (When Should You Give Two Things the Same Name?)
+# CppCon 2015: Piotr Padlewski "C++ WAT"
+#
+# tutorials
+# ======================================================
+# https://www.youtube.com/playlist?list=PLAE85DE8440AA6B83 bucky's
+# https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb the Cherno
+# https://www.youtube.com/playlist?list=PLrjkTql3jnm-Voi7giH4JITCi6cuZSN42 OOPS in C++
+# https://www.youtube.com/playlist?list=PLmpc3xvYSk4wDCP5zjt2QQXe8-JGHa4Kt cave - beginners
+# https://www.youtube.com/playlist?list=PL_c9BZzLwBRJVJsIfe97ey45V4LP_HXiG - caleb curry
+# https://www.youtube.com/playlist?list=PLIY8eNdw5tW_o8gsLqNBu8gmScCAqKm2Q simple snippets
+# https://www.youtube.com/playlist?list=PLHxtyCq_WDLXryyw91lahwdtpZsmo4BGD stepanov
+# https://www.youtube.com/playlist?list=PLnE6dhNYoLZ6Y8k8l4fRz3lk-K6fAp5-K lavavej
+# https://www.youtube.com/playlist?list=PLbHYdvrWBMxazo1_B6vhW9gpd1wlkdeEW seng 745
+# https://www.youtube.com/playlist?list=PLzTP3s658k6_4WmEEwOhm-vOR2_RolHLr web, Jerry Banfield
+# https://www.youtube.com/channel/UCA2YOQHuWzVn1TWmlK5XYxA?app=desktop codearchery
+# 
+# https://www.youtube.com/watch?v=_bYFu9mBnr4
+# https://www.youtube.com/watch?v=wN0x9eZLix4
+# https://www.youtube.com/watch?v=vLnPwxZdW4Y
+#
+# C++weekly, cppcast, cppchat
 #
 # ===========================================================================
 
-import sys, glob, os, json, urllib.request, re, pafy, datetime, time
+import sys, glob, os, json, urllib.request, re, pytube, pafy, datetime, time
 
 def time_in_minutes( time ):
    # from https://stackoverflow.com/questions/10663720
@@ -77,8 +97,19 @@ replacements = {
    "≤": "=<",     "Ó": "O",      "⬆️": "^",      "È": "E",      "ì": "i",
    "→": "->",     "λ": "lambda", "ï": "i",      "ò": "o",      "∞": "lemniscate",
    "𝐂": "C",      "á": "a",      "́": "",        "æ": "ae",     "➠": "",
-   "\u0308": "",  "à": "a",      "🤖": "",      "ø": "o",
-   "å": "a",      "â": "a",
+   "\u0308": "",  "à": "a",      "🤖": "",      "ø": "o",      "å": "a",      
+   "â": "a",      "û": "u",      "\t": " ",     "❯": ">",      "❮": "<",      
+   "≡": "==",     "💻": "[PC]",  "🙂": "[Smile]",     "🎨": "[Palette]", 
+   "Æ": "AE",
+   "♥": "[love]",
+   "…": "...",
+   '\u200b': "",
+   '\u2212': "-",
+   '\u0391': "A",
+   "x": "x",
+   "x": "x",
+   "x": "x",
+   "x": "x",
    "x": "x",
    "x": "x",
    "x": "x",
@@ -134,9 +165,13 @@ def make_list( list ):
 def page_content( url ):
    return urllib.request.urlopen( url ).read().decode()
    
+def strip_youtube_watch_prefix( s ):
+   return  s.replace( "https://www.youtube.com/watch?v=", "" )
+   
 def youtube_ids( playlist ):
    url = "https://www.youtube.com/playlist?list=%s" % playlist
-   return re.findall( r"watch\?v=(\S{11})", page_content( url ) )
+   pl = pytube.Playlist( url )
+   return list( map( strip_youtube_watch_prefix, pl ) )
    
 def remove_nocase( s, pp ):
    for p in pp:
@@ -661,10 +696,58 @@ must_total_replace = [
         "KEYNOTE 'WARNING: std::find is broken' (Sean Parent)" ],    
    [ "[CppIndiaCon 2021] AMA with Bjarne Stroustrup",
         "[CppIndiaCon 2021] Ask Me Anything by Bjarne Stroustrup" ],    
-   [ "",
-        "" ],    
-   [ "",
-        "" ],    
+   [ "Ada in Debian and other distributions (Ludovic Brenta, Migue",
+        "Ada in Debian and other distributions (Ludovic Brenta, Miguel Telleria de Esteban)" ],    
+   [ "Configuration data upgrade during package upgrade (Dominique",
+        "Configuration data upgrade during package upgrade (Dominique Dumont)" ],    
+   [ "Distributed Compilation of RPMs (Geerd-Dietger Hoffmann, Bri",
+        "Distributed Compilation of RPMs (Geerd-Dietger Hoffmann, Brian Scheuler)" ],    
+   [ "Distribution collaboration manifesto (Stefano Zacchiroli, Ja",
+        "Distribution collaboration manifesto (Stefano Zacchiroli, Jared K. Smith, Jos Poortvliet)" ],    
+   [ "Downstream packaging collaboration (Hans de Goede, Michal Hr",
+        "Downstream packaging collaboration (Hans de Goede, Michal Hrusecky)" ],    
+   [ "Gentoo's Reform and Future (Petteri Räty, Jorge Manuel B. S.",
+        "Gentoo's Reform and Future (Petteri Raty, Jorge Manuel Vincetto)" ],    
+   [ "Using NixOS for declarative deployment and testing (Sander v",
+        "Using NixOS for declarative deployment and testing (Sander van der Burg)" ],    
+   [ "ZYpp your distro (Dominik Heidler Duncan Mac-Vicar P.)",
+        "ZYpp your distro (Dominik Heidler, Duncan Mac-Vicar P.)" ],    
+   [ "Lightning Talks - Go Devroom FOSDEM 2015",
+        "Lightning Talks - Go Devroom FOSDEM 2015 Lightning$remove$ Talks" ],    
+   [ "01   Welcome to the Perl devroom!   Claudio Ramirez, Wendy G A van Dijk",
+        "[Claudio Ramirez, Wendy G A van Dijk] Welcome to the Perl devroom! " ],    
+   [ "02   Schema Database Documentation Through Introspection   Emmanuel Seyman",
+        "[Emmanuel Seyman] Schema Database Documentation Through Introspection" ],    
+   [ "03   Containers in Pure Perl   Marian HackMan Marinov",
+        "[Marian Marinov] Containers in Pure Perl" ],    
+   [ "04   Perl6 as a First Language   The Merelo Family",
+        "[Merelo Family] Perl6 as a First Language" ],    
+   [ "05 5   Social Media Physics Lightning Talk   Stefan Seifert nine",
+        "[Stefan Seifert] Social Media Physics Lightning Talk" ],    
+   [ "06   Building a Universe with Perl   Curtis 'Ovid' Poe",
+        "[Curtis Poe] Building a Universe with Perl" ],    
+   [ "07   Docker for Perl56 People Docker for Perl56 People   Claudio Ramirez",
+        "[Claudio Ramirez] Docker for Perl56 People Docker for Perl56 People" ],    
+   [ "08   Informal Domain Specific Languages in Perl 6   Brian Duggan",
+        "[Brian Dugga] Informal Domain Specific Languages in Perl 6" ],    
+   [ "09   Simple Number Theory in Perl 6   Dana Jacobsen",
+        "[Dana Jacobsen] Simple Number Theory in Perl 6" ],    
+   [ "10   Changing the Image of Perl   Wendy G A  van Dijk",
+        "Wendy G A van Dijk : Changing the Image of Perl" ],    
+   [ "11   Notes from the Trenches Parsing Perl 6  in  Perl 6   Jeffrey Goff",
+        "[Jeffrey Goff] Notes from the Trenches Parsing Perl 6 in Perl 6" ],    
+   [ "12   Hold my beer and watch this!   Stevan Little",
+        "[Stevan Little] Hold my beer and watch this!" ],    
+   [ "13   Web Development and Perl 6   Stefan Seifert nine",
+        "[Stefan Seifert] Web Development and Perl 6" ],    
+   [ "14   Making Camelia Fly Faster   Liz Mattijsen",
+        "[Liz Mattijsen] Making Camelia Fly Faster" ],    
+   [ "15   Perl 5 24, 5 26, and the Future of Perl 5   Sawyer X",
+        "[Sawyer X] Perl 5 24, 5 26, and the Future of Perl 5" ],    
+   [ "Lightning Talks",
+        "Light$remove$ning Ta$remove$lks Lightning Talks" ],    
+   [ "Traits Go Mainstream...  Leor Zolman - [ CppCon 2015 ]",
+        "Traits Go Mainstream... - Leor Zolman - [ CppCon 2015 ]" ],    
    [ "",
         "" ],    
    [ "",
@@ -707,6 +790,9 @@ def sanitize_raw_title( s, meeting, edition ):
    # WTF did he put in his title?
    if s.startswith( "CppCon 2019: JeanHeyd Meneide 'Catch" ):
       s = "CppCon 2019: JeanHeyd Meneide 'Catch [^]: Unicode for C++23'"
+   if s.startswith( "Confessions of a Serial K-otlin Multiplatform-er" ):
+      s = "Confessions of a Serial K–otlin Multiplatform–er __just don’t EXPECT too much__"
+      
    
    # hopeless cases
    # do this first, so the matches are not affected by 
@@ -926,8 +1012,8 @@ speaker_replacements = [
    [ "Gavin",                        "Gavin Mendel-Gleason" ],
    [ "Matthijs",                     "Matthijs van Otterdijk" ],
    [ "Juan Pedro Bolivar",           "Juan Pedro Bolivar Puente" ],
-   [ "",                             "" ],
-   [ "",                             "" ],
+   [ "Jorge Manuel B. S.",           "Jorge Manuel Vicetto" ],
+   [ "Jorge Manuel B. S. Vicetto",   "Jorge Manuel Vicetto" ],
    [ "",                             "" ],
    [ "",                             "" ],
    [ "",                             "" ],
@@ -1198,6 +1284,19 @@ def split_t( meeting, edition, s ):
    
 # ===========================================================================
 
+def split_tos( meeting, edition, s ):   
+   # title, or title (speakers
+   
+   if "(" in s:
+      title, speakers = s.rstrip( ") " ).split( "(", 1 )
+   else:
+      speakers, title = "", s
+      
+   return speakers, title
+
+   
+# ===========================================================================
+
 def lowercase_remove_spaces( s ):
    return s.lower().replace( " ", "" )
 
@@ -1210,6 +1309,10 @@ def split_speakers_and_title( meeting, edition, s, splitter ):
    print( "   1", splitter )
    
    s = s.replace( "'s C++Now 2015", " : " )
+   
+   if( meeting == "FOSDEM" ) and ( edition == "2011" ):
+      if s.startswith( "security" ):
+         s = "[security]" + s[ 13 : ]
    
    if( splitter == split_sqt and s.count( "'" ) < 2 ):
       splitter = split_ts
@@ -1368,14 +1471,37 @@ def split_speakers_and_title( meeting, edition, s, splitter ):
       "RustConf 2021 - ",
       "RustFest Barcelona - ",
       " - RustFest Global 2020",
+      "FOSDEM 2012 -",
+      "fosdem2012",
+      "(FOSDEM 2014)",
+      "Go Devroom FOSDEM 2015",
+      "FOSDEM 2015 - Developer Room -",
+      "FOSDEM 2015 - ",
+      "FOSDEM 2016 - Aw1120 - ",
+      "FOSDEM 2016 - Aw1121 - ",
+      "FOSDEM 2016 - Aw1125 - ",
+      "FOSDEM 2016 - Aw1126 - ",
+      "FOSDEM 2016 - H1301 - ",
+      "FOSDEM 2016 - H1308 - ",
+      "FOSDEM 2016 - H1309 - ",
+      "FOSDEM 2016 - Janson - ",
+      "FOSDEM 2016 - K3201 -",
+      "FOSDEM 2016 - ",
+      "FOSDEM 2017 - ",
+      "FOSDEM 2017: ",
+      "FOSDEM - ",
+      "2013 :",
       "2013 ", # C++Now
       "2016", # also C++Now
    ]:
-      s = s.replace( x, "" )
+      s = s.replace( x, "" )      
       
    # remove "Going Native NN : "   
    if s.startswith( "GoingNative" ):
       s = s.split( ":" )[ 1 ]      
+      
+#   if s.endswith( ".mp4" ):
+#      s = s[ : -4 ]
          
    # C++Now 2014 omits the speakers
    s = s.strip()
@@ -1383,10 +1509,7 @@ def split_speakers_and_title( meeting, edition, s, splitter ):
    for a, b in missing_speakers:
       if s == a:
          s = "%s : %s" % ( b, a )
-         splitter = split_st
-      
-   if meeting == "C++Now":
-      s = s.replace( "2013 :", "" )               
+         splitter = split_st            
       
    s = s.strip()
    if s.endswith( "-" ): s = s[ : -1 ].strip()
@@ -1419,9 +1542,12 @@ def words( s ):
       s = s.replace( c, " " )
    return s.split()   
    
+global_talk_counter = 0         
+   
 def add_talk( 
    talks, meeting, edition, youtube_id, nr, v, splitter, tags_string 
 ):
+   global global_talk_counter
    s = sanitize_raw_title( v.title, meeting, edition )    
    language = "English"               
    level = 0
@@ -1483,21 +1609,33 @@ def add_talk(
    speakers, title = split_speakers_and_title( 
       meeting, edition, s, splitter )
       
+   title = title.replace( "$remove$", "" )
+   
    if tags == []:
       # arbitrary choice: 
       # lightning talks are < 20 minutes
-      if v.length < ( 20 * 60 ):
+      if ( v.length < ( 20 * 60 ) ) or ( title in [ "Lightning Talks" ] ):
         tags.append( "lightning" )            
       else: 
-        tags.append( "talk" )      
+        tags.append( "talk" )               
         
+   w = words( title.lower().replace( "c++", "cpp" ).replace( "/", " " ) )
+   print( "   words %s" %  w )
    for c in [ 
-      "c++",
-      "rust"
+      "cpp", 
+      "rust",
+      "stl",
+      "ada",
+      "php",
+      "scala",
+      "perl",
+      "python",
+      "lua",
+      "risc-v",
    ]:
-      if c in words( title.lower() ):
+      if c in w:
          if not c in tags: 
-            tags.append( c )
+            tags.append( c.replace( "cpp", "c++" ) )
         
    for c in tags_string:
       t = { 'l' : "live",
@@ -1505,17 +1643,41 @@ def add_talk(
          '+' : "c++",
          'r' : "rust",
          'e' : "embedded",
+         'p' : "python",
+         'g' : "go",
+         '$' : "perl",
+         '5' : "risc-v",
       }[ c ]
       if not t in tags: 
          tags.append( t )
+         
+   for c, t in [
+      [ "Embedded - ",                      "embedded" ],
+      [ "Geospatial - ",                    "geospatial" ],
+      [ "Graphics - ",                      "graphics" ],
+      [ "Perl - ",                          "perl" ],
+      [ "Smalltalk - ",                     "smalltalk" ],
+      [ "Php And Friends - ",               "php" ],
+      [ "Developer Room Distributions - ",  "distros" ],
+      [ "Distributions - ",                 "distros" ],
+      [ "Electronic Design Automation - ",  "eda" ],
+      [ "Go - ",                            "go" ],
+      [ "Internet Of Things -",             "iot" ],
+      [ "Mysql And Friends - ",             "mysql" ],
+      [ "Software Defined Radio - ",        "sdr" ],
+      [ "[security]",                       "security" ],
+   ]:
+      if title.startswith( c ):
+         title = title.replace( c, "" ).strip()
+         if not t in tags: 
+            tags.append( t )         
          
    for t in additional_tags.get( youtube_id, "" ).split():
       if not t in tags: 
          tags.append( t )   
       
-   title = title.replace( "$remove$", "" )
-      
-   id = "%s-%s-%d " % ( meeting, edition, nr )
+   global_talk_counter += 1
+   id = "[%04d] %s-%s-%d " % ( global_talk_counter, meeting, edition, nr )
    print( "%s : %s \"%s\" " % ( id, speakers, title ) )
       
    talks.add( talk(
@@ -1570,8 +1732,14 @@ excluded_talks = [
    "Dahlia Fae – Artist Performance — RustFest Global 2020",
    "Summarizing Core C++ 2021",
    "Meeting C++ online tool fair - SonarSource intro",
-   "",
-   "",
+   "Can We Run C Code And Be Safe",
+   "Lessons Learned Running Ssl At Scale",
+   "Rearchitecting Linux I O Towards Petascale Storage",
+   "USBGuard",
+   "EDjCKaE7Aks",
+   "VCcSkImcEk0",
+   "01 Welcome to the Perl devroom! Claudio Ramirez, Wendy G A  van Dijk",
+   "ppTmPUapspI",
    "",
    "",
    "",
@@ -1586,16 +1754,15 @@ def use_nr( nr, nr1, nr2 ):
    else:
       return ( nr >= int( nr1 )) and ( nr <= int( nr2 ))
       
-
 def add_playlist( talks, meeting, edition, playlists, nr1, nr2 ):
    if 1: print( "add_playlist", meeting, edition, nr1, nr2, playlists )
    nr = 0
    done = []
    for playlist_id, sp, tg in playlists: 
-      if len( playlist_id ) < 30:
-         ids = [ playlist_id ]
-      else:
+      if playlist_id.startswith( "PL" ):
          ids = youtube_ids( playlist_id )
+      else:
+         ids = [ playlist_id ]
       for youtube_id in ids:
          nr += 1
          if 0: print( nr, youtube_id, youtube_id in done )
@@ -1604,7 +1771,10 @@ def add_playlist( talks, meeting, edition, playlists, nr1, nr2 ):
             if use_nr( nr, nr1, nr2 ):
                v = pafy.new( youtube_id )
                print( "   maybe exclude [%s]" % v.title )
-               if not v.title in excluded_talks:
+               if not (
+                  ( v.title in excluded_talks ) 
+                  or ( youtube_id in excluded_talks )
+               ):
                   add_talk( 
                      talks, meeting, edition, youtube_id, nr, v, sp, tg )
                
@@ -1710,6 +1880,33 @@ playlists = [
       [ "2020", [[ "PLHTh1InhhwT6VxYHtoWIvOup9gz0p95Qr", split_ts,    "o+"  ]]],
    ]], [ "CPPP", [ 
       # no playlist
+   ]], [ "FOSDEM", [
+      [ "2010", [[ "PLE2E70FE7B03D2FD0",                 split_lee,   "l"   ]]],
+      [ "2011", [[ "PLD53AE1C197602E09",                 split_lee,   "l"   ],
+                 [ "PLAC607424229CFC1A",                 split_tos,   "l"   ]]],
+      [ "2012", [[ "PL31210579EDD785E7",                 split_lee,   "l"   ],
+                 [ "PL8B4927E5AF1246B5",                 split_lee,   "l"   ]]],
+      [ "2013", [[ "PLt9cyv3LnAHcncBHv8HEOljhK3NrBXg3e", split_lee,   "l"   ]]],
+      [ "2014", [[ "PLt9cyv3LnAHdWFTosKHZadBceVNH3EWN9", split_lee,   "l"   ],
+                 [ "PLtLJO5JKE5YDKG4WcaNts3IVZqhDmmuBH", split_lee,   "lg"  ],
+                 [ "PLUgTyq9ZstaI3t2XKhPjvnm-QBJTQySjD", split_lee,   "lp"  ]]],
+      [ "2015", [[ "PLz6de-QSE_1w7ib-xr04OcFyPB3HWH0P9", split_lee,   "l"   ],
+                 [ "PLs_6_fgIXu8MlVUsD2BJEMGkqeZZuXPr9", split_lee,   "lg"  ],
+                 [ "PLtLJO5JKE5YDK74RZm67xfwaDgeCj7oqb", split_lee,   "lg"  ]]],
+      [ "2016", [[ "PLz6de-QSE_1x7BYLUz321_61x4yb_vc4C", split_lee,   "l"   ],
+                 [ "PL-Em-BJn1-QNSde0yPBDykv4xT0ge1Es5", split_lee,   "l"   ]]],
+      [ "2017", [[ "PL_QKjHDgmNzpCeqapn1plFjv4Dy5VoRYA", split_t,     "l"   ],
+                 [ "PLtLJO5JKE5YAA7wdywh8ZJVdTXxnpdhNp", split_t,     "lg"  ],
+                 [ "PLxavAW22r8AlqvRG_uG_CWU_ufJqMnJe1", split_st,    "l$"  ]]],
+      [ "2018", [[ "PL_QKjHDgmNzpckLNciogFQ79csbL4JtzN", split_lee,   "l"   ],
+                 [ "PLtLJO5JKE5YCYgIdpJPxNzWxpMuUWgbVi", split_lee,   "lg"  ],
+                 [ "PLlhRHy4mKQlUrv76IIq72yF5WPbD9w_JG", split_lee,   "l"   ], # SDR
+               # [ "PL85XCvVPmGQjBZGvlsXmiT8UAHKUddrI9", split_st,    "lr"  ], # duplicates
+                 [ "PL-6cC9LXzNm7nMPxNHSxzkEOyixUsTAwM", split_lee,   "lg"  ]]],
+      [ "2019", [[ "PL_QKjHDgmNzrDhscKpNCbMtNYzqg6Srkr", split_t,     "l"   ]]],
+               # [ "PL5Ld68ole7j3GCPJCXNIcOc4KaBfBRGr6", split_t,     "lg"   ]]], # duplicates
+               # [ "PLr3Ro-iL61xZ8-97TWuqUszNVE-gTQd0I", split_t,     "l5"   ]]], # duplicates
+      [ "2020", [[ "PL_QKjHDgmNzp7DA4KIR4qC-bjIVDlYdkk", split_t,     "l"   ]]],
    ]], [ "Going Native", [
       [ "2012", [[ "PLGvfHSgImk4aSCKMmnDl8ZXwL2CY6g8lH", split_st,    "l+"  ]]],
       [ "2013", [[ "PLD0gpuCC5_-kVh4Kvr6DfNJ3cBkxiKw1Q", split_st,    "l+"  ]]],
@@ -1889,6 +2086,7 @@ var search_criteria = [
 
 const show_checkboxes = [ 
    "all", 
+   "title", 
    "thumbnail", 
    "speakers", 
    "details", 
@@ -1909,14 +2107,18 @@ function startup(){
    const queryString = window.location.search
    const urlParams = new URLSearchParams( queryString )
    
-   checked_boxes.show_all = true
+   at_least_one = false
    for( b of show_checkboxes ){
       b = "show_" + b
       if( urlParams.has( b ) ){
          checked_boxes[ b ] = true
          checked_boxes.show_all = false
+         at_least_one = true
       }
    }      
+   if( ! at_least_one ){
+      checked_boxes.show_title = true
+   }   
    
    for( c of selection_criteria ){
       for( tag of window[ c + "s" ] ){
@@ -1946,12 +2148,10 @@ function url_with_parameters(){
    t = ""
    
    for( b of show_checkboxes ){
-      if( b != "all" ){
-         b = "show_" + b
-         if( ( b in checked_boxes ) && ( checked_boxes[ b ] ) ){
-            t = add_parameter( t, b )
-         }
-      }   
+      b = "show_" + b
+      if( ( b in checked_boxes ) && ( checked_boxes[ b ] ) ){
+         t = add_parameter( t, b )
+      }
    }
    
    for( c of selection_criteria ){
@@ -1988,14 +2188,18 @@ function url_with_parameters(){
 // ==========================================================================
 
 function index_of_max_entry( a ){
+   num_max_occurences = 0
    m = -1
    for( key in a ){
-      if( a[ key ] > m ){
+      if( a[ key ] == m ){
+         num_max_occurences += 1
+      } else if( a[ key ] > m ){
+         num_max_occurences = 1
          m = a[ key ]
          k = key
       }  
    }
-   return k   
+   return [ k, num_max_occurences ]
 }   
 
 function rewrite(){
@@ -2079,12 +2283,15 @@ function rewrite(){
    if( total_speakers > 0 ){
       t += total_speakers.toString() + " different speakers; "
       t += "most talks: "
-      name = index_of_max_entry( speaker_count )
-      t += name + " (" 
-      t += Math.round( speaker_count[ name ] ).toString() + "); "
-      name = index_of_max_entry( speaker_minutes )
-      t += "longest total speaking time: " +  name + " (" 
-      t += format_duration( Math.round( speaker_minutes[ name ]) ) + "). "
+      maxi = index_of_max_entry( speaker_count )
+      t += maxi[ 0 ] + " (" 
+      if( maxi[ 1 ] > 1 ){
+         t += "and " + ( maxi[ 1 ] - 1 ).toString() + " others: "
+      }   
+      t += Math.round( speaker_count[ maxi[ 0 ] ] ).toString() + "); "
+      maxi = index_of_max_entry( speaker_minutes )
+      t += "longest total speaking time: " +  maxi[ 0 ] + " (" 
+      t += format_duration( Math.round( speaker_minutes[ maxi[ 0 ] ]) ) + "). "
    }   
    t += "<BR>" + t2
   
@@ -2102,7 +2309,11 @@ function rewrite(){
 // ==========================================================================
 
 function talk_html( talk, thumbnail ){
-   var t = "", details = ""
+   var t = "", title = "", details = ""
+   
+   if( checked_boxes.show_all || checked_boxes.show_title ){
+      title += talk_reference( talk, talk.title ) + "<BR>"
+   }
    
    if( checked_boxes.show_all || checked_boxes.show_speakers ){
       details += talk.speakers.join( ", " ) + "<BR>"
@@ -2123,13 +2334,13 @@ function talk_html( talk, thumbnail ){
       t += "<table><tr><td>"
       t += talk_reference( talk, talk_thumbnail( talk ))
       t += "</td><td>"
-      t += talk_reference( talk, talk.title ) + "<BR>"
+      t += title
       t += details
       t += "</td></tr></table>"
    } else {
-      t += talk_reference( talk, talk.title ) + "<BR>"
+      t += title
       if( details != "" ){
-         t += "<TABLE><TR><TD> </TD><TD>" + d + "<TD></TABLE>"
+         t += "<TABLE><TR><TD> </TD><TD>" + details + "<TD></TABLE>"
       }   
    }
     
@@ -2262,7 +2473,7 @@ function include_talk( talk ){
          if( [ "speaker" ].includes( c ) ) suffix = "s" 
          m = talk[ c + suffix ]         
          if( [ "speaker" ].includes( c ) ) m = m.join( " , " )
-         if( m.toLowerCase().search( s ) > -1 ){
+         if( m.toLowerCase().indexOf( s ) > -1 ){
             sub_use = true
          }   
          use = use && sub_use
@@ -2287,8 +2498,8 @@ additional_tags = {
    "OQgFEkgKx2s" : "naming quality",
    "VN0VNoykxtk" : "units",
    "2Yu8qYFS2R0" : "random",
-   "" : "",
-   "" : "",
+   "wvtFGa6XJDU" : "quality",
+   "rNNnPrMHsAA" : "ub",
    "" : "",
    "" : "",
    "" : "",
