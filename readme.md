@@ -24,7 +24,7 @@ If you create you own interface, let me know!
 
 ## Conferences
 
-Conferences I included so far are:
+Conferences I included (so far) are:
 - accu 2016-2021
 - BoostCon 2010-2011
 - C++ Day 2020
