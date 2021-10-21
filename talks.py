@@ -1803,7 +1803,7 @@ excluded_talks = [
    "VCcSkImcEk0",
    "01 Welcome to the Perl devroom! Claudio Ramirez, Wendy G A  van Dijk",
    "ppTmPUapspI",
-   "",
+   "Every Rhymed Talk Intro by Andre Bogus (llogiq) the Rust Bard",
    "",
    "",
 ]   
