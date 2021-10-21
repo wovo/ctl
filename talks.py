@@ -40,6 +40,8 @@
 # If you're arguing, you're losing
 # the paradox of the useless fence - (When Should You Give Two Things the Same Name?)
 # CppCon 2015: Piotr Padlewski "C++ WAT"
+# The S in IoT is for security and the P is for privacy.
+# "What one programmer can do in one month, two programmers can do in two months." - Fred Brooks
 #
 # tutorials
 # ======================================================
@@ -106,9 +108,9 @@ replacements = {
    '\u200b': "",
    '\u2212': "-",
    '\u0391': "A",
-   "x": "x",
-   "x": "x",
-   "x": "x",
+   "è": "e",
+   "ê": "e",
+   "ę": "e",
    "x": "x",
    "x": "x",
    "x": "x",
@@ -214,7 +216,7 @@ class talk:
          language    : str
    ):
       self.number      = number
-      self.identifier  = identifier.strip()
+      self.identifier  = identifier.strip().replace( " ", "-" )
       self.meeting     = meeting.strip()
       self.edition     = edition.strip()
       self.title       = title.strip()
@@ -748,6 +750,34 @@ must_total_replace = [
         "Light$remove$ning Ta$remove$lks Lightning Talks" ],    
    [ "Traits Go Mainstream...  Leor Zolman - [ CppCon 2015 ]",
         "Traits Go Mainstream... - Leor Zolman - [ CppCon 2015 ]" ],    
+   [ "[Kernel System] Conjuguer modeles ouverts et propriete intellectuelle dans l'embarque",
+        "[Kernel System] Conjuguer modeles ouverts et propriete intellectuelle dans l'embarque [FRE] " ],    
+   [ "[Miscellaneous] Conan, le gestionnaire de paquets C/C++",
+        "[Miscellaneous] Conan, le gestionnaire de paquets C/C++ [FRE] " ],    
+   [ "Activities of Super Long Term Support Kernel Workgroup in Civil Infrastructure... SZ Lin (林上智)",
+        "Activities of Super Long Term Support Kernel Workgroup in Civil Infrastructure... SZ Lin" ],    
+   [ "Adopting Linux on BMW - The Long Road to Integrate Linux as Mainline Platform",
+        "Adopting Linux on BMW - The Long Road to Integrate Linux as Mainline Platform - Helio Chissini de Castro" ],    
+   [ "Community Transformation - Enable Scalable Onboarding through Data Driven Initiative",
+        "Community Transformation : Enable Scalable Onboarding through Data Driven Initiative" ],    
+   [ "If You Can't Measure It, You Can't Manage It - How to Assess Project Health",
+        "If You Can't Measure It, You Can't Manage It : How to Assess Project Health" ],    
+   [ "Open Source and ISO Standards - How OpenChain Became The International Standard for Compliance",
+        "Open Source and ISO Standards : How OpenChain Became The International Standard for Compliance" ],    
+   [ "Open Source Mindset to Mindflex - How Flexing Perceptions of OSS Can Change the World",
+        "Open Source Mindset to Mindflex : How Flexing Perceptions of OSS Can Change the World" ],    
+   [ "Public Money? Public Code! - What Role does Free Software Play after the Corona Crisis?",
+        "Public Money? Public Code! What Role does Free Software Play after the Corona Crisis?" ],    
+   [ "Threat Modelling - Key Methodologies and Applications from OSS CIP Perspective",
+        "Threat Modelling : Key Methodologies and Applications from OSS CIP Perspective" ],    
+   [ "Upstream First is Our Principle - Toward Super Long-Term Support",
+        "Upstream First is Our Principle : Toward Super Long-Term Support" ],    
+   [ "Journey to the Test - Experiences in Getting Serious About Testing Apache Traffic Server",
+        "Journey to the Test : Experiences in Getting Serious About Testing Apache Traffic Server" ],    
+   [ "Software in Space - What Can Everyday Developers and Managers Learn from Space Missions?",
+        "Software in Space : What Can Everyday Developers and Managers Learn from Space Missions?" ],    
+   [ "",
+        "" ],    
    [ "",
         "" ],    
    [ "",
@@ -1014,6 +1044,14 @@ speaker_replacements = [
    [ "Juan Pedro Bolivar",           "Juan Pedro Bolivar Puente" ],
    [ "Jorge Manuel B. S.",           "Jorge Manuel Vicetto" ],
    [ "Jorge Manuel B. S. Vicetto",   "Jorge Manuel Vicetto" ],
+   [ "Dr. Rumman Chowdhury",         "Rumman Chowdhury" ],
+   [ "Bernhard 'Bero' Rosenkranzer", "Bernhard Rosenkranzer" ],
+   [ "Gilad Ben Yossef",             "Gilad Ben-Yossef" ],
+   [ "",                             "" ],
+   [ "",                             "" ],
+   [ "",                             "" ],
+   [ "",                             "" ],
+   [ "",                             "" ],
    [ "",                             "" ],
    [ "",                             "" ],
    [ "",                             "" ],
@@ -1297,6 +1335,30 @@ def split_tos( meeting, edition, s ):
    
 # ===========================================================================
 
+def split_tsj( meeting, edition, s ):   
+   # title - speakers, other stuff
+   # sometimes - in the title
+   # sometimes no speakers
+   # somtimes title... speakers
+   # times OSS+ELC Europe 2020 - s Day 
+   
+   if s.find( " - " ) < 0:
+      s = s.replace( "...", " - " )
+      
+   if s.replace( " ", "" ).replace( "Europe", "" ). \
+    replace( "2020", "" ).startswith( "OSS+ELC-s" ):
+      title, speakers = s.replace( " - s", " - Keynotes" ), ""
+   elif s.find( " - " ) < 0:
+      title, speakers = s, ""
+   else:   
+      title, speakers = s.rsplit( " - ", 1 )
+      speakers = speakers.split( "," )[ 0 ].strip()
+      
+   return speakers, title
+
+   
+# ===========================================================================
+
 def lowercase_remove_spaces( s ):
    return s.lower().replace( " ", "" )
 
@@ -1525,6 +1587,7 @@ def split_speakers_and_title( meeting, edition, s, splitter ):
       speakers = a
       title += " (PART %s)" % b.strip()
   
+   speakers = speakers.replace( ";", "," )
    speakers = speakers.replace( "&", "," )
    speakers = speakers.replace( " and ", "," )
    speakers = list( map( sanitize_speaker, speakers.split( "," )))
@@ -1677,8 +1740,8 @@ def add_talk(
          tags.append( t )   
       
    global_talk_counter += 1
-   id = "[%04d] %s-%s-%d " % ( global_talk_counter, meeting, edition, nr )
-   print( "%s : %s \"%s\" " % ( id, speakers, title ) )
+   id = "%s-%s-%d " % ( meeting.replace( " ", "-" ).lower(), edition, nr )
+   print( "[%04d] %s : %s \"%s\" " % ( global_talk_counter, id, speakers, title ) )
       
    talks.add( talk(
       number      = None,
@@ -1954,6 +2017,12 @@ playlists = [
                   [ "PLO_1k6dh05Q_0yeJETerhbL6GlHsAt5RQ", split_st,   "l+"  ],   # lightning talks
                   [ "PLO_1k6dh05Q9DDnH9-FFkPFxMmgaypLMu", split_st,   "l+"  ],   # LT 2017
                   [ "PLO_1k6dh05Q8s2KA_9skFZdCN55F0tVyw", split_st,   "l+"  ]]], # LT spring 2018
+   ]], [ "Open Source Summit", [
+      [ "2017", [[ "PLbzoR-pLrL6pISWAq-1cXP4_UZAyRtesk", split_tsj,   "l"  ]]],
+      [ "2019", [[ "PLbzoR-pLrL6pamOj4UifcMJf560Ph6mJp", split_tsj,   "l"  ],   # Lyon
+                 [ "PLbzoR-pLrL6ol7Cf1g_4rsCda23OiLh8d", split_tsj,   "l"  ]]], # NA
+      [ "2020", [[ "PLbzoR-pLrL6rm6j0ZQ5m9niWyrzFJlKLH", split_tsj,   "o"  ],   # Europe
+                 [ "PLbzoR-pLrL6oyIqGsEZdb1E4pWzWn9qOZ", split_tsj,   "o"  ]]], # NA
    ]], [ "Oxidize Global", [
       [ "2020", [[ "PL85XCvVPmGQjbJxpRTopnzCVMUwAKsfB7", split_t,     "ro"  ]]],
    ]], [ "Pacific C++", [ 
@@ -2075,13 +2144,13 @@ var selection_criteria = [
    "meeting", 
    "edition", 
    "language", 
+   "tag", 
    "speaker", 
-   "tag" 
 ]
    
 var search_criteria = [ 
    "title", 
-   "speaker" 
+   "speaker", 
 ]
 
 const show_checkboxes = [ 
@@ -2090,7 +2159,7 @@ const show_checkboxes = [
    "thumbnail", 
    "speakers", 
    "details", 
-   "tags" 
+   "tags", 
 ]
 
 checked_boxes = []
@@ -2320,7 +2389,8 @@ function talk_html( talk, thumbnail ){
    }
    
    if( checked_boxes.show_all || checked_boxes.show_details ){
-      details += "ctl-" + talk.number.toString() + " "
+      //details += "ctl-" + talk.number.toString() + " "
+      details += talk.identifier + " "
       details += talk.meeting + " " + talk.edition + " "
       details += "(" + format_duration( talk.duration ) + ") "
       details += talk.language + "<BR>"
@@ -2357,13 +2427,14 @@ function talk_html( talk, thumbnail ){
 
 function selection_html( name ){
    var t = ""
+   var list = included_talks_attribute_upto( name, name )
    const sel = "select_" + name
    t += checkbox_html( 
-      sel, false, " (" + window[ name + "s" ].length.toString() + ")" )
+      sel, false, " (" + list.length.toString() + ")" )
    
    if( checked_boxes[ sel ] ){
       t += "<table><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;</td><td>"
-      for( c of window[ name + "s" ] ){
+      for( c of list ){
          c = "include_" + c
          t += "   " + checkbox_html( c, false, "" )
       }   
@@ -2445,24 +2516,62 @@ function criterium_html( name ){
 //
 // ==========================================================================
 
+function include_talk_by( talk, c ){
+   use = true
+   if( checked_boxes[ "select_" + c ] ){
+      use = false
+      for( tag of window[ c + "s" ] ){
+         if( checked_boxes[ "include_" + sanitize( tag ) ] ){
+            suffix = ""
+            if( [ "speaker", "tag" ].includes( c ) ) suffix = "s"
+            if( talk[ c + suffix ].includes( tag ) ){
+               use = true
+            }   
+         }   
+      }   
+   }   
+   return use
+}
+
+function include_talk_upto( talk, stop ){
+   for( c of selection_criteria ){
+      if( c == stop ){
+         return true
+      }
+      if( ! include_talk_by( talk, c )){
+         return false
+      }   
+   }   
+   return true
+}
+
+function plural( s ){
+   if( [ "speaker", "tag" ].includes( s ) ){
+      s += "s"
+   }
+   return s;   
+}
+
+function included_talks_attribute_upto( a, c ){
+   list = []
+   for( talk of talks ){
+      if( include_talk_upto( talk, c ) ){
+         x = talk[ plural( a ) ]
+         if( a == plural( a ) ){ x = [ x ]; }
+         for( y of x ){
+            if( ! list.includes( y ) ){
+               list.push( y )
+            }   
+         }   
+      }   
+   }
+   return list
+}
+
 function include_talk( talk ){
    use = true
    
-   for( c of selection_criteria ){
-      if( checked_boxes[ "select_" + c ] ){
-         sub_use = false
-         for( tag of window[ c + "s" ] ){
-            if( checked_boxes[ "include_" + sanitize( tag ) ] ){
-               var suffix = ""
-               if( [ "speaker", "tag" ].includes( c ) ) suffix = "s"
-               if( talk[ c + suffix ].includes( tag ) ){
-                  sub_use = true
-               }   
-            }   
-         }   
-         use = use && sub_use
-      }   
-   }
+   use = use && include_talk_upto( talk, "" )
    
    for( c of search_criteria ){
       const sel = "match_" + c
@@ -2500,7 +2609,7 @@ additional_tags = {
    "2Yu8qYFS2R0" : "random",
    "wvtFGa6XJDU" : "quality",
    "rNNnPrMHsAA" : "ub",
-   "" : "",
+   "KtMbQ-hg8vM" : "c++",
    "" : "",
    "" : "",
    "" : "",

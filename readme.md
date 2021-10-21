@@ -44,6 +44,7 @@ Conferences I included so far are:
 - Meeting C++ 2014-2020, online
 - Meeting Embedded 2018-2020
 - MUC++
+- Open Source Summit 2018, 2020
 - Oxidize Global 2020
 - Pacific C++ 2017-2018
 - RustConf 2019-2021
