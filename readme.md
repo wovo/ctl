@@ -36,6 +36,7 @@ Conferences I included so far are:
 - Core C++ 2019-2021
 - corehard 2015-2019 (the english talks)
 - CppCon 2014-2020
+- emBO++ 2018-2021
 - FOSDEM 2010-2020 (the playlist are far from complete)
 - Going Native 2012-2013
 - GOTO Amsterdam,Berlin,Copenhagen,Chicago,pia 2018-2020

@@ -31,6 +31,7 @@
 # maybe not capitalize meetings?
 # https://www.youtube.com/c/EevblogDave/playlists 
 # only show 'most talks' when not ex equo
+# cppcast, like https://www.youtube.com/playlist?list=PL4Vigs1cksAYAVOKe3M1tRcDh4umLxIiX
 #
 # Great titles and phrases: (add random phrase display?)
 # ======================================================
@@ -776,8 +777,8 @@ must_total_replace = [
         "Journey to the Test : Experiences in Getting Serious About Testing Apache Traffic Server" ],    
    [ "Software in Space - What Can Everyday Developers and Managers Learn from Space Missions?",
         "Software in Space : What Can Everyday Developers and Managers Learn from Space Missions?" ],    
-   [ "",
-        "" ],    
+   [ "emBO++ 2020 - Odin Holmes: Keynote 2020",
+        "emBO++ 2020 - Odin Holmes: Keynote About Libraries" ],    
    [ "",
         "" ],    
    [ "",
@@ -1047,7 +1048,7 @@ speaker_replacements = [
    [ "Dr. Rumman Chowdhury",         "Rumman Chowdhury" ],
    [ "Bernhard 'Bero' Rosenkranzer", "Bernhard Rosenkranzer" ],
    [ "Gilad Ben Yossef",             "Gilad Ben-Yossef" ],
-   [ "",                             "" ],
+   [ "Dr. Marius Feilhauer",         "Marius Feilhauer" ],
    [ "",                             "" ],
    [ "",                             "" ],
    [ "",                             "" ],
@@ -1552,6 +1553,15 @@ def split_speakers_and_title( meeting, edition, s, splitter ):
       "FOSDEM 2017 - ",
       "FOSDEM 2017: ",
       "FOSDEM - ",
+      "emBO++ 2019 - ",
+      "emBO++ 2020 - ",
+      "emBO++ 21 - ",
+      "embo ++ 21",
+      "emBO++ 21",
+      "embo++ 21",
+      "embo21++",
+      "emBO++ 2020",
+      "emBO++ 2018 -",
       "2013 :",
       "2013 ", # C++Now
       "2016", # also C++Now
@@ -1804,6 +1814,12 @@ excluded_talks = [
    "01 Welcome to the Perl devroom! Claudio Ramirez, Wendy G A  van Dijk",
    "ppTmPUapspI",
    "Every Rhymed Talk Intro by Andre Bogus (llogiq) the Rust Bard",
+   "emBO++ 2020 Aftermovie",
+   "",
+   "",
+   "",
+   "",
+   "",
    "",
    "",
 ]   
@@ -1943,6 +1959,11 @@ playlists = [
       [ "2020", [[ "PLHTh1InhhwT6VxYHtoWIvOup9gz0p95Qr", split_ts,    "o+"  ]]],
    ]], [ "CPPP", [ 
       # no playlist
+   ]], [ "embo++", [ 
+      [ "2018", [[ "PLIXq8kws1BI1Ff2pLc03aVj3MgKEV0RRL", split_st,    "le+"  ]]],
+      [ "2019", [[ "PLIXq8kws1BI0DphR20fuG7n07F0DVM8VA", split_st,    "le+"  ]]],
+      [ "2020", [[ "PLIXq8kws1BI36WI541w4gSuKA98ku5gJZ", split_st,    "le+"  ]]],
+      [ "2021", [[ "PLIXq8kws1BI13bcTWNriKzirk5ayZehzT", split_st,    "oe+"  ]]],
    ]], [ "FOSDEM", [
       [ "2010", [[ "PLE2E70FE7B03D2FD0",                 split_lee,   "l"   ]]],
       [ "2011", [[ "PLD53AE1C197602E09",                 split_lee,   "l"   ],
@@ -2559,12 +2580,15 @@ function included_talks_attribute_upto( a, c ){
          x = talk[ plural( a ) ]
          if( a == plural( a ) ){ x = [ x ]; }
          for( y of x ){
-            if( ! list.includes( y ) ){
+            if( ( y != "" ) && ! list.includes( y ) ){
                list.push( y )
             }   
          }   
       }   
    }
+   list.sort(
+      (a, b) => a.localeCompare(b, undefined, {sensitivity: 'base'})
+   )
    return list
 }
 
