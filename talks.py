@@ -19,19 +19,19 @@
 #
 # notes & todo:
 # =============
-# talk nr is sometimes 'wrong'
-# show both ctl- and meeting-edition-nr
 # cleanup 'ignores' list (generate)
 # python cleanup
-# full regeneration now takes ~ 1:38, and sometimes a failure: cache things?
+# full regeneration now takes ~ 1:51, and sometimes a failure: cache things?
 # log all prints to a log file?
-# embo++, ADC++ (no playlists?)
+# ADC++ (no playlists?)
 # Meetup Modena/Online 2021 - all italian?
 # javascript: try first write only the fixed text, then full rewrite                             
 # maybe not capitalize meetings?
 # https://www.youtube.com/c/EevblogDave/playlists 
-# only show 'most talks' when not ex equo
 # cppcast, like https://www.youtube.com/playlist?list=PL4Vigs1cksAYAVOKe3M1tRcDh4umLxIiX
+# https://hackingcpp.com/cpp/community.html
+# isocpp.org/wiki/faq/user-groups-worldwide - cheked t/m canada
+# things are getting sloooow
 #
 # Great titles and phrases: (add random phrase display?)
 # ======================================================
@@ -100,19 +100,18 @@ replacements = {
    "≤": "=<",     "Ó": "O",      "⬆️": "^",      "È": "E",      "ì": "i",
    "→": "->",     "λ": "lambda", "ï": "i",      "ò": "o",      "∞": "lemniscate",
    "𝐂": "C",      "á": "a",      "́": "",        "æ": "ae",     "➠": "",
-   "\u0308": "",  "à": "a",      "🤖": "",      "ø": "o",      "å": "a",      
+   "\u0308": "",  "à": "a",      "🤖": "",      "ø": "o",      "🙂": "[Smile]",    
    "â": "a",      "û": "u",      "\t": " ",     "❯": ">",      "❮": "<",      
-   "≡": "==",     "💻": "[PC]",  "🙂": "[Smile]",     "🎨": "[Palette]", 
-   "Æ": "AE",
-   "♥": "[love]",
-   "…": "...",
-   '\u200b': "",
-   '\u2212': "-",
+   "≡": "==",     "💻": "[PC]",  "å": "a",      "ņ": "n",      "🎨": "[Palette]", 
+   "è": "e",      "ê": "e",      "ę": "e",      "ā": "a",      "Ø": "{nothing}",
+   "Æ": "AE",     "…": "...",    "♥": "[love]", '\u200b': "",  '\u2212': "-",
    '\u0391': "A",
-   "è": "e",
-   "ê": "e",
-   "ę": "e",
-   "Ø": "{nothing}",
+   "Ś": "S",
+   "Ż": "Z",
+   "ô": "o",
+   "x": "x",
+   "x": "x",
+   "x": "x",
    "x": "x",
    "x": "x",
    "x": "x",
@@ -779,6 +778,16 @@ must_total_replace = [
         "Software in Space : What Can Everyday Developers and Managers Learn from Space Missions?" ],    
    [ "emBO++ 2020 - Odin Holmes: Keynote 2020",
         "emBO++ 2020 - Odin Holmes: Keynote About Libraries" ],    
+   [ "Practical intelligence-driven defense - Lecture by Ivanow (...) - Code Europe Autumn 2017",
+        "Practical intelligence-driven defense - Lecture by Gawel Mikolajczyk, Igor Ivanov, Daniil Yugoslavskiy  - Code Europe Autumn 2017" ],    
+   [ "CppCon 2017: Siddharth Gupta - Fantastic Four, The Invisible 'Features'",
+        "CppCon 2017: Siddharth Gupta 'Fantastic Four, The Invisible Features'" ],    
+   [ "Making sense of terrible template errors with 'camomilla' - Vittorio Romeo - CppCon 2019",
+        "Making sense of terrible template errors with camomilla - Vittorio Romeo - CppCon 2019" ],    
+   [ "",
+        "" ],    
+   [ "",
+        "" ],    
    [ "",
         "" ],    
    [ "",
@@ -814,6 +823,8 @@ def sanitize_raw_title( s, meeting, edition ):
    # would give problem with a ' delimited talk title
    s = s.replace( "O'Dwyer",  "ODwyer" )
    s = s.replace( "D'Angelo", "DAngelo" )
+   s = s.replace( "O'Neal",   "ONeal" )
+   s = s.replace( "Paul 'TBBle' Hampson", "Paul Hampson" )
    
    # naughty boy, especially the two '
    s = s.replace( "Nevin ':-)' Liber", "Nevin Liber" )   
@@ -823,8 +834,7 @@ def sanitize_raw_title( s, meeting, edition ):
       s = "CppCon 2019: JeanHeyd Meneide 'Catch [^]: Unicode for C++23'"
    if s.startswith( "Confessions of a Serial K-otlin Multiplatform-er" ):
       s = "Confessions of a Serial K–otlin Multiplatform–er __just don’t EXPECT too much__"
-      
-   
+     
    # hopeless cases
    # do this first, so the matches are not affected by 
    # changes in later manipulations (like remove noise)
@@ -1033,7 +1043,6 @@ speaker_replacements = [
    [ "C. Hees",                      "Christiaan Hees" ],
    [ "L. Boonstra",                  "Lee Boonstra" ],
    [ "M. Feigal",                    "Matt Feigal" ],
-   [ "Sir Tim Berners-Lee",          "Tim Berners-Lee" ],
    [ "Tjeerd In't Veen",             "Tjeerd in 't Veen" ],
    [ "D. Mitrovic",                  "Dejan Mitrovic" ],
    [ "jam1garner",                   "Jam Garner" ],
@@ -1048,7 +1057,14 @@ speaker_replacements = [
    [ "Dr. Rumman Chowdhury",         "Rumman Chowdhury" ],
    [ "Bernhard 'Bero' Rosenkranzer", "Bernhard Rosenkranzer" ],
    [ "Gilad Ben Yossef",             "Gilad Ben-Yossef" ],
-   [ "Dr. Marius Feilhauer",         "Marius Feilhauer" ],
+   [ "T.Skowronski",                 "T. Skowronski" ],
+   [ "A.Janusz",                     "A. Janusz" ],
+   [ "D.Deogun",                     "D. Deogun" ],
+   [ "M.Dyminski",                   "Mateusz Dyminski" ],
+   [ "T. Winters",                   "Titus Winters" ],
+   [ "Stephan T. Lavavej",           "Stephan Lavavej" ],
+   [ "Billy ONeal",                  "Billy O'Neal" ],
+   [ "",                             "" ],
    [ "",                             "" ],
    [ "",                             "" ],
    [ "",                             "" ],
@@ -1069,7 +1085,11 @@ def sanitize_speaker( s ):
       ":", 
       "@code_report", "@", 
       "'s", "- ", 
-      "Moderator" 
+      "Moderator",
+      "lecture by",
+      "by",
+      "Dr.",
+      "Sir",
    ]:
       s = s.replace( a, "" ).strip()
    if s.endswith( "-" ): s = s[ : -1 ].strip()
@@ -1287,6 +1307,19 @@ def split_lee( meeting, edition, s ):
    
 # ===========================================================================
 
+def split_jst( meeting, edition, s ):   
+   # [junk] speakers : title
+   print( "   split_jst [%s]" % s )
+   
+   if s.startswith( "[" ) and ( s.find( "]" ) > 0 ):
+      s = s.split( "]" )[ 1 ]
+   speakers, title = s.split( ":", 1 )
+   
+   return speakers, title
+
+   
+# ===========================================================================
+
 def split_interview( meeting, edition, s ):   
    # interviewee
    print( "   split_interview [%s]" % s )
@@ -1475,6 +1508,7 @@ def split_speakers_and_title( meeting, edition, s, splitter ):
       "[ CppCon 2015 ]",
       "[CppCon 2015]",
       "[ CppCon 2016 ]",
+      "[CppCon 2016]",
       "[ CppCon 2017 ]",
       "CppCon 2017",
       "[CppCon 2018]",
@@ -1562,6 +1596,15 @@ def split_speakers_and_title( meeting, edition, s, splitter ):
       "embo21++",
       "emBO++ 2020",
       "emBO++ 2018 -",
+      " [Meetup C++]",
+      "(2018-06-27)",
+      "- Code Europe Autumn 2016",
+      "- Code Europe Spring 2017",
+      "-  Code Europe Spring 2017",
+      "- Code Europe Autumn 2017",
+      "- Code Europe Spring 201",
+      "- Code Europe Spring 20",
+      "- Code Europe",
       "2013 :",
       "2013 ", # C++Now
       "2016", # also C++Now
@@ -1751,7 +1794,7 @@ def add_talk(
       
    global_talk_counter += 1
    id = "%s-%s-%d " % ( meeting.replace( " ", "-" ).lower(), edition, nr )
-   print( "[%04d] %s : %s \"%s\" " % ( global_talk_counter, id, speakers, title ) )
+   print( "[%05d] %s : %s \"%s\" " % ( global_talk_counter, id, speakers, title ) )
       
    talks.add( talk(
       number      = None,
@@ -1815,7 +1858,7 @@ excluded_talks = [
    "ppTmPUapspI",
    "Every Rhymed Talk Intro by Andre Bogus (llogiq) the Rust Bard",
    "emBO++ 2020 Aftermovie",
-   "",
+   "Code Europe III Edition Autumn 2017 Aftermovie",
    "",
    "",
    "",
@@ -1883,6 +1926,10 @@ playlists = [
                  [ "PL5XXu3X6L7jvWwbkUgMyGpA6VyqGrHbdv", split_ts,    "o"  ],
                  [ "PL5XXu3X6L7jvWwbkUgMyGpA6VyqGrHbdv", split_ts,    "o"  ],
                  [ "PL5XXu3X6L7juIhIykfhFmjyl4D5Tvjvdh", split_ts,    "o"  ]]],
+   ]], [ "Dutch C++ Group", [ 
+      [ "",     [[ "PLJ8qy7OeQ8LQ3dgDOGAGDXBKvh0UItjE6", split_jst,   "l+"  ]]],
+   ]], [ "Avast C++ Meetup", [ 
+      [ "",     [[ "PLcx5OZDrH5tv9Bz9VGYV7fQCUkOTixOVl", split_st,    "l+"  ]]],
    ]], [ "BoostCon", [ 
       [ "2010", [[ "PL_AKIMJc4roVg67uMOpzEpsYTolMvhxho", split_st,    "l+"  ]]],
       [ "2011", [[ "PL_AKIMJc4roWHqe9Wt6AwYS6rpE2P0Rqh", split_st,    "l+"  ]]],
@@ -1927,6 +1974,10 @@ playlists = [
       [ "2018", [[ "PLK3T2dt6T1fd6PILMU2lg7K6pWnUKl34S", split_ts,    "l"   ]]],
       [ "2019", [[ "PLK3T2dt6T1fd65u8sx01jRrp9aVquXIpN", split_ts,    "l"   ]]],
       [ "2020", [[ "PLK3T2dt6T1feBLbwORz3dBdCylfe0lBlR", split_ts,    "o"   ]]],
+   ]], [ "Code Europe", [ 
+      [ "2016", [[ "PLC4RM9NjfgabDo2nuTMdLPNZjcNYYHFwy", split_ts,    "l"   ]]],
+      [ "2017", [[ "PLC4RM9NjfgaZ4nUCV5U4Qnabs0NN5UoDf", split_ts,    "l"   ]]],
+      [ "2018", [[ "PLC4RM9NjfgabQKoFmgjEst9hM-h1g6lRF", split_ts,    "l"   ]]],
    ]], [ "Core C++", [ 
       [ "2019", [[ "PLn4wYlDYx4bszUM8uUJi55czMYuilXfaR", split_cc,    "l+"  ]]],
       [ "2021", [[ "PLn4wYlDYx4bt5jDwyOleg6J4kTtAu2rU5", split_cc,    "l+"  ]]],
