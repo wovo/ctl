@@ -21,7 +21,7 @@
 # =============
 # cleanup 'ignores' list (generate)
 # python cleanup
-# full regeneration now takes ~ 1:51, and sometimes a failure: cache things?
+# full regeneration now takes ~ 1:51, and sometimes a fails: cache things?
 # log all prints to a log file?
 # ADC++ (no playlists?)
 # Meetup Modena/Online 2021 - all italian?
@@ -30,31 +30,18 @@
 # https://www.youtube.com/c/EevblogDave/playlists 
 # cppcast, like https://www.youtube.com/playlist?list=PL4Vigs1cksAYAVOKe3M1tRcDh4umLxIiX
 # https://hackingcpp.com/cpp/community.html
-# isocpp.org/wiki/faq/user-groups-worldwide - checked t/m canada
-# things are getting sloooow
+# isocpp.org/wiki/faq/user-groups-worldwide - checked t/m canada, no playlists found
+# the GUI os getting sloooow
 # some code europe talks are in ? polish
 # SpringOne Platform has playlists, ~200 each
 # check https://www.aristeia.com/presentations.html
 # check https://andreasfertig.info/talks/
-#
-# Great titles and phrases: (add random phrase display?)
-# ======================================================
-# War is Peace, Freedom is Slavery, Ignorance is Strength, Scrum is Agile (Allen Holub)
-# the agile-industrial complex (Allen Holub?)
-# Errors are just conditions we refuse to take seriously (Michael Feathers)
-# If you're arguing, you're losing
-# the paradox of the useless fence - (When Should You Give Two Things the Same Name?)
-# CppCon 2015: Piotr Padlewski "C++ WAT"
-# The S in IoT is for security and the P is for privacy.
-# "What one programmer can do in one month, two programmers can do in two months." - Fred Brooks
 #
 # tutorials
 # ======================================================
 # https://www.youtube.com/playlist?list=PLrjkTql3jnm-Voi7giH4JITCi6cuZSN42 OOPS in C++ (Indian accent)
 # https://www.youtube.com/playlist?list=PL_c9BZzLwBRJVJsIfe97ey45V4LP_HXiG - caleb curry
 # https://www.youtube.com/playlist?list=PLIY8eNdw5tW_o8gsLqNBu8gmScCAqKm2Q simple snippets
-# https://www.youtube.com/playlist?list=PLHxtyCq_WDLXryyw91lahwdtpZsmo4BGD stepanov
-# https://www.youtube.com/playlist?list=PLnE6dhNYoLZ6Y8k8l4fRz3lk-K6fAp5-K lavavej
 # https://www.youtube.com/playlist?list=PLbHYdvrWBMxazo1_B6vhW9gpd1wlkdeEW seng 745
 # https://www.youtube.com/channel/UCA2YOQHuWzVn1TWmlK5XYxA?app=desktop codearchery
 # 
@@ -66,7 +53,8 @@
 #
 # ===========================================================================
 
-import sys, glob, os, json, urllib.request, re, pytube, pafy, datetime, time
+import sys, glob, os, json, urllib.request
+import functools, re, pytube, pafy, datetime, time
 
 def time_in_minutes( time ):
    # from https://stackoverflow.com/questions/10663720
@@ -380,6 +368,9 @@ class talks:
       t = javascript_code.replace( "<generated>", t )
       t = t.replace( "<date-and-time>", \
          datetime.datetime.now().strftime("%Y-%m-%d, %H:%M:%S") )
+      t = t.replace( "<quotes>", "quotes = [\n%s ]\n" % \
+         functools.reduce( lambda a, b: a + b, 
+            map( lambda s: '   "%s",\n' % s, quotes )))
       write_to_file( "docs/index.html", t )
 
 
@@ -1370,6 +1361,19 @@ def split_t( meeting, edition, s ):
       s += split[ 1 ]   
       return "Cave (John)", s
    
+   if meeting == "Lavavej's Core C++":
+      split = s.split( ", ", 2 )
+      split2 = split[ 1 ].split( " ", 1 )
+      s = "Stephan T. Lavavej's Core C++ %2d of n" % int( split2[ 0 ] )
+      return "Stephan T. Lavavej", s
+      
+   if meeting == "Efficient programming with components":
+      if s.find( "Lecture" ) > -1:
+          split = s.rsplit( " ", 3 )
+          s = "%s %2d %s" % ( split[ 0 ], int( split[ 1 ] ), split[ 2 ] )
+      return "Alexander Stepanov", s
+         
+   
    return "", s
 
    
@@ -2038,6 +2042,8 @@ playlists = [
       # no playlist
    ]], [ "Dutch C++ Group", [ 
       [ "",     [[ "PLJ8qy7OeQ8LQ3dgDOGAGDXBKvh0UItjE6", split_jst,   "l+"  ]]],
+   ]], [ "Efficient programming with components", [ 
+      [ "",     [[ "PLHxtyCq_WDLXryyw91lahwdtpZsmo4BGD", split_t,     "lt+"  ]]],
    ]], [ "emBo++", [ 
       [ "2018", [[ "PLIXq8kws1BI1Ff2pLc03aVj3MgKEV0RRL", split_st,    "le+"  ]]],
       [ "2019", [[ "PLIXq8kws1BI0DphR20fuG7n07F0DVM8VA", split_st,    "le+"  ]]],
@@ -2095,6 +2101,8 @@ playlists = [
    ]], [ "ItCppCon", [ 
       [ "2020", [[ "PLsCm1Hs016LWIjOrEftUA42ZwxsF30vZB", split_par,   "o+"  ]]],
       [ "2021", [[ "PLsCm1Hs016LV9BRKIqrNWEXfa5ggpiyki", split_par,   "o+"  ]]],
+   ]], [ "Lavavej's Core C++", [ 
+      [ "2020", [[ "PLnE6dhNYoLZ6Y8k8l4fRz3lk-K6fAp5-K", split_t,   "o+t" ]]],
    ]], [ "Live Embedded Event", [
       [ "2020", [[ "PLn7YTy5_SF4_1ZLsQ29ZGpjZo7aNoLBIt", split_lee,   "oe"  ]]],
       [ "2021", [[ "PLn7YTy5_SF4-FRyY-5zwsKuTCOBRUkY_h", split_lee,   "oe"  ]]],
@@ -2231,6 +2239,10 @@ function sanitize( s ){
 function cap_first_letter( s ){
    return s.charAt(0).toUpperCase() + s.slice(1)
 }   
+
+function randomIntFromInterval(min, max) { // min and max included 
+  return Math.floor(Math.random() * (max - min + 1) + min)
+}
 
 
 // ==========================================================================
@@ -2397,6 +2409,9 @@ function rewrite(){
    t += "</TD></TR><TABLE>"
    t += "<HR>"
    
+   r = randomIntFromInterval( 0, quotes.length - 1 )
+   t += quotes[ r ] + "<HR>"
+   
    // the checkboxes for meetings, editions, etc.
    t += "Select a specific<BR>"
    for( c of selection_criteria ){
@@ -2522,7 +2537,7 @@ function talk_html( talk, thumbnail ){
 
 // ==========================================================================
 //
-// a selection, with (when selected) 
+// a selection, with (when selected), 
 // the list of options within that sections
 //
 // ==========================================================================
@@ -2697,6 +2712,8 @@ function include_talk( talk ){
    return use   
 }
 
+<quotes>
+
 // === copy-back last line ==================================================
 
 
@@ -2722,6 +2739,165 @@ additional_tags = {
    "" : "",
    "" : "",
 }
+
+quotes = [
+   "Any fool can write code that a computer can understand. Good "
+      "programmers write code that humans can understand. (Martin Fowler)",
+   "War is Peace, Freedom is Slavery, Ignorance is Strength, "
+      "Scrum is Agile (Allen Holub)",
+   "the agile-industrial complex (Allen Holub?)",
+   "Errors are just conditions we refuse to take seriously (Michael Feathers)",
+   "If you're arguing, you're losing",
+   "the paradox of the useless fence (Chesterton)",
+   "The S in IoT is for security and the P is for privacy.",
+   "What one programmer can do in one month, "
+      "two programmers can do in two months. (Fred Brooks)",
+   "It is not enough for code to work. (Robert C. Martin)",
+   "Clean code always looks like it was written by someone who cares "
+      "(Michael Feathers)",  
+   "The question of whether computers can think is like the question "
+      "of whether submarines can swim. (Edsger Dijkstra)",
+   "Programming is a race between software engineers striving to build bigger "
+      "and better idiot-proof programs, and the Universe trying to produce bigger "
+      "and better idiots. So far, the Universe is winning. (Rick Cook)",
+   "Always code as if the person who ends up maintaining your code will "
+      "be a violent psychopath who knows where you live. (John F. Woods)",
+   "If debugging is the process of removing bugs, then programming must "
+      "be the process of putting them in.",
+   "Program testing can be used to show the presence of bugs, "
+      "but never to show their absence! (Edsger Dijkstra)",
+   "99 little bugs in the code. 99 little bugs in the code. Take one down, "
+      "patch it around. 127 little bugs in the code ...",
+   "No code has zero defects.",
+
+   "Measuring programming progress by lines of code is like measuring "
+      "aircraft building progress by weight. (Bill Gates)",
+   "Walking on water and developing software from a specification "
+      "are easy if both are frozen. (Edward V Berard)",
+   "There are only two kinds of programming languages out there. The ones "
+      "people complain about and the ones no one uses. (Bjarne Stroustrup)",
+   "C makes it easy to shoot yourself in the foot; C++ makes it harder, but "
+      "when you do, it blows your whole leg off. (Bjarne Stroustrup)",
+   "The evolution of languages: FORTRAN is a non-typed language. "
+      "C is a weakly typed language. Ada is a strongly typed language. "
+      "C++ is a strongly hyped language. (Ron Sercely)",
+   "C++: an octopus made by nailing extra legs onto a dog. (Steve Taylor)",
+   "Without C we only have Obol, Pasal, and BASI.",
+   "What’s the object-oriented way to get wealthy? Inheritance.",
+   "If you put a million monkeys at a million keyboards, one of them will "
+      "eventually write a Java program. The rest of them will "
+      "write Perl programs. ()",
+   "There’s no obfuscated Perl contest because it’s pointless. (Jeff Polk)",
+   "If Java had true garbage collection, most programs would delete "
+      "themselves upon execution.",
+   "Russian roulette: [ $[ $RANDOM % 6 ] == 0 ] && rm -rf / || echo *Click*",
+   "There are only two hard things in computer science: "
+      "cache invalidation and naming things. (Phil Karlton) ",
+   "There are only two hard problems in distributed systems:  "
+      "2. Exactly-once delivery 1. Guaranteed order of messages "
+      "2. Exactly-once delivery",
+   "Keyboard Failure. Press F1 to continue.",
+   "There’s no place like 127.0.0.1.",
+   "I have not failed. I’ve just found 10,000 ways that won’t work. "
+      "(Thomas Edison)",
+   "In theory there is no difference between theory and practice - "
+      "in practice there is. (Yogi Berra)",
+   "Software gets slower faster than hardware gets faster. (Niklaus Wirth)",
+   "Good code is its own best documentation. (Steve McConnell)",
+   "Adding manpower to a late software project makes it later. "
+      "(Fred Brooks)",
+   "If you think good architecture is expensive, try bad architecture. "
+      "(Brian Foote)",
+   "The cheapest, fastest, and most reliable components are those "
+      "that aren't there. (Gordon Bell)",
+   "When someone says, 'I want a programming language in which I need "
+      "only say what I want done' give him a lollipop. (Alan Perlis)",
+   "Code reuse is the Holy Grail of Software Engineering. "
+      "(Douglas Crockford)",
+   "Nine people can't make a baby in a month. (Fred Brooks)",
+   "It's better to wait for a productive programmer to become available "
+      "than it is to wait for the first available programmer "
+      "to become productive. (Steve McConnell)",
+   "Don't document bad code - rewrite it. (Brian Kernighan)",
+   "Nothing has ever been achieved by the person who says, "
+      "'It can't be done.' (Eleanor Roosevelt)",
+   "Most of the good programmers do programming not because they expect to "
+      "get paid or get adulation by the public, "
+      "but because it is fun to program. (Linus Torvalds)",
+   "Never make fun of someone who speaks broken English. "
+      "It means they know another language. (H. Jackson Brown, Jr.)",
+   "It takes a touch of genius - and a lot of courage to move "
+      "in the opposite direction. (Albert Einstein)",
+   "Talk is cheap. Show me the code. (Linus Torvalds)",
+   "Code never lies, comments sometimes do. (Ron Jeffries)",
+   "When debugging, novices insert corrective code; "
+      "experts remove defective code. (Richard E. Pattis)",
+   "What is now proved was once only imagined. (William Blake)",
+   "I'm not a great programmer; I'm just a good programmer "
+      "with great habits. (Kent Beck)",
+   "Good visual layout shows the logical structure of a program. "
+      "Steve McConnell",
+   "The use of lines of code metrics for productivity and quality "
+     "studies [is] to be regarded as professional malpractice "
+      "starting in 1995. (Capers Jones)",
+   "Without requirements or design, programming is the art of adding "
+      "bugs to an empty text file. (Louis Srygley)",
+   "Before software can be reusable it first has to be usable. "
+      "(Ralph Johnson)",
+   "The best method for accelerating a computer is the one "
+      "that boosts it by 9.8 m/s2.",
+   "If builders built buildings the way programmers wrote programs, "
+      "then the first woodpecker that came along would destroy "
+      "civilization. (Gerald Weinberg)",
+   "There are two ways to write error-free programs; "
+      "only the third one works. (Alan J. Perlis)",
+   "It’s not a bug – it’s an undocumented feature.",
+   "In order to understand recursion, one must first understand recursion.",
+   "The best performance improvement is the transition from the "
+     "nonworking state to the working state. (J. Osterhout)",
+   "Experience is the name everyone gives to their mistakes. (Oscar Wilde)",
+   "Perfection is achieved not when there is nothing more to add, "
+      "but rather when there is nothing more to take away. "
+      "(Antoine de Saint-Exupery)",
+   "Code is like humor. When you have to explain it, it’s bad. (Cory House)",
+   "Fix the cause, not the symptom. (Steve Maguire)",
+   "Optimism is an occupational hazard of programming: "
+      "feedback is the treatment. (Kent Beck)",
+   "Programming isn't about what you know; "
+      "it's about what you can figure out. (Chris Pine)",
+   "The most damaging phrase in the language is.. "
+      "it's always been done this way (Grace Hopper)",
+   "Don't write better error messages, "
+      "write code that doesn't need them. (Jason C. McDonald)",
+   "There are only 10 types of people in the world: "
+      "Those who understand binary, and those who don’t.",
+   "It’s always a long day, 86,400 won’t fit into a short.",
+   "Why do programmers always mix up Halloween "
+      "and Christmas? Because Oct 31 equals Dec 25.",
+   "Q. How did the programmer die in the shower? "
+      "He read the shampoo bottle instructions: Lather. Rinse. Repeat.",
+   "How many programmers does it take to change a light bulb? "
+      "None ‘s a hardware problem",
+   "A programmer walks to the butcher shop and buys a kilo of meat. "
+      "An hour later he comes back upset that the butcher "
+      "shortchanged him by 24 grams.",
+   "Programming is 10% science, 20% ingenuity, "
+      "and 70% getting the ingenuity to work with the science.",
+   "The generation of random numbers is too important to be left to chance.",
+   "The computer is mightier than the pen, "
+      "the sword, and usually, the programmer.",
+   "Debugging: Removing the needles from the haystack.",
+   "A SQL query goes to a restaurant, walks up to 2 "
+      "tables and says 'Can I join you?'",
+   "There are three kinds of lies: Lies, damned lies, and benchmarks.",
+   "The three most dangerous things in the world are a programmer "
+      "with a soldering iron, a hardware engineer with a software patch, "
+      "and a user (or manager) with an idea.",
+   "PCMCIA: People Can’t Memorize Computer Industry Acronyms",
+   "MIPS: Meaningless Indication of Processor Speed",
+   "Shaw’s Principle: Build a system that even a fool can "
+      "use, and only a fool will want to use it.",
+]
 
 
 # ===========================================================================
