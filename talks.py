@@ -30,8 +30,9 @@
 # https://www.youtube.com/c/EevblogDave/playlists 
 # cppcast, like https://www.youtube.com/playlist?list=PL4Vigs1cksAYAVOKe3M1tRcDh4umLxIiX
 # https://hackingcpp.com/cpp/community.html
-# isocpp.org/wiki/faq/user-groups-worldwide - cheked t/m canada
+# isocpp.org/wiki/faq/user-groups-worldwide - checked t/m canada
 # things are getting sloooow
+# some code europe talks are in ? polish
 #
 # Great titles and phrases: (add random phrase display?)
 # ======================================================
@@ -1859,7 +1860,7 @@ excluded_talks = [
    "Every Rhymed Talk Intro by Andre Bogus (llogiq) the Rust Bard",
    "emBO++ 2020 Aftermovie",
    "Code Europe III Edition Autumn 2017 Aftermovie",
-   "",
+   "Code Europe II Edition Spring 2017",
    "",
    "",
    "",
@@ -2010,7 +2011,7 @@ playlists = [
       [ "2020", [[ "PLHTh1InhhwT6VxYHtoWIvOup9gz0p95Qr", split_ts,    "o+"  ]]],
    ]], [ "CPPP", [ 
       # no playlist
-   ]], [ "embo++", [ 
+   ]], [ "emBO++", [ 
       [ "2018", [[ "PLIXq8kws1BI1Ff2pLc03aVj3MgKEV0RRL", split_st,    "le+"  ]]],
       [ "2019", [[ "PLIXq8kws1BI0DphR20fuG7n07F0DVM8VA", split_st,    "le+"  ]]],
       [ "2020", [[ "PLIXq8kws1BI36WI541w4gSuKA98ku5gJZ", split_st,    "le+"  ]]],
