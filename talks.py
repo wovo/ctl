@@ -33,6 +33,9 @@
 # isocpp.org/wiki/faq/user-groups-worldwide - checked t/m canada
 # things are getting sloooow
 # some code europe talks are in ? polish
+# SpringOne Platform has playlists, ~200 each
+# check https://www.aristeia.com/presentations.html
+# check https://andreasfertig.info/talks/
 #
 # Great titles and phrases: (add random phrase display?)
 # ======================================================
@@ -47,16 +50,12 @@
 #
 # tutorials
 # ======================================================
-# https://www.youtube.com/playlist?list=PLAE85DE8440AA6B83 bucky's
-# https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb the Cherno
-# https://www.youtube.com/playlist?list=PLrjkTql3jnm-Voi7giH4JITCi6cuZSN42 OOPS in C++
-# https://www.youtube.com/playlist?list=PLmpc3xvYSk4wDCP5zjt2QQXe8-JGHa4Kt cave - beginners
+# https://www.youtube.com/playlist?list=PLrjkTql3jnm-Voi7giH4JITCi6cuZSN42 OOPS in C++ (Indian accent)
 # https://www.youtube.com/playlist?list=PL_c9BZzLwBRJVJsIfe97ey45V4LP_HXiG - caleb curry
 # https://www.youtube.com/playlist?list=PLIY8eNdw5tW_o8gsLqNBu8gmScCAqKm2Q simple snippets
 # https://www.youtube.com/playlist?list=PLHxtyCq_WDLXryyw91lahwdtpZsmo4BGD stepanov
 # https://www.youtube.com/playlist?list=PLnE6dhNYoLZ6Y8k8l4fRz3lk-K6fAp5-K lavavej
 # https://www.youtube.com/playlist?list=PLbHYdvrWBMxazo1_B6vhW9gpd1wlkdeEW seng 745
-# https://www.youtube.com/playlist?list=PLzTP3s658k6_4WmEEwOhm-vOR2_RolHLr web, Jerry Banfield
 # https://www.youtube.com/channel/UCA2YOQHuWzVn1TWmlK5XYxA?app=desktop codearchery
 # 
 # https://www.youtube.com/watch?v=_bYFu9mBnr4
@@ -785,8 +784,8 @@ must_total_replace = [
         "CppCon 2017: Siddharth Gupta 'Fantastic Four, The Invisible Features'" ],    
    [ "Making sense of terrible template errors with 'camomilla' - Vittorio Romeo - CppCon 2019",
         "Making sense of terrible template errors with camomilla - Vittorio Romeo - CppCon 2019" ],    
-   [ "",
-        "" ],    
+   [ "C++Tutorial for Beginners 42 - Reversing a String (Interview Question!)",
+        "C++Tutorial for Beginners 42 - Reversing a String (Inter$remove$view Question!)" ],    
    [ "",
         "" ],    
    [ "",
@@ -1349,8 +1348,27 @@ def split_goto( meeting, edition, s ):
    
 # ===========================================================================
 
+cherno_counter = 0
+
 def split_t( meeting, edition, s ):   
-   # no speakers
+   # no speakers mentione3d in the title
+   global cherno_counter
+   
+   if meeting == "The Cherno":
+      cherno_counter += 1
+      return "Cherno", "Cherno's tutorials %2d : %s" % ( cherno_counter, s )
+      
+   if meeting == "Buckys Programming Tutorials":
+      split = s.split( "-", 3 )
+      s = split[ 0 ] + ( " - %2d - " % int( split[ 1 ] )) + split[ 2 ]   
+      return "Bucky", s
+   
+   if meeting == "Cave of programming":
+      split = s.split( " - ", 2 )
+      split2 = split[ 0 ].rsplit( " ", 1 )
+      s = "C++ tutorial for beginners - %2d - " % int( split2[ 1 ] )
+      s += split[ 1 ]   
+      return "Cave (John)", s
    
    return "", s
 
@@ -1764,9 +1782,14 @@ def add_talk(
          'g' : "go",
          '$' : "perl",
          '5' : "risc-v",
+         't' : "tutorial",
       }[ c ]
       if not t in tags: 
          tags.append( t )
+         if ( c == 't' ):
+            for t in [ "talk", "lightning" ]:
+               if t in tags:
+                  tags.remove( t )
          
    for c, t in [
       [ "Embedded - ",                      "embedded" ],
@@ -1927,13 +1950,13 @@ playlists = [
                  [ "PL5XXu3X6L7jvWwbkUgMyGpA6VyqGrHbdv", split_ts,    "o"  ],
                  [ "PL5XXu3X6L7jvWwbkUgMyGpA6VyqGrHbdv", split_ts,    "o"  ],
                  [ "PL5XXu3X6L7juIhIykfhFmjyl4D5Tvjvdh", split_ts,    "o"  ]]],
-   ]], [ "Dutch C++ Group", [ 
-      [ "",     [[ "PLJ8qy7OeQ8LQ3dgDOGAGDXBKvh0UItjE6", split_jst,   "l+"  ]]],
    ]], [ "Avast C++ Meetup", [ 
       [ "",     [[ "PLcx5OZDrH5tv9Bz9VGYV7fQCUkOTixOVl", split_st,    "l+"  ]]],
    ]], [ "BoostCon", [ 
       [ "2010", [[ "PL_AKIMJc4roVg67uMOpzEpsYTolMvhxho", split_st,    "l+"  ]]],
       [ "2011", [[ "PL_AKIMJc4roWHqe9Wt6AwYS6rpE2P0Rqh", split_st,    "l+"  ]]],
+   ]], [ "Buckys Programming Tutorials", [ 
+      [ "2014", [[ "PLAE85DE8440AA6B83",                 split_t,     "o+t"  ]]],
    ]], [ "C++ Day", [ 
       [ "2020", [[ "PLsCm1Hs016LX6l97Royt5DSYy7V05nZmS", split_par,   "o+"  ]]],
    ]], [ "C++ Europe", [ 
@@ -1966,6 +1989,8 @@ playlists = [
                  [ "PL_AKIMJc4roXZPycnYPqK-FamxJdISihj", split_sqt,   "l+"  ]]],
       [ "2021", [[ "PL_AKIMJc4roXvFWuYzTL7Xe7j4qukOXPq", split_ts,    "o+"  ],
                  [ "PL_AKIMJc4roXczzBYPB-rsRmG8QTVsfeS", split_ts,    "o+"  ]]],
+   ]], [ "Cave of programming", [ 
+      [ "2015", [[ "PLmpc3xvYSk4wDCP5zjt2QQXe8-JGHa4Kt", split_t,     "o+t"  ]]],
    ]], [ "code::dive", [ 
       [ "2014", [[ "PLK3T2dt6T1fcZswWn2HbWpRHprPHyJ4wZ", split_st,    "l"   ]]],
       [ "2015", [[ "PLK3T2dt6T1fc-Duvq7ZXz0ZQFcSgVKyl4", split_st,    "l"   ]]],
@@ -2011,7 +2036,9 @@ playlists = [
       [ "2020", [[ "PLHTh1InhhwT6VxYHtoWIvOup9gz0p95Qr", split_ts,    "o+"  ]]],
    ]], [ "CPPP", [ 
       # no playlist
-   ]], [ "emBO++", [ 
+   ]], [ "Dutch C++ Group", [ 
+      [ "",     [[ "PLJ8qy7OeQ8LQ3dgDOGAGDXBKvh0UItjE6", split_jst,   "l+"  ]]],
+   ]], [ "emBo++", [ 
       [ "2018", [[ "PLIXq8kws1BI1Ff2pLc03aVj3MgKEV0RRL", split_st,    "le+"  ]]],
       [ "2019", [[ "PLIXq8kws1BI0DphR20fuG7n07F0DVM8VA", split_st,    "le+"  ]]],
       [ "2020", [[ "PLIXq8kws1BI36WI541w4gSuKA98ku5gJZ", split_st,    "le+"  ]]],
@@ -2108,6 +2135,8 @@ playlists = [
    ]], [ "RustFest", [
       [ "2019", [[ "PL85XCvVPmGQg-dewHRpM08JkGrBPdIVHw", split_st,    "rl"  ]]],
       [ "2020", [[ "PL85XCvVPmGQiudPknCxiSpybc5RTfkXe6", split_st,    "ro"  ]]],
+   ]], [ "The Cherno", [
+      [ "",     [[ "PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb", split_t,     "o+t" ]]],
    ]], [ "", [
    ]],      
 ]
