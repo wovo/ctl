@@ -370,7 +370,8 @@ class talks:
          datetime.datetime.now().strftime("%Y-%m-%d, %H:%M:%S") )
       t = t.replace( "<quotes>", "quotes = [\n%s ]\n" % \
          functools.reduce( lambda a, b: a + b, 
-            map( lambda s: '   "%s",\n' % s, quotes )))
+            map( lambda s: '   "%s",\n' % s, 
+               filter( lambda s : s != "", quotes ))))
       write_to_file( "docs/index.html", t )
 
 
@@ -2145,7 +2146,8 @@ playlists = [
       [ "2020", [[ "PL85XCvVPmGQiudPknCxiSpybc5RTfkXe6", split_st,    "ro"  ]]],
    ]], [ "The Cherno", [
       [ "",     [[ "PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb", split_t,     "o+t" ]]],
-   ]], [ "", [
+   ]], [ "", [ # Nystrom
+      [ "",     [[ "JxI3Eu5DPwE",                        split_st,    "l"   ]]],
    ]],      
 ]
 
@@ -2744,7 +2746,7 @@ quotes = [
    "Any fool can write code that a computer can understand. Good "
       "programmers write code that humans can understand. (Martin Fowler)",
    "War is Peace, Freedom is Slavery, Ignorance is Strength, "
-      "Scrum is Agile (Allen Holub)",
+      "Scrum is Agile (George Orwell / Allen Holub)",
    "the agile-industrial complex (Allen Holub?)",
    "Errors are just conditions we refuse to take seriously (Michael Feathers)",
    "If you're arguing, you're losing",
@@ -2769,7 +2771,6 @@ quotes = [
    "99 little bugs in the code. 99 little bugs in the code. Take one down, "
       "patch it around. 127 little bugs in the code ...",
    "No code has zero defects.",
-
    "Measuring programming progress by lines of code is like measuring "
       "aircraft building progress by weight. (Bill Gates)",
    "Walking on water and developing software from a specification "
@@ -2789,7 +2790,7 @@ quotes = [
       "write Perl programs. ()",
    "There’s no obfuscated Perl contest because it’s pointless. (Jeff Polk)",
    "If Java had true garbage collection, most programs would delete "
-      "themselves upon execution.",
+      "themselves upon execution. (Robert Sewell)",
    "Russian roulette: [ $[ $RANDOM % 6 ] == 0 ] && rm -rf / || echo *Click*",
    "There are only two hard things in computer science: "
       "cache invalidation and naming things. (Phil Karlton) ",
@@ -2897,6 +2898,494 @@ quotes = [
    "MIPS: Meaningless Indication of Processor Speed",
    "Shaw’s Principle: Build a system that even a fool can "
       "use, and only a fool will want to use it.",
+   "What Color is Your Function? (Bob Nystrom)",
+   "don't use unsigned for quatities (unknown, cited by John Kalb)",      
+   "assert( p = allocateWidget() );",
+   "Studpidity is a more dangerous enemy of the good than malice (Bonhoefer)",
+   "Never attribute to malice that which is adequately explained by stupidity. "
+      "(Hanlon's razor)",
+   "All computers wait at the same speed.",
+   "There is no reason for any individual to have a computer in his home. "
+      "(Ken Olson, President, Digital Equipment Corporation, 1977)",
+   "But what is it good for? (Engineer at the Advanced Computing Systems "
+      "Division of IBM, commenting on the microchip, 1968)",
+   "If McDonalds were run like a software company, one out of every hundred "
+      "Big Macs would give you food poisoning, and the response would be, "
+      "'We're sorry, here's a coupon for two more.' (Mark Minasi)",
+   "You can either have software quality or you can have pointer arithmetic, "
+      "but you cannot have both at the same time. (Bertrand Meyer)",
+   "Java is, in many ways, C++–. (Michael Feldman)",
+      "Computer language design is just like a stroll in the park. "
+      "Jurassic Park, that is. (Larry Wall)",
+   "Optimism is an occupational hazard of programming; feedback is the "
+      "treatment. (Kent Beck)",
+   "First learn computer science and all the theory. Next develop a "
+      "programming style. Then forget all that and just hack. (George Carrette)",
+      "Writing code has a place in the human hierarchy worth somewhere above "
+      "grave robbing and beneath managing. (Gerald Weinberg) ",
+   "The best programmers are not marginally better than merely good ones. "
+   " They are an order-of-magnitude better, measured by whatever standard: "
+   "conceptual creativity, speed, ingenuity of design, or "
+   "problem-solving ability. (Randall E. Stross)",
+   "The trouble with programmers is that you can never tell what a "
+      "programmer is doing until it’s too late. (Seymour Cray)",
+   "Software suppliers are trying to make their software packages more "
+      "user-friendly. Their best approach so far has been to take all the "
+      "old brochures and stamp the words 'user-friendly' on the cover. "
+      "(Bill Gates)",
+   "Hardware: The parts of a computer system that can be kicked. (Jeff Pesis)",
+   "Some people, when confronted with a problem, think 'I know, I'll use "
+      "regular expressions.' Now they have two problems. (Jamie Zawinski)",
+   "If you think your management doesn't know what it's doing or that "
+      "your organisation turns out low-quality software crap that "
+      "embarrasses you, then leave. (Edward Yourdon)",
+   "More computing sins are committed in the name of efficiency "
+   "(without necessarily achieving it) than for any other single reason "
+   "- including blind stupidity. (W.A. Wulf)",
+   "As soon as we started programming, we found to our surprise that "
+      "it wasn't as easy to get programs right as we had thought. "
+      "Debugging had to be discovered. I can remember the exact instant "
+      "when I realized that a large part of my life from then on was going "
+      "to be spent in finding mistakes in my own programs. "
+      "(Maurice Wilkes, 1949)",
+   "When I wrote this, only God and I understood what I was doing. "
+      "Now, God only knows. (Karl Weierstrass)",
+   "The pessimist complains about the wind; the optimist expects it to "
+      "change; the realist adjusts the sails. (William Arthur Ward)",
+   "An organisation that treats its programmers as morons will soon "
+      "have programmers that are willing and able to act like morons only. "
+      "(Bjarne Stroustrup)",
+   "A notation is important for what it leaves out. (Joseph Stoy)",
+   "Without requirements or design, programming is the art of adding "
+      "bugs to an empty text file. (Louis Srygley)",
+   "It is a painful thing to look at your own trouble amd know that you "
+      "yourself and no one else has made it. (Sophocles)",
+   "When you think of the long and gloomy history of man, you will find "
+      "far more hideous crimes have been committed in the name of obedience "
+      "than have been committed in the name of rebellion. (C.P. Snow)",
+   "It is difficult to get a man to understand something when his salary "
+      " depends on his not understanding it. (Upton Sinclair)",
+   "The only sin is to make a choice without knowing you are making one. "
+      "(Jonathan Shewchuk)",
+   "Putting a good comment on bad code does not redeem the bad code. "
+      "(Shawn Sheridan)",
+   "Forgive him, for he believes that the customs of his tribe "
+      "are the laws of nature! (G.B. Shaw)",
+   "If it were done when 'tis done, then 'twere well it were done quickly. "
+      "(William Shakespeare)",
+   "Those who cannot remember the past are condemned to repeat it. "
+      "(George Santayana)",
+   "Great minds discuss ideas. Average minds discuss events. "
+      "Small minds discuss people. (Eleanor Roosevelt)",
+   "Even if you're on the right track, you'll get run over "
+      "if you just sit there. (Will Rogers)",
+   "We only acknowledge small faults in order to make it appear that we "
+      "are free from great ones. (La Rochefoucauld)",
+   "A computer lets you make more mistakes faster than any invention in "
+      "human history - with the possible exceptions of handguns and "
+      "tequila. (Mitche Ratcliffe)",
+   "Technology is dominated by two types of people: Those who understand "
+      "what they do not manage. Those who manage what they "
+      "do not understand. (Putt's Law)",
+   "A computer once beat me at chess, but it was no match for me "
+      "at kick boxing. (Emo Philips)",
+   "The most amazing achievement of the computer software industry is its "
+      "continuing cancellation of the steady and staggering gains made "
+      "by the computer hardware industry. (Henry Petroski)",
+   "If you make a study of failure cases, you will less likely be the "
+      "subject of one. (Mike Perkin)",
+   "Alas, to wear the mantle of Galileo it is not enough that you be "
+      "persecuted by an unkind establishment, you must also be right. "
+      "(Bob Park)",
+   "Complexity kills. It sucks the life out of developers, it makes "
+      "products difficult to plan, build and test, it introduces "
+      "security challenges and it causes end-user and "
+      "administrator frustration. (Ray Ozzie)",
+   "Search all the parks in all your cities; you'll find no statues "
+      "of committees. (David Ogilvy)",
+   "The truth does not change according to our ability to stomach it. "
+      "(Flannery O'Connor)",
+   "That's the thing about people who think they hate computers. "
+      "What they really hate is lousy programmers. "
+      "Larry Niven, Jerry Pournelle)",
+   "There's no sense being exact about something if you don't even know "
+      "what you're talking about. (John von Neumann)",
+   "Any fool can use a computer. Many do. (Ted Nelson)",
+   "Incorrect documentation is often worse than no documentation. "
+      "(Bertrand Meyer)",
+   "Incompetents invariably make trouble for people other than themselves. "
+      "(Larry McMurtry)",
+   "You can't have great software without a great team, and most software "
+      "teams behave like dysfunctional families. (Jim McCarthy)",
+   "The proper use of comments is to compensate for our failure to express "
+      "ourself in code. (Robert C. Martin)",
+   "But in our enthusiasm, we could not resist a radical overhaul of the "
+      "system, in which all of its major weaknesses have been exposed, "
+      "analyzed, and replaced with new weaknesses. (Bruce Leverett)",
+   "The perfect project plan is possible if one first documents a list "
+      "of all the unknowns. (Bill Langley)",
+   "A distributed system is one in which the failure of a computer you "
+      "didn't even know existed can render your own computer unusable. "
+      "(Leslie Lamport)",
+   "Let us change our traditional attitude to the construction of programs. "
+      "Instead of imagining that our main task is to instruct a computer what "
+      "to do, let us concentrate rather on explaining to human beings what "
+      "we want a computer to do. (Donald Knuth)",
+   "Computers are good at following instructions, but not at reading "
+      "your mind. (Donald Knuth)",
+   "Trying to outsmart a compiler defeats much of the purpose of using one. "
+      "(Kernighan, Plauger)",
+   "Believe the terrain, not the map. (Brian W. Kernighan)",
+   "Get the weirdnesses into the data where you can manipulate them easily, "
+      "and the regularity into the code because regular code is a lot "
+      "easier to work with. (Brian W. Kernighan)",
+   "It's so easy to become mesmerized by the immediacy of a result that "
+      "you don't question its validity. (Naomi Karten)",
+   "Perl is another example of filling a tiny, short-term need, and then "
+      "being a real problem in the longer term. (Alan Kay)",
+   "It's not at all important to get it right the first time. It's vitally "
+      "important to get it right the last time. (Andrew Hunt, David Thomas)",
+   "A type system is the most cost effective unit test you'll ever have. "
+      "(Peter Hallam)",
+   "The key to getting a reputation for being brilliant is actually "
+      "being brilliant, not just acting like you are. (Seth Godin)",
+   "Don't get me wrong: Emacs is a great operating system; "
+      "it lacks a good editor, though. (Thomer M. Gil)",
+   "Comparing to another activity is useful if it helps you formulate "
+      "questions, it's dangerous when you use it to justify answers. "
+      "(Martin Fowler)",
+   "Progress in science comes when experiments contradict theory. "
+      "(Richard Feynman)",
+   "For a sucessful technology, honesty must take precedence "
+      "over public relations for nature cannot be fooled. "
+      "(Richard Feynman)",
+   "We can't solve problems by using the same kind of thinking "
+      "we used when we created them. (Albert Einstein)",
+   "Two things are infinite: the universe and human stupidity; "
+      "and I'm not sure about the universe. (Albert Einstein)",
+   "Do not worry about your difficulties in mathematics. "
+      "I can assure you that mine are still greater. (Albert Einstein)",
+   "Any code of your own that you haven't looked at for six or more months "
+   "might as well have been written by someone else. (Eagleson's law)",
+   "Just because the standard provides a cliff in front of you, you are "
+      "not necessarily required to jump off it. (Norman Diamond)",
+   "Learning is not compulsory. Neither is survival. (W. Edwards Deming)",
+   "The generation of random numbers is too important to be left to chance. "
+      "(Robert R. Coveyou)",
+   "It has been said that the great scientific disciplines are examples "
+      "of giants standing on the shoulders of other giants. It has also "
+      "been said that the software industry is an example of midgets "
+      "standing on the toes of other midgets. (Alan Cooper)",
+   "Organizations which design systems are constrained to produce designs "
+      "which are copies of the communication structures of these "
+      "organizations. (Conway's Law)",
+   "C++ tries to guard against Murphy, not Machiavelli. (Damian Conway)",
+   "Einstein argued that there must be simplified explanations of nature, "
+      "because God is not capricious or arbitrary. No such faith comforts "
+      "the software engineer. (Fred Brooks)",
+   "If there's one thing worse than a program that doesn't work when it "
+      "should, it's a program that does work when it shouldn't. (Bob Archer)",
+   "It's not reality's job to satisfy our egos.",
+   "Enthusiasm, Disillusionment, Panic, Search for the Guilty "
+      "Punishment of the Innocent, Praise for non-participants",
+   "Sufficiently advanced incompetence is indistinguishable from malice.",
+   "Real computer scientists despise the idea of actual hardware. "
+      "Hardware has limitations, software doesn't. It's a real shame "
+      "that Turing machines are so poor at I/O.",
+   "If the lessons of history teach us anything it is that nobody "
+      "learns the lessons that history teaches us.",
+   "If you can't be a good example, then you'll just have to be a horrible "
+      "warning. (Catherine Aird)",
+   "640K (bytes RAM) ought to be enough for anybody (Bill Gates)",
+   "Can God write a Program so complex that He cannot debug it?",
+   "The programming language [abc] was invented so that any idiot could "
+      "program a computer, and, as a result, many do.",
+   "The use of COBOL cripples the mind; its teaching should, therefore, "
+      "be regarded as a criminal offence. (Edsger Dijkstra)",
+   "It is often easier to not do something dumb "
+      "than it is to do something smart.",
+   "I think there's a world market for about five computers "
+      "(attr. Thomas J Watson Senior, 1945)",
+   "Errors, like straws, upon the surface flow; He who would search "
+      "for pearls must dive down below. (John Dryden)",
+   "Development has two outputs... Code & Bugs.",
+   "There is not now, nor will there ever be, a language in which "
+      "it is the least bit difficult to write bad code. (Lawrence Flon)",
+   "Why did you call them 'beta'? -- Uhh... 'coz they're beta than nothin.",
+   "The whole point of getting things done is knowing what to leave undone. "
+      "(Oswald Chambers)",
+   "Tell me what you need and I'll tell you how to get along without it.",
+   "Computers enable us to in thirty minutes what we never would have had to do before",
+   "Assumption is the mother of all f***ups.",
+   "If it is worth doing once, it is worth automating.",
+   "Computer programmers don't byte, they nibble a bit.",
+   "Never Base a Technical Decision on Political Issues, "
+      "never Base a Political Decision on Technical Issues (Geoffrey Jame)",
+   "Jesus saves but only Buddha makes incremental backups.",
+   "j++; // increment j",
+   "If the quality of your insight is very high, you realise that Martin Fowler "
+      "published the idea only five years ago. If the idea is poor, you realise "
+      "that he published your idea more than 10 years ago. (Fowler’s law)",
+   "I am not smart, I just screwed up earlier than you did!",
+   "While tracking down a long running process, I found the offending "
+      "line of code. The bad code had the following comment: "
+      "Change so simple, no need to test.",
+   "It's hard enough to find an error in your code when you're looking for it; "
+      "it's even harder when you've assumed your code is error-free.",
+   "Arrogance in computer science is measured in nano-Dijkstras. (Alan Kay)",
+   "If you're going to break it, then break it good. Break everything. "
+      "Get to the very front of the line. Don't like move up a couple "
+      "of slots. That's pointless. (Anders Hejlsberg)",
+   "Some programmers try to reach higher by standing on other "
+      "programmers' shoulders. Others try to reach higher by standing "
+      "on other programmers' toes.",
+   "0x2B || !0x2B",
+   "The first 90% of the code accounts for the first 90% of the "
+      "development time. The remaining 10% of the code accounts for "
+      "the other 90% of the development time. (Tom Cargill)",
+   "If I have not seen as far as others, it is because giants "
+      "were standing on my shoulders. (Hal Abelson)",
+   "Process is no substitute for synaptic activity. (Jeff DeLuca)",
+   "F × S = k : the product of freedom and security is a constant (Niven)",
+   "If your hammer is C++, everything looks like your thumb. (Scott Douglass)",
+   "The reason we plan ahead is so that we "
+      "don't have to do anything right now.",
+   "Fatal exception at address: Ox13374A40. Press OK to continue.",
+   "If it doesn't have to work, we can do it real quick. (Watts Humphrey)",
+   "C trades a slap on the wrist at compile time "
+      "for a knife in the back at run time.",
+   "Simplicity -- the art of maximizing the amount of work not done "
+      "-- is essential. (the Agile Manifesto)",
+   "It's OK to figure out murder mysteries, but you shouldn't need to "
+      "figure out code. You should be able to read it. (Steve McConnell)",
+   "When in doubt, leave it out. (Joshua Bloch)",
+   "If you use copy and paste while you're coding, you're probably "
+      "committing a design error. (David Parnas)",
+   "Amateur programmers think there are 1000 bytes in a kilobyte; "
+      "Real Programmers know there are 1024 meters in a kilometer.",
+   "Computers make it easier to do a lot of things, but most of the things "
+      "they make it easier to do don't need to be done. (Andy Rooney)",
+   "The third version is the first version that doesn't suck. (Mike Simpson)",
+   "If you've seen one picture of the Mandelbrot Set, you've seen them all.",
+   "What is the difference between an object methodologist and a terrorist? "
+      "You can negotiate with the terrorist.",
+   "Good programmers invest the effort to learn how to use current practices. "
+      "Not-so-good programmers just learn the buzzwords, and that’s been a "
+      "software industry constant for a half century. (Boris Beizer)",
+   "If you want to confuse your enemies, give them the source code. "
+      "If you want to really confuse them, give them the documentation.",
+   "Good enough is neither. (Jim Spivey?)",
+   "Tell him that language is a virus and that religion is an operating "
+      "system and that prayers are just so much f*ng spam. (Neil Gaiman)",
+   "For every problem, there is a solution that is simple, elegant, and wrong. "
+      "(H.L. Mencken)",
+   "If you get it free, it is worthless. If you pay for it, is has value. "
+      "If you build it yourself, it is priceless. (Raj More)",
+   "C: the language that combines all the elegance and power of assembly language "
+      "with all the readability and maintainability of assembly language",
+   "The manager's function is not to make people work, "
+      "it is to make it possible for people to work. (Lister)",
+   "Compatibility means deliberately repeating other people's mistakes. "
+      "(David Wheeler)",
+   "Never change a running system. - Never run a changing system.",
+   "Two protons walked into a Black Hole.",
+   "Every new development contains at least one bug. "
+      "Every bug correction is a new development.",
+   "The function name should define everything the function does.",
+   "One must learn from design patterns, not the design patterns.",
+   "Programmers do not die. They just gosub without return.",
+   "A fool with a tool is still a fool.",
+   "The problem with this code is it has far too many levels of misdirection.",
+   "I have always found that plans are useless, "
+      "but planning is indispensable. (Dwight D. Eisenhower)",
+   "The definition of insanity is doing the same thing over and over "
+      "and expecting a different result.",
+   "Software is either testable or detestable.",
+   "If you give someone a program, you will frustrate them for a day; "
+      "if you teach them how to program, "
+      "you will frustrate them for a lifetime.",
+   "Never trust a computer you can’t throw out a window. (Steve Wozniak)",
+   "Users are a terrible thing. Systems would be infinitely more "
+      "stable without them. (Michael T. Nygard)",
+   "There are 10 types of people. Those who can read ternary, "
+      "those who can't and those who mistake it for binary. (Darren Thomas?)",
+   "Anything that can go wrong will go wrong, "
+      "anything that can't go wrong will go wrong anyway.",
+   "Simplicity is the ultimate sophistication. (Leonardo da Vinci)",
+   "I love deadlines. I like the whooshing sound they make as they fly by. "
+      "(Douglas Adams)",
+   "When you want to do something differently from the rest of the world, "
+      "it's a good idea to look into whether the rest of the world knows "
+      "something you don't.",
+   "Go away or I will replace you with a very small shell script!",
+   "Worry is a dividend paid to disaster before it is due. (Ian Fleming)",
+   "Every truth passes through three stages before it is recognized. "
+      "In the first, it is ridiculed, in the second it is opposed, "
+      "in the third it is regarded as self-evident. (Arthur Schopenhauer)",
+   "It’s hard to read through a book on the principles of magic without "
+      "glancing at the cover periodically to make sure it isn’t a book "
+      "on software design. (Bruce Tognazzini)",
+   "The sooner you get behind in your work, the more time you have to catch up.",
+   "Keyboard not found. Press < F1 > to RESUME.",
+   "Better is the enemy of good. (Voltaire)",
+   "If it doesn't work, it doesn't matter how fast it doesn't work. (Ravera)",
+   "Manually managing blocks of memory in C is like juggling bars of soap "
+      "in a prison shower: It's all fun and games until you "
+      "forget about one of them.",
+   "My other car is a cdr.",
+   "Now I'm a pretty lazy person and am prepared to work quite "
+      "hard in order to avoid work. (Martin Fowler)",
+   "Only Half of programming is coding. The other 90% is debugging.",
+   "People who deal with bits should expect to get bitten. (Jon Bentley)",
+   "Just don't create a file called -rf. ( Larry Wall)",
+   "God is Real, unless declared Integer. (J. Allan Toogood)",
+   "Should array indices start at 0 or 1? My compromise of 0.5 was "
+      "rejected without, I thought, proper consideration. (Stan Kelly-Bootle)",
+   "The user is a peripheral that types when you issue a read request. "
+   "(Peter Williams)",
+   "They did not know it was impossible, so they did it! (Marc Twain)",
+   "Your code is both good and original. Unfortunately the parts that are "
+      "good are not original, and the parts that are original are not good.",
+   "Your mom is so fat she sat on a binary tree and turned it into a "
+      "linked list in constant time!",
+   "Real Programmers don't comment their code. If it was hard to write, "
+      "it should be hard to understand.",
+   "Plan to throw one away; you will anyway. (Fred Brooks)",
+   "The word 'experienced' often refers to someone who’s gotten away with "
+      "doing the wrong thing more frequently than you have. "
+      "(Laurence Gonzales)",
+   "A C program is like a fast dance on a newly waxed dance floor "
+      "by people carrying razors. (Waldi Ravens)",
+   "A common mistake that people make when trying to design something "
+      "completely foolproof is to underestimate the ingenuity of "
+      "complete fools. (Douglas Adams)",
+   "The two most common elements in the universe are hydrogen and stupidity. "
+      "(Harlan Ellison)",
+   "Work expands so as to fill the time available for its completion. "
+      "(Parkinson’s Law)",
+   "Good design adds value faster than it adds cost. (Thomas C. Gale)",
+   "Program testing can be a very effective way to show the presence of "
+      "bugs, but is hopelessly inadequate for showing their absence. "
+      "(Edsger Dijkstra)",
+   "Multi-threading is the art of screwing things up before, "
+      "during or after something else.",
+   "If you can't explain something to a six-year-old, you really don't "
+      "understand it yourself. (Albert Einstein)",
+   "Let the code run free, if it needs to be debugged, it will come back.",
+   "Programmers usually have good reasons for making bad decisions.",
+   "Before software can be reusable it first has to be usable.",
+   "Make it correct, make it clear, make it concise, make it fast. "
+      "In that order. (Wes Dyer)",
+   "Nothing is more permanent than a temporary solution. (Thomas' First Law)",
+   "Giving pointers and threads to programmers is like giving "
+      "whisky and car keys to teenagers",
+   "Beware of programmers who carry screwdrivers. (Leonard Brandwein)",
+   "Java. The elegant simplicity of C++. The blazing speed of Smalltalk.",
+   "Pasting code from the Internet into production code is "
+      "like chewing gum found in the street.",
+   "How does a large software project get to be one year late? "
+      "One day at a time! (Fred Brooks)",
+   "Simplicity is prerequisite for reliability. (Edsger Dijkstra)",
+   "Man is the best computer we can put aboard a spacecraft...and the only "
+      "one that can be mass produced with unskilled labor. "
+      "(Wernher von Braun)",
+   "Good judgement is the result of experience. Experience is the "
+      "result of bad judgement. (Fred Brooks)",
+   "There are two major products that come out of Berkeley: LSD and UNIX. "
+      "We don't believe this to be a coincidence. (Jeremy S. Anderson)",
+   "Confidence, n.: The feeling you have before you understand the situation",
+   "It is easier to optimize correct code than to correct optimized code.",
+   "Never memorize what you can look up in books. (Albert Einstein)",
+   "Sufficiently advanced incompetence is indistinguishable from malice. "
+      "(Clark's law, after J. Porter Clark)",
+   "If you don't have time to do it right, when will you have time "
+      "to do it over? (John Wooden)",
+   "You start writing code, I'll go see what the customer wants.",
+   "Any sufficiently advanced technology is indistinguishable from magic."
+   "(Arthur C Clarke)",
+   "If I had more time, I would have written a shorter letter. (Cicero)",
+   "If we're supposed to work in Hex, why have we only got A fingers?",
+   "% rm * .o",
+   "A good programmer looks both ways before crossing a one-way street.",
+   "Anyone who considers arithmetic methods of producing random digits is, "
+      "of course, in a state of sin. (John von Neumann)",
+   "Better train people and risk they leave – than do nothing and risk they stay.",
+   "A computer is a stupid machine with the ability to do incredibly "
+      "smart things, while computer programmers are smart people with the "
+      "ability to do incredibly stupid things. They are, in short, "
+      "a perfect match (Bill Bryson)",
+   "C++ : Where friends have access to your private members. "
+      "(Gavin Russell Baker)",
+   "The greatest performance improvement of all is when a "
+      "system goes from not-working to working. (John Ousterhout)",
+   "We better hurry up and start coding, "
+      "there are going to be a lot of bugs to fix.",
+   "All problems in computer science can be solved by another level "
+      "of indirection. (David Wheeler?)",
+   "If builders built buildings the way programmers wrote programs, "
+      "then the first woodpecker that came along would destroy civilization. "
+      "(Gerald Weinberg)",
+   "One day my daughter came in, looked over my shoulder at some "
+      "Perl 4 code, and said, 'What is that, swearing?' (Larry Wall)",
+   "Software and cathedrals are much the same – first we build them, "
+      "then we pray. (Sam Redwine)",
+   "He who hasn't hacked assembly language as a youth has no heart. "
+   "He who does as an adult has no brain. (John Moore)",
+   "One in a million is next Tuesday. (Gordon Letwin)",
+   "The most important thing in a programming language is the name. "
+      "A language will not succeed without a good name. "
+      "I have recently invented a very good name, and now I am "
+      "looking for a suitable language. (Donald Knuth)",
+   "We should forget about small efficiencies, say about 97% of the time: "
+      "premature optimization is the root of all evil. (Donald Knuth)",
+   "There is no programming language, no matter how structured, "
+      "that will prevent programmers from making bad programs. "
+      "(Larry Flon)",
+   "The cleaner and nicer the program, the faster it's going to run. "
+      "And if it doesn't, it'll be easy to make it fast. (Joshua Bloch)",
+   "There's no test like production.",
+   "You can have the project: Done On Time, Done On Budget, "
+      "Done Properly. Pick any two.",
+   "Every language has an optimization operator. "
+      "In C++ that operator is '//'",
+   "Any fool can write code that a computer can understand. "
+      "Good programmers write code that humans can understand. "
+      "(Martin Fowler)",
+   "Whereas Europeans generally pronounce my name the right way "
+      "('Nick-louse Veert'), Americans invariably mangle it into "
+      "'Nickel's Worth.' This is to say that Europeans call me by "
+      "name, but Americans call me by value. (Niklaus Wirth)",
+   "You can stand on the shoulders of giants OR a big enough "
+      "pile of dwarfs, works either way.",
+   "An expert is a man who has made all the mistakes that can be made in "
+      "a very narrow field. (Niels Bohr)",
+   "Beware of bugs in the above code; I have only proved it correct, "
+      "not tried it. (Donald Knuth)",
+   "There are only 3 numbers of interest to a computer architect: "
+      "1, 0 and infinity.",
+   "Engineers are all basically high-functioning autistics who have no idea "
+      "how normal people do stuff. (Cory Doctorow)",
+   "I invented the term Object-Oriented, and I can tell you I "
+      "did not have C++ in mind. (Alan Kay)",
+   "Perl - The only language that looks the same before and "
+      "after RSA encryption. (Keith Bostic)",
+   "Computer Science is no more about computers than astronomy is "
+      "about telescopes. (E. W. Dijkstra)",
+   "It works on my machine. (Anonymous programmer)",
+   "I have always wished for my computer to be as easy to use as my "
+      "telephone; my wish has come true because I can no longer figure "
+      "out how to use my telephone (Bjarne Stroustrup)",
+   "If we developed a way to program in clear, simple English, "
+      "we would discover that programmers could not "
+      "write clear, simple English. (Hoare? Hansen?)",
+   "Did you hear about the man who got cooled to absolute zero? He's 0K now.",
+   "There is only one boss: the customer. And he can fire everybody in "
+      "the company from the chairman on down, "
+      "simply by spending his money somewhere else. (Sam Walton)",
+   "The agile notion of constantly soliciting customer feedback and "
+      "incorporating that input into a product "
+      "is a brilliant way to produce prototypes.",
+   "The customer is often wrong.",
 ]
 
 
