@@ -1340,6 +1340,20 @@ def split_goto( meeting, edition, s ):
    
 # ===========================================================================
 
+def split_cap( meeting, edition, s ):   
+   # Carrie Anne Philbin
+   # Advanced CPU Designs: Crash Course Computer Science #9
+   
+   print( "   split_cap [%s]" % s )
+   n = int( ( s + "#0" ).split( "#" )[ 1 ] )
+   s = s.split( ": Crash Course Computer Science" )[ 0 ]
+   s = "Crash Course Computer Science #%2d : %s" % ( n, s )
+   
+   return "Carrie Anne Philbin", s
+
+   
+# ===========================================================================
+
 cherno_counter = 0
 
 def split_t( meeting, edition, s ):   
@@ -1639,8 +1653,8 @@ def split_speakers_and_title( meeting, edition, s, splitter ):
    if s.startswith( "GoingNative" ):
       s = s.split( ":" )[ 1 ]      
       
-#   if s.endswith( ".mp4" ):
-#      s = s[ : -4 ]
+   if s.endswith( ".mp4" ):
+      s = s[ : -4 ]
          
    # C++Now 2014 omits the speakers
    s = s.strip()
@@ -1782,6 +1796,7 @@ def add_talk(
          'o' : "online",
          '+' : "c++",
          'r' : "rust",
+         'h' : "history",
          'e' : "embedded",
          'p' : "python",
          'g' : "go",
@@ -2146,8 +2161,13 @@ playlists = [
       [ "2020", [[ "PL85XCvVPmGQiudPknCxiSpybc5RTfkXe6", split_st,    "ro"  ]]],
    ]], [ "The Cherno", [
       [ "",     [[ "PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb", split_t,     "o+t" ]]],
-   ]], [ "", [ # Nystrom
-      [ "",     [[ "JxI3Eu5DPwE",                        split_st,    "l"   ]]],
+   ]], [ "BBC History of Computers", [
+      [ "",     [[ "PL1331A4548513EA81",                 split_t,     "lh" ]]],
+   ]], [ "Crash Course: Computer Science", [
+      [ "",     [[ "PLH2l6uzC4UEW0s7-KewFLBC1D0l6XRfye", split_cap,   "ot" ]]],
+   ]], [ "", [ 
+      [ "",     [[ "JxI3Eu5DPwE",                        split_st,    "l"   ],   # Nystrom
+                 [ "g2tMcMQqSbA",                        split_st,    "lh"  ]]], # Colossus
    ]],      
 ]
 
@@ -3386,6 +3406,15 @@ quotes = [
       "incorporating that input into a product "
       "is a brilliant way to produce prototypes.",
    "The customer is often wrong.",
+   "Stupidity is causing loss to others without gain for yourself "
+      "(Carlo Cipolla)",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
 ]
 
 

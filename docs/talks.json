@@ -36069,6 +36069,744 @@
    "title": "Crafting the Core - Why and How We Built the Core Banking System",
    "video": "https://youtube.com/watch?v=UPXti9PICbw"
 },{
+   "duration": 165,
+   "edition": "",
+   "identifier": "crash-course:-computer-science--1",
+   "language": "English",
+   "level": 0,
+   "meeting": "Crash Course: Computer Science",
+   "number": 8303,
+   "speakers": [
+      "Carrie Anne Philbin"
+   ],
+   "tags": [
+      "online",
+      "tutorial"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/tpIctyqH29Q/0.jpg",
+   "title": "Crash Course Computer Science # 0 : Crash Course Computer Science Preview",
+   "video": "https://youtube.com/watch?v=tpIctyqH29Q"
+},{
+   "duration": 713,
+   "edition": "",
+   "identifier": "crash-course:-computer-science--2",
+   "language": "English",
+   "level": 0,
+   "meeting": "Crash Course: Computer Science",
+   "number": 8304,
+   "speakers": [
+      "Carrie Anne Philbin"
+   ],
+   "tags": [
+      "online",
+      "tutorial"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/O5nskjZ_GoI/0.jpg",
+   "title": "Crash Course Computer Science # 1 : Early Computing",
+   "video": "https://youtube.com/watch?v=O5nskjZ_GoI"
+},{
+   "duration": 643,
+   "edition": "",
+   "identifier": "crash-course:-computer-science--3",
+   "language": "English",
+   "level": 0,
+   "meeting": "Crash Course: Computer Science",
+   "number": 8305,
+   "speakers": [
+      "Carrie Anne Philbin"
+   ],
+   "tags": [
+      "online",
+      "tutorial"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/LN0ucKNX0hc/0.jpg",
+   "title": "Crash Course Computer Science # 2 : Electronic Computing",
+   "video": "https://youtube.com/watch?v=LN0ucKNX0hc"
+},{
+   "duration": 607,
+   "edition": "",
+   "identifier": "crash-course:-computer-science--4",
+   "language": "English",
+   "level": 0,
+   "meeting": "Crash Course: Computer Science",
+   "number": 8306,
+   "speakers": [
+      "Carrie Anne Philbin"
+   ],
+   "tags": [
+      "online",
+      "tutorial"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/gI-qXk7XojA/0.jpg",
+   "title": "Crash Course Computer Science # 3 : Boolean Logic & Logic Gates",
+   "video": "https://youtube.com/watch?v=gI-qXk7XojA"
+},{
+   "duration": 645,
+   "edition": "",
+   "identifier": "crash-course:-computer-science--5",
+   "language": "English",
+   "level": 0,
+   "meeting": "Crash Course: Computer Science",
+   "number": 8307,
+   "speakers": [
+      "Carrie Anne Philbin"
+   ],
+   "tags": [
+      "online",
+      "tutorial"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/1GSjbWt0c9M/0.jpg",
+   "title": "Crash Course Computer Science # 4 : Representing Numbers and Letters with Binary",
+   "video": "https://youtube.com/watch?v=1GSjbWt0c9M"
+},{
+   "duration": 669,
+   "edition": "",
+   "identifier": "crash-course:-computer-science--6",
+   "language": "English",
+   "level": 0,
+   "meeting": "Crash Course: Computer Science",
+   "number": 8308,
+   "speakers": [
+      "Carrie Anne Philbin"
+   ],
+   "tags": [
+      "online",
+      "tutorial"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/1I5ZMmrOfnA/0.jpg",
+   "title": "Crash Course Computer Science # 5 : How Computers Calculate - the ALU",
+   "video": "https://youtube.com/watch?v=1I5ZMmrOfnA"
+},{
+   "duration": 736,
+   "edition": "",
+   "identifier": "crash-course:-computer-science--7",
+   "language": "English",
+   "level": 0,
+   "meeting": "Crash Course: Computer Science",
+   "number": 8309,
+   "speakers": [
+      "Carrie Anne Philbin"
+   ],
+   "tags": [
+      "online",
+      "tutorial"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/fpnE6UAfbtU/0.jpg",
+   "title": "Crash Course Computer Science # 6 : Registers and RAM",
+   "video": "https://youtube.com/watch?v=fpnE6UAfbtU"
+},{
+   "duration": 697,
+   "edition": "",
+   "identifier": "crash-course:-computer-science--8",
+   "language": "English",
+   "level": 0,
+   "meeting": "Crash Course: Computer Science",
+   "number": 8310,
+   "speakers": [
+      "Carrie Anne Philbin"
+   ],
+   "tags": [
+      "online",
+      "tutorial"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/FZGugFqdr60/0.jpg",
+   "title": "Crash Course Computer Science # 7 : The Central Processing Unit (CPU)",
+   "video": "https://youtube.com/watch?v=FZGugFqdr60"
+},{
+   "duration": 636,
+   "edition": "",
+   "identifier": "crash-course:-computer-science--9",
+   "language": "English",
+   "level": 0,
+   "meeting": "Crash Course: Computer Science",
+   "number": 8311,
+   "speakers": [
+      "Carrie Anne Philbin"
+   ],
+   "tags": [
+      "online",
+      "tutorial"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/zltgXvg6r3k/0.jpg",
+   "title": "Crash Course Computer Science # 8 : Instructions & Programs",
+   "video": "https://youtube.com/watch?v=zltgXvg6r3k"
+},{
+   "duration": 742,
+   "edition": "",
+   "identifier": "crash-course:-computer-science--10",
+   "language": "English",
+   "level": 0,
+   "meeting": "Crash Course: Computer Science",
+   "number": 8312,
+   "speakers": [
+      "Carrie Anne Philbin"
+   ],
+   "tags": [
+      "online",
+      "tutorial"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/rtAlC5J1U40/0.jpg",
+   "title": "Crash Course Computer Science # 9 : Advanced CPU Designs",
+   "video": "https://youtube.com/watch?v=rtAlC5J1U40"
+},{
+   "duration": 566,
+   "edition": "",
+   "identifier": "crash-course:-computer-science--11",
+   "language": "English",
+   "level": 0,
+   "meeting": "Crash Course: Computer Science",
+   "number": 8313,
+   "speakers": [
+      "Carrie Anne Philbin"
+   ],
+   "tags": [
+      "online",
+      "tutorial"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/nwDq4adJwzM/0.jpg",
+   "title": "Crash Course Computer Science #10 : Early Programming",
+   "video": "https://youtube.com/watch?v=nwDq4adJwzM"
+},{
+   "duration": 712,
+   "edition": "",
+   "identifier": "crash-course:-computer-science--12",
+   "language": "English",
+   "level": 0,
+   "meeting": "Crash Course: Computer Science",
+   "number": 8314,
+   "speakers": [
+      "Carrie Anne Philbin"
+   ],
+   "tags": [
+      "online",
+      "tutorial"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/RU1u-js7db8/0.jpg",
+   "title": "Crash Course Computer Science #11 : The First Programming Languages",
+   "video": "https://youtube.com/watch?v=RU1u-js7db8"
+},{
+   "duration": 716,
+   "edition": "",
+   "identifier": "crash-course:-computer-science--13",
+   "language": "English",
+   "level": 0,
+   "meeting": "Crash Course: Computer Science",
+   "number": 8315,
+   "speakers": [
+      "Carrie Anne Philbin"
+   ],
+   "tags": [
+      "online",
+      "tutorial"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/l26oaHV7D40/0.jpg",
+   "title": "Crash Course Computer Science #12 : Programming Basics: Statements & Functions",
+   "video": "https://youtube.com/watch?v=l26oaHV7D40"
+},{
+   "duration": 704,
+   "edition": "",
+   "identifier": "crash-course:-computer-science--14",
+   "language": "English",
+   "level": 0,
+   "meeting": "Crash Course: Computer Science",
+   "number": 8316,
+   "speakers": [
+      "Carrie Anne Philbin"
+   ],
+   "tags": [
+      "online",
+      "tutorial"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/rL8X2mlNHPM/0.jpg",
+   "title": "Crash Course Computer Science #13 : Intro to Algorithms",
+   "video": "https://youtube.com/watch?v=rL8X2mlNHPM"
+},{
+   "duration": 606,
+   "edition": "",
+   "identifier": "crash-course:-computer-science--15",
+   "language": "English",
+   "level": 0,
+   "meeting": "Crash Course: Computer Science",
+   "number": 8317,
+   "speakers": [
+      "Carrie Anne Philbin"
+   ],
+   "tags": [
+      "online",
+      "tutorial"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/DuDz6B4cqVc/0.jpg",
+   "title": "Crash Course Computer Science #14 : Data Structures",
+   "video": "https://youtube.com/watch?v=DuDz6B4cqVc"
+},{
+   "duration": 784,
+   "edition": "",
+   "identifier": "crash-course:-computer-science--16",
+   "language": "English",
+   "level": 0,
+   "meeting": "Crash Course: Computer Science",
+   "number": 8318,
+   "speakers": [
+      "Carrie Anne Philbin"
+   ],
+   "tags": [
+      "online",
+      "tutorial"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/7TycxwFmdB0/0.jpg",
+   "title": "Crash Course Computer Science #15 : Alan Turing",
+   "video": "https://youtube.com/watch?v=7TycxwFmdB0"
+},{
+   "duration": 635,
+   "edition": "",
+   "identifier": "crash-course:-computer-science--17",
+   "language": "English",
+   "level": 0,
+   "meeting": "Crash Course: Computer Science",
+   "number": 8319,
+   "speakers": [
+      "Carrie Anne Philbin"
+   ],
+   "tags": [
+      "online",
+      "tutorial"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/O753uuutqH8/0.jpg",
+   "title": "Crash Course Computer Science #16 : Software Engineering",
+   "video": "https://youtube.com/watch?v=O753uuutqH8"
+},{
+   "duration": 829,
+   "edition": "",
+   "identifier": "crash-course:-computer-science--18",
+   "language": "English",
+   "level": 0,
+   "meeting": "Crash Course: Computer Science",
+   "number": 8320,
+   "speakers": [
+      "Carrie Anne Philbin"
+   ],
+   "tags": [
+      "online",
+      "tutorial"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/6-tKOHICqrI/0.jpg",
+   "title": "Crash Course Computer Science #17 : Integrated Circuits & Moore's Law",
+   "video": "https://youtube.com/watch?v=6-tKOHICqrI"
+},{
+   "duration": 815,
+   "edition": "",
+   "identifier": "crash-course:-computer-science--19",
+   "language": "English",
+   "level": 0,
+   "meeting": "Crash Course: Computer Science",
+   "number": 8321,
+   "speakers": [
+      "Carrie Anne Philbin"
+   ],
+   "tags": [
+      "online",
+      "tutorial"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/26QPDBe-NB8/0.jpg",
+   "title": "Crash Course Computer Science #18 : Operating Systems",
+   "video": "https://youtube.com/watch?v=26QPDBe-NB8"
+},{
+   "duration": 737,
+   "edition": "",
+   "identifier": "crash-course:-computer-science--20",
+   "language": "English",
+   "level": 0,
+   "meeting": "Crash Course: Computer Science",
+   "number": 8322,
+   "speakers": [
+      "Carrie Anne Philbin"
+   ],
+   "tags": [
+      "online",
+      "tutorial"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/TQCr9RV7twk/0.jpg",
+   "title": "Crash Course Computer Science #19 : Memory & Storage",
+   "video": "https://youtube.com/watch?v=TQCr9RV7twk"
+},{
+   "duration": 723,
+   "edition": "",
+   "identifier": "crash-course:-computer-science--21",
+   "language": "English",
+   "level": 0,
+   "meeting": "Crash Course: Computer Science",
+   "number": 8323,
+   "speakers": [
+      "Carrie Anne Philbin"
+   ],
+   "tags": [
+      "online",
+      "tutorial"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/KN8YgJnShPM/0.jpg",
+   "title": "Crash Course Computer Science #20 : Files & File Systems",
+   "video": "https://youtube.com/watch?v=KN8YgJnShPM"
+},{
+   "duration": 767,
+   "edition": "",
+   "identifier": "crash-course:-computer-science--22",
+   "language": "English",
+   "level": 0,
+   "meeting": "Crash Course: Computer Science",
+   "number": 8324,
+   "speakers": [
+      "Carrie Anne Philbin"
+   ],
+   "tags": [
+      "online",
+      "tutorial"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/OtDxDvCpPL4/0.jpg",
+   "title": "Crash Course Computer Science #21 : Compression",
+   "video": "https://youtube.com/watch?v=OtDxDvCpPL4"
+},{
+   "duration": 683,
+   "edition": "",
+   "identifier": "crash-course:-computer-science--23",
+   "language": "English",
+   "level": 0,
+   "meeting": "Crash Course: Computer Science",
+   "number": 8325,
+   "speakers": [
+      "Carrie Anne Philbin"
+   ],
+   "tags": [
+      "online",
+      "tutorial"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/4RPtJ9UyHS0/0.jpg",
+   "title": "Crash Course Computer Science #22 : Keyboards & Command Line Interfaces",
+   "video": "https://youtube.com/watch?v=4RPtJ9UyHS0"
+},{
+   "duration": 691,
+   "edition": "",
+   "identifier": "crash-course:-computer-science--24",
+   "language": "English",
+   "level": 0,
+   "meeting": "Crash Course: Computer Science",
+   "number": 8326,
+   "speakers": [
+      "Carrie Anne Philbin"
+   ],
+   "tags": [
+      "online",
+      "tutorial"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/7Jr0SFMQ4Rs/0.jpg",
+   "title": "Crash Course Computer Science #23 : Screens & 2D Graphics",
+   "video": "https://youtube.com/watch?v=7Jr0SFMQ4Rs"
+},{
+   "duration": 678,
+   "edition": "",
+   "identifier": "crash-course:-computer-science--25",
+   "language": "English",
+   "level": 0,
+   "meeting": "Crash Course: Computer Science",
+   "number": 8327,
+   "speakers": [
+      "Carrie Anne Philbin"
+   ],
+   "tags": [
+      "online",
+      "tutorial"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/m8i38Yq1wX4/0.jpg",
+   "title": "Crash Course Computer Science #24 : The Cold War and Consumerism",
+   "video": "https://youtube.com/watch?v=m8i38Yq1wX4"
+},{
+   "duration": 615,
+   "edition": "",
+   "identifier": "crash-course:-computer-science--26",
+   "language": "English",
+   "level": 0,
+   "meeting": "Crash Course: Computer Science",
+   "number": 8328,
+   "speakers": [
+      "Carrie Anne Philbin"
+   ],
+   "tags": [
+      "online",
+      "tutorial"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/M5BZou6C01w/0.jpg",
+   "title": "Crash Course Computer Science #25 : The Personal Computer Revolution",
+   "video": "https://youtube.com/watch?v=M5BZou6C01w"
+},{
+   "duration": 779,
+   "edition": "",
+   "identifier": "crash-course:-computer-science--27",
+   "language": "English",
+   "level": 0,
+   "meeting": "Crash Course: Computer Science",
+   "number": 8329,
+   "speakers": [
+      "Carrie Anne Philbin"
+   ],
+   "tags": [
+      "online",
+      "tutorial"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/XIGSJshYb90/0.jpg",
+   "title": "Crash Course Computer Science #26 : Graphical User Interfaces",
+   "video": "https://youtube.com/watch?v=XIGSJshYb90"
+},{
+   "duration": 760,
+   "edition": "",
+   "identifier": "crash-course:-computer-science--28",
+   "language": "English",
+   "level": 0,
+   "meeting": "Crash Course: Computer Science",
+   "number": 8330,
+   "speakers": [
+      "Carrie Anne Philbin"
+   ],
+   "tags": [
+      "online",
+      "tutorial"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/TEAtmCYYKZA/0.jpg",
+   "title": "Crash Course Computer Science #27 : 3D Graphics",
+   "video": "https://youtube.com/watch?v=TEAtmCYYKZA"
+},{
+   "duration": 739,
+   "edition": "",
+   "identifier": "crash-course:-computer-science--29",
+   "language": "English",
+   "level": 0,
+   "meeting": "Crash Course: Computer Science",
+   "number": 8331,
+   "speakers": [
+      "Carrie Anne Philbin"
+   ],
+   "tags": [
+      "online",
+      "tutorial"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/3QhU9jd03a0/0.jpg",
+   "title": "Crash Course Computer Science #28 : Computer Networks",
+   "video": "https://youtube.com/watch?v=3QhU9jd03a0"
+},{
+   "duration": 718,
+   "edition": "",
+   "identifier": "crash-course:-computer-science--30",
+   "language": "English",
+   "level": 0,
+   "meeting": "Crash Course: Computer Science",
+   "number": 8332,
+   "speakers": [
+      "Carrie Anne Philbin"
+   ],
+   "tags": [
+      "online",
+      "tutorial"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/AEaKrq3SpW8/0.jpg",
+   "title": "Crash Course Computer Science #29 : The Internet",
+   "video": "https://youtube.com/watch?v=AEaKrq3SpW8"
+},{
+   "duration": 696,
+   "edition": "",
+   "identifier": "crash-course:-computer-science--31",
+   "language": "English",
+   "level": 0,
+   "meeting": "Crash Course: Computer Science",
+   "number": 8333,
+   "speakers": [
+      "Carrie Anne Philbin"
+   ],
+   "tags": [
+      "online",
+      "tutorial"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/guvsH5OFizE/0.jpg",
+   "title": "Crash Course Computer Science #30 : The World Wide Web",
+   "video": "https://youtube.com/watch?v=guvsH5OFizE"
+},{
+   "duration": 749,
+   "edition": "",
+   "identifier": "crash-course:-computer-science--32",
+   "language": "English",
+   "level": 0,
+   "meeting": "Crash Course: Computer Science",
+   "number": 8334,
+   "speakers": [
+      "Carrie Anne Philbin"
+   ],
+   "tags": [
+      "online",
+      "tutorial"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/bPVaOlJ6ln0/0.jpg",
+   "title": "Crash Course Computer Science #31 : Cybersecurity",
+   "video": "https://youtube.com/watch?v=bPVaOlJ6ln0"
+},{
+   "duration": 712,
+   "edition": "",
+   "identifier": "crash-course:-computer-science--33",
+   "language": "English",
+   "level": 0,
+   "meeting": "Crash Course: Computer Science",
+   "number": 8335,
+   "speakers": [
+      "Carrie Anne Philbin"
+   ],
+   "tags": [
+      "online",
+      "tutorial"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/_GzE99AmAQU/0.jpg",
+   "title": "Crash Course Computer Science #32 : Hackers & Cyber Attacks",
+   "video": "https://youtube.com/watch?v=_GzE99AmAQU"
+},{
+   "duration": 753,
+   "edition": "",
+   "identifier": "crash-course:-computer-science--34",
+   "language": "English",
+   "level": 0,
+   "meeting": "Crash Course: Computer Science",
+   "number": 8336,
+   "speakers": [
+      "Carrie Anne Philbin"
+   ],
+   "tags": [
+      "online",
+      "tutorial"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/jhXCTbFnK8o/0.jpg",
+   "title": "Crash Course Computer Science #33 : Cryptography",
+   "video": "https://youtube.com/watch?v=jhXCTbFnK8o"
+},{
+   "duration": 711,
+   "edition": "",
+   "identifier": "crash-course:-computer-science--35",
+   "language": "English",
+   "level": 0,
+   "meeting": "Crash Course: Computer Science",
+   "number": 8337,
+   "speakers": [
+      "Carrie Anne Philbin"
+   ],
+   "tags": [
+      "online",
+      "tutorial"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/z-EtmaFJieY/0.jpg",
+   "title": "Crash Course Computer Science #34 : Machine Learning & Artificial Intelligence",
+   "video": "https://youtube.com/watch?v=z-EtmaFJieY"
+},{
+   "duration": 669,
+   "edition": "",
+   "identifier": "crash-course:-computer-science--36",
+   "language": "English",
+   "level": 0,
+   "meeting": "Crash Course: Computer Science",
+   "number": 8338,
+   "speakers": [
+      "Carrie Anne Philbin"
+   ],
+   "tags": [
+      "online",
+      "tutorial"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/-4E2-0sxVUM/0.jpg",
+   "title": "Crash Course Computer Science #35 : Computer Vision",
+   "video": "https://youtube.com/watch?v=-4E2-0sxVUM"
+},{
+   "duration": 709,
+   "edition": "",
+   "identifier": "crash-course:-computer-science--37",
+   "language": "English",
+   "level": 0,
+   "meeting": "Crash Course: Computer Science",
+   "number": 8339,
+   "speakers": [
+      "Carrie Anne Philbin"
+   ],
+   "tags": [
+      "online",
+      "tutorial"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/fOvTtapxa9c/0.jpg",
+   "title": "Crash Course Computer Science #36 : Natural Language Processing",
+   "video": "https://youtube.com/watch?v=fOvTtapxa9c"
+},{
+   "duration": 746,
+   "edition": "",
+   "identifier": "crash-course:-computer-science--38",
+   "language": "English",
+   "level": 0,
+   "meeting": "Crash Course: Computer Science",
+   "number": 8340,
+   "speakers": [
+      "Carrie Anne Philbin"
+   ],
+   "tags": [
+      "online",
+      "tutorial"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/3XkL0qQ21Oo/0.jpg",
+   "title": "Crash Course Computer Science #37 : Robots",
+   "video": "https://youtube.com/watch?v=3XkL0qQ21Oo"
+},{
+   "duration": 758,
+   "edition": "",
+   "identifier": "crash-course:-computer-science--39",
+   "language": "English",
+   "level": 0,
+   "meeting": "Crash Course: Computer Science",
+   "number": 8341,
+   "speakers": [
+      "Carrie Anne Philbin"
+   ],
+   "tags": [
+      "online",
+      "tutorial"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/DEHsvQ3Ylwg/0.jpg",
+   "title": "Crash Course Computer Science #38 : Psychology of Computing",
+   "video": "https://youtube.com/watch?v=DEHsvQ3Ylwg"
+},{
+   "duration": 712,
+   "edition": "",
+   "identifier": "crash-course:-computer-science--40",
+   "language": "English",
+   "level": 0,
+   "meeting": "Crash Course: Computer Science",
+   "number": 8342,
+   "speakers": [
+      "Carrie Anne Philbin"
+   ],
+   "tags": [
+      "online",
+      "tutorial"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/zTi3_l5h5PQ/0.jpg",
+   "title": "Crash Course Computer Science #39 : Educational Technology",
+   "video": "https://youtube.com/watch?v=zTi3_l5h5PQ"
+},{
+   "duration": 749,
+   "edition": "",
+   "identifier": "crash-course:-computer-science--41",
+   "language": "English",
+   "level": 0,
+   "meeting": "Crash Course: Computer Science",
+   "number": 8343,
+   "speakers": [
+      "Carrie Anne Philbin"
+   ],
+   "tags": [
+      "online",
+      "tutorial"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/5TNAz1HYg18/0.jpg",
+   "title": "Crash Course Computer Science #40 : The Singularity, Skynet, and the Future of Computing",
+   "video": "https://youtube.com/watch?v=5TNAz1HYg18"
+},{
    "duration": 1515,
    "edition": "2018",
    "identifier": "fosdem-2018-113",
@@ -39503,11 +40241,11 @@
 },{
    "duration": 3204,
    "edition": "2019",
-   "identifier": "goto-chicago-2019-26",
+   "identifier": "goto-chicago-2019-27",
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 6573,
+   "number": 6574,
    "speakers": [
       "Dave Karow"
    ],
@@ -44989,11 +45727,11 @@
 },{
    "duration": 3033,
    "edition": "2019",
-   "identifier": "goto-chicago-2019-27",
+   "identifier": "goto-chicago-2019-26",
    "language": "English",
    "level": 0,
    "meeting": "GOTO Chicago",
-   "number": 6574,
+   "number": 6573,
    "speakers": [
       "Heidi Helfand"
    ],
@@ -62722,6 +63460,159 @@
    "title": "Histogram support in MySQL 8.0",
    "video": "https://youtube.com/watch?v=vSLaTbTklZY"
 },{
+   "duration": 445,
+   "edition": "",
+   "identifier": "bbc-history-of-computers--1",
+   "language": "English",
+   "level": 0,
+   "meeting": "BBC History of Computers",
+   "number": 8294,
+   "speakers": [],
+   "tags": [
+      "history",
+      "lightning",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/6dME3wgaQpM/0.jpg",
+   "title": "History of Computers part 1 BBC Documentary",
+   "video": "https://youtube.com/watch?v=6dME3wgaQpM"
+},{
+   "duration": 591,
+   "edition": "",
+   "identifier": "bbc-history-of-computers--2",
+   "language": "English",
+   "level": 0,
+   "meeting": "BBC History of Computers",
+   "number": 8295,
+   "speakers": [],
+   "tags": [
+      "history",
+      "lightning",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/zPhZjOAMccU/0.jpg",
+   "title": "History of Computers part 2 BBC Documentary",
+   "video": "https://youtube.com/watch?v=zPhZjOAMccU"
+},{
+   "duration": 593,
+   "edition": "",
+   "identifier": "bbc-history-of-computers--3",
+   "language": "English",
+   "level": 0,
+   "meeting": "BBC History of Computers",
+   "number": 8296,
+   "speakers": [],
+   "tags": [
+      "history",
+      "lightning",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/8NEMUmOwHzU/0.jpg",
+   "title": "History of Computers part 3 BBC Documentary",
+   "video": "https://youtube.com/watch?v=8NEMUmOwHzU"
+},{
+   "duration": 565,
+   "edition": "",
+   "identifier": "bbc-history-of-computers--4",
+   "language": "English",
+   "level": 0,
+   "meeting": "BBC History of Computers",
+   "number": 8297,
+   "speakers": [],
+   "tags": [
+      "history",
+      "lightning",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/d4LVp2NiXIY/0.jpg",
+   "title": "History of Computers part 4 BBC Documentary",
+   "video": "https://youtube.com/watch?v=d4LVp2NiXIY"
+},{
+   "duration": 597,
+   "edition": "",
+   "identifier": "bbc-history-of-computers--5",
+   "language": "English",
+   "level": 0,
+   "meeting": "BBC History of Computers",
+   "number": 8298,
+   "speakers": [],
+   "tags": [
+      "history",
+      "lightning",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/P75baJbHloI/0.jpg",
+   "title": "History of Computers part 5 BBC Documentary",
+   "video": "https://youtube.com/watch?v=P75baJbHloI"
+},{
+   "duration": 595,
+   "edition": "",
+   "identifier": "bbc-history-of-computers--6",
+   "language": "English",
+   "level": 0,
+   "meeting": "BBC History of Computers",
+   "number": 8299,
+   "speakers": [],
+   "tags": [
+      "history",
+      "lightning",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/zKWQAXmpohY/0.jpg",
+   "title": "History of Computers part 6 BBC Documentary",
+   "video": "https://youtube.com/watch?v=zKWQAXmpohY"
+},{
+   "duration": 595,
+   "edition": "",
+   "identifier": "bbc-history-of-computers--7",
+   "language": "English",
+   "level": 0,
+   "meeting": "BBC History of Computers",
+   "number": 8300,
+   "speakers": [],
+   "tags": [
+      "history",
+      "lightning",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/jhvJtJg5g1s/0.jpg",
+   "title": "History of Computers part 7 BBC Documentary",
+   "video": "https://youtube.com/watch?v=jhvJtJg5g1s"
+},{
+   "duration": 571,
+   "edition": "",
+   "identifier": "bbc-history-of-computers--8",
+   "language": "English",
+   "level": 0,
+   "meeting": "BBC History of Computers",
+   "number": 8301,
+   "speakers": [],
+   "tags": [
+      "history",
+      "lightning",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/471wnn1y20A/0.jpg",
+   "title": "History of Computers part 8 BBC Documentary",
+   "video": "https://youtube.com/watch?v=471wnn1y20A"
+},{
+   "duration": 587,
+   "edition": "",
+   "identifier": "bbc-history-of-computers--9",
+   "language": "English",
+   "level": 0,
+   "meeting": "BBC History of Computers",
+   "number": 8302,
+   "speakers": [],
+   "tags": [
+      "history",
+      "lightning",
+      "live"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/ktZK7Nwpsj4/0.jpg",
+   "title": "History of Computers part 9 BBC Documentary",
+   "video": "https://youtube.com/watch?v=ktZK7Nwpsj4"
+},{
    "duration": 5452,
    "edition": "2017",
    "identifier": "accu-2017-33",
@@ -73410,7 +74301,7 @@
    "language": "English",
    "level": 0,
    "meeting": "",
-   "number": 8294,
+   "number": 8344,
    "speakers": [
       "Bob Nystrom"
    ],
@@ -123661,6 +124552,25 @@
    "thumbnail": "http://img.youtube.com/vi/fyndSsMxzEc/0.jpg",
    "title": "The Grand Challenge and Promise of Quantum Computing",
    "video": "https://youtube.com/watch?v=fyndSsMxzEc"
+},{
+   "duration": 3626,
+   "edition": "",
+   "identifier": "--2",
+   "language": "English",
+   "level": 0,
+   "meeting": "",
+   "number": 8345,
+   "speakers": [
+      "Colossus"
+   ],
+   "tags": [
+      "history",
+      "live",
+      "talk"
+   ],
+   "thumbnail": "http://img.youtube.com/vi/g2tMcMQqSbA/0.jpg",
+   "title": "The Greatest Secret in the History of Computing",
+   "video": "https://youtube.com/watch?v=g2tMcMQqSbA"
 },{
    "duration": 917,
    "edition": "2012",
