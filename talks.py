@@ -23,9 +23,10 @@
 #
 # notes & todo:
 # =============
+# add recent (2021, 2022) lists
+# add search in the quotes?
 # cleanup 'ignores' list (generate)
 # python cleanup
-# log all prints to a log file?
 # ADC++ (no playlists?)
 # Meetup Modena/Online 2021 - all italian?
 # javascript: try first write only the fixed text, then full rewrite                             
@@ -34,11 +35,11 @@
 # cppcast, like https://www.youtube.com/playlist?list=PL4Vigs1cksAYAVOKe3M1tRcDh4umLxIiX
 # https://hackingcpp.com/cpp/community.html
 # isocpp.org/wiki/faq/user-groups-worldwide - checked t/m canada, no playlists found
-# the GUI os getting sloooow
 # some code europe talks are in ? polish
 # SpringOne Platform has playlists, ~200 each
 # check https://www.aristeia.com/presentations.html
 # check https://andreasfertig.info/talks/
+# https://isocpp.org/wiki/faq/conferences-worldwide/s
 #
 # tutorials
 # ======================================================
@@ -52,7 +53,11 @@
 # https://www.youtube.com/watch?v=wN0x9eZLix4
 # https://www.youtube.com/watch?v=vLnPwxZdW4Y
 #
+# https://hackingcpp.com/cpp/community.html
+# https://www.youtube.com/playlist?list=PLIXq8kws1BI0j12JN1FoXzBfb-3v-0gLX
+#
 # C++weekly, cppcast, cppchat
+# fosdem 2021 realy that few?
 #
 # ===========================================================================
 
@@ -101,7 +106,7 @@ replacements = {
     "Ż": "Z",
     "ô": "o",
     "️": "^", "⬆": "", # ⬆️
-    "x": "x",
+    "❤": "loves",
     "x": "x",
     "x": "x",
     "x": "x",
@@ -514,12 +519,12 @@ missing_speakers = [
         "Sebastian Theophil" ],  
     [ "rand() Considered Harmful",
         "Stephan T. Lavavej" ],  
-    [ "",
-        "" ],  
-    [ "",
-        "" ],  
-    [ "",
-        "" ],  
+    [ "Back To Basics: Overload Resolution",
+        "Ansel Sermersheim, Barbara Geller" ],  
+    [ "cudaFlow: Modern C++ Programming Model for GPU Task Graph Parallelism",
+        "Tsung-Wei, Dian-Lun Lin" ],  
+    [ "I Wrote a C++ REPL in 20 Lines of Code - And so can you!",
+        "Ben Brock" ],  
     [ "",
         "" ],  
     [ "",
@@ -785,6 +790,18 @@ must_total_replace = [
         "C++Tutorial for Beginners 42 - Reversing a String (Inter$remove$view Question!)" ],    
     [ "Neotron - Writing a Single-Tasking ‘DOS' for Arm Microcontrollers, in Rust Jonathan Pallant  ACCU 22",
         "Neotron - Writing a Single-Tasking ‘DOS' for Arm Microcontrollers in Rust - Jonathan Pallant - ACCU 22" ],    
+    [ "SIMD in C++20: eve of a new era - Joel Falcou & Denis Yaroshevskiy",
+        "Joel Falcou & Denis Yaroshevskiy : SIMD in C++20: eve of a new era" ],    
+    [ "C++20 coroutines as an API principle - Marc Mutz - Meeting C++ 2021",
+        "Marc Mutz : C++20 coroutines as an API principle" ],    
+    [ "Introduction to memory exploitation - Patricia Aas - Meeting C++ 2021",
+        "Patricia Aas : Introduction to memory exploitation" ],    
+    [ "++namedtuple: Python style Named Tuples in C++20 - Kris Jusiak - Meeting C++ 2021",
+        "Kris Jusiak : ++namedtuple: Python style Named Tuples in C++20" ],    
+    [ "",
+        "" ],    
+    [ "",
+        "" ],    
     [ "",
         "" ],    
     [ "",
@@ -1208,7 +1225,7 @@ def split_ts( meeting, edition, s ):
         title, speakers  = s.rsplit( ":", 1 )
     else:      
         print( "========== split_ts can't split [%s]" % s )
-        title, speakers  = "", ""   
+        title, speakers  = s, ""   
        
     return speakers, title   
    
@@ -1539,6 +1556,7 @@ def split_speakers_and_title( meeting, edition, s, splitter ):
         "Lightning Talks",
         "lightning talks",
         "Meeting C++ 2020",
+        "Meeting C++ 2021",
         "Meeting Embedded 2018",
         "- Meeting Embedded 2020",
         "C++Now 2015",
@@ -1569,7 +1587,11 @@ def split_speakers_and_title( meeting, edition, s, splitter ):
         "CppCon 2019:",
         "CppCon 2019",
         "CppCon 2020",
+        "- CppCon 2021",
+        "-  CppCon 2021",
         "CppCon 20",
+        "- CppCon 21",
+        "- CppCon21",
         "[CppIndiaCon 2021]",
         "Pacific++ 2017:",
         "Pacific++ 2018:",
@@ -1641,6 +1663,8 @@ def split_speakers_and_title( meeting, edition, s, splitter ):
         "FOSDEM 2017 - ",
         "FOSDEM 2017: ",
         "FOSDEM - ",
+        "- FOSDEM 2021",
+        "- FOSDEM21",
         "emBO++ 2019 - ",
         "emBO++ 2020 - ",
         "emBO++ 21 - ",
@@ -2115,6 +2139,7 @@ playlists = [
         [ "2018", [[ "PLHTh1InhhwT6V9RVdFRoCG_Pm5udDxG1c", split_sqt,   "l+"  ]]],
         [ "2019", [[ "PLHTh1InhhwT6KhvViwRiTR7I5s09dLCSw", split_sqt,   "l+"  ]]],
         [ "2020", [[ "PLHTh1InhhwT6VxYHtoWIvOup9gz0p95Qr", split_ts,    "o+"  ]]],
+        [ "2021", [[ "PLHTh1InhhwT6bY4nS4p7f5b_754myC3ze", split_ts,    "l+"  ]]],
     ]], [ "CPPP", [ 
         # no playlist
     ]], [ "Dutch C++ Group", [ 
@@ -2153,6 +2178,7 @@ playlists = [
                  # [ "PL5Ld68ole7j3GCPJCXNIcOc4KaBfBRGr6", split_t,     "lg"   ]]], # duplicates
                  # [ "PLr3Ro-iL61xZ8-97TWuqUszNVE-gTQd0I", split_t,     "l5"   ]]], # duplicates
         [ "2020", [[ "PL_QKjHDgmNzp7DA4KIR4qC-bjIVDlYdkk", split_t,     "l"   ]]],
+        [ "2021", [[ "PLaJ5BwLUdDZ-JQME9xbO2UD3uvBXnizM1", split_ts,    "o"   ]]],
     ]], [ "Going Native", [
         [ "2012", [[ "PLGvfHSgImk4aSCKMmnDl8ZXwL2CY6g8lH", split_st,    "l+"  ]]],
         [ "2013", [[ "PLD0gpuCC5_-kVh4Kvr6DfNJ3cBkxiKw1Q", split_st,    "l+"  ]]],
@@ -2192,11 +2218,13 @@ playlists = [
         [ "2019", [[ "PLRyNF2Y6sca27wjBvjc5yg3F1QqZgazKb", split_ts,    "l+"  ],
                    [ "PLRyNF2Y6sca1nKqNGjafqpTke8RmvZIji", split_ts,    "l+"  ]]],
         [ "2020", [[ "PLRyNF2Y6sca0hXu0FG-5SP3lTI-g7srMW", split_st,    "o+"  ]]],
+        [ "2021", [[ "PLRyNF2Y6sca1IY8wvpIQ8t2gQ49ncgwkr", split_st,    "o+"  ]]],
     ]], [ "Meeting C++ online", [ 
         [ "",     [[ "PLRyNF2Y6sca0J0CQje0ulSSPTaYkNE5yp", split_st,    "o+"  ]]],
     ]], [ "Meeting Embedded", [ 
         [ "2018", [[ "PLRyNF2Y6sca0eWtRoUIOW_5wVcghtm9rI", split_ts,    "le"  ]]],
         [ "2020", [[ "PLRyNF2Y6sca3HLKGGixEdBhYHNf0Z0ZPe", split_st,    "oe"  ]]],   
+        [ "2021", [[ "PLRyNF2Y6sca2LYbnrutsrNmR1zDSFFfGy", split_st,    "oe"  ]]],   
     ]], [ "MUC++", [ 
         [ "",      [[ "PLOqQEh8zIeoBH4gOJM9uZveUMW-uNmty8", split_st,   "l+"  ],   # normal
                     [ "PLO_1k6dh05Q_0yeJETerhbL6GlHsAt5RQ", split_st,   "l+"  ],   # lightning talks
@@ -2213,6 +2241,8 @@ playlists = [
     ]], [ "Pacific C++", [ 
         [ "2017", [[ "PLd4OrpVodmxUf6WsIJhb2KvYaq9RBuIr3", split_sqt,   "l+"  ]]],
         [ "2018", [[ "PLd4OrpVodmxUCBpzlkPYsiP9hOtLFpAjk", split_sqt,   "l+"  ]]],
+    ]], [ "Pure Virtual C++", [ 
+        [ "2022", [[ "PLlrxD0HtieHgeA2C5XXCeoo04keztrREX", split_t,     "o+"  ]]],
     ]], [ "RustConf", [
         [ "2019", [[ "PL85XCvVPmGQhDOUIZBe6u388GydeACbTt", split_by,    "ro"  ]]],
         [ "2020", [[ "PL85XCvVPmGQijqvMcMBfYAwExx1eBu1Ei", split_by,    "ro"  ]]],
@@ -2499,7 +2529,7 @@ function rewrite(){
     t += "<H1>CTL: C++ (and Rust, embedded, ...) Talks List</H1>"
     t += "Last updated " + date_and_time + ".<BR/>"
     t += "Compiled by Wouter van Ooijen (wouter@voti.nl).<BR>"
-    t += "Script & raw data available from "
+    t += "Generation script & raw data available from "
     t += "<A HREF=https://www.github.com/wovo/ctl>"
     t += "www.github.com/wovo/ctl</A>.<P>"
     t += "This is a list of talks about C++, Rust, embedded "
