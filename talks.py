@@ -101,12 +101,14 @@ replacements = {
     "≡": "==",     "💻": "[PC]",  "å": "a",      "ņ": "n",      "🎨": "[Palette]", 
     "è": "e",      "ê": "e",      "ę": "e",      "ā": "a",      "Ø": "{nothing}",
     "Æ": "AE",     "…": "...",    "♥": "[love]", '\u200b': "",  '\u2212': "-",
-    '\u0391': "A",
-    "Ś": "S",
-    "Ż": "Z",
-    "ô": "o",
-    "️": "^", "⬆": "", # ⬆️
-    "❤": "loves",
+    "Ś": "S",      "Ż": "Z",      "ô": "o",      "ã": "a",      "❤": "loves",
+    "ã": "a",      "️": "^",       '\u0391': "A", "ú": "u",      "⬆": "", # ⬆️ 
+    "ú": "u",      "❤": "loves",
+    "x": "x",
+    "x": "x",
+    "x": "x",
+    "x": "x",
+    "x": "x",
     "x": "x",
     "x": "x",
     "x": "x",
@@ -798,6 +800,38 @@ must_total_replace = [
         "Patricia Aas : Introduction to memory exploitation" ],    
     [ "++namedtuple: Python style Named Tuples in C++20 - Kris Jusiak - Meeting C++ 2021",
         "Kris Jusiak : ++namedtuple: Python style Named Tuples in C++20" ],    
+    [ "Technical Speaking about C++",
+        "panel : Technical Speaking about C++" ],    
+    [ "Stop working on your slides - Andrei Alexandrescu",
+        "Andrei Alexandrescu - Stop working on your slides" ],    
+    [ "A live demo about giving live demos - Chandler Carruth",
+        "Chandler Carruth - A live demo about giving live demos" ],    
+    [ "Doing Research For Talks With Zettelkasten (and some tools) - Hendrik Niemeyer",
+        "Hendrik Niemeyer - Doing Research For Talks With Zettelkasten (and some tools)" ],    
+    [ "Hubilo 101 - Meeting C++ online hosting platform",
+        "Jens Weller - Hubilo 101 - Meeting C++ online hosting platform" ],    
+    [ "Presenting Code - Jens Weller",
+        "Jens Weller - Presenting Code" ],    
+    [ "Design of a C++ reflection API - Matus Chochlik - Meeting C++ online",
+        "Matus Chochlik - Design of a C++ reflection API" ],    
+    [ "CppCon Lightning talk - one year of Meeting C++ online",
+        "Jens Weller - CppCon Lightning talk - one year of Meeting C++ online" ],    
+    [ "Meeting C++ online tool fair - SonarSource intro",
+        "Brain Cipollone - SonarSource intro" ],    
+    [ "But I have nothing to talk about! - Tina Ulbrich",
+        "Tina Ulbrich - But I have nothing to talk about!" ],    
+    [ "const and constexpr - Rainer Grimm - Meeting C++ online",
+        "Rainer Grimm - const and constexpr" ],    
+    [ "Distilling Your Message - Inbal Levi",
+        "Inbal Levi - Distilling Your Message" ],    
+    [ "ODPi - Making Data Better",
+        "ODPi - Making Data Better - Mandy Chessell" ],    
+    [ "Time Travel: Applying Gradual Typing to Time Types with Clang's LibTooling  Hyrum Wright CppCon 2019",
+        "Time Travel: Applying Gradual Typing to Time Types with Clang's LibTooling - Hyrum Wright" ],    
+    [ "01 Welcome to the Perl devroom! Claudio Ramirez, Wendy G A  van Dijk",
+        "Claudio Ramirez, Wendy G A van Dijk - Welcome to the Perl devroom!" ],    
+    [ "Will Your Code Survive the Attack of the Zombie Pointers? - Wong, McKenney, Michael - CppCon 2019",
+        "Will Your Code Survive the Attack of the Zombie Pointers? - Michael Wong, Paul E.McKenney, Maged Michael - CppCon 2019" ],    
     [ "",
         "" ],    
     [ "",
@@ -966,7 +1000,9 @@ speaker_replacements = [
     [ "Jefferey",                     "Clinton Jefferey" ],
     [ "Gaunard",                      "Mathias Gaunard" ],
     [ "Sean Parent's",                "Sean Parent" ],
+    [ "B. Geller",                    "Barbara Geller" ],
     [ "Geller",                       "Barbara Geller" ],
+    [ "A. Sermersheim",               "Ansel Sermersheim" ],
     [ "Sermersheim",                  "Ansel Sermersheim" ],
     [ "Goodspeed",                    "Nat Goodspeed" ],
     [ "J H",                          "Daniel J H" ],
@@ -1032,6 +1068,7 @@ speaker_replacements = [
     [ "Fran Buontempo",               "Frances Buontempo" ],
     [ "Felipe Almeida",               "Feliple Magno de Almeida" ],
     [ "G. Nishanov",                  "Gor Nishanov" ],
+    [ "Ga Dos Reis",                  "Gabriel Dos Reis" ],
     [ "Gaby Dos Reis",                "Gabriel Dos Reis" ],
     [ "J Daniel Garcia",              "J. Daniel Garcia" ],
     [ "Wouter Van Ooijen",            "Wouter van Ooijen" ],
@@ -1078,7 +1115,7 @@ speaker_replacements = [
     [ "T. Winters",                   "Titus Winters" ],
     [ "Stephan T. Lavavej",           "Stephan Lavavej" ],
     [ "Billy ONeal",                  "Billy O'Neal" ],
-    [ "",                             "" ],
+    [ "To Allsopp",                   "Toby Allsopp" ],
     [ "",                             "" ],
     [ "",                             "" ],
     [ "",                             "" ],
@@ -1827,6 +1864,9 @@ def make_talk(
         "python",
         "lua",
         "risc-v",
+        "concepts",
+        "embedded",
+        "c#"
     ]:
         if c in w:
             if not c in tags: 
@@ -1845,6 +1885,7 @@ def make_talk(
             '$' : "perl",
             '5' : "risc-v",
             't' : "tutorial",
+            '#' : "c#",
         }[ c ]
         if not t in tags: 
             tags.append( t )
@@ -1947,6 +1988,21 @@ excluded_talks = [
     "emBO++ 2020 Aftermovie",
     "Code Europe III Edition Autumn 2017 Aftermovie",
     "Code Europe II Edition Spring 2017",
+    "ftvUJOMMUIg",
+    "V7udELlabkI",
+    "HhKU2DkKiCg",
+    "gA8ZFRzVs4M",
+    "Wl86H8xS45g",
+    "FzLNnd1q7CM",
+    "BJ8ah2QkCDA",
+    "h6FvKWkPt8w",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
     "",
     "",
     "",
@@ -1995,7 +2051,10 @@ def add_or_retrieve_talk(
             pickle.dump( talk, open( file_name, "wb" ) )             
             
     if talk != None:        
-        if 0: print( "   maybe exclude [%s]" % talk.title )
+        if 0: 
+            print( "   maybe exclude %d[%s] %d[%s]" 
+                % ( talk.yid in excluded_talks, talk.yid,  
+                talk.title in excluded_talks, talk.title ) )
         if not (
             ( talk.title in excluded_talks ) 
             or ( talk.yid in excluded_talks )
@@ -3243,8 +3302,8 @@ quotes = [
         "should, it's a program that does work when it shouldn't. "
         "(Bob Archer)",
     "It's not reality's job to satisfy our egos.",
-    "Enthusiasm, Disillusionment, Panic, Search for the Guilty "
-        "Punishment of the Innocent, Praise for non-participants",
+    "Enthusiasm, Disillusionment, Panic, Search for the Guilty, "
+        "Punishment of the Innocent, Praise for non-participants.",
     "Sufficiently advanced incompetence is indistinguishable from malice.",
     "Real computer scientists despise the idea of actual hardware. "
         "Hardware has limitations, software doesn't. It's a real shame "
@@ -3564,6 +3623,13 @@ quotes = [
     "The customer is often wrong.",
     "Stupidity is causing loss to others without gain for yourself "
         "(Carlo Cipolla)",
+    "Program testing can be used to show the presence of bugs, "
+        "but never to show their absence! (Edsger W. Dijkstra)",
+    "",
+    "",
+    "",
+    "",
+    "",
     "",
     "",
     "",
