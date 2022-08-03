@@ -527,8 +527,8 @@ missing_speakers = [
         "Tsung-Wei, Dian-Lun Lin" ],  
     [ "I Wrote a C++ REPL in 20 Lines of Code - And so can you!",
         "Ben Brock" ],  
-    [ "",
-        "" ],  
+    [ "C++ Programming All-in-One Tutorial Series (10 HOURS!)",
+        "Caleb Curry" ],  
     [ "",
         "" ],  
     [ "",
@@ -1723,6 +1723,7 @@ def split_speakers_and_title( meeting, edition, s, splitter ):
         "2013 :",
         "2013 ", # C++Now
         "2016", # also C++Now
+        " - CppNorth 2022",
     ]:
         s = s.replace( x, "" )      
        
@@ -2199,6 +2200,10 @@ playlists = [
         [ "2019", [[ "PLHTh1InhhwT6KhvViwRiTR7I5s09dLCSw", split_sqt,   "l+"  ]]],
         [ "2020", [[ "PLHTh1InhhwT6VxYHtoWIvOup9gz0p95Qr", split_ts,    "o+"  ]]],
         [ "2021", [[ "PLHTh1InhhwT6bY4nS4p7f5b_754myC3ze", split_ts,    "l+"  ]]],
+        # as yet, no cppcon 2022 playlist
+    ]], [ "CppNorth", [ 
+        # currently only 1 entry
+        [ "2022", [[ "PLpGV-BujcAKFVCWOBj2548vuxJ1lV5w6-", split_ts,    "l+"  ]]],
     ]], [ "CPPP", [ 
         # no playlist
     ]], [ "Dutch C++ Group", [ 
@@ -2320,6 +2325,8 @@ playlists = [
         [ "",     [[ "PL1331A4548513EA81",                 split_t,     "lh" ]]],
     ]], [ "Crash Course: Computer Science", [
         [ "",     [[ "PLH2l6uzC4UEW0s7-KewFLBC1D0l6XRfye", split_cap,   "ot" ]]],
+    ]], [ "C++ Programming All-in-One Tutorial Series", [
+        [ "",     [[ "_bYFu9mBnr4",                        split_t,     "ot" ]]],
     ]], [ "", [ 
         [ "",     [[ "JxI3Eu5DPwE",                        split_st,    "l"   ],   # Nystrom
                    [ "g2tMcMQqSbA",                        split_t,     "lh"  ]]],   # Colossus
