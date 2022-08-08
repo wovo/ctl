@@ -3632,7 +3632,10 @@ quotes = [
         "(Carlo Cipolla)",
     "Program testing can be used to show the presence of bugs, "
         "but never to show their absence! (Edsger W. Dijkstra)",
-    "",
+    "Alledgedly, the novelty of being research subjects and the increased "
+        "attention from such could lead to temporary increases "
+        "in workers' productivity "
+        "(Hawthorne effect/blip, according to Landsberger)",
     "",
     "",
     "",
